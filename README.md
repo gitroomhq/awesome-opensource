@@ -1,7 +1,11 @@
 
 <h1>Awesome open-source libraries voted by members 🎤</h1>
 <p>Awesome list of open-source libraries, maintained by <a href="https://libraries.github20k.com">GitHub20k</a></p>
-
+<h2>How it works?</h2>
+<p>Every 5 hours a cron job runs over GitHub20k library list and update the GitHub list</p>
+<h2>How to add your library?</h2>
+<p>Simple go to <a href="https://libraries.github20k.com">GitHub20k</a> and click on the "Add your library" button</p>
+<h2>Trending list</h2>
 <table>
     <tr>
         <th>#</th>
