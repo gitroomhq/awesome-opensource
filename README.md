@@ -127,7 +127,7 @@
         <th>Language</th>
         <th>Name</th>
         <th>Description</th>
-        <th>GitHub-Stars</th>
+        <th>Stargazers</th>
     </tr>
         <tr>
         <td nowrap="nowrap"><img width="33" alt="Novu" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-novu-2.png" /></td>
@@ -942,7 +942,7 @@
         <th>Language</th>
         <th>Name</th>
         <th>Description</th>
-        <th>GitHub-Stars</th>
+        <th>Stargazers</th>
     </tr>
         <tr>
         <td nowrap="nowrap"><img width="33" alt="GitHub Support" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-dmca.png" /></td>
@@ -996,7 +996,7 @@
         <th>Language</th>
         <th>Name</th>
         <th>Description</th>
-        <th>GitHub-Stars</th>
+        <th>Stargazers</th>
     </tr>
         <tr>
         <td nowrap="nowrap"><img width="33" alt="Konva.js - JavaScript 2d canvas library" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-react-konva.png" /></td>
@@ -1138,7 +1138,7 @@
         <th>Language</th>
         <th>Name</th>
         <th>Description</th>
-        <th>GitHub-Stars</th>
+        <th>Stargazers</th>
     </tr>
         <tr>
         <td nowrap="nowrap"><img width="33" alt="Github 20k" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-super-star-1.png" /></td>
@@ -1784,7 +1784,7 @@
         <th>Language</th>
         <th>Name</th>
         <th>Description</th>
-        <th>GitHub-Stars</th>
+        <th>Stargazers</th>
     </tr>
         <tr>
         <td nowrap="nowrap"><img width="33" alt="OneFlow" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-oneflow.png" /></td>
@@ -1870,7 +1870,7 @@
         <th>Language</th>
         <th>Name</th>
         <th>Description</th>
-        <th>GitHub-Stars</th>
+        <th>Stargazers</th>
     </tr>
         <tr>
         <td nowrap="nowrap"><img width="33" alt="PrivateBin" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-PrivateBin.png" /></td>
@@ -2060,7 +2060,7 @@
         <th>Language</th>
         <th>Name</th>
         <th>Description</th>
-        <th>GitHub-Stars</th>
+        <th>Stargazers</th>
     </tr>
         <tr>
         <td nowrap="nowrap"><img width="33" alt="The Lounge" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-thelounge.png" /></td>
@@ -2258,7 +2258,7 @@
         <th>Language</th>
         <th>Name</th>
         <th>Description</th>
-        <th>GitHub-Stars</th>
+        <th>Stargazers</th>
     </tr>
         <tr>
         <td nowrap="nowrap"><img width="33" alt="Novu" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-novu-2.png" /></td>
@@ -2280,7 +2280,7 @@
         <th>Language</th>
         <th>Name</th>
         <th>Description</th>
-        <th>GitHub-Stars</th>
+        <th>Stargazers</th>
     </tr>
         <tr>
         <td nowrap="nowrap"><img width="33" alt="Setup Falcon SQL Client" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-falcon.png" /></td>
@@ -2446,7 +2446,7 @@
         <th>Language</th>
         <th>Name</th>
         <th>Description</th>
-        <th>GitHub-Stars</th>
+        <th>Stargazers</th>
     </tr>
         <tr>
         <td nowrap="nowrap"><img width="33" alt="ClusterFuzz" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-clusterfuzz.png" /></td>
@@ -3133,7 +3133,7 @@
         <th>Language</th>
         <th>Name</th>
         <th>Description</th>
-        <th>GitHub-Stars</th>
+        <th>Stargazers</th>
     </tr>
         <tr>
         <td nowrap="nowrap"><img width="33" alt="Novu" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-novu-2.png" /></td>
@@ -3451,7 +3451,7 @@
         <th>Language</th>
         <th>Name</th>
         <th>Description</th>
-        <th>GitHub-Stars</th>
+        <th>Stargazers</th>
     </tr>
         <tr>
         <td nowrap="nowrap"><img width="33" alt="awesome window manager" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-awesome.png" /></td>
@@ -3489,7 +3489,7 @@
         <th>Language</th>
         <th>Name</th>
         <th>Description</th>
-        <th>GitHub-Stars</th>
+        <th>Stargazers</th>
     </tr>
         <tr>
         <td nowrap="nowrap"><img width="33" alt="ClusterFuzz" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-clusterfuzz.png" /></td>
@@ -3695,7 +3695,7 @@
         <th>Language</th>
         <th>Name</th>
         <th>Description</th>
-        <th>GitHub-Stars</th>
+        <th>Stargazers</th>
     </tr>
         <tr>
         <td nowrap="nowrap"><img width="33" alt="VS Code Docs" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-vscode-docs.png" /></td>
@@ -3725,7 +3725,7 @@
         <th>Language</th>
         <th>Name</th>
         <th>Description</th>
-        <th>GitHub-Stars</th>
+        <th>Stargazers</th>
     </tr>
         <tr>
         <td nowrap="nowrap"><img width="33" alt="PrivateBin" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-PrivateBin.png" /></td>
@@ -3851,7 +3851,7 @@
         <th>Language</th>
         <th>Name</th>
         <th>Description</th>
-        <th>GitHub-Stars</th>
+        <th>Stargazers</th>
     </tr>
         <tr>
         <td nowrap="nowrap"><img width="33" alt="Soundnode" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-soundnode-app.png" /></td>
@@ -4065,7 +4065,7 @@
         <th>Language</th>
         <th>Name</th>
         <th>Description</th>
-        <th>GitHub-Stars</th>
+        <th>Stargazers</th>
     </tr>
         <tr>
         <td nowrap="nowrap"><img width="33" alt="OneFlow" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-oneflow.png" /></td>
@@ -4239,7 +4239,7 @@
         <th>Language</th>
         <th>Name</th>
         <th>Description</th>
-        <th>GitHub-Stars</th>
+        <th>Stargazers</th>
     </tr>
         <tr>
         <td nowrap="nowrap"><img width="33" alt="Elvish Shell" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-elvish.jpg" /></td>
@@ -4541,7 +4541,7 @@
         <th>Language</th>
         <th>Name</th>
         <th>Description</th>
-        <th>GitHub-Stars</th>
+        <th>Stargazers</th>
     </tr>
         <tr>
         <td nowrap="nowrap"><img width="33" alt="SagerNet/SagerNet" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-SagerNet.png" /></td>
@@ -4627,7 +4627,7 @@
         <th>Language</th>
         <th>Name</th>
         <th>Description</th>
-        <th>GitHub-Stars</th>
+        <th>Stargazers</th>
     </tr>
         <tr>
         <td nowrap="nowrap"><img width="33" alt="Materialize" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-materialize.png" /></td>
@@ -4697,7 +4697,7 @@
         <th>Language</th>
         <th>Name</th>
         <th>Description</th>
-        <th>GitHub-Stars</th>
+        <th>Stargazers</th>
     </tr>
         <tr>
         <td nowrap="nowrap"><img width="33" alt="Danger" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-danger.png" /></td>
@@ -4751,7 +4751,7 @@
         <th>Language</th>
         <th>Name</th>
         <th>Description</th>
-        <th>GitHub-Stars</th>
+        <th>Stargazers</th>
     </tr>
         <tr>
         <td nowrap="nowrap"><img width="33" alt="OctoLinker" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-OctoLinker.png" /></td>
@@ -4797,7 +4797,7 @@
         <th>Language</th>
         <th>Name</th>
         <th>Description</th>
-        <th>GitHub-Stars</th>
+        <th>Stargazers</th>
     </tr>
         <tr>
         <td nowrap="nowrap"><img width="33" alt="Drools" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-drools.png" /></td>
@@ -4963,7 +4963,7 @@
         <th>Language</th>
         <th>Name</th>
         <th>Description</th>
-        <th>GitHub-Stars</th>
+        <th>Stargazers</th>
     </tr>
         <tr>
         <td nowrap="nowrap"><img width="33" alt="Flutter Gallery" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-gallery.png" /></td>
@@ -4985,7 +4985,7 @@
         <th>Language</th>
         <th>Name</th>
         <th>Description</th>
-        <th>GitHub-Stars</th>
+        <th>Stargazers</th>
     </tr>
         <tr>
         <td nowrap="nowrap"><img width="33" alt="Prometheus Operator" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-kube-prometheus.png" /></td>
@@ -5007,7 +5007,7 @@
         <th>Language</th>
         <th>Name</th>
         <th>Description</th>
-        <th>GitHub-Stars</th>
+        <th>Stargazers</th>
     </tr>
         <tr>
         <td nowrap="nowrap"><img width="33" alt="re-frame" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-re-frame.png" /></td>
@@ -5029,7 +5029,7 @@
         <th>Language</th>
         <th>Name</th>
         <th>Description</th>
-        <th>GitHub-Stars</th>
+        <th>Stargazers</th>
     </tr>
         <tr>
         <td nowrap="nowrap"><img width="33" alt="MudBlazor" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-MudBlazor.png" /></td>
@@ -5107,7 +5107,7 @@
         <th>Language</th>
         <th>Name</th>
         <th>Description</th>
-        <th>GitHub-Stars</th>
+        <th>Stargazers</th>
     </tr>
         <tr>
         <td nowrap="nowrap"><img width="33" alt="AdAway" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-AdAway.png" /></td>
@@ -5185,7 +5185,7 @@
         <th>Language</th>
         <th>Name</th>
         <th>Description</th>
-        <th>GitHub-Stars</th>
+        <th>Stargazers</th>
     </tr>
         <tr>
         <td nowrap="nowrap"><img width="33" alt="Discord Developer Portal" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-discord-api-docs.png" /></td>
@@ -5207,7 +5207,7 @@
         <th>Language</th>
         <th>Name</th>
         <th>Description</th>
-        <th>GitHub-Stars</th>
+        <th>Stargazers</th>
     </tr>
         <tr>
         <td nowrap="nowrap"><img width="33" alt="Remix Icon" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-RemixIcon.png" /></td>
@@ -5229,7 +5229,7 @@
         <th>Language</th>
         <th>Name</th>
         <th>Description</th>
-        <th>GitHub-Stars</th>
+        <th>Stargazers</th>
     </tr>
         <tr>
         <td nowrap="nowrap"><img width="33" alt="CotEditor" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-CotEditor.png" /></td>
@@ -5259,7 +5259,7 @@
         <th>Language</th>
         <th>Name</th>
         <th>Description</th>
-        <th>GitHub-Stars</th>
+        <th>Stargazers</th>
     </tr>
         <tr>
         <td nowrap="nowrap"><img width="33" alt="BEM" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-getbem.github.io_.png" /></td>
@@ -5281,7 +5281,7 @@
         <th>Language</th>
         <th>Name</th>
         <th>Description</th>
-        <th>GitHub-Stars</th>
+        <th>Stargazers</th>
     </tr>
         <tr>
         <td nowrap="nowrap"><img width="33" alt="OWASP Security Guide" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-wstg.jpg" /></td>
@@ -5303,7 +5303,7 @@
         <th>Language</th>
         <th>Name</th>
         <th>Description</th>
-        <th>GitHub-Stars</th>
+        <th>Stargazers</th>
     </tr>
         <tr>
         <td nowrap="nowrap"><img width="33" alt="the Guardian" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-frontend.png" /></td>
@@ -5357,7 +5357,7 @@
         <th>Language</th>
         <th>Name</th>
         <th>Description</th>
-        <th>GitHub-Stars</th>
+        <th>Stargazers</th>
     </tr>
         <tr>
         <td nowrap="nowrap"><img width="33" alt="CKEditor 4" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-ckeditor4.png" /></td>
@@ -5379,7 +5379,7 @@
         <th>Language</th>
         <th>Name</th>
         <th>Description</th>
-        <th>GitHub-Stars</th>
+        <th>Stargazers</th>
     </tr>
         <tr>
         <td nowrap="nowrap"><img width="33" alt="Supabase" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-realtime.png" /></td>
@@ -5401,7 +5401,7 @@
         <th>Language</th>
         <th>Name</th>
         <th>Description</th>
-        <th>GitHub-Stars</th>
+        <th>Stargazers</th>
     </tr>
         <tr>
         <td nowrap="nowrap"><img width="33" alt="Linux Kernel Guide" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-lkmpg.jpg" /></td>
@@ -5423,7 +5423,7 @@
         <th>Language</th>
         <th>Name</th>
         <th>Description</th>
-        <th>GitHub-Stars</th>
+        <th>Stargazers</th>
     </tr>
         <tr>
         <td nowrap="nowrap"><img width="33" alt="It's Magit!" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-magit.png" /></td>
@@ -5453,7 +5453,7 @@
         <th>Language</th>
         <th>Name</th>
         <th>Description</th>
-        <th>GitHub-Stars</th>
+        <th>Stargazers</th>
     </tr>
         <tr>
         <td nowrap="nowrap"><img width="33" alt="PIVPN" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-pivpn.png" /></td>
@@ -5483,7 +5483,7 @@
         <th>Language</th>
         <th>Name</th>
         <th>Description</th>
-        <th>GitHub-Stars</th>
+        <th>Stargazers</th>
     </tr>
         <tr>
         <td nowrap="nowrap"><img width="33" alt="ReScript Documentation" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-rescript-compiler.png" /></td>
@@ -5505,7 +5505,7 @@
         <th>Language</th>
         <th>Name</th>
         <th>Description</th>
-        <th>GitHub-Stars</th>
+        <th>Stargazers</th>
     </tr>
         <tr>
         <td nowrap="nowrap"><img width="33" alt="MQTT" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-mqtt.org_.png" /></td>
@@ -5543,7 +5543,7 @@
         <th>Language</th>
         <th>Name</th>
         <th>Description</th>
-        <th>GitHub-Stars</th>
+        <th>Stargazers</th>
     </tr>
         <tr>
         <td nowrap="nowrap"><img width="33" alt="Shiny." src="https://libraries.github20k.com/images/uploads/2023/05/newshot-shiny-1.png" /></td>
@@ -5565,7 +5565,7 @@
         <th>Language</th>
         <th>Name</th>
         <th>Description</th>
-        <th>GitHub-Stars</th>
+        <th>Stargazers</th>
     </tr>
         <tr>
         <td nowrap="nowrap"><img width="33" alt="ProcessOne" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-ejabberd-1.png" /></td>
@@ -5587,7 +5587,7 @@
         <th>Language</th>
         <th>Name</th>
         <th>Description</th>
-        <th>GitHub-Stars</th>
+        <th>Stargazers</th>
     </tr>
         <tr>
         <td nowrap="nowrap"><img width="33" alt="EarlGrey Reference" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-EarlGrey-1.png" /></td>
@@ -5609,7 +5609,7 @@
         <th>Language</th>
         <th>Name</th>
         <th>Description</th>
-        <th>GitHub-Stars</th>
+        <th>Stargazers</th>
     </tr>
         <tr>
         <td nowrap="nowrap"><img width="33" alt="Mandiant" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-commando-vm-1.png" /></td>
@@ -5631,7 +5631,7 @@
         <th>Language</th>
         <th>Name</th>
         <th>Description</th>
-        <th>GitHub-Stars</th>
+        <th>Stargazers</th>
     </tr>
         <tr>
         <td nowrap="nowrap"><img width="33" alt="Haxe - The Cross-platform Toolkit" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-haxe-2.png" /></td>
@@ -5653,7 +5653,7 @@
         <th>Language</th>
         <th>Name</th>
         <th>Description</th>
-        <th>GitHub-Stars</th>
+        <th>Stargazers</th>
     </tr>
         <tr>
         <td nowrap="nowrap"><img width="33" alt="Tagbar" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-tagbar-2.png" /></td>
@@ -5675,7 +5675,7 @@
         <th>Language</th>
         <th>Name</th>
         <th>Description</th>
-        <th>GitHub-Stars</th>
+        <th>Stargazers</th>
     </tr>
         <tr>
         <td nowrap="nowrap"><img width="33" alt="CodeQL" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-codeql-2.png" /></td>
@@ -5697,7 +5697,7 @@
         <th>Language</th>
         <th>Name</th>
         <th>Description</th>
-        <th>GitHub-Stars</th>
+        <th>Stargazers</th>
     </tr>
         <tr>
         <td nowrap="nowrap"><img width="33" alt="unisonweb/unison" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-unison.png" /></td>
