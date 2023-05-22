@@ -1,9 +1,10 @@
 
+<h1>Awesome open-source libraries voted by team members 🎤</h1>
 <table>
     <tr>
         <th>#</th>
         <th>Category</th>
-        <th>Company</th>
+        <th>Name</th>
         <th>Description</th>
         <th>Stars</th>
     </tr>
