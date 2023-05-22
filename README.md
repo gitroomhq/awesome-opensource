@@ -5,7 +5,7 @@
 <p>Every 5 hours a cron job runs over GitHub20k library list and update the GitHub list</p>
 <h2>How to add your library?</h2>
 <p>Simple go to <a href="https://libraries.github20k.com">GitHub20k</a> and click on the "Add your library" button</p>
-![ezgif com-video-to-gif (3)](https://github.com/github-20k/awesome-opensource/assets/100117126/340f5ca4-b13f-450f-b750-8d5c028d809d)
+<img src="https://github.com/github-20k/awesome-opensource/assets/100117126/340f5ca4-b13f-450f-b750-8d5c028d809d" width="100%" alt="setup" />
 <h2>Table of contents</h2>
 <ul>
     <li><a href="#top-100">Top 100 trending list</a></li>
