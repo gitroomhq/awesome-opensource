@@ -12,23 +12,23 @@
         By category
         <ul>
                   <li>
-                <a href="#miscellaneous">Miscellaneous</a>
+                <a href="#miscellaneous">Top 20 Miscellaneous libraries</a>
              </li>      <li>
-                <a href="#observability">Observability</a>
+                <a href="#observability">Top 20 Observability libraries</a>
              </li>      <li>
-                <a href="#productivity">Productivity</a>
+                <a href="#productivity">Top 20 Productivity libraries</a>
              </li>      <li>
-                <a href="#analytics">Analytics</a>
+                <a href="#analytics">Top 20 Analytics libraries</a>
              </li>      <li>
-                <a href="#security">Security</a>
+                <a href="#security">Top 20 Security libraries</a>
              </li>      <li>
-                <a href="#collaboration">Collaboration</a>
+                <a href="#collaboration">Top 20 Collaboration libraries</a>
              </li>      <li>
-                <a href="#notifications">Notifications</a>
+                <a href="#notifications">Top 20 Notifications libraries</a>
              </li>      <li>
-                <a href="#databases">Databases</a>
+                <a href="#databases">Top 20 Databases libraries</a>
              </li>      <li>
-                <a href="#infrastructure">Infrastructure</a>
+                <a href="#infrastructure">Top 20 Infrastructure libraries</a>
              </li>        
         </ul>
     </li>
@@ -36,83 +36,83 @@
         By language
         <ul>
                       <li>
-                <a href="#typescript">TypeScript</a>
+                <a href="#typescript">Top 20 TypeScript libraries</a>
              </li>          <li>
-                <a href="#lua">Lua</a>
+                <a href="#lua">Top 20 Lua libraries</a>
              </li>          <li>
-                <a href="#python">Python</a>
+                <a href="#python">Top 20 Python libraries</a>
              </li>          <li>
-                <a href="#css">CSS</a>
+                <a href="#css">Top 20 CSS libraries</a>
              </li>          <li>
-                <a href="#php">PHP</a>
+                <a href="#php">Top 20 PHP libraries</a>
              </li>          <li>
-                <a href="#javascript">JavaScript</a>
+                <a href="#javascript">Top 20 JavaScript libraries</a>
              </li>          <li>
-                <a href="#c++">C++</a>
+                <a href="#c++">Top 20 C++ libraries</a>
              </li>          <li>
-                <a href="#go">Go</a>
+                <a href="#go">Top 20 Go libraries</a>
              </li>          <li>
-                <a href="#kotlin">Kotlin</a>
+                <a href="#kotlin">Top 20 Kotlin libraries</a>
              </li>          <li>
-                <a href="#rust">Rust</a>
+                <a href="#rust">Top 20 Rust libraries</a>
              </li>          <li>
-                <a href="#ruby">Ruby</a>
+                <a href="#ruby">Top 20 Ruby libraries</a>
              </li>          <li>
-                <a href="#html">HTML</a>
+                <a href="#html">Top 20 HTML libraries</a>
              </li>          <li>
-                <a href="#java">Java</a>
+                <a href="#java">Top 20 Java libraries</a>
              </li>          <li>
-                <a href="#dart">Dart</a>
+                <a href="#dart">Top 20 Dart libraries</a>
              </li>          <li>
-                <a href="#jsonnet">Jsonnet</a>
+                <a href="#jsonnet">Top 20 Jsonnet libraries</a>
              </li>          <li>
-                <a href="#clojure">Clojure</a>
+                <a href="#clojure">Top 20 Clojure libraries</a>
              </li>          <li>
-                <a href="#c">C#</a>
+                <a href="#c">Top 20 C# libraries</a>
              </li>          <li>
-                <a href="#c">C</a>
+                <a href="#c">Top 20 C libraries</a>
              </li>          <li>
-                <a href="#markdown">Markdown</a>
+                <a href="#markdown">Top 20 Markdown libraries</a>
              </li>          <li>
-                <a href="#less">Less</a>
+                <a href="#less">Top 20 Less libraries</a>
              </li>          <li>
-                <a href="#swift">Swift</a>
+                <a href="#swift">Top 20 Swift libraries</a>
              </li>          <li>
-                <a href="#astro">Astro</a>
+                <a href="#astro">Top 20 Astro libraries</a>
              </li>          <li>
-                <a href="#dockerfile">Dockerfile</a>
+                <a href="#dockerfile">Top 20 Dockerfile libraries</a>
              </li>          <li>
-                <a href="#scala">Scala</a>
+                <a href="#scala">Top 20 Scala libraries</a>
              </li>          <li>
-                <a href="#rich-text-format">Rich Text Format</a>
+                <a href="#rich-text-format">Top 20 Rich Text Format libraries</a>
              </li>          <li>
-                <a href="#elixir">Elixir</a>
+                <a href="#elixir">Top 20 Elixir libraries</a>
              </li>          <li>
-                <a href="#tex">TeX</a>
+                <a href="#tex">Top 20 TeX libraries</a>
              </li>          <li>
-                <a href="#emacs-lisp">Emacs Lisp</a>
+                <a href="#emacs-lisp">Top 20 Emacs Lisp libraries</a>
              </li>          <li>
-                <a href="#shell">Shell</a>
+                <a href="#shell">Top 20 Shell libraries</a>
              </li>          <li>
-                <a href="#ocaml">OCaml</a>
+                <a href="#ocaml">Top 20 OCaml libraries</a>
              </li>          <li>
-                <a href="#scss">SCSS</a>
+                <a href="#scss">Top 20 SCSS libraries</a>
              </li>          <li>
-                <a href="#r">R</a>
+                <a href="#r">Top 20 R libraries</a>
              </li>          <li>
-                <a href="#erlang">Erlang</a>
+                <a href="#erlang">Top 20 Erlang libraries</a>
              </li>          <li>
-                <a href="#objective-c">Objective-C</a>
+                <a href="#objective-c">Top 20 Objective-C libraries</a>
              </li>          <li>
-                <a href="#powershell">PowerShell</a>
+                <a href="#powershell">Top 20 PowerShell libraries</a>
              </li>          <li>
-                <a href="#haxe">Haxe</a>
+                <a href="#haxe">Top 20 Haxe libraries</a>
              </li>          <li>
-                <a href="#vim-script">Vim Script</a>
+                <a href="#vim-script">Top 20 Vim Script libraries</a>
              </li>          <li>
-                <a href="#codeql">CodeQL</a>
+                <a href="#codeql">Top 20 CodeQL libraries</a>
              </li>          <li>
-                <a href="#haskell">Haskell</a>
+                <a href="#haskell">Top 20 Haskell libraries</a>
              </li>        
         </ul>
     </li>
