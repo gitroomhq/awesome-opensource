@@ -131,7 +131,7 @@
     </tr>
         <tr>
         <td nowrap="nowrap"><img width="33" alt="Novu" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-novu-2.png" /></td>
-        <td>Notifications</td>
+        <td><a href="undefined">Notifications</a></td>
         <td>TypeScript</td>
         <td>Novu</td>
         <td>The open-source notification infrastructure with fully functional embedded notification center</td>
@@ -139,7 +139,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="GitHub Support" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-dmca.png" /></td>
-        <td>Miscellaneous</td>
+        <td><a href="undefined">Miscellaneous</a></td>
         <td>undefined</td>
         <td>GitHub Support</td>
         <td>Repository with text of DMCA takedown notices as received. GitHub does not endorse or adopt any assertion contained in the following notices. Users identified in the notices are presumed innocent u…</td>
@@ -147,7 +147,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="awesome window manager" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-awesome.png" /></td>
-        <td>Miscellaneous</td>
+        <td><a href="undefined">Miscellaneous</a></td>
         <td>Lua</td>
         <td>awesome window manager</td>
         <td>awesome window manager</td>
@@ -155,7 +155,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="Github 20k" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-super-star-1.png" /></td>
-        <td>Productivity</td>
+        <td><a href="undefined">Productivity</a></td>
         <td>TypeScript</td>
         <td>Github 20k</td>
         <td>The open-source course landing page <g-emoji class="g-emoji" alias="rocket" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f680.png">?</g-emoji><g-emoji class="g-emoji" alias="rocket" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f680.png">?</g-emoji><g-emoji class="g-emoji" alias="rocket" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f680.png">?</g-emoji></td>
@@ -163,7 +163,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="ClusterFuzz" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-clusterfuzz.png" /></td>
-        <td>Infrastructure</td>
+        <td><a href="undefined">Infrastructure</a></td>
         <td>Python</td>
         <td>ClusterFuzz</td>
         <td>Scalable fuzzing infrastructure.</td>
@@ -171,7 +171,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="VS Code Docs" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-vscode-docs.png" /></td>
-        <td>Productivity</td>
+        <td><a href="undefined">Productivity</a></td>
         <td>CSS</td>
         <td>VS Code Docs</td>
         <td>Public documentation for Visual Studio Code</td>
@@ -179,7 +179,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="PrivateBin" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-PrivateBin.png" /></td>
-        <td>Security</td>
+        <td><a href="undefined">Security</a></td>
         <td>PHP</td>
         <td>PrivateBin</td>
         <td>A minimalist, open source online pastebin where the server has zero knowledge of pasted data. Data is encrypted/decrypted in the browser using 256 bits AES.</td>
@@ -187,7 +187,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="The Lounge" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-thelounge.png" /></td>
-        <td>Collaboration</td>
+        <td><a href="undefined">Collaboration</a></td>
         <td>TypeScript</td>
         <td>The Lounge</td>
         <td><g-emoji class="g-emoji" alias="speech_balloon" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4ac.png">?</g-emoji> ‎ Modern, responsive, cross-platform, self-hosted web IRC client</td>
@@ -195,7 +195,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="Soundnode" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-soundnode-app.png" /></td>
-        <td>Productivity</td>
+        <td><a href="undefined">Productivity</a></td>
         <td>JavaScript</td>
         <td>Soundnode</td>
         <td>Soundnode App is the Soundcloud for desktop. Built with Electron, Angular.js and Soundcloud API.</td>
@@ -203,7 +203,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="OneFlow" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-oneflow.png" /></td>
-        <td>Analytics</td>
+        <td><a href="undefined">Analytics</a></td>
         <td>C++</td>
         <td>OneFlow</td>
         <td>OneFlow is a deep learning framework designed to be user-friendly, scalable and efficient.</td>
@@ -211,7 +211,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="phpseclib" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-phpseclib.png" /></td>
-        <td>Security</td>
+        <td><a href="undefined">Security</a></td>
         <td>PHP</td>
         <td>phpseclib</td>
         <td>PHP Secure Communications Library</td>
@@ -219,7 +219,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="Elvish Shell" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-elvish.jpg" /></td>
-        <td>Productivity</td>
+        <td><a href="undefined">Productivity</a></td>
         <td>Go</td>
         <td>Elvish Shell</td>
         <td>Elvish = Expressive Programming Language + Versatile Interactive Shell</td>
@@ -227,7 +227,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="Setup Falcon SQL Client" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-falcon.png" /></td>
-        <td>Databases</td>
+        <td><a href="undefined">Databases</a></td>
         <td>JavaScript</td>
         <td>Setup Falcon SQL Client</td>
         <td>Free, open-source SQL client for Windows and Mac <g-emoji class="g-emoji" alias="eagle" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f985.png">?</g-emoji></td>
@@ -235,7 +235,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="Mirage JS" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-miragejs.png" /></td>
-        <td>Productivity</td>
+        <td><a href="undefined">Productivity</a></td>
         <td>JavaScript</td>
         <td>Mirage JS</td>
         <td>A client-side server to build, test and share your JavaScript app</td>
@@ -243,7 +243,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="Konva.js - JavaScript 2d canvas library" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-react-konva.png" /></td>
-        <td>Observability</td>
+        <td><a href="undefined">Observability</a></td>
         <td>TypeScript</td>
         <td>Konva.js - JavaScript 2d canvas library</td>
         <td>React + Canvas = Love. JavaScript library for drawing complex canvas graphics using React.</td>
@@ -251,7 +251,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="SagerNet/SagerNet" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-SagerNet.png" /></td>
-        <td>Security</td>
+        <td><a href="undefined">Security</a></td>
         <td>Kotlin</td>
         <td>SagerNet/SagerNet</td>
         <td>The universal proxy toolchain for Android</td>
@@ -259,7 +259,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="Organic Maps" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-organicmaps.png" /></td>
-        <td>Productivity</td>
+        <td><a href="undefined">Productivity</a></td>
         <td>C++</td>
         <td>Organic Maps</td>
         <td><g-emoji class="g-emoji" alias="leaves" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f343.png">?</g-emoji> Organic Maps is a free Android &amp; iOS offline maps app for travelers, tourists, hikers, and cyclists. It uses crowd-sourced OpenStreetMap data and is developed with love by MapsWithMe (MapsMe) fou…</td>
@@ -267,7 +267,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="Materialize" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-materialize.png" /></td>
-        <td>Databases</td>
+        <td><a href="undefined">Databases</a></td>
         <td>Rust</td>
         <td>Materialize</td>
         <td>Materialize is a fast, distributed SQL database built on streaming internals.</td>
@@ -275,7 +275,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="Cemu Emulator" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-Cemu.png" /></td>
-        <td>Miscellaneous</td>
+        <td><a href="undefined">Miscellaneous</a></td>
         <td>C++</td>
         <td>Cemu Emulator</td>
         <td>Cemu - Wii U emulator</td>
@@ -283,7 +283,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="froala/wysiwyg-editor" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-wysiwyg-editor.png" /></td>
-        <td>Productivity</td>
+        <td><a href="undefined">Productivity</a></td>
         <td>CSS</td>
         <td>froala/wysiwyg-editor</td>
         <td>The next generation Javascript WYSIWYG HTML Editor.</td>
@@ -291,7 +291,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="Markmap" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-markmap.png" /></td>
-        <td>Productivity</td>
+        <td><a href="undefined">Productivity</a></td>
         <td>TypeScript</td>
         <td>Markmap</td>
         <td>Visualize your Markdown as mindmaps with Markmap.</td>
@@ -299,7 +299,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="grocy" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-grocy.png" /></td>
-        <td>Productivity</td>
+        <td><a href="undefined">Productivity</a></td>
         <td>JavaScript</td>
         <td>grocy</td>
         <td>ERP beyond your fridge - grocy is a web-based self-hosted groceries &amp; household management solution for your home</td>
@@ -307,7 +307,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="React Native Skia" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-react-native-skia.png" /></td>
-        <td>Infrastructure</td>
+        <td><a href="undefined">Infrastructure</a></td>
         <td>TypeScript</td>
         <td>React Native Skia</td>
         <td>High-performance React Native Graphics using Skia</td>
@@ -315,7 +315,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="JUCE" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-JUCE.png" /></td>
-        <td>Infrastructure</td>
+        <td><a href="undefined">Infrastructure</a></td>
         <td>C++</td>
         <td>JUCE</td>
         <td>JUCE is an open-source cross-platform C++ application framework for desktop and mobile applications, including VST, VST3, AU, AUv3, RTAS and AAX audio plug-ins.</td>
@@ -323,7 +323,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="Danger" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-danger.png" /></td>
-        <td>Collaboration</td>
+        <td><a href="undefined">Collaboration</a></td>
         <td>Ruby</td>
         <td>Danger</td>
         <td><g-emoji class="g-emoji" alias="no_entry_sign" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f6ab.png">?</g-emoji> Stop saying "you forgot to …" in code review (in Ruby)</td>
@@ -331,7 +331,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="Frappe Framework" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-frappe.png" /></td>
-        <td>Infrastructure</td>
+        <td><a href="undefined">Infrastructure</a></td>
         <td>Python</td>
         <td>Frappe Framework</td>
         <td>Low code web framework for real world applications, in Python and Javascript</td>
@@ -339,7 +339,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="Doorkeeper Guides" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-doorkeeper.png" /></td>
-        <td>Security</td>
+        <td><a href="undefined">Security</a></td>
         <td>Ruby</td>
         <td>Doorkeeper Guides</td>
         <td>Doorkeeper is an OAuth 2 provider for Ruby on Rails / Grape.</td>
@@ -347,7 +347,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="OctoLinker" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-OctoLinker.png" /></td>
-        <td>Productivity</td>
+        <td><a href="undefined">Productivity</a></td>
         <td>HTML</td>
         <td>OctoLinker</td>
         <td>OctoLinker — Links together, what belongs together</td>
@@ -355,7 +355,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="Elementor" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-elementor.png" /></td>
-        <td>Productivity</td>
+        <td><a href="undefined">Productivity</a></td>
         <td>JavaScript</td>
         <td>Elementor</td>
         <td>The most advanced frontend drag &amp; drop page builder. Create high-end, pixel perfect websites at record speeds. Any theme, any page, any design.</td>
@@ -363,7 +363,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="wasm-pack" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-wasm-pack.png" /></td>
-        <td>Productivity</td>
+        <td><a href="undefined">Productivity</a></td>
         <td>Rust</td>
         <td>wasm-pack</td>
         <td><g-emoji class="g-emoji" alias="package" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4e6.png">?</g-emoji><g-emoji class="g-emoji" alias="sparkles" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2728.png">✨</g-emoji> your favorite rust -&gt; wasm workflow tool!</td>
@@ -371,7 +371,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="Countly" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-countly-server.png" /></td>
-        <td>Analytics</td>
+        <td><a href="undefined">Analytics</a></td>
         <td>JavaScript</td>
         <td>Countly</td>
         <td>Countly is a product analytics platform that helps teams track, analyze and act-on their user actions and behaviour on mobile, web and desktop applications.</td>
@@ -379,7 +379,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="Cosmos: The Internet of Blockchains" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-cosmos-sdk.png" /></td>
-        <td>Infrastructure</td>
+        <td><a href="undefined">Infrastructure</a></td>
         <td>Go</td>
         <td>Cosmos: The Internet of Blockchains</td>
         <td><g-emoji class="g-emoji" alias="chains" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/26d3.png">⛓️</g-emoji> A Framework for Building High Value Public Blockchains <g-emoji class="g-emoji" alias="sparkles" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2728.png">✨</g-emoji></td>
@@ -387,7 +387,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="Drools" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-drools.png" /></td>
-        <td>Infrastructure</td>
+        <td><a href="undefined">Infrastructure</a></td>
         <td>Java</td>
         <td>Drools</td>
         <td>Drools is a rule engine, DMN engine and complex event processing (CEP) engine for Java.</td>
@@ -395,7 +395,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="COLMAP" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-colmap.png" /></td>
-        <td>Observability</td>
+        <td><a href="undefined">Observability</a></td>
         <td>C++</td>
         <td>COLMAP</td>
         <td>COLMAP - Structure-from-Motion and Multi-View Stereo</td>
@@ -403,7 +403,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="gopass" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-gopass.png" /></td>
-        <td>Security</td>
+        <td><a href="undefined">Security</a></td>
         <td>Go</td>
         <td>gopass</td>
         <td>The slightly more awesome standard unix password manager for teams</td>
@@ -411,7 +411,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="Flutter Gallery" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-gallery.png" /></td>
-        <td>Productivity</td>
+        <td><a href="undefined">Productivity</a></td>
         <td>Dart</td>
         <td>Flutter Gallery</td>
         <td>Flutter Gallery is a resource to help developers evaluate and use Flutter</td>
@@ -419,7 +419,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="vavr-io/vavr" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-vavr.png" /></td>
-        <td>Productivity</td>
+        <td><a href="undefined">Productivity</a></td>
         <td>Java</td>
         <td>vavr-io/vavr</td>
         <td>vʌvr (formerly called Javaslang) is a non-commercial, non-profit object-functional library that runs with Java 8+. It aims to reduce the lines of code and increase code quality.</td>
@@ -427,7 +427,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="KubeVela" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-kubevela.png" /></td>
-        <td>Infrastructure</td>
+        <td><a href="undefined">Infrastructure</a></td>
         <td>Go</td>
         <td>KubeVela</td>
         <td>The Modern Application Platform.</td>
@@ -435,7 +435,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="Zeek" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-zeek.png" /></td>
-        <td>Observability</td>
+        <td><a href="undefined">Observability</a></td>
         <td>C++</td>
         <td>Zeek</td>
         <td>Zeek is a powerful network analysis framework that is much different from the typical IDS you may know.</td>
@@ -443,7 +443,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="cashapp/sqldelight" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-sqldelight.png" /></td>
-        <td>Databases</td>
+        <td><a href="undefined">Databases</a></td>
         <td>Kotlin</td>
         <td>cashapp/sqldelight</td>
         <td>SQLDelight - Generates typesafe Kotlin APIs from SQL</td>
@@ -451,7 +451,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="xManager" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-xManager.png" /></td>
-        <td>Productivity</td>
+        <td><a href="undefined">Productivity</a></td>
         <td>Java</td>
         <td>xManager</td>
         <td>Ad-Free, New Features &amp; Freedom</td>
@@ -459,7 +459,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="Musician's Friend" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-mmf.png" /></td>
-        <td>Infrastructure</td>
+        <td><a href="undefined">Infrastructure</a></td>
         <td>Python</td>
         <td>Musician's Friend</td>
         <td>A modular framework for vision &amp; language multimodal research from Facebook AI Research (FAIR)</td>
@@ -467,7 +467,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="LazyVim" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-LazyVim.png" /></td>
-        <td>Productivity</td>
+        <td><a href="undefined">Productivity</a></td>
         <td>Lua</td>
         <td>LazyVim</td>
         <td>Neovim config for the lazy</td>
@@ -475,7 +475,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="Realm" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-realm-js.png" /></td>
-        <td>Databases</td>
+        <td><a href="undefined">Databases</a></td>
         <td>TypeScript</td>
         <td>Realm</td>
         <td> Realm is a mobile database: an alternative to SQLite &amp; key-value stores</td>
@@ -483,7 +483,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="Hyperf" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-hyperf.jpg" /></td>
-        <td>Infrastructure</td>
+        <td><a href="undefined">Infrastructure</a></td>
         <td>PHP</td>
         <td>Hyperf</td>
         <td><g-emoji class="g-emoji" alias="rocket" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f680.png">?</g-emoji> A coroutine framework that focuses on hyperspeed and flexibility. Building microservice or middleware with ease.</td>
@@ -491,7 +491,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="LibreTube" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-LibreTube.png" /></td>
-        <td>Productivity</td>
+        <td><a href="undefined">Productivity</a></td>
         <td>Kotlin</td>
         <td>LibreTube</td>
         <td>An alternative frontend for YouTube, for Android.</td>
@@ -499,7 +499,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="mediasoup" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-mediasoup.png" /></td>
-        <td>Infrastructure</td>
+        <td><a href="undefined">Infrastructure</a></td>
         <td>C++</td>
         <td>mediasoup</td>
         <td>Cutting Edge WebRTC Video Conferencing</td>
@@ -507,7 +507,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="Prometheus Operator" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-kube-prometheus.png" /></td>
-        <td>Observability</td>
+        <td><a href="undefined">Observability</a></td>
         <td>Jsonnet</td>
         <td>Prometheus Operator</td>
         <td>Use Prometheus to monitor Kubernetes and applications running on Kubernetes</td>
@@ -515,7 +515,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="ntop" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-ntopng.png" /></td>
-        <td>Observability</td>
+        <td><a href="undefined">Observability</a></td>
         <td>Lua</td>
         <td>ntop</td>
         <td>Web-based Traffic and Security Network Traffic Monitoring</td>
@@ -523,7 +523,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="Flet" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-flet.png" /></td>
-        <td>Productivity</td>
+        <td><a href="undefined">Productivity</a></td>
         <td>Python</td>
         <td>Flet</td>
         <td>Flet enables developers to easily build realtime web, mobile and desktop apps in Python. No frontend experience required.</td>
@@ -531,7 +531,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="re-frame" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-re-frame.png" /></td>
-        <td>Infrastructure</td>
+        <td><a href="undefined">Infrastructure</a></td>
         <td>Clojure</td>
         <td>re-frame</td>
         <td>A ClojureScript framework for building user interfaces, leveraging React</td>
@@ -539,7 +539,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="DocsGPT" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-DocsGPT.png" /></td>
-        <td>Productivity</td>
+        <td><a href="undefined">Productivity</a></td>
         <td>Python</td>
         <td>DocsGPT</td>
         <td>GPT-powered chat for documentation search &amp; assistance.</td>
@@ -547,7 +547,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="MudBlazor" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-MudBlazor.png" /></td>
-        <td>Infrastructure</td>
+        <td><a href="undefined">Infrastructure</a></td>
         <td>C#</td>
         <td>MudBlazor</td>
         <td>Blazor Component Library based on Material design with an emphasis on ease of use. Mainly written in C# with Javascript kept to a bare minimum it empowers .NET developers to easily debug it if needed.</td>
@@ -555,7 +555,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="Smallstep" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-certificates.png" /></td>
-        <td>Security</td>
+        <td><a href="undefined">Security</a></td>
         <td>Go</td>
         <td>Smallstep</td>
         <td><g-emoji class="g-emoji" alias="shield" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f6e1.png">?️</g-emoji> A private certificate authority (X.509 &amp; SSH) &amp; ACME server for secure automated certificate management, so you can use TLS everywhere &amp; SSO for SSH.</td>
@@ -563,7 +563,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="Tutanota" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-tutanota.png" /></td>
-        <td>Security</td>
+        <td><a href="undefined">Security</a></td>
         <td>TypeScript</td>
         <td>Tutanota</td>
         <td>Tutanota is an email service with a strong focus on security and privacy that lets you encrypt emails, contacts and calendar entries on all your devices.</td>
@@ -571,7 +571,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="PowerJob/PowerJob" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-PowerJob.png" /></td>
-        <td>Infrastructure</td>
+        <td><a href="undefined">Infrastructure</a></td>
         <td>Java</td>
         <td>PowerJob/PowerJob</td>
         <td>Enterprise job scheduling middleware with distributed computing ability.</td>
@@ -579,7 +579,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="Waydroid" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-waydroid.png" /></td>
-        <td>Infrastructure</td>
+        <td><a href="undefined">Infrastructure</a></td>
         <td>Python</td>
         <td>Waydroid</td>
         <td>Waydroid uses a container-based approach to boot a full Android system on a regular GNU/Linux system like Ubuntu.</td>
@@ -587,7 +587,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="Shopify Polaris" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-polaris.png" /></td>
-        <td>Collaboration</td>
+        <td><a href="undefined">Collaboration</a></td>
         <td>TypeScript</td>
         <td>Shopify Polaris</td>
         <td>Shopify’s design system to help us work together to build a great experience for all of our merchants.</td>
@@ -595,7 +595,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="The Rustup Book." src="https://libraries.github20k.com/images/uploads/2023/05/newshot-rustup.png" /></td>
-        <td>Infrastructure</td>
+        <td><a href="undefined">Infrastructure</a></td>
         <td>Rust</td>
         <td>The Rustup Book.</td>
         <td>The Rust toolchain installer</td>
@@ -603,7 +603,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="Ferret Fact Service" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-ferret.png" /></td>
-        <td>Analytics</td>
+        <td><a href="undefined">Analytics</a></td>
         <td>Go</td>
         <td>Ferret Fact Service</td>
         <td>Declarative web scraping</td>
@@ -611,7 +611,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="mumble-voip/mumble" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-mumble.png" /></td>
-        <td>Collaboration</td>
+        <td><a href="undefined">Collaboration</a></td>
         <td>C++</td>
         <td>mumble-voip/mumble</td>
         <td>Mumble is an open-source, low-latency, high quality voice chat software.</td>
@@ -619,7 +619,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="AdAway" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-AdAway.png" /></td>
-        <td>Security</td>
+        <td><a href="undefined">Security</a></td>
         <td>C</td>
         <td>AdAway</td>
         <td>AdAway is a free and open source ad blocker for Android. </td>
@@ -627,7 +627,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="Discord Developer Portal" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-discord-api-docs.png" /></td>
-        <td>Collaboration</td>
+        <td><a href="undefined">Collaboration</a></td>
         <td>Markdown</td>
         <td>Discord Developer Portal</td>
         <td>Official Discord API Documentation</td>
@@ -635,7 +635,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="Remix Icon" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-RemixIcon.png" /></td>
-        <td>Productivity</td>
+        <td><a href="undefined">Productivity</a></td>
         <td>Less</td>
         <td>Remix Icon</td>
         <td>Open source neutral style icon system</td>
@@ -643,7 +643,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="detekt" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-detekt.png" /></td>
-        <td>Observability</td>
+        <td><a href="undefined">Observability</a></td>
         <td>Kotlin</td>
         <td>detekt</td>
         <td>Static code analysis for Kotlin</td>
@@ -651,7 +651,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="Fn Project" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-fn.png" /></td>
-        <td>Infrastructure</td>
+        <td><a href="undefined">Infrastructure</a></td>
         <td>Go</td>
         <td>Fn Project</td>
         <td>The container native, cloud agnostic serverless platform.</td>
@@ -659,7 +659,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="CotEditor" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-CotEditor.png" /></td>
-        <td>Productivity</td>
+        <td><a href="undefined">Productivity</a></td>
         <td>Swift</td>
         <td>CotEditor</td>
         <td>Lightweight Plain-Text Editor for macOS</td>
@@ -667,7 +667,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="Ant Design Landing" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-ant-design-landing.png" /></td>
-        <td>Productivity</td>
+        <td><a href="undefined">Productivity</a></td>
         <td>JavaScript</td>
         <td>Ant Design Landing</td>
         <td><g-emoji class="g-emoji" alias="mountain_bicyclist" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f6b5.png">?</g-emoji> Landing Pages of Ant Design System</td>
@@ -675,7 +675,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="jOOQ" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-jOOQ.jpg" /></td>
-        <td>Databases</td>
+        <td><a href="undefined">Databases</a></td>
         <td>Java</td>
         <td>jOOQ</td>
         <td>jOOQ is the best way to write SQL in Java</td>
@@ -683,7 +683,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="screego/server" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-server.png" /></td>
-        <td>Collaboration</td>
+        <td><a href="undefined">Collaboration</a></td>
         <td>TypeScript</td>
         <td>screego/server</td>
         <td>screen sharing for developers https://screego.net/</td>
@@ -691,7 +691,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="Universal Ctags" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-ctags.png" /></td>
-        <td>Infrastructure</td>
+        <td><a href="undefined">Infrastructure</a></td>
         <td>C</td>
         <td>Universal Ctags</td>
         <td>A maintained ctags implementation</td>
@@ -699,7 +699,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="Snorkel AI" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-snorkel.png" /></td>
-        <td>Productivity</td>
+        <td><a href="undefined">Productivity</a></td>
         <td>Python</td>
         <td>Snorkel AI</td>
         <td>A system for quickly generating training data with weak supervision</td>
@@ -707,7 +707,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="Tendermint" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-tendermint.png" /></td>
-        <td>Infrastructure</td>
+        <td><a href="undefined">Infrastructure</a></td>
         <td>Go</td>
         <td>Tendermint</td>
         <td>⟁ Tendermint Core (BFT Consensus) in Go</td>
@@ -715,7 +715,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="ksqlDB" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-ksql.png" /></td>
-        <td>Databases</td>
+        <td><a href="undefined">Databases</a></td>
         <td>Java</td>
         <td>ksqlDB</td>
         <td>The database purpose-built for stream processing applications.</td>
@@ -723,7 +723,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="MassTransit" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-MassTransit.png" /></td>
-        <td>Infrastructure</td>
+        <td><a href="undefined">Infrastructure</a></td>
         <td>C#</td>
         <td>MassTransit</td>
         <td>Distributed Application Framework for .NET</td>
@@ -731,7 +731,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="Recast Navigation" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-recastnavigation.png" /></td>
-        <td>Infrastructure</td>
+        <td><a href="undefined">Infrastructure</a></td>
         <td>C++</td>
         <td>Recast Navigation</td>
         <td>Navigation-mesh Toolset for Games</td>
@@ -739,7 +739,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="Open Source Routing Machine" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-osrm-backend.png" /></td>
-        <td>Infrastructure</td>
+        <td><a href="undefined">Infrastructure</a></td>
         <td>C++</td>
         <td>Open Source Routing Machine</td>
         <td>Open Source Routing Machine - C++ backend</td>
@@ -747,7 +747,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="RAPIDS" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-cudf.png" /></td>
-        <td>Analytics</td>
+        <td><a href="undefined">Analytics</a></td>
         <td>C++</td>
         <td>RAPIDS</td>
         <td>cuDF - GPU DataFrame Library </td>
@@ -755,7 +755,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="StackStorm" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-st2.jpg" /></td>
-        <td>Collaboration</td>
+        <td><a href="undefined">Collaboration</a></td>
         <td>Python</td>
         <td>StackStorm</td>
         <td>StackStorm (aka "IFTTT for Ops") is event-driven automation for auto-remediation, incident responses, troubleshooting, deployments, and more for DevOps and SREs. Includes rules engine, workflow, 16…</td>
@@ -763,7 +763,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="The Lura Project" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-lura.png" /></td>
-        <td>Infrastructure</td>
+        <td><a href="undefined">Infrastructure</a></td>
         <td>Go</td>
         <td>The Lura Project</td>
         <td>Ultra performant API Gateway with middlewares. A project hosted at The Linux Foundation</td>
@@ -771,7 +771,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="Krew" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-krew.png" /></td>
-        <td>Productivity</td>
+        <td><a href="undefined">Productivity</a></td>
         <td>Go</td>
         <td>Krew</td>
         <td><g-emoji class="g-emoji" alias="package" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4e6.png">?</g-emoji> Find and install kubectl plugins</td>
@@ -779,7 +779,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="BEM" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-getbem.github.io_.png" /></td>
-        <td>Infrastructure</td>
+        <td><a href="undefined">Infrastructure</a></td>
         <td>Astro</td>
         <td>BEM</td>
         <td>Get BEM to all people in simplest way</td>
@@ -787,7 +787,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="Hysteria" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-hysteria.png" /></td>
-        <td>Infrastructure</td>
+        <td><a href="undefined">Infrastructure</a></td>
         <td>Go</td>
         <td>Hysteria</td>
         <td>Hysteria is a feature-packed proxy &amp; relay tool optimized for lossy, unstable connections (e.g. satellite networks, congested public Wi-Fi, connecting to foreign servers from China)</td>
@@ -795,7 +795,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="thoughtbot/administrate" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-administrate.png" /></td>
-        <td>Productivity</td>
+        <td><a href="undefined">Productivity</a></td>
         <td>Ruby</td>
         <td>thoughtbot/administrate</td>
         <td>A Rails engine that helps you put together a super-flexible admin dashboard.</td>
@@ -803,7 +803,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="GitHub" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-pwndbg.png" /></td>
-        <td>Security</td>
+        <td><a href="undefined">Security</a></td>
         <td>Python</td>
         <td>GitHub</td>
         <td>Exploit Development and Reverse Engineering with GDB Made Easy</td>
@@ -811,7 +811,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="OWASP Security Guide" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-wstg.jpg" /></td>
-        <td>Security</td>
+        <td><a href="undefined">Security</a></td>
         <td>Dockerfile</td>
         <td>OWASP Security Guide</td>
         <td>The Web Security Testing Guide is a comprehensive Open Source guide to testing the security of web applications and web services.</td>
@@ -819,7 +819,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="Telegram Database Library" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-td-4.png" /></td>
-        <td>Infrastructure</td>
+        <td><a href="undefined">Infrastructure</a></td>
         <td>C++</td>
         <td>Telegram Database Library</td>
         <td>Cross-platform library for building Telegram clients</td>
@@ -827,7 +827,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="Hover" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-go-flutter.png" /></td>
-        <td>Infrastructure</td>
+        <td><a href="undefined">Infrastructure</a></td>
         <td>Go</td>
         <td>Hover</td>
         <td>Flutter on Windows, MacOS and Linux - based on Flutter Embedding, Go and GLFW.</td>
@@ -835,7 +835,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="Respect\Validation" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-Validation.png" /></td>
-        <td>Productivity</td>
+        <td><a href="undefined">Productivity</a></td>
         <td>PHP</td>
         <td>Respect\Validation</td>
         <td>The most awesome validation engine ever created for PHP</td>
@@ -843,7 +843,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="arkime/arkime" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-arkime.png" /></td>
-        <td>Infrastructure</td>
+        <td><a href="undefined">Infrastructure</a></td>
         <td>JavaScript</td>
         <td>arkime/arkime</td>
         <td>Arkime (formerly Moloch) is an open source, large scale, full packet capturing, indexing, and database system.</td>
@@ -851,7 +851,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="SteamVR" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-openvr.png" /></td>
-        <td>Infrastructure</td>
+        <td><a href="undefined">Infrastructure</a></td>
         <td>C++</td>
         <td>SteamVR</td>
         <td>OpenVR SDK</td>
@@ -859,7 +859,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="microG Project." src="https://libraries.github20k.com/images/uploads/2023/05/newshot-GmsCore.png" /></td>
-        <td>Infrastructure</td>
+        <td><a href="undefined">Infrastructure</a></td>
         <td>Java</td>
         <td>microG Project.</td>
         <td>Free implementation of Play Services</td>
@@ -867,7 +867,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="libimobiledevice" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-libimobiledevice.png" /></td>
-        <td>Infrastructure</td>
+        <td><a href="undefined">Infrastructure</a></td>
         <td>C</td>
         <td>libimobiledevice</td>
         <td>A cross-platform protocol library to communicate with iOS devices</td>
@@ -875,7 +875,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="pypdf" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-pypdf.png" /></td>
-        <td>Databases</td>
+        <td><a href="undefined">Databases</a></td>
         <td>Python</td>
         <td>pypdf</td>
         <td>A pure-python PDF library capable of splitting, merging, cropping, and transforming the pages of PDF files</td>
@@ -883,7 +883,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="futurepress/epub.js" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-epub.js.png" /></td>
-        <td>Productivity</td>
+        <td><a href="undefined">Productivity</a></td>
         <td>JavaScript</td>
         <td>futurepress/epub.js</td>
         <td>Enhanced eBooks in the browser.</td>
@@ -891,7 +891,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="ZRender" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-zrender.png" /></td>
-        <td>Infrastructure</td>
+        <td><a href="undefined">Infrastructure</a></td>
         <td>TypeScript</td>
         <td>ZRender</td>
         <td>A lightweight graphic library providing 2d draw for Apache ECharts</td>
@@ -899,7 +899,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="Penrose" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-penrose.png" /></td>
-        <td>Productivity</td>
+        <td><a href="undefined">Productivity</a></td>
         <td>TypeScript</td>
         <td>Penrose</td>
         <td>Create beautiful diagrams just by typing mathematical notation in plain text.</td>
@@ -907,7 +907,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="vuejs/vetur" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-vetur.png" /></td>
-        <td>Productivity</td>
+        <td><a href="undefined">Productivity</a></td>
         <td>TypeScript</td>
         <td>vuejs/vetur</td>
         <td>Vue tooling for VS Code.</td>
@@ -915,7 +915,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="QuartzNET" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-quartznet.png" /></td>
-        <td>Infrastructure</td>
+        <td><a href="undefined">Infrastructure</a></td>
         <td>C#</td>
         <td>QuartzNET</td>
         <td>Quartz Enterprise Scheduler .NET</td>
@@ -923,7 +923,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="the Guardian" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-frontend.png" /></td>
-        <td>Infrastructure</td>
+        <td><a href="undefined">Infrastructure</a></td>
         <td>Scala</td>
         <td>the Guardian</td>
         <td>The Guardian DotCom.</td>
@@ -946,7 +946,7 @@
     </tr>
         <tr>
         <td nowrap="nowrap"><img width="33" alt="GitHub Support" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-dmca.png" /></td>
-        <td>Miscellaneous</td>
+        <td><a href="undefined">Miscellaneous</a></td>
         <td>undefined</td>
         <td>GitHub Support</td>
         <td>Repository with text of DMCA takedown notices as received. GitHub does not endorse or adopt any assertion contained in the following notices. Users identified in the notices are presumed innocent u…</td>
@@ -954,7 +954,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="awesome window manager" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-awesome.png" /></td>
-        <td>Miscellaneous</td>
+        <td><a href="undefined">Miscellaneous</a></td>
         <td>Lua</td>
         <td>awesome window manager</td>
         <td>awesome window manager</td>
@@ -962,7 +962,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="Cemu Emulator" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-Cemu.png" /></td>
-        <td>Miscellaneous</td>
+        <td><a href="undefined">Miscellaneous</a></td>
         <td>C++</td>
         <td>Cemu Emulator</td>
         <td>Cemu - Wii U emulator</td>
@@ -970,7 +970,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="MQTT" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-mqtt.org_.png" /></td>
-        <td>Miscellaneous</td>
+        <td><a href="undefined">Miscellaneous</a></td>
         <td>SCSS</td>
         <td>MQTT</td>
         <td>The mqtt.org website</td>
@@ -978,7 +978,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="Stash" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-stash.jpg" /></td>
-        <td>Miscellaneous</td>
+        <td><a href="undefined">Miscellaneous</a></td>
         <td>Go</td>
         <td>Stash</td>
         <td>An organizer for your porn, written in Go. Documentation: https://docs.stashapp.cc</td>
@@ -1000,7 +1000,7 @@
     </tr>
         <tr>
         <td nowrap="nowrap"><img width="33" alt="Konva.js - JavaScript 2d canvas library" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-react-konva.png" /></td>
-        <td>Observability</td>
+        <td><a href="undefined">Observability</a></td>
         <td>TypeScript</td>
         <td>Konva.js - JavaScript 2d canvas library</td>
         <td>React + Canvas = Love. JavaScript library for drawing complex canvas graphics using React.</td>
@@ -1008,7 +1008,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="COLMAP" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-colmap.png" /></td>
-        <td>Observability</td>
+        <td><a href="undefined">Observability</a></td>
         <td>C++</td>
         <td>COLMAP</td>
         <td>COLMAP - Structure-from-Motion and Multi-View Stereo</td>
@@ -1016,7 +1016,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="Zeek" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-zeek.png" /></td>
-        <td>Observability</td>
+        <td><a href="undefined">Observability</a></td>
         <td>C++</td>
         <td>Zeek</td>
         <td>Zeek is a powerful network analysis framework that is much different from the typical IDS you may know.</td>
@@ -1024,7 +1024,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="Prometheus Operator" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-kube-prometheus.png" /></td>
-        <td>Observability</td>
+        <td><a href="undefined">Observability</a></td>
         <td>Jsonnet</td>
         <td>Prometheus Operator</td>
         <td>Use Prometheus to monitor Kubernetes and applications running on Kubernetes</td>
@@ -1032,7 +1032,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="ntop" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-ntopng.png" /></td>
-        <td>Observability</td>
+        <td><a href="undefined">Observability</a></td>
         <td>Lua</td>
         <td>ntop</td>
         <td>Web-based Traffic and Security Network Traffic Monitoring</td>
@@ -1040,7 +1040,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="detekt" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-detekt.png" /></td>
-        <td>Observability</td>
+        <td><a href="undefined">Observability</a></td>
         <td>Kotlin</td>
         <td>detekt</td>
         <td>Static code analysis for Kotlin</td>
@@ -1048,7 +1048,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="Benthos" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-benthos.png" /></td>
-        <td>Observability</td>
+        <td><a href="undefined">Observability</a></td>
         <td>Go</td>
         <td>Benthos</td>
         <td>Fancy stream processing made operationally mundane</td>
@@ -1056,7 +1056,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="Psalm" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-psalm-1.png" /></td>
-        <td>Observability</td>
+        <td><a href="undefined">Observability</a></td>
         <td>PHP</td>
         <td>Psalm</td>
         <td>A static analysis tool for finding errors in PHP applications</td>
@@ -1064,7 +1064,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="EarlGrey Reference" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-EarlGrey-1.png" /></td>
-        <td>Observability</td>
+        <td><a href="undefined">Observability</a></td>
         <td>Objective-C</td>
         <td>EarlGrey Reference</td>
         <td><g-emoji class="g-emoji" alias="tea" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f375.png">?</g-emoji> iOS UI Automation Test Framework</td>
@@ -1072,7 +1072,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="NLog/NLog" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-NLog-1.png" /></td>
-        <td>Observability</td>
+        <td><a href="undefined">Observability</a></td>
         <td>C#</td>
         <td>NLog/NLog</td>
         <td>NLog - Advanced and Structured Logging for Various .NET Platforms</td>
@@ -1080,7 +1080,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="ChaosBlade" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-chaosblade-2.jpg" /></td>
-        <td>Observability</td>
+        <td><a href="undefined">Observability</a></td>
         <td>Go</td>
         <td>ChaosBlade</td>
         <td>An easy to use and powerful chaos engineering experiment toolkit.（阿里巴巴开源的一款简单易用、功能强大的混沌实验注入工具）</td>
@@ -1088,7 +1088,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="ACRA" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-acra-3.png" /></td>
-        <td>Observability</td>
+        <td><a href="undefined">Observability</a></td>
         <td>Kotlin</td>
         <td>ACRA</td>
         <td>Application Crash Reports for Android</td>
@@ -1096,7 +1096,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="Cucumber" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-cucumber-ruby.png" /></td>
-        <td>Observability</td>
+        <td><a href="undefined">Observability</a></td>
         <td>Ruby</td>
         <td>Cucumber</td>
         <td>Cucumber for Ruby. It's amazing!</td>
@@ -1104,7 +1104,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="Robolectric" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-robolectric.png" /></td>
-        <td>Observability</td>
+        <td><a href="undefined">Observability</a></td>
         <td>Java</td>
         <td>Robolectric</td>
         <td>Android Unit Testing Framework</td>
@@ -1112,7 +1112,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="log4js-node/log4js-node" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-log4js-node.png" /></td>
-        <td>Observability</td>
+        <td><a href="undefined">Observability</a></td>
         <td>JavaScript</td>
         <td>log4js-node/log4js-node</td>
         <td>A port of log4js to node.js</td>
@@ -1120,7 +1120,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="StackPath" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-axe-core-1.png" /></td>
-        <td>Observability</td>
+        <td><a href="undefined">Observability</a></td>
         <td>JavaScript</td>
         <td>StackPath</td>
         <td>Accessibility engine for automated Web UI testing</td>
@@ -1142,7 +1142,7 @@
     </tr>
         <tr>
         <td nowrap="nowrap"><img width="33" alt="Github 20k" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-super-star-1.png" /></td>
-        <td>Productivity</td>
+        <td><a href="undefined">Productivity</a></td>
         <td>TypeScript</td>
         <td>Github 20k</td>
         <td>The open-source course landing page <g-emoji class="g-emoji" alias="rocket" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f680.png">?</g-emoji><g-emoji class="g-emoji" alias="rocket" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f680.png">?</g-emoji><g-emoji class="g-emoji" alias="rocket" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f680.png">?</g-emoji></td>
@@ -1150,7 +1150,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="VS Code Docs" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-vscode-docs.png" /></td>
-        <td>Productivity</td>
+        <td><a href="undefined">Productivity</a></td>
         <td>CSS</td>
         <td>VS Code Docs</td>
         <td>Public documentation for Visual Studio Code</td>
@@ -1158,7 +1158,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="Soundnode" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-soundnode-app.png" /></td>
-        <td>Productivity</td>
+        <td><a href="undefined">Productivity</a></td>
         <td>JavaScript</td>
         <td>Soundnode</td>
         <td>Soundnode App is the Soundcloud for desktop. Built with Electron, Angular.js and Soundcloud API.</td>
@@ -1166,7 +1166,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="Elvish Shell" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-elvish.jpg" /></td>
-        <td>Productivity</td>
+        <td><a href="undefined">Productivity</a></td>
         <td>Go</td>
         <td>Elvish Shell</td>
         <td>Elvish = Expressive Programming Language + Versatile Interactive Shell</td>
@@ -1174,7 +1174,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="Mirage JS" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-miragejs.png" /></td>
-        <td>Productivity</td>
+        <td><a href="undefined">Productivity</a></td>
         <td>JavaScript</td>
         <td>Mirage JS</td>
         <td>A client-side server to build, test and share your JavaScript app</td>
@@ -1182,7 +1182,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="Organic Maps" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-organicmaps.png" /></td>
-        <td>Productivity</td>
+        <td><a href="undefined">Productivity</a></td>
         <td>C++</td>
         <td>Organic Maps</td>
         <td><g-emoji class="g-emoji" alias="leaves" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f343.png">?</g-emoji> Organic Maps is a free Android &amp; iOS offline maps app for travelers, tourists, hikers, and cyclists. It uses crowd-sourced OpenStreetMap data and is developed with love by MapsWithMe (MapsMe) fou…</td>
@@ -1190,7 +1190,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="froala/wysiwyg-editor" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-wysiwyg-editor.png" /></td>
-        <td>Productivity</td>
+        <td><a href="undefined">Productivity</a></td>
         <td>CSS</td>
         <td>froala/wysiwyg-editor</td>
         <td>The next generation Javascript WYSIWYG HTML Editor.</td>
@@ -1198,7 +1198,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="Markmap" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-markmap.png" /></td>
-        <td>Productivity</td>
+        <td><a href="undefined">Productivity</a></td>
         <td>TypeScript</td>
         <td>Markmap</td>
         <td>Visualize your Markdown as mindmaps with Markmap.</td>
@@ -1206,7 +1206,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="grocy" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-grocy.png" /></td>
-        <td>Productivity</td>
+        <td><a href="undefined">Productivity</a></td>
         <td>JavaScript</td>
         <td>grocy</td>
         <td>ERP beyond your fridge - grocy is a web-based self-hosted groceries &amp; household management solution for your home</td>
@@ -1214,7 +1214,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="OctoLinker" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-OctoLinker.png" /></td>
-        <td>Productivity</td>
+        <td><a href="undefined">Productivity</a></td>
         <td>HTML</td>
         <td>OctoLinker</td>
         <td>OctoLinker — Links together, what belongs together</td>
@@ -1222,7 +1222,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="Elementor" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-elementor.png" /></td>
-        <td>Productivity</td>
+        <td><a href="undefined">Productivity</a></td>
         <td>JavaScript</td>
         <td>Elementor</td>
         <td>The most advanced frontend drag &amp; drop page builder. Create high-end, pixel perfect websites at record speeds. Any theme, any page, any design.</td>
@@ -1230,7 +1230,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="wasm-pack" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-wasm-pack.png" /></td>
-        <td>Productivity</td>
+        <td><a href="undefined">Productivity</a></td>
         <td>Rust</td>
         <td>wasm-pack</td>
         <td><g-emoji class="g-emoji" alias="package" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4e6.png">?</g-emoji><g-emoji class="g-emoji" alias="sparkles" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2728.png">✨</g-emoji> your favorite rust -&gt; wasm workflow tool!</td>
@@ -1238,7 +1238,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="Flutter Gallery" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-gallery.png" /></td>
-        <td>Productivity</td>
+        <td><a href="undefined">Productivity</a></td>
         <td>Dart</td>
         <td>Flutter Gallery</td>
         <td>Flutter Gallery is a resource to help developers evaluate and use Flutter</td>
@@ -1246,7 +1246,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="vavr-io/vavr" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-vavr.png" /></td>
-        <td>Productivity</td>
+        <td><a href="undefined">Productivity</a></td>
         <td>Java</td>
         <td>vavr-io/vavr</td>
         <td>vʌvr (formerly called Javaslang) is a non-commercial, non-profit object-functional library that runs with Java 8+. It aims to reduce the lines of code and increase code quality.</td>
@@ -1254,7 +1254,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="xManager" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-xManager.png" /></td>
-        <td>Productivity</td>
+        <td><a href="undefined">Productivity</a></td>
         <td>Java</td>
         <td>xManager</td>
         <td>Ad-Free, New Features &amp; Freedom</td>
@@ -1262,7 +1262,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="LazyVim" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-LazyVim.png" /></td>
-        <td>Productivity</td>
+        <td><a href="undefined">Productivity</a></td>
         <td>Lua</td>
         <td>LazyVim</td>
         <td>Neovim config for the lazy</td>
@@ -1270,7 +1270,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="LibreTube" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-LibreTube.png" /></td>
-        <td>Productivity</td>
+        <td><a href="undefined">Productivity</a></td>
         <td>Kotlin</td>
         <td>LibreTube</td>
         <td>An alternative frontend for YouTube, for Android.</td>
@@ -1278,7 +1278,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="Flet" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-flet.png" /></td>
-        <td>Productivity</td>
+        <td><a href="undefined">Productivity</a></td>
         <td>Python</td>
         <td>Flet</td>
         <td>Flet enables developers to easily build realtime web, mobile and desktop apps in Python. No frontend experience required.</td>
@@ -1286,7 +1286,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="DocsGPT" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-DocsGPT.png" /></td>
-        <td>Productivity</td>
+        <td><a href="undefined">Productivity</a></td>
         <td>Python</td>
         <td>DocsGPT</td>
         <td>GPT-powered chat for documentation search &amp; assistance.</td>
@@ -1294,7 +1294,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="Remix Icon" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-RemixIcon.png" /></td>
-        <td>Productivity</td>
+        <td><a href="undefined">Productivity</a></td>
         <td>Less</td>
         <td>Remix Icon</td>
         <td>Open source neutral style icon system</td>
@@ -1302,7 +1302,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="CotEditor" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-CotEditor.png" /></td>
-        <td>Productivity</td>
+        <td><a href="undefined">Productivity</a></td>
         <td>Swift</td>
         <td>CotEditor</td>
         <td>Lightweight Plain-Text Editor for macOS</td>
@@ -1310,7 +1310,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="Ant Design Landing" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-ant-design-landing.png" /></td>
-        <td>Productivity</td>
+        <td><a href="undefined">Productivity</a></td>
         <td>JavaScript</td>
         <td>Ant Design Landing</td>
         <td><g-emoji class="g-emoji" alias="mountain_bicyclist" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f6b5.png">?</g-emoji> Landing Pages of Ant Design System</td>
@@ -1318,7 +1318,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="Snorkel AI" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-snorkel.png" /></td>
-        <td>Productivity</td>
+        <td><a href="undefined">Productivity</a></td>
         <td>Python</td>
         <td>Snorkel AI</td>
         <td>A system for quickly generating training data with weak supervision</td>
@@ -1326,7 +1326,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="Krew" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-krew.png" /></td>
-        <td>Productivity</td>
+        <td><a href="undefined">Productivity</a></td>
         <td>Go</td>
         <td>Krew</td>
         <td><g-emoji class="g-emoji" alias="package" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4e6.png">?</g-emoji> Find and install kubectl plugins</td>
@@ -1334,7 +1334,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="thoughtbot/administrate" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-administrate.png" /></td>
-        <td>Productivity</td>
+        <td><a href="undefined">Productivity</a></td>
         <td>Ruby</td>
         <td>thoughtbot/administrate</td>
         <td>A Rails engine that helps you put together a super-flexible admin dashboard.</td>
@@ -1342,7 +1342,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="Respect\Validation" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-Validation.png" /></td>
-        <td>Productivity</td>
+        <td><a href="undefined">Productivity</a></td>
         <td>PHP</td>
         <td>Respect\Validation</td>
         <td>The most awesome validation engine ever created for PHP</td>
@@ -1350,7 +1350,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="futurepress/epub.js" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-epub.js.png" /></td>
-        <td>Productivity</td>
+        <td><a href="undefined">Productivity</a></td>
         <td>JavaScript</td>
         <td>futurepress/epub.js</td>
         <td>Enhanced eBooks in the browser.</td>
@@ -1358,7 +1358,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="Penrose" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-penrose.png" /></td>
-        <td>Productivity</td>
+        <td><a href="undefined">Productivity</a></td>
         <td>TypeScript</td>
         <td>Penrose</td>
         <td>Create beautiful diagrams just by typing mathematical notation in plain text.</td>
@@ -1366,7 +1366,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="vuejs/vetur" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-vetur.png" /></td>
-        <td>Productivity</td>
+        <td><a href="undefined">Productivity</a></td>
         <td>TypeScript</td>
         <td>vuejs/vetur</td>
         <td>Vue tooling for VS Code.</td>
@@ -1374,7 +1374,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="Shapezio" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-shapez.io_.png" /></td>
-        <td>Productivity</td>
+        <td><a href="undefined">Productivity</a></td>
         <td>JavaScript</td>
         <td>Shapezio</td>
         <td>shapez is an open source base building game on Steam inspired by factorio!</td>
@@ -1382,7 +1382,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="Elastic UI" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-eui.png" /></td>
-        <td>Productivity</td>
+        <td><a href="undefined">Productivity</a></td>
         <td>TypeScript</td>
         <td>Elastic UI</td>
         <td>Elastic UI Framework <g-emoji class="g-emoji" alias="raised_hands" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f64c.png">?</g-emoji></td>
@@ -1390,7 +1390,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="CKEditor 4" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-ckeditor4.png" /></td>
-        <td>Productivity</td>
+        <td><a href="undefined">Productivity</a></td>
         <td>Rich Text Format</td>
         <td>CKEditor 4</td>
         <td>The best enterprise-grade WYSIWYG editor. Fully customizable with countless features and plugins.</td>
@@ -1398,7 +1398,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="Blink Shell" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-blink.png" /></td>
-        <td>Productivity</td>
+        <td><a href="undefined">Productivity</a></td>
         <td>Swift</td>
         <td>Blink Shell</td>
         <td>Blink Mobile Shell for iOS (Mosh based)</td>
@@ -1406,7 +1406,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="PyCQA/isort" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-isort.jpg" /></td>
-        <td>Productivity</td>
+        <td><a href="undefined">Productivity</a></td>
         <td>Python</td>
         <td>PyCQA/isort</td>
         <td>A Python utility / library to sort imports.</td>
@@ -1414,7 +1414,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="DiceBear" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-dicebear.png" /></td>
-        <td>Productivity</td>
+        <td><a href="undefined">Productivity</a></td>
         <td>TypeScript</td>
         <td>DiceBear</td>
         <td>DiceBear is an avatar library for designers and developers. <g-emoji class="g-emoji" alias="earth_africa" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f30d.png">?</g-emoji></td>
@@ -1422,7 +1422,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="RSS-Bridge" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-rss-bridge.png" /></td>
-        <td>Productivity</td>
+        <td><a href="undefined">Productivity</a></td>
         <td>PHP</td>
         <td>RSS-Bridge</td>
         <td>The RSS feed for websites missing it</td>
@@ -1430,7 +1430,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="Hexo Theme Fluid" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-hexo-theme-fluid.png" /></td>
-        <td>Productivity</td>
+        <td><a href="undefined">Productivity</a></td>
         <td>JavaScript</td>
         <td>Hexo Theme Fluid</td>
         <td><g-emoji class="g-emoji" alias="ocean" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f30a.png">?</g-emoji> 一款 Material Design 风格的 Hexo 主题 / An elegant Material-Design theme for Hexo</td>
@@ -1438,7 +1438,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="golden-layout" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-golden-layout.png" /></td>
-        <td>Productivity</td>
+        <td><a href="undefined">Productivity</a></td>
         <td>JavaScript</td>
         <td>golden-layout</td>
         <td>A multi window layout manager for webapps</td>
@@ -1446,7 +1446,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="Dinero.js" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-dinero.js.png" /></td>
-        <td>Productivity</td>
+        <td><a href="undefined">Productivity</a></td>
         <td>TypeScript</td>
         <td>Dinero.js</td>
         <td>Create, calculate, and format money in JavaScript and TypeScript.</td>
@@ -1454,7 +1454,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="Linux Kernel Guide" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-lkmpg.jpg" /></td>
-        <td>Productivity</td>
+        <td><a href="undefined">Productivity</a></td>
         <td>TeX</td>
         <td>Linux Kernel Guide</td>
         <td>The Linux Kernel Module Programming Guide (updated for 5.x kernels)</td>
@@ -1462,7 +1462,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="Yao App Engine" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-yao.png" /></td>
-        <td>Productivity</td>
+        <td><a href="undefined">Productivity</a></td>
         <td>Go</td>
         <td>Yao App Engine</td>
         <td><g-emoji class="g-emoji" alias="rocket" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f680.png">?</g-emoji> A performance app engine to create web services and applications in minutes.Suitable for AI, IoT, Industrial Internet, Connected Vehicles, DevOps, Energy, Finance and many other use-cases.</td>
@@ -1470,7 +1470,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="alibaba/x-render" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-x-render.jpg" /></td>
-        <td>Productivity</td>
+        <td><a href="undefined">Productivity</a></td>
         <td>TypeScript</td>
         <td>alibaba/x-render</td>
         <td><g-emoji class="g-emoji" alias="biking_woman" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f6b4-2640.png">?‍♀️</g-emoji> 阿里 - 很易用的中后台「表单 / 表格 / 图表」解决方案</td>
@@ -1478,7 +1478,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="It's Magit!" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-magit.png" /></td>
-        <td>Productivity</td>
+        <td><a href="undefined">Productivity</a></td>
         <td>Emacs Lisp</td>
         <td>It's Magit!</td>
         <td>It's Magit! A Git Porcelain inside Emacs.</td>
@@ -1486,7 +1486,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="React Data Grid" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-react-data-grid.png" /></td>
-        <td>Productivity</td>
+        <td><a href="undefined">Productivity</a></td>
         <td>TypeScript</td>
         <td>React Data Grid</td>
         <td>Feature-rich and customizable data grid React component</td>
@@ -1494,7 +1494,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="Bagisto" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-bagisto.png" /></td>
-        <td>Productivity</td>
+        <td><a href="undefined">Productivity</a></td>
         <td>PHP</td>
         <td>Bagisto</td>
         <td>Free and open source laravel eCommerce platform</td>
@@ -1502,7 +1502,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="OpenNMT" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-OpenNMT-py.png" /></td>
-        <td>Productivity</td>
+        <td><a href="undefined">Productivity</a></td>
         <td>Python</td>
         <td>OpenNMT</td>
         <td>Open Source Neural Machine Translation in PyTorch</td>
@@ -1510,7 +1510,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="Xigua Player" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-xgplayer.png" /></td>
-        <td>Productivity</td>
+        <td><a href="undefined">Productivity</a></td>
         <td>JavaScript</td>
         <td>Xigua Player</td>
         <td>A HTML5 video player with a parser that saves traffic</td>
@@ -1518,7 +1518,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="Just by Chance" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-chancejs.png" /></td>
-        <td>Productivity</td>
+        <td><a href="undefined">Productivity</a></td>
         <td>JavaScript</td>
         <td>Just by Chance</td>
         <td>Chance - Random generator helper for JavaScript</td>
@@ -1526,7 +1526,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="Shiny." src="https://libraries.github20k.com/images/uploads/2023/05/newshot-shiny-1.png" /></td>
-        <td>Productivity</td>
+        <td><a href="undefined">Productivity</a></td>
         <td>R</td>
         <td>Shiny.</td>
         <td>Easy interactive web applications with R</td>
@@ -1534,7 +1534,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="Mockoon" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-mockoon-1.png" /></td>
-        <td>Productivity</td>
+        <td><a href="undefined">Productivity</a></td>
         <td>TypeScript</td>
         <td>Mockoon</td>
         <td>Mockoon is the easiest and quickest way to run mock APIs locally. No remote deployment, no account required, open source.</td>
@@ -1542,7 +1542,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="CSS Doodle" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-css-doodle-1.png" /></td>
-        <td>Productivity</td>
+        <td><a href="undefined">Productivity</a></td>
         <td>JavaScript</td>
         <td>CSS Doodle</td>
         <td><g-emoji class="g-emoji" alias="art" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f3a8.png">?</g-emoji> A web component for drawing patterns with CSS.</td>
@@ -1550,7 +1550,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="Nannou" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-nannou-1.png" /></td>
-        <td>Productivity</td>
+        <td><a href="undefined">Productivity</a></td>
         <td>Rust</td>
         <td>Nannou</td>
         <td>A Creative Coding Framework for Rust.</td>
@@ -1558,7 +1558,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="Timber Documentation" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-timber-1.png" /></td>
-        <td>Productivity</td>
+        <td><a href="undefined">Productivity</a></td>
         <td>PHP</td>
         <td>Timber Documentation</td>
         <td>Create WordPress themes with beautiful OOP code and the Twig Template Engine</td>
@@ -1566,7 +1566,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="alda.io" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-alda-1.png" /></td>
-        <td>Productivity</td>
+        <td><a href="undefined">Productivity</a></td>
         <td>Go</td>
         <td>alda.io</td>
         <td>A music programming language for musicians. <g-emoji class="g-emoji" alias="notes" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f3b6.png">?</g-emoji></td>
@@ -1574,7 +1574,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="melonJS" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-melonJS-1.png" /></td>
-        <td>Productivity</td>
+        <td><a href="undefined">Productivity</a></td>
         <td>JavaScript</td>
         <td>melonJS</td>
         <td>a fresh, modern &amp; lightweight HTML5 game engine</td>
@@ -1582,7 +1582,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="wix/react-native-ui-lib" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-react-native-ui-lib.png" /></td>
-        <td>Productivity</td>
+        <td><a href="undefined">Productivity</a></td>
         <td>TypeScript</td>
         <td>wix/react-native-ui-lib</td>
         <td>UI Components Library for React Native</td>
@@ -1590,7 +1590,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="manifoldco/promptui" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-promptui-1.png" /></td>
-        <td>Productivity</td>
+        <td><a href="undefined">Productivity</a></td>
         <td>Go</td>
         <td>manifoldco/promptui</td>
         <td>Interactive prompt for command-line applications</td>
@@ -1598,7 +1598,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="Electron Forge" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-forge-7.png" /></td>
-        <td>Productivity</td>
+        <td><a href="undefined">Productivity</a></td>
         <td>TypeScript</td>
         <td>Electron Forge</td>
         <td><img class="emoji" title=":electron:" alt=":electron:" src="https://github.githubassets.com/images/icons/emoji/electron.png" height="20" width="20" align="absmiddle"> A complete tool for building and publishing Electron applications</td>
@@ -1606,7 +1606,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="pinterest/ktlint" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-ktlint-1.png" /></td>
-        <td>Productivity</td>
+        <td><a href="undefined">Productivity</a></td>
         <td>Kotlin</td>
         <td>pinterest/ktlint</td>
         <td>An anti-bikeshedding Kotlin linter with built-in formatter</td>
@@ -1614,7 +1614,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="model-viewer" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-model-viewer-1.png" /></td>
-        <td>Productivity</td>
+        <td><a href="undefined">Productivity</a></td>
         <td>TypeScript</td>
         <td>model-viewer</td>
         <td>Easily display interactive 3D models on the web and in AR! </td>
@@ -1622,7 +1622,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="automated-testing.info" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-awesome-test-automation-1.png" /></td>
-        <td>Productivity</td>
+        <td><a href="undefined">Productivity</a></td>
         <td>undefined</td>
         <td>automated-testing.info</td>
         <td>A curated list of awesome test automation frameworks, tools, libraries, and software for different programming languages. Sponsored by https://zapple.tech</td>
@@ -1630,7 +1630,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="GraphQL Editor" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-graphql-editor-1.png" /></td>
-        <td>Productivity</td>
+        <td><a href="undefined">Productivity</a></td>
         <td>TypeScript</td>
         <td>GraphQL Editor</td>
         <td><g-emoji class="g-emoji" alias="tv" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4fa.png">?</g-emoji> Visual Editor &amp; GraphQL IDE. Draw GraphQL schemas using visual <g-emoji class="g-emoji" alias="large_blue_diamond" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f537.png">?</g-emoji> nodes and explore GraphQL API with beautiful UI. Even <g-emoji class="g-emoji" alias="monkey" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f412.png">?</g-emoji> can do that!</td>
@@ -1638,7 +1638,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="Just the Docs" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-just-the-docs-1.png" /></td>
-        <td>Productivity</td>
+        <td><a href="undefined">Productivity</a></td>
         <td>SCSS</td>
         <td>Just the Docs</td>
         <td>A modern, high customizable, responsive Jekyll theme for documentation with built-in search.</td>
@@ -1646,7 +1646,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="Marp" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-marp-1.png" /></td>
-        <td>Productivity</td>
+        <td><a href="undefined">Productivity</a></td>
         <td>TypeScript</td>
         <td>Marp</td>
         <td>The entrance repository of Markdown presentation ecosystem</td>
@@ -1654,7 +1654,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="School Of SRE." src="https://libraries.github20k.com/images/uploads/2023/05/newshot-school-of-sre.png" /></td>
-        <td>Productivity</td>
+        <td><a href="undefined">Productivity</a></td>
         <td>HTML</td>
         <td>School Of SRE.</td>
         <td>At LinkedIn, we are using this curriculum for onboarding our entry-level talents into the SRE role.</td>
@@ -1662,7 +1662,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="Tamagui" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-tamagui-1.png" /></td>
-        <td>Productivity</td>
+        <td><a href="undefined">Productivity</a></td>
         <td>TypeScript</td>
         <td>Tamagui</td>
         <td>a better universal ui system</td>
@@ -1670,7 +1670,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="Miniflux" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-v2-2.png" /></td>
-        <td>Productivity</td>
+        <td><a href="undefined">Productivity</a></td>
         <td>Go</td>
         <td>Miniflux</td>
         <td>Minimalist and opinionated feed reader</td>
@@ -1678,7 +1678,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="rust-lang/rustfmt" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-rustfmt-2.png" /></td>
-        <td>Productivity</td>
+        <td><a href="undefined">Productivity</a></td>
         <td>Rust</td>
         <td>rust-lang/rustfmt</td>
         <td>Format Rust code</td>
@@ -1686,7 +1686,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="QOR5" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-qor-2.png" /></td>
-        <td>Productivity</td>
+        <td><a href="undefined">Productivity</a></td>
         <td>Go</td>
         <td>QOR5</td>
         <td>QOR is a set of libraries written in Go that abstracts common features needed for business applications, CMSs, and E-commerce systems.</td>
@@ -1694,7 +1694,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="Todotxt" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-todo.txt-cli-2.png" /></td>
-        <td>Productivity</td>
+        <td><a href="undefined">Productivity</a></td>
         <td>Shell</td>
         <td>Todotxt</td>
         <td><g-emoji class="g-emoji" alias="ballot_box_with_check" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2611.png">☑️</g-emoji> A simple and extensible shell script for managing your todo.txt file.</td>
@@ -1702,7 +1702,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="Gephi" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-gephi-2.png" /></td>
-        <td>Productivity</td>
+        <td><a href="undefined">Productivity</a></td>
         <td>Java</td>
         <td>Gephi</td>
         <td>Gephi - The Open Graph Viz Platform</td>
@@ -1710,7 +1710,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="scikit-image" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-scikit-image-2.png" /></td>
-        <td>Productivity</td>
+        <td><a href="undefined">Productivity</a></td>
         <td>Python</td>
         <td>scikit-image</td>
         <td>Image processing in Python</td>
@@ -1718,7 +1718,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="Tagbar" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-tagbar-2.png" /></td>
-        <td>Productivity</td>
+        <td><a href="undefined">Productivity</a></td>
         <td>Vim Script</td>
         <td>Tagbar</td>
         <td>Vim plugin that displays tags in a window, ordered by scope</td>
@@ -1726,7 +1726,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="vxe-table v4" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-vxe-table-2.png" /></td>
-        <td>Productivity</td>
+        <td><a href="undefined">Productivity</a></td>
         <td>TypeScript</td>
         <td>vxe-table v4</td>
         <td>vxe-table vue 表格解决方案</td>
@@ -1734,7 +1734,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="ESPHome" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-esphome-1.png" /></td>
-        <td>Productivity</td>
+        <td><a href="undefined">Productivity</a></td>
         <td>C++</td>
         <td>ESPHome</td>
         <td>ESPHome is a system to control your ESP8266/ESP32 by simple yet powerful configuration files and control them remotely through Home Automation systems.</td>
@@ -1742,7 +1742,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="AutoGluon Documentation" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-autogluon-1.png" /></td>
-        <td>Productivity</td>
+        <td><a href="undefined">Productivity</a></td>
         <td>Python</td>
         <td>AutoGluon Documentation</td>
         <td>AutoGluon: AutoML for Image, Text, Time Series, and Tabular Data</td>
@@ -1750,7 +1750,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="Docusaurus" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-docusaurus.png" /></td>
-        <td>Productivity</td>
+        <td><a href="undefined">Productivity</a></td>
         <td>TypeScript</td>
         <td>Docusaurus</td>
         <td>Easy to maintain open source documentation websites.</td>
@@ -1758,7 +1758,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="Org-roam" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-org-roam.png" /></td>
-        <td>Productivity</td>
+        <td><a href="undefined">Productivity</a></td>
         <td>Emacs Lisp</td>
         <td>Org-roam</td>
         <td>Rudimentary Roam replica with Org-mode</td>
@@ -1766,7 +1766,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="linvo-io/linvo-scraper" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-linvo-scraper.png" /></td>
-        <td>Productivity</td>
+        <td><a href="undefined">Productivity</a></td>
         <td>TypeScript</td>
         <td>linvo-io/linvo-scraper</td>
         <td>Linkedin Automation Bot with every possible scraping! Valid for 2022 used by Linvo.io</td>
@@ -1788,7 +1788,7 @@
     </tr>
         <tr>
         <td nowrap="nowrap"><img width="33" alt="OneFlow" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-oneflow.png" /></td>
-        <td>Analytics</td>
+        <td><a href="undefined">Analytics</a></td>
         <td>C++</td>
         <td>OneFlow</td>
         <td>OneFlow is a deep learning framework designed to be user-friendly, scalable and efficient.</td>
@@ -1796,7 +1796,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="Countly" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-countly-server.png" /></td>
-        <td>Analytics</td>
+        <td><a href="undefined">Analytics</a></td>
         <td>JavaScript</td>
         <td>Countly</td>
         <td>Countly is a product analytics platform that helps teams track, analyze and act-on their user actions and behaviour on mobile, web and desktop applications.</td>
@@ -1804,7 +1804,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="Ferret Fact Service" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-ferret.png" /></td>
-        <td>Analytics</td>
+        <td><a href="undefined">Analytics</a></td>
         <td>Go</td>
         <td>Ferret Fact Service</td>
         <td>Declarative web scraping</td>
@@ -1812,7 +1812,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="RAPIDS" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-cudf.png" /></td>
-        <td>Analytics</td>
+        <td><a href="undefined">Analytics</a></td>
         <td>C++</td>
         <td>RAPIDS</td>
         <td>cuDF - GPU DataFrame Library </td>
@@ -1820,7 +1820,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="react-chartjs-2" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-react-chartjs-2.png" /></td>
-        <td>Analytics</td>
+        <td><a href="undefined">Analytics</a></td>
         <td>TypeScript</td>
         <td>react-chartjs-2</td>
         <td>React components for Chart.js, the most popular charting library</td>
@@ -1828,7 +1828,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="Librosa" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-librosa.png" /></td>
-        <td>Analytics</td>
+        <td><a href="undefined">Analytics</a></td>
         <td>Python</td>
         <td>Librosa</td>
         <td>Python library for audio and music analysis</td>
@@ -1836,7 +1836,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="SandDance" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-SandDance.png" /></td>
-        <td>Analytics</td>
+        <td><a href="undefined">Analytics</a></td>
         <td>TypeScript</td>
         <td>SandDance</td>
         <td>Visually explore, understand, and present your data.</td>
@@ -1844,7 +1844,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="Zeppelin Solutions" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-zeppelin.png" /></td>
-        <td>Analytics</td>
+        <td><a href="undefined">Analytics</a></td>
         <td>Java</td>
         <td>Zeppelin Solutions</td>
         <td>Web-based notebook that enables data-driven, interactive data analytics and collaborative documents with SQL, Scala and more.</td>
@@ -1852,7 +1852,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="Apache SeaTunnel" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-incubator-seatunnel-2.png" /></td>
-        <td>Analytics</td>
+        <td><a href="undefined">Analytics</a></td>
         <td>Java</td>
         <td>Apache SeaTunnel</td>
         <td>SeaTunnel is a distributed, high-performance data integration platform for the synchronization and transformation of massive data (offline &amp; real-time).</td>
@@ -1874,7 +1874,7 @@
     </tr>
         <tr>
         <td nowrap="nowrap"><img width="33" alt="PrivateBin" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-PrivateBin.png" /></td>
-        <td>Security</td>
+        <td><a href="undefined">Security</a></td>
         <td>PHP</td>
         <td>PrivateBin</td>
         <td>A minimalist, open source online pastebin where the server has zero knowledge of pasted data. Data is encrypted/decrypted in the browser using 256 bits AES.</td>
@@ -1882,7 +1882,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="phpseclib" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-phpseclib.png" /></td>
-        <td>Security</td>
+        <td><a href="undefined">Security</a></td>
         <td>PHP</td>
         <td>phpseclib</td>
         <td>PHP Secure Communications Library</td>
@@ -1890,7 +1890,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="SagerNet/SagerNet" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-SagerNet.png" /></td>
-        <td>Security</td>
+        <td><a href="undefined">Security</a></td>
         <td>Kotlin</td>
         <td>SagerNet/SagerNet</td>
         <td>The universal proxy toolchain for Android</td>
@@ -1898,7 +1898,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="Doorkeeper Guides" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-doorkeeper.png" /></td>
-        <td>Security</td>
+        <td><a href="undefined">Security</a></td>
         <td>Ruby</td>
         <td>Doorkeeper Guides</td>
         <td>Doorkeeper is an OAuth 2 provider for Ruby on Rails / Grape.</td>
@@ -1906,7 +1906,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="gopass" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-gopass.png" /></td>
-        <td>Security</td>
+        <td><a href="undefined">Security</a></td>
         <td>Go</td>
         <td>gopass</td>
         <td>The slightly more awesome standard unix password manager for teams</td>
@@ -1914,7 +1914,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="Smallstep" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-certificates.png" /></td>
-        <td>Security</td>
+        <td><a href="undefined">Security</a></td>
         <td>Go</td>
         <td>Smallstep</td>
         <td><g-emoji class="g-emoji" alias="shield" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f6e1.png">?️</g-emoji> A private certificate authority (X.509 &amp; SSH) &amp; ACME server for secure automated certificate management, so you can use TLS everywhere &amp; SSO for SSH.</td>
@@ -1922,7 +1922,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="Tutanota" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-tutanota.png" /></td>
-        <td>Security</td>
+        <td><a href="undefined">Security</a></td>
         <td>TypeScript</td>
         <td>Tutanota</td>
         <td>Tutanota is an email service with a strong focus on security and privacy that lets you encrypt emails, contacts and calendar entries on all your devices.</td>
@@ -1930,7 +1930,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="AdAway" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-AdAway.png" /></td>
-        <td>Security</td>
+        <td><a href="undefined">Security</a></td>
         <td>C</td>
         <td>AdAway</td>
         <td>AdAway is a free and open source ad blocker for Android. </td>
@@ -1938,7 +1938,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="GitHub" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-pwndbg.png" /></td>
-        <td>Security</td>
+        <td><a href="undefined">Security</a></td>
         <td>Python</td>
         <td>GitHub</td>
         <td>Exploit Development and Reverse Engineering with GDB Made Easy</td>
@@ -1946,7 +1946,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="OWASP Security Guide" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-wstg.jpg" /></td>
-        <td>Security</td>
+        <td><a href="undefined">Security</a></td>
         <td>Dockerfile</td>
         <td>OWASP Security Guide</td>
         <td>The Web Security Testing Guide is a comprehensive Open Source guide to testing the security of web applications and web services.</td>
@@ -1954,7 +1954,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="Notesnook by Streetwriters LLC" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-notesnook.png" /></td>
-        <td>Security</td>
+        <td><a href="undefined">Security</a></td>
         <td>JavaScript</td>
         <td>Notesnook by Streetwriters LLC</td>
         <td>A fully open source &amp; end-to-end encrypted note taking alternative to Evernote.</td>
@@ -1962,7 +1962,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="Wazuh" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-wazuh.png" /></td>
-        <td>Security</td>
+        <td><a href="undefined">Security</a></td>
         <td>C</td>
         <td>Wazuh</td>
         <td>Wazuh - The Open Source Security Platform. Unified XDR and SIEM protection for endpoints and cloud workloads.</td>
@@ -1970,7 +1970,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="Casdoor" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-casdoor.png" /></td>
-        <td>Security</td>
+        <td><a href="undefined">Security</a></td>
         <td>Go</td>
         <td>Casdoor</td>
         <td>An open-source Identity and Access Management (IAM) / Single-Sign-On (SSO) platform powered by Casbin and AI gateway with web UI supporting OAuth 2.0, OIDC, SAML and OpenAI ChatGPT</td>
@@ -1978,7 +1978,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="veracrypt/VeraCrypt" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-VeraCrypt-1.png" /></td>
-        <td>Security</td>
+        <td><a href="undefined">Security</a></td>
         <td>C</td>
         <td>veracrypt/VeraCrypt</td>
         <td>Disk encryption with strong security based on TrueCrypt</td>
@@ -1986,7 +1986,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="Laravel Socialite" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-socialite-1.png" /></td>
-        <td>Security</td>
+        <td><a href="undefined">Security</a></td>
         <td>PHP</td>
         <td>Laravel Socialite</td>
         <td>Laravel wrapper around OAuth 1 &amp; OAuth 2 libraries.</td>
@@ -1994,7 +1994,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="beemdevelopment/Aegis" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-Aegis-1.png" /></td>
-        <td>Security</td>
+        <td><a href="undefined">Security</a></td>
         <td>Java</td>
         <td>beemdevelopment/Aegis</td>
         <td>A free, secure and open source app for Android to manage your 2-step verification tokens.</td>
@@ -2002,7 +2002,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="OnionShare" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-onionshare-1.png" /></td>
-        <td>Security</td>
+        <td><a href="undefined">Security</a></td>
         <td>Python</td>
         <td>OnionShare</td>
         <td>Securely and anonymously share files, host websites, and chat with friends using the Tor network</td>
@@ -2010,7 +2010,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="aquasecurity/tfsec" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-tfsec-1.png" /></td>
-        <td>Security</td>
+        <td><a href="undefined">Security</a></td>
         <td>Go</td>
         <td>aquasecurity/tfsec</td>
         <td>Security scanner for your Terraform code</td>
@@ -2018,7 +2018,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="Mandiant" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-commando-vm-1.png" /></td>
-        <td>Security</td>
+        <td><a href="undefined">Security</a></td>
         <td>PowerShell</td>
         <td>Mandiant</td>
         <td>Complete Mandiant Offensive VM (Commando VM), a fully customizable Windows-based pentesting virtual machine distribution. commandovm@mandiant.com</td>
@@ -2026,7 +2026,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="Bitwarden" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-clients-1.png" /></td>
-        <td>Security</td>
+        <td><a href="undefined">Security</a></td>
         <td>TypeScript</td>
         <td>Bitwarden</td>
         <td>Bitwarden client applications (web, browser extension, desktop, and cli)</td>
@@ -2034,7 +2034,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="Akamai" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-monkey-1.jpg" /></td>
-        <td>Security</td>
+        <td><a href="undefined">Security</a></td>
         <td>Python</td>
         <td>Akamai</td>
         <td>Infection Monkey - An open-source adversary emulation platform</td>
@@ -2042,7 +2042,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="CodeQL" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-codeql-2.png" /></td>
-        <td>Security</td>
+        <td><a href="undefined">Security</a></td>
         <td>CodeQL</td>
         <td>CodeQL</td>
         <td>CodeQL: the libraries and queries that power security researchers around the world, as well as code scanning in GitHub Advanced Security</td>
@@ -2064,7 +2064,7 @@
     </tr>
         <tr>
         <td nowrap="nowrap"><img width="33" alt="The Lounge" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-thelounge.png" /></td>
-        <td>Collaboration</td>
+        <td><a href="undefined">Collaboration</a></td>
         <td>TypeScript</td>
         <td>The Lounge</td>
         <td><g-emoji class="g-emoji" alias="speech_balloon" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4ac.png">?</g-emoji> ‎ Modern, responsive, cross-platform, self-hosted web IRC client</td>
@@ -2072,7 +2072,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="Danger" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-danger.png" /></td>
-        <td>Collaboration</td>
+        <td><a href="undefined">Collaboration</a></td>
         <td>Ruby</td>
         <td>Danger</td>
         <td><g-emoji class="g-emoji" alias="no_entry_sign" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f6ab.png">?</g-emoji> Stop saying "you forgot to …" in code review (in Ruby)</td>
@@ -2080,7 +2080,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="Shopify Polaris" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-polaris.png" /></td>
-        <td>Collaboration</td>
+        <td><a href="undefined">Collaboration</a></td>
         <td>TypeScript</td>
         <td>Shopify Polaris</td>
         <td>Shopify’s design system to help us work together to build a great experience for all of our merchants.</td>
@@ -2088,7 +2088,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="mumble-voip/mumble" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-mumble.png" /></td>
-        <td>Collaboration</td>
+        <td><a href="undefined">Collaboration</a></td>
         <td>C++</td>
         <td>mumble-voip/mumble</td>
         <td>Mumble is an open-source, low-latency, high quality voice chat software.</td>
@@ -2096,7 +2096,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="Discord Developer Portal" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-discord-api-docs.png" /></td>
-        <td>Collaboration</td>
+        <td><a href="undefined">Collaboration</a></td>
         <td>Markdown</td>
         <td>Discord Developer Portal</td>
         <td>Official Discord API Documentation</td>
@@ -2104,7 +2104,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="screego/server" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-server.png" /></td>
-        <td>Collaboration</td>
+        <td><a href="undefined">Collaboration</a></td>
         <td>TypeScript</td>
         <td>screego/server</td>
         <td>screen sharing for developers https://screego.net/</td>
@@ -2112,7 +2112,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="StackStorm" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-st2.jpg" /></td>
-        <td>Collaboration</td>
+        <td><a href="undefined">Collaboration</a></td>
         <td>Python</td>
         <td>StackStorm</td>
         <td>StackStorm (aka "IFTTT for Ops") is event-driven automation for auto-remediation, incident responses, troubleshooting, deployments, and more for DevOps and SREs. Includes rules engine, workflow, 16…</td>
@@ -2120,7 +2120,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="Fonoster" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-fonoster.png" /></td>
-        <td>Collaboration</td>
+        <td><a href="undefined">Collaboration</a></td>
         <td>JavaScript</td>
         <td>Fonoster</td>
         <td><g-emoji class="g-emoji" alias="rocket" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f680.png">?</g-emoji> The open-source alternative to Twilio</td>
@@ -2128,7 +2128,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="kickstarter/android-oss" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-android-oss.png" /></td>
-        <td>Collaboration</td>
+        <td><a href="undefined">Collaboration</a></td>
         <td>Kotlin</td>
         <td>kickstarter/android-oss</td>
         <td>Kickstarter for Android. Bring new ideas to life, anywhere.</td>
@@ -2136,7 +2136,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="Supabase" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-realtime.png" /></td>
-        <td>Collaboration</td>
+        <td><a href="undefined">Collaboration</a></td>
         <td>Elixir</td>
         <td>Supabase</td>
         <td>Broadcast, Presence, and Postgres Changes via WebSockets</td>
@@ -2144,7 +2144,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="MDN" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-learning-area.png" /></td>
-        <td>Collaboration</td>
+        <td><a href="undefined">Collaboration</a></td>
         <td>HTML</td>
         <td>MDN</td>
         <td>Github repo for the MDN Learning Area. </td>
@@ -2152,7 +2152,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="WeChat Open Doc" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-miniprogram-demo.png" /></td>
-        <td>Collaboration</td>
+        <td><a href="undefined">Collaboration</a></td>
         <td>JavaScript</td>
         <td>WeChat Open Doc</td>
         <td>微信小程序组件 / API / 云开发示例</td>
@@ -2160,7 +2160,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="HumHub" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-humhub.png" /></td>
-        <td>Collaboration</td>
+        <td><a href="undefined">Collaboration</a></td>
         <td>PHP</td>
         <td>HumHub</td>
         <td>HumHub is an Open Source Enterprise Social Network. Easy to install, intuitive to use and extendable with countless freely available modules.</td>
@@ -2168,7 +2168,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="Atlantis" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-atlantis.png" /></td>
-        <td>Collaboration</td>
+        <td><a href="undefined">Collaboration</a></td>
         <td>Go</td>
         <td>Atlantis</td>
         <td>Terraform Pull Request Automation</td>
@@ -2176,7 +2176,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="conventional-commits/conventionalcommits.org" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-conventionalcommits.org_.jpg" /></td>
-        <td>Collaboration</td>
+        <td><a href="undefined">Collaboration</a></td>
         <td>SCSS</td>
         <td>conventional-commits/conventionalcommits.org</td>
         <td>The conventional commits specification</td>
@@ -2184,7 +2184,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="ProcessOne" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-ejabberd-1.png" /></td>
-        <td>Collaboration</td>
+        <td><a href="undefined">Collaboration</a></td>
         <td>Erlang</td>
         <td>ProcessOne</td>
         <td>Robust, Ubiquitous and Massively Scalable Messaging Platform (XMPP, MQTT, SIP Server)</td>
@@ -2192,7 +2192,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="Rails Girls Guides" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-guides.railsgirls.com_-1.png" /></td>
-        <td>Collaboration</td>
+        <td><a href="undefined">Collaboration</a></td>
         <td>HTML</td>
         <td>Rails Girls Guides</td>
         <td>Rails Girls Guides</td>
@@ -2200,7 +2200,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="BotMan" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-botman-1.png" /></td>
-        <td>Collaboration</td>
+        <td><a href="undefined">Collaboration</a></td>
         <td>PHP</td>
         <td>BotMan</td>
         <td>A framework agnostic PHP library to build chat bots</td>
@@ -2208,7 +2208,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="Flarum" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-framework-1.png" /></td>
-        <td>Collaboration</td>
+        <td><a href="undefined">Collaboration</a></td>
         <td>PHP</td>
         <td>Flarum</td>
         <td>Simple forum software for building great communities.</td>
@@ -2216,7 +2216,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="DeepPavlov" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-DeepPavlov.png" /></td>
-        <td>Collaboration</td>
+        <td><a href="undefined">Collaboration</a></td>
         <td>Python</td>
         <td>DeepPavlov</td>
         <td>An open source library for deep learning end-to-end dialog systems and chatbots.</td>
@@ -2224,7 +2224,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="Unity" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-open-project-1-2.png" /></td>
-        <td>Collaboration</td>
+        <td><a href="undefined">Collaboration</a></td>
         <td>C#</td>
         <td>Unity</td>
         <td>Unity Open Project #1: Chop Chop</td>
@@ -2232,7 +2232,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="Taiga" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-taiga-back-2.png" /></td>
-        <td>Collaboration</td>
+        <td><a href="undefined">Collaboration</a></td>
         <td>Python</td>
         <td>Taiga</td>
         <td>Agile project management platform. Built on top of Django and AngularJS</td>
@@ -2240,7 +2240,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="WireMock" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-wiremock-3.png" /></td>
-        <td>Collaboration</td>
+        <td><a href="undefined">Collaboration</a></td>
         <td>Java</td>
         <td>WireMock</td>
         <td>A tool for mocking HTTP services</td>
@@ -2262,7 +2262,7 @@
     </tr>
         <tr>
         <td nowrap="nowrap"><img width="33" alt="Novu" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-novu-2.png" /></td>
-        <td>Notifications</td>
+        <td><a href="undefined">Notifications</a></td>
         <td>TypeScript</td>
         <td>Novu</td>
         <td>The open-source notification infrastructure with fully functional embedded notification center</td>
@@ -2284,7 +2284,7 @@
     </tr>
         <tr>
         <td nowrap="nowrap"><img width="33" alt="Setup Falcon SQL Client" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-falcon.png" /></td>
-        <td>Databases</td>
+        <td><a href="undefined">Databases</a></td>
         <td>JavaScript</td>
         <td>Setup Falcon SQL Client</td>
         <td>Free, open-source SQL client for Windows and Mac <g-emoji class="g-emoji" alias="eagle" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f985.png">?</g-emoji></td>
@@ -2292,7 +2292,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="Materialize" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-materialize.png" /></td>
-        <td>Databases</td>
+        <td><a href="undefined">Databases</a></td>
         <td>Rust</td>
         <td>Materialize</td>
         <td>Materialize is a fast, distributed SQL database built on streaming internals.</td>
@@ -2300,7 +2300,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="cashapp/sqldelight" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-sqldelight.png" /></td>
-        <td>Databases</td>
+        <td><a href="undefined">Databases</a></td>
         <td>Kotlin</td>
         <td>cashapp/sqldelight</td>
         <td>SQLDelight - Generates typesafe Kotlin APIs from SQL</td>
@@ -2308,7 +2308,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="Realm" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-realm-js.png" /></td>
-        <td>Databases</td>
+        <td><a href="undefined">Databases</a></td>
         <td>TypeScript</td>
         <td>Realm</td>
         <td> Realm is a mobile database: an alternative to SQLite &amp; key-value stores</td>
@@ -2316,7 +2316,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="jOOQ" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-jOOQ.jpg" /></td>
-        <td>Databases</td>
+        <td><a href="undefined">Databases</a></td>
         <td>Java</td>
         <td>jOOQ</td>
         <td>jOOQ is the best way to write SQL in Java</td>
@@ -2324,7 +2324,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="ksqlDB" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-ksql.png" /></td>
-        <td>Databases</td>
+        <td><a href="undefined">Databases</a></td>
         <td>Java</td>
         <td>ksqlDB</td>
         <td>The database purpose-built for stream processing applications.</td>
@@ -2332,7 +2332,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="pypdf" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-pypdf.png" /></td>
-        <td>Databases</td>
+        <td><a href="undefined">Databases</a></td>
         <td>Python</td>
         <td>pypdf</td>
         <td>A pure-python PDF library capable of splitting, merging, cropping, and transforming the pages of PDF files</td>
@@ -2340,7 +2340,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="PyGithub" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-PyGithub.png" /></td>
-        <td>Databases</td>
+        <td><a href="undefined">Databases</a></td>
         <td>Python</td>
         <td>PyGithub</td>
         <td>Typed interactions with the GitHub API v3</td>
@@ -2348,7 +2348,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="sqlfluff/sqlfluff" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-sqlfluff.png" /></td>
-        <td>Databases</td>
+        <td><a href="undefined">Databases</a></td>
         <td>Python</td>
         <td>sqlfluff/sqlfluff</td>
         <td>A modular SQL linter and auto-formatter with support for multiple dialects and templated code.</td>
@@ -2356,7 +2356,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="MyBatis Generator Core" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-generator-1.png" /></td>
-        <td>Databases</td>
+        <td><a href="undefined">Databases</a></td>
         <td>Java</td>
         <td>MyBatis Generator Core</td>
         <td>A code generator for MyBatis.</td>
@@ -2364,7 +2364,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="Chroma" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-chroma-1.png" /></td>
-        <td>Databases</td>
+        <td><a href="undefined">Databases</a></td>
         <td>Python</td>
         <td>Chroma</td>
         <td>the AI-native open-source embedding database</td>
@@ -2372,7 +2372,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="laravel-medialibrary" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-laravel-medialibrary-1.png" /></td>
-        <td>Databases</td>
+        <td><a href="undefined">Databases</a></td>
         <td>PHP</td>
         <td>laravel-medialibrary</td>
         <td>Associate files with Eloquent models</td>
@@ -2380,7 +2380,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="StackExchange.Redis" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-StackExchange.Redis_.png" /></td>
-        <td>Databases</td>
+        <td><a href="undefined">Databases</a></td>
         <td>C#</td>
         <td>StackExchange.Redis</td>
         <td>General purpose redis client</td>
@@ -2388,7 +2388,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="FASTER" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-FASTER-1.png" /></td>
-        <td>Databases</td>
+        <td><a href="undefined">Databases</a></td>
         <td>C#</td>
         <td>FASTER</td>
         <td>Fast persistent recoverable log and key-value store + cache, in C# and C++.</td>
@@ -2396,7 +2396,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="OceanBase Community" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-oceanbase-2.png" /></td>
-        <td>Databases</td>
+        <td><a href="undefined">Databases</a></td>
         <td>C++</td>
         <td>OceanBase Community</td>
         <td>OceanBase is an enterprise distributed relational database with high availability, high performance, horizontal scalability, and compatibility with SQL standards.</td>
@@ -2404,7 +2404,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="Our World in Data" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-covid-19-data-3.png" /></td>
-        <td>Databases</td>
+        <td><a href="undefined">Databases</a></td>
         <td>Python</td>
         <td>Our World in Data</td>
         <td>Data on COVID-19 (coronavirus) cases, deaths, hospitalizations, tests • All countries • Updated daily by Our World in Data</td>
@@ -2412,7 +2412,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="Delta Lake" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-delta-2.png" /></td>
-        <td>Databases</td>
+        <td><a href="undefined">Databases</a></td>
         <td>Scala</td>
         <td>Delta Lake</td>
         <td>An open-source storage framework that enables building a Lakehouse architecture with compute engines including Spark, PrestoDB, Flink, Trino, and Hive and APIs</td>
@@ -2420,7 +2420,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="Appwrite" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-appwrite.png" /></td>
-        <td>Databases</td>
+        <td><a href="undefined">Databases</a></td>
         <td>TypeScript</td>
         <td>Appwrite</td>
         <td>Build Fast. Scale Big. All in One Place.</td>
@@ -2428,7 +2428,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="lettuce-io/lettuce-core" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-lettuce-core.png" /></td>
-        <td>Databases</td>
+        <td><a href="undefined">Databases</a></td>
         <td>Java</td>
         <td>lettuce-io/lettuce-core</td>
         <td>Advanced Java Redis client for thread-safe sync, async, and reactive usage. Supports Cluster, Sentinel, Pipelining, and codecs.</td>
@@ -2450,7 +2450,7 @@
     </tr>
         <tr>
         <td nowrap="nowrap"><img width="33" alt="ClusterFuzz" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-clusterfuzz.png" /></td>
-        <td>Infrastructure</td>
+        <td><a href="undefined">Infrastructure</a></td>
         <td>Python</td>
         <td>ClusterFuzz</td>
         <td>Scalable fuzzing infrastructure.</td>
@@ -2458,7 +2458,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="React Native Skia" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-react-native-skia.png" /></td>
-        <td>Infrastructure</td>
+        <td><a href="undefined">Infrastructure</a></td>
         <td>TypeScript</td>
         <td>React Native Skia</td>
         <td>High-performance React Native Graphics using Skia</td>
@@ -2466,7 +2466,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="JUCE" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-JUCE.png" /></td>
-        <td>Infrastructure</td>
+        <td><a href="undefined">Infrastructure</a></td>
         <td>C++</td>
         <td>JUCE</td>
         <td>JUCE is an open-source cross-platform C++ application framework for desktop and mobile applications, including VST, VST3, AU, AUv3, RTAS and AAX audio plug-ins.</td>
@@ -2474,7 +2474,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="Frappe Framework" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-frappe.png" /></td>
-        <td>Infrastructure</td>
+        <td><a href="undefined">Infrastructure</a></td>
         <td>Python</td>
         <td>Frappe Framework</td>
         <td>Low code web framework for real world applications, in Python and Javascript</td>
@@ -2482,7 +2482,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="Cosmos: The Internet of Blockchains" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-cosmos-sdk.png" /></td>
-        <td>Infrastructure</td>
+        <td><a href="undefined">Infrastructure</a></td>
         <td>Go</td>
         <td>Cosmos: The Internet of Blockchains</td>
         <td><g-emoji class="g-emoji" alias="chains" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/26d3.png">⛓️</g-emoji> A Framework for Building High Value Public Blockchains <g-emoji class="g-emoji" alias="sparkles" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2728.png">✨</g-emoji></td>
@@ -2490,7 +2490,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="Drools" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-drools.png" /></td>
-        <td>Infrastructure</td>
+        <td><a href="undefined">Infrastructure</a></td>
         <td>Java</td>
         <td>Drools</td>
         <td>Drools is a rule engine, DMN engine and complex event processing (CEP) engine for Java.</td>
@@ -2498,7 +2498,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="KubeVela" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-kubevela.png" /></td>
-        <td>Infrastructure</td>
+        <td><a href="undefined">Infrastructure</a></td>
         <td>Go</td>
         <td>KubeVela</td>
         <td>The Modern Application Platform.</td>
@@ -2506,7 +2506,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="Musician's Friend" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-mmf.png" /></td>
-        <td>Infrastructure</td>
+        <td><a href="undefined">Infrastructure</a></td>
         <td>Python</td>
         <td>Musician's Friend</td>
         <td>A modular framework for vision &amp; language multimodal research from Facebook AI Research (FAIR)</td>
@@ -2514,7 +2514,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="Hyperf" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-hyperf.jpg" /></td>
-        <td>Infrastructure</td>
+        <td><a href="undefined">Infrastructure</a></td>
         <td>PHP</td>
         <td>Hyperf</td>
         <td><g-emoji class="g-emoji" alias="rocket" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f680.png">?</g-emoji> A coroutine framework that focuses on hyperspeed and flexibility. Building microservice or middleware with ease.</td>
@@ -2522,7 +2522,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="mediasoup" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-mediasoup.png" /></td>
-        <td>Infrastructure</td>
+        <td><a href="undefined">Infrastructure</a></td>
         <td>C++</td>
         <td>mediasoup</td>
         <td>Cutting Edge WebRTC Video Conferencing</td>
@@ -2530,7 +2530,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="re-frame" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-re-frame.png" /></td>
-        <td>Infrastructure</td>
+        <td><a href="undefined">Infrastructure</a></td>
         <td>Clojure</td>
         <td>re-frame</td>
         <td>A ClojureScript framework for building user interfaces, leveraging React</td>
@@ -2538,7 +2538,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="MudBlazor" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-MudBlazor.png" /></td>
-        <td>Infrastructure</td>
+        <td><a href="undefined">Infrastructure</a></td>
         <td>C#</td>
         <td>MudBlazor</td>
         <td>Blazor Component Library based on Material design with an emphasis on ease of use. Mainly written in C# with Javascript kept to a bare minimum it empowers .NET developers to easily debug it if needed.</td>
@@ -2546,7 +2546,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="PowerJob/PowerJob" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-PowerJob.png" /></td>
-        <td>Infrastructure</td>
+        <td><a href="undefined">Infrastructure</a></td>
         <td>Java</td>
         <td>PowerJob/PowerJob</td>
         <td>Enterprise job scheduling middleware with distributed computing ability.</td>
@@ -2554,7 +2554,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="Waydroid" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-waydroid.png" /></td>
-        <td>Infrastructure</td>
+        <td><a href="undefined">Infrastructure</a></td>
         <td>Python</td>
         <td>Waydroid</td>
         <td>Waydroid uses a container-based approach to boot a full Android system on a regular GNU/Linux system like Ubuntu.</td>
@@ -2562,7 +2562,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="The Rustup Book." src="https://libraries.github20k.com/images/uploads/2023/05/newshot-rustup.png" /></td>
-        <td>Infrastructure</td>
+        <td><a href="undefined">Infrastructure</a></td>
         <td>Rust</td>
         <td>The Rustup Book.</td>
         <td>The Rust toolchain installer</td>
@@ -2570,7 +2570,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="Fn Project" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-fn.png" /></td>
-        <td>Infrastructure</td>
+        <td><a href="undefined">Infrastructure</a></td>
         <td>Go</td>
         <td>Fn Project</td>
         <td>The container native, cloud agnostic serverless platform.</td>
@@ -2578,7 +2578,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="Universal Ctags" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-ctags.png" /></td>
-        <td>Infrastructure</td>
+        <td><a href="undefined">Infrastructure</a></td>
         <td>C</td>
         <td>Universal Ctags</td>
         <td>A maintained ctags implementation</td>
@@ -2586,7 +2586,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="Tendermint" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-tendermint.png" /></td>
-        <td>Infrastructure</td>
+        <td><a href="undefined">Infrastructure</a></td>
         <td>Go</td>
         <td>Tendermint</td>
         <td>⟁ Tendermint Core (BFT Consensus) in Go</td>
@@ -2594,7 +2594,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="MassTransit" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-MassTransit.png" /></td>
-        <td>Infrastructure</td>
+        <td><a href="undefined">Infrastructure</a></td>
         <td>C#</td>
         <td>MassTransit</td>
         <td>Distributed Application Framework for .NET</td>
@@ -2602,7 +2602,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="Recast Navigation" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-recastnavigation.png" /></td>
-        <td>Infrastructure</td>
+        <td><a href="undefined">Infrastructure</a></td>
         <td>C++</td>
         <td>Recast Navigation</td>
         <td>Navigation-mesh Toolset for Games</td>
@@ -2610,7 +2610,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="Open Source Routing Machine" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-osrm-backend.png" /></td>
-        <td>Infrastructure</td>
+        <td><a href="undefined">Infrastructure</a></td>
         <td>C++</td>
         <td>Open Source Routing Machine</td>
         <td>Open Source Routing Machine - C++ backend</td>
@@ -2618,7 +2618,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="The Lura Project" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-lura.png" /></td>
-        <td>Infrastructure</td>
+        <td><a href="undefined">Infrastructure</a></td>
         <td>Go</td>
         <td>The Lura Project</td>
         <td>Ultra performant API Gateway with middlewares. A project hosted at The Linux Foundation</td>
@@ -2626,7 +2626,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="BEM" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-getbem.github.io_.png" /></td>
-        <td>Infrastructure</td>
+        <td><a href="undefined">Infrastructure</a></td>
         <td>Astro</td>
         <td>BEM</td>
         <td>Get BEM to all people in simplest way</td>
@@ -2634,7 +2634,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="Hysteria" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-hysteria.png" /></td>
-        <td>Infrastructure</td>
+        <td><a href="undefined">Infrastructure</a></td>
         <td>Go</td>
         <td>Hysteria</td>
         <td>Hysteria is a feature-packed proxy &amp; relay tool optimized for lossy, unstable connections (e.g. satellite networks, congested public Wi-Fi, connecting to foreign servers from China)</td>
@@ -2642,7 +2642,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="Telegram Database Library" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-td-4.png" /></td>
-        <td>Infrastructure</td>
+        <td><a href="undefined">Infrastructure</a></td>
         <td>C++</td>
         <td>Telegram Database Library</td>
         <td>Cross-platform library for building Telegram clients</td>
@@ -2650,7 +2650,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="Hover" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-go-flutter.png" /></td>
-        <td>Infrastructure</td>
+        <td><a href="undefined">Infrastructure</a></td>
         <td>Go</td>
         <td>Hover</td>
         <td>Flutter on Windows, MacOS and Linux - based on Flutter Embedding, Go and GLFW.</td>
@@ -2658,7 +2658,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="arkime/arkime" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-arkime.png" /></td>
-        <td>Infrastructure</td>
+        <td><a href="undefined">Infrastructure</a></td>
         <td>JavaScript</td>
         <td>arkime/arkime</td>
         <td>Arkime (formerly Moloch) is an open source, large scale, full packet capturing, indexing, and database system.</td>
@@ -2666,7 +2666,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="SteamVR" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-openvr.png" /></td>
-        <td>Infrastructure</td>
+        <td><a href="undefined">Infrastructure</a></td>
         <td>C++</td>
         <td>SteamVR</td>
         <td>OpenVR SDK</td>
@@ -2674,7 +2674,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="microG Project." src="https://libraries.github20k.com/images/uploads/2023/05/newshot-GmsCore.png" /></td>
-        <td>Infrastructure</td>
+        <td><a href="undefined">Infrastructure</a></td>
         <td>Java</td>
         <td>microG Project.</td>
         <td>Free implementation of Play Services</td>
@@ -2682,7 +2682,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="libimobiledevice" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-libimobiledevice.png" /></td>
-        <td>Infrastructure</td>
+        <td><a href="undefined">Infrastructure</a></td>
         <td>C</td>
         <td>libimobiledevice</td>
         <td>A cross-platform protocol library to communicate with iOS devices</td>
@@ -2690,7 +2690,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="ZRender" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-zrender.png" /></td>
-        <td>Infrastructure</td>
+        <td><a href="undefined">Infrastructure</a></td>
         <td>TypeScript</td>
         <td>ZRender</td>
         <td>A lightweight graphic library providing 2d draw for Apache ECharts</td>
@@ -2698,7 +2698,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="QuartzNET" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-quartznet.png" /></td>
-        <td>Infrastructure</td>
+        <td><a href="undefined">Infrastructure</a></td>
         <td>C#</td>
         <td>QuartzNET</td>
         <td>Quartz Enterprise Scheduler .NET</td>
@@ -2706,7 +2706,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="the Guardian" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-frontend.png" /></td>
-        <td>Infrastructure</td>
+        <td><a href="undefined">Infrastructure</a></td>
         <td>Scala</td>
         <td>the Guardian</td>
         <td>The Guardian DotCom.</td>
@@ -2714,7 +2714,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="Micronaut Framework" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-micronaut-core.png" /></td>
-        <td>Infrastructure</td>
+        <td><a href="undefined">Infrastructure</a></td>
         <td>Java</td>
         <td>Micronaut Framework</td>
         <td>Micronaut Application Framework</td>
@@ -2722,7 +2722,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="JUnitorg." src="https://libraries.github20k.com/images/uploads/2023/05/newshot-junit5.png" /></td>
-        <td>Infrastructure</td>
+        <td><a href="undefined">Infrastructure</a></td>
         <td>Java</td>
         <td>JUnitorg.</td>
         <td><g-emoji class="g-emoji" alias="white_check_mark" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2705.png">✅</g-emoji> The 5th major version of the programmer-friendly testing framework for Java and the JVM</td>
@@ -2730,7 +2730,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="Cloudflare Zero Trust" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-cloudflared.jpg" /></td>
-        <td>Infrastructure</td>
+        <td><a href="undefined">Infrastructure</a></td>
         <td>Go</td>
         <td>Cloudflare Zero Trust</td>
         <td>Cloudflare Tunnel client (formerly Argo Tunnel)</td>
@@ -2738,7 +2738,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="GraphQL Java" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-graphql-java.png" /></td>
-        <td>Infrastructure</td>
+        <td><a href="undefined">Infrastructure</a></td>
         <td>Java</td>
         <td>GraphQL Java</td>
         <td>GraphQL Java implementation</td>
@@ -2746,7 +2746,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="Roots" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-bedrock.png" /></td>
-        <td>Infrastructure</td>
+        <td><a href="undefined">Infrastructure</a></td>
         <td>PHP</td>
         <td>Roots</td>
         <td>WordPress boilerplate with Composer, easier configuration, and an improved folder structure</td>
@@ -2754,7 +2754,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="/en" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-kubeedge.png" /></td>
-        <td>Infrastructure</td>
+        <td><a href="undefined">Infrastructure</a></td>
         <td>Go</td>
         <td>/en</td>
         <td>Kubernetes Native Edge Computing Framework (project under CNCF)</td>
@@ -2762,7 +2762,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="express-validator" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-express-validator.png" /></td>
-        <td>Infrastructure</td>
+        <td><a href="undefined">Infrastructure</a></td>
         <td>TypeScript</td>
         <td>express-validator</td>
         <td>An express.js middleware for validator.js.</td>
@@ -2770,7 +2770,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="Vue Apollo" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-apollo.png" /></td>
-        <td>Infrastructure</td>
+        <td><a href="undefined">Infrastructure</a></td>
         <td>JavaScript</td>
         <td>Vue Apollo</td>
         <td><g-emoji class="g-emoji" alias="rocket" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f680.png">?</g-emoji> Apollo/GraphQL integration for VueJS</td>
@@ -2778,7 +2778,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="TensorFlow" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-serving.png" /></td>
-        <td>Infrastructure</td>
+        <td><a href="undefined">Infrastructure</a></td>
         <td>C++</td>
         <td>TensorFlow</td>
         <td>A flexible, high-performance serving system for machine learning models</td>
@@ -2786,7 +2786,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="CloudWeGo" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-kitex.png" /></td>
-        <td>Infrastructure</td>
+        <td><a href="undefined">Infrastructure</a></td>
         <td>Go</td>
         <td>CloudWeGo</td>
         <td>Go RPC framework with high-performance and strong-extensibility for building micro-services.</td>
@@ -2794,7 +2794,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="Pachyderm" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-pachyderm.png" /></td>
-        <td>Infrastructure</td>
+        <td><a href="undefined">Infrastructure</a></td>
         <td>Go</td>
         <td>Pachyderm</td>
         <td>Data-Centric Pipelines and Data Versioning</td>
@@ -2802,7 +2802,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="Gatling" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-gatling.png" /></td>
-        <td>Infrastructure</td>
+        <td><a href="undefined">Infrastructure</a></td>
         <td>Scala</td>
         <td>Gatling</td>
         <td>Modern Load Testing as Code</td>
@@ -2810,7 +2810,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="WasmEdge" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-WasmEdge.png" /></td>
-        <td>Infrastructure</td>
+        <td><a href="undefined">Infrastructure</a></td>
         <td>C++</td>
         <td>WasmEdge</td>
         <td>WasmEdge is a lightweight, high-performance, and extensible WebAssembly runtime for cloud native, edge, and decentralized applications. It powers serverless apps, embedded functions, microservices,…</td>
@@ -2818,7 +2818,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="CSA-IOT" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-connectedhomeip.png" /></td>
-        <td>Infrastructure</td>
+        <td><a href="undefined">Infrastructure</a></td>
         <td>C++</td>
         <td>CSA-IOT</td>
         <td>Matter (formerly Project CHIP) creates more connections between more objects, simplifying development for manufacturers and increasing compatibility for consumers, guided by the Connectivity Standa…</td>
@@ -2826,7 +2826,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="Polyfillio" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-polyfill-service.png" /></td>
-        <td>Infrastructure</td>
+        <td><a href="undefined">Infrastructure</a></td>
         <td>undefined</td>
         <td>Polyfillio</td>
         <td>Automatic polyfill service.</td>
@@ -2834,7 +2834,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="Know Streaming" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-KnowStreaming.png" /></td>
-        <td>Infrastructure</td>
+        <td><a href="undefined">Infrastructure</a></td>
         <td>Java</td>
         <td>Know Streaming</td>
         <td>一站式云原生实时流数据平台，通过0侵入、插件化构建企业级Kafka服务，极大降低操作、存储和管理实时流数据门槛</td>
@@ -2842,7 +2842,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="wasm3/wasm3" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-wasm3.png" /></td>
-        <td>Infrastructure</td>
+        <td><a href="undefined">Infrastructure</a></td>
         <td>C</td>
         <td>wasm3/wasm3</td>
         <td><g-emoji class="g-emoji" alias="rocket" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f680.png">?</g-emoji> A fast WebAssembly interpreter and the most universal WASM runtime</td>
@@ -2850,7 +2850,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="PIVPN" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-pivpn.png" /></td>
-        <td>Infrastructure</td>
+        <td><a href="undefined">Infrastructure</a></td>
         <td>Shell</td>
         <td>PIVPN</td>
         <td>The Simplest VPN installer, designed for Raspberry Pi</td>
@@ -2858,7 +2858,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="Ansible Semaphore" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-semaphore.png" /></td>
-        <td>Infrastructure</td>
+        <td><a href="undefined">Infrastructure</a></td>
         <td>Go</td>
         <td>Ansible Semaphore</td>
         <td>Modern UI for Ansible</td>
@@ -2866,7 +2866,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="Fyrox" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-Fyrox.png" /></td>
-        <td>Infrastructure</td>
+        <td><a href="undefined">Infrastructure</a></td>
         <td>Rust</td>
         <td>Fyrox</td>
         <td>3D and 2D game engine written in Rust</td>
@@ -2874,7 +2874,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="ReScript Documentation" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-rescript-compiler.png" /></td>
-        <td>Infrastructure</td>
+        <td><a href="undefined">Infrastructure</a></td>
         <td>OCaml</td>
         <td>ReScript Documentation</td>
         <td>The compiler for ReScript.</td>
@@ -2882,7 +2882,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="wxWidgets" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-wxWidgets.png" /></td>
-        <td>Infrastructure</td>
+        <td><a href="undefined">Infrastructure</a></td>
         <td>C++</td>
         <td>wxWidgets</td>
         <td>Cross-Platform C++ GUI Library</td>
@@ -2890,7 +2890,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="Outline VPN" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-outline-server-1.png" /></td>
-        <td>Infrastructure</td>
+        <td><a href="undefined">Infrastructure</a></td>
         <td>TypeScript</td>
         <td>Outline VPN</td>
         <td>Outline Manager, developed by Jigsaw. The Outline Manager application creates and manages Outline servers, powered by Shadowsocks. It uses the Electron framework to offer support for Windows, macOS…</td>
@@ -2898,7 +2898,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="NativeScript-Vue" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-nativescript-vue-1.png" /></td>
-        <td>Infrastructure</td>
+        <td><a href="undefined">Infrastructure</a></td>
         <td>TypeScript</td>
         <td>NativeScript-Vue</td>
         <td>Native mobile applications using Vue and NativeScript.</td>
@@ -2906,7 +2906,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="Scala 3" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-dotty.jpg" /></td>
-        <td>Infrastructure</td>
+        <td><a href="undefined">Infrastructure</a></td>
         <td>Scala</td>
         <td>Scala 3</td>
         <td>The Scala 3 compiler, also known as Dotty.</td>
@@ -2914,7 +2914,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="React Native Gesture Handler" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-react-native-gesture-handler-1.png" /></td>
-        <td>Infrastructure</td>
+        <td><a href="undefined">Infrastructure</a></td>
         <td>TypeScript</td>
         <td>React Native Gesture Handler</td>
         <td>Declarative API exposing platform native touch and gesture system to React Native.</td>
@@ -2922,7 +2922,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="Conda" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-conda-1.png" /></td>
-        <td>Infrastructure</td>
+        <td><a href="undefined">Infrastructure</a></td>
         <td>Python</td>
         <td>Conda</td>
         <td>A system-level, binary package and environment manager running on all major operating systems and platforms.</td>
@@ -2930,7 +2930,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="Node SerialPort" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-node-serialport-1.png" /></td>
-        <td>Infrastructure</td>
+        <td><a href="undefined">Infrastructure</a></td>
         <td>TypeScript</td>
         <td>Node SerialPort</td>
         <td>Access serial ports with JavaScript. Linux, OSX and Windows. Welcome your robotic JavaScript overlords. Better yet, program them!</td>
@@ -2938,7 +2938,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="C++ Requests" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-cpr-1.png" /></td>
-        <td>Infrastructure</td>
+        <td><a href="undefined">Infrastructure</a></td>
         <td>C++</td>
         <td>C++ Requests</td>
         <td>C++ Requests: Curl for People, a spiritual port of Python Requests.</td>
@@ -2946,7 +2946,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="Chainlist" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-chains-1.png" /></td>
-        <td>Infrastructure</td>
+        <td><a href="undefined">Infrastructure</a></td>
         <td>Kotlin</td>
         <td>Chainlist</td>
         <td>provides metadata for networkIDs and chainIDs</td>
@@ -2954,7 +2954,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="arrow-kt/arrow" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-arrow-1.png" /></td>
-        <td>Infrastructure</td>
+        <td><a href="undefined">Infrastructure</a></td>
         <td>Kotlin</td>
         <td>arrow-kt/arrow</td>
         <td>Λrrow - Functional companion to Kotlin's Standard Library</td>
@@ -2962,7 +2962,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="Simple DirectMedia Layer" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-SDL.png" /></td>
-        <td>Infrastructure</td>
+        <td><a href="undefined">Infrastructure</a></td>
         <td>C</td>
         <td>Simple DirectMedia Layer</td>
         <td>Simple Directmedia Layer</td>
@@ -2970,7 +2970,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="WebLLM" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-web-llm-1.jpg" /></td>
-        <td>Infrastructure</td>
+        <td><a href="undefined">Infrastructure</a></td>
         <td>JavaScript</td>
         <td>WebLLM</td>
         <td>Bringing large-language models and chat to web browsers. Everything runs inside the browser with no server support.</td>
@@ -2978,7 +2978,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="yaegi package" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-yaegi-1.png" /></td>
-        <td>Infrastructure</td>
+        <td><a href="undefined">Infrastructure</a></td>
         <td>Go</td>
         <td>yaegi package</td>
         <td>Yaegi is Another Elegant Go Interpreter</td>
@@ -2986,7 +2986,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="MuJoCo" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-mujoco-1.png" /></td>
-        <td>Infrastructure</td>
+        <td><a href="undefined">Infrastructure</a></td>
         <td>C</td>
         <td>MuJoCo</td>
         <td>Multi-Joint dynamics with Contact. A general purpose physics simulator.</td>
@@ -2994,7 +2994,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="MetalLB" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-metallb-1.png" /></td>
-        <td>Infrastructure</td>
+        <td><a href="undefined">Infrastructure</a></td>
         <td>Go</td>
         <td>MetalLB</td>
         <td>A network load-balancer implementation for Kubernetes using standard routing protocols</td>
@@ -3002,7 +3002,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="BFE" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-bfe-1.png" /></td>
-        <td>Infrastructure</td>
+        <td><a href="undefined">Infrastructure</a></td>
         <td>Go</td>
         <td>BFE</td>
         <td>A modern layer 7 load balancer from baidu</td>
@@ -3010,7 +3010,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="Foundry Toolkit" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-foundry.png" /></td>
-        <td>Infrastructure</td>
+        <td><a href="undefined">Infrastructure</a></td>
         <td>Rust</td>
         <td>Foundry Toolkit</td>
         <td>Foundry is a blazing fast, portable and modular toolkit for Ethereum application development written in Rust.</td>
@@ -3018,7 +3018,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="dotnetcore/CAP" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-CAP-1.png" /></td>
-        <td>Infrastructure</td>
+        <td><a href="undefined">Infrastructure</a></td>
         <td>C#</td>
         <td>dotnetcore/CAP</td>
         <td>Distributed transaction solution in micro-service base on eventually consistency, also an eventbus with Outbox pattern</td>
@@ -3026,7 +3026,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="google-map-react/google-map-react" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-google-map-react-1.png" /></td>
-        <td>Infrastructure</td>
+        <td><a href="undefined">Infrastructure</a></td>
         <td>JavaScript</td>
         <td>google-map-react/google-map-react</td>
         <td>Google map library for react that allows rendering components as markers <g-emoji class="g-emoji" alias="tada" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f389.png">?</g-emoji></td>
@@ -3034,7 +3034,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="Hanami" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-hanami-1.png" /></td>
-        <td>Infrastructure</td>
+        <td><a href="undefined">Infrastructure</a></td>
         <td>Ruby</td>
         <td>Hanami</td>
         <td>The web, with simplicity.</td>
@@ -3042,7 +3042,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="Agones" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-agones-2.png" /></td>
-        <td>Infrastructure</td>
+        <td><a href="undefined">Infrastructure</a></td>
         <td>Go</td>
         <td>Agones</td>
         <td>Dedicated Game Server Hosting and Scaling for Multiplayer Games on Kubernetes</td>
@@ -3050,7 +3050,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="Haxe - The Cross-platform Toolkit" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-haxe-2.png" /></td>
-        <td>Infrastructure</td>
+        <td><a href="undefined">Infrastructure</a></td>
         <td>Haxe</td>
         <td>Haxe - The Cross-platform Toolkit</td>
         <td>Haxe - The Cross-Platform Toolkit</td>
@@ -3058,7 +3058,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="Moleculer - Progressive microservices framework for Node.js" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-moleculer-2.png" /></td>
-        <td>Infrastructure</td>
+        <td><a href="undefined">Infrastructure</a></td>
         <td>JavaScript</td>
         <td>Moleculer - Progressive microservices framework for Node.js</td>
         <td><g-emoji class="g-emoji" alias="rocket" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f680.png">?</g-emoji> Progressive microservices framework for Node.js</td>
@@ -3066,7 +3066,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="Easy Go Containers" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-ko-1.png" /></td>
-        <td>Infrastructure</td>
+        <td><a href="undefined">Infrastructure</a></td>
         <td>Go</td>
         <td>Easy Go Containers</td>
         <td>Build and deploy Go applications</td>
@@ -3074,7 +3074,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="unisonweb/unison" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-unison.png" /></td>
-        <td>Infrastructure</td>
+        <td><a href="undefined">Infrastructure</a></td>
         <td>Haskell</td>
         <td>unisonweb/unison</td>
         <td>A friendly programming language from the future</td>
@@ -3082,7 +3082,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="ThreeDotsLabs/watermill" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-watermill.png" /></td>
-        <td>Infrastructure</td>
+        <td><a href="undefined">Infrastructure</a></td>
         <td>Go</td>
         <td>ThreeDotsLabs/watermill</td>
         <td>Building event-driven applications the easy way in Go.</td>
@@ -3090,7 +3090,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="Apache OpenWhisk" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-openwhisk-3.png" /></td>
-        <td>Infrastructure</td>
+        <td><a href="undefined">Infrastructure</a></td>
         <td>Scala</td>
         <td>Apache OpenWhisk</td>
         <td>Apache OpenWhisk is an open source serverless cloud platform</td>
@@ -3098,7 +3098,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="Amplication" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-amplication-1.png" /></td>
-        <td>Infrastructure</td>
+        <td><a href="undefined">Infrastructure</a></td>
         <td>TypeScript</td>
         <td>Amplication</td>
         <td>Auto-generating TypeScript, GraphQL, REST API, and Node.js, accelerating your full-stack development <g-emoji class="g-emoji" alias="rocket" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f680.png">?</g-emoji></td>
@@ -3106,7 +3106,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="Cerbos" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-cerbos.png" /></td>
-        <td>Infrastructure</td>
+        <td><a href="undefined">Infrastructure</a></td>
         <td>Go</td>
         <td>Cerbos</td>
         <td>Cerbos is the open core, language-agnostic, scalable authorization solution that makes user permissions and authorization simple to implement and manage by writing context-aware access control poli…</td>
@@ -3114,7 +3114,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="ZITADEL" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-zitadel-1.png" /></td>
-        <td>Infrastructure</td>
+        <td><a href="undefined">Infrastructure</a></td>
         <td>Go</td>
         <td>ZITADEL</td>
         <td>ZITADEL - The best of Auth0 and Keycloak combined. Built for the serverless era.</td>
@@ -3137,7 +3137,7 @@
     </tr>
         <tr>
         <td nowrap="nowrap"><img width="33" alt="Novu" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-novu-2.png" /></td>
-        <td>Notifications</td>
+        <td><a href="undefined">Notifications</a></td>
         <td>TypeScript</td>
         <td>Novu</td>
         <td>The open-source notification infrastructure with fully functional embedded notification center</td>
@@ -3145,7 +3145,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="Github 20k" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-super-star-1.png" /></td>
-        <td>Productivity</td>
+        <td><a href="undefined">Productivity</a></td>
         <td>TypeScript</td>
         <td>Github 20k</td>
         <td>The open-source course landing page <g-emoji class="g-emoji" alias="rocket" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f680.png">?</g-emoji><g-emoji class="g-emoji" alias="rocket" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f680.png">?</g-emoji><g-emoji class="g-emoji" alias="rocket" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f680.png">?</g-emoji></td>
@@ -3153,7 +3153,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="The Lounge" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-thelounge.png" /></td>
-        <td>Collaboration</td>
+        <td><a href="undefined">Collaboration</a></td>
         <td>TypeScript</td>
         <td>The Lounge</td>
         <td><g-emoji class="g-emoji" alias="speech_balloon" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4ac.png">?</g-emoji> ‎ Modern, responsive, cross-platform, self-hosted web IRC client</td>
@@ -3161,7 +3161,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="Konva.js - JavaScript 2d canvas library" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-react-konva.png" /></td>
-        <td>Observability</td>
+        <td><a href="undefined">Observability</a></td>
         <td>TypeScript</td>
         <td>Konva.js - JavaScript 2d canvas library</td>
         <td>React + Canvas = Love. JavaScript library for drawing complex canvas graphics using React.</td>
@@ -3169,7 +3169,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="Markmap" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-markmap.png" /></td>
-        <td>Productivity</td>
+        <td><a href="undefined">Productivity</a></td>
         <td>TypeScript</td>
         <td>Markmap</td>
         <td>Visualize your Markdown as mindmaps with Markmap.</td>
@@ -3177,7 +3177,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="React Native Skia" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-react-native-skia.png" /></td>
-        <td>Infrastructure</td>
+        <td><a href="undefined">Infrastructure</a></td>
         <td>TypeScript</td>
         <td>React Native Skia</td>
         <td>High-performance React Native Graphics using Skia</td>
@@ -3185,7 +3185,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="Realm" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-realm-js.png" /></td>
-        <td>Databases</td>
+        <td><a href="undefined">Databases</a></td>
         <td>TypeScript</td>
         <td>Realm</td>
         <td> Realm is a mobile database: an alternative to SQLite &amp; key-value stores</td>
@@ -3193,7 +3193,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="Tutanota" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-tutanota.png" /></td>
-        <td>Security</td>
+        <td><a href="undefined">Security</a></td>
         <td>TypeScript</td>
         <td>Tutanota</td>
         <td>Tutanota is an email service with a strong focus on security and privacy that lets you encrypt emails, contacts and calendar entries on all your devices.</td>
@@ -3201,7 +3201,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="Shopify Polaris" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-polaris.png" /></td>
-        <td>Collaboration</td>
+        <td><a href="undefined">Collaboration</a></td>
         <td>TypeScript</td>
         <td>Shopify Polaris</td>
         <td>Shopify’s design system to help us work together to build a great experience for all of our merchants.</td>
@@ -3209,7 +3209,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="screego/server" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-server.png" /></td>
-        <td>Collaboration</td>
+        <td><a href="undefined">Collaboration</a></td>
         <td>TypeScript</td>
         <td>screego/server</td>
         <td>screen sharing for developers https://screego.net/</td>
@@ -3217,7 +3217,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="ZRender" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-zrender.png" /></td>
-        <td>Infrastructure</td>
+        <td><a href="undefined">Infrastructure</a></td>
         <td>TypeScript</td>
         <td>ZRender</td>
         <td>A lightweight graphic library providing 2d draw for Apache ECharts</td>
@@ -3225,7 +3225,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="Penrose" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-penrose.png" /></td>
-        <td>Productivity</td>
+        <td><a href="undefined">Productivity</a></td>
         <td>TypeScript</td>
         <td>Penrose</td>
         <td>Create beautiful diagrams just by typing mathematical notation in plain text.</td>
@@ -3233,7 +3233,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="vuejs/vetur" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-vetur.png" /></td>
-        <td>Productivity</td>
+        <td><a href="undefined">Productivity</a></td>
         <td>TypeScript</td>
         <td>vuejs/vetur</td>
         <td>Vue tooling for VS Code.</td>
@@ -3241,7 +3241,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="Elastic UI" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-eui.png" /></td>
-        <td>Productivity</td>
+        <td><a href="undefined">Productivity</a></td>
         <td>TypeScript</td>
         <td>Elastic UI</td>
         <td>Elastic UI Framework <g-emoji class="g-emoji" alias="raised_hands" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f64c.png">?</g-emoji></td>
@@ -3249,7 +3249,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="express-validator" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-express-validator.png" /></td>
-        <td>Infrastructure</td>
+        <td><a href="undefined">Infrastructure</a></td>
         <td>TypeScript</td>
         <td>express-validator</td>
         <td>An express.js middleware for validator.js.</td>
@@ -3257,7 +3257,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="DiceBear" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-dicebear.png" /></td>
-        <td>Productivity</td>
+        <td><a href="undefined">Productivity</a></td>
         <td>TypeScript</td>
         <td>DiceBear</td>
         <td>DiceBear is an avatar library for designers and developers. <g-emoji class="g-emoji" alias="earth_africa" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f30d.png">?</g-emoji></td>
@@ -3265,7 +3265,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="react-chartjs-2" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-react-chartjs-2.png" /></td>
-        <td>Analytics</td>
+        <td><a href="undefined">Analytics</a></td>
         <td>TypeScript</td>
         <td>react-chartjs-2</td>
         <td>React components for Chart.js, the most popular charting library</td>
@@ -3273,7 +3273,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="Dinero.js" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-dinero.js.png" /></td>
-        <td>Productivity</td>
+        <td><a href="undefined">Productivity</a></td>
         <td>TypeScript</td>
         <td>Dinero.js</td>
         <td>Create, calculate, and format money in JavaScript and TypeScript.</td>
@@ -3281,7 +3281,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="alibaba/x-render" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-x-render.jpg" /></td>
-        <td>Productivity</td>
+        <td><a href="undefined">Productivity</a></td>
         <td>TypeScript</td>
         <td>alibaba/x-render</td>
         <td><g-emoji class="g-emoji" alias="biking_woman" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f6b4-2640.png">?‍♀️</g-emoji> 阿里 - 很易用的中后台「表单 / 表格 / 图表」解决方案</td>
@@ -3289,7 +3289,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="React Data Grid" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-react-data-grid.png" /></td>
-        <td>Productivity</td>
+        <td><a href="undefined">Productivity</a></td>
         <td>TypeScript</td>
         <td>React Data Grid</td>
         <td>Feature-rich and customizable data grid React component</td>
@@ -3297,7 +3297,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="SandDance" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-SandDance.png" /></td>
-        <td>Analytics</td>
+        <td><a href="undefined">Analytics</a></td>
         <td>TypeScript</td>
         <td>SandDance</td>
         <td>Visually explore, understand, and present your data.</td>
@@ -3305,7 +3305,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="Mockoon" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-mockoon-1.png" /></td>
-        <td>Productivity</td>
+        <td><a href="undefined">Productivity</a></td>
         <td>TypeScript</td>
         <td>Mockoon</td>
         <td>Mockoon is the easiest and quickest way to run mock APIs locally. No remote deployment, no account required, open source.</td>
@@ -3313,7 +3313,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="Outline VPN" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-outline-server-1.png" /></td>
-        <td>Infrastructure</td>
+        <td><a href="undefined">Infrastructure</a></td>
         <td>TypeScript</td>
         <td>Outline VPN</td>
         <td>Outline Manager, developed by Jigsaw. The Outline Manager application creates and manages Outline servers, powered by Shadowsocks. It uses the Electron framework to offer support for Windows, macOS…</td>
@@ -3321,7 +3321,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="NativeScript-Vue" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-nativescript-vue-1.png" /></td>
-        <td>Infrastructure</td>
+        <td><a href="undefined">Infrastructure</a></td>
         <td>TypeScript</td>
         <td>NativeScript-Vue</td>
         <td>Native mobile applications using Vue and NativeScript.</td>
@@ -3329,7 +3329,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="wix/react-native-ui-lib" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-react-native-ui-lib.png" /></td>
-        <td>Productivity</td>
+        <td><a href="undefined">Productivity</a></td>
         <td>TypeScript</td>
         <td>wix/react-native-ui-lib</td>
         <td>UI Components Library for React Native</td>
@@ -3337,7 +3337,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="React Native Gesture Handler" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-react-native-gesture-handler-1.png" /></td>
-        <td>Infrastructure</td>
+        <td><a href="undefined">Infrastructure</a></td>
         <td>TypeScript</td>
         <td>React Native Gesture Handler</td>
         <td>Declarative API exposing platform native touch and gesture system to React Native.</td>
@@ -3345,7 +3345,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="Node SerialPort" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-node-serialport-1.png" /></td>
-        <td>Infrastructure</td>
+        <td><a href="undefined">Infrastructure</a></td>
         <td>TypeScript</td>
         <td>Node SerialPort</td>
         <td>Access serial ports with JavaScript. Linux, OSX and Windows. Welcome your robotic JavaScript overlords. Better yet, program them!</td>
@@ -3353,7 +3353,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="Electron Forge" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-forge-7.png" /></td>
-        <td>Productivity</td>
+        <td><a href="undefined">Productivity</a></td>
         <td>TypeScript</td>
         <td>Electron Forge</td>
         <td><img class="emoji" title=":electron:" alt=":electron:" src="https://github.githubassets.com/images/icons/emoji/electron.png" height="20" width="20" align="absmiddle"> A complete tool for building and publishing Electron applications</td>
@@ -3361,7 +3361,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="model-viewer" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-model-viewer-1.png" /></td>
-        <td>Productivity</td>
+        <td><a href="undefined">Productivity</a></td>
         <td>TypeScript</td>
         <td>model-viewer</td>
         <td>Easily display interactive 3D models on the web and in AR! </td>
@@ -3369,7 +3369,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="GraphQL Editor" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-graphql-editor-1.png" /></td>
-        <td>Productivity</td>
+        <td><a href="undefined">Productivity</a></td>
         <td>TypeScript</td>
         <td>GraphQL Editor</td>
         <td><g-emoji class="g-emoji" alias="tv" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4fa.png">?</g-emoji> Visual Editor &amp; GraphQL IDE. Draw GraphQL schemas using visual <g-emoji class="g-emoji" alias="large_blue_diamond" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f537.png">?</g-emoji> nodes and explore GraphQL API with beautiful UI. Even <g-emoji class="g-emoji" alias="monkey" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f412.png">?</g-emoji> can do that!</td>
@@ -3377,7 +3377,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="Marp" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-marp-1.png" /></td>
-        <td>Productivity</td>
+        <td><a href="undefined">Productivity</a></td>
         <td>TypeScript</td>
         <td>Marp</td>
         <td>The entrance repository of Markdown presentation ecosystem</td>
@@ -3385,7 +3385,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="Bitwarden" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-clients-1.png" /></td>
-        <td>Security</td>
+        <td><a href="undefined">Security</a></td>
         <td>TypeScript</td>
         <td>Bitwarden</td>
         <td>Bitwarden client applications (web, browser extension, desktop, and cli)</td>
@@ -3393,7 +3393,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="Tamagui" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-tamagui-1.png" /></td>
-        <td>Productivity</td>
+        <td><a href="undefined">Productivity</a></td>
         <td>TypeScript</td>
         <td>Tamagui</td>
         <td>a better universal ui system</td>
@@ -3401,7 +3401,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="vxe-table v4" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-vxe-table-2.png" /></td>
-        <td>Productivity</td>
+        <td><a href="undefined">Productivity</a></td>
         <td>TypeScript</td>
         <td>vxe-table v4</td>
         <td>vxe-table vue 表格解决方案</td>
@@ -3409,7 +3409,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="Appwrite" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-appwrite.png" /></td>
-        <td>Databases</td>
+        <td><a href="undefined">Databases</a></td>
         <td>TypeScript</td>
         <td>Appwrite</td>
         <td>Build Fast. Scale Big. All in One Place.</td>
@@ -3417,7 +3417,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="Amplication" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-amplication-1.png" /></td>
-        <td>Infrastructure</td>
+        <td><a href="undefined">Infrastructure</a></td>
         <td>TypeScript</td>
         <td>Amplication</td>
         <td>Auto-generating TypeScript, GraphQL, REST API, and Node.js, accelerating your full-stack development <g-emoji class="g-emoji" alias="rocket" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f680.png">?</g-emoji></td>
@@ -3425,7 +3425,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="Docusaurus" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-docusaurus.png" /></td>
-        <td>Productivity</td>
+        <td><a href="undefined">Productivity</a></td>
         <td>TypeScript</td>
         <td>Docusaurus</td>
         <td>Easy to maintain open source documentation websites.</td>
@@ -3433,7 +3433,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="linvo-io/linvo-scraper" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-linvo-scraper.png" /></td>
-        <td>Productivity</td>
+        <td><a href="undefined">Productivity</a></td>
         <td>TypeScript</td>
         <td>linvo-io/linvo-scraper</td>
         <td>Linkedin Automation Bot with every possible scraping! Valid for 2022 used by Linvo.io</td>
@@ -3455,7 +3455,7 @@
     </tr>
         <tr>
         <td nowrap="nowrap"><img width="33" alt="awesome window manager" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-awesome.png" /></td>
-        <td>Miscellaneous</td>
+        <td><a href="undefined">Miscellaneous</a></td>
         <td>Lua</td>
         <td>awesome window manager</td>
         <td>awesome window manager</td>
@@ -3463,7 +3463,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="LazyVim" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-LazyVim.png" /></td>
-        <td>Productivity</td>
+        <td><a href="undefined">Productivity</a></td>
         <td>Lua</td>
         <td>LazyVim</td>
         <td>Neovim config for the lazy</td>
@@ -3471,7 +3471,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="ntop" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-ntopng.png" /></td>
-        <td>Observability</td>
+        <td><a href="undefined">Observability</a></td>
         <td>Lua</td>
         <td>ntop</td>
         <td>Web-based Traffic and Security Network Traffic Monitoring</td>
@@ -3493,7 +3493,7 @@
     </tr>
         <tr>
         <td nowrap="nowrap"><img width="33" alt="ClusterFuzz" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-clusterfuzz.png" /></td>
-        <td>Infrastructure</td>
+        <td><a href="undefined">Infrastructure</a></td>
         <td>Python</td>
         <td>ClusterFuzz</td>
         <td>Scalable fuzzing infrastructure.</td>
@@ -3501,7 +3501,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="Frappe Framework" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-frappe.png" /></td>
-        <td>Infrastructure</td>
+        <td><a href="undefined">Infrastructure</a></td>
         <td>Python</td>
         <td>Frappe Framework</td>
         <td>Low code web framework for real world applications, in Python and Javascript</td>
@@ -3509,7 +3509,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="Musician's Friend" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-mmf.png" /></td>
-        <td>Infrastructure</td>
+        <td><a href="undefined">Infrastructure</a></td>
         <td>Python</td>
         <td>Musician's Friend</td>
         <td>A modular framework for vision &amp; language multimodal research from Facebook AI Research (FAIR)</td>
@@ -3517,7 +3517,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="Flet" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-flet.png" /></td>
-        <td>Productivity</td>
+        <td><a href="undefined">Productivity</a></td>
         <td>Python</td>
         <td>Flet</td>
         <td>Flet enables developers to easily build realtime web, mobile and desktop apps in Python. No frontend experience required.</td>
@@ -3525,7 +3525,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="DocsGPT" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-DocsGPT.png" /></td>
-        <td>Productivity</td>
+        <td><a href="undefined">Productivity</a></td>
         <td>Python</td>
         <td>DocsGPT</td>
         <td>GPT-powered chat for documentation search &amp; assistance.</td>
@@ -3533,7 +3533,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="Waydroid" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-waydroid.png" /></td>
-        <td>Infrastructure</td>
+        <td><a href="undefined">Infrastructure</a></td>
         <td>Python</td>
         <td>Waydroid</td>
         <td>Waydroid uses a container-based approach to boot a full Android system on a regular GNU/Linux system like Ubuntu.</td>
@@ -3541,7 +3541,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="Snorkel AI" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-snorkel.png" /></td>
-        <td>Productivity</td>
+        <td><a href="undefined">Productivity</a></td>
         <td>Python</td>
         <td>Snorkel AI</td>
         <td>A system for quickly generating training data with weak supervision</td>
@@ -3549,7 +3549,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="StackStorm" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-st2.jpg" /></td>
-        <td>Collaboration</td>
+        <td><a href="undefined">Collaboration</a></td>
         <td>Python</td>
         <td>StackStorm</td>
         <td>StackStorm (aka "IFTTT for Ops") is event-driven automation for auto-remediation, incident responses, troubleshooting, deployments, and more for DevOps and SREs. Includes rules engine, workflow, 16…</td>
@@ -3557,7 +3557,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="GitHub" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-pwndbg.png" /></td>
-        <td>Security</td>
+        <td><a href="undefined">Security</a></td>
         <td>Python</td>
         <td>GitHub</td>
         <td>Exploit Development and Reverse Engineering with GDB Made Easy</td>
@@ -3565,7 +3565,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="pypdf" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-pypdf.png" /></td>
-        <td>Databases</td>
+        <td><a href="undefined">Databases</a></td>
         <td>Python</td>
         <td>pypdf</td>
         <td>A pure-python PDF library capable of splitting, merging, cropping, and transforming the pages of PDF files</td>
@@ -3573,7 +3573,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="PyCQA/isort" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-isort.jpg" /></td>
-        <td>Productivity</td>
+        <td><a href="undefined">Productivity</a></td>
         <td>Python</td>
         <td>PyCQA/isort</td>
         <td>A Python utility / library to sort imports.</td>
@@ -3581,7 +3581,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="Librosa" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-librosa.png" /></td>
-        <td>Analytics</td>
+        <td><a href="undefined">Analytics</a></td>
         <td>Python</td>
         <td>Librosa</td>
         <td>Python library for audio and music analysis</td>
@@ -3589,7 +3589,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="PyGithub" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-PyGithub.png" /></td>
-        <td>Databases</td>
+        <td><a href="undefined">Databases</a></td>
         <td>Python</td>
         <td>PyGithub</td>
         <td>Typed interactions with the GitHub API v3</td>
@@ -3597,7 +3597,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="OpenNMT" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-OpenNMT-py.png" /></td>
-        <td>Productivity</td>
+        <td><a href="undefined">Productivity</a></td>
         <td>Python</td>
         <td>OpenNMT</td>
         <td>Open Source Neural Machine Translation in PyTorch</td>
@@ -3605,7 +3605,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="sqlfluff/sqlfluff" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-sqlfluff.png" /></td>
-        <td>Databases</td>
+        <td><a href="undefined">Databases</a></td>
         <td>Python</td>
         <td>sqlfluff/sqlfluff</td>
         <td>A modular SQL linter and auto-formatter with support for multiple dialects and templated code.</td>
@@ -3613,7 +3613,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="Chroma" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-chroma-1.png" /></td>
-        <td>Databases</td>
+        <td><a href="undefined">Databases</a></td>
         <td>Python</td>
         <td>Chroma</td>
         <td>the AI-native open-source embedding database</td>
@@ -3621,7 +3621,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="Conda" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-conda-1.png" /></td>
-        <td>Infrastructure</td>
+        <td><a href="undefined">Infrastructure</a></td>
         <td>Python</td>
         <td>Conda</td>
         <td>A system-level, binary package and environment manager running on all major operating systems and platforms.</td>
@@ -3629,7 +3629,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="OnionShare" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-onionshare-1.png" /></td>
-        <td>Security</td>
+        <td><a href="undefined">Security</a></td>
         <td>Python</td>
         <td>OnionShare</td>
         <td>Securely and anonymously share files, host websites, and chat with friends using the Tor network</td>
@@ -3637,7 +3637,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="Akamai" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-monkey-1.jpg" /></td>
-        <td>Security</td>
+        <td><a href="undefined">Security</a></td>
         <td>Python</td>
         <td>Akamai</td>
         <td>Infection Monkey - An open-source adversary emulation platform</td>
@@ -3645,7 +3645,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="DeepPavlov" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-DeepPavlov.png" /></td>
-        <td>Collaboration</td>
+        <td><a href="undefined">Collaboration</a></td>
         <td>Python</td>
         <td>DeepPavlov</td>
         <td>An open source library for deep learning end-to-end dialog systems and chatbots.</td>
@@ -3653,7 +3653,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="scikit-image" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-scikit-image-2.png" /></td>
-        <td>Productivity</td>
+        <td><a href="undefined">Productivity</a></td>
         <td>Python</td>
         <td>scikit-image</td>
         <td>Image processing in Python</td>
@@ -3661,7 +3661,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="Taiga" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-taiga-back-2.png" /></td>
-        <td>Collaboration</td>
+        <td><a href="undefined">Collaboration</a></td>
         <td>Python</td>
         <td>Taiga</td>
         <td>Agile project management platform. Built on top of Django and AngularJS</td>
@@ -3669,7 +3669,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="Our World in Data" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-covid-19-data-3.png" /></td>
-        <td>Databases</td>
+        <td><a href="undefined">Databases</a></td>
         <td>Python</td>
         <td>Our World in Data</td>
         <td>Data on COVID-19 (coronavirus) cases, deaths, hospitalizations, tests • All countries • Updated daily by Our World in Data</td>
@@ -3677,7 +3677,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="AutoGluon Documentation" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-autogluon-1.png" /></td>
-        <td>Productivity</td>
+        <td><a href="undefined">Productivity</a></td>
         <td>Python</td>
         <td>AutoGluon Documentation</td>
         <td>AutoGluon: AutoML for Image, Text, Time Series, and Tabular Data</td>
@@ -3699,7 +3699,7 @@
     </tr>
         <tr>
         <td nowrap="nowrap"><img width="33" alt="VS Code Docs" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-vscode-docs.png" /></td>
-        <td>Productivity</td>
+        <td><a href="undefined">Productivity</a></td>
         <td>CSS</td>
         <td>VS Code Docs</td>
         <td>Public documentation for Visual Studio Code</td>
@@ -3707,7 +3707,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="froala/wysiwyg-editor" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-wysiwyg-editor.png" /></td>
-        <td>Productivity</td>
+        <td><a href="undefined">Productivity</a></td>
         <td>CSS</td>
         <td>froala/wysiwyg-editor</td>
         <td>The next generation Javascript WYSIWYG HTML Editor.</td>
@@ -3729,7 +3729,7 @@
     </tr>
         <tr>
         <td nowrap="nowrap"><img width="33" alt="PrivateBin" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-PrivateBin.png" /></td>
-        <td>Security</td>
+        <td><a href="undefined">Security</a></td>
         <td>PHP</td>
         <td>PrivateBin</td>
         <td>A minimalist, open source online pastebin where the server has zero knowledge of pasted data. Data is encrypted/decrypted in the browser using 256 bits AES.</td>
@@ -3737,7 +3737,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="phpseclib" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-phpseclib.png" /></td>
-        <td>Security</td>
+        <td><a href="undefined">Security</a></td>
         <td>PHP</td>
         <td>phpseclib</td>
         <td>PHP Secure Communications Library</td>
@@ -3745,7 +3745,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="Hyperf" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-hyperf.jpg" /></td>
-        <td>Infrastructure</td>
+        <td><a href="undefined">Infrastructure</a></td>
         <td>PHP</td>
         <td>Hyperf</td>
         <td><g-emoji class="g-emoji" alias="rocket" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f680.png">?</g-emoji> A coroutine framework that focuses on hyperspeed and flexibility. Building microservice or middleware with ease.</td>
@@ -3753,7 +3753,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="Respect\Validation" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-Validation.png" /></td>
-        <td>Productivity</td>
+        <td><a href="undefined">Productivity</a></td>
         <td>PHP</td>
         <td>Respect\Validation</td>
         <td>The most awesome validation engine ever created for PHP</td>
@@ -3761,7 +3761,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="Roots" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-bedrock.png" /></td>
-        <td>Infrastructure</td>
+        <td><a href="undefined">Infrastructure</a></td>
         <td>PHP</td>
         <td>Roots</td>
         <td>WordPress boilerplate with Composer, easier configuration, and an improved folder structure</td>
@@ -3769,7 +3769,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="RSS-Bridge" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-rss-bridge.png" /></td>
-        <td>Productivity</td>
+        <td><a href="undefined">Productivity</a></td>
         <td>PHP</td>
         <td>RSS-Bridge</td>
         <td>The RSS feed for websites missing it</td>
@@ -3777,7 +3777,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="Bagisto" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-bagisto.png" /></td>
-        <td>Productivity</td>
+        <td><a href="undefined">Productivity</a></td>
         <td>PHP</td>
         <td>Bagisto</td>
         <td>Free and open source laravel eCommerce platform</td>
@@ -3785,7 +3785,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="HumHub" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-humhub.png" /></td>
-        <td>Collaboration</td>
+        <td><a href="undefined">Collaboration</a></td>
         <td>PHP</td>
         <td>HumHub</td>
         <td>HumHub is an Open Source Enterprise Social Network. Easy to install, intuitive to use and extendable with countless freely available modules.</td>
@@ -3793,7 +3793,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="Psalm" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-psalm-1.png" /></td>
-        <td>Observability</td>
+        <td><a href="undefined">Observability</a></td>
         <td>PHP</td>
         <td>Psalm</td>
         <td>A static analysis tool for finding errors in PHP applications</td>
@@ -3801,7 +3801,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="Timber Documentation" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-timber-1.png" /></td>
-        <td>Productivity</td>
+        <td><a href="undefined">Productivity</a></td>
         <td>PHP</td>
         <td>Timber Documentation</td>
         <td>Create WordPress themes with beautiful OOP code and the Twig Template Engine</td>
@@ -3809,7 +3809,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="Laravel Socialite" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-socialite-1.png" /></td>
-        <td>Security</td>
+        <td><a href="undefined">Security</a></td>
         <td>PHP</td>
         <td>Laravel Socialite</td>
         <td>Laravel wrapper around OAuth 1 &amp; OAuth 2 libraries.</td>
@@ -3817,7 +3817,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="laravel-medialibrary" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-laravel-medialibrary-1.png" /></td>
-        <td>Databases</td>
+        <td><a href="undefined">Databases</a></td>
         <td>PHP</td>
         <td>laravel-medialibrary</td>
         <td>Associate files with Eloquent models</td>
@@ -3825,7 +3825,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="BotMan" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-botman-1.png" /></td>
-        <td>Collaboration</td>
+        <td><a href="undefined">Collaboration</a></td>
         <td>PHP</td>
         <td>BotMan</td>
         <td>A framework agnostic PHP library to build chat bots</td>
@@ -3833,7 +3833,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="Flarum" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-framework-1.png" /></td>
-        <td>Collaboration</td>
+        <td><a href="undefined">Collaboration</a></td>
         <td>PHP</td>
         <td>Flarum</td>
         <td>Simple forum software for building great communities.</td>
@@ -3855,7 +3855,7 @@
     </tr>
         <tr>
         <td nowrap="nowrap"><img width="33" alt="Soundnode" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-soundnode-app.png" /></td>
-        <td>Productivity</td>
+        <td><a href="undefined">Productivity</a></td>
         <td>JavaScript</td>
         <td>Soundnode</td>
         <td>Soundnode App is the Soundcloud for desktop. Built with Electron, Angular.js and Soundcloud API.</td>
@@ -3863,7 +3863,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="Setup Falcon SQL Client" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-falcon.png" /></td>
-        <td>Databases</td>
+        <td><a href="undefined">Databases</a></td>
         <td>JavaScript</td>
         <td>Setup Falcon SQL Client</td>
         <td>Free, open-source SQL client for Windows and Mac <g-emoji class="g-emoji" alias="eagle" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f985.png">?</g-emoji></td>
@@ -3871,7 +3871,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="Mirage JS" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-miragejs.png" /></td>
-        <td>Productivity</td>
+        <td><a href="undefined">Productivity</a></td>
         <td>JavaScript</td>
         <td>Mirage JS</td>
         <td>A client-side server to build, test and share your JavaScript app</td>
@@ -3879,7 +3879,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="grocy" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-grocy.png" /></td>
-        <td>Productivity</td>
+        <td><a href="undefined">Productivity</a></td>
         <td>JavaScript</td>
         <td>grocy</td>
         <td>ERP beyond your fridge - grocy is a web-based self-hosted groceries &amp; household management solution for your home</td>
@@ -3887,7 +3887,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="Elementor" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-elementor.png" /></td>
-        <td>Productivity</td>
+        <td><a href="undefined">Productivity</a></td>
         <td>JavaScript</td>
         <td>Elementor</td>
         <td>The most advanced frontend drag &amp; drop page builder. Create high-end, pixel perfect websites at record speeds. Any theme, any page, any design.</td>
@@ -3895,7 +3895,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="Countly" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-countly-server.png" /></td>
-        <td>Analytics</td>
+        <td><a href="undefined">Analytics</a></td>
         <td>JavaScript</td>
         <td>Countly</td>
         <td>Countly is a product analytics platform that helps teams track, analyze and act-on their user actions and behaviour on mobile, web and desktop applications.</td>
@@ -3903,7 +3903,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="Ant Design Landing" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-ant-design-landing.png" /></td>
-        <td>Productivity</td>
+        <td><a href="undefined">Productivity</a></td>
         <td>JavaScript</td>
         <td>Ant Design Landing</td>
         <td><g-emoji class="g-emoji" alias="mountain_bicyclist" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f6b5.png">?</g-emoji> Landing Pages of Ant Design System</td>
@@ -3911,7 +3911,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="arkime/arkime" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-arkime.png" /></td>
-        <td>Infrastructure</td>
+        <td><a href="undefined">Infrastructure</a></td>
         <td>JavaScript</td>
         <td>arkime/arkime</td>
         <td>Arkime (formerly Moloch) is an open source, large scale, full packet capturing, indexing, and database system.</td>
@@ -3919,7 +3919,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="futurepress/epub.js" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-epub.js.png" /></td>
-        <td>Productivity</td>
+        <td><a href="undefined">Productivity</a></td>
         <td>JavaScript</td>
         <td>futurepress/epub.js</td>
         <td>Enhanced eBooks in the browser.</td>
@@ -3927,7 +3927,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="Fonoster" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-fonoster.png" /></td>
-        <td>Collaboration</td>
+        <td><a href="undefined">Collaboration</a></td>
         <td>JavaScript</td>
         <td>Fonoster</td>
         <td><g-emoji class="g-emoji" alias="rocket" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f680.png">?</g-emoji> The open-source alternative to Twilio</td>
@@ -3935,7 +3935,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="Shapezio" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-shapez.io_.png" /></td>
-        <td>Productivity</td>
+        <td><a href="undefined">Productivity</a></td>
         <td>JavaScript</td>
         <td>Shapezio</td>
         <td>shapez is an open source base building game on Steam inspired by factorio!</td>
@@ -3943,7 +3943,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="Vue Apollo" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-apollo.png" /></td>
-        <td>Infrastructure</td>
+        <td><a href="undefined">Infrastructure</a></td>
         <td>JavaScript</td>
         <td>Vue Apollo</td>
         <td><g-emoji class="g-emoji" alias="rocket" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f680.png">?</g-emoji> Apollo/GraphQL integration for VueJS</td>
@@ -3951,7 +3951,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="Hexo Theme Fluid" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-hexo-theme-fluid.png" /></td>
-        <td>Productivity</td>
+        <td><a href="undefined">Productivity</a></td>
         <td>JavaScript</td>
         <td>Hexo Theme Fluid</td>
         <td><g-emoji class="g-emoji" alias="ocean" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f30a.png">?</g-emoji> 一款 Material Design 风格的 Hexo 主题 / An elegant Material-Design theme for Hexo</td>
@@ -3959,7 +3959,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="golden-layout" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-golden-layout.png" /></td>
-        <td>Productivity</td>
+        <td><a href="undefined">Productivity</a></td>
         <td>JavaScript</td>
         <td>golden-layout</td>
         <td>A multi window layout manager for webapps</td>
@@ -3967,7 +3967,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="Notesnook by Streetwriters LLC" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-notesnook.png" /></td>
-        <td>Security</td>
+        <td><a href="undefined">Security</a></td>
         <td>JavaScript</td>
         <td>Notesnook by Streetwriters LLC</td>
         <td>A fully open source &amp; end-to-end encrypted note taking alternative to Evernote.</td>
@@ -3975,7 +3975,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="WeChat Open Doc" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-miniprogram-demo.png" /></td>
-        <td>Collaboration</td>
+        <td><a href="undefined">Collaboration</a></td>
         <td>JavaScript</td>
         <td>WeChat Open Doc</td>
         <td>微信小程序组件 / API / 云开发示例</td>
@@ -3983,7 +3983,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="Xigua Player" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-xgplayer.png" /></td>
-        <td>Productivity</td>
+        <td><a href="undefined">Productivity</a></td>
         <td>JavaScript</td>
         <td>Xigua Player</td>
         <td>A HTML5 video player with a parser that saves traffic</td>
@@ -3991,7 +3991,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="Just by Chance" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-chancejs.png" /></td>
-        <td>Productivity</td>
+        <td><a href="undefined">Productivity</a></td>
         <td>JavaScript</td>
         <td>Just by Chance</td>
         <td>Chance - Random generator helper for JavaScript</td>
@@ -3999,7 +3999,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="CSS Doodle" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-css-doodle-1.png" /></td>
-        <td>Productivity</td>
+        <td><a href="undefined">Productivity</a></td>
         <td>JavaScript</td>
         <td>CSS Doodle</td>
         <td><g-emoji class="g-emoji" alias="art" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f3a8.png">?</g-emoji> A web component for drawing patterns with CSS.</td>
@@ -4007,7 +4007,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="melonJS" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-melonJS-1.png" /></td>
-        <td>Productivity</td>
+        <td><a href="undefined">Productivity</a></td>
         <td>JavaScript</td>
         <td>melonJS</td>
         <td>a fresh, modern &amp; lightweight HTML5 game engine</td>
@@ -4015,7 +4015,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="WebLLM" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-web-llm-1.jpg" /></td>
-        <td>Infrastructure</td>
+        <td><a href="undefined">Infrastructure</a></td>
         <td>JavaScript</td>
         <td>WebLLM</td>
         <td>Bringing large-language models and chat to web browsers. Everything runs inside the browser with no server support.</td>
@@ -4023,7 +4023,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="google-map-react/google-map-react" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-google-map-react-1.png" /></td>
-        <td>Infrastructure</td>
+        <td><a href="undefined">Infrastructure</a></td>
         <td>JavaScript</td>
         <td>google-map-react/google-map-react</td>
         <td>Google map library for react that allows rendering components as markers <g-emoji class="g-emoji" alias="tada" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f389.png">?</g-emoji></td>
@@ -4031,7 +4031,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="Moleculer - Progressive microservices framework for Node.js" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-moleculer-2.png" /></td>
-        <td>Infrastructure</td>
+        <td><a href="undefined">Infrastructure</a></td>
         <td>JavaScript</td>
         <td>Moleculer - Progressive microservices framework for Node.js</td>
         <td><g-emoji class="g-emoji" alias="rocket" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f680.png">?</g-emoji> Progressive microservices framework for Node.js</td>
@@ -4039,7 +4039,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="log4js-node/log4js-node" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-log4js-node.png" /></td>
-        <td>Observability</td>
+        <td><a href="undefined">Observability</a></td>
         <td>JavaScript</td>
         <td>log4js-node/log4js-node</td>
         <td>A port of log4js to node.js</td>
@@ -4047,7 +4047,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="StackPath" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-axe-core-1.png" /></td>
-        <td>Observability</td>
+        <td><a href="undefined">Observability</a></td>
         <td>JavaScript</td>
         <td>StackPath</td>
         <td>Accessibility engine for automated Web UI testing</td>
@@ -4069,7 +4069,7 @@
     </tr>
         <tr>
         <td nowrap="nowrap"><img width="33" alt="OneFlow" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-oneflow.png" /></td>
-        <td>Analytics</td>
+        <td><a href="undefined">Analytics</a></td>
         <td>C++</td>
         <td>OneFlow</td>
         <td>OneFlow is a deep learning framework designed to be user-friendly, scalable and efficient.</td>
@@ -4077,7 +4077,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="Organic Maps" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-organicmaps.png" /></td>
-        <td>Productivity</td>
+        <td><a href="undefined">Productivity</a></td>
         <td>C++</td>
         <td>Organic Maps</td>
         <td><g-emoji class="g-emoji" alias="leaves" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f343.png">?</g-emoji> Organic Maps is a free Android &amp; iOS offline maps app for travelers, tourists, hikers, and cyclists. It uses crowd-sourced OpenStreetMap data and is developed with love by MapsWithMe (MapsMe) fou…</td>
@@ -4085,7 +4085,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="Cemu Emulator" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-Cemu.png" /></td>
-        <td>Miscellaneous</td>
+        <td><a href="undefined">Miscellaneous</a></td>
         <td>C++</td>
         <td>Cemu Emulator</td>
         <td>Cemu - Wii U emulator</td>
@@ -4093,7 +4093,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="JUCE" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-JUCE.png" /></td>
-        <td>Infrastructure</td>
+        <td><a href="undefined">Infrastructure</a></td>
         <td>C++</td>
         <td>JUCE</td>
         <td>JUCE is an open-source cross-platform C++ application framework for desktop and mobile applications, including VST, VST3, AU, AUv3, RTAS and AAX audio plug-ins.</td>
@@ -4101,7 +4101,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="COLMAP" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-colmap.png" /></td>
-        <td>Observability</td>
+        <td><a href="undefined">Observability</a></td>
         <td>C++</td>
         <td>COLMAP</td>
         <td>COLMAP - Structure-from-Motion and Multi-View Stereo</td>
@@ -4109,7 +4109,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="Zeek" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-zeek.png" /></td>
-        <td>Observability</td>
+        <td><a href="undefined">Observability</a></td>
         <td>C++</td>
         <td>Zeek</td>
         <td>Zeek is a powerful network analysis framework that is much different from the typical IDS you may know.</td>
@@ -4117,7 +4117,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="mediasoup" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-mediasoup.png" /></td>
-        <td>Infrastructure</td>
+        <td><a href="undefined">Infrastructure</a></td>
         <td>C++</td>
         <td>mediasoup</td>
         <td>Cutting Edge WebRTC Video Conferencing</td>
@@ -4125,7 +4125,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="mumble-voip/mumble" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-mumble.png" /></td>
-        <td>Collaboration</td>
+        <td><a href="undefined">Collaboration</a></td>
         <td>C++</td>
         <td>mumble-voip/mumble</td>
         <td>Mumble is an open-source, low-latency, high quality voice chat software.</td>
@@ -4133,7 +4133,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="Recast Navigation" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-recastnavigation.png" /></td>
-        <td>Infrastructure</td>
+        <td><a href="undefined">Infrastructure</a></td>
         <td>C++</td>
         <td>Recast Navigation</td>
         <td>Navigation-mesh Toolset for Games</td>
@@ -4141,7 +4141,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="Open Source Routing Machine" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-osrm-backend.png" /></td>
-        <td>Infrastructure</td>
+        <td><a href="undefined">Infrastructure</a></td>
         <td>C++</td>
         <td>Open Source Routing Machine</td>
         <td>Open Source Routing Machine - C++ backend</td>
@@ -4149,7 +4149,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="RAPIDS" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-cudf.png" /></td>
-        <td>Analytics</td>
+        <td><a href="undefined">Analytics</a></td>
         <td>C++</td>
         <td>RAPIDS</td>
         <td>cuDF - GPU DataFrame Library </td>
@@ -4157,7 +4157,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="Telegram Database Library" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-td-4.png" /></td>
-        <td>Infrastructure</td>
+        <td><a href="undefined">Infrastructure</a></td>
         <td>C++</td>
         <td>Telegram Database Library</td>
         <td>Cross-platform library for building Telegram clients</td>
@@ -4165,7 +4165,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="SteamVR" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-openvr.png" /></td>
-        <td>Infrastructure</td>
+        <td><a href="undefined">Infrastructure</a></td>
         <td>C++</td>
         <td>SteamVR</td>
         <td>OpenVR SDK</td>
@@ -4173,7 +4173,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="TensorFlow" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-serving.png" /></td>
-        <td>Infrastructure</td>
+        <td><a href="undefined">Infrastructure</a></td>
         <td>C++</td>
         <td>TensorFlow</td>
         <td>A flexible, high-performance serving system for machine learning models</td>
@@ -4181,7 +4181,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="WasmEdge" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-WasmEdge.png" /></td>
-        <td>Infrastructure</td>
+        <td><a href="undefined">Infrastructure</a></td>
         <td>C++</td>
         <td>WasmEdge</td>
         <td>WasmEdge is a lightweight, high-performance, and extensible WebAssembly runtime for cloud native, edge, and decentralized applications. It powers serverless apps, embedded functions, microservices,…</td>
@@ -4189,7 +4189,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="CSA-IOT" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-connectedhomeip.png" /></td>
-        <td>Infrastructure</td>
+        <td><a href="undefined">Infrastructure</a></td>
         <td>C++</td>
         <td>CSA-IOT</td>
         <td>Matter (formerly Project CHIP) creates more connections between more objects, simplifying development for manufacturers and increasing compatibility for consumers, guided by the Connectivity Standa…</td>
@@ -4197,7 +4197,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="wxWidgets" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-wxWidgets.png" /></td>
-        <td>Infrastructure</td>
+        <td><a href="undefined">Infrastructure</a></td>
         <td>C++</td>
         <td>wxWidgets</td>
         <td>Cross-Platform C++ GUI Library</td>
@@ -4205,7 +4205,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="C++ Requests" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-cpr-1.png" /></td>
-        <td>Infrastructure</td>
+        <td><a href="undefined">Infrastructure</a></td>
         <td>C++</td>
         <td>C++ Requests</td>
         <td>C++ Requests: Curl for People, a spiritual port of Python Requests.</td>
@@ -4213,7 +4213,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="OceanBase Community" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-oceanbase-2.png" /></td>
-        <td>Databases</td>
+        <td><a href="undefined">Databases</a></td>
         <td>C++</td>
         <td>OceanBase Community</td>
         <td>OceanBase is an enterprise distributed relational database with high availability, high performance, horizontal scalability, and compatibility with SQL standards.</td>
@@ -4221,7 +4221,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="ESPHome" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-esphome-1.png" /></td>
-        <td>Productivity</td>
+        <td><a href="undefined">Productivity</a></td>
         <td>C++</td>
         <td>ESPHome</td>
         <td>ESPHome is a system to control your ESP8266/ESP32 by simple yet powerful configuration files and control them remotely through Home Automation systems.</td>
@@ -4243,7 +4243,7 @@
     </tr>
         <tr>
         <td nowrap="nowrap"><img width="33" alt="Elvish Shell" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-elvish.jpg" /></td>
-        <td>Productivity</td>
+        <td><a href="undefined">Productivity</a></td>
         <td>Go</td>
         <td>Elvish Shell</td>
         <td>Elvish = Expressive Programming Language + Versatile Interactive Shell</td>
@@ -4251,7 +4251,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="Cosmos: The Internet of Blockchains" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-cosmos-sdk.png" /></td>
-        <td>Infrastructure</td>
+        <td><a href="undefined">Infrastructure</a></td>
         <td>Go</td>
         <td>Cosmos: The Internet of Blockchains</td>
         <td><g-emoji class="g-emoji" alias="chains" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/26d3.png">⛓️</g-emoji> A Framework for Building High Value Public Blockchains <g-emoji class="g-emoji" alias="sparkles" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2728.png">✨</g-emoji></td>
@@ -4259,7 +4259,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="gopass" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-gopass.png" /></td>
-        <td>Security</td>
+        <td><a href="undefined">Security</a></td>
         <td>Go</td>
         <td>gopass</td>
         <td>The slightly more awesome standard unix password manager for teams</td>
@@ -4267,7 +4267,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="KubeVela" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-kubevela.png" /></td>
-        <td>Infrastructure</td>
+        <td><a href="undefined">Infrastructure</a></td>
         <td>Go</td>
         <td>KubeVela</td>
         <td>The Modern Application Platform.</td>
@@ -4275,7 +4275,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="Smallstep" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-certificates.png" /></td>
-        <td>Security</td>
+        <td><a href="undefined">Security</a></td>
         <td>Go</td>
         <td>Smallstep</td>
         <td><g-emoji class="g-emoji" alias="shield" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f6e1.png">?️</g-emoji> A private certificate authority (X.509 &amp; SSH) &amp; ACME server for secure automated certificate management, so you can use TLS everywhere &amp; SSO for SSH.</td>
@@ -4283,7 +4283,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="Ferret Fact Service" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-ferret.png" /></td>
-        <td>Analytics</td>
+        <td><a href="undefined">Analytics</a></td>
         <td>Go</td>
         <td>Ferret Fact Service</td>
         <td>Declarative web scraping</td>
@@ -4291,7 +4291,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="Fn Project" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-fn.png" /></td>
-        <td>Infrastructure</td>
+        <td><a href="undefined">Infrastructure</a></td>
         <td>Go</td>
         <td>Fn Project</td>
         <td>The container native, cloud agnostic serverless platform.</td>
@@ -4299,7 +4299,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="Tendermint" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-tendermint.png" /></td>
-        <td>Infrastructure</td>
+        <td><a href="undefined">Infrastructure</a></td>
         <td>Go</td>
         <td>Tendermint</td>
         <td>⟁ Tendermint Core (BFT Consensus) in Go</td>
@@ -4307,7 +4307,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="The Lura Project" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-lura.png" /></td>
-        <td>Infrastructure</td>
+        <td><a href="undefined">Infrastructure</a></td>
         <td>Go</td>
         <td>The Lura Project</td>
         <td>Ultra performant API Gateway with middlewares. A project hosted at The Linux Foundation</td>
@@ -4315,7 +4315,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="Krew" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-krew.png" /></td>
-        <td>Productivity</td>
+        <td><a href="undefined">Productivity</a></td>
         <td>Go</td>
         <td>Krew</td>
         <td><g-emoji class="g-emoji" alias="package" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4e6.png">?</g-emoji> Find and install kubectl plugins</td>
@@ -4323,7 +4323,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="Hysteria" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-hysteria.png" /></td>
-        <td>Infrastructure</td>
+        <td><a href="undefined">Infrastructure</a></td>
         <td>Go</td>
         <td>Hysteria</td>
         <td>Hysteria is a feature-packed proxy &amp; relay tool optimized for lossy, unstable connections (e.g. satellite networks, congested public Wi-Fi, connecting to foreign servers from China)</td>
@@ -4331,7 +4331,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="Hover" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-go-flutter.png" /></td>
-        <td>Infrastructure</td>
+        <td><a href="undefined">Infrastructure</a></td>
         <td>Go</td>
         <td>Hover</td>
         <td>Flutter on Windows, MacOS and Linux - based on Flutter Embedding, Go and GLFW.</td>
@@ -4339,7 +4339,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="Cloudflare Zero Trust" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-cloudflared.jpg" /></td>
-        <td>Infrastructure</td>
+        <td><a href="undefined">Infrastructure</a></td>
         <td>Go</td>
         <td>Cloudflare Zero Trust</td>
         <td>Cloudflare Tunnel client (formerly Argo Tunnel)</td>
@@ -4347,7 +4347,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="/en" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-kubeedge.png" /></td>
-        <td>Infrastructure</td>
+        <td><a href="undefined">Infrastructure</a></td>
         <td>Go</td>
         <td>/en</td>
         <td>Kubernetes Native Edge Computing Framework (project under CNCF)</td>
@@ -4355,7 +4355,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="CloudWeGo" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-kitex.png" /></td>
-        <td>Infrastructure</td>
+        <td><a href="undefined">Infrastructure</a></td>
         <td>Go</td>
         <td>CloudWeGo</td>
         <td>Go RPC framework with high-performance and strong-extensibility for building micro-services.</td>
@@ -4363,7 +4363,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="Pachyderm" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-pachyderm.png" /></td>
-        <td>Infrastructure</td>
+        <td><a href="undefined">Infrastructure</a></td>
         <td>Go</td>
         <td>Pachyderm</td>
         <td>Data-Centric Pipelines and Data Versioning</td>
@@ -4371,7 +4371,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="Yao App Engine" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-yao.png" /></td>
-        <td>Productivity</td>
+        <td><a href="undefined">Productivity</a></td>
         <td>Go</td>
         <td>Yao App Engine</td>
         <td><g-emoji class="g-emoji" alias="rocket" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f680.png">?</g-emoji> A performance app engine to create web services and applications in minutes.Suitable for AI, IoT, Industrial Internet, Connected Vehicles, DevOps, Energy, Finance and many other use-cases.</td>
@@ -4379,7 +4379,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="Casdoor" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-casdoor.png" /></td>
-        <td>Security</td>
+        <td><a href="undefined">Security</a></td>
         <td>Go</td>
         <td>Casdoor</td>
         <td>An open-source Identity and Access Management (IAM) / Single-Sign-On (SSO) platform powered by Casbin and AI gateway with web UI supporting OAuth 2.0, OIDC, SAML and OpenAI ChatGPT</td>
@@ -4387,7 +4387,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="Atlantis" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-atlantis.png" /></td>
-        <td>Collaboration</td>
+        <td><a href="undefined">Collaboration</a></td>
         <td>Go</td>
         <td>Atlantis</td>
         <td>Terraform Pull Request Automation</td>
@@ -4395,7 +4395,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="Ansible Semaphore" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-semaphore.png" /></td>
-        <td>Infrastructure</td>
+        <td><a href="undefined">Infrastructure</a></td>
         <td>Go</td>
         <td>Ansible Semaphore</td>
         <td>Modern UI for Ansible</td>
@@ -4403,7 +4403,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="Benthos" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-benthos.png" /></td>
-        <td>Observability</td>
+        <td><a href="undefined">Observability</a></td>
         <td>Go</td>
         <td>Benthos</td>
         <td>Fancy stream processing made operationally mundane</td>
@@ -4411,7 +4411,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="alda.io" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-alda-1.png" /></td>
-        <td>Productivity</td>
+        <td><a href="undefined">Productivity</a></td>
         <td>Go</td>
         <td>alda.io</td>
         <td>A music programming language for musicians. <g-emoji class="g-emoji" alias="notes" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f3b6.png">?</g-emoji></td>
@@ -4419,7 +4419,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="manifoldco/promptui" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-promptui-1.png" /></td>
-        <td>Productivity</td>
+        <td><a href="undefined">Productivity</a></td>
         <td>Go</td>
         <td>manifoldco/promptui</td>
         <td>Interactive prompt for command-line applications</td>
@@ -4427,7 +4427,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="yaegi package" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-yaegi-1.png" /></td>
-        <td>Infrastructure</td>
+        <td><a href="undefined">Infrastructure</a></td>
         <td>Go</td>
         <td>yaegi package</td>
         <td>Yaegi is Another Elegant Go Interpreter</td>
@@ -4435,7 +4435,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="MetalLB" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-metallb-1.png" /></td>
-        <td>Infrastructure</td>
+        <td><a href="undefined">Infrastructure</a></td>
         <td>Go</td>
         <td>MetalLB</td>
         <td>A network load-balancer implementation for Kubernetes using standard routing protocols</td>
@@ -4443,7 +4443,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="BFE" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-bfe-1.png" /></td>
-        <td>Infrastructure</td>
+        <td><a href="undefined">Infrastructure</a></td>
         <td>Go</td>
         <td>BFE</td>
         <td>A modern layer 7 load balancer from baidu</td>
@@ -4451,7 +4451,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="aquasecurity/tfsec" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-tfsec-1.png" /></td>
-        <td>Security</td>
+        <td><a href="undefined">Security</a></td>
         <td>Go</td>
         <td>aquasecurity/tfsec</td>
         <td>Security scanner for your Terraform code</td>
@@ -4459,7 +4459,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="Stash" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-stash.jpg" /></td>
-        <td>Miscellaneous</td>
+        <td><a href="undefined">Miscellaneous</a></td>
         <td>Go</td>
         <td>Stash</td>
         <td>An organizer for your porn, written in Go. Documentation: https://docs.stashapp.cc</td>
@@ -4467,7 +4467,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="Miniflux" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-v2-2.png" /></td>
-        <td>Productivity</td>
+        <td><a href="undefined">Productivity</a></td>
         <td>Go</td>
         <td>Miniflux</td>
         <td>Minimalist and opinionated feed reader</td>
@@ -4475,7 +4475,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="QOR5" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-qor-2.png" /></td>
-        <td>Productivity</td>
+        <td><a href="undefined">Productivity</a></td>
         <td>Go</td>
         <td>QOR5</td>
         <td>QOR is a set of libraries written in Go that abstracts common features needed for business applications, CMSs, and E-commerce systems.</td>
@@ -4483,7 +4483,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="Agones" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-agones-2.png" /></td>
-        <td>Infrastructure</td>
+        <td><a href="undefined">Infrastructure</a></td>
         <td>Go</td>
         <td>Agones</td>
         <td>Dedicated Game Server Hosting and Scaling for Multiplayer Games on Kubernetes</td>
@@ -4491,7 +4491,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="ChaosBlade" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-chaosblade-2.jpg" /></td>
-        <td>Observability</td>
+        <td><a href="undefined">Observability</a></td>
         <td>Go</td>
         <td>ChaosBlade</td>
         <td>An easy to use and powerful chaos engineering experiment toolkit.（阿里巴巴开源的一款简单易用、功能强大的混沌实验注入工具）</td>
@@ -4499,7 +4499,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="Easy Go Containers" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-ko-1.png" /></td>
-        <td>Infrastructure</td>
+        <td><a href="undefined">Infrastructure</a></td>
         <td>Go</td>
         <td>Easy Go Containers</td>
         <td>Build and deploy Go applications</td>
@@ -4507,7 +4507,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="ThreeDotsLabs/watermill" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-watermill.png" /></td>
-        <td>Infrastructure</td>
+        <td><a href="undefined">Infrastructure</a></td>
         <td>Go</td>
         <td>ThreeDotsLabs/watermill</td>
         <td>Building event-driven applications the easy way in Go.</td>
@@ -4515,7 +4515,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="Cerbos" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-cerbos.png" /></td>
-        <td>Infrastructure</td>
+        <td><a href="undefined">Infrastructure</a></td>
         <td>Go</td>
         <td>Cerbos</td>
         <td>Cerbos is the open core, language-agnostic, scalable authorization solution that makes user permissions and authorization simple to implement and manage by writing context-aware access control poli…</td>
@@ -4523,7 +4523,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="ZITADEL" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-zitadel-1.png" /></td>
-        <td>Infrastructure</td>
+        <td><a href="undefined">Infrastructure</a></td>
         <td>Go</td>
         <td>ZITADEL</td>
         <td>ZITADEL - The best of Auth0 and Keycloak combined. Built for the serverless era.</td>
@@ -4545,7 +4545,7 @@
     </tr>
         <tr>
         <td nowrap="nowrap"><img width="33" alt="SagerNet/SagerNet" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-SagerNet.png" /></td>
-        <td>Security</td>
+        <td><a href="undefined">Security</a></td>
         <td>Kotlin</td>
         <td>SagerNet/SagerNet</td>
         <td>The universal proxy toolchain for Android</td>
@@ -4553,7 +4553,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="cashapp/sqldelight" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-sqldelight.png" /></td>
-        <td>Databases</td>
+        <td><a href="undefined">Databases</a></td>
         <td>Kotlin</td>
         <td>cashapp/sqldelight</td>
         <td>SQLDelight - Generates typesafe Kotlin APIs from SQL</td>
@@ -4561,7 +4561,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="LibreTube" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-LibreTube.png" /></td>
-        <td>Productivity</td>
+        <td><a href="undefined">Productivity</a></td>
         <td>Kotlin</td>
         <td>LibreTube</td>
         <td>An alternative frontend for YouTube, for Android.</td>
@@ -4569,7 +4569,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="detekt" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-detekt.png" /></td>
-        <td>Observability</td>
+        <td><a href="undefined">Observability</a></td>
         <td>Kotlin</td>
         <td>detekt</td>
         <td>Static code analysis for Kotlin</td>
@@ -4577,7 +4577,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="kickstarter/android-oss" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-android-oss.png" /></td>
-        <td>Collaboration</td>
+        <td><a href="undefined">Collaboration</a></td>
         <td>Kotlin</td>
         <td>kickstarter/android-oss</td>
         <td>Kickstarter for Android. Bring new ideas to life, anywhere.</td>
@@ -4585,7 +4585,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="pinterest/ktlint" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-ktlint-1.png" /></td>
-        <td>Productivity</td>
+        <td><a href="undefined">Productivity</a></td>
         <td>Kotlin</td>
         <td>pinterest/ktlint</td>
         <td>An anti-bikeshedding Kotlin linter with built-in formatter</td>
@@ -4593,7 +4593,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="Chainlist" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-chains-1.png" /></td>
-        <td>Infrastructure</td>
+        <td><a href="undefined">Infrastructure</a></td>
         <td>Kotlin</td>
         <td>Chainlist</td>
         <td>provides metadata for networkIDs and chainIDs</td>
@@ -4601,7 +4601,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="arrow-kt/arrow" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-arrow-1.png" /></td>
-        <td>Infrastructure</td>
+        <td><a href="undefined">Infrastructure</a></td>
         <td>Kotlin</td>
         <td>arrow-kt/arrow</td>
         <td>Λrrow - Functional companion to Kotlin's Standard Library</td>
@@ -4609,7 +4609,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="ACRA" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-acra-3.png" /></td>
-        <td>Observability</td>
+        <td><a href="undefined">Observability</a></td>
         <td>Kotlin</td>
         <td>ACRA</td>
         <td>Application Crash Reports for Android</td>
@@ -4631,7 +4631,7 @@
     </tr>
         <tr>
         <td nowrap="nowrap"><img width="33" alt="Materialize" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-materialize.png" /></td>
-        <td>Databases</td>
+        <td><a href="undefined">Databases</a></td>
         <td>Rust</td>
         <td>Materialize</td>
         <td>Materialize is a fast, distributed SQL database built on streaming internals.</td>
@@ -4639,7 +4639,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="wasm-pack" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-wasm-pack.png" /></td>
-        <td>Productivity</td>
+        <td><a href="undefined">Productivity</a></td>
         <td>Rust</td>
         <td>wasm-pack</td>
         <td><g-emoji class="g-emoji" alias="package" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4e6.png">?</g-emoji><g-emoji class="g-emoji" alias="sparkles" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2728.png">✨</g-emoji> your favorite rust -&gt; wasm workflow tool!</td>
@@ -4647,7 +4647,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="The Rustup Book." src="https://libraries.github20k.com/images/uploads/2023/05/newshot-rustup.png" /></td>
-        <td>Infrastructure</td>
+        <td><a href="undefined">Infrastructure</a></td>
         <td>Rust</td>
         <td>The Rustup Book.</td>
         <td>The Rust toolchain installer</td>
@@ -4655,7 +4655,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="Fyrox" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-Fyrox.png" /></td>
-        <td>Infrastructure</td>
+        <td><a href="undefined">Infrastructure</a></td>
         <td>Rust</td>
         <td>Fyrox</td>
         <td>3D and 2D game engine written in Rust</td>
@@ -4663,7 +4663,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="Nannou" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-nannou-1.png" /></td>
-        <td>Productivity</td>
+        <td><a href="undefined">Productivity</a></td>
         <td>Rust</td>
         <td>Nannou</td>
         <td>A Creative Coding Framework for Rust.</td>
@@ -4671,7 +4671,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="Foundry Toolkit" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-foundry.png" /></td>
-        <td>Infrastructure</td>
+        <td><a href="undefined">Infrastructure</a></td>
         <td>Rust</td>
         <td>Foundry Toolkit</td>
         <td>Foundry is a blazing fast, portable and modular toolkit for Ethereum application development written in Rust.</td>
@@ -4679,7 +4679,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="rust-lang/rustfmt" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-rustfmt-2.png" /></td>
-        <td>Productivity</td>
+        <td><a href="undefined">Productivity</a></td>
         <td>Rust</td>
         <td>rust-lang/rustfmt</td>
         <td>Format Rust code</td>
@@ -4701,7 +4701,7 @@
     </tr>
         <tr>
         <td nowrap="nowrap"><img width="33" alt="Danger" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-danger.png" /></td>
-        <td>Collaboration</td>
+        <td><a href="undefined">Collaboration</a></td>
         <td>Ruby</td>
         <td>Danger</td>
         <td><g-emoji class="g-emoji" alias="no_entry_sign" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f6ab.png">?</g-emoji> Stop saying "you forgot to …" in code review (in Ruby)</td>
@@ -4709,7 +4709,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="Doorkeeper Guides" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-doorkeeper.png" /></td>
-        <td>Security</td>
+        <td><a href="undefined">Security</a></td>
         <td>Ruby</td>
         <td>Doorkeeper Guides</td>
         <td>Doorkeeper is an OAuth 2 provider for Ruby on Rails / Grape.</td>
@@ -4717,7 +4717,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="thoughtbot/administrate" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-administrate.png" /></td>
-        <td>Productivity</td>
+        <td><a href="undefined">Productivity</a></td>
         <td>Ruby</td>
         <td>thoughtbot/administrate</td>
         <td>A Rails engine that helps you put together a super-flexible admin dashboard.</td>
@@ -4725,7 +4725,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="Hanami" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-hanami-1.png" /></td>
-        <td>Infrastructure</td>
+        <td><a href="undefined">Infrastructure</a></td>
         <td>Ruby</td>
         <td>Hanami</td>
         <td>The web, with simplicity.</td>
@@ -4733,7 +4733,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="Cucumber" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-cucumber-ruby.png" /></td>
-        <td>Observability</td>
+        <td><a href="undefined">Observability</a></td>
         <td>Ruby</td>
         <td>Cucumber</td>
         <td>Cucumber for Ruby. It's amazing!</td>
@@ -4755,7 +4755,7 @@
     </tr>
         <tr>
         <td nowrap="nowrap"><img width="33" alt="OctoLinker" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-OctoLinker.png" /></td>
-        <td>Productivity</td>
+        <td><a href="undefined">Productivity</a></td>
         <td>HTML</td>
         <td>OctoLinker</td>
         <td>OctoLinker — Links together, what belongs together</td>
@@ -4763,7 +4763,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="MDN" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-learning-area.png" /></td>
-        <td>Collaboration</td>
+        <td><a href="undefined">Collaboration</a></td>
         <td>HTML</td>
         <td>MDN</td>
         <td>Github repo for the MDN Learning Area. </td>
@@ -4771,7 +4771,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="Rails Girls Guides" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-guides.railsgirls.com_-1.png" /></td>
-        <td>Collaboration</td>
+        <td><a href="undefined">Collaboration</a></td>
         <td>HTML</td>
         <td>Rails Girls Guides</td>
         <td>Rails Girls Guides</td>
@@ -4779,7 +4779,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="School Of SRE." src="https://libraries.github20k.com/images/uploads/2023/05/newshot-school-of-sre.png" /></td>
-        <td>Productivity</td>
+        <td><a href="undefined">Productivity</a></td>
         <td>HTML</td>
         <td>School Of SRE.</td>
         <td>At LinkedIn, we are using this curriculum for onboarding our entry-level talents into the SRE role.</td>
@@ -4801,7 +4801,7 @@
     </tr>
         <tr>
         <td nowrap="nowrap"><img width="33" alt="Drools" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-drools.png" /></td>
-        <td>Infrastructure</td>
+        <td><a href="undefined">Infrastructure</a></td>
         <td>Java</td>
         <td>Drools</td>
         <td>Drools is a rule engine, DMN engine and complex event processing (CEP) engine for Java.</td>
@@ -4809,7 +4809,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="vavr-io/vavr" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-vavr.png" /></td>
-        <td>Productivity</td>
+        <td><a href="undefined">Productivity</a></td>
         <td>Java</td>
         <td>vavr-io/vavr</td>
         <td>vʌvr (formerly called Javaslang) is a non-commercial, non-profit object-functional library that runs with Java 8+. It aims to reduce the lines of code and increase code quality.</td>
@@ -4817,7 +4817,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="xManager" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-xManager.png" /></td>
-        <td>Productivity</td>
+        <td><a href="undefined">Productivity</a></td>
         <td>Java</td>
         <td>xManager</td>
         <td>Ad-Free, New Features &amp; Freedom</td>
@@ -4825,7 +4825,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="PowerJob/PowerJob" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-PowerJob.png" /></td>
-        <td>Infrastructure</td>
+        <td><a href="undefined">Infrastructure</a></td>
         <td>Java</td>
         <td>PowerJob/PowerJob</td>
         <td>Enterprise job scheduling middleware with distributed computing ability.</td>
@@ -4833,7 +4833,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="jOOQ" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-jOOQ.jpg" /></td>
-        <td>Databases</td>
+        <td><a href="undefined">Databases</a></td>
         <td>Java</td>
         <td>jOOQ</td>
         <td>jOOQ is the best way to write SQL in Java</td>
@@ -4841,7 +4841,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="ksqlDB" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-ksql.png" /></td>
-        <td>Databases</td>
+        <td><a href="undefined">Databases</a></td>
         <td>Java</td>
         <td>ksqlDB</td>
         <td>The database purpose-built for stream processing applications.</td>
@@ -4849,7 +4849,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="microG Project." src="https://libraries.github20k.com/images/uploads/2023/05/newshot-GmsCore.png" /></td>
-        <td>Infrastructure</td>
+        <td><a href="undefined">Infrastructure</a></td>
         <td>Java</td>
         <td>microG Project.</td>
         <td>Free implementation of Play Services</td>
@@ -4857,7 +4857,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="Micronaut Framework" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-micronaut-core.png" /></td>
-        <td>Infrastructure</td>
+        <td><a href="undefined">Infrastructure</a></td>
         <td>Java</td>
         <td>Micronaut Framework</td>
         <td>Micronaut Application Framework</td>
@@ -4865,7 +4865,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="JUnitorg." src="https://libraries.github20k.com/images/uploads/2023/05/newshot-junit5.png" /></td>
-        <td>Infrastructure</td>
+        <td><a href="undefined">Infrastructure</a></td>
         <td>Java</td>
         <td>JUnitorg.</td>
         <td><g-emoji class="g-emoji" alias="white_check_mark" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2705.png">✅</g-emoji> The 5th major version of the programmer-friendly testing framework for Java and the JVM</td>
@@ -4873,7 +4873,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="GraphQL Java" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-graphql-java.png" /></td>
-        <td>Infrastructure</td>
+        <td><a href="undefined">Infrastructure</a></td>
         <td>Java</td>
         <td>GraphQL Java</td>
         <td>GraphQL Java implementation</td>
@@ -4881,7 +4881,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="Zeppelin Solutions" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-zeppelin.png" /></td>
-        <td>Analytics</td>
+        <td><a href="undefined">Analytics</a></td>
         <td>Java</td>
         <td>Zeppelin Solutions</td>
         <td>Web-based notebook that enables data-driven, interactive data analytics and collaborative documents with SQL, Scala and more.</td>
@@ -4889,7 +4889,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="Know Streaming" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-KnowStreaming.png" /></td>
-        <td>Infrastructure</td>
+        <td><a href="undefined">Infrastructure</a></td>
         <td>Java</td>
         <td>Know Streaming</td>
         <td>一站式云原生实时流数据平台，通过0侵入、插件化构建企业级Kafka服务，极大降低操作、存储和管理实时流数据门槛</td>
@@ -4897,7 +4897,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="MyBatis Generator Core" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-generator-1.png" /></td>
-        <td>Databases</td>
+        <td><a href="undefined">Databases</a></td>
         <td>Java</td>
         <td>MyBatis Generator Core</td>
         <td>A code generator for MyBatis.</td>
@@ -4905,7 +4905,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="beemdevelopment/Aegis" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-Aegis-1.png" /></td>
-        <td>Security</td>
+        <td><a href="undefined">Security</a></td>
         <td>Java</td>
         <td>beemdevelopment/Aegis</td>
         <td>A free, secure and open source app for Android to manage your 2-step verification tokens.</td>
@@ -4913,7 +4913,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="Gephi" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-gephi-2.png" /></td>
-        <td>Productivity</td>
+        <td><a href="undefined">Productivity</a></td>
         <td>Java</td>
         <td>Gephi</td>
         <td>Gephi - The Open Graph Viz Platform</td>
@@ -4921,7 +4921,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="WireMock" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-wiremock-3.png" /></td>
-        <td>Collaboration</td>
+        <td><a href="undefined">Collaboration</a></td>
         <td>Java</td>
         <td>WireMock</td>
         <td>A tool for mocking HTTP services</td>
@@ -4929,7 +4929,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="Apache SeaTunnel" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-incubator-seatunnel-2.png" /></td>
-        <td>Analytics</td>
+        <td><a href="undefined">Analytics</a></td>
         <td>Java</td>
         <td>Apache SeaTunnel</td>
         <td>SeaTunnel is a distributed, high-performance data integration platform for the synchronization and transformation of massive data (offline &amp; real-time).</td>
@@ -4937,7 +4937,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="lettuce-io/lettuce-core" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-lettuce-core.png" /></td>
-        <td>Databases</td>
+        <td><a href="undefined">Databases</a></td>
         <td>Java</td>
         <td>lettuce-io/lettuce-core</td>
         <td>Advanced Java Redis client for thread-safe sync, async, and reactive usage. Supports Cluster, Sentinel, Pipelining, and codecs.</td>
@@ -4945,7 +4945,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="Robolectric" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-robolectric.png" /></td>
-        <td>Observability</td>
+        <td><a href="undefined">Observability</a></td>
         <td>Java</td>
         <td>Robolectric</td>
         <td>Android Unit Testing Framework</td>
@@ -4967,7 +4967,7 @@
     </tr>
         <tr>
         <td nowrap="nowrap"><img width="33" alt="Flutter Gallery" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-gallery.png" /></td>
-        <td>Productivity</td>
+        <td><a href="undefined">Productivity</a></td>
         <td>Dart</td>
         <td>Flutter Gallery</td>
         <td>Flutter Gallery is a resource to help developers evaluate and use Flutter</td>
@@ -4989,7 +4989,7 @@
     </tr>
         <tr>
         <td nowrap="nowrap"><img width="33" alt="Prometheus Operator" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-kube-prometheus.png" /></td>
-        <td>Observability</td>
+        <td><a href="undefined">Observability</a></td>
         <td>Jsonnet</td>
         <td>Prometheus Operator</td>
         <td>Use Prometheus to monitor Kubernetes and applications running on Kubernetes</td>
@@ -5011,7 +5011,7 @@
     </tr>
         <tr>
         <td nowrap="nowrap"><img width="33" alt="re-frame" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-re-frame.png" /></td>
-        <td>Infrastructure</td>
+        <td><a href="undefined">Infrastructure</a></td>
         <td>Clojure</td>
         <td>re-frame</td>
         <td>A ClojureScript framework for building user interfaces, leveraging React</td>
@@ -5033,7 +5033,7 @@
     </tr>
         <tr>
         <td nowrap="nowrap"><img width="33" alt="MudBlazor" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-MudBlazor.png" /></td>
-        <td>Infrastructure</td>
+        <td><a href="undefined">Infrastructure</a></td>
         <td>C#</td>
         <td>MudBlazor</td>
         <td>Blazor Component Library based on Material design with an emphasis on ease of use. Mainly written in C# with Javascript kept to a bare minimum it empowers .NET developers to easily debug it if needed.</td>
@@ -5041,7 +5041,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="MassTransit" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-MassTransit.png" /></td>
-        <td>Infrastructure</td>
+        <td><a href="undefined">Infrastructure</a></td>
         <td>C#</td>
         <td>MassTransit</td>
         <td>Distributed Application Framework for .NET</td>
@@ -5049,7 +5049,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="QuartzNET" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-quartznet.png" /></td>
-        <td>Infrastructure</td>
+        <td><a href="undefined">Infrastructure</a></td>
         <td>C#</td>
         <td>QuartzNET</td>
         <td>Quartz Enterprise Scheduler .NET</td>
@@ -5057,7 +5057,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="StackExchange.Redis" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-StackExchange.Redis_.png" /></td>
-        <td>Databases</td>
+        <td><a href="undefined">Databases</a></td>
         <td>C#</td>
         <td>StackExchange.Redis</td>
         <td>General purpose redis client</td>
@@ -5065,7 +5065,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="NLog/NLog" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-NLog-1.png" /></td>
-        <td>Observability</td>
+        <td><a href="undefined">Observability</a></td>
         <td>C#</td>
         <td>NLog/NLog</td>
         <td>NLog - Advanced and Structured Logging for Various .NET Platforms</td>
@@ -5073,7 +5073,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="dotnetcore/CAP" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-CAP-1.png" /></td>
-        <td>Infrastructure</td>
+        <td><a href="undefined">Infrastructure</a></td>
         <td>C#</td>
         <td>dotnetcore/CAP</td>
         <td>Distributed transaction solution in micro-service base on eventually consistency, also an eventbus with Outbox pattern</td>
@@ -5081,7 +5081,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="Unity" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-open-project-1-2.png" /></td>
-        <td>Collaboration</td>
+        <td><a href="undefined">Collaboration</a></td>
         <td>C#</td>
         <td>Unity</td>
         <td>Unity Open Project #1: Chop Chop</td>
@@ -5089,7 +5089,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="FASTER" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-FASTER-1.png" /></td>
-        <td>Databases</td>
+        <td><a href="undefined">Databases</a></td>
         <td>C#</td>
         <td>FASTER</td>
         <td>Fast persistent recoverable log and key-value store + cache, in C# and C++.</td>
@@ -5111,7 +5111,7 @@
     </tr>
         <tr>
         <td nowrap="nowrap"><img width="33" alt="AdAway" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-AdAway.png" /></td>
-        <td>Security</td>
+        <td><a href="undefined">Security</a></td>
         <td>C</td>
         <td>AdAway</td>
         <td>AdAway is a free and open source ad blocker for Android. </td>
@@ -5119,7 +5119,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="Universal Ctags" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-ctags.png" /></td>
-        <td>Infrastructure</td>
+        <td><a href="undefined">Infrastructure</a></td>
         <td>C</td>
         <td>Universal Ctags</td>
         <td>A maintained ctags implementation</td>
@@ -5127,7 +5127,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="libimobiledevice" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-libimobiledevice.png" /></td>
-        <td>Infrastructure</td>
+        <td><a href="undefined">Infrastructure</a></td>
         <td>C</td>
         <td>libimobiledevice</td>
         <td>A cross-platform protocol library to communicate with iOS devices</td>
@@ -5135,7 +5135,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="Wazuh" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-wazuh.png" /></td>
-        <td>Security</td>
+        <td><a href="undefined">Security</a></td>
         <td>C</td>
         <td>Wazuh</td>
         <td>Wazuh - The Open Source Security Platform. Unified XDR and SIEM protection for endpoints and cloud workloads.</td>
@@ -5143,7 +5143,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="wasm3/wasm3" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-wasm3.png" /></td>
-        <td>Infrastructure</td>
+        <td><a href="undefined">Infrastructure</a></td>
         <td>C</td>
         <td>wasm3/wasm3</td>
         <td><g-emoji class="g-emoji" alias="rocket" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f680.png">?</g-emoji> A fast WebAssembly interpreter and the most universal WASM runtime</td>
@@ -5151,7 +5151,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="veracrypt/VeraCrypt" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-VeraCrypt-1.png" /></td>
-        <td>Security</td>
+        <td><a href="undefined">Security</a></td>
         <td>C</td>
         <td>veracrypt/VeraCrypt</td>
         <td>Disk encryption with strong security based on TrueCrypt</td>
@@ -5159,7 +5159,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="Simple DirectMedia Layer" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-SDL.png" /></td>
-        <td>Infrastructure</td>
+        <td><a href="undefined">Infrastructure</a></td>
         <td>C</td>
         <td>Simple DirectMedia Layer</td>
         <td>Simple Directmedia Layer</td>
@@ -5167,7 +5167,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="MuJoCo" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-mujoco-1.png" /></td>
-        <td>Infrastructure</td>
+        <td><a href="undefined">Infrastructure</a></td>
         <td>C</td>
         <td>MuJoCo</td>
         <td>Multi-Joint dynamics with Contact. A general purpose physics simulator.</td>
@@ -5189,7 +5189,7 @@
     </tr>
         <tr>
         <td nowrap="nowrap"><img width="33" alt="Discord Developer Portal" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-discord-api-docs.png" /></td>
-        <td>Collaboration</td>
+        <td><a href="undefined">Collaboration</a></td>
         <td>Markdown</td>
         <td>Discord Developer Portal</td>
         <td>Official Discord API Documentation</td>
@@ -5211,7 +5211,7 @@
     </tr>
         <tr>
         <td nowrap="nowrap"><img width="33" alt="Remix Icon" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-RemixIcon.png" /></td>
-        <td>Productivity</td>
+        <td><a href="undefined">Productivity</a></td>
         <td>Less</td>
         <td>Remix Icon</td>
         <td>Open source neutral style icon system</td>
@@ -5233,7 +5233,7 @@
     </tr>
         <tr>
         <td nowrap="nowrap"><img width="33" alt="CotEditor" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-CotEditor.png" /></td>
-        <td>Productivity</td>
+        <td><a href="undefined">Productivity</a></td>
         <td>Swift</td>
         <td>CotEditor</td>
         <td>Lightweight Plain-Text Editor for macOS</td>
@@ -5241,7 +5241,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="Blink Shell" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-blink.png" /></td>
-        <td>Productivity</td>
+        <td><a href="undefined">Productivity</a></td>
         <td>Swift</td>
         <td>Blink Shell</td>
         <td>Blink Mobile Shell for iOS (Mosh based)</td>
@@ -5263,7 +5263,7 @@
     </tr>
         <tr>
         <td nowrap="nowrap"><img width="33" alt="BEM" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-getbem.github.io_.png" /></td>
-        <td>Infrastructure</td>
+        <td><a href="undefined">Infrastructure</a></td>
         <td>Astro</td>
         <td>BEM</td>
         <td>Get BEM to all people in simplest way</td>
@@ -5285,7 +5285,7 @@
     </tr>
         <tr>
         <td nowrap="nowrap"><img width="33" alt="OWASP Security Guide" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-wstg.jpg" /></td>
-        <td>Security</td>
+        <td><a href="undefined">Security</a></td>
         <td>Dockerfile</td>
         <td>OWASP Security Guide</td>
         <td>The Web Security Testing Guide is a comprehensive Open Source guide to testing the security of web applications and web services.</td>
@@ -5307,7 +5307,7 @@
     </tr>
         <tr>
         <td nowrap="nowrap"><img width="33" alt="the Guardian" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-frontend.png" /></td>
-        <td>Infrastructure</td>
+        <td><a href="undefined">Infrastructure</a></td>
         <td>Scala</td>
         <td>the Guardian</td>
         <td>The Guardian DotCom.</td>
@@ -5315,7 +5315,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="Gatling" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-gatling.png" /></td>
-        <td>Infrastructure</td>
+        <td><a href="undefined">Infrastructure</a></td>
         <td>Scala</td>
         <td>Gatling</td>
         <td>Modern Load Testing as Code</td>
@@ -5323,7 +5323,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="Scala 3" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-dotty.jpg" /></td>
-        <td>Infrastructure</td>
+        <td><a href="undefined">Infrastructure</a></td>
         <td>Scala</td>
         <td>Scala 3</td>
         <td>The Scala 3 compiler, also known as Dotty.</td>
@@ -5331,7 +5331,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="Delta Lake" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-delta-2.png" /></td>
-        <td>Databases</td>
+        <td><a href="undefined">Databases</a></td>
         <td>Scala</td>
         <td>Delta Lake</td>
         <td>An open-source storage framework that enables building a Lakehouse architecture with compute engines including Spark, PrestoDB, Flink, Trino, and Hive and APIs</td>
@@ -5339,7 +5339,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="Apache OpenWhisk" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-openwhisk-3.png" /></td>
-        <td>Infrastructure</td>
+        <td><a href="undefined">Infrastructure</a></td>
         <td>Scala</td>
         <td>Apache OpenWhisk</td>
         <td>Apache OpenWhisk is an open source serverless cloud platform</td>
@@ -5361,7 +5361,7 @@
     </tr>
         <tr>
         <td nowrap="nowrap"><img width="33" alt="CKEditor 4" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-ckeditor4.png" /></td>
-        <td>Productivity</td>
+        <td><a href="undefined">Productivity</a></td>
         <td>Rich Text Format</td>
         <td>CKEditor 4</td>
         <td>The best enterprise-grade WYSIWYG editor. Fully customizable with countless features and plugins.</td>
@@ -5383,7 +5383,7 @@
     </tr>
         <tr>
         <td nowrap="nowrap"><img width="33" alt="Supabase" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-realtime.png" /></td>
-        <td>Collaboration</td>
+        <td><a href="undefined">Collaboration</a></td>
         <td>Elixir</td>
         <td>Supabase</td>
         <td>Broadcast, Presence, and Postgres Changes via WebSockets</td>
@@ -5405,7 +5405,7 @@
     </tr>
         <tr>
         <td nowrap="nowrap"><img width="33" alt="Linux Kernel Guide" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-lkmpg.jpg" /></td>
-        <td>Productivity</td>
+        <td><a href="undefined">Productivity</a></td>
         <td>TeX</td>
         <td>Linux Kernel Guide</td>
         <td>The Linux Kernel Module Programming Guide (updated for 5.x kernels)</td>
@@ -5427,7 +5427,7 @@
     </tr>
         <tr>
         <td nowrap="nowrap"><img width="33" alt="It's Magit!" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-magit.png" /></td>
-        <td>Productivity</td>
+        <td><a href="undefined">Productivity</a></td>
         <td>Emacs Lisp</td>
         <td>It's Magit!</td>
         <td>It's Magit! A Git Porcelain inside Emacs.</td>
@@ -5435,7 +5435,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="Org-roam" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-org-roam.png" /></td>
-        <td>Productivity</td>
+        <td><a href="undefined">Productivity</a></td>
         <td>Emacs Lisp</td>
         <td>Org-roam</td>
         <td>Rudimentary Roam replica with Org-mode</td>
@@ -5457,7 +5457,7 @@
     </tr>
         <tr>
         <td nowrap="nowrap"><img width="33" alt="PIVPN" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-pivpn.png" /></td>
-        <td>Infrastructure</td>
+        <td><a href="undefined">Infrastructure</a></td>
         <td>Shell</td>
         <td>PIVPN</td>
         <td>The Simplest VPN installer, designed for Raspberry Pi</td>
@@ -5465,7 +5465,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="Todotxt" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-todo.txt-cli-2.png" /></td>
-        <td>Productivity</td>
+        <td><a href="undefined">Productivity</a></td>
         <td>Shell</td>
         <td>Todotxt</td>
         <td><g-emoji class="g-emoji" alias="ballot_box_with_check" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2611.png">☑️</g-emoji> A simple and extensible shell script for managing your todo.txt file.</td>
@@ -5487,7 +5487,7 @@
     </tr>
         <tr>
         <td nowrap="nowrap"><img width="33" alt="ReScript Documentation" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-rescript-compiler.png" /></td>
-        <td>Infrastructure</td>
+        <td><a href="undefined">Infrastructure</a></td>
         <td>OCaml</td>
         <td>ReScript Documentation</td>
         <td>The compiler for ReScript.</td>
@@ -5509,7 +5509,7 @@
     </tr>
         <tr>
         <td nowrap="nowrap"><img width="33" alt="MQTT" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-mqtt.org_.png" /></td>
-        <td>Miscellaneous</td>
+        <td><a href="undefined">Miscellaneous</a></td>
         <td>SCSS</td>
         <td>MQTT</td>
         <td>The mqtt.org website</td>
@@ -5517,7 +5517,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="conventional-commits/conventionalcommits.org" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-conventionalcommits.org_.jpg" /></td>
-        <td>Collaboration</td>
+        <td><a href="undefined">Collaboration</a></td>
         <td>SCSS</td>
         <td>conventional-commits/conventionalcommits.org</td>
         <td>The conventional commits specification</td>
@@ -5525,7 +5525,7 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="Just the Docs" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-just-the-docs-1.png" /></td>
-        <td>Productivity</td>
+        <td><a href="undefined">Productivity</a></td>
         <td>SCSS</td>
         <td>Just the Docs</td>
         <td>A modern, high customizable, responsive Jekyll theme for documentation with built-in search.</td>
@@ -5547,7 +5547,7 @@
     </tr>
         <tr>
         <td nowrap="nowrap"><img width="33" alt="Shiny." src="https://libraries.github20k.com/images/uploads/2023/05/newshot-shiny-1.png" /></td>
-        <td>Productivity</td>
+        <td><a href="undefined">Productivity</a></td>
         <td>R</td>
         <td>Shiny.</td>
         <td>Easy interactive web applications with R</td>
@@ -5569,7 +5569,7 @@
     </tr>
         <tr>
         <td nowrap="nowrap"><img width="33" alt="ProcessOne" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-ejabberd-1.png" /></td>
-        <td>Collaboration</td>
+        <td><a href="undefined">Collaboration</a></td>
         <td>Erlang</td>
         <td>ProcessOne</td>
         <td>Robust, Ubiquitous and Massively Scalable Messaging Platform (XMPP, MQTT, SIP Server)</td>
@@ -5591,7 +5591,7 @@
     </tr>
         <tr>
         <td nowrap="nowrap"><img width="33" alt="EarlGrey Reference" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-EarlGrey-1.png" /></td>
-        <td>Observability</td>
+        <td><a href="undefined">Observability</a></td>
         <td>Objective-C</td>
         <td>EarlGrey Reference</td>
         <td><g-emoji class="g-emoji" alias="tea" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f375.png">?</g-emoji> iOS UI Automation Test Framework</td>
@@ -5613,7 +5613,7 @@
     </tr>
         <tr>
         <td nowrap="nowrap"><img width="33" alt="Mandiant" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-commando-vm-1.png" /></td>
-        <td>Security</td>
+        <td><a href="undefined">Security</a></td>
         <td>PowerShell</td>
         <td>Mandiant</td>
         <td>Complete Mandiant Offensive VM (Commando VM), a fully customizable Windows-based pentesting virtual machine distribution. commandovm@mandiant.com</td>
@@ -5635,7 +5635,7 @@
     </tr>
         <tr>
         <td nowrap="nowrap"><img width="33" alt="Haxe - The Cross-platform Toolkit" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-haxe-2.png" /></td>
-        <td>Infrastructure</td>
+        <td><a href="undefined">Infrastructure</a></td>
         <td>Haxe</td>
         <td>Haxe - The Cross-platform Toolkit</td>
         <td>Haxe - The Cross-Platform Toolkit</td>
@@ -5657,7 +5657,7 @@
     </tr>
         <tr>
         <td nowrap="nowrap"><img width="33" alt="Tagbar" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-tagbar-2.png" /></td>
-        <td>Productivity</td>
+        <td><a href="undefined">Productivity</a></td>
         <td>Vim Script</td>
         <td>Tagbar</td>
         <td>Vim plugin that displays tags in a window, ordered by scope</td>
@@ -5679,7 +5679,7 @@
     </tr>
         <tr>
         <td nowrap="nowrap"><img width="33" alt="CodeQL" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-codeql-2.png" /></td>
-        <td>Security</td>
+        <td><a href="undefined">Security</a></td>
         <td>CodeQL</td>
         <td>CodeQL</td>
         <td>CodeQL: the libraries and queries that power security researchers around the world, as well as code scanning in GitHub Advanced Security</td>
@@ -5701,7 +5701,7 @@
     </tr>
         <tr>
         <td nowrap="nowrap"><img width="33" alt="unisonweb/unison" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-unison.png" /></td>
-        <td>Infrastructure</td>
+        <td><a href="undefined">Infrastructure</a></td>
         <td>Haskell</td>
         <td>unisonweb/unison</td>
         <td>A friendly programming language from the future</td>
