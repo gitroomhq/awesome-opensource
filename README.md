@@ -1,11 +1,12 @@
 
+<img src="https://user-images.githubusercontent.com/100117126/226394199-4072d339-5841-47b1-acab-2d2906c78d96.png" alt="GitHub20k" />
 <h1>Awesome open-source libraries voted by members 🎤</h1>
 <p>Awesome list of open-source libraries, maintained by <a href="https://libraries.github20k.com">GitHub20k</a></p>
 <h2>How it works?</h2>
 <p>Every 5 hours a cron job runs over GitHub20k library list and update the GitHub list</p>
 <h2>How to add your library?</h2>
 <p>Simple go to <a href="https://libraries.github20k.com">GitHub20k</a> and click on the "Add your library" button</p>
-<h2>Trending list</h2>
+<h2>Top 100 trending list</h2>
 <table>
     <tr>
         <th>#</th>
@@ -64,13 +65,6 @@
         <th><img alt="phpseclib" src="https://img.shields.io/github/stars/phpseclib/phpseclib?style=social" /></th>
     </tr>
     <tr>
-        <td nowrap="nowrap"><img width="50" alt="Elvish Shell" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-elvish.jpg" /></td>
-        <td>Productivity</td>
-        <td>Elvish Shell</td>
-        <td>Elvish = Expressive Programming Language + Versatile Interactive Shell</td>
-        <th><img alt="Elvish Shell" src="https://img.shields.io/github/stars/elves/elvish?style=social" /></th>
-    </tr>
-    <tr>
         <td nowrap="nowrap"><img width="50" alt="Organic Maps" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-organicmaps.png" /></td>
         <td>Productivity</td>
         <td>Organic Maps</td>
@@ -90,13 +84,6 @@
         <td>Cemu Emulator</td>
         <td>Cemu - Wii U emulator</td>
         <th><img alt="Cemu Emulator" src="https://img.shields.io/github/stars/cemu-project/Cemu?style=social" /></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="50" alt="froala/wysiwyg-editor" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-wysiwyg-editor.png" /></td>
-        <td>Productivity</td>
-        <td>froala/wysiwyg-editor</td>
-        <td>The next generation Javascript WYSIWYG HTML Editor.</td>
-        <th><img alt="froala/wysiwyg-editor" src="https://img.shields.io/github/stars/froala/wysiwyg-editor?style=social" /></th>
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="50" alt="Danger" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-danger.png" /></td>
@@ -351,6 +338,13 @@
         <th><img alt="react-chartjs-2" src="https://img.shields.io/github/stars/reactchartjs/react-chartjs-2?style=social" /></th>
     </tr>
     <tr>
+        <td nowrap="nowrap"><img width="50" alt="CloudWeGo" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-kitex.png" /></td>
+        <td>Infrastructure</td>
+        <td>CloudWeGo</td>
+        <td>Go RPC framework with high-performance and strong-extensibility for building micro-services.</td>
+        <th><img alt="CloudWeGo" src="https://img.shields.io/github/stars/cloudwego/kitex?style=social" /></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="50" alt="Gatling" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-gatling.png" /></td>
         <td>Infrastructure</td>
         <td>Gatling</td>
@@ -370,6 +364,13 @@
         <td>Linux Kernel Guide</td>
         <td>The Linux Kernel Module Programming Guide (updated for 5.x kernels)</td>
         <th><img alt="Linux Kernel Guide" src="https://img.shields.io/github/stars/sysprog21/lkmpg?style=social" /></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="50" alt="Yao App Engine" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-yao.png" /></td>
+        <td>Productivity</td>
+        <td>Yao App Engine</td>
+        <td><g-emoji class="g-emoji" alias="rocket" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f680.png">?</g-emoji> A performance app engine to create web services and applications in minutes.Suitable for AI, IoT, Industrial Internet, Connected Vehicles, DevOps, Energy, Finance and many other use-cases.</td>
+        <th><img alt="Yao App Engine" src="https://img.shields.io/github/stars/YaoApp/yao?style=social" /></th>
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="50" alt="WeChat Open Doc" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-miniprogram-demo.png" /></td>
@@ -393,6 +394,13 @@
         <th><img alt="alibaba/x-render" src="https://img.shields.io/github/stars/alibaba/x-render?style=social" /></th>
     </tr>
     <tr>
+        <td nowrap="nowrap"><img width="50" alt="Casdoor" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-casdoor.png" /></td>
+        <td>Security</td>
+        <td>Casdoor</td>
+        <td>An open-source Identity and Access Management (IAM) / Single-Sign-On (SSO) platform powered by Casbin and AI gateway with web UI supporting OAuth 2.0, OIDC, SAML and OpenAI ChatGPT</td>
+        <th><img alt="Casdoor" src="https://img.shields.io/github/stars/casdoor/casdoor?style=social" /></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="50" alt="SandDance" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-SandDance.png" /></td>
         <td>Analytics</td>
         <td>SandDance</td>
@@ -412,6 +420,13 @@
         <td>OpenNMT</td>
         <td>Open Source Neural Machine Translation in PyTorch</td>
         <th><img alt="OpenNMT" src="https://img.shields.io/github/stars/OpenNMT/OpenNMT-py?style=social" /></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="50" alt="HumHub" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-humhub.png" /></td>
+        <td>Collaboration</td>
+        <td>HumHub</td>
+        <td>HumHub is an Open Source Enterprise Social Network. Easy to install, intuitive to use and extendable with countless freely available modules.</td>
+        <th><img alt="HumHub" src="https://img.shields.io/github/stars/humhub/humhub?style=social" /></th>
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="50" alt="Atlantis" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-atlantis.png" /></td>
@@ -680,13 +695,6 @@
         <th><img alt="lettuce-io/lettuce-core" src="https://img.shields.io/github/stars/lettuce-io/lettuce-core?style=social" /></th>
     </tr>
     <tr>
-        <td nowrap="nowrap"><img width="50" alt="Cucumber" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-cucumber-ruby.png" /></td>
-        <td>Observability</td>
-        <td>Cucumber</td>
-        <td>Cucumber for Ruby. It's amazing!</td>
-        <th><img alt="Cucumber" src="https://img.shields.io/github/stars/cucumber/cucumber-ruby?style=social" /></th>
-    </tr>
-    <tr>
         <td nowrap="nowrap"><img width="50" alt="Docusaurus" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-docusaurus.png" /></td>
         <td>Productivity</td>
         <td>Docusaurus</td>
@@ -699,13 +707,6 @@
         <td>Org-roam</td>
         <td>Rudimentary Roam replica with Org-mode</td>
         <th><img alt="Org-roam" src="https://img.shields.io/github/stars/org-roam/org-roam?style=social" /></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="50" alt="log4js-node/log4js-node" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-log4js-node.png" /></td>
-        <td>Observability</td>
-        <td>log4js-node/log4js-node</td>
-        <td>A port of log4js to node.js</td>
-        <th><img alt="log4js-node/log4js-node" src="https://img.shields.io/github/stars/log4js-node/log4js-node?style=social" /></th>
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="50" alt="linvo-io/linvo-scraper" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-linvo-scraper.png" /></td>
