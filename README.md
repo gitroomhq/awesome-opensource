@@ -8,6 +8,7 @@
 <img src="https://github.com/github-20k/awesome-opensource/assets/100117126/340f5ca4-b13f-450f-b750-8d5c028d809d" width="100%" alt="setup" />
 <h2>Table of contents</h2>
 <ul>
+    <li><a href="#new-20">New 20 libraries</a></li>
     <li><a href="#top-100">Top 100 trending list</a></li>
     <li>
         By category
@@ -118,6 +119,181 @@
         </ul>
     </li>
 </ul>
+
+<br /><br />
+<h2 id="new-20">New 20 libraries</h2>
+<table>
+    <tr>
+        <th>Icon</th>
+        <th>Category</th>
+        <th>Language</th>
+        <th>Name</th>
+        <th>Description</th>
+        <th>Stargazers</th>
+    </tr>
+        <tr>
+        <td nowrap="nowrap"><img width="33" alt="Appwrite" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-appwrite.png" /></td>
+        <td>Databases</td>
+        <td>TypeScript</td>
+        <td><a href="https://appwrite.io" target="_blank">Appwrite</a></td>
+        <td>Build Fast. Scale Big. All in One Place.</td>
+        <th><a href="https://github.com/appwrite/appwrite" target="_blank"><img alt="Appwrite" src="https://img.shields.io/github/stars/appwrite/appwrite?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="lettuce-io/lettuce-core" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-lettuce-core.png" /></td>
+        <td>Databases</td>
+        <td>Java</td>
+        <td><a href="https://lettuce.io" target="_blank">lettuce-io/lettuce-core</a></td>
+        <td>Advanced Java Redis client for thread-safe sync, async, and reactive usage. Supports Cluster, Sentinel, Pipelining, and codecs.</td>
+        <th><a href="https://github.com/lettuce-io/lettuce-core" target="_blank"><img alt="lettuce-io/lettuce-core" src="https://img.shields.io/github/stars/lettuce-io/lettuce-core?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Cucumber" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-cucumber-ruby.png" /></td>
+        <td>Observability</td>
+        <td>Ruby</td>
+        <td><a href="https://cucumber.io" target="_blank">Cucumber</a></td>
+        <td>Cucumber for Ruby. It's amazing!</td>
+        <th><a href="https://github.com/cucumber/cucumber-ruby" target="_blank"><img alt="Cucumber" src="https://img.shields.io/github/stars/cucumber/cucumber-ruby?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Amplication" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-amplication-1.png" /></td>
+        <td>Infrastructure</td>
+        <td>TypeScript</td>
+        <td><a href="https://amplication.com" target="_blank">Amplication</a></td>
+        <td>Auto-generating TypeScript, GraphQL, REST API, and Node.js, accelerating your full-stack development <g-emoji class="g-emoji" alias="rocket" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f680.png">?</g-emoji></td>
+        <th><a href="https://github.com/amplication/amplication" target="_blank"><img alt="Amplication" src="https://img.shields.io/github/stars/amplication/amplication?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Cerbos" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-cerbos.png" /></td>
+        <td>Infrastructure</td>
+        <td>Go</td>
+        <td><a href="https://cerbos.dev" target="_blank">Cerbos</a></td>
+        <td>Cerbos is the open core, language-agnostic, scalable authorization solution that makes user permissions and authorization simple to implement and manage by writing context-aware access control poli…</td>
+        <th><a href="https://github.com/cerbos/cerbos" target="_blank"><img alt="Cerbos" src="https://img.shields.io/github/stars/cerbos/cerbos?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="GitHub Support" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-dmca.png" /></td>
+        <td>Miscellaneous</td>
+        <td>undefined</td>
+        <td><a href="http://help.github.com/dmca" target="_blank">GitHub Support</a></td>
+        <td>Repository with text of DMCA takedown notices as received. GitHub does not endorse or adopt any assertion contained in the following notices. Users identified in the notices are presumed innocent u…</td>
+        <th><a href="https://github.com/github/dmca" target="_blank"><img alt="GitHub Support" src="https://img.shields.io/github/stars/github/dmca?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="awesome window manager" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-awesome.png" /></td>
+        <td>Miscellaneous</td>
+        <td>Lua</td>
+        <td><a href="https://awesomewm.org/" target="_blank">awesome window manager</a></td>
+        <td>awesome window manager</td>
+        <th><a href="https://github.com/awesomeWM/awesome" target="_blank"><img alt="awesome window manager" src="https://img.shields.io/github/stars/awesomeWM/awesome?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="ClusterFuzz" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-clusterfuzz.png" /></td>
+        <td>Infrastructure</td>
+        <td>Python</td>
+        <td><a href="https://google.github.io/clusterfuzz" target="_blank">ClusterFuzz</a></td>
+        <td>Scalable fuzzing infrastructure.</td>
+        <th><a href="https://github.com/google/clusterfuzz" target="_blank"><img alt="ClusterFuzz" src="https://img.shields.io/github/stars/google/clusterfuzz?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="VS Code Docs" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-vscode-docs.png" /></td>
+        <td>Productivity</td>
+        <td>CSS</td>
+        <td><a href="http://code.visualstudio.com/docs" target="_blank">VS Code Docs</a></td>
+        <td>Public documentation for Visual Studio Code</td>
+        <th><a href="https://github.com/microsoft/vscode-docs" target="_blank"><img alt="VS Code Docs" src="https://img.shields.io/github/stars/microsoft/vscode-docs?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="PrivateBin" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-PrivateBin.png" /></td>
+        <td>Security</td>
+        <td>PHP</td>
+        <td><a href="https://privatebin.info/" target="_blank">PrivateBin</a></td>
+        <td>A minimalist, open source online pastebin where the server has zero knowledge of pasted data. Data is encrypted/decrypted in the browser using 256 bits AES.</td>
+        <th><a href="https://github.com/PrivateBin/PrivateBin" target="_blank"><img alt="PrivateBin" src="https://img.shields.io/github/stars/PrivateBin/PrivateBin?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="The Lounge" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-thelounge.png" /></td>
+        <td>Collaboration</td>
+        <td>TypeScript</td>
+        <td><a href="https://thelounge.chat" target="_blank">The Lounge</a></td>
+        <td><g-emoji class="g-emoji" alias="speech_balloon" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4ac.png">?</g-emoji> ‎ Modern, responsive, cross-platform, self-hosted web IRC client</td>
+        <th><a href="https://github.com/thelounge/thelounge" target="_blank"><img alt="The Lounge" src="https://img.shields.io/github/stars/thelounge/thelounge?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Soundnode" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-soundnode-app.png" /></td>
+        <td>Productivity</td>
+        <td>JavaScript</td>
+        <td><a href="https://soundnode.github.io/soundnode-website/" target="_blank">Soundnode</a></td>
+        <td>Soundnode App is the Soundcloud for desktop. Built with Electron, Angular.js and Soundcloud API.</td>
+        <th><a href="https://github.com/Soundnode/soundnode-app" target="_blank"><img alt="Soundnode" src="https://img.shields.io/github/stars/Soundnode/soundnode-app?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="OneFlow" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-oneflow.png" /></td>
+        <td>Analytics</td>
+        <td>C++</td>
+        <td><a href="http://www.oneflow.org" target="_blank">OneFlow</a></td>
+        <td>OneFlow is a deep learning framework designed to be user-friendly, scalable and efficient.</td>
+        <th><a href="https://github.com/Oneflow-Inc/oneflow" target="_blank"><img alt="OneFlow" src="https://img.shields.io/github/stars/Oneflow-Inc/oneflow?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="phpseclib" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-phpseclib.png" /></td>
+        <td>Security</td>
+        <td>PHP</td>
+        <td><a href="http://phpseclib.com/" target="_blank">phpseclib</a></td>
+        <td>PHP Secure Communications Library</td>
+        <th><a href="https://github.com/phpseclib/phpseclib" target="_blank"><img alt="phpseclib" src="https://img.shields.io/github/stars/phpseclib/phpseclib?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Elvish Shell" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-elvish.jpg" /></td>
+        <td>Productivity</td>
+        <td>Go</td>
+        <td><a href="https://elv.sh/" target="_blank">Elvish Shell</a></td>
+        <td>Elvish = Expressive Programming Language + Versatile Interactive Shell</td>
+        <th><a href="https://github.com/elves/elvish" target="_blank"><img alt="Elvish Shell" src="https://img.shields.io/github/stars/elves/elvish?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Setup Falcon SQL Client" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-falcon.png" /></td>
+        <td>Databases</td>
+        <td>JavaScript</td>
+        <td><a href="https://plot.ly/free-sql-client-download/" target="_blank">Setup Falcon SQL Client</a></td>
+        <td>Free, open-source SQL client for Windows and Mac <g-emoji class="g-emoji" alias="eagle" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f985.png">?</g-emoji></td>
+        <th><a href="https://github.com/plotly/falcon" target="_blank"><img alt="Setup Falcon SQL Client" src="https://img.shields.io/github/stars/plotly/falcon?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Mirage JS" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-miragejs.png" /></td>
+        <td>Productivity</td>
+        <td>JavaScript</td>
+        <td><a href="https://miragejs.com/" target="_blank">Mirage JS</a></td>
+        <td>A client-side server to build, test and share your JavaScript app</td>
+        <th><a href="https://github.com/miragejs/miragejs" target="_blank"><img alt="Mirage JS" src="https://img.shields.io/github/stars/miragejs/miragejs?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Konva.js - JavaScript 2d canvas library" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-react-konva.png" /></td>
+        <td>Observability</td>
+        <td>TypeScript</td>
+        <td><a href="https://konvajs.github.io/docs/react/" target="_blank">Konva.js - JavaScript 2d canvas library</a></td>
+        <td>React + Canvas = Love. JavaScript library for drawing complex canvas graphics using React.</td>
+        <th><a href="https://github.com/konvajs/react-konva" target="_blank"><img alt="Konva.js - JavaScript 2d canvas library" src="https://img.shields.io/github/stars/konvajs/react-konva?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="SagerNet/SagerNet" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-SagerNet.png" /></td>
+        <td>Security</td>
+        <td>Kotlin</td>
+        <td><a href="https://sagernet.org" target="_blank">SagerNet/SagerNet</a></td>
+        <td>The universal proxy toolchain for Android</td>
+        <th><a href="https://github.com/SagerNet/SagerNet" target="_blank"><img alt="SagerNet/SagerNet" src="https://img.shields.io/github/stars/SagerNet/SagerNet?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Organic Maps" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-organicmaps.png" /></td>
+        <td>Productivity</td>
+        <td>C++</td>
+        <td><a href="https://organicmaps.app" target="_blank">Organic Maps</a></td>
+        <td><g-emoji class="g-emoji" alias="leaves" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f343.png">?</g-emoji> Organic Maps is a free Android &amp; iOS offline maps app for travelers, tourists, hikers, and cyclists. It uses crowd-sourced OpenStreetMap data and is developed with love by MapsWithMe (MapsMe) fou…</td>
+        <th><a href="https://github.com/organicmaps/organicmaps" target="_blank"><img alt="Organic Maps" src="https://img.shields.io/github/stars/organicmaps/organicmaps?style=social" /></a></th>
+    </tr>
+
+</table>
+
 
 <br /><br />
 <h2 id="top-100">Top 100 trending list</h2>
@@ -986,12 +1162,12 @@
         <th><a href="https://github.com/stashapp/stash" target="_blank"><img alt="Stash" src="https://img.shields.io/github/stars/stashapp/stash?style=social" /></a></th>
     </tr>
     <tr>
-        <td nowrap="nowrap"><img width="33" alt="GitHub" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-pusakatest.jpg" /></td>
+        <td nowrap="nowrap"><img width="33" alt="Pusakatest" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-pusakatest.jpg" /></td>
         <td>Miscellaneous</td>
         <td>JavaScript</td>
-        <td><a href="https://github.com/depapp/pusakatest" target="_blank">GitHub</a></td>
+        <td><a href="https://github.com/depapp/pusakatest" target="_blank">Pusakatest</a></td>
         <td>pusakatest is an automation testing tool based on pactumjs using bdd (cucumber) style with localization</td>
-        <th><a href="https://github.com/depapp/pusakatest" target="_blank"><img alt="GitHub" src="https://img.shields.io/github/stars/depapp/pusakatest?style=social" /></a></th>
+        <th><a href="https://github.com/depapp/pusakatest" target="_blank"><img alt="Pusakatest" src="https://img.shields.io/github/stars/depapp/pusakatest?style=social" /></a></th>
     </tr>
 
 </table>
@@ -4063,12 +4239,12 @@
         <th><a href="https://github.com/dequelabs/axe-core" target="_blank"><img alt="StackPath" src="https://img.shields.io/github/stars/dequelabs/axe-core?style=social" /></a></th>
     </tr>
     <tr>
-        <td nowrap="nowrap"><img width="33" alt="GitHub" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-pusakatest.jpg" /></td>
+        <td nowrap="nowrap"><img width="33" alt="Pusakatest" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-pusakatest.jpg" /></td>
         <td>Miscellaneous</td>
         <td>JavaScript</td>
-        <td><a href="https://github.com/depapp/pusakatest" target="_blank">GitHub</a></td>
+        <td><a href="https://github.com/depapp/pusakatest" target="_blank">Pusakatest</a></td>
         <td>pusakatest is an automation testing tool based on pactumjs using bdd (cucumber) style with localization</td>
-        <th><a href="https://github.com/depapp/pusakatest" target="_blank"><img alt="GitHub" src="https://img.shields.io/github/stars/depapp/pusakatest?style=social" /></a></th>
+        <th><a href="https://github.com/depapp/pusakatest" target="_blank"><img alt="Pusakatest" src="https://img.shields.io/github/stars/depapp/pusakatest?style=social" /></a></th>
     </tr>
 
 </table>
