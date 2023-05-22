@@ -9,7 +9,7 @@
 <ul>
     <li><a href="#top-100">Top 100 trending list</a></li>
     <li>
-        By categories
+        By category
         <ul>
                   <li>
                 <a href="#miscellaneous">Miscellaneous</a>
@@ -118,9 +118,9 @@
     </li>
 </ul>
 
-<hr /><br />
-<h2>Top 100 trending list</h2>
-<table id="top-100">
+<br /><br />
+<h2 id="top-100">Top 100 trending list</h2>
+<table>
     <tr>
         <th>#</th>
         <th>Category</th>
@@ -832,9 +832,9 @@
 </table>
 
 
-<hr /><br />
-<h2>Top 20 Miscellaneous libraries</h2>
-<table id="miscellaneous">
+<br /><br />
+<h2 id="miscellaneous">Top 20 Miscellaneous libraries</h2>
+<table>
     <tr>
         <th>#</th>
         <th>Category</th>
@@ -880,9 +880,9 @@
 
 </table>
 
-<hr /><br />
-<h2>Top 20 Observability libraries</h2>
-<table id="observability">
+<br /><br />
+<h2 id="observability">Top 20 Observability libraries</h2>
+<table>
     <tr>
         <th>#</th>
         <th>Category</th>
@@ -1005,9 +1005,9 @@
 
 </table>
 
-<hr /><br />
-<h2>Top 20 Productivity libraries</h2>
-<table id="productivity">
+<br /><br />
+<h2 id="productivity">Top 20 Productivity libraries</h2>
+<table>
     <tr>
         <th>#</th>
         <th>Category</th>
@@ -1571,9 +1571,9 @@
 
 </table>
 
-<hr /><br />
-<h2>Top 20 Analytics libraries</h2>
-<table id="analytics">
+<br /><br />
+<h2 id="analytics">Top 20 Analytics libraries</h2>
+<table>
     <tr>
         <th>#</th>
         <th>Category</th>
@@ -1647,9 +1647,9 @@
 
 </table>
 
-<hr /><br />
-<h2>Top 20 Security libraries</h2>
-<table id="security">
+<br /><br />
+<h2 id="security">Top 20 Security libraries</h2>
+<table>
     <tr>
         <th>#</th>
         <th>Category</th>
@@ -1814,9 +1814,9 @@
 
 </table>
 
-<hr /><br />
-<h2>Top 20 Collaboration libraries</h2>
-<table id="collaboration">
+<br /><br />
+<h2 id="collaboration">Top 20 Collaboration libraries</h2>
+<table>
     <tr>
         <th>#</th>
         <th>Category</th>
@@ -1988,9 +1988,9 @@
 
 </table>
 
-<hr /><br />
-<h2>Top 20 Notifications libraries</h2>
-<table id="notifications">
+<br /><br />
+<h2 id="notifications">Top 20 Notifications libraries</h2>
+<table>
     <tr>
         <th>#</th>
         <th>Category</th>
@@ -2008,9 +2008,9 @@
 
 </table>
 
-<hr /><br />
-<h2>Top 20 Databases libraries</h2>
-<table id="databases">
+<br /><br />
+<h2 id="databases">Top 20 Databases libraries</h2>
+<table>
     <tr>
         <th>#</th>
         <th>Category</th>
@@ -2154,9 +2154,9 @@
 
 </table>
 
-<hr /><br />
-<h2>Top 20 Infrastructure libraries</h2>
-<table id="infrastructure">
+<br /><br />
+<h2 id="infrastructure">Top 20 Infrastructure libraries</h2>
+<table>
     <tr>
         <th>#</th>
         <th>Category</th>
@@ -2756,9 +2756,9 @@
 </table>
 
 
-<hr /><br />
-<h2>Top 20 TypeScript libraries</h2>
-<table id="typescript">
+<br /><br />
+<h2 id="typescript">Top 20 TypeScript libraries</h2>
+<table>
     <tr>
         <th>#</th>
         <th>Category</th>
@@ -3035,9 +3035,9 @@
 
 </table>
 
-<hr /><br />
-<h2>Top 20 Lua libraries</h2>
-<table id="lua">
+<br /><br />
+<h2 id="lua">Top 20 Lua libraries</h2>
+<table>
     <tr>
         <th>#</th>
         <th>Category</th>
@@ -3069,9 +3069,9 @@
 
 </table>
 
-<hr /><br />
-<h2>Top 20 Python libraries</h2>
-<table id="python">
+<br /><br />
+<h2 id="python">Top 20 Python libraries</h2>
+<table>
     <tr>
         <th>#</th>
         <th>Category</th>
@@ -3250,9 +3250,9 @@
 
 </table>
 
-<hr /><br />
-<h2>Top 20 CSS libraries</h2>
-<table id="css">
+<br /><br />
+<h2 id="css">Top 20 CSS libraries</h2>
+<table>
     <tr>
         <th>#</th>
         <th>Category</th>
@@ -3277,9 +3277,9 @@
 
 </table>
 
-<hr /><br />
-<h2>Top 20 PHP libraries</h2>
-<table id="php">
+<br /><br />
+<h2 id="php">Top 20 PHP libraries</h2>
+<table>
     <tr>
         <th>#</th>
         <th>Category</th>
@@ -3388,9 +3388,9 @@
 
 </table>
 
-<hr /><br />
-<h2>Top 20 JavaScript libraries</h2>
-<table id="javascript">
+<br /><br />
+<h2 id="javascript">Top 20 JavaScript libraries</h2>
+<table>
     <tr>
         <th>#</th>
         <th>Category</th>
@@ -3576,9 +3576,9 @@
 
 </table>
 
-<hr /><br />
-<h2>Top 20 C++ libraries</h2>
-<table id="c++">
+<br /><br />
+<h2 id="c++">Top 20 C++ libraries</h2>
+<table>
     <tr>
         <th>#</th>
         <th>Category</th>
@@ -3729,9 +3729,9 @@
 
 </table>
 
-<hr /><br />
-<h2>Top 20 Go libraries</h2>
-<table id="go">
+<br /><br />
+<h2 id="go">Top 20 Go libraries</h2>
+<table>
     <tr>
         <th>#</th>
         <th>Category</th>
@@ -3994,9 +3994,9 @@
 
 </table>
 
-<hr /><br />
-<h2>Top 20 Kotlin libraries</h2>
-<table id="kotlin">
+<br /><br />
+<h2 id="kotlin">Top 20 Kotlin libraries</h2>
+<table>
     <tr>
         <th>#</th>
         <th>Category</th>
@@ -4070,9 +4070,9 @@
 
 </table>
 
-<hr /><br />
-<h2>Top 20 Rust libraries</h2>
-<table id="rust">
+<br /><br />
+<h2 id="rust">Top 20 Rust libraries</h2>
+<table>
     <tr>
         <th>#</th>
         <th>Category</th>
@@ -4132,9 +4132,9 @@
 
 </table>
 
-<hr /><br />
-<h2>Top 20 Ruby libraries</h2>
-<table id="ruby">
+<br /><br />
+<h2 id="ruby">Top 20 Ruby libraries</h2>
+<table>
     <tr>
         <th>#</th>
         <th>Category</th>
@@ -4180,9 +4180,9 @@
 
 </table>
 
-<hr /><br />
-<h2>Top 20 HTML libraries</h2>
-<table id="html">
+<br /><br />
+<h2 id="html">Top 20 HTML libraries</h2>
+<table>
     <tr>
         <th>#</th>
         <th>Category</th>
@@ -4221,9 +4221,9 @@
 
 </table>
 
-<hr /><br />
-<h2>Top 20 Java libraries</h2>
-<table id="java">
+<br /><br />
+<h2 id="java">Top 20 Java libraries</h2>
+<table>
     <tr>
         <th>#</th>
         <th>Category</th>
@@ -4367,9 +4367,9 @@
 
 </table>
 
-<hr /><br />
-<h2>Top 20 Dart libraries</h2>
-<table id="dart">
+<br /><br />
+<h2 id="dart">Top 20 Dart libraries</h2>
+<table>
     <tr>
         <th>#</th>
         <th>Category</th>
@@ -4387,9 +4387,9 @@
 
 </table>
 
-<hr /><br />
-<h2>Top 20 Jsonnet libraries</h2>
-<table id="jsonnet">
+<br /><br />
+<h2 id="jsonnet">Top 20 Jsonnet libraries</h2>
+<table>
     <tr>
         <th>#</th>
         <th>Category</th>
@@ -4407,9 +4407,9 @@
 
 </table>
 
-<hr /><br />
-<h2>Top 20 Clojure libraries</h2>
-<table id="clojure">
+<br /><br />
+<h2 id="clojure">Top 20 Clojure libraries</h2>
+<table>
     <tr>
         <th>#</th>
         <th>Category</th>
@@ -4427,9 +4427,9 @@
 
 </table>
 
-<hr /><br />
-<h2>Top 20 C# libraries</h2>
-<table id="c">
+<br /><br />
+<h2 id="c">Top 20 C# libraries</h2>
+<table>
     <tr>
         <th>#</th>
         <th>Category</th>
@@ -4496,9 +4496,9 @@
 
 </table>
 
-<hr /><br />
-<h2>Top 20 C libraries</h2>
-<table id="c">
+<br /><br />
+<h2 id="c">Top 20 C libraries</h2>
+<table>
     <tr>
         <th>#</th>
         <th>Category</th>
@@ -4565,9 +4565,9 @@
 
 </table>
 
-<hr /><br />
-<h2>Top 20 Markdown libraries</h2>
-<table id="markdown">
+<br /><br />
+<h2 id="markdown">Top 20 Markdown libraries</h2>
+<table>
     <tr>
         <th>#</th>
         <th>Category</th>
@@ -4585,9 +4585,9 @@
 
 </table>
 
-<hr /><br />
-<h2>Top 20 Less libraries</h2>
-<table id="less">
+<br /><br />
+<h2 id="less">Top 20 Less libraries</h2>
+<table>
     <tr>
         <th>#</th>
         <th>Category</th>
@@ -4605,9 +4605,9 @@
 
 </table>
 
-<hr /><br />
-<h2>Top 20 Swift libraries</h2>
-<table id="swift">
+<br /><br />
+<h2 id="swift">Top 20 Swift libraries</h2>
+<table>
     <tr>
         <th>#</th>
         <th>Category</th>
@@ -4632,9 +4632,9 @@
 
 </table>
 
-<hr /><br />
-<h2>Top 20 Astro libraries</h2>
-<table id="astro">
+<br /><br />
+<h2 id="astro">Top 20 Astro libraries</h2>
+<table>
     <tr>
         <th>#</th>
         <th>Category</th>
@@ -4652,9 +4652,9 @@
 
 </table>
 
-<hr /><br />
-<h2>Top 20 Dockerfile libraries</h2>
-<table id="dockerfile">
+<br /><br />
+<h2 id="dockerfile">Top 20 Dockerfile libraries</h2>
+<table>
     <tr>
         <th>#</th>
         <th>Category</th>
@@ -4672,9 +4672,9 @@
 
 </table>
 
-<hr /><br />
-<h2>Top 20 Scala libraries</h2>
-<table id="scala">
+<br /><br />
+<h2 id="scala">Top 20 Scala libraries</h2>
+<table>
     <tr>
         <th>#</th>
         <th>Category</th>
@@ -4720,9 +4720,9 @@
 
 </table>
 
-<hr /><br />
-<h2>Top 20 Rich Text Format libraries</h2>
-<table id="rich-text-format">
+<br /><br />
+<h2 id="rich-text-format">Top 20 Rich Text Format libraries</h2>
+<table>
     <tr>
         <th>#</th>
         <th>Category</th>
@@ -4740,9 +4740,9 @@
 
 </table>
 
-<hr /><br />
-<h2>Top 20 Elixir libraries</h2>
-<table id="elixir">
+<br /><br />
+<h2 id="elixir">Top 20 Elixir libraries</h2>
+<table>
     <tr>
         <th>#</th>
         <th>Category</th>
@@ -4760,9 +4760,9 @@
 
 </table>
 
-<hr /><br />
-<h2>Top 20 TeX libraries</h2>
-<table id="tex">
+<br /><br />
+<h2 id="tex">Top 20 TeX libraries</h2>
+<table>
     <tr>
         <th>#</th>
         <th>Category</th>
@@ -4780,9 +4780,9 @@
 
 </table>
 
-<hr /><br />
-<h2>Top 20 Emacs Lisp libraries</h2>
-<table id="emacs-lisp">
+<br /><br />
+<h2 id="emacs-lisp">Top 20 Emacs Lisp libraries</h2>
+<table>
     <tr>
         <th>#</th>
         <th>Category</th>
@@ -4807,9 +4807,9 @@
 
 </table>
 
-<hr /><br />
-<h2>Top 20 Shell libraries</h2>
-<table id="shell">
+<br /><br />
+<h2 id="shell">Top 20 Shell libraries</h2>
+<table>
     <tr>
         <th>#</th>
         <th>Category</th>
@@ -4834,9 +4834,9 @@
 
 </table>
 
-<hr /><br />
-<h2>Top 20 OCaml libraries</h2>
-<table id="ocaml">
+<br /><br />
+<h2 id="ocaml">Top 20 OCaml libraries</h2>
+<table>
     <tr>
         <th>#</th>
         <th>Category</th>
@@ -4854,9 +4854,9 @@
 
 </table>
 
-<hr /><br />
-<h2>Top 20 SCSS libraries</h2>
-<table id="scss">
+<br /><br />
+<h2 id="scss">Top 20 SCSS libraries</h2>
+<table>
     <tr>
         <th>#</th>
         <th>Category</th>
@@ -4888,9 +4888,9 @@
 
 </table>
 
-<hr /><br />
-<h2>Top 20 R libraries</h2>
-<table id="r">
+<br /><br />
+<h2 id="r">Top 20 R libraries</h2>
+<table>
     <tr>
         <th>#</th>
         <th>Category</th>
@@ -4908,9 +4908,9 @@
 
 </table>
 
-<hr /><br />
-<h2>Top 20 Erlang libraries</h2>
-<table id="erlang">
+<br /><br />
+<h2 id="erlang">Top 20 Erlang libraries</h2>
+<table>
     <tr>
         <th>#</th>
         <th>Category</th>
@@ -4928,9 +4928,9 @@
 
 </table>
 
-<hr /><br />
-<h2>Top 20 Objective-C libraries</h2>
-<table id="objective-c">
+<br /><br />
+<h2 id="objective-c">Top 20 Objective-C libraries</h2>
+<table>
     <tr>
         <th>#</th>
         <th>Category</th>
@@ -4948,9 +4948,9 @@
 
 </table>
 
-<hr /><br />
-<h2>Top 20 PowerShell libraries</h2>
-<table id="powershell">
+<br /><br />
+<h2 id="powershell">Top 20 PowerShell libraries</h2>
+<table>
     <tr>
         <th>#</th>
         <th>Category</th>
@@ -4968,9 +4968,9 @@
 
 </table>
 
-<hr /><br />
-<h2>Top 20 Haxe libraries</h2>
-<table id="haxe">
+<br /><br />
+<h2 id="haxe">Top 20 Haxe libraries</h2>
+<table>
     <tr>
         <th>#</th>
         <th>Category</th>
@@ -4988,9 +4988,9 @@
 
 </table>
 
-<hr /><br />
-<h2>Top 20 Vim Script libraries</h2>
-<table id="vim-script">
+<br /><br />
+<h2 id="vim-script">Top 20 Vim Script libraries</h2>
+<table>
     <tr>
         <th>#</th>
         <th>Category</th>
@@ -5008,9 +5008,9 @@
 
 </table>
 
-<hr /><br />
-<h2>Top 20 CodeQL libraries</h2>
-<table id="codeql">
+<br /><br />
+<h2 id="codeql">Top 20 CodeQL libraries</h2>
+<table>
     <tr>
         <th>#</th>
         <th>Category</th>
@@ -5028,9 +5028,9 @@
 
 </table>
 
-<hr /><br />
-<h2>Top 20 Haskell libraries</h2>
-<table id="haskell">
+<br /><br />
+<h2 id="haskell">Top 20 Haskell libraries</h2>
+<table>
     <tr>
         <th>#</th>
         <th>Category</th>
