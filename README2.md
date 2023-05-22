@@ -8,7 +8,7 @@
         <th>Stars</th>
     </tr>
         <tr>
-        <td><img width="50" height="50" alt="Novu" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-novu-2.png" /></td>
+        <td><img width="50" alt="Novu" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-novu-2.png" /></td>
         <td>Notifications</td>
         <td>Novu</td>
         <td>The open-source notification infrastructure with fully functional embedded notification center</td>
