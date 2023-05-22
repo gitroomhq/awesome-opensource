@@ -115,6 +115,8 @@
                 <a href="#codeql">Top 20 CodeQL libraries</a>
              </li>          <li>
                 <a href="#haskell">Top 20 Haskell libraries</a>
+             </li>          <li>
+                <a href="#xslt">Top 20 XSLT libraries</a>
              </li>        
         </ul>
     </li>
@@ -178,6 +180,14 @@
         <td><a href="https://docsify.js.org" target="_blank">Docsify</a></td>
         <td><g-emoji class="g-emoji" alias="black_joker" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f0cf.png">?</g-emoji> A magical documentation site generator.</td>
         <th><a href="https://github.com/docsifyjs/docsify" target="_blank"><img alt="Docsify" src="https://img.shields.io/github/stars/docsifyjs/docsify?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Mustang" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-mustangproject.png" /></td>
+        <td>Miscellaneous</td>
+        <td>XSLT</td>
+        <td><a href="http://www.mustangproject.org" target="_blank">Mustang</a></td>
+        <td>Open Source Java e-Invoicing library, validator and tool (Factur-X/ZUGFeRD, UNCEFACT/CII XRechnung)</td>
+        <th><a href="https://github.com/ZUGFeRD/mustangproject" target="_blank"><img alt="Mustang" src="https://img.shields.io/github/stars/ZUGFeRD/mustangproject?style=social" /></a></th>
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="Org-roam" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-org-roam.png" /></td>
@@ -283,14 +293,6 @@
         <td>Data on COVID-19 (coronavirus) cases, deaths, hospitalizations, tests • All countries • Updated daily by Our World in Data</td>
         <th><a href="https://github.com/owid/covid-19-data" target="_blank"><img alt="Our World in Data" src="https://img.shields.io/github/stars/owid/covid-19-data?style=social" /></a></th>
     </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="AutoGluon Documentation" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-autogluon-1.png" /></td>
-        <td>Productivity</td>
-        <td>Python</td>
-        <td><a href="https://auto.gluon.ai/" target="_blank">AutoGluon Documentation</a></td>
-        <td>AutoGluon: AutoML for Image, Text, Time Series, and Tabular Data</td>
-        <th><a href="https://github.com/autogluon/autogluon" target="_blank"><img alt="AutoGluon Documentation" src="https://img.shields.io/github/stars/autogluon/autogluon?style=social" /></a></th>
-    </tr>
 
 </table>
 
@@ -315,14 +317,6 @@
         <th><a href="https://github.com/novuhq/novu" target="_blank"><img alt="Novu" src="https://img.shields.io/github/stars/novuhq/novu?style=social" /></a></th>
     </tr>
     <tr>
-        <td nowrap="nowrap"><img width="33" alt="Github 20k" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-super-star-1.png" /></td>
-        <td>Productivity</td>
-        <td>TypeScript</td>
-        <td><a href="https://github20k.com" target="_blank">Github 20k</a></td>
-        <td>The open-source course landing page <g-emoji class="g-emoji" alias="rocket" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f680.png">?</g-emoji><g-emoji class="g-emoji" alias="rocket" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f680.png">?</g-emoji><g-emoji class="g-emoji" alias="rocket" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f680.png">?</g-emoji></td>
-        <th><a href="https://github.com/github-20k/super-star" target="_blank"><img alt="Github 20k" src="https://img.shields.io/github/stars/github-20k/super-star?style=social" /></a></th>
-    </tr>
-    <tr>
         <td nowrap="nowrap"><img width="33" alt="GitHub Support" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-dmca.png" /></td>
         <td>Miscellaneous</td>
         <td>undefined</td>
@@ -337,6 +331,14 @@
         <td><a href="https://awesomewm.org/" target="_blank">awesome window manager</a></td>
         <td>awesome window manager</td>
         <th><a href="https://github.com/awesomeWM/awesome" target="_blank"><img alt="awesome window manager" src="https://img.shields.io/github/stars/awesomeWM/awesome?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Github 20k" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-super-star-1.png" /></td>
+        <td>Productivity</td>
+        <td>TypeScript</td>
+        <td><a href="https://github20k.com" target="_blank">Github 20k</a></td>
+        <td>The open-source course landing page <g-emoji class="g-emoji" alias="rocket" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f680.png">?</g-emoji><g-emoji class="g-emoji" alias="rocket" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f680.png">?</g-emoji><g-emoji class="g-emoji" alias="rocket" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f680.png">?</g-emoji></td>
+        <th><a href="https://github.com/github-20k/super-star" target="_blank"><img alt="Github 20k" src="https://img.shields.io/github/stars/github-20k/super-star?style=social" /></a></th>
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="JUnitorg." src="https://libraries.github20k.com/images/uploads/2023/05/newshot-junit5.png" /></td>
@@ -1176,6 +1178,14 @@
         <td><a href="https://medusajs.com" target="_blank">Medusa</a></td>
         <td>Building blocks for digital commerce</td>
         <th><a href="https://github.com/medusajs/medusa" target="_blank"><img alt="Medusa" src="https://img.shields.io/github/stars/medusajs/medusa?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Mustang" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-mustangproject.png" /></td>
+        <td>Miscellaneous</td>
+        <td>XSLT</td>
+        <td><a href="http://www.mustangproject.org" target="_blank">Mustang</a></td>
+        <td>Open Source Java e-Invoicing library, validator and tool (Factur-X/ZUGFeRD, UNCEFACT/CII XRechnung)</td>
+        <th><a href="https://github.com/ZUGFeRD/mustangproject" target="_blank"><img alt="Mustang" src="https://img.shields.io/github/stars/ZUGFeRD/mustangproject?style=social" /></a></th>
     </tr>
 
 </table>
@@ -5979,6 +5989,28 @@
         <td><a href="https://unison-lang.org" target="_blank">unisonweb/unison</a></td>
         <td>A friendly programming language from the future</td>
         <th><a href="https://github.com/unisonweb/unison" target="_blank"><img alt="unisonweb/unison" src="https://img.shields.io/github/stars/unisonweb/unison?style=social" /></a></th>
+    </tr>
+
+</table>
+
+<br /><br />
+<h2 id="xslt">Top 20 XSLT libraries</h2>
+<table>
+    <tr>
+        <th>Icon</th>
+        <th>Category</th>
+        <th>Language</th>
+        <th>Name</th>
+        <th>Description</th>
+        <th>Stargazers</th>
+    </tr>
+        <tr>
+        <td nowrap="nowrap"><img width="33" alt="Mustang" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-mustangproject.png" /></td>
+        <td>Miscellaneous</td>
+        <td>XSLT</td>
+        <td><a href="http://www.mustangproject.org" target="_blank">Mustang</a></td>
+        <td>Open Source Java e-Invoicing library, validator and tool (Factur-X/ZUGFeRD, UNCEFACT/CII XRechnung)</td>
+        <th><a href="https://github.com/ZUGFeRD/mustangproject" target="_blank"><img alt="Mustang" src="https://img.shields.io/github/stars/ZUGFeRD/mustangproject?style=social" /></a></th>
     </tr>
 
 </table>
