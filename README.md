@@ -985,6 +985,14 @@
         <td>An organizer for your porn, written in Go. Documentation: https://docs.stashapp.cc</td>
         <th><a href="https://github.com/stashapp/stash" target="_blank"><img alt="Stash" src="https://img.shields.io/github/stars/stashapp/stash?style=social" /></a></th>
     </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="GitHub" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-pusakatest.jpg" /></td>
+        <td>Miscellaneous</td>
+        <td>JavaScript</td>
+        <td><a href="https://github.com/depapp/pusakatest" target="_blank">GitHub</a></td>
+        <td>pusakatest is an automation testing tool based on pactumjs using bdd (cucumber) style with localization</td>
+        <th><a href="https://github.com/depapp/pusakatest" target="_blank"><img alt="GitHub" src="https://img.shields.io/github/stars/depapp/pusakatest?style=social" /></a></th>
+    </tr>
 
 </table>
 
@@ -4053,6 +4061,14 @@
         <td><a href="https://www.deque.com/axe/" target="_blank">StackPath</a></td>
         <td>Accessibility engine for automated Web UI testing</td>
         <th><a href="https://github.com/dequelabs/axe-core" target="_blank"><img alt="StackPath" src="https://img.shields.io/github/stars/dequelabs/axe-core?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="GitHub" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-pusakatest.jpg" /></td>
+        <td>Miscellaneous</td>
+        <td>JavaScript</td>
+        <td><a href="https://github.com/depapp/pusakatest" target="_blank">GitHub</a></td>
+        <td>pusakatest is an automation testing tool based on pactumjs using bdd (cucumber) style with localization</td>
+        <th><a href="https://github.com/depapp/pusakatest" target="_blank"><img alt="GitHub" src="https://img.shields.io/github/stars/depapp/pusakatest?style=social" /></a></th>
     </tr>
 
 </table>
