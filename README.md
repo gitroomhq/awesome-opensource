@@ -11,23 +11,23 @@
     <li>
         By categories
         <ul>
-                        <li>
+                  <li>
                 <a href="#miscellaneous">Miscellaneous</a>
-             </li>,            <li>
+             </li>      <li>
                 <a href="#observability">Observability</a>
-             </li>,            <li>
+             </li>      <li>
                 <a href="#productivity">Productivity</a>
-             </li>,            <li>
+             </li>      <li>
                 <a href="#analytics">Analytics</a>
-             </li>,            <li>
+             </li>      <li>
                 <a href="#security">Security</a>
-             </li>,            <li>
+             </li>      <li>
                 <a href="#collaboration">Collaboration</a>
-             </li>,            <li>
+             </li>      <li>
                 <a href="#notifications">Notifications</a>
-             </li>,            <li>
+             </li>      <li>
                 <a href="#databases">Databases</a>
-             </li>,            <li>
+             </li>      <li>
                 <a href="#infrastructure">Infrastructure</a>
              </li>        
         </ul>
@@ -35,83 +35,83 @@
     <li>
         By language
         <ul>
-                        <li>
+                      <li>
                 <a href="#typescript">TypeScript</a>
-             </li>,            <li>
+             </li>          <li>
                 <a href="#lua">Lua</a>
-             </li>,            <li>
+             </li>          <li>
                 <a href="#python">Python</a>
-             </li>,            <li>
+             </li>          <li>
                 <a href="#css">CSS</a>
-             </li>,            <li>
+             </li>          <li>
                 <a href="#php">PHP</a>
-             </li>,            <li>
+             </li>          <li>
                 <a href="#javascript">JavaScript</a>
-             </li>,            <li>
+             </li>          <li>
                 <a href="#c++">C++</a>
-             </li>,            <li>
+             </li>          <li>
                 <a href="#go">Go</a>
-             </li>,            <li>
+             </li>          <li>
                 <a href="#kotlin">Kotlin</a>
-             </li>,            <li>
+             </li>          <li>
                 <a href="#rust">Rust</a>
-             </li>,            <li>
+             </li>          <li>
                 <a href="#ruby">Ruby</a>
-             </li>,            <li>
+             </li>          <li>
                 <a href="#html">HTML</a>
-             </li>,            <li>
+             </li>          <li>
                 <a href="#java">Java</a>
-             </li>,            <li>
+             </li>          <li>
                 <a href="#dart">Dart</a>
-             </li>,            <li>
+             </li>          <li>
                 <a href="#jsonnet">Jsonnet</a>
-             </li>,            <li>
+             </li>          <li>
                 <a href="#clojure">Clojure</a>
-             </li>,            <li>
+             </li>          <li>
                 <a href="#c">C#</a>
-             </li>,            <li>
+             </li>          <li>
                 <a href="#c">C</a>
-             </li>,            <li>
+             </li>          <li>
                 <a href="#markdown">Markdown</a>
-             </li>,            <li>
+             </li>          <li>
                 <a href="#less">Less</a>
-             </li>,            <li>
+             </li>          <li>
                 <a href="#swift">Swift</a>
-             </li>,            <li>
+             </li>          <li>
                 <a href="#astro">Astro</a>
-             </li>,            <li>
+             </li>          <li>
                 <a href="#dockerfile">Dockerfile</a>
-             </li>,            <li>
+             </li>          <li>
                 <a href="#scala">Scala</a>
-             </li>,            <li>
+             </li>          <li>
                 <a href="#rich-text-format">Rich Text Format</a>
-             </li>,            <li>
+             </li>          <li>
                 <a href="#elixir">Elixir</a>
-             </li>,            <li>
+             </li>          <li>
                 <a href="#tex">TeX</a>
-             </li>,            <li>
+             </li>          <li>
                 <a href="#emacs-lisp">Emacs Lisp</a>
-             </li>,            <li>
+             </li>          <li>
                 <a href="#shell">Shell</a>
-             </li>,            <li>
+             </li>          <li>
                 <a href="#ocaml">OCaml</a>
-             </li>,            <li>
+             </li>          <li>
                 <a href="#scss">SCSS</a>
-             </li>,            <li>
+             </li>          <li>
                 <a href="#r">R</a>
-             </li>,            <li>
+             </li>          <li>
                 <a href="#erlang">Erlang</a>
-             </li>,            <li>
+             </li>          <li>
                 <a href="#objective-c">Objective-C</a>
-             </li>,            <li>
+             </li>          <li>
                 <a href="#powershell">PowerShell</a>
-             </li>,            <li>
+             </li>          <li>
                 <a href="#haxe">Haxe</a>
-             </li>,            <li>
+             </li>          <li>
                 <a href="#vim-script">Vim Script</a>
-             </li>,            <li>
+             </li>          <li>
                 <a href="#codeql">CodeQL</a>
-             </li>,            <li>
+             </li>          <li>
                 <a href="#haskell">Haskell</a>
              </li>        
         </ul>
