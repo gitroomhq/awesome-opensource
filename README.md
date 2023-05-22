@@ -42,6 +42,8 @@
              </li>          <li>
                 <a href="#lua">Top 20 Lua libraries</a>
              </li>          <li>
+                <a href="#java">Top 20 Java libraries</a>
+             </li>          <li>
                 <a href="#python">Top 20 Python libraries</a>
              </li>          <li>
                 <a href="#css">Top 20 CSS libraries</a>
@@ -61,8 +63,6 @@
                 <a href="#ruby">Top 20 Ruby libraries</a>
              </li>          <li>
                 <a href="#html">Top 20 HTML libraries</a>
-             </li>          <li>
-                <a href="#java">Top 20 Java libraries</a>
              </li>          <li>
                 <a href="#dart">Top 20 Dart libraries</a>
              </li>          <li>
@@ -138,6 +138,46 @@
         <td><a href="https://github.com/depapp/pusakatest" target="_blank">Pusakatest</a></td>
         <td>pusakatest is an automation testing tool based on pactumjs using bdd (cucumber) style with localization</td>
         <th><a href="https://github.com/depapp/pusakatest" target="_blank"><img alt="Pusakatest" src="https://img.shields.io/github/stars/depapp/pusakatest?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="refine" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-refine.png" /></td>
+        <td>Infrastructure</td>
+        <td>TypeScript</td>
+        <td><a href="https://refine.dev" target="_blank">refine</a></td>
+        <td>Build your React-based CRUD applications, without constraints.</td>
+        <th><a href="https://github.com/refinedev/refine" target="_blank"><img alt="refine" src="https://img.shields.io/github/stars/refinedev/refine?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Medusa" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-medusa.jpg" /></td>
+        <td>Miscellaneous</td>
+        <td>TypeScript</td>
+        <td><a href="https://medusajs.com" target="_blank">Medusa</a></td>
+        <td>Building blocks for digital commerce</td>
+        <th><a href="https://github.com/medusajs/medusa" target="_blank"><img alt="Medusa" src="https://img.shields.io/github/stars/medusajs/medusa?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Hanko" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-hanko.png" /></td>
+        <td>Security</td>
+        <td>TypeScript</td>
+        <td><a href="https://hanko.io" target="_blank">Hanko</a></td>
+        <td>Authentication and user management for the passkey era.</td>
+        <th><a href="https://github.com/teamhanko/hanko" target="_blank"><img alt="Hanko" src="https://img.shields.io/github/stars/teamhanko/hanko?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="MkDocs" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-mkdocs-2.png" /></td>
+        <td>Productivity</td>
+        <td>Python</td>
+        <td><a href="https://www.mkdocs.org" target="_blank">MkDocs</a></td>
+        <td>Project documentation with Markdown.</td>
+        <th><a href="https://github.com/mkdocs/mkdocs" target="_blank"><img alt="MkDocs" src="https://img.shields.io/github/stars/mkdocs/mkdocs?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Docsify" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-docsify.png" /></td>
+        <td>Productivity</td>
+        <td>JavaScript</td>
+        <td><a href="https://docsify.js.org" target="_blank">Docsify</a></td>
+        <td><g-emoji class="g-emoji" alias="black_joker" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f0cf.png">?</g-emoji> A magical documentation site generator.</td>
+        <th><a href="https://github.com/docsifyjs/docsify" target="_blank"><img alt="Docsify" src="https://img.shields.io/github/stars/docsifyjs/docsify?style=social" /></a></th>
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="Org-roam" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-org-roam.png" /></td>
@@ -251,46 +291,6 @@
         <td>AutoGluon: AutoML for Image, Text, Time Series, and Tabular Data</td>
         <th><a href="https://github.com/autogluon/autogluon" target="_blank"><img alt="AutoGluon Documentation" src="https://img.shields.io/github/stars/autogluon/autogluon?style=social" /></a></th>
     </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Delta Lake" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-delta-2.png" /></td>
-        <td>Databases</td>
-        <td>Scala</td>
-        <td><a href="https://delta.io" target="_blank">Delta Lake</a></td>
-        <td>An open-source storage framework that enables building a Lakehouse architecture with compute engines including Spark, PrestoDB, Flink, Trino, and Hive and APIs</td>
-        <th><a href="https://github.com/delta-io/delta" target="_blank"><img alt="Delta Lake" src="https://img.shields.io/github/stars/delta-io/delta?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="ACRA" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-acra-3.png" /></td>
-        <td>Observability</td>
-        <td>Kotlin</td>
-        <td><a href="https://www.acra.ch" target="_blank">ACRA</a></td>
-        <td>Application Crash Reports for Android</td>
-        <th><a href="https://github.com/ACRA/acra" target="_blank"><img alt="ACRA" src="https://img.shields.io/github/stars/ACRA/acra?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="ThreeDotsLabs/watermill" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-watermill.png" /></td>
-        <td>Infrastructure</td>
-        <td>Go</td>
-        <td><a href="https://watermill.io" target="_blank">ThreeDotsLabs/watermill</a></td>
-        <td>Building event-driven applications the easy way in Go.</td>
-        <th><a href="https://github.com/ThreeDotsLabs/watermill" target="_blank"><img alt="ThreeDotsLabs/watermill" src="https://img.shields.io/github/stars/ThreeDotsLabs/watermill?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Apache SeaTunnel" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-incubator-seatunnel-2.png" /></td>
-        <td>Analytics</td>
-        <td>Java</td>
-        <td><a href="https://seatunnel.apache.org/" target="_blank">Apache SeaTunnel</a></td>
-        <td>SeaTunnel is a distributed, high-performance data integration platform for the synchronization and transformation of massive data (offline &amp; real-time).</td>
-        <th><a href="https://github.com/apache/incubator-seatunnel" target="_blank"><img alt="Apache SeaTunnel" src="https://img.shields.io/github/stars/apache/incubator-seatunnel?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Apache OpenWhisk" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-openwhisk-3.png" /></td>
-        <td>Infrastructure</td>
-        <td>Scala</td>
-        <td><a href="https://openwhisk.apache.org/" target="_blank">Apache OpenWhisk</a></td>
-        <td>Apache OpenWhisk is an open source serverless cloud platform</td>
-        <th><a href="https://github.com/apache/openwhisk" target="_blank"><img alt="Apache OpenWhisk" src="https://img.shields.io/github/stars/apache/openwhisk?style=social" /></a></th>
-    </tr>
 
 </table>
 
@@ -315,6 +315,14 @@
         <th><a href="https://github.com/novuhq/novu" target="_blank"><img alt="Novu" src="https://img.shields.io/github/stars/novuhq/novu?style=social" /></a></th>
     </tr>
     <tr>
+        <td nowrap="nowrap"><img width="33" alt="Github 20k" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-super-star-1.png" /></td>
+        <td>Productivity</td>
+        <td>TypeScript</td>
+        <td><a href="https://github20k.com" target="_blank">Github 20k</a></td>
+        <td>The open-source course landing page <g-emoji class="g-emoji" alias="rocket" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f680.png">?</g-emoji><g-emoji class="g-emoji" alias="rocket" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f680.png">?</g-emoji><g-emoji class="g-emoji" alias="rocket" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f680.png">?</g-emoji></td>
+        <th><a href="https://github.com/github-20k/super-star" target="_blank"><img alt="Github 20k" src="https://img.shields.io/github/stars/github-20k/super-star?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="GitHub Support" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-dmca.png" /></td>
         <td>Miscellaneous</td>
         <td>undefined</td>
@@ -331,12 +339,12 @@
         <th><a href="https://github.com/awesomeWM/awesome" target="_blank"><img alt="awesome window manager" src="https://img.shields.io/github/stars/awesomeWM/awesome?style=social" /></a></th>
     </tr>
     <tr>
-        <td nowrap="nowrap"><img width="33" alt="Github 20k" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-super-star-1.png" /></td>
-        <td>Productivity</td>
-        <td>TypeScript</td>
-        <td><a href="https://github20k.com" target="_blank">Github 20k</a></td>
-        <td>The open-source course landing page <g-emoji class="g-emoji" alias="rocket" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f680.png">?</g-emoji><g-emoji class="g-emoji" alias="rocket" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f680.png">?</g-emoji><g-emoji class="g-emoji" alias="rocket" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f680.png">?</g-emoji></td>
-        <th><a href="https://github.com/github-20k/super-star" target="_blank"><img alt="Github 20k" src="https://img.shields.io/github/stars/github-20k/super-star?style=social" /></a></th>
+        <td nowrap="nowrap"><img width="33" alt="JUnitorg." src="https://libraries.github20k.com/images/uploads/2023/05/newshot-junit5.png" /></td>
+        <td>Infrastructure</td>
+        <td>Java</td>
+        <td><a href="https://junit.org" target="_blank">JUnitorg.</a></td>
+        <td><g-emoji class="g-emoji" alias="white_check_mark" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2705.png">✅</g-emoji> The 5th major version of the programmer-friendly testing framework for Java and the JVM</td>
+        <th><a href="https://github.com/junit-team/junit5" target="_blank"><img alt="JUnitorg." src="https://img.shields.io/github/stars/junit-team/junit5?style=social" /></a></th>
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="ClusterFuzz" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-clusterfuzz.png" /></td>
@@ -1098,14 +1106,6 @@
         <td>Quartz Enterprise Scheduler .NET</td>
         <th><a href="https://github.com/quartznet/quartznet" target="_blank"><img alt="QuartzNET" src="https://img.shields.io/github/stars/quartznet/quartznet?style=social" /></a></th>
     </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="the Guardian" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-frontend.png" /></td>
-        <td>Infrastructure</td>
-        <td>Scala</td>
-        <td><a href="https://theguardian.com" target="_blank">the Guardian</a></td>
-        <td>The Guardian DotCom.</td>
-        <th><a href="https://github.com/guardian/frontend" target="_blank"><img alt="the Guardian" src="https://img.shields.io/github/stars/guardian/frontend?style=social" /></a></th>
-    </tr>
 
 </table>
 
@@ -1168,6 +1168,14 @@
         <td><a href="https://github.com/depapp/pusakatest" target="_blank">Pusakatest</a></td>
         <td>pusakatest is an automation testing tool based on pactumjs using bdd (cucumber) style with localization</td>
         <th><a href="https://github.com/depapp/pusakatest" target="_blank"><img alt="Pusakatest" src="https://img.shields.io/github/stars/depapp/pusakatest?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Medusa" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-medusa.jpg" /></td>
+        <td>Miscellaneous</td>
+        <td>TypeScript</td>
+        <td><a href="https://medusajs.com" target="_blank">Medusa</a></td>
+        <td>Building blocks for digital commerce</td>
+        <th><a href="https://github.com/medusajs/medusa" target="_blank"><img alt="Medusa" src="https://img.shields.io/github/stars/medusajs/medusa?style=social" /></a></th>
     </tr>
 
 </table>
@@ -1957,6 +1965,22 @@
         <td>Linkedin Automation Bot with every possible scraping! Valid for 2022 used by Linvo.io</td>
         <th><a href="https://github.com/linvo-io/linvo-scraper" target="_blank"><img alt="linvo-io/linvo-scraper" src="https://img.shields.io/github/stars/linvo-io/linvo-scraper?style=social" /></a></th>
     </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="MkDocs" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-mkdocs-2.png" /></td>
+        <td>Productivity</td>
+        <td>Python</td>
+        <td><a href="https://www.mkdocs.org" target="_blank">MkDocs</a></td>
+        <td>Project documentation with Markdown.</td>
+        <th><a href="https://github.com/mkdocs/mkdocs" target="_blank"><img alt="MkDocs" src="https://img.shields.io/github/stars/mkdocs/mkdocs?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Docsify" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-docsify.png" /></td>
+        <td>Productivity</td>
+        <td>JavaScript</td>
+        <td><a href="https://docsify.js.org" target="_blank">Docsify</a></td>
+        <td><g-emoji class="g-emoji" alias="black_joker" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f0cf.png">?</g-emoji> A magical documentation site generator.</td>
+        <th><a href="https://github.com/docsifyjs/docsify" target="_blank"><img alt="Docsify" src="https://img.shields.io/github/stars/docsifyjs/docsify?style=social" /></a></th>
+    </tr>
 
 </table>
 
@@ -2232,6 +2256,14 @@
         <td><a href="https://codeql.github.com" target="_blank">CodeQL</a></td>
         <td>CodeQL: the libraries and queries that power security researchers around the world, as well as code scanning in GitHub Advanced Security</td>
         <th><a href="https://github.com/github/codeql" target="_blank"><img alt="CodeQL" src="https://img.shields.io/github/stars/github/codeql?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Hanko" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-hanko.png" /></td>
+        <td>Security</td>
+        <td>TypeScript</td>
+        <td><a href="https://hanko.io" target="_blank">Hanko</a></td>
+        <td>Authentication and user management for the passkey era.</td>
+        <th><a href="https://github.com/teamhanko/hanko" target="_blank"><img alt="Hanko" src="https://img.shields.io/github/stars/teamhanko/hanko?style=social" /></a></th>
     </tr>
 
 </table>
@@ -2634,6 +2666,14 @@
         <th>Stargazers</th>
     </tr>
         <tr>
+        <td nowrap="nowrap"><img width="33" alt="JUnitorg." src="https://libraries.github20k.com/images/uploads/2023/05/newshot-junit5.png" /></td>
+        <td>Infrastructure</td>
+        <td>Java</td>
+        <td><a href="https://junit.org" target="_blank">JUnitorg.</a></td>
+        <td><g-emoji class="g-emoji" alias="white_check_mark" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2705.png">✅</g-emoji> The 5th major version of the programmer-friendly testing framework for Java and the JVM</td>
+        <th><a href="https://github.com/junit-team/junit5" target="_blank"><img alt="JUnitorg." src="https://img.shields.io/github/stars/junit-team/junit5?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="ClusterFuzz" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-clusterfuzz.png" /></td>
         <td>Infrastructure</td>
         <td>Python</td>
@@ -2904,14 +2944,6 @@
         <td><a href="http://micronaut.io" target="_blank">Micronaut Framework</a></td>
         <td>Micronaut Application Framework</td>
         <th><a href="https://github.com/micronaut-projects/micronaut-core" target="_blank"><img alt="Micronaut Framework" src="https://img.shields.io/github/stars/micronaut-projects/micronaut-core?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="JUnitorg." src="https://libraries.github20k.com/images/uploads/2023/05/newshot-junit5.png" /></td>
-        <td>Infrastructure</td>
-        <td>Java</td>
-        <td><a href="https://junit.org" target="_blank">JUnitorg.</a></td>
-        <td><g-emoji class="g-emoji" alias="white_check_mark" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2705.png">✅</g-emoji> The 5th major version of the programmer-friendly testing framework for Java and the JVM</td>
-        <th><a href="https://github.com/junit-team/junit5" target="_blank"><img alt="JUnitorg." src="https://img.shields.io/github/stars/junit-team/junit5?style=social" /></a></th>
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="Cloudflare Zero Trust" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-cloudflared.jpg" /></td>
@@ -3305,6 +3337,14 @@
         <td>ZITADEL - The best of Auth0 and Keycloak combined. Built for the serverless era.</td>
         <th><a href="https://github.com/zitadel/zitadel" target="_blank"><img alt="ZITADEL" src="https://img.shields.io/github/stars/zitadel/zitadel?style=social" /></a></th>
     </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="refine" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-refine.png" /></td>
+        <td>Infrastructure</td>
+        <td>TypeScript</td>
+        <td><a href="https://refine.dev" target="_blank">refine</a></td>
+        <td>Build your React-based CRUD applications, without constraints.</td>
+        <th><a href="https://github.com/refinedev/refine" target="_blank"><img alt="refine" src="https://img.shields.io/github/stars/refinedev/refine?style=social" /></a></th>
+    </tr>
 
 </table>
 
@@ -3624,6 +3664,30 @@
         <td>Linkedin Automation Bot with every possible scraping! Valid for 2022 used by Linvo.io</td>
         <th><a href="https://github.com/linvo-io/linvo-scraper" target="_blank"><img alt="linvo-io/linvo-scraper" src="https://img.shields.io/github/stars/linvo-io/linvo-scraper?style=social" /></a></th>
     </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="refine" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-refine.png" /></td>
+        <td>Infrastructure</td>
+        <td>TypeScript</td>
+        <td><a href="https://refine.dev" target="_blank">refine</a></td>
+        <td>Build your React-based CRUD applications, without constraints.</td>
+        <th><a href="https://github.com/refinedev/refine" target="_blank"><img alt="refine" src="https://img.shields.io/github/stars/refinedev/refine?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Medusa" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-medusa.jpg" /></td>
+        <td>Miscellaneous</td>
+        <td>TypeScript</td>
+        <td><a href="https://medusajs.com" target="_blank">Medusa</a></td>
+        <td>Building blocks for digital commerce</td>
+        <th><a href="https://github.com/medusajs/medusa" target="_blank"><img alt="Medusa" src="https://img.shields.io/github/stars/medusajs/medusa?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Hanko" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-hanko.png" /></td>
+        <td>Security</td>
+        <td>TypeScript</td>
+        <td><a href="https://hanko.io" target="_blank">Hanko</a></td>
+        <td>Authentication and user management for the passkey era.</td>
+        <th><a href="https://github.com/teamhanko/hanko" target="_blank"><img alt="Hanko" src="https://img.shields.io/github/stars/teamhanko/hanko?style=social" /></a></th>
+    </tr>
 
 </table>
 
@@ -3661,6 +3725,172 @@
         <td><a href="http://www.ntop.org" target="_blank">ntop</a></td>
         <td>Web-based Traffic and Security Network Traffic Monitoring</td>
         <th><a href="https://github.com/ntop/ntopng" target="_blank"><img alt="ntop" src="https://img.shields.io/github/stars/ntop/ntopng?style=social" /></a></th>
+    </tr>
+
+</table>
+
+<br /><br />
+<h2 id="java">Top 20 Java libraries</h2>
+<table>
+    <tr>
+        <th>Icon</th>
+        <th>Category</th>
+        <th>Language</th>
+        <th>Name</th>
+        <th>Description</th>
+        <th>Stargazers</th>
+    </tr>
+        <tr>
+        <td nowrap="nowrap"><img width="33" alt="JUnitorg." src="https://libraries.github20k.com/images/uploads/2023/05/newshot-junit5.png" /></td>
+        <td>Infrastructure</td>
+        <td>Java</td>
+        <td><a href="https://junit.org" target="_blank">JUnitorg.</a></td>
+        <td><g-emoji class="g-emoji" alias="white_check_mark" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2705.png">✅</g-emoji> The 5th major version of the programmer-friendly testing framework for Java and the JVM</td>
+        <th><a href="https://github.com/junit-team/junit5" target="_blank"><img alt="JUnitorg." src="https://img.shields.io/github/stars/junit-team/junit5?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Drools" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-drools.png" /></td>
+        <td>Infrastructure</td>
+        <td>Java</td>
+        <td><a href="http://www.drools.org" target="_blank">Drools</a></td>
+        <td>Drools is a rule engine, DMN engine and complex event processing (CEP) engine for Java.</td>
+        <th><a href="https://github.com/kiegroup/drools" target="_blank"><img alt="Drools" src="https://img.shields.io/github/stars/kiegroup/drools?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="vavr-io/vavr" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-vavr.png" /></td>
+        <td>Productivity</td>
+        <td>Java</td>
+        <td><a href="https://vavr.io" target="_blank">vavr-io/vavr</a></td>
+        <td>vʌvr (formerly called Javaslang) is a non-commercial, non-profit object-functional library that runs with Java 8+. It aims to reduce the lines of code and increase code quality.</td>
+        <th><a href="https://github.com/vavr-io/vavr" target="_blank"><img alt="vavr-io/vavr" src="https://img.shields.io/github/stars/vavr-io/vavr?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="xManager" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-xManager.png" /></td>
+        <td>Productivity</td>
+        <td>Java</td>
+        <td><a href="https://xmanagerapp.com" target="_blank">xManager</a></td>
+        <td>Ad-Free, New Features &amp; Freedom</td>
+        <th><a href="https://github.com/xManager-App/xManager" target="_blank"><img alt="xManager" src="https://img.shields.io/github/stars/xManager-App/xManager?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="PowerJob/PowerJob" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-PowerJob.png" /></td>
+        <td>Infrastructure</td>
+        <td>Java</td>
+        <td><a href="http://www.powerjob.tech/" target="_blank">PowerJob/PowerJob</a></td>
+        <td>Enterprise job scheduling middleware with distributed computing ability.</td>
+        <th><a href="https://github.com/PowerJob/PowerJob" target="_blank"><img alt="PowerJob/PowerJob" src="https://img.shields.io/github/stars/PowerJob/PowerJob?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="jOOQ" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-jOOQ.jpg" /></td>
+        <td>Databases</td>
+        <td>Java</td>
+        <td><a href="https://www.jooq.org" target="_blank">jOOQ</a></td>
+        <td>jOOQ is the best way to write SQL in Java</td>
+        <th><a href="https://github.com/jOOQ/jOOQ" target="_blank"><img alt="jOOQ" src="https://img.shields.io/github/stars/jOOQ/jOOQ?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="ksqlDB" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-ksql.png" /></td>
+        <td>Databases</td>
+        <td>Java</td>
+        <td><a href="https://ksqldb.io" target="_blank">ksqlDB</a></td>
+        <td>The database purpose-built for stream processing applications.</td>
+        <th><a href="https://github.com/confluentinc/ksql" target="_blank"><img alt="ksqlDB" src="https://img.shields.io/github/stars/confluentinc/ksql?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="microG Project." src="https://libraries.github20k.com/images/uploads/2023/05/newshot-GmsCore.png" /></td>
+        <td>Infrastructure</td>
+        <td>Java</td>
+        <td><a href="https://microg.org" target="_blank">microG Project.</a></td>
+        <td>Free implementation of Play Services</td>
+        <th><a href="https://github.com/microg/GmsCore" target="_blank"><img alt="microG Project." src="https://img.shields.io/github/stars/microg/GmsCore?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Micronaut Framework" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-micronaut-core.png" /></td>
+        <td>Infrastructure</td>
+        <td>Java</td>
+        <td><a href="http://micronaut.io" target="_blank">Micronaut Framework</a></td>
+        <td>Micronaut Application Framework</td>
+        <th><a href="https://github.com/micronaut-projects/micronaut-core" target="_blank"><img alt="Micronaut Framework" src="https://img.shields.io/github/stars/micronaut-projects/micronaut-core?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="GraphQL Java" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-graphql-java.png" /></td>
+        <td>Infrastructure</td>
+        <td>Java</td>
+        <td><a href="https://graphql-java.com" target="_blank">GraphQL Java</a></td>
+        <td>GraphQL Java implementation</td>
+        <th><a href="https://github.com/graphql-java/graphql-java" target="_blank"><img alt="GraphQL Java" src="https://img.shields.io/github/stars/graphql-java/graphql-java?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Zeppelin Solutions" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-zeppelin.png" /></td>
+        <td>Analytics</td>
+        <td>Java</td>
+        <td><a href="https://zeppelin.apache.org/" target="_blank">Zeppelin Solutions</a></td>
+        <td>Web-based notebook that enables data-driven, interactive data analytics and collaborative documents with SQL, Scala and more.</td>
+        <th><a href="https://github.com/apache/zeppelin" target="_blank"><img alt="Zeppelin Solutions" src="https://img.shields.io/github/stars/apache/zeppelin?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Know Streaming" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-KnowStreaming.png" /></td>
+        <td>Infrastructure</td>
+        <td>Java</td>
+        <td><a href="https://knowstreaming.com" target="_blank">Know Streaming</a></td>
+        <td>一站式云原生实时流数据平台，通过0侵入、插件化构建企业级Kafka服务，极大降低操作、存储和管理实时流数据门槛</td>
+        <th><a href="https://github.com/didi/KnowStreaming" target="_blank"><img alt="Know Streaming" src="https://img.shields.io/github/stars/didi/KnowStreaming?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="MyBatis Generator Core" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-generator-1.png" /></td>
+        <td>Databases</td>
+        <td>Java</td>
+        <td><a href="http://www.mybatis.org/generator/" target="_blank">MyBatis Generator Core</a></td>
+        <td>A code generator for MyBatis.</td>
+        <th><a href="https://github.com/mybatis/generator" target="_blank"><img alt="MyBatis Generator Core" src="https://img.shields.io/github/stars/mybatis/generator?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="beemdevelopment/Aegis" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-Aegis-1.png" /></td>
+        <td>Security</td>
+        <td>Java</td>
+        <td><a href="https://getaegis.app" target="_blank">beemdevelopment/Aegis</a></td>
+        <td>A free, secure and open source app for Android to manage your 2-step verification tokens.</td>
+        <th><a href="https://github.com/beemdevelopment/Aegis" target="_blank"><img alt="beemdevelopment/Aegis" src="https://img.shields.io/github/stars/beemdevelopment/Aegis?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Gephi" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-gephi-2.png" /></td>
+        <td>Productivity</td>
+        <td>Java</td>
+        <td><a href="http://gephi.org" target="_blank">Gephi</a></td>
+        <td>Gephi - The Open Graph Viz Platform</td>
+        <th><a href="https://github.com/gephi/gephi" target="_blank"><img alt="Gephi" src="https://img.shields.io/github/stars/gephi/gephi?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="WireMock" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-wiremock-3.png" /></td>
+        <td>Collaboration</td>
+        <td>Java</td>
+        <td><a href="https://wiremock.org/" target="_blank">WireMock</a></td>
+        <td>A tool for mocking HTTP services</td>
+        <th><a href="https://github.com/wiremock/wiremock" target="_blank"><img alt="WireMock" src="https://img.shields.io/github/stars/wiremock/wiremock?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Apache SeaTunnel" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-incubator-seatunnel-2.png" /></td>
+        <td>Analytics</td>
+        <td>Java</td>
+        <td><a href="https://seatunnel.apache.org/" target="_blank">Apache SeaTunnel</a></td>
+        <td>SeaTunnel is a distributed, high-performance data integration platform for the synchronization and transformation of massive data (offline &amp; real-time).</td>
+        <th><a href="https://github.com/apache/incubator-seatunnel" target="_blank"><img alt="Apache SeaTunnel" src="https://img.shields.io/github/stars/apache/incubator-seatunnel?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="lettuce-io/lettuce-core" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-lettuce-core.png" /></td>
+        <td>Databases</td>
+        <td>Java</td>
+        <td><a href="https://lettuce.io" target="_blank">lettuce-io/lettuce-core</a></td>
+        <td>Advanced Java Redis client for thread-safe sync, async, and reactive usage. Supports Cluster, Sentinel, Pipelining, and codecs.</td>
+        <th><a href="https://github.com/lettuce-io/lettuce-core" target="_blank"><img alt="lettuce-io/lettuce-core" src="https://img.shields.io/github/stars/lettuce-io/lettuce-core?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Robolectric" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-robolectric.png" /></td>
+        <td>Observability</td>
+        <td>Java</td>
+        <td><a href="http://robolectric.org" target="_blank">Robolectric</a></td>
+        <td>Android Unit Testing Framework</td>
+        <th><a href="https://github.com/robolectric/robolectric" target="_blank"><img alt="Robolectric" src="https://img.shields.io/github/stars/robolectric/robolectric?style=social" /></a></th>
     </tr>
 
 </table>
@@ -3867,6 +4097,14 @@
         <td><a href="https://auto.gluon.ai/" target="_blank">AutoGluon Documentation</a></td>
         <td>AutoGluon: AutoML for Image, Text, Time Series, and Tabular Data</td>
         <th><a href="https://github.com/autogluon/autogluon" target="_blank"><img alt="AutoGluon Documentation" src="https://img.shields.io/github/stars/autogluon/autogluon?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="MkDocs" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-mkdocs-2.png" /></td>
+        <td>Productivity</td>
+        <td>Python</td>
+        <td><a href="https://www.mkdocs.org" target="_blank">MkDocs</a></td>
+        <td>Project documentation with Markdown.</td>
+        <th><a href="https://github.com/mkdocs/mkdocs" target="_blank"><img alt="MkDocs" src="https://img.shields.io/github/stars/mkdocs/mkdocs?style=social" /></a></th>
     </tr>
 
 </table>
@@ -4245,6 +4483,14 @@
         <td><a href="https://github.com/depapp/pusakatest" target="_blank">Pusakatest</a></td>
         <td>pusakatest is an automation testing tool based on pactumjs using bdd (cucumber) style with localization</td>
         <th><a href="https://github.com/depapp/pusakatest" target="_blank"><img alt="Pusakatest" src="https://img.shields.io/github/stars/depapp/pusakatest?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Docsify" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-docsify.png" /></td>
+        <td>Productivity</td>
+        <td>JavaScript</td>
+        <td><a href="https://docsify.js.org" target="_blank">Docsify</a></td>
+        <td><g-emoji class="g-emoji" alias="black_joker" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f0cf.png">?</g-emoji> A magical documentation site generator.</td>
+        <th><a href="https://github.com/docsifyjs/docsify" target="_blank"><img alt="Docsify" src="https://img.shields.io/github/stars/docsifyjs/docsify?style=social" /></a></th>
     </tr>
 
 </table>
@@ -4977,172 +5223,6 @@
         <td><a href="https://linkedin.github.io/school-of-sre/" target="_blank">School Of SRE.</a></td>
         <td>At LinkedIn, we are using this curriculum for onboarding our entry-level talents into the SRE role.</td>
         <th><a href="https://github.com/linkedin/school-of-sre" target="_blank"><img alt="School Of SRE." src="https://img.shields.io/github/stars/linkedin/school-of-sre?style=social" /></a></th>
-    </tr>
-
-</table>
-
-<br /><br />
-<h2 id="java">Top 20 Java libraries</h2>
-<table>
-    <tr>
-        <th>Icon</th>
-        <th>Category</th>
-        <th>Language</th>
-        <th>Name</th>
-        <th>Description</th>
-        <th>Stargazers</th>
-    </tr>
-        <tr>
-        <td nowrap="nowrap"><img width="33" alt="Drools" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-drools.png" /></td>
-        <td>Infrastructure</td>
-        <td>Java</td>
-        <td><a href="http://www.drools.org" target="_blank">Drools</a></td>
-        <td>Drools is a rule engine, DMN engine and complex event processing (CEP) engine for Java.</td>
-        <th><a href="https://github.com/kiegroup/drools" target="_blank"><img alt="Drools" src="https://img.shields.io/github/stars/kiegroup/drools?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="vavr-io/vavr" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-vavr.png" /></td>
-        <td>Productivity</td>
-        <td>Java</td>
-        <td><a href="https://vavr.io" target="_blank">vavr-io/vavr</a></td>
-        <td>vʌvr (formerly called Javaslang) is a non-commercial, non-profit object-functional library that runs with Java 8+. It aims to reduce the lines of code and increase code quality.</td>
-        <th><a href="https://github.com/vavr-io/vavr" target="_blank"><img alt="vavr-io/vavr" src="https://img.shields.io/github/stars/vavr-io/vavr?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="xManager" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-xManager.png" /></td>
-        <td>Productivity</td>
-        <td>Java</td>
-        <td><a href="https://xmanagerapp.com" target="_blank">xManager</a></td>
-        <td>Ad-Free, New Features &amp; Freedom</td>
-        <th><a href="https://github.com/xManager-App/xManager" target="_blank"><img alt="xManager" src="https://img.shields.io/github/stars/xManager-App/xManager?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="PowerJob/PowerJob" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-PowerJob.png" /></td>
-        <td>Infrastructure</td>
-        <td>Java</td>
-        <td><a href="http://www.powerjob.tech/" target="_blank">PowerJob/PowerJob</a></td>
-        <td>Enterprise job scheduling middleware with distributed computing ability.</td>
-        <th><a href="https://github.com/PowerJob/PowerJob" target="_blank"><img alt="PowerJob/PowerJob" src="https://img.shields.io/github/stars/PowerJob/PowerJob?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="jOOQ" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-jOOQ.jpg" /></td>
-        <td>Databases</td>
-        <td>Java</td>
-        <td><a href="https://www.jooq.org" target="_blank">jOOQ</a></td>
-        <td>jOOQ is the best way to write SQL in Java</td>
-        <th><a href="https://github.com/jOOQ/jOOQ" target="_blank"><img alt="jOOQ" src="https://img.shields.io/github/stars/jOOQ/jOOQ?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="ksqlDB" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-ksql.png" /></td>
-        <td>Databases</td>
-        <td>Java</td>
-        <td><a href="https://ksqldb.io" target="_blank">ksqlDB</a></td>
-        <td>The database purpose-built for stream processing applications.</td>
-        <th><a href="https://github.com/confluentinc/ksql" target="_blank"><img alt="ksqlDB" src="https://img.shields.io/github/stars/confluentinc/ksql?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="microG Project." src="https://libraries.github20k.com/images/uploads/2023/05/newshot-GmsCore.png" /></td>
-        <td>Infrastructure</td>
-        <td>Java</td>
-        <td><a href="https://microg.org" target="_blank">microG Project.</a></td>
-        <td>Free implementation of Play Services</td>
-        <th><a href="https://github.com/microg/GmsCore" target="_blank"><img alt="microG Project." src="https://img.shields.io/github/stars/microg/GmsCore?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Micronaut Framework" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-micronaut-core.png" /></td>
-        <td>Infrastructure</td>
-        <td>Java</td>
-        <td><a href="http://micronaut.io" target="_blank">Micronaut Framework</a></td>
-        <td>Micronaut Application Framework</td>
-        <th><a href="https://github.com/micronaut-projects/micronaut-core" target="_blank"><img alt="Micronaut Framework" src="https://img.shields.io/github/stars/micronaut-projects/micronaut-core?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="JUnitorg." src="https://libraries.github20k.com/images/uploads/2023/05/newshot-junit5.png" /></td>
-        <td>Infrastructure</td>
-        <td>Java</td>
-        <td><a href="https://junit.org" target="_blank">JUnitorg.</a></td>
-        <td><g-emoji class="g-emoji" alias="white_check_mark" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2705.png">✅</g-emoji> The 5th major version of the programmer-friendly testing framework for Java and the JVM</td>
-        <th><a href="https://github.com/junit-team/junit5" target="_blank"><img alt="JUnitorg." src="https://img.shields.io/github/stars/junit-team/junit5?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="GraphQL Java" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-graphql-java.png" /></td>
-        <td>Infrastructure</td>
-        <td>Java</td>
-        <td><a href="https://graphql-java.com" target="_blank">GraphQL Java</a></td>
-        <td>GraphQL Java implementation</td>
-        <th><a href="https://github.com/graphql-java/graphql-java" target="_blank"><img alt="GraphQL Java" src="https://img.shields.io/github/stars/graphql-java/graphql-java?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Zeppelin Solutions" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-zeppelin.png" /></td>
-        <td>Analytics</td>
-        <td>Java</td>
-        <td><a href="https://zeppelin.apache.org/" target="_blank">Zeppelin Solutions</a></td>
-        <td>Web-based notebook that enables data-driven, interactive data analytics and collaborative documents with SQL, Scala and more.</td>
-        <th><a href="https://github.com/apache/zeppelin" target="_blank"><img alt="Zeppelin Solutions" src="https://img.shields.io/github/stars/apache/zeppelin?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Know Streaming" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-KnowStreaming.png" /></td>
-        <td>Infrastructure</td>
-        <td>Java</td>
-        <td><a href="https://knowstreaming.com" target="_blank">Know Streaming</a></td>
-        <td>一站式云原生实时流数据平台，通过0侵入、插件化构建企业级Kafka服务，极大降低操作、存储和管理实时流数据门槛</td>
-        <th><a href="https://github.com/didi/KnowStreaming" target="_blank"><img alt="Know Streaming" src="https://img.shields.io/github/stars/didi/KnowStreaming?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="MyBatis Generator Core" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-generator-1.png" /></td>
-        <td>Databases</td>
-        <td>Java</td>
-        <td><a href="http://www.mybatis.org/generator/" target="_blank">MyBatis Generator Core</a></td>
-        <td>A code generator for MyBatis.</td>
-        <th><a href="https://github.com/mybatis/generator" target="_blank"><img alt="MyBatis Generator Core" src="https://img.shields.io/github/stars/mybatis/generator?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="beemdevelopment/Aegis" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-Aegis-1.png" /></td>
-        <td>Security</td>
-        <td>Java</td>
-        <td><a href="https://getaegis.app" target="_blank">beemdevelopment/Aegis</a></td>
-        <td>A free, secure and open source app for Android to manage your 2-step verification tokens.</td>
-        <th><a href="https://github.com/beemdevelopment/Aegis" target="_blank"><img alt="beemdevelopment/Aegis" src="https://img.shields.io/github/stars/beemdevelopment/Aegis?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Gephi" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-gephi-2.png" /></td>
-        <td>Productivity</td>
-        <td>Java</td>
-        <td><a href="http://gephi.org" target="_blank">Gephi</a></td>
-        <td>Gephi - The Open Graph Viz Platform</td>
-        <th><a href="https://github.com/gephi/gephi" target="_blank"><img alt="Gephi" src="https://img.shields.io/github/stars/gephi/gephi?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="WireMock" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-wiremock-3.png" /></td>
-        <td>Collaboration</td>
-        <td>Java</td>
-        <td><a href="https://wiremock.org/" target="_blank">WireMock</a></td>
-        <td>A tool for mocking HTTP services</td>
-        <th><a href="https://github.com/wiremock/wiremock" target="_blank"><img alt="WireMock" src="https://img.shields.io/github/stars/wiremock/wiremock?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Apache SeaTunnel" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-incubator-seatunnel-2.png" /></td>
-        <td>Analytics</td>
-        <td>Java</td>
-        <td><a href="https://seatunnel.apache.org/" target="_blank">Apache SeaTunnel</a></td>
-        <td>SeaTunnel is a distributed, high-performance data integration platform for the synchronization and transformation of massive data (offline &amp; real-time).</td>
-        <th><a href="https://github.com/apache/incubator-seatunnel" target="_blank"><img alt="Apache SeaTunnel" src="https://img.shields.io/github/stars/apache/incubator-seatunnel?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="lettuce-io/lettuce-core" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-lettuce-core.png" /></td>
-        <td>Databases</td>
-        <td>Java</td>
-        <td><a href="https://lettuce.io" target="_blank">lettuce-io/lettuce-core</a></td>
-        <td>Advanced Java Redis client for thread-safe sync, async, and reactive usage. Supports Cluster, Sentinel, Pipelining, and codecs.</td>
-        <th><a href="https://github.com/lettuce-io/lettuce-core" target="_blank"><img alt="lettuce-io/lettuce-core" src="https://img.shields.io/github/stars/lettuce-io/lettuce-core?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Robolectric" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-robolectric.png" /></td>
-        <td>Observability</td>
-        <td>Java</td>
-        <td><a href="http://robolectric.org" target="_blank">Robolectric</a></td>
-        <td>Android Unit Testing Framework</td>
-        <th><a href="https://github.com/robolectric/robolectric" target="_blank"><img alt="Robolectric" src="https://img.shields.io/github/stars/robolectric/robolectric?style=social" /></a></th>
     </tr>
 
 </table>
