@@ -134,6 +134,14 @@
         <th>Stargazers</th>
     </tr>
         <tr>
+        <td nowrap="nowrap"><img width="33" alt="生信爱好者周刊" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-weekly.jpg" /></td>
+        <td>Miscellaneous</td>
+        <td>HTML</td>
+        <td><a href="https://shixiangwang.github.io/weekly/" target="_blank">生信爱好者周刊</a></td>
+        <td>生信爱好者周刊（每周日发布）</td>
+        <th><a href="https://github.com/ShixiangWang/weekly" target="_blank"><img alt="生信爱好者周刊" src="https://img.shields.io/github/stars/ShixiangWang/weekly?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="Pusakatest" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-pusakatest.jpg" /></td>
         <td>Miscellaneous</td>
         <td>JavaScript</td>
@@ -284,14 +292,6 @@
         <td><a href="https://wiremock.org/" target="_blank">WireMock</a></td>
         <td>A tool for mocking HTTP services</td>
         <th><a href="https://github.com/wiremock/wiremock" target="_blank"><img alt="WireMock" src="https://img.shields.io/github/stars/wiremock/wiremock?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Our World in Data" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-covid-19-data-3.png" /></td>
-        <td>Databases</td>
-        <td>Python</td>
-        <td><a href="https://ourworldindata.org/coronavirus" target="_blank">Our World in Data</a></td>
-        <td>Data on COVID-19 (coronavirus) cases, deaths, hospitalizations, tests • All countries • Updated daily by Our World in Data</td>
-        <th><a href="https://github.com/owid/covid-19-data" target="_blank"><img alt="Our World in Data" src="https://img.shields.io/github/stars/owid/covid-19-data?style=social" /></a></th>
     </tr>
 
 </table>
@@ -1186,6 +1186,14 @@
         <td><a href="http://www.mustangproject.org" target="_blank">Mustang</a></td>
         <td>Open Source Java e-Invoicing library, validator and tool (Factur-X/ZUGFeRD, UNCEFACT/CII XRechnung)</td>
         <th><a href="https://github.com/ZUGFeRD/mustangproject" target="_blank"><img alt="Mustang" src="https://img.shields.io/github/stars/ZUGFeRD/mustangproject?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="生信爱好者周刊" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-weekly.jpg" /></td>
+        <td>Miscellaneous</td>
+        <td>HTML</td>
+        <td><a href="https://shixiangwang.github.io/weekly/" target="_blank">生信爱好者周刊</a></td>
+        <td>生信爱好者周刊（每周日发布）</td>
+        <th><a href="https://github.com/ShixiangWang/weekly" target="_blank"><img alt="生信爱好者周刊" src="https://img.shields.io/github/stars/ShixiangWang/weekly?style=social" /></a></th>
     </tr>
 
 </table>
@@ -5233,6 +5241,14 @@
         <td><a href="https://linkedin.github.io/school-of-sre/" target="_blank">School Of SRE.</a></td>
         <td>At LinkedIn, we are using this curriculum for onboarding our entry-level talents into the SRE role.</td>
         <th><a href="https://github.com/linkedin/school-of-sre" target="_blank"><img alt="School Of SRE." src="https://img.shields.io/github/stars/linkedin/school-of-sre?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="生信爱好者周刊" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-weekly.jpg" /></td>
+        <td>Miscellaneous</td>
+        <td>HTML</td>
+        <td><a href="https://shixiangwang.github.io/weekly/" target="_blank">生信爱好者周刊</a></td>
+        <td>生信爱好者周刊（每周日发布）</td>
+        <th><a href="https://github.com/ShixiangWang/weekly" target="_blank"><img alt="生信爱好者周刊" src="https://img.shields.io/github/stars/ShixiangWang/weekly?style=social" /></a></th>
     </tr>
 
 </table>
