@@ -150,6 +150,14 @@
         <th><a href="https://github.com/ShixiangWang/weekly" target="_blank"><img alt="生信爱好者周刊" src="https://img.shields.io/github/stars/ShixiangWang/weekly?style=social" /></a></th>
     </tr>
     <tr>
+        <td nowrap="nowrap"><img width="33" alt="Wing Language" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-wing.png" /></td>
+        <td>Infrastructure</td>
+        <td>TypeScript</td>
+        <td><a href="https://winglang.io" target="_blank">Wing Language</a></td>
+        <td>The Wing Programming Language</td>
+        <th><a href="https://github.com/winglang/wing" target="_blank"><img alt="Wing Language" src="https://img.shields.io/github/stars/winglang/wing?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="Pusakatest" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-pusakatest.jpg" /></td>
         <td>Miscellaneous</td>
         <td>JavaScript</td>
@@ -284,14 +292,6 @@
         <td><a href="https://esphome.io/" target="_blank">ESPHome</a></td>
         <td>ESPHome is a system to control your ESP8266/ESP32 by simple yet powerful configuration files and control them remotely through Home Automation systems.</td>
         <th><a href="https://github.com/esphome/esphome" target="_blank"><img alt="ESPHome" src="https://img.shields.io/github/stars/esphome/esphome?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="unisonweb/unison" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-unison.png" /></td>
-        <td>Infrastructure</td>
-        <td>Haskell</td>
-        <td><a href="https://unison-lang.org" target="_blank">unisonweb/unison</a></td>
-        <td>A friendly programming language from the future</td>
-        <th><a href="https://github.com/unisonweb/unison" target="_blank"><img alt="unisonweb/unison" src="https://img.shields.io/github/stars/unisonweb/unison?style=social" /></a></th>
     </tr>
 
 </table>
@@ -3371,6 +3371,14 @@
         <td>Build your React-based CRUD applications, without constraints.</td>
         <th><a href="https://github.com/refinedev/refine" target="_blank"><img alt="refine" src="https://img.shields.io/github/stars/refinedev/refine?style=social" /></a></th>
     </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Wing Language" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-wing.png" /></td>
+        <td>Infrastructure</td>
+        <td>TypeScript</td>
+        <td><a href="https://winglang.io" target="_blank">Wing Language</a></td>
+        <td>The Wing Programming Language</td>
+        <th><a href="https://github.com/winglang/wing" target="_blank"><img alt="Wing Language" src="https://img.shields.io/github/stars/winglang/wing?style=social" /></a></th>
+    </tr>
 
 </table>
 
@@ -3713,6 +3721,14 @@
         <td><a href="https://hanko.io" target="_blank">Hanko</a></td>
         <td>Authentication and user management for the passkey era.</td>
         <th><a href="https://github.com/teamhanko/hanko" target="_blank"><img alt="Hanko" src="https://img.shields.io/github/stars/teamhanko/hanko?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Wing Language" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-wing.png" /></td>
+        <td>Infrastructure</td>
+        <td>TypeScript</td>
+        <td><a href="https://winglang.io" target="_blank">Wing Language</a></td>
+        <td>The Wing Programming Language</td>
+        <th><a href="https://github.com/winglang/wing" target="_blank"><img alt="Wing Language" src="https://img.shields.io/github/stars/winglang/wing?style=social" /></a></th>
     </tr>
 
 </table>
