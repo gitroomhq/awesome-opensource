@@ -142,6 +142,14 @@
         <th><a href="https://github.com/aimeos/map" target="_blank"><img alt="PHP Collections" src="https://img.shields.io/github/stars/aimeos/map?style=social" /></a></th>
     </tr>
     <tr>
+        <td nowrap="nowrap"><img width="33" alt="crowddev" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-crowd.dev_.png" /></td>
+        <td>Analytics</td>
+        <td>TypeScript</td>
+        <td><a href="https://crowd.dev" target="_blank">crowddev</a></td>
+        <td>An open-source platform to centralize community, product, and customer data in one place</td>
+        <th><a href="https://github.com/CrowdDotDev/crowd.dev" target="_blank"><img alt="crowddev" src="https://img.shields.io/github/stars/CrowdDotDev/crowd.dev?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="生信爱好者周刊" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-weekly.jpg" /></td>
         <td>Miscellaneous</td>
         <td>HTML</td>
@@ -285,14 +293,6 @@
         <td>The open-source notification infrastructure with fully functional embedded notification center</td>
         <th><a href="https://github.com/novuhq/novu" target="_blank"><img alt="Novu" src="https://img.shields.io/github/stars/novuhq/novu?style=social" /></a></th>
     </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="ESPHome" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-esphome-1.png" /></td>
-        <td>Productivity</td>
-        <td>C++</td>
-        <td><a href="https://esphome.io/" target="_blank">ESPHome</a></td>
-        <td>ESPHome is a system to control your ESP8266/ESP32 by simple yet powerful configuration files and control them remotely through Home Automation systems.</td>
-        <th><a href="https://github.com/esphome/esphome" target="_blank"><img alt="ESPHome" src="https://img.shields.io/github/stars/esphome/esphome?style=social" /></a></th>
-    </tr>
 
 </table>
 
@@ -355,6 +355,14 @@
         <td><a href="http://php-map.org" target="_blank">PHP Collections</a></td>
         <td>PHP arrays and collections made easy</td>
         <th><a href="https://github.com/aimeos/map" target="_blank"><img alt="PHP Collections" src="https://img.shields.io/github/stars/aimeos/map?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="crowddev" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-crowd.dev_.png" /></td>
+        <td>Analytics</td>
+        <td>TypeScript</td>
+        <td><a href="https://crowd.dev" target="_blank">crowddev</a></td>
+        <td>An open-source platform to centralize community, product, and customer data in one place</td>
+        <th><a href="https://github.com/CrowdDotDev/crowd.dev" target="_blank"><img alt="crowddev" src="https://img.shields.io/github/stars/CrowdDotDev/crowd.dev?style=social" /></a></th>
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="ClusterFuzz" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-clusterfuzz.png" /></td>
@@ -1099,14 +1107,6 @@
         <td><a href="https://penrose.cs.cmu.edu" target="_blank">Penrose</a></td>
         <td>Create beautiful diagrams just by typing mathematical notation in plain text.</td>
         <th><a href="https://github.com/penrose/penrose" target="_blank"><img alt="Penrose" src="https://img.shields.io/github/stars/penrose/penrose?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="vuejs/vetur" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-vetur.png" /></td>
-        <td>Productivity</td>
-        <td>TypeScript</td>
-        <td><a href="https://vuejs.github.io/vetur/" target="_blank">vuejs/vetur</a></td>
-        <td>Vue tooling for VS Code.</td>
-        <th><a href="https://github.com/vuejs/vetur" target="_blank"><img alt="vuejs/vetur" src="https://img.shields.io/github/stars/vuejs/vetur?style=social" /></a></th>
     </tr>
 
 </table>
@@ -2014,6 +2014,14 @@
         <th>Stargazers</th>
     </tr>
         <tr>
+        <td nowrap="nowrap"><img width="33" alt="crowddev" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-crowd.dev_.png" /></td>
+        <td>Analytics</td>
+        <td>TypeScript</td>
+        <td><a href="https://crowd.dev" target="_blank">crowddev</a></td>
+        <td>An open-source platform to centralize community, product, and customer data in one place</td>
+        <th><a href="https://github.com/CrowdDotDev/crowd.dev" target="_blank"><img alt="crowddev" src="https://img.shields.io/github/stars/CrowdDotDev/crowd.dev?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="OneFlow" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-oneflow.png" /></td>
         <td>Analytics</td>
         <td>C++</td>
@@ -3409,6 +3417,14 @@
         <td><a href="https://github20k.com" target="_blank">Github 20k</a></td>
         <td>The open-source course landing page <g-emoji class="g-emoji" alias="rocket" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f680.png">?</g-emoji><g-emoji class="g-emoji" alias="rocket" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f680.png">?</g-emoji><g-emoji class="g-emoji" alias="rocket" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f680.png">?</g-emoji></td>
         <th><a href="https://github.com/github-20k/super-star" target="_blank"><img alt="Github 20k" src="https://img.shields.io/github/stars/github-20k/super-star?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="crowddev" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-crowd.dev_.png" /></td>
+        <td>Analytics</td>
+        <td>TypeScript</td>
+        <td><a href="https://crowd.dev" target="_blank">crowddev</a></td>
+        <td>An open-source platform to centralize community, product, and customer data in one place</td>
+        <th><a href="https://github.com/CrowdDotDev/crowd.dev" target="_blank"><img alt="crowddev" src="https://img.shields.io/github/stars/CrowdDotDev/crowd.dev?style=social" /></a></th>
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="The Lounge" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-thelounge.png" /></td>
