@@ -134,6 +134,14 @@
         <th>Stargazers</th>
     </tr>
         <tr>
+        <td nowrap="nowrap"><img width="33" alt="README" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-Yet-Another-LaTeX-Template-for-NPU-Thesis.png" /></td>
+        <td>Miscellaneous</td>
+        <td>TeX</td>
+        <td><a href="https://nwpumetaphysicsoffice.github.io/Yet-Another-LaTeX-Template-for-NPU-Thesis/" target="_blank">README</a></td>
+        <td>西北工业大学硕博学位论文模版 | Yet Another Thesis Template for Northwestern Polytechnical University</td>
+        <th><a href="https://github.com/NWPUMetaphysicsOffice/Yet-Another-LaTeX-Template-for-NPU-Thesis" target="_blank"><img alt="README" src="https://img.shields.io/github/stars/NWPUMetaphysicsOffice/Yet-Another-LaTeX-Template-for-NPU-Thesis?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="PHP Collections" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-map.png" /></td>
         <td>Infrastructure</td>
         <td>PHP</td>
@@ -284,14 +292,6 @@
         <td><a href="https://docusaurus.io" target="_blank">Docusaurus</a></td>
         <td>Easy to maintain open source documentation websites.</td>
         <th><a href="https://github.com/facebook/docusaurus" target="_blank"><img alt="Docusaurus" src="https://img.shields.io/github/stars/facebook/docusaurus?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Novu" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-novu-2.png" /></td>
-        <td>Notifications</td>
-        <td>TypeScript</td>
-        <td><a href="https://novu.co" target="_blank">Novu</a></td>
-        <td>The open-source notification infrastructure with fully functional embedded notification center</td>
-        <th><a href="https://github.com/novuhq/novu" target="_blank"><img alt="Novu" src="https://img.shields.io/github/stars/novuhq/novu?style=social" /></a></th>
     </tr>
 
 </table>
@@ -1194,6 +1194,14 @@
         <td><a href="https://shixiangwang.github.io/weekly/" target="_blank">生信爱好者周刊</a></td>
         <td>生信爱好者周刊（每周日发布）</td>
         <th><a href="https://github.com/ShixiangWang/weekly" target="_blank"><img alt="生信爱好者周刊" src="https://img.shields.io/github/stars/ShixiangWang/weekly?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="README" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-Yet-Another-LaTeX-Template-for-NPU-Thesis.png" /></td>
+        <td>Miscellaneous</td>
+        <td>TeX</td>
+        <td><a href="https://nwpumetaphysicsoffice.github.io/Yet-Another-LaTeX-Template-for-NPU-Thesis/" target="_blank">README</a></td>
+        <td>西北工业大学硕博学位论文模版 | Yet Another Thesis Template for Northwestern Polytechnical University</td>
+        <th><a href="https://github.com/NWPUMetaphysicsOffice/Yet-Another-LaTeX-Template-for-NPU-Thesis" target="_blank"><img alt="README" src="https://img.shields.io/github/stars/NWPUMetaphysicsOffice/Yet-Another-LaTeX-Template-for-NPU-Thesis?style=social" /></a></th>
     </tr>
 
 </table>
@@ -5757,6 +5765,14 @@
         <td><a href="https://sysprog21.github.io/lkmpg/" target="_blank">Linux Kernel Guide</a></td>
         <td>The Linux Kernel Module Programming Guide (updated for 5.x kernels)</td>
         <th><a href="https://github.com/sysprog21/lkmpg" target="_blank"><img alt="Linux Kernel Guide" src="https://img.shields.io/github/stars/sysprog21/lkmpg?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="README" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-Yet-Another-LaTeX-Template-for-NPU-Thesis.png" /></td>
+        <td>Miscellaneous</td>
+        <td>TeX</td>
+        <td><a href="https://nwpumetaphysicsoffice.github.io/Yet-Another-LaTeX-Template-for-NPU-Thesis/" target="_blank">README</a></td>
+        <td>西北工业大学硕博学位论文模版 | Yet Another Thesis Template for Northwestern Polytechnical University</td>
+        <th><a href="https://github.com/NWPUMetaphysicsOffice/Yet-Another-LaTeX-Template-for-NPU-Thesis" target="_blank"><img alt="README" src="https://img.shields.io/github/stars/NWPUMetaphysicsOffice/Yet-Another-LaTeX-Template-for-NPU-Thesis?style=social" /></a></th>
     </tr>
 
 </table>
