@@ -46,6 +46,8 @@
              </li>          <li>
                 <a href="#php">Top 20 PHP libraries</a>
              </li>          <li>
+                <a href="#go">Top 20 Go libraries</a>
+             </li>          <li>
                 <a href="#python">Top 20 Python libraries</a>
              </li>          <li>
                 <a href="#css">Top 20 CSS libraries</a>
@@ -53,8 +55,6 @@
                 <a href="#javascript">Top 20 JavaScript libraries</a>
              </li>          <li>
                 <a href="#c++">Top 20 C++ libraries</a>
-             </li>          <li>
-                <a href="#go">Top 20 Go libraries</a>
              </li>          <li>
                 <a href="#kotlin">Top 20 Kotlin libraries</a>
              </li>          <li>
@@ -134,12 +134,28 @@
         <th>Stargazers</th>
     </tr>
         <tr>
-        <td nowrap="nowrap"><img width="33" alt="README" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-Yet-Another-LaTeX-Template-for-NPU-Thesis.png" /></td>
+        <td nowrap="nowrap"><img width="33" alt="Telego" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-telego.jpg" /></td>
+        <td>Notifications</td>
+        <td>Go</td>
+        <td><a href="https://telego.pixelbox.dev" target="_blank">Telego</a></td>
+        <td>Telegram Bot API library for Go</td>
+        <th><a href="https://github.com/mymmrac/telego" target="_blank"><img alt="Telego" src="https://img.shields.io/github/stars/mymmrac/telego?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Thesis Template" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-Yet-Another-LaTeX-Template-for-NPU-Thesis.png" /></td>
         <td>Miscellaneous</td>
         <td>TeX</td>
-        <td><a href="https://nwpumetaphysicsoffice.github.io/Yet-Another-LaTeX-Template-for-NPU-Thesis/" target="_blank">README</a></td>
+        <td><a href="https://nwpumetaphysicsoffice.github.io/Yet-Another-LaTeX-Template-for-NPU-Thesis/" target="_blank">Thesis Template</a></td>
         <td>西北工业大学硕博学位论文模版 | Yet Another Thesis Template for Northwestern Polytechnical University</td>
-        <th><a href="https://github.com/NWPUMetaphysicsOffice/Yet-Another-LaTeX-Template-for-NPU-Thesis" target="_blank"><img alt="README" src="https://img.shields.io/github/stars/NWPUMetaphysicsOffice/Yet-Another-LaTeX-Template-for-NPU-Thesis?style=social" /></a></th>
+        <th><a href="https://github.com/NWPUMetaphysicsOffice/Yet-Another-LaTeX-Template-for-NPU-Thesis" target="_blank"><img alt="Thesis Template" src="https://img.shields.io/github/stars/NWPUMetaphysicsOffice/Yet-Another-LaTeX-Template-for-NPU-Thesis?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Awesome Pydantic" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-awesome-pydantic.jpg" /></td>
+        <td>Miscellaneous</td>
+        <td>undefined</td>
+        <td><a href="https://github.com/Kludex/awesome-pydantic" target="_blank">Awesome Pydantic</a></td>
+        <td>A curated list of awesome things related to Pydantic! <g-emoji class="g-emoji" alias="tornado" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f32a.png">?️</g-emoji></td>
+        <th><a href="https://github.com/Kludex/awesome-pydantic" target="_blank"><img alt="Awesome Pydantic" src="https://img.shields.io/github/stars/Kludex/awesome-pydantic?style=social" /></a></th>
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="PHP Collections" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-map.png" /></td>
@@ -277,22 +293,6 @@
         <td>Android Unit Testing Framework</td>
         <th><a href="https://github.com/robolectric/robolectric" target="_blank"><img alt="Robolectric" src="https://img.shields.io/github/stars/robolectric/robolectric?style=social" /></a></th>
     </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="ZITADEL" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-zitadel-1.png" /></td>
-        <td>Infrastructure</td>
-        <td>Go</td>
-        <td><a href="https://zitadel.com" target="_blank">ZITADEL</a></td>
-        <td>ZITADEL - The best of Auth0 and Keycloak combined. Built for the serverless era.</td>
-        <th><a href="https://github.com/zitadel/zitadel" target="_blank"><img alt="ZITADEL" src="https://img.shields.io/github/stars/zitadel/zitadel?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Docusaurus" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-docusaurus.png" /></td>
-        <td>Productivity</td>
-        <td>TypeScript</td>
-        <td><a href="https://docusaurus.io" target="_blank">Docusaurus</a></td>
-        <td>Easy to maintain open source documentation websites.</td>
-        <th><a href="https://github.com/facebook/docusaurus" target="_blank"><img alt="Docusaurus" src="https://img.shields.io/github/stars/facebook/docusaurus?style=social" /></a></th>
-    </tr>
 
 </table>
 
@@ -363,6 +363,14 @@
         <td><a href="https://crowd.dev" target="_blank">crowddev</a></td>
         <td>An open-source platform to centralize community, product, and customer data in one place</td>
         <th><a href="https://github.com/CrowdDotDev/crowd.dev" target="_blank"><img alt="crowddev" src="https://img.shields.io/github/stars/CrowdDotDev/crowd.dev?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Telego" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-telego.jpg" /></td>
+        <td>Notifications</td>
+        <td>Go</td>
+        <td><a href="https://telego.pixelbox.dev" target="_blank">Telego</a></td>
+        <td>Telegram Bot API library for Go</td>
+        <th><a href="https://github.com/mymmrac/telego" target="_blank"><img alt="Telego" src="https://img.shields.io/github/stars/mymmrac/telego?style=social" /></a></th>
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="ClusterFuzz" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-clusterfuzz.png" /></td>
@@ -1100,14 +1108,6 @@
         <td>A lightweight graphic library providing 2d draw for Apache ECharts</td>
         <th><a href="https://github.com/ecomfe/zrender" target="_blank"><img alt="ZRender" src="https://img.shields.io/github/stars/ecomfe/zrender?style=social" /></a></th>
     </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Penrose" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-penrose.png" /></td>
-        <td>Productivity</td>
-        <td>TypeScript</td>
-        <td><a href="https://penrose.cs.cmu.edu" target="_blank">Penrose</a></td>
-        <td>Create beautiful diagrams just by typing mathematical notation in plain text.</td>
-        <th><a href="https://github.com/penrose/penrose" target="_blank"><img alt="Penrose" src="https://img.shields.io/github/stars/penrose/penrose?style=social" /></a></th>
-    </tr>
 
 </table>
 
@@ -1196,12 +1196,20 @@
         <th><a href="https://github.com/ShixiangWang/weekly" target="_blank"><img alt="生信爱好者周刊" src="https://img.shields.io/github/stars/ShixiangWang/weekly?style=social" /></a></th>
     </tr>
     <tr>
-        <td nowrap="nowrap"><img width="33" alt="README" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-Yet-Another-LaTeX-Template-for-NPU-Thesis.png" /></td>
+        <td nowrap="nowrap"><img width="33" alt="Thesis Template" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-Yet-Another-LaTeX-Template-for-NPU-Thesis.png" /></td>
         <td>Miscellaneous</td>
         <td>TeX</td>
-        <td><a href="https://nwpumetaphysicsoffice.github.io/Yet-Another-LaTeX-Template-for-NPU-Thesis/" target="_blank">README</a></td>
+        <td><a href="https://nwpumetaphysicsoffice.github.io/Yet-Another-LaTeX-Template-for-NPU-Thesis/" target="_blank">Thesis Template</a></td>
         <td>西北工业大学硕博学位论文模版 | Yet Another Thesis Template for Northwestern Polytechnical University</td>
-        <th><a href="https://github.com/NWPUMetaphysicsOffice/Yet-Another-LaTeX-Template-for-NPU-Thesis" target="_blank"><img alt="README" src="https://img.shields.io/github/stars/NWPUMetaphysicsOffice/Yet-Another-LaTeX-Template-for-NPU-Thesis?style=social" /></a></th>
+        <th><a href="https://github.com/NWPUMetaphysicsOffice/Yet-Another-LaTeX-Template-for-NPU-Thesis" target="_blank"><img alt="Thesis Template" src="https://img.shields.io/github/stars/NWPUMetaphysicsOffice/Yet-Another-LaTeX-Template-for-NPU-Thesis?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Awesome Pydantic" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-awesome-pydantic.jpg" /></td>
+        <td>Miscellaneous</td>
+        <td>undefined</td>
+        <td><a href="https://github.com/Kludex/awesome-pydantic" target="_blank">Awesome Pydantic</a></td>
+        <td>A curated list of awesome things related to Pydantic! <g-emoji class="g-emoji" alias="tornado" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f32a.png">?️</g-emoji></td>
+        <th><a href="https://github.com/Kludex/awesome-pydantic" target="_blank"><img alt="Awesome Pydantic" src="https://img.shields.io/github/stars/Kludex/awesome-pydantic?style=social" /></a></th>
     </tr>
 
 </table>
@@ -2518,6 +2526,14 @@
         <td><a href="https://novu.co" target="_blank">Novu</a></td>
         <td>The open-source notification infrastructure with fully functional embedded notification center</td>
         <th><a href="https://github.com/novuhq/novu" target="_blank"><img alt="Novu" src="https://img.shields.io/github/stars/novuhq/novu?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Telego" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-telego.jpg" /></td>
+        <td>Notifications</td>
+        <td>Go</td>
+        <td><a href="https://telego.pixelbox.dev" target="_blank">Telego</a></td>
+        <td>Telegram Bot API library for Go</td>
+        <th><a href="https://github.com/mymmrac/telego" target="_blank"><img alt="Telego" src="https://img.shields.io/github/stars/mymmrac/telego?style=social" /></a></th>
     </tr>
 
 </table>
@@ -4096,6 +4112,316 @@
 </table>
 
 <br /><br />
+<h2 id="go">Top 20 Go libraries</h2>
+<table>
+    <tr>
+        <th>Icon</th>
+        <th>Category</th>
+        <th>Language</th>
+        <th>Name</th>
+        <th>Description</th>
+        <th>Stargazers</th>
+    </tr>
+        <tr>
+        <td nowrap="nowrap"><img width="33" alt="Telego" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-telego.jpg" /></td>
+        <td>Notifications</td>
+        <td>Go</td>
+        <td><a href="https://telego.pixelbox.dev" target="_blank">Telego</a></td>
+        <td>Telegram Bot API library for Go</td>
+        <th><a href="https://github.com/mymmrac/telego" target="_blank"><img alt="Telego" src="https://img.shields.io/github/stars/mymmrac/telego?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Elvish Shell" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-elvish.jpg" /></td>
+        <td>Productivity</td>
+        <td>Go</td>
+        <td><a href="https://elv.sh/" target="_blank">Elvish Shell</a></td>
+        <td>Elvish = Expressive Programming Language + Versatile Interactive Shell</td>
+        <th><a href="https://github.com/elves/elvish" target="_blank"><img alt="Elvish Shell" src="https://img.shields.io/github/stars/elves/elvish?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Cosmos: The Internet of Blockchains" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-cosmos-sdk.png" /></td>
+        <td>Infrastructure</td>
+        <td>Go</td>
+        <td><a href="https://cosmos.network/" target="_blank">Cosmos: The Internet of Blockchains</a></td>
+        <td><g-emoji class="g-emoji" alias="chains" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/26d3.png">⛓️</g-emoji> A Framework for Building High Value Public Blockchains <g-emoji class="g-emoji" alias="sparkles" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2728.png">✨</g-emoji></td>
+        <th><a href="https://github.com/cosmos/cosmos-sdk" target="_blank"><img alt="Cosmos: The Internet of Blockchains" src="https://img.shields.io/github/stars/cosmos/cosmos-sdk?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="gopass" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-gopass.png" /></td>
+        <td>Security</td>
+        <td>Go</td>
+        <td><a href="https://www.gopass.pw/" target="_blank">gopass</a></td>
+        <td>The slightly more awesome standard unix password manager for teams</td>
+        <th><a href="https://github.com/gopasspw/gopass" target="_blank"><img alt="gopass" src="https://img.shields.io/github/stars/gopasspw/gopass?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="KubeVela" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-kubevela.png" /></td>
+        <td>Infrastructure</td>
+        <td>Go</td>
+        <td><a href="https://kubevela.io" target="_blank">KubeVela</a></td>
+        <td>The Modern Application Platform.</td>
+        <th><a href="https://github.com/kubevela/kubevela" target="_blank"><img alt="KubeVela" src="https://img.shields.io/github/stars/kubevela/kubevela?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Smallstep" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-certificates.png" /></td>
+        <td>Security</td>
+        <td>Go</td>
+        <td><a href="https://smallstep.com/certificates" target="_blank">Smallstep</a></td>
+        <td><g-emoji class="g-emoji" alias="shield" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f6e1.png">?️</g-emoji> A private certificate authority (X.509 &amp; SSH) &amp; ACME server for secure automated certificate management, so you can use TLS everywhere &amp; SSO for SSH.</td>
+        <th><a href="https://github.com/smallstep/certificates" target="_blank"><img alt="Smallstep" src="https://img.shields.io/github/stars/smallstep/certificates?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Ferret Fact Service" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-ferret.png" /></td>
+        <td>Analytics</td>
+        <td>Go</td>
+        <td><a href="https://www.montferret.dev/" target="_blank">Ferret Fact Service</a></td>
+        <td>Declarative web scraping</td>
+        <th><a href="https://github.com/MontFerret/ferret" target="_blank"><img alt="Ferret Fact Service" src="https://img.shields.io/github/stars/MontFerret/ferret?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Fn Project" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-fn.png" /></td>
+        <td>Infrastructure</td>
+        <td>Go</td>
+        <td><a href="http://fnproject.io" target="_blank">Fn Project</a></td>
+        <td>The container native, cloud agnostic serverless platform.</td>
+        <th><a href="https://github.com/fnproject/fn" target="_blank"><img alt="Fn Project" src="https://img.shields.io/github/stars/fnproject/fn?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Tendermint" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-tendermint.png" /></td>
+        <td>Infrastructure</td>
+        <td>Go</td>
+        <td><a href="https://tendermint.com/" target="_blank">Tendermint</a></td>
+        <td>⟁ Tendermint Core (BFT Consensus) in Go</td>
+        <th><a href="https://github.com/tendermint/tendermint" target="_blank"><img alt="Tendermint" src="https://img.shields.io/github/stars/tendermint/tendermint?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="The Lura Project" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-lura.png" /></td>
+        <td>Infrastructure</td>
+        <td>Go</td>
+        <td><a href="https://luraproject.org" target="_blank">The Lura Project</a></td>
+        <td>Ultra performant API Gateway with middlewares. A project hosted at The Linux Foundation</td>
+        <th><a href="https://github.com/luraproject/lura" target="_blank"><img alt="The Lura Project" src="https://img.shields.io/github/stars/luraproject/lura?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Krew" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-krew.png" /></td>
+        <td>Productivity</td>
+        <td>Go</td>
+        <td><a href="https://krew.sigs.k8s.io" target="_blank">Krew</a></td>
+        <td><g-emoji class="g-emoji" alias="package" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4e6.png">?</g-emoji> Find and install kubectl plugins</td>
+        <th><a href="https://github.com/kubernetes-sigs/krew" target="_blank"><img alt="Krew" src="https://img.shields.io/github/stars/kubernetes-sigs/krew?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Hysteria" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-hysteria.png" /></td>
+        <td>Infrastructure</td>
+        <td>Go</td>
+        <td><a href="https://hysteria.network" target="_blank">Hysteria</a></td>
+        <td>Hysteria is a feature-packed proxy &amp; relay tool optimized for lossy, unstable connections (e.g. satellite networks, congested public Wi-Fi, connecting to foreign servers from China)</td>
+        <th><a href="https://github.com/apernet/hysteria" target="_blank"><img alt="Hysteria" src="https://img.shields.io/github/stars/apernet/hysteria?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Hover" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-go-flutter.png" /></td>
+        <td>Infrastructure</td>
+        <td>Go</td>
+        <td><a href="https://hover.build/" target="_blank">Hover</a></td>
+        <td>Flutter on Windows, MacOS and Linux - based on Flutter Embedding, Go and GLFW.</td>
+        <th><a href="https://github.com/go-flutter-desktop/go-flutter" target="_blank"><img alt="Hover" src="https://img.shields.io/github/stars/go-flutter-desktop/go-flutter?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Cloudflare Zero Trust" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-cloudflared.jpg" /></td>
+        <td>Infrastructure</td>
+        <td>Go</td>
+        <td><a href="https://developers.cloudflare.com/cloudflare-one/connections/connect-apps/install-and-setup/tunnel-guide" target="_blank">Cloudflare Zero Trust</a></td>
+        <td>Cloudflare Tunnel client (formerly Argo Tunnel)</td>
+        <th><a href="https://github.com/cloudflare/cloudflared" target="_blank"><img alt="Cloudflare Zero Trust" src="https://img.shields.io/github/stars/cloudflare/cloudflared?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="/en" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-kubeedge.png" /></td>
+        <td>Infrastructure</td>
+        <td>Go</td>
+        <td><a href="https://kubeedge.io" target="_blank">/en</a></td>
+        <td>Kubernetes Native Edge Computing Framework (project under CNCF)</td>
+        <th><a href="https://github.com/kubeedge/kubeedge" target="_blank"><img alt="/en" src="https://img.shields.io/github/stars/kubeedge/kubeedge?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="CloudWeGo" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-kitex.png" /></td>
+        <td>Infrastructure</td>
+        <td>Go</td>
+        <td><a href="https://www.cloudwego.io" target="_blank">CloudWeGo</a></td>
+        <td>Go RPC framework with high-performance and strong-extensibility for building micro-services.</td>
+        <th><a href="https://github.com/cloudwego/kitex" target="_blank"><img alt="CloudWeGo" src="https://img.shields.io/github/stars/cloudwego/kitex?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Pachyderm" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-pachyderm.png" /></td>
+        <td>Infrastructure</td>
+        <td>Go</td>
+        <td><a href="https://www.pachyderm.com/" target="_blank">Pachyderm</a></td>
+        <td>Data-Centric Pipelines and Data Versioning</td>
+        <th><a href="https://github.com/pachyderm/pachyderm" target="_blank"><img alt="Pachyderm" src="https://img.shields.io/github/stars/pachyderm/pachyderm?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Yao App Engine" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-yao.png" /></td>
+        <td>Productivity</td>
+        <td>Go</td>
+        <td><a href="https://yaoapps.com" target="_blank">Yao App Engine</a></td>
+        <td><g-emoji class="g-emoji" alias="rocket" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f680.png">?</g-emoji> A performance app engine to create web services and applications in minutes.Suitable for AI, IoT, Industrial Internet, Connected Vehicles, DevOps, Energy, Finance and many other use-cases.</td>
+        <th><a href="https://github.com/YaoApp/yao" target="_blank"><img alt="Yao App Engine" src="https://img.shields.io/github/stars/YaoApp/yao?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Casdoor" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-casdoor.png" /></td>
+        <td>Security</td>
+        <td>Go</td>
+        <td><a href="https://casdoor.org" target="_blank">Casdoor</a></td>
+        <td>An open-source Identity and Access Management (IAM) / Single-Sign-On (SSO) platform powered by Casbin and AI gateway with web UI supporting OAuth 2.0, OIDC, SAML and OpenAI ChatGPT</td>
+        <th><a href="https://github.com/casdoor/casdoor" target="_blank"><img alt="Casdoor" src="https://img.shields.io/github/stars/casdoor/casdoor?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Atlantis" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-atlantis.png" /></td>
+        <td>Collaboration</td>
+        <td>Go</td>
+        <td><a href="https://www.runatlantis.io" target="_blank">Atlantis</a></td>
+        <td>Terraform Pull Request Automation</td>
+        <th><a href="https://github.com/runatlantis/atlantis" target="_blank"><img alt="Atlantis" src="https://img.shields.io/github/stars/runatlantis/atlantis?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Ansible Semaphore" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-semaphore.png" /></td>
+        <td>Infrastructure</td>
+        <td>Go</td>
+        <td><a href="https://ansible-semaphore.com" target="_blank">Ansible Semaphore</a></td>
+        <td>Modern UI for Ansible</td>
+        <th><a href="https://github.com/ansible-semaphore/semaphore" target="_blank"><img alt="Ansible Semaphore" src="https://img.shields.io/github/stars/ansible-semaphore/semaphore?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Benthos" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-benthos.png" /></td>
+        <td>Observability</td>
+        <td>Go</td>
+        <td><a href="https://www.benthos.dev" target="_blank">Benthos</a></td>
+        <td>Fancy stream processing made operationally mundane</td>
+        <th><a href="https://github.com/benthosdev/benthos" target="_blank"><img alt="Benthos" src="https://img.shields.io/github/stars/benthosdev/benthos?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="alda.io" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-alda-1.png" /></td>
+        <td>Productivity</td>
+        <td>Go</td>
+        <td><a href="https://alda.io" target="_blank">alda.io</a></td>
+        <td>A music programming language for musicians. <g-emoji class="g-emoji" alias="notes" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f3b6.png">?</g-emoji></td>
+        <th><a href="https://github.com/alda-lang/alda" target="_blank"><img alt="alda.io" src="https://img.shields.io/github/stars/alda-lang/alda?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="manifoldco/promptui" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-promptui-1.png" /></td>
+        <td>Productivity</td>
+        <td>Go</td>
+        <td><a href="https://www.manifold.co" target="_blank">manifoldco/promptui</a></td>
+        <td>Interactive prompt for command-line applications</td>
+        <th><a href="https://github.com/manifoldco/promptui" target="_blank"><img alt="manifoldco/promptui" src="https://img.shields.io/github/stars/manifoldco/promptui?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="yaegi package" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-yaegi-1.png" /></td>
+        <td>Infrastructure</td>
+        <td>Go</td>
+        <td><a href="https://pkg.go.dev/github.com/traefik/yaegi" target="_blank">yaegi package</a></td>
+        <td>Yaegi is Another Elegant Go Interpreter</td>
+        <th><a href="https://github.com/traefik/yaegi" target="_blank"><img alt="yaegi package" src="https://img.shields.io/github/stars/traefik/yaegi?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="MetalLB" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-metallb-1.png" /></td>
+        <td>Infrastructure</td>
+        <td>Go</td>
+        <td><a href="https://metallb.universe.tf" target="_blank">MetalLB</a></td>
+        <td>A network load-balancer implementation for Kubernetes using standard routing protocols</td>
+        <th><a href="https://github.com/metallb/metallb" target="_blank"><img alt="MetalLB" src="https://img.shields.io/github/stars/metallb/metallb?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="BFE" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-bfe-1.png" /></td>
+        <td>Infrastructure</td>
+        <td>Go</td>
+        <td><a href="https://www.bfe-networks.net" target="_blank">BFE</a></td>
+        <td>A modern layer 7 load balancer from baidu</td>
+        <th><a href="https://github.com/bfenetworks/bfe" target="_blank"><img alt="BFE" src="https://img.shields.io/github/stars/bfenetworks/bfe?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="aquasecurity/tfsec" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-tfsec-1.png" /></td>
+        <td>Security</td>
+        <td>Go</td>
+        <td><a href="https://aquasecurity.github.io/tfsec" target="_blank">aquasecurity/tfsec</a></td>
+        <td>Security scanner for your Terraform code</td>
+        <th><a href="https://github.com/aquasecurity/tfsec" target="_blank"><img alt="aquasecurity/tfsec" src="https://img.shields.io/github/stars/aquasecurity/tfsec?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Stash" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-stash.jpg" /></td>
+        <td>Miscellaneous</td>
+        <td>Go</td>
+        <td><a href="https://stashapp.cc/" target="_blank">Stash</a></td>
+        <td>An organizer for your porn, written in Go. Documentation: https://docs.stashapp.cc</td>
+        <th><a href="https://github.com/stashapp/stash" target="_blank"><img alt="Stash" src="https://img.shields.io/github/stars/stashapp/stash?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Miniflux" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-v2-2.png" /></td>
+        <td>Productivity</td>
+        <td>Go</td>
+        <td><a href="https://miniflux.app" target="_blank">Miniflux</a></td>
+        <td>Minimalist and opinionated feed reader</td>
+        <th><a href="https://github.com/miniflux/v2" target="_blank"><img alt="Miniflux" src="https://img.shields.io/github/stars/miniflux/v2?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="QOR5" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-qor-2.png" /></td>
+        <td>Productivity</td>
+        <td>Go</td>
+        <td><a href="http://getqor.com/" target="_blank">QOR5</a></td>
+        <td>QOR is a set of libraries written in Go that abstracts common features needed for business applications, CMSs, and E-commerce systems.</td>
+        <th><a href="https://github.com/qor/qor" target="_blank"><img alt="QOR5" src="https://img.shields.io/github/stars/qor/qor?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Agones" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-agones-2.png" /></td>
+        <td>Infrastructure</td>
+        <td>Go</td>
+        <td><a href="https://agones.dev" target="_blank">Agones</a></td>
+        <td>Dedicated Game Server Hosting and Scaling for Multiplayer Games on Kubernetes</td>
+        <th><a href="https://github.com/googleforgames/agones" target="_blank"><img alt="Agones" src="https://img.shields.io/github/stars/googleforgames/agones?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="ChaosBlade" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-chaosblade-2.jpg" /></td>
+        <td>Observability</td>
+        <td>Go</td>
+        <td><a href="https://chaosblade.io" target="_blank">ChaosBlade</a></td>
+        <td>An easy to use and powerful chaos engineering experiment toolkit.（阿里巴巴开源的一款简单易用、功能强大的混沌实验注入工具）</td>
+        <th><a href="https://github.com/chaosblade-io/chaosblade" target="_blank"><img alt="ChaosBlade" src="https://img.shields.io/github/stars/chaosblade-io/chaosblade?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Easy Go Containers" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-ko-1.png" /></td>
+        <td>Infrastructure</td>
+        <td>Go</td>
+        <td><a href="https://ko.build" target="_blank">Easy Go Containers</a></td>
+        <td>Build and deploy Go applications</td>
+        <th><a href="https://github.com/ko-build/ko" target="_blank"><img alt="Easy Go Containers" src="https://img.shields.io/github/stars/ko-build/ko?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="ThreeDotsLabs/watermill" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-watermill.png" /></td>
+        <td>Infrastructure</td>
+        <td>Go</td>
+        <td><a href="https://watermill.io" target="_blank">ThreeDotsLabs/watermill</a></td>
+        <td>Building event-driven applications the easy way in Go.</td>
+        <th><a href="https://github.com/ThreeDotsLabs/watermill" target="_blank"><img alt="ThreeDotsLabs/watermill" src="https://img.shields.io/github/stars/ThreeDotsLabs/watermill?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Cerbos" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-cerbos.png" /></td>
+        <td>Infrastructure</td>
+        <td>Go</td>
+        <td><a href="https://cerbos.dev" target="_blank">Cerbos</a></td>
+        <td>Cerbos is the open core, language-agnostic, scalable authorization solution that makes user permissions and authorization simple to implement and manage by writing context-aware access control poli…</td>
+        <th><a href="https://github.com/cerbos/cerbos" target="_blank"><img alt="Cerbos" src="https://img.shields.io/github/stars/cerbos/cerbos?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="ZITADEL" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-zitadel-1.png" /></td>
+        <td>Infrastructure</td>
+        <td>Go</td>
+        <td><a href="https://zitadel.com" target="_blank">ZITADEL</a></td>
+        <td>ZITADEL - The best of Auth0 and Keycloak combined. Built for the serverless era.</td>
+        <th><a href="https://github.com/zitadel/zitadel" target="_blank"><img alt="ZITADEL" src="https://img.shields.io/github/stars/zitadel/zitadel?style=social" /></a></th>
+    </tr>
+
+</table>
+
+<br /><br />
 <h2 id="python">Top 20 Python libraries</h2>
 <table>
     <tr>
@@ -4739,308 +5065,6 @@
         <td><a href="https://esphome.io/" target="_blank">ESPHome</a></td>
         <td>ESPHome is a system to control your ESP8266/ESP32 by simple yet powerful configuration files and control them remotely through Home Automation systems.</td>
         <th><a href="https://github.com/esphome/esphome" target="_blank"><img alt="ESPHome" src="https://img.shields.io/github/stars/esphome/esphome?style=social" /></a></th>
-    </tr>
-
-</table>
-
-<br /><br />
-<h2 id="go">Top 20 Go libraries</h2>
-<table>
-    <tr>
-        <th>Icon</th>
-        <th>Category</th>
-        <th>Language</th>
-        <th>Name</th>
-        <th>Description</th>
-        <th>Stargazers</th>
-    </tr>
-        <tr>
-        <td nowrap="nowrap"><img width="33" alt="Elvish Shell" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-elvish.jpg" /></td>
-        <td>Productivity</td>
-        <td>Go</td>
-        <td><a href="https://elv.sh/" target="_blank">Elvish Shell</a></td>
-        <td>Elvish = Expressive Programming Language + Versatile Interactive Shell</td>
-        <th><a href="https://github.com/elves/elvish" target="_blank"><img alt="Elvish Shell" src="https://img.shields.io/github/stars/elves/elvish?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Cosmos: The Internet of Blockchains" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-cosmos-sdk.png" /></td>
-        <td>Infrastructure</td>
-        <td>Go</td>
-        <td><a href="https://cosmos.network/" target="_blank">Cosmos: The Internet of Blockchains</a></td>
-        <td><g-emoji class="g-emoji" alias="chains" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/26d3.png">⛓️</g-emoji> A Framework for Building High Value Public Blockchains <g-emoji class="g-emoji" alias="sparkles" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2728.png">✨</g-emoji></td>
-        <th><a href="https://github.com/cosmos/cosmos-sdk" target="_blank"><img alt="Cosmos: The Internet of Blockchains" src="https://img.shields.io/github/stars/cosmos/cosmos-sdk?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="gopass" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-gopass.png" /></td>
-        <td>Security</td>
-        <td>Go</td>
-        <td><a href="https://www.gopass.pw/" target="_blank">gopass</a></td>
-        <td>The slightly more awesome standard unix password manager for teams</td>
-        <th><a href="https://github.com/gopasspw/gopass" target="_blank"><img alt="gopass" src="https://img.shields.io/github/stars/gopasspw/gopass?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="KubeVela" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-kubevela.png" /></td>
-        <td>Infrastructure</td>
-        <td>Go</td>
-        <td><a href="https://kubevela.io" target="_blank">KubeVela</a></td>
-        <td>The Modern Application Platform.</td>
-        <th><a href="https://github.com/kubevela/kubevela" target="_blank"><img alt="KubeVela" src="https://img.shields.io/github/stars/kubevela/kubevela?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Smallstep" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-certificates.png" /></td>
-        <td>Security</td>
-        <td>Go</td>
-        <td><a href="https://smallstep.com/certificates" target="_blank">Smallstep</a></td>
-        <td><g-emoji class="g-emoji" alias="shield" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f6e1.png">?️</g-emoji> A private certificate authority (X.509 &amp; SSH) &amp; ACME server for secure automated certificate management, so you can use TLS everywhere &amp; SSO for SSH.</td>
-        <th><a href="https://github.com/smallstep/certificates" target="_blank"><img alt="Smallstep" src="https://img.shields.io/github/stars/smallstep/certificates?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Ferret Fact Service" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-ferret.png" /></td>
-        <td>Analytics</td>
-        <td>Go</td>
-        <td><a href="https://www.montferret.dev/" target="_blank">Ferret Fact Service</a></td>
-        <td>Declarative web scraping</td>
-        <th><a href="https://github.com/MontFerret/ferret" target="_blank"><img alt="Ferret Fact Service" src="https://img.shields.io/github/stars/MontFerret/ferret?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Fn Project" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-fn.png" /></td>
-        <td>Infrastructure</td>
-        <td>Go</td>
-        <td><a href="http://fnproject.io" target="_blank">Fn Project</a></td>
-        <td>The container native, cloud agnostic serverless platform.</td>
-        <th><a href="https://github.com/fnproject/fn" target="_blank"><img alt="Fn Project" src="https://img.shields.io/github/stars/fnproject/fn?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Tendermint" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-tendermint.png" /></td>
-        <td>Infrastructure</td>
-        <td>Go</td>
-        <td><a href="https://tendermint.com/" target="_blank">Tendermint</a></td>
-        <td>⟁ Tendermint Core (BFT Consensus) in Go</td>
-        <th><a href="https://github.com/tendermint/tendermint" target="_blank"><img alt="Tendermint" src="https://img.shields.io/github/stars/tendermint/tendermint?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="The Lura Project" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-lura.png" /></td>
-        <td>Infrastructure</td>
-        <td>Go</td>
-        <td><a href="https://luraproject.org" target="_blank">The Lura Project</a></td>
-        <td>Ultra performant API Gateway with middlewares. A project hosted at The Linux Foundation</td>
-        <th><a href="https://github.com/luraproject/lura" target="_blank"><img alt="The Lura Project" src="https://img.shields.io/github/stars/luraproject/lura?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Krew" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-krew.png" /></td>
-        <td>Productivity</td>
-        <td>Go</td>
-        <td><a href="https://krew.sigs.k8s.io" target="_blank">Krew</a></td>
-        <td><g-emoji class="g-emoji" alias="package" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4e6.png">?</g-emoji> Find and install kubectl plugins</td>
-        <th><a href="https://github.com/kubernetes-sigs/krew" target="_blank"><img alt="Krew" src="https://img.shields.io/github/stars/kubernetes-sigs/krew?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Hysteria" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-hysteria.png" /></td>
-        <td>Infrastructure</td>
-        <td>Go</td>
-        <td><a href="https://hysteria.network" target="_blank">Hysteria</a></td>
-        <td>Hysteria is a feature-packed proxy &amp; relay tool optimized for lossy, unstable connections (e.g. satellite networks, congested public Wi-Fi, connecting to foreign servers from China)</td>
-        <th><a href="https://github.com/apernet/hysteria" target="_blank"><img alt="Hysteria" src="https://img.shields.io/github/stars/apernet/hysteria?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Hover" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-go-flutter.png" /></td>
-        <td>Infrastructure</td>
-        <td>Go</td>
-        <td><a href="https://hover.build/" target="_blank">Hover</a></td>
-        <td>Flutter on Windows, MacOS and Linux - based on Flutter Embedding, Go and GLFW.</td>
-        <th><a href="https://github.com/go-flutter-desktop/go-flutter" target="_blank"><img alt="Hover" src="https://img.shields.io/github/stars/go-flutter-desktop/go-flutter?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Cloudflare Zero Trust" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-cloudflared.jpg" /></td>
-        <td>Infrastructure</td>
-        <td>Go</td>
-        <td><a href="https://developers.cloudflare.com/cloudflare-one/connections/connect-apps/install-and-setup/tunnel-guide" target="_blank">Cloudflare Zero Trust</a></td>
-        <td>Cloudflare Tunnel client (formerly Argo Tunnel)</td>
-        <th><a href="https://github.com/cloudflare/cloudflared" target="_blank"><img alt="Cloudflare Zero Trust" src="https://img.shields.io/github/stars/cloudflare/cloudflared?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="/en" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-kubeedge.png" /></td>
-        <td>Infrastructure</td>
-        <td>Go</td>
-        <td><a href="https://kubeedge.io" target="_blank">/en</a></td>
-        <td>Kubernetes Native Edge Computing Framework (project under CNCF)</td>
-        <th><a href="https://github.com/kubeedge/kubeedge" target="_blank"><img alt="/en" src="https://img.shields.io/github/stars/kubeedge/kubeedge?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="CloudWeGo" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-kitex.png" /></td>
-        <td>Infrastructure</td>
-        <td>Go</td>
-        <td><a href="https://www.cloudwego.io" target="_blank">CloudWeGo</a></td>
-        <td>Go RPC framework with high-performance and strong-extensibility for building micro-services.</td>
-        <th><a href="https://github.com/cloudwego/kitex" target="_blank"><img alt="CloudWeGo" src="https://img.shields.io/github/stars/cloudwego/kitex?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Pachyderm" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-pachyderm.png" /></td>
-        <td>Infrastructure</td>
-        <td>Go</td>
-        <td><a href="https://www.pachyderm.com/" target="_blank">Pachyderm</a></td>
-        <td>Data-Centric Pipelines and Data Versioning</td>
-        <th><a href="https://github.com/pachyderm/pachyderm" target="_blank"><img alt="Pachyderm" src="https://img.shields.io/github/stars/pachyderm/pachyderm?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Yao App Engine" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-yao.png" /></td>
-        <td>Productivity</td>
-        <td>Go</td>
-        <td><a href="https://yaoapps.com" target="_blank">Yao App Engine</a></td>
-        <td><g-emoji class="g-emoji" alias="rocket" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f680.png">?</g-emoji> A performance app engine to create web services and applications in minutes.Suitable for AI, IoT, Industrial Internet, Connected Vehicles, DevOps, Energy, Finance and many other use-cases.</td>
-        <th><a href="https://github.com/YaoApp/yao" target="_blank"><img alt="Yao App Engine" src="https://img.shields.io/github/stars/YaoApp/yao?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Casdoor" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-casdoor.png" /></td>
-        <td>Security</td>
-        <td>Go</td>
-        <td><a href="https://casdoor.org" target="_blank">Casdoor</a></td>
-        <td>An open-source Identity and Access Management (IAM) / Single-Sign-On (SSO) platform powered by Casbin and AI gateway with web UI supporting OAuth 2.0, OIDC, SAML and OpenAI ChatGPT</td>
-        <th><a href="https://github.com/casdoor/casdoor" target="_blank"><img alt="Casdoor" src="https://img.shields.io/github/stars/casdoor/casdoor?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Atlantis" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-atlantis.png" /></td>
-        <td>Collaboration</td>
-        <td>Go</td>
-        <td><a href="https://www.runatlantis.io" target="_blank">Atlantis</a></td>
-        <td>Terraform Pull Request Automation</td>
-        <th><a href="https://github.com/runatlantis/atlantis" target="_blank"><img alt="Atlantis" src="https://img.shields.io/github/stars/runatlantis/atlantis?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Ansible Semaphore" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-semaphore.png" /></td>
-        <td>Infrastructure</td>
-        <td>Go</td>
-        <td><a href="https://ansible-semaphore.com" target="_blank">Ansible Semaphore</a></td>
-        <td>Modern UI for Ansible</td>
-        <th><a href="https://github.com/ansible-semaphore/semaphore" target="_blank"><img alt="Ansible Semaphore" src="https://img.shields.io/github/stars/ansible-semaphore/semaphore?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Benthos" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-benthos.png" /></td>
-        <td>Observability</td>
-        <td>Go</td>
-        <td><a href="https://www.benthos.dev" target="_blank">Benthos</a></td>
-        <td>Fancy stream processing made operationally mundane</td>
-        <th><a href="https://github.com/benthosdev/benthos" target="_blank"><img alt="Benthos" src="https://img.shields.io/github/stars/benthosdev/benthos?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="alda.io" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-alda-1.png" /></td>
-        <td>Productivity</td>
-        <td>Go</td>
-        <td><a href="https://alda.io" target="_blank">alda.io</a></td>
-        <td>A music programming language for musicians. <g-emoji class="g-emoji" alias="notes" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f3b6.png">?</g-emoji></td>
-        <th><a href="https://github.com/alda-lang/alda" target="_blank"><img alt="alda.io" src="https://img.shields.io/github/stars/alda-lang/alda?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="manifoldco/promptui" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-promptui-1.png" /></td>
-        <td>Productivity</td>
-        <td>Go</td>
-        <td><a href="https://www.manifold.co" target="_blank">manifoldco/promptui</a></td>
-        <td>Interactive prompt for command-line applications</td>
-        <th><a href="https://github.com/manifoldco/promptui" target="_blank"><img alt="manifoldco/promptui" src="https://img.shields.io/github/stars/manifoldco/promptui?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="yaegi package" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-yaegi-1.png" /></td>
-        <td>Infrastructure</td>
-        <td>Go</td>
-        <td><a href="https://pkg.go.dev/github.com/traefik/yaegi" target="_blank">yaegi package</a></td>
-        <td>Yaegi is Another Elegant Go Interpreter</td>
-        <th><a href="https://github.com/traefik/yaegi" target="_blank"><img alt="yaegi package" src="https://img.shields.io/github/stars/traefik/yaegi?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="MetalLB" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-metallb-1.png" /></td>
-        <td>Infrastructure</td>
-        <td>Go</td>
-        <td><a href="https://metallb.universe.tf" target="_blank">MetalLB</a></td>
-        <td>A network load-balancer implementation for Kubernetes using standard routing protocols</td>
-        <th><a href="https://github.com/metallb/metallb" target="_blank"><img alt="MetalLB" src="https://img.shields.io/github/stars/metallb/metallb?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="BFE" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-bfe-1.png" /></td>
-        <td>Infrastructure</td>
-        <td>Go</td>
-        <td><a href="https://www.bfe-networks.net" target="_blank">BFE</a></td>
-        <td>A modern layer 7 load balancer from baidu</td>
-        <th><a href="https://github.com/bfenetworks/bfe" target="_blank"><img alt="BFE" src="https://img.shields.io/github/stars/bfenetworks/bfe?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="aquasecurity/tfsec" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-tfsec-1.png" /></td>
-        <td>Security</td>
-        <td>Go</td>
-        <td><a href="https://aquasecurity.github.io/tfsec" target="_blank">aquasecurity/tfsec</a></td>
-        <td>Security scanner for your Terraform code</td>
-        <th><a href="https://github.com/aquasecurity/tfsec" target="_blank"><img alt="aquasecurity/tfsec" src="https://img.shields.io/github/stars/aquasecurity/tfsec?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Stash" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-stash.jpg" /></td>
-        <td>Miscellaneous</td>
-        <td>Go</td>
-        <td><a href="https://stashapp.cc/" target="_blank">Stash</a></td>
-        <td>An organizer for your porn, written in Go. Documentation: https://docs.stashapp.cc</td>
-        <th><a href="https://github.com/stashapp/stash" target="_blank"><img alt="Stash" src="https://img.shields.io/github/stars/stashapp/stash?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Miniflux" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-v2-2.png" /></td>
-        <td>Productivity</td>
-        <td>Go</td>
-        <td><a href="https://miniflux.app" target="_blank">Miniflux</a></td>
-        <td>Minimalist and opinionated feed reader</td>
-        <th><a href="https://github.com/miniflux/v2" target="_blank"><img alt="Miniflux" src="https://img.shields.io/github/stars/miniflux/v2?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="QOR5" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-qor-2.png" /></td>
-        <td>Productivity</td>
-        <td>Go</td>
-        <td><a href="http://getqor.com/" target="_blank">QOR5</a></td>
-        <td>QOR is a set of libraries written in Go that abstracts common features needed for business applications, CMSs, and E-commerce systems.</td>
-        <th><a href="https://github.com/qor/qor" target="_blank"><img alt="QOR5" src="https://img.shields.io/github/stars/qor/qor?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Agones" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-agones-2.png" /></td>
-        <td>Infrastructure</td>
-        <td>Go</td>
-        <td><a href="https://agones.dev" target="_blank">Agones</a></td>
-        <td>Dedicated Game Server Hosting and Scaling for Multiplayer Games on Kubernetes</td>
-        <th><a href="https://github.com/googleforgames/agones" target="_blank"><img alt="Agones" src="https://img.shields.io/github/stars/googleforgames/agones?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="ChaosBlade" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-chaosblade-2.jpg" /></td>
-        <td>Observability</td>
-        <td>Go</td>
-        <td><a href="https://chaosblade.io" target="_blank">ChaosBlade</a></td>
-        <td>An easy to use and powerful chaos engineering experiment toolkit.（阿里巴巴开源的一款简单易用、功能强大的混沌实验注入工具）</td>
-        <th><a href="https://github.com/chaosblade-io/chaosblade" target="_blank"><img alt="ChaosBlade" src="https://img.shields.io/github/stars/chaosblade-io/chaosblade?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Easy Go Containers" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-ko-1.png" /></td>
-        <td>Infrastructure</td>
-        <td>Go</td>
-        <td><a href="https://ko.build" target="_blank">Easy Go Containers</a></td>
-        <td>Build and deploy Go applications</td>
-        <th><a href="https://github.com/ko-build/ko" target="_blank"><img alt="Easy Go Containers" src="https://img.shields.io/github/stars/ko-build/ko?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="ThreeDotsLabs/watermill" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-watermill.png" /></td>
-        <td>Infrastructure</td>
-        <td>Go</td>
-        <td><a href="https://watermill.io" target="_blank">ThreeDotsLabs/watermill</a></td>
-        <td>Building event-driven applications the easy way in Go.</td>
-        <th><a href="https://github.com/ThreeDotsLabs/watermill" target="_blank"><img alt="ThreeDotsLabs/watermill" src="https://img.shields.io/github/stars/ThreeDotsLabs/watermill?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Cerbos" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-cerbos.png" /></td>
-        <td>Infrastructure</td>
-        <td>Go</td>
-        <td><a href="https://cerbos.dev" target="_blank">Cerbos</a></td>
-        <td>Cerbos is the open core, language-agnostic, scalable authorization solution that makes user permissions and authorization simple to implement and manage by writing context-aware access control poli…</td>
-        <th><a href="https://github.com/cerbos/cerbos" target="_blank"><img alt="Cerbos" src="https://img.shields.io/github/stars/cerbos/cerbos?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="ZITADEL" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-zitadel-1.png" /></td>
-        <td>Infrastructure</td>
-        <td>Go</td>
-        <td><a href="https://zitadel.com" target="_blank">ZITADEL</a></td>
-        <td>ZITADEL - The best of Auth0 and Keycloak combined. Built for the serverless era.</td>
-        <th><a href="https://github.com/zitadel/zitadel" target="_blank"><img alt="ZITADEL" src="https://img.shields.io/github/stars/zitadel/zitadel?style=social" /></a></th>
     </tr>
 
 </table>
@@ -5767,12 +5791,12 @@
         <th><a href="https://github.com/sysprog21/lkmpg" target="_blank"><img alt="Linux Kernel Guide" src="https://img.shields.io/github/stars/sysprog21/lkmpg?style=social" /></a></th>
     </tr>
     <tr>
-        <td nowrap="nowrap"><img width="33" alt="README" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-Yet-Another-LaTeX-Template-for-NPU-Thesis.png" /></td>
+        <td nowrap="nowrap"><img width="33" alt="Thesis Template" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-Yet-Another-LaTeX-Template-for-NPU-Thesis.png" /></td>
         <td>Miscellaneous</td>
         <td>TeX</td>
-        <td><a href="https://nwpumetaphysicsoffice.github.io/Yet-Another-LaTeX-Template-for-NPU-Thesis/" target="_blank">README</a></td>
+        <td><a href="https://nwpumetaphysicsoffice.github.io/Yet-Another-LaTeX-Template-for-NPU-Thesis/" target="_blank">Thesis Template</a></td>
         <td>西北工业大学硕博学位论文模版 | Yet Another Thesis Template for Northwestern Polytechnical University</td>
-        <th><a href="https://github.com/NWPUMetaphysicsOffice/Yet-Another-LaTeX-Template-for-NPU-Thesis" target="_blank"><img alt="README" src="https://img.shields.io/github/stars/NWPUMetaphysicsOffice/Yet-Another-LaTeX-Template-for-NPU-Thesis?style=social" /></a></th>
+        <th><a href="https://github.com/NWPUMetaphysicsOffice/Yet-Another-LaTeX-Template-for-NPU-Thesis" target="_blank"><img alt="Thesis Template" src="https://img.shields.io/github/stars/NWPUMetaphysicsOffice/Yet-Another-LaTeX-Template-for-NPU-Thesis?style=social" /></a></th>
     </tr>
 
 </table>
