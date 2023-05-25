@@ -40,9 +40,9 @@
                       <li>
                 <a href="#typescript">Top 20 TypeScript libraries</a>
              </li>          <li>
-                <a href="#lua">Top 20 Lua libraries</a>
-             </li>          <li>
                 <a href="#dart">Top 20 Dart libraries</a>
+             </li>          <li>
+                <a href="#lua">Top 20 Lua libraries</a>
              </li>          <li>
                 <a href="#java">Top 20 Java libraries</a>
              </li>          <li>
@@ -158,6 +158,22 @@
         <th><a href="https://github.com/maxday/lambda-perf" target="_blank"><img alt="lambda-perf" src="https://img.shields.io/github/stars/maxday/lambda-perf?style=social" /></a></th>
     </tr>
     <tr>
+        <td nowrap="nowrap"><img width="33" alt="group_button" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-group_button.jpg" /></td>
+        <td>Infrastructure</td>
+        <td>Dart</td>
+        <td><a href="https://pub.dev/packages/group_button" target="_blank">group_button</a></td>
+        <td><g-emoji class="g-emoji" alias="sweat_drops" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4a6.png">?</g-emoji> Flutter custom widget to make a group buttons. Included Radio and CheckBox buttons.</td>
+        <th><a href="https://github.com/Frezyx/group_button" target="_blank"><img alt="group_button" src="https://img.shields.io/github/stars/Frezyx/group_button?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="sidebarx" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-sidebarx.jpg" /></td>
+        <td>Infrastructure</td>
+        <td>Dart</td>
+        <td><a href="https://pub.dev/packages/sidebarx" target="_blank">sidebarx</a></td>
+        <td>Flutter multiplatform navigation sidebar / side navigation bar / drawer widget</td>
+        <th><a href="https://github.com/Frezyx/sidebarx" target="_blank"><img alt="sidebarx" src="https://img.shields.io/github/stars/Frezyx/sidebarx?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="Preevy" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-preevy.png" /></td>
         <td>Productivity</td>
         <td>TypeScript</td>
@@ -230,20 +246,20 @@
         <th><a href="https://github.com/winglang/wing" target="_blank"><img alt="Wing Language" src="https://img.shields.io/github/stars/winglang/wing?style=social" /></a></th>
     </tr>
     <tr>
-        <td nowrap="nowrap"><img width="33" alt="Medusa" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-medusa.jpg" /></td>
-        <td>Miscellaneous</td>
-        <td>TypeScript</td>
-        <td><a href="https://medusajs.com" target="_blank">Medusa</a></td>
-        <td>Building blocks for digital commerce</td>
-        <th><a href="https://github.com/medusajs/medusa" target="_blank"><img alt="Medusa" src="https://img.shields.io/github/stars/medusajs/medusa?style=social" /></a></th>
-    </tr>
-    <tr>
         <td nowrap="nowrap"><img width="33" alt="Hanko" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-hanko.png" /></td>
         <td>Security</td>
         <td>TypeScript</td>
         <td><a href="https://hanko.io" target="_blank">Hanko</a></td>
         <td>Authentication and user management for the passkey era.</td>
         <th><a href="https://github.com/teamhanko/hanko" target="_blank"><img alt="Hanko" src="https://img.shields.io/github/stars/teamhanko/hanko?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Medusa" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-medusa.jpg" /></td>
+        <td>Miscellaneous</td>
+        <td>TypeScript</td>
+        <td><a href="https://medusajs.com" target="_blank">Medusa</a></td>
+        <td>Building blocks for digital commerce</td>
+        <th><a href="https://github.com/medusajs/medusa" target="_blank"><img alt="Medusa" src="https://img.shields.io/github/stars/medusajs/medusa?style=social" /></a></th>
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="Pusakatest" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-pusakatest.jpg" /></td>
@@ -276,22 +292,6 @@
         <td><a href="https://docsify.js.org" target="_blank">Docsify</a></td>
         <td><g-emoji class="g-emoji" alias="black_joker" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f0cf.png">?</g-emoji> A magical documentation site generator.</td>
         <th><a href="https://github.com/docsifyjs/docsify" target="_blank"><img alt="Docsify" src="https://img.shields.io/github/stars/docsifyjs/docsify?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Mustang" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-mustangproject.png" /></td>
-        <td>Miscellaneous</td>
-        <td>XSLT</td>
-        <td><a href="http://www.mustangproject.org" target="_blank">Mustang</a></td>
-        <td>Open Source Java e-Invoicing library, validator and tool (Factur-X/ZUGFeRD, UNCEFACT/CII XRechnung)</td>
-        <th><a href="https://github.com/ZUGFeRD/mustangproject" target="_blank"><img alt="Mustang" src="https://img.shields.io/github/stars/ZUGFeRD/mustangproject?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Org-roam" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-org-roam.png" /></td>
-        <td>Productivity</td>
-        <td>Emacs Lisp</td>
-        <td><a href="https://www.orgroam.com" target="_blank">Org-roam</a></td>
-        <td>Rudimentary Roam replica with Org-mode</td>
-        <th><a href="https://github.com/org-roam/org-roam" target="_blank"><img alt="Org-roam" src="https://img.shields.io/github/stars/org-roam/org-roam?style=social" /></a></th>
     </tr>
 
 </table>
@@ -341,12 +341,12 @@
         <th><a href="https://github.com/github-20k/super-star" target="_blank"><img alt="Github 20k" src="https://img.shields.io/github/stars/github-20k/super-star?style=social" /></a></th>
     </tr>
     <tr>
-        <td nowrap="nowrap"><img width="33" alt="GitHub Support" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-dmca.png" /></td>
-        <td>Miscellaneous</td>
-        <td>undefined</td>
-        <td><a href="http://help.github.com/dmca" target="_blank">GitHub Support</a></td>
-        <td>Repository with text of DMCA takedown notices as received. GitHub does not endorse or adopt any assertion contained in the following notices. Users identified in the notices are presumed innocent u…</td>
-        <th><a href="https://github.com/github/dmca" target="_blank"><img alt="GitHub Support" src="https://img.shields.io/github/stars/github/dmca?style=social" /></a></th>
+        <td nowrap="nowrap"><img width="33" alt="Talker" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-talker-1.jpg" /></td>
+        <td>Observability</td>
+        <td>Dart</td>
+        <td><a href="https://pub.dev/packages/talker" target="_blank">Talker</a></td>
+        <td><g-emoji class="g-emoji" alias="phone" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/260e.png">☎️</g-emoji> Advanced error handler and logger for dart and flutter apps</td>
+        <th><a href="https://github.com/Frezyx/talker" target="_blank"><img alt="Talker" src="https://img.shields.io/github/stars/Frezyx/talker?style=social" /></a></th>
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="awesome window manager" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-awesome.png" /></td>
@@ -357,12 +357,20 @@
         <th><a href="https://github.com/awesomeWM/awesome" target="_blank"><img alt="awesome window manager" src="https://img.shields.io/github/stars/awesomeWM/awesome?style=social" /></a></th>
     </tr>
     <tr>
-        <td nowrap="nowrap"><img width="33" alt="Talker" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-talker-1.jpg" /></td>
-        <td>Observability</td>
-        <td>Dart</td>
-        <td><a href="https://pub.dev/packages/talker" target="_blank">Talker</a></td>
-        <td><g-emoji class="g-emoji" alias="phone" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/260e.png">☎️</g-emoji> Advanced error handler and logger for dart and flutter apps</td>
-        <th><a href="https://github.com/Frezyx/talker" target="_blank"><img alt="Talker" src="https://img.shields.io/github/stars/Frezyx/talker?style=social" /></a></th>
+        <td nowrap="nowrap"><img width="33" alt="GitHub Support" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-dmca.png" /></td>
+        <td>Miscellaneous</td>
+        <td>undefined</td>
+        <td><a href="http://help.github.com/dmca" target="_blank">GitHub Support</a></td>
+        <td>Repository with text of DMCA takedown notices as received. GitHub does not endorse or adopt any assertion contained in the following notices. Users identified in the notices are presumed innocent u…</td>
+        <th><a href="https://github.com/github/dmca" target="_blank"><img alt="GitHub Support" src="https://img.shields.io/github/stars/github/dmca?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Hanko" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-hanko.png" /></td>
+        <td>Security</td>
+        <td>TypeScript</td>
+        <td><a href="https://hanko.io" target="_blank">Hanko</a></td>
+        <td>Authentication and user management for the passkey era.</td>
+        <th><a href="https://github.com/teamhanko/hanko" target="_blank"><img alt="Hanko" src="https://img.shields.io/github/stars/teamhanko/hanko?style=social" /></a></th>
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="JUnitorg." src="https://libraries.github20k.com/images/uploads/2023/05/newshot-junit5.png" /></td>
@@ -373,20 +381,36 @@
         <th><a href="https://github.com/junit-team/junit5" target="_blank"><img alt="JUnitorg." src="https://img.shields.io/github/stars/junit-team/junit5?style=social" /></a></th>
     </tr>
     <tr>
+        <td nowrap="nowrap"><img width="33" alt="Bitwarden" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-clients-1.png" /></td>
+        <td>Security</td>
+        <td>TypeScript</td>
+        <td><a href="https://bitwarden.com" target="_blank">Bitwarden</a></td>
+        <td>Bitwarden client applications (web, browser extension, desktop, and cli)</td>
+        <th><a href="https://github.com/bitwarden/clients" target="_blank"><img alt="Bitwarden" src="https://img.shields.io/github/stars/bitwarden/clients?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Appwrite" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-appwrite.png" /></td>
+        <td>Databases</td>
+        <td>TypeScript</td>
+        <td><a href="https://appwrite.io" target="_blank">Appwrite</a></td>
+        <td>Build Fast. Scale Big. All in One Place.</td>
+        <th><a href="https://github.com/appwrite/appwrite" target="_blank"><img alt="Appwrite" src="https://img.shields.io/github/stars/appwrite/appwrite?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Docusaurus" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-docusaurus.png" /></td>
+        <td>Productivity</td>
+        <td>TypeScript</td>
+        <td><a href="https://docusaurus.io" target="_blank">Docusaurus</a></td>
+        <td>Easy to maintain open source documentation websites.</td>
+        <th><a href="https://github.com/facebook/docusaurus" target="_blank"><img alt="Docusaurus" src="https://img.shields.io/github/stars/facebook/docusaurus?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="Medusa" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-medusa.jpg" /></td>
         <td>Miscellaneous</td>
         <td>TypeScript</td>
         <td><a href="https://medusajs.com" target="_blank">Medusa</a></td>
         <td>Building blocks for digital commerce</td>
         <th><a href="https://github.com/medusajs/medusa" target="_blank"><img alt="Medusa" src="https://img.shields.io/github/stars/medusajs/medusa?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Hanko" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-hanko.png" /></td>
-        <td>Security</td>
-        <td>TypeScript</td>
-        <td><a href="https://hanko.io" target="_blank">Hanko</a></td>
-        <td>Authentication and user management for the passkey era.</td>
-        <th><a href="https://github.com/teamhanko/hanko" target="_blank"><img alt="Hanko" src="https://img.shields.io/github/stars/teamhanko/hanko?style=social" /></a></th>
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="PHP Collections" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-map.png" /></td>
@@ -1084,30 +1108,6 @@
         <td>Flutter on Windows, MacOS and Linux - based on Flutter Embedding, Go and GLFW.</td>
         <th><a href="https://github.com/go-flutter-desktop/go-flutter" target="_blank"><img alt="Hover" src="https://img.shields.io/github/stars/go-flutter-desktop/go-flutter?style=social" /></a></th>
     </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Respect\Validation" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-Validation.png" /></td>
-        <td>Productivity</td>
-        <td>PHP</td>
-        <td><a href="https://respect-validation.readthedocs.io" target="_blank">Respect\Validation</a></td>
-        <td>The most awesome validation engine ever created for PHP</td>
-        <th><a href="https://github.com/Respect/Validation" target="_blank"><img alt="Respect\Validation" src="https://img.shields.io/github/stars/Respect/Validation?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="arkime/arkime" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-arkime.png" /></td>
-        <td>Infrastructure</td>
-        <td>JavaScript</td>
-        <td><a href="https://arkime.com" target="_blank">arkime/arkime</a></td>
-        <td>Arkime (formerly Moloch) is an open source, large scale, full packet capturing, indexing, and database system.</td>
-        <th><a href="https://github.com/arkime/arkime" target="_blank"><img alt="arkime/arkime" src="https://img.shields.io/github/stars/arkime/arkime?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="SteamVR" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-openvr.png" /></td>
-        <td>Infrastructure</td>
-        <td>C++</td>
-        <td><a href="http://steamvr.com" target="_blank">SteamVR</a></td>
-        <td>OpenVR SDK</td>
-        <th><a href="https://github.com/ValveSoftware/openvr" target="_blank"><img alt="SteamVR" src="https://img.shields.io/github/stars/ValveSoftware/openvr?style=social" /></a></th>
-    </tr>
 
 </table>
 
@@ -1124,20 +1124,20 @@
         <th>Stargazers</th>
     </tr>
         <tr>
-        <td nowrap="nowrap"><img width="33" alt="GitHub Support" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-dmca.png" /></td>
-        <td>Miscellaneous</td>
-        <td>undefined</td>
-        <td><a href="http://help.github.com/dmca" target="_blank">GitHub Support</a></td>
-        <td>Repository with text of DMCA takedown notices as received. GitHub does not endorse or adopt any assertion contained in the following notices. Users identified in the notices are presumed innocent u…</td>
-        <th><a href="https://github.com/github/dmca" target="_blank"><img alt="GitHub Support" src="https://img.shields.io/github/stars/github/dmca?style=social" /></a></th>
-    </tr>
-    <tr>
         <td nowrap="nowrap"><img width="33" alt="awesome window manager" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-awesome.png" /></td>
         <td>Miscellaneous</td>
         <td>Lua</td>
         <td><a href="https://awesomewm.org/" target="_blank">awesome window manager</a></td>
         <td>awesome window manager</td>
         <th><a href="https://github.com/awesomeWM/awesome" target="_blank"><img alt="awesome window manager" src="https://img.shields.io/github/stars/awesomeWM/awesome?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="GitHub Support" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-dmca.png" /></td>
+        <td>Miscellaneous</td>
+        <td>undefined</td>
+        <td><a href="http://help.github.com/dmca" target="_blank">GitHub Support</a></td>
+        <td>Repository with text of DMCA takedown notices as received. GitHub does not endorse or adopt any assertion contained in the following notices. Users identified in the notices are presumed innocent u…</td>
+        <th><a href="https://github.com/github/dmca" target="_blank"><img alt="GitHub Support" src="https://img.shields.io/github/stars/github/dmca?style=social" /></a></th>
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="Medusa" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-medusa.jpg" /></td>
@@ -1398,6 +1398,14 @@
         <td><a href="https://github20k.com" target="_blank">Github 20k</a></td>
         <td>The open-source course landing page <g-emoji class="g-emoji" alias="rocket" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f680.png">?</g-emoji><g-emoji class="g-emoji" alias="rocket" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f680.png">?</g-emoji><g-emoji class="g-emoji" alias="rocket" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f680.png">?</g-emoji></td>
         <th><a href="https://github.com/github-20k/super-star" target="_blank"><img alt="Github 20k" src="https://img.shields.io/github/stars/github-20k/super-star?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Docusaurus" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-docusaurus.png" /></td>
+        <td>Productivity</td>
+        <td>TypeScript</td>
+        <td><a href="https://docusaurus.io" target="_blank">Docusaurus</a></td>
+        <td>Easy to maintain open source documentation websites.</td>
+        <th><a href="https://github.com/facebook/docusaurus" target="_blank"><img alt="Docusaurus" src="https://img.shields.io/github/stars/facebook/docusaurus?style=social" /></a></th>
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="VS Code Docs" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-vscode-docs.png" /></td>
@@ -2000,14 +2008,6 @@
         <th><a href="https://github.com/autogluon/autogluon" target="_blank"><img alt="AutoGluon Documentation" src="https://img.shields.io/github/stars/autogluon/autogluon?style=social" /></a></th>
     </tr>
     <tr>
-        <td nowrap="nowrap"><img width="33" alt="Docusaurus" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-docusaurus.png" /></td>
-        <td>Productivity</td>
-        <td>TypeScript</td>
-        <td><a href="https://docusaurus.io" target="_blank">Docusaurus</a></td>
-        <td>Easy to maintain open source documentation websites.</td>
-        <th><a href="https://github.com/facebook/docusaurus" target="_blank"><img alt="Docusaurus" src="https://img.shields.io/github/stars/facebook/docusaurus?style=social" /></a></th>
-    </tr>
-    <tr>
         <td nowrap="nowrap"><img width="33" alt="Org-roam" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-org-roam.png" /></td>
         <td>Productivity</td>
         <td>Emacs Lisp</td>
@@ -2162,6 +2162,14 @@
         <td><a href="https://hanko.io" target="_blank">Hanko</a></td>
         <td>Authentication and user management for the passkey era.</td>
         <th><a href="https://github.com/teamhanko/hanko" target="_blank"><img alt="Hanko" src="https://img.shields.io/github/stars/teamhanko/hanko?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Bitwarden" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-clients-1.png" /></td>
+        <td>Security</td>
+        <td>TypeScript</td>
+        <td><a href="https://bitwarden.com" target="_blank">Bitwarden</a></td>
+        <td>Bitwarden client applications (web, browser extension, desktop, and cli)</td>
+        <th><a href="https://github.com/bitwarden/clients" target="_blank"><img alt="Bitwarden" src="https://img.shields.io/github/stars/bitwarden/clients?style=social" /></a></th>
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="KeyPass" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-KeyPass.jpg" /></td>
@@ -2322,14 +2330,6 @@
         <td><a href="https://www.mandiant.com/resources/blog/commando-vm-windows-offensive-distribution" target="_blank">Mandiant</a></td>
         <td>Complete Mandiant Offensive VM (Commando VM), a fully customizable Windows-based pentesting virtual machine distribution. commandovm@mandiant.com</td>
         <th><a href="https://github.com/mandiant/commando-vm" target="_blank"><img alt="Mandiant" src="https://img.shields.io/github/stars/mandiant/commando-vm?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Bitwarden" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-clients-1.png" /></td>
-        <td>Security</td>
-        <td>TypeScript</td>
-        <td><a href="https://bitwarden.com" target="_blank">Bitwarden</a></td>
-        <td>Bitwarden client applications (web, browser extension, desktop, and cli)</td>
-        <th><a href="https://github.com/bitwarden/clients" target="_blank"><img alt="Bitwarden" src="https://img.shields.io/github/stars/bitwarden/clients?style=social" /></a></th>
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="Akamai" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-monkey-1.jpg" /></td>
@@ -2590,6 +2590,14 @@
         <th>Stargazers</th>
     </tr>
         <tr>
+        <td nowrap="nowrap"><img width="33" alt="Appwrite" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-appwrite.png" /></td>
+        <td>Databases</td>
+        <td>TypeScript</td>
+        <td><a href="https://appwrite.io" target="_blank">Appwrite</a></td>
+        <td>Build Fast. Scale Big. All in One Place.</td>
+        <th><a href="https://github.com/appwrite/appwrite" target="_blank"><img alt="Appwrite" src="https://img.shields.io/github/stars/appwrite/appwrite?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="Setup Falcon SQL Client" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-falcon.png" /></td>
         <td>Databases</td>
         <td>JavaScript</td>
@@ -2724,14 +2732,6 @@
         <td><a href="https://delta.io" target="_blank">Delta Lake</a></td>
         <td>An open-source storage framework that enables building a Lakehouse architecture with compute engines including Spark, PrestoDB, Flink, Trino, and Hive and APIs</td>
         <th><a href="https://github.com/delta-io/delta" target="_blank"><img alt="Delta Lake" src="https://img.shields.io/github/stars/delta-io/delta?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Appwrite" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-appwrite.png" /></td>
-        <td>Databases</td>
-        <td>TypeScript</td>
-        <td><a href="https://appwrite.io" target="_blank">Appwrite</a></td>
-        <td>Build Fast. Scale Big. All in One Place.</td>
-        <th><a href="https://github.com/appwrite/appwrite" target="_blank"><img alt="Appwrite" src="https://img.shields.io/github/stars/appwrite/appwrite?style=social" /></a></th>
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="lettuce-io/lettuce-core" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-lettuce-core.png" /></td>
@@ -3451,6 +3451,22 @@
         <td>The Wing Programming Language</td>
         <th><a href="https://github.com/winglang/wing" target="_blank"><img alt="Wing Language" src="https://img.shields.io/github/stars/winglang/wing?style=social" /></a></th>
     </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="group_button" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-group_button.jpg" /></td>
+        <td>Infrastructure</td>
+        <td>Dart</td>
+        <td><a href="https://pub.dev/packages/group_button" target="_blank">group_button</a></td>
+        <td><g-emoji class="g-emoji" alias="sweat_drops" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4a6.png">?</g-emoji> Flutter custom widget to make a group buttons. Included Radio and CheckBox buttons.</td>
+        <th><a href="https://github.com/Frezyx/group_button" target="_blank"><img alt="group_button" src="https://img.shields.io/github/stars/Frezyx/group_button?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="sidebarx" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-sidebarx.jpg" /></td>
+        <td>Infrastructure</td>
+        <td>Dart</td>
+        <td><a href="https://pub.dev/packages/sidebarx" target="_blank">sidebarx</a></td>
+        <td>Flutter multiplatform navigation sidebar / side navigation bar / drawer widget</td>
+        <th><a href="https://github.com/Frezyx/sidebarx" target="_blank"><img alt="sidebarx" src="https://img.shields.io/github/stars/Frezyx/sidebarx?style=social" /></a></th>
+    </tr>
 
 </table>
 
@@ -3499,20 +3515,44 @@
         <th><a href="https://github.com/github-20k/super-star" target="_blank"><img alt="Github 20k" src="https://img.shields.io/github/stars/github-20k/super-star?style=social" /></a></th>
     </tr>
     <tr>
-        <td nowrap="nowrap"><img width="33" alt="Medusa" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-medusa.jpg" /></td>
-        <td>Miscellaneous</td>
-        <td>TypeScript</td>
-        <td><a href="https://medusajs.com" target="_blank">Medusa</a></td>
-        <td>Building blocks for digital commerce</td>
-        <th><a href="https://github.com/medusajs/medusa" target="_blank"><img alt="Medusa" src="https://img.shields.io/github/stars/medusajs/medusa?style=social" /></a></th>
-    </tr>
-    <tr>
         <td nowrap="nowrap"><img width="33" alt="Hanko" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-hanko.png" /></td>
         <td>Security</td>
         <td>TypeScript</td>
         <td><a href="https://hanko.io" target="_blank">Hanko</a></td>
         <td>Authentication and user management for the passkey era.</td>
         <th><a href="https://github.com/teamhanko/hanko" target="_blank"><img alt="Hanko" src="https://img.shields.io/github/stars/teamhanko/hanko?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Bitwarden" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-clients-1.png" /></td>
+        <td>Security</td>
+        <td>TypeScript</td>
+        <td><a href="https://bitwarden.com" target="_blank">Bitwarden</a></td>
+        <td>Bitwarden client applications (web, browser extension, desktop, and cli)</td>
+        <th><a href="https://github.com/bitwarden/clients" target="_blank"><img alt="Bitwarden" src="https://img.shields.io/github/stars/bitwarden/clients?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Appwrite" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-appwrite.png" /></td>
+        <td>Databases</td>
+        <td>TypeScript</td>
+        <td><a href="https://appwrite.io" target="_blank">Appwrite</a></td>
+        <td>Build Fast. Scale Big. All in One Place.</td>
+        <th><a href="https://github.com/appwrite/appwrite" target="_blank"><img alt="Appwrite" src="https://img.shields.io/github/stars/appwrite/appwrite?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Docusaurus" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-docusaurus.png" /></td>
+        <td>Productivity</td>
+        <td>TypeScript</td>
+        <td><a href="https://docusaurus.io" target="_blank">Docusaurus</a></td>
+        <td>Easy to maintain open source documentation websites.</td>
+        <th><a href="https://github.com/facebook/docusaurus" target="_blank"><img alt="Docusaurus" src="https://img.shields.io/github/stars/facebook/docusaurus?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Medusa" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-medusa.jpg" /></td>
+        <td>Miscellaneous</td>
+        <td>TypeScript</td>
+        <td><a href="https://medusajs.com" target="_blank">Medusa</a></td>
+        <td>Building blocks for digital commerce</td>
+        <th><a href="https://github.com/medusajs/medusa" target="_blank"><img alt="Medusa" src="https://img.shields.io/github/stars/medusajs/medusa?style=social" /></a></th>
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="The Lounge" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-thelounge.png" /></td>
@@ -3747,14 +3787,6 @@
         <th><a href="https://github.com/marp-team/marp" target="_blank"><img alt="Marp" src="https://img.shields.io/github/stars/marp-team/marp?style=social" /></a></th>
     </tr>
     <tr>
-        <td nowrap="nowrap"><img width="33" alt="Bitwarden" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-clients-1.png" /></td>
-        <td>Security</td>
-        <td>TypeScript</td>
-        <td><a href="https://bitwarden.com" target="_blank">Bitwarden</a></td>
-        <td>Bitwarden client applications (web, browser extension, desktop, and cli)</td>
-        <th><a href="https://github.com/bitwarden/clients" target="_blank"><img alt="Bitwarden" src="https://img.shields.io/github/stars/bitwarden/clients?style=social" /></a></th>
-    </tr>
-    <tr>
         <td nowrap="nowrap"><img width="33" alt="Tamagui" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-tamagui-1.png" /></td>
         <td>Productivity</td>
         <td>TypeScript</td>
@@ -3771,28 +3803,12 @@
         <th><a href="https://github.com/x-extends/vxe-table" target="_blank"><img alt="vxe-table v4" src="https://img.shields.io/github/stars/x-extends/vxe-table?style=social" /></a></th>
     </tr>
     <tr>
-        <td nowrap="nowrap"><img width="33" alt="Appwrite" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-appwrite.png" /></td>
-        <td>Databases</td>
-        <td>TypeScript</td>
-        <td><a href="https://appwrite.io" target="_blank">Appwrite</a></td>
-        <td>Build Fast. Scale Big. All in One Place.</td>
-        <th><a href="https://github.com/appwrite/appwrite" target="_blank"><img alt="Appwrite" src="https://img.shields.io/github/stars/appwrite/appwrite?style=social" /></a></th>
-    </tr>
-    <tr>
         <td nowrap="nowrap"><img width="33" alt="Amplication" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-amplication-1.png" /></td>
         <td>Infrastructure</td>
         <td>TypeScript</td>
         <td><a href="https://amplication.com" target="_blank">Amplication</a></td>
         <td>Auto-generating TypeScript, GraphQL, REST API, and Node.js, accelerating your full-stack development <g-emoji class="g-emoji" alias="rocket" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f680.png">?</g-emoji></td>
         <th><a href="https://github.com/amplication/amplication" target="_blank"><img alt="Amplication" src="https://img.shields.io/github/stars/amplication/amplication?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Docusaurus" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-docusaurus.png" /></td>
-        <td>Productivity</td>
-        <td>TypeScript</td>
-        <td><a href="https://docusaurus.io" target="_blank">Docusaurus</a></td>
-        <td>Easy to maintain open source documentation websites.</td>
-        <th><a href="https://github.com/facebook/docusaurus" target="_blank"><img alt="Docusaurus" src="https://img.shields.io/github/stars/facebook/docusaurus?style=social" /></a></th>
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="linvo-io/linvo-scraper" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-linvo-scraper.png" /></td>
@@ -3825,6 +3841,52 @@
         <td><a href="https://wundergraph.com" target="_blank">WunderGraph</a></td>
         <td>WunderGraph is a Backend for Frontend Framework to optimize frontend, fullstack and backend developer workflows through API Composition.</td>
         <th><a href="https://github.com/wundergraph/wundergraph" target="_blank"><img alt="WunderGraph" src="https://img.shields.io/github/stars/wundergraph/wundergraph?style=social" /></a></th>
+    </tr>
+
+</table>
+
+<br /><br />
+<h2 id="dart">Top 20 Dart libraries</h2>
+<table>
+    <tr>
+        <th>Icon</th>
+        <th>Category</th>
+        <th>Language</th>
+        <th>Name</th>
+        <th>Description</th>
+        <th>Stargazers</th>
+    </tr>
+        <tr>
+        <td nowrap="nowrap"><img width="33" alt="Talker" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-talker-1.jpg" /></td>
+        <td>Observability</td>
+        <td>Dart</td>
+        <td><a href="https://pub.dev/packages/talker" target="_blank">Talker</a></td>
+        <td><g-emoji class="g-emoji" alias="phone" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/260e.png">☎️</g-emoji> Advanced error handler and logger for dart and flutter apps</td>
+        <th><a href="https://github.com/Frezyx/talker" target="_blank"><img alt="Talker" src="https://img.shields.io/github/stars/Frezyx/talker?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Flutter Gallery" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-gallery.png" /></td>
+        <td>Productivity</td>
+        <td>Dart</td>
+        <td><a href="https://gallery.flutter.dev" target="_blank">Flutter Gallery</a></td>
+        <td>Flutter Gallery is a resource to help developers evaluate and use Flutter</td>
+        <th><a href="https://github.com/flutter/gallery" target="_blank"><img alt="Flutter Gallery" src="https://img.shields.io/github/stars/flutter/gallery?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="group_button" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-group_button.jpg" /></td>
+        <td>Infrastructure</td>
+        <td>Dart</td>
+        <td><a href="https://pub.dev/packages/group_button" target="_blank">group_button</a></td>
+        <td><g-emoji class="g-emoji" alias="sweat_drops" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4a6.png">?</g-emoji> Flutter custom widget to make a group buttons. Included Radio and CheckBox buttons.</td>
+        <th><a href="https://github.com/Frezyx/group_button" target="_blank"><img alt="group_button" src="https://img.shields.io/github/stars/Frezyx/group_button?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="sidebarx" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-sidebarx.jpg" /></td>
+        <td>Infrastructure</td>
+        <td>Dart</td>
+        <td><a href="https://pub.dev/packages/sidebarx" target="_blank">sidebarx</a></td>
+        <td>Flutter multiplatform navigation sidebar / side navigation bar / drawer widget</td>
+        <th><a href="https://github.com/Frezyx/sidebarx" target="_blank"><img alt="sidebarx" src="https://img.shields.io/github/stars/Frezyx/sidebarx?style=social" /></a></th>
     </tr>
 
 </table>
@@ -3863,36 +3925,6 @@
         <td><a href="http://www.ntop.org" target="_blank">ntop</a></td>
         <td>Web-based Traffic and Security Network Traffic Monitoring</td>
         <th><a href="https://github.com/ntop/ntopng" target="_blank"><img alt="ntop" src="https://img.shields.io/github/stars/ntop/ntopng?style=social" /></a></th>
-    </tr>
-
-</table>
-
-<br /><br />
-<h2 id="dart">Top 20 Dart libraries</h2>
-<table>
-    <tr>
-        <th>Icon</th>
-        <th>Category</th>
-        <th>Language</th>
-        <th>Name</th>
-        <th>Description</th>
-        <th>Stargazers</th>
-    </tr>
-        <tr>
-        <td nowrap="nowrap"><img width="33" alt="Talker" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-talker-1.jpg" /></td>
-        <td>Observability</td>
-        <td>Dart</td>
-        <td><a href="https://pub.dev/packages/talker" target="_blank">Talker</a></td>
-        <td><g-emoji class="g-emoji" alias="phone" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/260e.png">☎️</g-emoji> Advanced error handler and logger for dart and flutter apps</td>
-        <th><a href="https://github.com/Frezyx/talker" target="_blank"><img alt="Talker" src="https://img.shields.io/github/stars/Frezyx/talker?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Flutter Gallery" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-gallery.png" /></td>
-        <td>Productivity</td>
-        <td>Dart</td>
-        <td><a href="https://gallery.flutter.dev" target="_blank">Flutter Gallery</a></td>
-        <td>Flutter Gallery is a resource to help developers evaluate and use Flutter</td>
-        <th><a href="https://github.com/flutter/gallery" target="_blank"><img alt="Flutter Gallery" src="https://img.shields.io/github/stars/flutter/gallery?style=social" /></a></th>
     </tr>
 
 </table>
