@@ -42,6 +42,8 @@
              </li>          <li>
                 <a href="#lua">Top 20 Lua libraries</a>
              </li>          <li>
+                <a href="#dart">Top 20 Dart libraries</a>
+             </li>          <li>
                 <a href="#java">Top 20 Java libraries</a>
              </li>          <li>
                 <a href="#php">Top 20 PHP libraries</a>
@@ -63,8 +65,6 @@
                 <a href="#ruby">Top 20 Ruby libraries</a>
              </li>          <li>
                 <a href="#html">Top 20 HTML libraries</a>
-             </li>          <li>
-                <a href="#dart">Top 20 Dart libraries</a>
              </li>          <li>
                 <a href="#jsonnet">Top 20 Jsonnet libraries</a>
              </li>          <li>
@@ -134,6 +134,14 @@
         <th>Stargazers</th>
     </tr>
         <tr>
+        <td nowrap="nowrap"><img width="33" alt="Talker" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-talker-1.jpg" /></td>
+        <td>Observability</td>
+        <td>Dart</td>
+        <td><a href="https://pub.dev/packages/talker" target="_blank">Talker</a></td>
+        <td><g-emoji class="g-emoji" alias="phone" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/260e.png">☎️</g-emoji> Advanced error handler and logger for dart and flutter apps</td>
+        <th><a href="https://github.com/Frezyx/talker" target="_blank"><img alt="Talker" src="https://img.shields.io/github/stars/Frezyx/talker?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="KeyPass" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-KeyPass.jpg" /></td>
         <td>Security</td>
         <td>Kotlin</td>
@@ -142,12 +150,12 @@
         <th><a href="https://github.com/yogeshpaliyal/KeyPass" target="_blank"><img alt="KeyPass" src="https://img.shields.io/github/stars/yogeshpaliyal/KeyPass?style=social" /></a></th>
     </tr>
     <tr>
-        <td nowrap="nowrap"><img width="33" alt="Talker" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-talker-1.jpg" /></td>
+        <td nowrap="nowrap"><img width="33" alt="lambda-perf" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-lambda-perf-17.jpg" /></td>
         <td>Observability</td>
-        <td>Dart</td>
-        <td><a href="https://pub.dev/packages/talker" target="_blank">Talker</a></td>
-        <td><g-emoji class="g-emoji" alias="phone" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/260e.png">☎️</g-emoji> Advanced error handler and logger for dart and flutter apps</td>
-        <th><a href="https://github.com/Frezyx/talker" target="_blank"><img alt="Talker" src="https://img.shields.io/github/stars/Frezyx/talker?style=social" /></a></th>
+        <td>JavaScript</td>
+        <td><a href="https://maxday.github.io/lambda-perf" target="_blank">lambda-perf</a></td>
+        <td>Lambda Cold Starts analysis, updated daily</td>
+        <th><a href="https://github.com/maxday/lambda-perf" target="_blank"><img alt="lambda-perf" src="https://img.shields.io/github/stars/maxday/lambda-perf?style=social" /></a></th>
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="Preevy" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-preevy.png" /></td>
@@ -285,14 +293,6 @@
         <td>Rudimentary Roam replica with Org-mode</td>
         <th><a href="https://github.com/org-roam/org-roam" target="_blank"><img alt="Org-roam" src="https://img.shields.io/github/stars/org-roam/org-roam?style=social" /></a></th>
     </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="log4js-node/log4js-node" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-log4js-node.png" /></td>
-        <td>Observability</td>
-        <td>JavaScript</td>
-        <td><a href="https://log4js-node.github.io/log4js-node/" target="_blank">log4js-node/log4js-node</a></td>
-        <td>A port of log4js to node.js</td>
-        <th><a href="https://github.com/log4js-node/log4js-node" target="_blank"><img alt="log4js-node/log4js-node" src="https://img.shields.io/github/stars/log4js-node/log4js-node?style=social" /></a></th>
-    </tr>
 
 </table>
 
@@ -333,6 +333,14 @@
         <th><a href="https://github.com/CrowdDotDev/crowd.dev" target="_blank"><img alt="crowddev" src="https://img.shields.io/github/stars/CrowdDotDev/crowd.dev?style=social" /></a></th>
     </tr>
     <tr>
+        <td nowrap="nowrap"><img width="33" alt="Github 20k" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-super-star-1.png" /></td>
+        <td>Productivity</td>
+        <td>TypeScript</td>
+        <td><a href="https://github20k.com" target="_blank">Github 20k</a></td>
+        <td>The open-source course landing page <g-emoji class="g-emoji" alias="rocket" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f680.png">?</g-emoji><g-emoji class="g-emoji" alias="rocket" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f680.png">?</g-emoji><g-emoji class="g-emoji" alias="rocket" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f680.png">?</g-emoji></td>
+        <th><a href="https://github.com/github-20k/super-star" target="_blank"><img alt="Github 20k" src="https://img.shields.io/github/stars/github-20k/super-star?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="GitHub Support" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-dmca.png" /></td>
         <td>Miscellaneous</td>
         <td>undefined</td>
@@ -349,12 +357,12 @@
         <th><a href="https://github.com/awesomeWM/awesome" target="_blank"><img alt="awesome window manager" src="https://img.shields.io/github/stars/awesomeWM/awesome?style=social" /></a></th>
     </tr>
     <tr>
-        <td nowrap="nowrap"><img width="33" alt="Github 20k" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-super-star-1.png" /></td>
-        <td>Productivity</td>
-        <td>TypeScript</td>
-        <td><a href="https://github20k.com" target="_blank">Github 20k</a></td>
-        <td>The open-source course landing page <g-emoji class="g-emoji" alias="rocket" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f680.png">?</g-emoji><g-emoji class="g-emoji" alias="rocket" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f680.png">?</g-emoji><g-emoji class="g-emoji" alias="rocket" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f680.png">?</g-emoji></td>
-        <th><a href="https://github.com/github-20k/super-star" target="_blank"><img alt="Github 20k" src="https://img.shields.io/github/stars/github-20k/super-star?style=social" /></a></th>
+        <td nowrap="nowrap"><img width="33" alt="Talker" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-talker-1.jpg" /></td>
+        <td>Observability</td>
+        <td>Dart</td>
+        <td><a href="https://pub.dev/packages/talker" target="_blank">Talker</a></td>
+        <td><g-emoji class="g-emoji" alias="phone" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/260e.png">☎️</g-emoji> Advanced error handler and logger for dart and flutter apps</td>
+        <th><a href="https://github.com/Frezyx/talker" target="_blank"><img alt="Talker" src="https://img.shields.io/github/stars/Frezyx/talker?style=social" /></a></th>
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="JUnitorg." src="https://libraries.github20k.com/images/uploads/2023/05/newshot-junit5.png" /></td>
@@ -1100,14 +1108,6 @@
         <td>OpenVR SDK</td>
         <th><a href="https://github.com/ValveSoftware/openvr" target="_blank"><img alt="SteamVR" src="https://img.shields.io/github/stars/ValveSoftware/openvr?style=social" /></a></th>
     </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="microG Project." src="https://libraries.github20k.com/images/uploads/2023/05/newshot-GmsCore.png" /></td>
-        <td>Infrastructure</td>
-        <td>Java</td>
-        <td><a href="https://microg.org" target="_blank">microG Project.</a></td>
-        <td>Free implementation of Play Services</td>
-        <th><a href="https://github.com/microg/GmsCore" target="_blank"><img alt="microG Project." src="https://img.shields.io/github/stars/microg/GmsCore?style=social" /></a></th>
-    </tr>
 
 </table>
 
@@ -1226,6 +1226,14 @@
         <th>Stargazers</th>
     </tr>
         <tr>
+        <td nowrap="nowrap"><img width="33" alt="Talker" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-talker-1.jpg" /></td>
+        <td>Observability</td>
+        <td>Dart</td>
+        <td><a href="https://pub.dev/packages/talker" target="_blank">Talker</a></td>
+        <td><g-emoji class="g-emoji" alias="phone" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/260e.png">☎️</g-emoji> Advanced error handler and logger for dart and flutter apps</td>
+        <th><a href="https://github.com/Frezyx/talker" target="_blank"><img alt="Talker" src="https://img.shields.io/github/stars/Frezyx/talker?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="Konva.js - JavaScript 2d canvas library" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-react-konva.png" /></td>
         <td>Observability</td>
         <td>TypeScript</td>
@@ -1354,12 +1362,12 @@
         <th><a href="https://github.com/dequelabs/axe-core" target="_blank"><img alt="StackPath" src="https://img.shields.io/github/stars/dequelabs/axe-core?style=social" /></a></th>
     </tr>
     <tr>
-        <td nowrap="nowrap"><img width="33" alt="Talker" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-talker-1.jpg" /></td>
+        <td nowrap="nowrap"><img width="33" alt="lambda-perf" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-lambda-perf-17.jpg" /></td>
         <td>Observability</td>
-        <td>Dart</td>
-        <td><a href="https://pub.dev/packages/talker" target="_blank">Talker</a></td>
-        <td><g-emoji class="g-emoji" alias="phone" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/260e.png">☎️</g-emoji> Advanced error handler and logger for dart and flutter apps</td>
-        <th><a href="https://github.com/Frezyx/talker" target="_blank"><img alt="Talker" src="https://img.shields.io/github/stars/Frezyx/talker?style=social" /></a></th>
+        <td>JavaScript</td>
+        <td><a href="https://maxday.github.io/lambda-perf" target="_blank">lambda-perf</a></td>
+        <td>Lambda Cold Starts analysis, updated daily</td>
+        <th><a href="https://github.com/maxday/lambda-perf" target="_blank"><img alt="lambda-perf" src="https://img.shields.io/github/stars/maxday/lambda-perf?style=social" /></a></th>
     </tr>
 
 </table>
@@ -3860,6 +3868,36 @@
 </table>
 
 <br /><br />
+<h2 id="dart">Top 20 Dart libraries</h2>
+<table>
+    <tr>
+        <th>Icon</th>
+        <th>Category</th>
+        <th>Language</th>
+        <th>Name</th>
+        <th>Description</th>
+        <th>Stargazers</th>
+    </tr>
+        <tr>
+        <td nowrap="nowrap"><img width="33" alt="Talker" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-talker-1.jpg" /></td>
+        <td>Observability</td>
+        <td>Dart</td>
+        <td><a href="https://pub.dev/packages/talker" target="_blank">Talker</a></td>
+        <td><g-emoji class="g-emoji" alias="phone" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/260e.png">☎️</g-emoji> Advanced error handler and logger for dart and flutter apps</td>
+        <th><a href="https://github.com/Frezyx/talker" target="_blank"><img alt="Talker" src="https://img.shields.io/github/stars/Frezyx/talker?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Flutter Gallery" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-gallery.png" /></td>
+        <td>Productivity</td>
+        <td>Dart</td>
+        <td><a href="https://gallery.flutter.dev" target="_blank">Flutter Gallery</a></td>
+        <td>Flutter Gallery is a resource to help developers evaluate and use Flutter</td>
+        <th><a href="https://github.com/flutter/gallery" target="_blank"><img alt="Flutter Gallery" src="https://img.shields.io/github/stars/flutter/gallery?style=social" /></a></th>
+    </tr>
+
+</table>
+
+<br /><br />
 <h2 id="java">Top 20 Java libraries</h2>
 <table>
     <tr>
@@ -5034,6 +5072,14 @@
         <td><g-emoji class="g-emoji" alias="black_joker" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f0cf.png">?</g-emoji> A magical documentation site generator.</td>
         <th><a href="https://github.com/docsifyjs/docsify" target="_blank"><img alt="Docsify" src="https://img.shields.io/github/stars/docsifyjs/docsify?style=social" /></a></th>
     </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="lambda-perf" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-lambda-perf-17.jpg" /></td>
+        <td>Observability</td>
+        <td>JavaScript</td>
+        <td><a href="https://maxday.github.io/lambda-perf" target="_blank">lambda-perf</a></td>
+        <td>Lambda Cold Starts analysis, updated daily</td>
+        <th><a href="https://github.com/maxday/lambda-perf" target="_blank"><img alt="lambda-perf" src="https://img.shields.io/github/stars/maxday/lambda-perf?style=social" /></a></th>
+    </tr>
 
 </table>
 
@@ -5385,36 +5431,6 @@
         <td><a href="https://shixiangwang.github.io/weekly/" target="_blank">生信爱好者周刊</a></td>
         <td>生信爱好者周刊（每周日发布）</td>
         <th><a href="https://github.com/ShixiangWang/weekly" target="_blank"><img alt="生信爱好者周刊" src="https://img.shields.io/github/stars/ShixiangWang/weekly?style=social" /></a></th>
-    </tr>
-
-</table>
-
-<br /><br />
-<h2 id="dart">Top 20 Dart libraries</h2>
-<table>
-    <tr>
-        <th>Icon</th>
-        <th>Category</th>
-        <th>Language</th>
-        <th>Name</th>
-        <th>Description</th>
-        <th>Stargazers</th>
-    </tr>
-        <tr>
-        <td nowrap="nowrap"><img width="33" alt="Flutter Gallery" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-gallery.png" /></td>
-        <td>Productivity</td>
-        <td>Dart</td>
-        <td><a href="https://gallery.flutter.dev" target="_blank">Flutter Gallery</a></td>
-        <td>Flutter Gallery is a resource to help developers evaluate and use Flutter</td>
-        <th><a href="https://github.com/flutter/gallery" target="_blank"><img alt="Flutter Gallery" src="https://img.shields.io/github/stars/flutter/gallery?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Talker" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-talker-1.jpg" /></td>
-        <td>Observability</td>
-        <td>Dart</td>
-        <td><a href="https://pub.dev/packages/talker" target="_blank">Talker</a></td>
-        <td><g-emoji class="g-emoji" alias="phone" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/260e.png">☎️</g-emoji> Advanced error handler and logger for dart and flutter apps</td>
-        <th><a href="https://github.com/Frezyx/talker" target="_blank"><img alt="Talker" src="https://img.shields.io/github/stars/Frezyx/talker?style=social" /></a></th>
     </tr>
 
 </table>
