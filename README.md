@@ -48,6 +48,8 @@
              </li>          <li>
                 <a href="#go">Top 20 Go libraries</a>
              </li>          <li>
+                <a href="#kotlin">Top 20 Kotlin libraries</a>
+             </li>          <li>
                 <a href="#python">Top 20 Python libraries</a>
              </li>          <li>
                 <a href="#css">Top 20 CSS libraries</a>
@@ -55,8 +57,6 @@
                 <a href="#javascript">Top 20 JavaScript libraries</a>
              </li>          <li>
                 <a href="#c++">Top 20 C++ libraries</a>
-             </li>          <li>
-                <a href="#kotlin">Top 20 Kotlin libraries</a>
              </li>          <li>
                 <a href="#rust">Top 20 Rust libraries</a>
              </li>          <li>
@@ -134,6 +134,30 @@
         <th>Stargazers</th>
     </tr>
         <tr>
+        <td nowrap="nowrap"><img width="33" alt="KeyPass" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-KeyPass.jpg" /></td>
+        <td>Security</td>
+        <td>Kotlin</td>
+        <td><a href="https://play.google.com/store/apps/details?id=com.yogeshpaliyal.keypass" target="_blank">KeyPass</a></td>
+        <td>KeyPass: Open-source &amp; offline password manager. Store, manage, take control securely.</td>
+        <th><a href="https://github.com/yogeshpaliyal/KeyPass" target="_blank"><img alt="KeyPass" src="https://img.shields.io/github/stars/yogeshpaliyal/KeyPass?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Talker" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-talker.jpg" /></td>
+        <td>Observability</td>
+        <td>Dart</td>
+        <td><a href="https://pub.dev/packages/talker" target="_blank">Talker</a></td>
+        <td><g-emoji class="g-emoji" alias="phone" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/260e.png">☎️</g-emoji> Advanced error handler and logger for dart and flutter apps</td>
+        <th><a href="https://github.com/Frezyx/talker" target="_blank"><img alt="Talker" src="https://img.shields.io/github/stars/Frezyx/talker?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Talker" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-talker-1.jpg" /></td>
+        <td>Observability</td>
+        <td>Dart</td>
+        <td><a href="https://pub.dev/packages/talker" target="_blank">Talker</a></td>
+        <td><g-emoji class="g-emoji" alias="phone" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/260e.png">☎️</g-emoji> Advanced error handler and logger for dart and flutter apps</td>
+        <th><a href="https://github.com/Frezyx/talker" target="_blank"><img alt="Talker" src="https://img.shields.io/github/stars/Frezyx/talker?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="Preevy" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-preevy.png" /></td>
         <td>Productivity</td>
         <td>TypeScript</td>
@@ -269,30 +293,6 @@
         <td>Rudimentary Roam replica with Org-mode</td>
         <th><a href="https://github.com/org-roam/org-roam" target="_blank"><img alt="Org-roam" src="https://img.shields.io/github/stars/org-roam/org-roam?style=social" /></a></th>
     </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="log4js-node/log4js-node" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-log4js-node.png" /></td>
-        <td>Observability</td>
-        <td>JavaScript</td>
-        <td><a href="https://log4js-node.github.io/log4js-node/" target="_blank">log4js-node/log4js-node</a></td>
-        <td>A port of log4js to node.js</td>
-        <th><a href="https://github.com/log4js-node/log4js-node" target="_blank"><img alt="log4js-node/log4js-node" src="https://img.shields.io/github/stars/log4js-node/log4js-node?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="StackPath" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-axe-core-1.png" /></td>
-        <td>Observability</td>
-        <td>JavaScript</td>
-        <td><a href="https://www.deque.com/axe/" target="_blank">StackPath</a></td>
-        <td>Accessibility engine for automated Web UI testing</td>
-        <th><a href="https://github.com/dequelabs/axe-core" target="_blank"><img alt="StackPath" src="https://img.shields.io/github/stars/dequelabs/axe-core?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="linvo-io/linvo-scraper" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-linvo-scraper.png" /></td>
-        <td>Productivity</td>
-        <td>TypeScript</td>
-        <td><a href="https://linvo.io" target="_blank">linvo-io/linvo-scraper</a></td>
-        <td>Linkedin Automation Bot with every possible scraping! Valid for 2022 used by Linvo.io</td>
-        <th><a href="https://github.com/linvo-io/linvo-scraper" target="_blank"><img alt="linvo-io/linvo-scraper" src="https://img.shields.io/github/stars/linvo-io/linvo-scraper?style=social" /></a></th>
-    </tr>
 
 </table>
 
@@ -395,6 +395,14 @@
         <td><a href="https://telego.pixelbox.dev" target="_blank">Telego</a></td>
         <td>Telegram Bot API library for Go</td>
         <th><a href="https://github.com/mymmrac/telego" target="_blank"><img alt="Telego" src="https://img.shields.io/github/stars/mymmrac/telego?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="KeyPass" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-KeyPass.jpg" /></td>
+        <td>Security</td>
+        <td>Kotlin</td>
+        <td><a href="https://play.google.com/store/apps/details?id=com.yogeshpaliyal.keypass" target="_blank">KeyPass</a></td>
+        <td>KeyPass: Open-source &amp; offline password manager. Store, manage, take control securely.</td>
+        <th><a href="https://github.com/yogeshpaliyal/KeyPass" target="_blank"><img alt="KeyPass" src="https://img.shields.io/github/stars/yogeshpaliyal/KeyPass?style=social" /></a></th>
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="ClusterFuzz" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-clusterfuzz.png" /></td>
@@ -1100,14 +1108,6 @@
         <td>Free implementation of Play Services</td>
         <th><a href="https://github.com/microg/GmsCore" target="_blank"><img alt="microG Project." src="https://img.shields.io/github/stars/microg/GmsCore?style=social" /></a></th>
     </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="libimobiledevice" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-libimobiledevice.png" /></td>
-        <td>Infrastructure</td>
-        <td>C</td>
-        <td><a href="https://libimobiledevice.org" target="_blank">libimobiledevice</a></td>
-        <td>A cross-platform protocol library to communicate with iOS devices</td>
-        <th><a href="https://github.com/libimobiledevice/libimobiledevice" target="_blank"><img alt="libimobiledevice" src="https://img.shields.io/github/stars/libimobiledevice/libimobiledevice?style=social" /></a></th>
-    </tr>
 
 </table>
 
@@ -1352,6 +1352,22 @@
         <td><a href="https://www.deque.com/axe/" target="_blank">StackPath</a></td>
         <td>Accessibility engine for automated Web UI testing</td>
         <th><a href="https://github.com/dequelabs/axe-core" target="_blank"><img alt="StackPath" src="https://img.shields.io/github/stars/dequelabs/axe-core?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Talker" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-talker.jpg" /></td>
+        <td>Observability</td>
+        <td>Dart</td>
+        <td><a href="https://pub.dev/packages/talker" target="_blank">Talker</a></td>
+        <td><g-emoji class="g-emoji" alias="phone" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/260e.png">☎️</g-emoji> Advanced error handler and logger for dart and flutter apps</td>
+        <th><a href="https://github.com/Frezyx/talker" target="_blank"><img alt="Talker" src="https://img.shields.io/github/stars/Frezyx/talker?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Talker" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-talker-1.jpg" /></td>
+        <td>Observability</td>
+        <td>Dart</td>
+        <td><a href="https://pub.dev/packages/talker" target="_blank">Talker</a></td>
+        <td><g-emoji class="g-emoji" alias="phone" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/260e.png">☎️</g-emoji> Advanced error handler and logger for dart and flutter apps</td>
+        <th><a href="https://github.com/Frezyx/talker" target="_blank"><img alt="Talker" src="https://img.shields.io/github/stars/Frezyx/talker?style=social" /></a></th>
     </tr>
 
 </table>
@@ -2146,6 +2162,14 @@
         <td><a href="https://hanko.io" target="_blank">Hanko</a></td>
         <td>Authentication and user management for the passkey era.</td>
         <th><a href="https://github.com/teamhanko/hanko" target="_blank"><img alt="Hanko" src="https://img.shields.io/github/stars/teamhanko/hanko?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="KeyPass" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-KeyPass.jpg" /></td>
+        <td>Security</td>
+        <td>Kotlin</td>
+        <td><a href="https://play.google.com/store/apps/details?id=com.yogeshpaliyal.keypass" target="_blank">KeyPass</a></td>
+        <td>KeyPass: Open-source &amp; offline password manager. Store, manage, take control securely.</td>
+        <th><a href="https://github.com/yogeshpaliyal/KeyPass" target="_blank"><img alt="KeyPass" src="https://img.shields.io/github/stars/yogeshpaliyal/KeyPass?style=social" /></a></th>
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="PrivateBin" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-PrivateBin.png" /></td>
@@ -4454,6 +4478,100 @@
 </table>
 
 <br /><br />
+<h2 id="kotlin">Top 20 Kotlin libraries</h2>
+<table>
+    <tr>
+        <th>Icon</th>
+        <th>Category</th>
+        <th>Language</th>
+        <th>Name</th>
+        <th>Description</th>
+        <th>Stargazers</th>
+    </tr>
+        <tr>
+        <td nowrap="nowrap"><img width="33" alt="KeyPass" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-KeyPass.jpg" /></td>
+        <td>Security</td>
+        <td>Kotlin</td>
+        <td><a href="https://play.google.com/store/apps/details?id=com.yogeshpaliyal.keypass" target="_blank">KeyPass</a></td>
+        <td>KeyPass: Open-source &amp; offline password manager. Store, manage, take control securely.</td>
+        <th><a href="https://github.com/yogeshpaliyal/KeyPass" target="_blank"><img alt="KeyPass" src="https://img.shields.io/github/stars/yogeshpaliyal/KeyPass?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="SagerNet/SagerNet" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-SagerNet.png" /></td>
+        <td>Security</td>
+        <td>Kotlin</td>
+        <td><a href="https://sagernet.org" target="_blank">SagerNet/SagerNet</a></td>
+        <td>The universal proxy toolchain for Android</td>
+        <th><a href="https://github.com/SagerNet/SagerNet" target="_blank"><img alt="SagerNet/SagerNet" src="https://img.shields.io/github/stars/SagerNet/SagerNet?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="cashapp/sqldelight" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-sqldelight.png" /></td>
+        <td>Databases</td>
+        <td>Kotlin</td>
+        <td><a href="https://cashapp.github.io/sqldelight/" target="_blank">cashapp/sqldelight</a></td>
+        <td>SQLDelight - Generates typesafe Kotlin APIs from SQL</td>
+        <th><a href="https://github.com/cashapp/sqldelight" target="_blank"><img alt="cashapp/sqldelight" src="https://img.shields.io/github/stars/cashapp/sqldelight?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="LibreTube" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-LibreTube.png" /></td>
+        <td>Productivity</td>
+        <td>Kotlin</td>
+        <td><a href="https://libre-tube.github.io" target="_blank">LibreTube</a></td>
+        <td>An alternative frontend for YouTube, for Android.</td>
+        <th><a href="https://github.com/libre-tube/LibreTube" target="_blank"><img alt="LibreTube" src="https://img.shields.io/github/stars/libre-tube/LibreTube?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="detekt" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-detekt.png" /></td>
+        <td>Observability</td>
+        <td>Kotlin</td>
+        <td><a href="https://detekt.dev" target="_blank">detekt</a></td>
+        <td>Static code analysis for Kotlin</td>
+        <th><a href="https://github.com/detekt/detekt" target="_blank"><img alt="detekt" src="https://img.shields.io/github/stars/detekt/detekt?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="kickstarter/android-oss" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-android-oss.png" /></td>
+        <td>Collaboration</td>
+        <td>Kotlin</td>
+        <td><a href="https://www.kickstarter.com/mobile" target="_blank">kickstarter/android-oss</a></td>
+        <td>Kickstarter for Android. Bring new ideas to life, anywhere.</td>
+        <th><a href="https://github.com/kickstarter/android-oss" target="_blank"><img alt="kickstarter/android-oss" src="https://img.shields.io/github/stars/kickstarter/android-oss?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="pinterest/ktlint" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-ktlint-1.png" /></td>
+        <td>Productivity</td>
+        <td>Kotlin</td>
+        <td><a href="https://pinterest.github.io/ktlint/" target="_blank">pinterest/ktlint</a></td>
+        <td>An anti-bikeshedding Kotlin linter with built-in formatter</td>
+        <th><a href="https://github.com/pinterest/ktlint" target="_blank"><img alt="pinterest/ktlint" src="https://img.shields.io/github/stars/pinterest/ktlint?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Chainlist" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-chains-1.png" /></td>
+        <td>Infrastructure</td>
+        <td>Kotlin</td>
+        <td><a href="https://chainid.network" target="_blank">Chainlist</a></td>
+        <td>provides metadata for networkIDs and chainIDs</td>
+        <th><a href="https://github.com/ethereum-lists/chains" target="_blank"><img alt="Chainlist" src="https://img.shields.io/github/stars/ethereum-lists/chains?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="arrow-kt/arrow" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-arrow-1.png" /></td>
+        <td>Infrastructure</td>
+        <td>Kotlin</td>
+        <td><a href="http://arrow-kt.io" target="_blank">arrow-kt/arrow</a></td>
+        <td>Λrrow - Functional companion to Kotlin's Standard Library</td>
+        <th><a href="https://github.com/arrow-kt/arrow" target="_blank"><img alt="arrow-kt/arrow" src="https://img.shields.io/github/stars/arrow-kt/arrow?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="ACRA" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-acra-3.png" /></td>
+        <td>Observability</td>
+        <td>Kotlin</td>
+        <td><a href="https://www.acra.ch" target="_blank">ACRA</a></td>
+        <td>Application Crash Reports for Android</td>
+        <th><a href="https://github.com/ACRA/acra" target="_blank"><img alt="ACRA" src="https://img.shields.io/github/stars/ACRA/acra?style=social" /></a></th>
+    </tr>
+
+</table>
+
+<br /><br />
 <h2 id="python">Top 20 Python libraries</h2>
 <table>
     <tr>
@@ -5102,92 +5220,6 @@
 </table>
 
 <br /><br />
-<h2 id="kotlin">Top 20 Kotlin libraries</h2>
-<table>
-    <tr>
-        <th>Icon</th>
-        <th>Category</th>
-        <th>Language</th>
-        <th>Name</th>
-        <th>Description</th>
-        <th>Stargazers</th>
-    </tr>
-        <tr>
-        <td nowrap="nowrap"><img width="33" alt="SagerNet/SagerNet" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-SagerNet.png" /></td>
-        <td>Security</td>
-        <td>Kotlin</td>
-        <td><a href="https://sagernet.org" target="_blank">SagerNet/SagerNet</a></td>
-        <td>The universal proxy toolchain for Android</td>
-        <th><a href="https://github.com/SagerNet/SagerNet" target="_blank"><img alt="SagerNet/SagerNet" src="https://img.shields.io/github/stars/SagerNet/SagerNet?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="cashapp/sqldelight" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-sqldelight.png" /></td>
-        <td>Databases</td>
-        <td>Kotlin</td>
-        <td><a href="https://cashapp.github.io/sqldelight/" target="_blank">cashapp/sqldelight</a></td>
-        <td>SQLDelight - Generates typesafe Kotlin APIs from SQL</td>
-        <th><a href="https://github.com/cashapp/sqldelight" target="_blank"><img alt="cashapp/sqldelight" src="https://img.shields.io/github/stars/cashapp/sqldelight?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="LibreTube" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-LibreTube.png" /></td>
-        <td>Productivity</td>
-        <td>Kotlin</td>
-        <td><a href="https://libre-tube.github.io" target="_blank">LibreTube</a></td>
-        <td>An alternative frontend for YouTube, for Android.</td>
-        <th><a href="https://github.com/libre-tube/LibreTube" target="_blank"><img alt="LibreTube" src="https://img.shields.io/github/stars/libre-tube/LibreTube?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="detekt" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-detekt.png" /></td>
-        <td>Observability</td>
-        <td>Kotlin</td>
-        <td><a href="https://detekt.dev" target="_blank">detekt</a></td>
-        <td>Static code analysis for Kotlin</td>
-        <th><a href="https://github.com/detekt/detekt" target="_blank"><img alt="detekt" src="https://img.shields.io/github/stars/detekt/detekt?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="kickstarter/android-oss" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-android-oss.png" /></td>
-        <td>Collaboration</td>
-        <td>Kotlin</td>
-        <td><a href="https://www.kickstarter.com/mobile" target="_blank">kickstarter/android-oss</a></td>
-        <td>Kickstarter for Android. Bring new ideas to life, anywhere.</td>
-        <th><a href="https://github.com/kickstarter/android-oss" target="_blank"><img alt="kickstarter/android-oss" src="https://img.shields.io/github/stars/kickstarter/android-oss?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="pinterest/ktlint" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-ktlint-1.png" /></td>
-        <td>Productivity</td>
-        <td>Kotlin</td>
-        <td><a href="https://pinterest.github.io/ktlint/" target="_blank">pinterest/ktlint</a></td>
-        <td>An anti-bikeshedding Kotlin linter with built-in formatter</td>
-        <th><a href="https://github.com/pinterest/ktlint" target="_blank"><img alt="pinterest/ktlint" src="https://img.shields.io/github/stars/pinterest/ktlint?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Chainlist" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-chains-1.png" /></td>
-        <td>Infrastructure</td>
-        <td>Kotlin</td>
-        <td><a href="https://chainid.network" target="_blank">Chainlist</a></td>
-        <td>provides metadata for networkIDs and chainIDs</td>
-        <th><a href="https://github.com/ethereum-lists/chains" target="_blank"><img alt="Chainlist" src="https://img.shields.io/github/stars/ethereum-lists/chains?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="arrow-kt/arrow" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-arrow-1.png" /></td>
-        <td>Infrastructure</td>
-        <td>Kotlin</td>
-        <td><a href="http://arrow-kt.io" target="_blank">arrow-kt/arrow</a></td>
-        <td>Λrrow - Functional companion to Kotlin's Standard Library</td>
-        <th><a href="https://github.com/arrow-kt/arrow" target="_blank"><img alt="arrow-kt/arrow" src="https://img.shields.io/github/stars/arrow-kt/arrow?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="ACRA" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-acra-3.png" /></td>
-        <td>Observability</td>
-        <td>Kotlin</td>
-        <td><a href="https://www.acra.ch" target="_blank">ACRA</a></td>
-        <td>Application Crash Reports for Android</td>
-        <th><a href="https://github.com/ACRA/acra" target="_blank"><img alt="ACRA" src="https://img.shields.io/github/stars/ACRA/acra?style=social" /></a></th>
-    </tr>
-
-</table>
-
-<br /><br />
 <h2 id="rust">Top 20 Rust libraries</h2>
 <table>
     <tr>
@@ -5383,6 +5415,22 @@
         <td><a href="https://gallery.flutter.dev" target="_blank">Flutter Gallery</a></td>
         <td>Flutter Gallery is a resource to help developers evaluate and use Flutter</td>
         <th><a href="https://github.com/flutter/gallery" target="_blank"><img alt="Flutter Gallery" src="https://img.shields.io/github/stars/flutter/gallery?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Talker" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-talker.jpg" /></td>
+        <td>Observability</td>
+        <td>Dart</td>
+        <td><a href="https://pub.dev/packages/talker" target="_blank">Talker</a></td>
+        <td><g-emoji class="g-emoji" alias="phone" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/260e.png">☎️</g-emoji> Advanced error handler and logger for dart and flutter apps</td>
+        <th><a href="https://github.com/Frezyx/talker" target="_blank"><img alt="Talker" src="https://img.shields.io/github/stars/Frezyx/talker?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Talker" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-talker-1.jpg" /></td>
+        <td>Observability</td>
+        <td>Dart</td>
+        <td><a href="https://pub.dev/packages/talker" target="_blank">Talker</a></td>
+        <td><g-emoji class="g-emoji" alias="phone" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/260e.png">☎️</g-emoji> Advanced error handler and logger for dart and flutter apps</td>
+        <th><a href="https://github.com/Frezyx/talker" target="_blank"><img alt="Talker" src="https://img.shields.io/github/stars/Frezyx/talker?style=social" /></a></th>
     </tr>
 
 </table>
