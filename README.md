@@ -142,14 +142,6 @@
         <th><a href="https://github.com/yogeshpaliyal/KeyPass" target="_blank"><img alt="KeyPass" src="https://img.shields.io/github/stars/yogeshpaliyal/KeyPass?style=social" /></a></th>
     </tr>
     <tr>
-        <td nowrap="nowrap"><img width="33" alt="Talker" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-talker.jpg" /></td>
-        <td>Observability</td>
-        <td>Dart</td>
-        <td><a href="https://pub.dev/packages/talker" target="_blank">Talker</a></td>
-        <td><g-emoji class="g-emoji" alias="phone" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/260e.png">☎️</g-emoji> Advanced error handler and logger for dart and flutter apps</td>
-        <th><a href="https://github.com/Frezyx/talker" target="_blank"><img alt="Talker" src="https://img.shields.io/github/stars/Frezyx/talker?style=social" /></a></th>
-    </tr>
-    <tr>
         <td nowrap="nowrap"><img width="33" alt="Talker" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-talker-1.jpg" /></td>
         <td>Observability</td>
         <td>Dart</td>
@@ -292,6 +284,14 @@
         <td><a href="https://www.orgroam.com" target="_blank">Org-roam</a></td>
         <td>Rudimentary Roam replica with Org-mode</td>
         <th><a href="https://github.com/org-roam/org-roam" target="_blank"><img alt="Org-roam" src="https://img.shields.io/github/stars/org-roam/org-roam?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="log4js-node/log4js-node" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-log4js-node.png" /></td>
+        <td>Observability</td>
+        <td>JavaScript</td>
+        <td><a href="https://log4js-node.github.io/log4js-node/" target="_blank">log4js-node/log4js-node</a></td>
+        <td>A port of log4js to node.js</td>
+        <th><a href="https://github.com/log4js-node/log4js-node" target="_blank"><img alt="log4js-node/log4js-node" src="https://img.shields.io/github/stars/log4js-node/log4js-node?style=social" /></a></th>
     </tr>
 
 </table>
@@ -1352,14 +1352,6 @@
         <td><a href="https://www.deque.com/axe/" target="_blank">StackPath</a></td>
         <td>Accessibility engine for automated Web UI testing</td>
         <th><a href="https://github.com/dequelabs/axe-core" target="_blank"><img alt="StackPath" src="https://img.shields.io/github/stars/dequelabs/axe-core?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Talker" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-talker.jpg" /></td>
-        <td>Observability</td>
-        <td>Dart</td>
-        <td><a href="https://pub.dev/packages/talker" target="_blank">Talker</a></td>
-        <td><g-emoji class="g-emoji" alias="phone" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/260e.png">☎️</g-emoji> Advanced error handler and logger for dart and flutter apps</td>
-        <th><a href="https://github.com/Frezyx/talker" target="_blank"><img alt="Talker" src="https://img.shields.io/github/stars/Frezyx/talker?style=social" /></a></th>
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="Talker" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-talker-1.jpg" /></td>
@@ -5415,14 +5407,6 @@
         <td><a href="https://gallery.flutter.dev" target="_blank">Flutter Gallery</a></td>
         <td>Flutter Gallery is a resource to help developers evaluate and use Flutter</td>
         <th><a href="https://github.com/flutter/gallery" target="_blank"><img alt="Flutter Gallery" src="https://img.shields.io/github/stars/flutter/gallery?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Talker" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-talker.jpg" /></td>
-        <td>Observability</td>
-        <td>Dart</td>
-        <td><a href="https://pub.dev/packages/talker" target="_blank">Talker</a></td>
-        <td><g-emoji class="g-emoji" alias="phone" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/260e.png">☎️</g-emoji> Advanced error handler and logger for dart and flutter apps</td>
-        <th><a href="https://github.com/Frezyx/talker" target="_blank"><img alt="Talker" src="https://img.shields.io/github/stars/Frezyx/talker?style=social" /></a></th>
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="Talker" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-talker-1.jpg" /></td>
