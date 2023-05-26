@@ -3965,6 +3965,15 @@
         <th>Stargazers</th>
     </tr>
         <tr>
+        <td nowrap="nowrap"><img width="33" alt="Hyperswitch" src="https://app.hyperswitch.io/assets/Dark/hyperswitchLogoIcon.svg" /></td>
+        <td>Productivity</td>
+        <td>Rust</td>
+        <td><a href="https://hyperswitch.io" target="_blank">Hyperswitch</a></td>
+        <td>An Open Source Financial Switch to make Payments fast, reliable and affordable.</td>
+        <th><a href="https://github.com/juspay/hyperswitch target="_blank"><img alt="Hyperswitch" src="https://img.shields.io/github/stars/juspay/hyperswitch?style=social" /></a></th>
+    </tr>
+    </tr>
+        <tr>
         <td nowrap="nowrap"><img width="33" alt="Materialize" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-materialize.png" /></td>
         <td>Databases</td>
         <td>Rust</td>
