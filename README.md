@@ -134,6 +134,22 @@
         <th>Stargazers</th>
     </tr>
         <tr>
+        <td nowrap="nowrap"><img width="33" alt="Hyperswitch" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-hyperswitch.png" /></td>
+        <td>Productivity</td>
+        <td>Rust</td>
+        <td><a href="https://hyperswitch.io" target="_blank">Hyperswitch</a></td>
+        <td>An Open Source Financial Switch to make Payments fast, reliable and affordable</td>
+        <th><a href="https://github.com/juspay/hyperswitch" target="_blank"><img alt="Hyperswitch" src="https://img.shields.io/github/stars/juspay/hyperswitch?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Capacitor updater" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-capacitor-updater.png" /></td>
+        <td>Infrastructure</td>
+        <td>Java</td>
+        <td><a href="https://capgo.app" target="_blank">Capacitor updater</a></td>
+        <td>Live update for capacitor apps</td>
+        <th><a href="https://github.com/Cap-go/capacitor-updater" target="_blank"><img alt="Capacitor updater" src="https://img.shields.io/github/stars/Cap-go/capacitor-updater?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="Talker" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-talker-1.jpg" /></td>
         <td>Observability</td>
         <td>Dart</td>
@@ -276,22 +292,6 @@
         <td><a href="https://medusajs.com" target="_blank">Medusa</a></td>
         <td>Building blocks for digital commerce</td>
         <th><a href="https://github.com/medusajs/medusa" target="_blank"><img alt="Medusa" src="https://img.shields.io/github/stars/medusajs/medusa?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Pusakatest" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-pusakatest.jpg" /></td>
-        <td>Miscellaneous</td>
-        <td>JavaScript</td>
-        <td><a href="https://github.com/depapp/pusakatest" target="_blank">Pusakatest</a></td>
-        <td>pusakatest is an automation testing tool based on pactumjs using bdd (cucumber) style with localization</td>
-        <th><a href="https://github.com/depapp/pusakatest" target="_blank"><img alt="Pusakatest" src="https://img.shields.io/github/stars/depapp/pusakatest?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="refine" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-refine.png" /></td>
-        <td>Infrastructure</td>
-        <td>TypeScript</td>
-        <td><a href="https://refine.dev" target="_blank">refine</a></td>
-        <td>Build your React-based CRUD applications, without constraints.</td>
-        <th><a href="https://github.com/refinedev/refine" target="_blank"><img alt="refine" src="https://img.shields.io/github/stars/refinedev/refine?style=social" /></a></th>
     </tr>
 
 </table>
@@ -2063,6 +2063,14 @@
         <td>WunderGraph is a Backend for Frontend Framework to optimize frontend, fullstack and backend developer workflows through API Composition.</td>
         <th><a href="https://github.com/wundergraph/wundergraph" target="_blank"><img alt="WunderGraph" src="https://img.shields.io/github/stars/wundergraph/wundergraph?style=social" /></a></th>
     </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Hyperswitch" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-hyperswitch.png" /></td>
+        <td>Productivity</td>
+        <td>Rust</td>
+        <td><a href="https://hyperswitch.io" target="_blank">Hyperswitch</a></td>
+        <td>An Open Source Financial Switch to make Payments fast, reliable and affordable</td>
+        <th><a href="https://github.com/juspay/hyperswitch" target="_blank"><img alt="Hyperswitch" src="https://img.shields.io/github/stars/juspay/hyperswitch?style=social" /></a></th>
+    </tr>
 
 </table>
 
@@ -3483,6 +3491,14 @@
         <td>Flutter multiplatform navigation sidebar / side navigation bar / drawer widget</td>
         <th><a href="https://github.com/Frezyx/sidebarx" target="_blank"><img alt="sidebarx" src="https://img.shields.io/github/stars/Frezyx/sidebarx?style=social" /></a></th>
     </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Capacitor updater" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-capacitor-updater.png" /></td>
+        <td>Infrastructure</td>
+        <td>Java</td>
+        <td><a href="https://capgo.app" target="_blank">Capacitor updater</a></td>
+        <td>Live update for capacitor apps</td>
+        <th><a href="https://github.com/Cap-go/capacitor-updater" target="_blank"><img alt="Capacitor updater" src="https://img.shields.io/github/stars/Cap-go/capacitor-updater?style=social" /></a></th>
+    </tr>
 
 </table>
 
@@ -4029,6 +4045,14 @@
         <td>Format Rust code</td>
         <th><a href="https://github.com/rust-lang/rustfmt" target="_blank"><img alt="rust-lang/rustfmt" src="https://img.shields.io/github/stars/rust-lang/rustfmt?style=social" /></a></th>
     </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Hyperswitch" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-hyperswitch.png" /></td>
+        <td>Productivity</td>
+        <td>Rust</td>
+        <td><a href="https://hyperswitch.io" target="_blank">Hyperswitch</a></td>
+        <td>An Open Source Financial Switch to make Payments fast, reliable and affordable</td>
+        <th><a href="https://github.com/juspay/hyperswitch" target="_blank"><img alt="Hyperswitch" src="https://img.shields.io/github/stars/juspay/hyperswitch?style=social" /></a></th>
+    </tr>
 
 </table>
 
@@ -4194,6 +4218,14 @@
         <td><a href="http://robolectric.org" target="_blank">Robolectric</a></td>
         <td>Android Unit Testing Framework</td>
         <th><a href="https://github.com/robolectric/robolectric" target="_blank"><img alt="Robolectric" src="https://img.shields.io/github/stars/robolectric/robolectric?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Capacitor updater" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-capacitor-updater.png" /></td>
+        <td>Infrastructure</td>
+        <td>Java</td>
+        <td><a href="https://capgo.app" target="_blank">Capacitor updater</a></td>
+        <td>Live update for capacitor apps</td>
+        <th><a href="https://github.com/Cap-go/capacitor-updater" target="_blank"><img alt="Capacitor updater" src="https://img.shields.io/github/stars/Cap-go/capacitor-updater?style=social" /></a></th>
     </tr>
 
 </table>
