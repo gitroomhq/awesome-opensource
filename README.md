@@ -44,6 +44,8 @@
              </li>          <li>
                 <a href="#lua">Top 20 Lua libraries</a>
              </li>          <li>
+                <a href="#rust">Top 20 Rust libraries</a>
+             </li>          <li>
                 <a href="#java">Top 20 Java libraries</a>
              </li>          <li>
                 <a href="#php">Top 20 PHP libraries</a>
@@ -59,8 +61,6 @@
                 <a href="#javascript">Top 20 JavaScript libraries</a>
              </li>          <li>
                 <a href="#c++">Top 20 C++ libraries</a>
-             </li>          <li>
-                <a href="#rust">Top 20 Rust libraries</a>
              </li>          <li>
                 <a href="#ruby">Top 20 Ruby libraries</a>
              </li>          <li>
@@ -174,6 +174,22 @@
         <th><a href="https://github.com/Frezyx/sidebarx" target="_blank"><img alt="sidebarx" src="https://img.shields.io/github/stars/Frezyx/sidebarx?style=social" /></a></th>
     </tr>
     <tr>
+        <td nowrap="nowrap"><img width="33" alt="wirepig" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-wirepig.jpg" /></td>
+        <td>Miscellaneous</td>
+        <td>JavaScript</td>
+        <td><a href="https://github.com/griffinmyers/wirepig" target="_blank">wirepig</a></td>
+        <td>Better testing through the power of sockets.</td>
+        <th><a href="https://github.com/griffinmyers/wirepig" target="_blank"><img alt="wirepig" src="https://img.shields.io/github/stars/griffinmyers/wirepig?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="containor" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-containor.png" /></td>
+        <td>Miscellaneous</td>
+        <td>TypeScript</td>
+        <td><a href="https://github.com/ngerritsen/containor" target="_blank">containor</a></td>
+        <td>Simple IoC container for Javascript</td>
+        <th><a href="https://github.com/ngerritsen/containor" target="_blank"><img alt="containor" src="https://img.shields.io/github/stars/ngerritsen/containor?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="Preevy" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-preevy.png" /></td>
         <td>Productivity</td>
         <td>TypeScript</td>
@@ -277,22 +293,6 @@
         <td>Build your React-based CRUD applications, without constraints.</td>
         <th><a href="https://github.com/refinedev/refine" target="_blank"><img alt="refine" src="https://img.shields.io/github/stars/refinedev/refine?style=social" /></a></th>
     </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="MkDocs" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-mkdocs-2.png" /></td>
-        <td>Productivity</td>
-        <td>Python</td>
-        <td><a href="https://www.mkdocs.org" target="_blank">MkDocs</a></td>
-        <td>Project documentation with Markdown.</td>
-        <th><a href="https://github.com/mkdocs/mkdocs" target="_blank"><img alt="MkDocs" src="https://img.shields.io/github/stars/mkdocs/mkdocs?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Docsify" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-docsify.png" /></td>
-        <td>Productivity</td>
-        <td>JavaScript</td>
-        <td><a href="https://docsify.js.org" target="_blank">Docsify</a></td>
-        <td><g-emoji class="g-emoji" alias="black_joker" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f0cf.png">?</g-emoji> A magical documentation site generator.</td>
-        <th><a href="https://github.com/docsifyjs/docsify" target="_blank"><img alt="Docsify" src="https://img.shields.io/github/stars/docsifyjs/docsify?style=social" /></a></th>
-    </tr>
 
 </table>
 
@@ -371,6 +371,14 @@
         <td><a href="https://hanko.io" target="_blank">Hanko</a></td>
         <td>Authentication and user management for the passkey era.</td>
         <th><a href="https://github.com/teamhanko/hanko" target="_blank"><img alt="Hanko" src="https://img.shields.io/github/stars/teamhanko/hanko?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Materialize" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-materialize.png" /></td>
+        <td>Databases</td>
+        <td>Rust</td>
+        <td><a href="https://materialize.com" target="_blank">Materialize</a></td>
+        <td>Materialize is a fast, distributed SQL database built on streaming internals.</td>
+        <th><a href="https://github.com/MaterializeInc/materialize" target="_blank"><img alt="Materialize" src="https://img.shields.io/github/stars/MaterializeInc/materialize?style=social" /></a></th>
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="JUnitorg." src="https://libraries.github20k.com/images/uploads/2023/05/newshot-junit5.png" /></td>
@@ -539,14 +547,6 @@
         <td><a href="https://organicmaps.app" target="_blank">Organic Maps</a></td>
         <td><g-emoji class="g-emoji" alias="leaves" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f343.png">?</g-emoji> Organic Maps is a free Android &amp; iOS offline maps app for travelers, tourists, hikers, and cyclists. It uses crowd-sourced OpenStreetMap data and is developed with love by MapsWithMe (MapsMe) fou…</td>
         <th><a href="https://github.com/organicmaps/organicmaps" target="_blank"><img alt="Organic Maps" src="https://img.shields.io/github/stars/organicmaps/organicmaps?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Materialize" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-materialize.png" /></td>
-        <td>Databases</td>
-        <td>Rust</td>
-        <td><a href="https://materialize.com" target="_blank">Materialize</a></td>
-        <td>Materialize is a fast, distributed SQL database built on streaming internals.</td>
-        <th><a href="https://github.com/MaterializeInc/materialize" target="_blank"><img alt="Materialize" src="https://img.shields.io/github/stars/MaterializeInc/materialize?style=social" /></a></th>
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="Cemu Emulator" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-Cemu.png" /></td>
@@ -1210,6 +1210,22 @@
         <td><a href="https://github.com/Kludex/awesome-pydantic" target="_blank">Awesome Pydantic</a></td>
         <td>A curated list of awesome things related to Pydantic! <g-emoji class="g-emoji" alias="tornado" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f32a.png">?️</g-emoji></td>
         <th><a href="https://github.com/Kludex/awesome-pydantic" target="_blank"><img alt="Awesome Pydantic" src="https://img.shields.io/github/stars/Kludex/awesome-pydantic?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="wirepig" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-wirepig.jpg" /></td>
+        <td>Miscellaneous</td>
+        <td>JavaScript</td>
+        <td><a href="https://github.com/griffinmyers/wirepig" target="_blank">wirepig</a></td>
+        <td>Better testing through the power of sockets.</td>
+        <th><a href="https://github.com/griffinmyers/wirepig" target="_blank"><img alt="wirepig" src="https://img.shields.io/github/stars/griffinmyers/wirepig?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="containor" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-containor.png" /></td>
+        <td>Miscellaneous</td>
+        <td>TypeScript</td>
+        <td><a href="https://github.com/ngerritsen/containor" target="_blank">containor</a></td>
+        <td>Simple IoC container for Javascript</td>
+        <th><a href="https://github.com/ngerritsen/containor" target="_blank"><img alt="containor" src="https://img.shields.io/github/stars/ngerritsen/containor?style=social" /></a></th>
     </tr>
 
 </table>
@@ -2590,6 +2606,14 @@
         <th>Stargazers</th>
     </tr>
         <tr>
+        <td nowrap="nowrap"><img width="33" alt="Materialize" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-materialize.png" /></td>
+        <td>Databases</td>
+        <td>Rust</td>
+        <td><a href="https://materialize.com" target="_blank">Materialize</a></td>
+        <td>Materialize is a fast, distributed SQL database built on streaming internals.</td>
+        <th><a href="https://github.com/MaterializeInc/materialize" target="_blank"><img alt="Materialize" src="https://img.shields.io/github/stars/MaterializeInc/materialize?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="Appwrite" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-appwrite.png" /></td>
         <td>Databases</td>
         <td>TypeScript</td>
@@ -2604,14 +2628,6 @@
         <td><a href="https://plot.ly/free-sql-client-download/" target="_blank">Setup Falcon SQL Client</a></td>
         <td>Free, open-source SQL client for Windows and Mac <g-emoji class="g-emoji" alias="eagle" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f985.png">?</g-emoji></td>
         <th><a href="https://github.com/plotly/falcon" target="_blank"><img alt="Setup Falcon SQL Client" src="https://img.shields.io/github/stars/plotly/falcon?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Materialize" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-materialize.png" /></td>
-        <td>Databases</td>
-        <td>Rust</td>
-        <td><a href="https://materialize.com" target="_blank">Materialize</a></td>
-        <td>Materialize is a fast, distributed SQL database built on streaming internals.</td>
-        <th><a href="https://github.com/MaterializeInc/materialize" target="_blank"><img alt="Materialize" src="https://img.shields.io/github/stars/MaterializeInc/materialize?style=social" /></a></th>
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="cashapp/sqldelight" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-sqldelight.png" /></td>
@@ -3842,6 +3858,14 @@
         <td>WunderGraph is a Backend for Frontend Framework to optimize frontend, fullstack and backend developer workflows through API Composition.</td>
         <th><a href="https://github.com/wundergraph/wundergraph" target="_blank"><img alt="WunderGraph" src="https://img.shields.io/github/stars/wundergraph/wundergraph?style=social" /></a></th>
     </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="containor" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-containor.png" /></td>
+        <td>Miscellaneous</td>
+        <td>TypeScript</td>
+        <td><a href="https://github.com/ngerritsen/containor" target="_blank">containor</a></td>
+        <td>Simple IoC container for Javascript</td>
+        <th><a href="https://github.com/ngerritsen/containor" target="_blank"><img alt="containor" src="https://img.shields.io/github/stars/ngerritsen/containor?style=social" /></a></th>
+    </tr>
 
 </table>
 
@@ -3925,6 +3949,76 @@
         <td><a href="http://www.ntop.org" target="_blank">ntop</a></td>
         <td>Web-based Traffic and Security Network Traffic Monitoring</td>
         <th><a href="https://github.com/ntop/ntopng" target="_blank"><img alt="ntop" src="https://img.shields.io/github/stars/ntop/ntopng?style=social" /></a></th>
+    </tr>
+
+</table>
+
+<br /><br />
+<h2 id="rust">Top 20 Rust libraries</h2>
+<table>
+    <tr>
+        <th>Icon</th>
+        <th>Category</th>
+        <th>Language</th>
+        <th>Name</th>
+        <th>Description</th>
+        <th>Stargazers</th>
+    </tr>
+        <tr>
+        <td nowrap="nowrap"><img width="33" alt="Materialize" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-materialize.png" /></td>
+        <td>Databases</td>
+        <td>Rust</td>
+        <td><a href="https://materialize.com" target="_blank">Materialize</a></td>
+        <td>Materialize is a fast, distributed SQL database built on streaming internals.</td>
+        <th><a href="https://github.com/MaterializeInc/materialize" target="_blank"><img alt="Materialize" src="https://img.shields.io/github/stars/MaterializeInc/materialize?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="wasm-pack" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-wasm-pack.png" /></td>
+        <td>Productivity</td>
+        <td>Rust</td>
+        <td><a href="https://rustwasm.github.io/wasm-pack/" target="_blank">wasm-pack</a></td>
+        <td><g-emoji class="g-emoji" alias="package" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4e6.png">?</g-emoji><g-emoji class="g-emoji" alias="sparkles" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2728.png">✨</g-emoji> your favorite rust -&gt; wasm workflow tool!</td>
+        <th><a href="https://github.com/rustwasm/wasm-pack" target="_blank"><img alt="wasm-pack" src="https://img.shields.io/github/stars/rustwasm/wasm-pack?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="The Rustup Book." src="https://libraries.github20k.com/images/uploads/2023/05/newshot-rustup.png" /></td>
+        <td>Infrastructure</td>
+        <td>Rust</td>
+        <td><a href="https://rust-lang.github.io/rustup/" target="_blank">The Rustup Book.</a></td>
+        <td>The Rust toolchain installer</td>
+        <th><a href="https://github.com/rust-lang/rustup" target="_blank"><img alt="The Rustup Book." src="https://img.shields.io/github/stars/rust-lang/rustup?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Fyrox" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-Fyrox.png" /></td>
+        <td>Infrastructure</td>
+        <td>Rust</td>
+        <td><a href="https://fyrox.rs" target="_blank">Fyrox</a></td>
+        <td>3D and 2D game engine written in Rust</td>
+        <th><a href="https://github.com/FyroxEngine/Fyrox" target="_blank"><img alt="Fyrox" src="https://img.shields.io/github/stars/FyroxEngine/Fyrox?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Nannou" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-nannou-1.png" /></td>
+        <td>Productivity</td>
+        <td>Rust</td>
+        <td><a href="https://nannou.cc/" target="_blank">Nannou</a></td>
+        <td>A Creative Coding Framework for Rust.</td>
+        <th><a href="https://github.com/nannou-org/nannou" target="_blank"><img alt="Nannou" src="https://img.shields.io/github/stars/nannou-org/nannou?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Foundry Toolkit" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-foundry.png" /></td>
+        <td>Infrastructure</td>
+        <td>Rust</td>
+        <td><a href="https://getfoundry.sh" target="_blank">Foundry Toolkit</a></td>
+        <td>Foundry is a blazing fast, portable and modular toolkit for Ethereum application development written in Rust.</td>
+        <th><a href="https://github.com/foundry-rs/foundry" target="_blank"><img alt="Foundry Toolkit" src="https://img.shields.io/github/stars/foundry-rs/foundry?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="rust-lang/rustfmt" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-rustfmt-2.png" /></td>
+        <td>Productivity</td>
+        <td>Rust</td>
+        <td><a href="https://rust-lang.github.io/rustfmt/" target="_blank">rust-lang/rustfmt</a></td>
+        <td>Format Rust code</td>
+        <th><a href="https://github.com/rust-lang/rustfmt" target="_blank"><img alt="rust-lang/rustfmt" src="https://img.shields.io/github/stars/rust-lang/rustfmt?style=social" /></a></th>
     </tr>
 
 </table>
@@ -5112,6 +5206,14 @@
         <td>Lambda Cold Starts analysis, updated daily</td>
         <th><a href="https://github.com/maxday/lambda-perf" target="_blank"><img alt="lambda-perf" src="https://img.shields.io/github/stars/maxday/lambda-perf?style=social" /></a></th>
     </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="wirepig" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-wirepig.jpg" /></td>
+        <td>Miscellaneous</td>
+        <td>JavaScript</td>
+        <td><a href="https://github.com/griffinmyers/wirepig" target="_blank">wirepig</a></td>
+        <td>Better testing through the power of sockets.</td>
+        <th><a href="https://github.com/griffinmyers/wirepig" target="_blank"><img alt="wirepig" src="https://img.shields.io/github/stars/griffinmyers/wirepig?style=social" /></a></th>
+    </tr>
 
 </table>
 
@@ -5285,76 +5387,6 @@
         <td><a href="https://esphome.io/" target="_blank">ESPHome</a></td>
         <td>ESPHome is a system to control your ESP8266/ESP32 by simple yet powerful configuration files and control them remotely through Home Automation systems.</td>
         <th><a href="https://github.com/esphome/esphome" target="_blank"><img alt="ESPHome" src="https://img.shields.io/github/stars/esphome/esphome?style=social" /></a></th>
-    </tr>
-
-</table>
-
-<br /><br />
-<h2 id="rust">Top 20 Rust libraries</h2>
-<table>
-    <tr>
-        <th>Icon</th>
-        <th>Category</th>
-        <th>Language</th>
-        <th>Name</th>
-        <th>Description</th>
-        <th>Stargazers</th>
-    </tr>
-        <tr>
-        <td nowrap="nowrap"><img width="33" alt="Materialize" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-materialize.png" /></td>
-        <td>Databases</td>
-        <td>Rust</td>
-        <td><a href="https://materialize.com" target="_blank">Materialize</a></td>
-        <td>Materialize is a fast, distributed SQL database built on streaming internals.</td>
-        <th><a href="https://github.com/MaterializeInc/materialize" target="_blank"><img alt="Materialize" src="https://img.shields.io/github/stars/MaterializeInc/materialize?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="wasm-pack" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-wasm-pack.png" /></td>
-        <td>Productivity</td>
-        <td>Rust</td>
-        <td><a href="https://rustwasm.github.io/wasm-pack/" target="_blank">wasm-pack</a></td>
-        <td><g-emoji class="g-emoji" alias="package" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4e6.png">?</g-emoji><g-emoji class="g-emoji" alias="sparkles" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2728.png">✨</g-emoji> your favorite rust -&gt; wasm workflow tool!</td>
-        <th><a href="https://github.com/rustwasm/wasm-pack" target="_blank"><img alt="wasm-pack" src="https://img.shields.io/github/stars/rustwasm/wasm-pack?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="The Rustup Book." src="https://libraries.github20k.com/images/uploads/2023/05/newshot-rustup.png" /></td>
-        <td>Infrastructure</td>
-        <td>Rust</td>
-        <td><a href="https://rust-lang.github.io/rustup/" target="_blank">The Rustup Book.</a></td>
-        <td>The Rust toolchain installer</td>
-        <th><a href="https://github.com/rust-lang/rustup" target="_blank"><img alt="The Rustup Book." src="https://img.shields.io/github/stars/rust-lang/rustup?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Fyrox" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-Fyrox.png" /></td>
-        <td>Infrastructure</td>
-        <td>Rust</td>
-        <td><a href="https://fyrox.rs" target="_blank">Fyrox</a></td>
-        <td>3D and 2D game engine written in Rust</td>
-        <th><a href="https://github.com/FyroxEngine/Fyrox" target="_blank"><img alt="Fyrox" src="https://img.shields.io/github/stars/FyroxEngine/Fyrox?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Nannou" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-nannou-1.png" /></td>
-        <td>Productivity</td>
-        <td>Rust</td>
-        <td><a href="https://nannou.cc/" target="_blank">Nannou</a></td>
-        <td>A Creative Coding Framework for Rust.</td>
-        <th><a href="https://github.com/nannou-org/nannou" target="_blank"><img alt="Nannou" src="https://img.shields.io/github/stars/nannou-org/nannou?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Foundry Toolkit" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-foundry.png" /></td>
-        <td>Infrastructure</td>
-        <td>Rust</td>
-        <td><a href="https://getfoundry.sh" target="_blank">Foundry Toolkit</a></td>
-        <td>Foundry is a blazing fast, portable and modular toolkit for Ethereum application development written in Rust.</td>
-        <th><a href="https://github.com/foundry-rs/foundry" target="_blank"><img alt="Foundry Toolkit" src="https://img.shields.io/github/stars/foundry-rs/foundry?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="rust-lang/rustfmt" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-rustfmt-2.png" /></td>
-        <td>Productivity</td>
-        <td>Rust</td>
-        <td><a href="https://rust-lang.github.io/rustfmt/" target="_blank">rust-lang/rustfmt</a></td>
-        <td>Format Rust code</td>
-        <th><a href="https://github.com/rust-lang/rustfmt" target="_blank"><img alt="rust-lang/rustfmt" src="https://img.shields.io/github/stars/rust-lang/rustfmt?style=social" /></a></th>
     </tr>
 
 </table>
