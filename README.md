@@ -445,6 +445,14 @@
         <th><a href="https://github.com/yogeshpaliyal/KeyPass" target="_blank"><img alt="KeyPass" src="https://img.shields.io/github/stars/yogeshpaliyal/KeyPass?style=social" /></a></th>
     </tr>
     <tr>
+        <td nowrap="nowrap"><img width="33" alt="Hyperswitch" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-hyperswitch.png" /></td>
+        <td>Productivity</td>
+        <td>Rust</td>
+        <td><a href="https://hyperswitch.io" target="_blank">Hyperswitch</a></td>
+        <td>An Open Source Financial Switch to make Payments fast, reliable and affordable</td>
+        <th><a href="https://github.com/juspay/hyperswitch" target="_blank"><img alt="Hyperswitch" src="https://img.shields.io/github/stars/juspay/hyperswitch?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="ClusterFuzz" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-clusterfuzz.png" /></td>
         <td>Infrastructure</td>
         <td>Python</td>
@@ -1100,14 +1108,6 @@
         <td>Cross-platform library for building Telegram clients</td>
         <th><a href="https://github.com/tdlib/td" target="_blank"><img alt="Telegram Database Library" src="https://img.shields.io/github/stars/tdlib/td?style=social" /></a></th>
     </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Hover" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-go-flutter.png" /></td>
-        <td>Infrastructure</td>
-        <td>Go</td>
-        <td><a href="https://hover.build/" target="_blank">Hover</a></td>
-        <td>Flutter on Windows, MacOS and Linux - based on Flutter Embedding, Go and GLFW.</td>
-        <th><a href="https://github.com/go-flutter-desktop/go-flutter" target="_blank"><img alt="Hover" src="https://img.shields.io/github/stars/go-flutter-desktop/go-flutter?style=social" /></a></th>
-    </tr>
 
 </table>
 
@@ -1422,6 +1422,14 @@
         <td><a href="https://docusaurus.io" target="_blank">Docusaurus</a></td>
         <td>Easy to maintain open source documentation websites.</td>
         <th><a href="https://github.com/facebook/docusaurus" target="_blank"><img alt="Docusaurus" src="https://img.shields.io/github/stars/facebook/docusaurus?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Hyperswitch" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-hyperswitch.png" /></td>
+        <td>Productivity</td>
+        <td>Rust</td>
+        <td><a href="https://hyperswitch.io" target="_blank">Hyperswitch</a></td>
+        <td>An Open Source Financial Switch to make Payments fast, reliable and affordable</td>
+        <th><a href="https://github.com/juspay/hyperswitch" target="_blank"><img alt="Hyperswitch" src="https://img.shields.io/github/stars/juspay/hyperswitch?style=social" /></a></th>
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="VS Code Docs" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-vscode-docs.png" /></td>
@@ -2062,14 +2070,6 @@
         <td><a href="https://wundergraph.com" target="_blank">WunderGraph</a></td>
         <td>WunderGraph is a Backend for Frontend Framework to optimize frontend, fullstack and backend developer workflows through API Composition.</td>
         <th><a href="https://github.com/wundergraph/wundergraph" target="_blank"><img alt="WunderGraph" src="https://img.shields.io/github/stars/wundergraph/wundergraph?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Hyperswitch" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-hyperswitch.png" /></td>
-        <td>Productivity</td>
-        <td>Rust</td>
-        <td><a href="https://hyperswitch.io" target="_blank">Hyperswitch</a></td>
-        <td>An Open Source Financial Switch to make Payments fast, reliable and affordable</td>
-        <th><a href="https://github.com/juspay/hyperswitch" target="_blank"><img alt="Hyperswitch" src="https://img.shields.io/github/stars/juspay/hyperswitch?style=social" /></a></th>
     </tr>
 
 </table>
@@ -3989,6 +3989,14 @@
         <th><a href="https://github.com/MaterializeInc/materialize" target="_blank"><img alt="Materialize" src="https://img.shields.io/github/stars/MaterializeInc/materialize?style=social" /></a></th>
     </tr>
     <tr>
+        <td nowrap="nowrap"><img width="33" alt="Hyperswitch" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-hyperswitch.png" /></td>
+        <td>Productivity</td>
+        <td>Rust</td>
+        <td><a href="https://hyperswitch.io" target="_blank">Hyperswitch</a></td>
+        <td>An Open Source Financial Switch to make Payments fast, reliable and affordable</td>
+        <th><a href="https://github.com/juspay/hyperswitch" target="_blank"><img alt="Hyperswitch" src="https://img.shields.io/github/stars/juspay/hyperswitch?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="wasm-pack" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-wasm-pack.png" /></td>
         <td>Productivity</td>
         <td>Rust</td>
@@ -4035,14 +4043,6 @@
         <td><a href="https://rust-lang.github.io/rustfmt/" target="_blank">rust-lang/rustfmt</a></td>
         <td>Format Rust code</td>
         <th><a href="https://github.com/rust-lang/rustfmt" target="_blank"><img alt="rust-lang/rustfmt" src="https://img.shields.io/github/stars/rust-lang/rustfmt?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Hyperswitch" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-hyperswitch.png" /></td>
-        <td>Productivity</td>
-        <td>Rust</td>
-        <td><a href="https://hyperswitch.io" target="_blank">Hyperswitch</a></td>
-        <td>An Open Source Financial Switch to make Payments fast, reliable and affordable</td>
-        <th><a href="https://github.com/juspay/hyperswitch" target="_blank"><img alt="Hyperswitch" src="https://img.shields.io/github/stars/juspay/hyperswitch?style=social" /></a></th>
     </tr>
 
 </table>
