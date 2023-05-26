@@ -166,28 +166,28 @@
         <th><a href="https://github.com/Cap-go/capacitor-updater" target="_blank"><img alt="Capacitor updater" src="https://img.shields.io/github/stars/Cap-go/capacitor-updater?style=social" /></a></th>
     </tr>
     <tr>
+        <td nowrap="nowrap"><img width="33" alt="Action Discord Alerts" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-action-discord-alerts.jpg" /></td>
+        <td>Productivity</td>
+        <td>JavaScript</td>
+        <td><a href="https://github.com/marketplace/actions/action-discord-alerts" target="_blank">Action Discord Alerts</a></td>
+        <td>Action aimed at facilitating continuous delivery. You only need a Discord webhook to receive notifications for the completion status of your workflow. <g-emoji class="g-emoji" alias="tada" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f389.png">?</g-emoji></td>
+        <th><a href="https://github.com/ErnaneJ/action-discord-alerts" target="_blank"><img alt="Action Discord Alerts" src="https://img.shields.io/github/stars/ErnaneJ/action-discord-alerts?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="TradingWorks+" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-tradingworks-plus.jpg" /></td>
+        <td>Productivity</td>
+        <td>JavaScript</td>
+        <td><a href="https://github.com/ErnaneJ/tradingworks-plus" target="_blank">TradingWorks+</a></td>
+        <td>Extension developed with the aim of facilitating the usability of the TradingWorks platform for point management between work shifts.</td>
+        <th><a href="https://github.com/ErnaneJ/tradingworks-plus" target="_blank"><img alt="TradingWorks+" src="https://img.shields.io/github/stars/ErnaneJ/tradingworks-plus?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="Talker" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-talker-1.jpg" /></td>
         <td>Observability</td>
         <td>Dart</td>
         <td><a href="https://pub.dev/packages/talker" target="_blank">Talker</a></td>
         <td><g-emoji class="g-emoji" alias="phone" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/260e.png">☎️</g-emoji> Advanced error handler and logger for dart and flutter apps</td>
         <th><a href="https://github.com/Frezyx/talker" target="_blank"><img alt="Talker" src="https://img.shields.io/github/stars/Frezyx/talker?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="KeyPass" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-KeyPass.jpg" /></td>
-        <td>Security</td>
-        <td>Kotlin</td>
-        <td><a href="https://play.google.com/store/apps/details?id=com.yogeshpaliyal.keypass" target="_blank">KeyPass</a></td>
-        <td>KeyPass: Open-source &amp; offline password manager. Store, manage, take control securely.</td>
-        <th><a href="https://github.com/yogeshpaliyal/KeyPass" target="_blank"><img alt="KeyPass" src="https://img.shields.io/github/stars/yogeshpaliyal/KeyPass?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="lambda-perf" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-lambda-perf-17.jpg" /></td>
-        <td>Observability</td>
-        <td>JavaScript</td>
-        <td><a href="https://maxday.github.io/lambda-perf" target="_blank">lambda-perf</a></td>
-        <td>Lambda Cold Starts analysis, updated daily</td>
-        <th><a href="https://github.com/maxday/lambda-perf" target="_blank"><img alt="lambda-perf" src="https://img.shields.io/github/stars/maxday/lambda-perf?style=social" /></a></th>
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="group_button" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-group_button.jpg" /></td>
@@ -204,6 +204,22 @@
         <td><a href="https://pub.dev/packages/sidebarx" target="_blank">sidebarx</a></td>
         <td>Flutter multiplatform navigation sidebar / side navigation bar / drawer widget</td>
         <th><a href="https://github.com/Frezyx/sidebarx" target="_blank"><img alt="sidebarx" src="https://img.shields.io/github/stars/Frezyx/sidebarx?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="KeyPass" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-KeyPass.jpg" /></td>
+        <td>Security</td>
+        <td>Kotlin</td>
+        <td><a href="https://play.google.com/store/apps/details?id=com.yogeshpaliyal.keypass" target="_blank">KeyPass</a></td>
+        <td>KeyPass: Open-source &amp; offline password manager. Store, manage, take control securely.</td>
+        <th><a href="https://github.com/yogeshpaliyal/KeyPass" target="_blank"><img alt="KeyPass" src="https://img.shields.io/github/stars/yogeshpaliyal/KeyPass?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="lambda-perf" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-lambda-perf-17.jpg" /></td>
+        <td>Observability</td>
+        <td>JavaScript</td>
+        <td><a href="https://maxday.github.io/lambda-perf" target="_blank">lambda-perf</a></td>
+        <td>Lambda Cold Starts analysis, updated daily</td>
+        <th><a href="https://github.com/maxday/lambda-perf" target="_blank"><img alt="lambda-perf" src="https://img.shields.io/github/stars/maxday/lambda-perf?style=social" /></a></th>
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="wirepig" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-wirepig.jpg" /></td>
@@ -277,22 +293,6 @@
         <td>PHP arrays and collections made easy</td>
         <th><a href="https://github.com/aimeos/map" target="_blank"><img alt="PHP Collections" src="https://img.shields.io/github/stars/aimeos/map?style=social" /></a></th>
     </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="生信爱好者周刊" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-weekly.jpg" /></td>
-        <td>Miscellaneous</td>
-        <td>HTML</td>
-        <td><a href="https://shixiangwang.github.io/weekly/" target="_blank">生信爱好者周刊</a></td>
-        <td>生信爱好者周刊（每周日发布）</td>
-        <th><a href="https://github.com/ShixiangWang/weekly" target="_blank"><img alt="生信爱好者周刊" src="https://img.shields.io/github/stars/ShixiangWang/weekly?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Wing Language" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-wing.png" /></td>
-        <td>Infrastructure</td>
-        <td>TypeScript</td>
-        <td><a href="https://winglang.io" target="_blank">Wing Language</a></td>
-        <td>The Wing Programming Language</td>
-        <th><a href="https://github.com/winglang/wing" target="_blank"><img alt="Wing Language" src="https://img.shields.io/github/stars/winglang/wing?style=social" /></a></th>
-    </tr>
 
 </table>
 
@@ -333,20 +333,20 @@
         <th><a href="https://github.com/CrowdDotDev/crowd.dev" target="_blank"><img alt="crowddev" src="https://img.shields.io/github/stars/CrowdDotDev/crowd.dev?style=social" /></a></th>
     </tr>
     <tr>
-        <td nowrap="nowrap"><img width="33" alt="Github 20k" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-super-star-1.png" /></td>
-        <td>Productivity</td>
-        <td>TypeScript</td>
-        <td><a href="https://github20k.com" target="_blank">Github 20k</a></td>
-        <td>The open-source course landing page <g-emoji class="g-emoji" alias="rocket" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f680.png">?</g-emoji><g-emoji class="g-emoji" alias="rocket" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f680.png">?</g-emoji><g-emoji class="g-emoji" alias="rocket" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f680.png">?</g-emoji></td>
-        <th><a href="https://github.com/github-20k/super-star" target="_blank"><img alt="Github 20k" src="https://img.shields.io/github/stars/github-20k/super-star?style=social" /></a></th>
-    </tr>
-    <tr>
         <td nowrap="nowrap"><img width="33" alt="Talker" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-talker-1.jpg" /></td>
         <td>Observability</td>
         <td>Dart</td>
         <td><a href="https://pub.dev/packages/talker" target="_blank">Talker</a></td>
         <td><g-emoji class="g-emoji" alias="phone" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/260e.png">☎️</g-emoji> Advanced error handler and logger for dart and flutter apps</td>
         <th><a href="https://github.com/Frezyx/talker" target="_blank"><img alt="Talker" src="https://img.shields.io/github/stars/Frezyx/talker?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Github 20k" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-super-star-1.png" /></td>
+        <td>Productivity</td>
+        <td>TypeScript</td>
+        <td><a href="https://github20k.com" target="_blank">Github 20k</a></td>
+        <td>The open-source course landing page <g-emoji class="g-emoji" alias="rocket" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f680.png">?</g-emoji><g-emoji class="g-emoji" alias="rocket" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f680.png">?</g-emoji><g-emoji class="g-emoji" alias="rocket" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f680.png">?</g-emoji></td>
+        <th><a href="https://github.com/github-20k/super-star" target="_blank"><img alt="Github 20k" src="https://img.shields.io/github/stars/github-20k/super-star?style=social" /></a></th>
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="awesome window manager" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-awesome.png" /></td>
@@ -365,12 +365,36 @@
         <th><a href="https://github.com/github/dmca" target="_blank"><img alt="GitHub Support" src="https://img.shields.io/github/stars/github/dmca?style=social" /></a></th>
     </tr>
     <tr>
+        <td nowrap="nowrap"><img width="33" alt="Appwrite" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-appwrite.png" /></td>
+        <td>Databases</td>
+        <td>TypeScript</td>
+        <td><a href="https://appwrite.io" target="_blank">Appwrite</a></td>
+        <td>Build Fast. Scale Big. All in One Place.</td>
+        <th><a href="https://github.com/appwrite/appwrite" target="_blank"><img alt="Appwrite" src="https://img.shields.io/github/stars/appwrite/appwrite?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="Hanko" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-hanko.png" /></td>
         <td>Security</td>
         <td>TypeScript</td>
         <td><a href="https://hanko.io" target="_blank">Hanko</a></td>
         <td>Authentication and user management for the passkey era.</td>
         <th><a href="https://github.com/teamhanko/hanko" target="_blank"><img alt="Hanko" src="https://img.shields.io/github/stars/teamhanko/hanko?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="group_button" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-group_button.jpg" /></td>
+        <td>Infrastructure</td>
+        <td>Dart</td>
+        <td><a href="https://pub.dev/packages/group_button" target="_blank">group_button</a></td>
+        <td><g-emoji class="g-emoji" alias="sweat_drops" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4a6.png">?</g-emoji> Flutter custom widget to make a group buttons. Included Radio and CheckBox buttons.</td>
+        <th><a href="https://github.com/Frezyx/group_button" target="_blank"><img alt="group_button" src="https://img.shields.io/github/stars/Frezyx/group_button?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="sidebarx" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-sidebarx.jpg" /></td>
+        <td>Infrastructure</td>
+        <td>Dart</td>
+        <td><a href="https://pub.dev/packages/sidebarx" target="_blank">sidebarx</a></td>
+        <td>Flutter multiplatform navigation sidebar / side navigation bar / drawer widget</td>
+        <th><a href="https://github.com/Frezyx/sidebarx" target="_blank"><img alt="sidebarx" src="https://img.shields.io/github/stars/Frezyx/sidebarx?style=social" /></a></th>
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="auto-dop" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-auto-dop.jpg" /></td>
@@ -389,6 +413,14 @@
         <th><a href="https://github.com/MaterializeInc/materialize" target="_blank"><img alt="Materialize" src="https://img.shields.io/github/stars/MaterializeInc/materialize?style=social" /></a></th>
     </tr>
     <tr>
+        <td nowrap="nowrap"><img width="33" alt="Flutter Gallery" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-gallery.png" /></td>
+        <td>Productivity</td>
+        <td>Dart</td>
+        <td><a href="https://gallery.flutter.dev" target="_blank">Flutter Gallery</a></td>
+        <td>Flutter Gallery is a resource to help developers evaluate and use Flutter</td>
+        <th><a href="https://github.com/flutter/gallery" target="_blank"><img alt="Flutter Gallery" src="https://img.shields.io/github/stars/flutter/gallery?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="JUnitorg." src="https://libraries.github20k.com/images/uploads/2023/05/newshot-junit5.png" /></td>
         <td>Infrastructure</td>
         <td>Java</td>
@@ -403,14 +435,6 @@
         <td><a href="https://bitwarden.com" target="_blank">Bitwarden</a></td>
         <td>Bitwarden client applications (web, browser extension, desktop, and cli)</td>
         <th><a href="https://github.com/bitwarden/clients" target="_blank"><img alt="Bitwarden" src="https://img.shields.io/github/stars/bitwarden/clients?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Appwrite" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-appwrite.png" /></td>
-        <td>Databases</td>
-        <td>TypeScript</td>
-        <td><a href="https://appwrite.io" target="_blank">Appwrite</a></td>
-        <td>Build Fast. Scale Big. All in One Place.</td>
-        <th><a href="https://github.com/appwrite/appwrite" target="_blank"><img alt="Appwrite" src="https://img.shields.io/github/stars/appwrite/appwrite?style=social" /></a></th>
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="Docusaurus" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-docusaurus.png" /></td>
@@ -707,14 +731,6 @@
         <td><a href="https://www.gopass.pw/" target="_blank">gopass</a></td>
         <td>The slightly more awesome standard unix password manager for teams</td>
         <th><a href="https://github.com/gopasspw/gopass" target="_blank"><img alt="gopass" src="https://img.shields.io/github/stars/gopasspw/gopass?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Flutter Gallery" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-gallery.png" /></td>
-        <td>Productivity</td>
-        <td>Dart</td>
-        <td><a href="https://gallery.flutter.dev" target="_blank">Flutter Gallery</a></td>
-        <td>Flutter Gallery is a resource to help developers evaluate and use Flutter</td>
-        <th><a href="https://github.com/flutter/gallery" target="_blank"><img alt="Flutter Gallery" src="https://img.shields.io/github/stars/flutter/gallery?style=social" /></a></th>
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="vavr-io/vavr" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-vavr.png" /></td>
@@ -1092,22 +1108,6 @@
         <td>Hysteria is a feature-packed proxy &amp; relay tool optimized for lossy, unstable connections (e.g. satellite networks, congested public Wi-Fi, connecting to foreign servers from China)</td>
         <th><a href="https://github.com/apernet/hysteria" target="_blank"><img alt="Hysteria" src="https://img.shields.io/github/stars/apernet/hysteria?style=social" /></a></th>
     </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="thoughtbot/administrate" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-administrate.png" /></td>
-        <td>Productivity</td>
-        <td>Ruby</td>
-        <td><a href="http://administrate-demo.herokuapp.com" target="_blank">thoughtbot/administrate</a></td>
-        <td>A Rails engine that helps you put together a super-flexible admin dashboard.</td>
-        <th><a href="https://github.com/thoughtbot/administrate" target="_blank"><img alt="thoughtbot/administrate" src="https://img.shields.io/github/stars/thoughtbot/administrate?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="GitHub" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-pwndbg.png" /></td>
-        <td>Security</td>
-        <td>Python</td>
-        <td><a href="https://pwndbg.com/" target="_blank">GitHub</a></td>
-        <td>Exploit Development and Reverse Engineering with GDB Made Easy</td>
-        <th><a href="https://github.com/pwndbg/pwndbg" target="_blank"><img alt="GitHub" src="https://img.shields.io/github/stars/pwndbg/pwndbg?style=social" /></a></th>
-    </tr>
 
 </table>
 
@@ -1424,6 +1424,14 @@
         <th><a href="https://github.com/Erutidians/auto-dop" target="_blank"><img alt="auto-dop" src="https://img.shields.io/github/stars/Erutidians/auto-dop?style=social" /></a></th>
     </tr>
     <tr>
+        <td nowrap="nowrap"><img width="33" alt="Flutter Gallery" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-gallery.png" /></td>
+        <td>Productivity</td>
+        <td>Dart</td>
+        <td><a href="https://gallery.flutter.dev" target="_blank">Flutter Gallery</a></td>
+        <td>Flutter Gallery is a resource to help developers evaluate and use Flutter</td>
+        <th><a href="https://github.com/flutter/gallery" target="_blank"><img alt="Flutter Gallery" src="https://img.shields.io/github/stars/flutter/gallery?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="Docusaurus" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-docusaurus.png" /></td>
         <td>Productivity</td>
         <td>TypeScript</td>
@@ -1534,14 +1542,6 @@
         <td><a href="https://rustwasm.github.io/wasm-pack/" target="_blank">wasm-pack</a></td>
         <td><g-emoji class="g-emoji" alias="package" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4e6.png">?</g-emoji><g-emoji class="g-emoji" alias="sparkles" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2728.png">✨</g-emoji> your favorite rust -&gt; wasm workflow tool!</td>
         <th><a href="https://github.com/rustwasm/wasm-pack" target="_blank"><img alt="wasm-pack" src="https://img.shields.io/github/stars/rustwasm/wasm-pack?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Flutter Gallery" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-gallery.png" /></td>
-        <td>Productivity</td>
-        <td>Dart</td>
-        <td><a href="https://gallery.flutter.dev" target="_blank">Flutter Gallery</a></td>
-        <td>Flutter Gallery is a resource to help developers evaluate and use Flutter</td>
-        <th><a href="https://github.com/flutter/gallery" target="_blank"><img alt="Flutter Gallery" src="https://img.shields.io/github/stars/flutter/gallery?style=social" /></a></th>
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="vavr-io/vavr" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-vavr.png" /></td>
@@ -2087,6 +2087,22 @@
         <td>WunderGraph is a Backend for Frontend Framework to optimize frontend, fullstack and backend developer workflows through API Composition.</td>
         <th><a href="https://github.com/wundergraph/wundergraph" target="_blank"><img alt="WunderGraph" src="https://img.shields.io/github/stars/wundergraph/wundergraph?style=social" /></a></th>
     </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Action Discord Alerts" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-action-discord-alerts.jpg" /></td>
+        <td>Productivity</td>
+        <td>JavaScript</td>
+        <td><a href="https://github.com/marketplace/actions/action-discord-alerts" target="_blank">Action Discord Alerts</a></td>
+        <td>Action aimed at facilitating continuous delivery. You only need a Discord webhook to receive notifications for the completion status of your workflow. <g-emoji class="g-emoji" alias="tada" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f389.png">?</g-emoji></td>
+        <th><a href="https://github.com/ErnaneJ/action-discord-alerts" target="_blank"><img alt="Action Discord Alerts" src="https://img.shields.io/github/stars/ErnaneJ/action-discord-alerts?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="TradingWorks+" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-tradingworks-plus.jpg" /></td>
+        <td>Productivity</td>
+        <td>JavaScript</td>
+        <td><a href="https://github.com/ErnaneJ/tradingworks-plus" target="_blank">TradingWorks+</a></td>
+        <td>Extension developed with the aim of facilitating the usability of the TradingWorks platform for point management between work shifts.</td>
+        <th><a href="https://github.com/ErnaneJ/tradingworks-plus" target="_blank"><img alt="TradingWorks+" src="https://img.shields.io/github/stars/ErnaneJ/tradingworks-plus?style=social" /></a></th>
+    </tr>
 
 </table>
 
@@ -2630,20 +2646,20 @@
         <th>Stargazers</th>
     </tr>
         <tr>
-        <td nowrap="nowrap"><img width="33" alt="Materialize" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-materialize.png" /></td>
-        <td>Databases</td>
-        <td>Rust</td>
-        <td><a href="https://materialize.com" target="_blank">Materialize</a></td>
-        <td>Materialize is a fast, distributed SQL database built on streaming internals.</td>
-        <th><a href="https://github.com/MaterializeInc/materialize" target="_blank"><img alt="Materialize" src="https://img.shields.io/github/stars/MaterializeInc/materialize?style=social" /></a></th>
-    </tr>
-    <tr>
         <td nowrap="nowrap"><img width="33" alt="Appwrite" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-appwrite.png" /></td>
         <td>Databases</td>
         <td>TypeScript</td>
         <td><a href="https://appwrite.io" target="_blank">Appwrite</a></td>
         <td>Build Fast. Scale Big. All in One Place.</td>
         <th><a href="https://github.com/appwrite/appwrite" target="_blank"><img alt="Appwrite" src="https://img.shields.io/github/stars/appwrite/appwrite?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Materialize" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-materialize.png" /></td>
+        <td>Databases</td>
+        <td>Rust</td>
+        <td><a href="https://materialize.com" target="_blank">Materialize</a></td>
+        <td>Materialize is a fast, distributed SQL database built on streaming internals.</td>
+        <th><a href="https://github.com/MaterializeInc/materialize" target="_blank"><img alt="Materialize" src="https://img.shields.io/github/stars/MaterializeInc/materialize?style=social" /></a></th>
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="Setup Falcon SQL Client" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-falcon.png" /></td>
@@ -2796,6 +2812,22 @@
         <th>Stargazers</th>
     </tr>
         <tr>
+        <td nowrap="nowrap"><img width="33" alt="group_button" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-group_button.jpg" /></td>
+        <td>Infrastructure</td>
+        <td>Dart</td>
+        <td><a href="https://pub.dev/packages/group_button" target="_blank">group_button</a></td>
+        <td><g-emoji class="g-emoji" alias="sweat_drops" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4a6.png">?</g-emoji> Flutter custom widget to make a group buttons. Included Radio and CheckBox buttons.</td>
+        <th><a href="https://github.com/Frezyx/group_button" target="_blank"><img alt="group_button" src="https://img.shields.io/github/stars/Frezyx/group_button?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="sidebarx" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-sidebarx.jpg" /></td>
+        <td>Infrastructure</td>
+        <td>Dart</td>
+        <td><a href="https://pub.dev/packages/sidebarx" target="_blank">sidebarx</a></td>
+        <td>Flutter multiplatform navigation sidebar / side navigation bar / drawer widget</td>
+        <th><a href="https://github.com/Frezyx/sidebarx" target="_blank"><img alt="sidebarx" src="https://img.shields.io/github/stars/Frezyx/sidebarx?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="JUnitorg." src="https://libraries.github20k.com/images/uploads/2023/05/newshot-junit5.png" /></td>
         <td>Infrastructure</td>
         <td>Java</td>
@@ -3492,22 +3524,6 @@
         <th><a href="https://github.com/winglang/wing" target="_blank"><img alt="Wing Language" src="https://img.shields.io/github/stars/winglang/wing?style=social" /></a></th>
     </tr>
     <tr>
-        <td nowrap="nowrap"><img width="33" alt="group_button" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-group_button.jpg" /></td>
-        <td>Infrastructure</td>
-        <td>Dart</td>
-        <td><a href="https://pub.dev/packages/group_button" target="_blank">group_button</a></td>
-        <td><g-emoji class="g-emoji" alias="sweat_drops" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4a6.png">?</g-emoji> Flutter custom widget to make a group buttons. Included Radio and CheckBox buttons.</td>
-        <th><a href="https://github.com/Frezyx/group_button" target="_blank"><img alt="group_button" src="https://img.shields.io/github/stars/Frezyx/group_button?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="sidebarx" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-sidebarx.jpg" /></td>
-        <td>Infrastructure</td>
-        <td>Dart</td>
-        <td><a href="https://pub.dev/packages/sidebarx" target="_blank">sidebarx</a></td>
-        <td>Flutter multiplatform navigation sidebar / side navigation bar / drawer widget</td>
-        <th><a href="https://github.com/Frezyx/sidebarx" target="_blank"><img alt="sidebarx" src="https://img.shields.io/github/stars/Frezyx/sidebarx?style=social" /></a></th>
-    </tr>
-    <tr>
         <td nowrap="nowrap"><img width="33" alt="Capacitor updater" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-capacitor-updater.png" /></td>
         <td>Infrastructure</td>
         <td>Java</td>
@@ -3563,6 +3579,14 @@
         <th><a href="https://github.com/github-20k/super-star" target="_blank"><img alt="Github 20k" src="https://img.shields.io/github/stars/github-20k/super-star?style=social" /></a></th>
     </tr>
     <tr>
+        <td nowrap="nowrap"><img width="33" alt="Appwrite" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-appwrite.png" /></td>
+        <td>Databases</td>
+        <td>TypeScript</td>
+        <td><a href="https://appwrite.io" target="_blank">Appwrite</a></td>
+        <td>Build Fast. Scale Big. All in One Place.</td>
+        <th><a href="https://github.com/appwrite/appwrite" target="_blank"><img alt="Appwrite" src="https://img.shields.io/github/stars/appwrite/appwrite?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="Hanko" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-hanko.png" /></td>
         <td>Security</td>
         <td>TypeScript</td>
@@ -3577,14 +3601,6 @@
         <td><a href="https://bitwarden.com" target="_blank">Bitwarden</a></td>
         <td>Bitwarden client applications (web, browser extension, desktop, and cli)</td>
         <th><a href="https://github.com/bitwarden/clients" target="_blank"><img alt="Bitwarden" src="https://img.shields.io/github/stars/bitwarden/clients?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Appwrite" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-appwrite.png" /></td>
-        <td>Databases</td>
-        <td>TypeScript</td>
-        <td><a href="https://appwrite.io" target="_blank">Appwrite</a></td>
-        <td>Build Fast. Scale Big. All in One Place.</td>
-        <th><a href="https://github.com/appwrite/appwrite" target="_blank"><img alt="Appwrite" src="https://img.shields.io/github/stars/appwrite/appwrite?style=social" /></a></th>
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="Docusaurus" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-docusaurus.png" /></td>
@@ -3921,14 +3937,6 @@
         <th><a href="https://github.com/Frezyx/talker" target="_blank"><img alt="Talker" src="https://img.shields.io/github/stars/Frezyx/talker?style=social" /></a></th>
     </tr>
     <tr>
-        <td nowrap="nowrap"><img width="33" alt="Flutter Gallery" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-gallery.png" /></td>
-        <td>Productivity</td>
-        <td>Dart</td>
-        <td><a href="https://gallery.flutter.dev" target="_blank">Flutter Gallery</a></td>
-        <td>Flutter Gallery is a resource to help developers evaluate and use Flutter</td>
-        <th><a href="https://github.com/flutter/gallery" target="_blank"><img alt="Flutter Gallery" src="https://img.shields.io/github/stars/flutter/gallery?style=social" /></a></th>
-    </tr>
-    <tr>
         <td nowrap="nowrap"><img width="33" alt="group_button" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-group_button.jpg" /></td>
         <td>Infrastructure</td>
         <td>Dart</td>
@@ -3943,6 +3951,14 @@
         <td><a href="https://pub.dev/packages/sidebarx" target="_blank">sidebarx</a></td>
         <td>Flutter multiplatform navigation sidebar / side navigation bar / drawer widget</td>
         <th><a href="https://github.com/Frezyx/sidebarx" target="_blank"><img alt="sidebarx" src="https://img.shields.io/github/stars/Frezyx/sidebarx?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Flutter Gallery" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-gallery.png" /></td>
+        <td>Productivity</td>
+        <td>Dart</td>
+        <td><a href="https://gallery.flutter.dev" target="_blank">Flutter Gallery</a></td>
+        <td>Flutter Gallery is a resource to help developers evaluate and use Flutter</td>
+        <th><a href="https://github.com/flutter/gallery" target="_blank"><img alt="Flutter Gallery" src="https://img.shields.io/github/stars/flutter/gallery?style=social" /></a></th>
     </tr>
 
 </table>
@@ -4243,6 +4259,22 @@
         <td><a href="https://github.com/griffinmyers/wirepig" target="_blank">wirepig</a></td>
         <td>Better testing through the power of sockets.</td>
         <th><a href="https://github.com/griffinmyers/wirepig" target="_blank"><img alt="wirepig" src="https://img.shields.io/github/stars/griffinmyers/wirepig?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Action Discord Alerts" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-action-discord-alerts.jpg" /></td>
+        <td>Productivity</td>
+        <td>JavaScript</td>
+        <td><a href="https://github.com/marketplace/actions/action-discord-alerts" target="_blank">Action Discord Alerts</a></td>
+        <td>Action aimed at facilitating continuous delivery. You only need a Discord webhook to receive notifications for the completion status of your workflow. <g-emoji class="g-emoji" alias="tada" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f389.png">?</g-emoji></td>
+        <th><a href="https://github.com/ErnaneJ/action-discord-alerts" target="_blank"><img alt="Action Discord Alerts" src="https://img.shields.io/github/stars/ErnaneJ/action-discord-alerts?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="TradingWorks+" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-tradingworks-plus.jpg" /></td>
+        <td>Productivity</td>
+        <td>JavaScript</td>
+        <td><a href="https://github.com/ErnaneJ/tradingworks-plus" target="_blank">TradingWorks+</a></td>
+        <td>Extension developed with the aim of facilitating the usability of the TradingWorks platform for point management between work shifts.</td>
+        <th><a href="https://github.com/ErnaneJ/tradingworks-plus" target="_blank"><img alt="TradingWorks+" src="https://img.shields.io/github/stars/ErnaneJ/tradingworks-plus?style=social" /></a></th>
     </tr>
 
 </table>
