@@ -134,12 +134,28 @@
         <th>Stargazers</th>
     </tr>
         <tr>
+        <td nowrap="nowrap"><img width="33" alt="cypress-mochawesome-reporter" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-cypress-mochawesome-reporter.jpg" /></td>
+        <td>Miscellaneous</td>
+        <td>JavaScript</td>
+        <td><a href="https://github.com/LironEr/cypress-mochawesome-reporter" target="_blank">cypress-mochawesome-reporter</a></td>
+        <td>Zero config Mochawesome reporter for Cypress with screenshots and videos</td>
+        <th><a href="https://github.com/LironEr/cypress-mochawesome-reporter" target="_blank"><img alt="cypress-mochawesome-reporter" src="https://img.shields.io/github/stars/LironEr/cypress-mochawesome-reporter?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="Jellyfish-x-Retro" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-vscode-Jellyfish-x-Retro.jpg" /></td>
         <td>Productivity</td>
         <td>CSS</td>
         <td><a href="https://marketplace.visualstudio.com/items?itemName=Bhanu1776.jellyfish-retro" target="_blank">Jellyfish-x-Retro</a></td>
         <td>This Retro theme injects modern aesthetic looks and wild 80's animations into your VS code <g-emoji class="g-emoji" alias="rocket" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f680.png">?</g-emoji><g-emoji class="g-emoji" alias="boom" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4a5.png">?</g-emoji><g-emoji class="g-emoji" alias="bomb" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4a3.png">?</g-emoji></td>
         <th><a href="https://github.com/Bhanu1776/vscode-Jellyfish-x-Retro" target="_blank"><img alt="Jellyfish-x-Retro" src="https://img.shields.io/github/stars/Bhanu1776/vscode-Jellyfish-x-Retro?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="BundleMon" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-bundlemon.jpg" /></td>
+        <td>Miscellaneous</td>
+        <td>TypeScript</td>
+        <td><a href="https://app.bundlemon.dev" target="_blank">BundleMon</a></td>
+        <td>A free open-source tool that helps you to monitor your bundle size on every commit and alerts you on changes.</td>
+        <th><a href="https://github.com/LironEr/bundlemon" target="_blank"><img alt="BundleMon" src="https://img.shields.io/github/stars/LironEr/bundlemon?style=social" /></a></th>
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="auto-dop" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-auto-dop.jpg" /></td>
@@ -276,22 +292,6 @@
         <td><a href="https://github.com/Kludex/awesome-pydantic" target="_blank">Awesome Pydantic</a></td>
         <td>A curated list of awesome things related to Pydantic! <g-emoji class="g-emoji" alias="tornado" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f32a.png">?️</g-emoji></td>
         <th><a href="https://github.com/Kludex/awesome-pydantic" target="_blank"><img alt="Awesome Pydantic" src="https://img.shields.io/github/stars/Kludex/awesome-pydantic?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="WunderGraph" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-wundergraph.jpg" /></td>
-        <td>Productivity</td>
-        <td>TypeScript</td>
-        <td><a href="https://wundergraph.com" target="_blank">WunderGraph</a></td>
-        <td>WunderGraph is a Backend for Frontend Framework to optimize frontend, fullstack and backend developer workflows through API Composition.</td>
-        <th><a href="https://github.com/wundergraph/wundergraph" target="_blank"><img alt="WunderGraph" src="https://img.shields.io/github/stars/wundergraph/wundergraph?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="crowddev" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-crowd.dev_.png" /></td>
-        <td>Analytics</td>
-        <td>TypeScript</td>
-        <td><a href="https://crowd.dev" target="_blank">crowddev</a></td>
-        <td>An open-source platform to centralize community, product, and customer data in one place</td>
-        <th><a href="https://github.com/CrowdDotDev/crowd.dev" target="_blank"><img alt="crowddev" src="https://img.shields.io/github/stars/CrowdDotDev/crowd.dev?style=social" /></a></th>
     </tr>
 
 </table>
@@ -491,6 +491,14 @@
         <td><a href="https://everright.site/en/module/formEditor/introduction.html" target="_blank">Everright-formEditor</a></td>
         <td>A visual low code form editor based on vue, The PC depends on element-plus while the mobile depends on vant. It provides an easy way to create custom forms. The project is extensible, easy to use a…</td>
         <th><a href="https://github.com/Liberty-liu/Everright-formEditor" target="_blank"><img alt="Everright-formEditor" src="https://img.shields.io/github/stars/Liberty-liu/Everright-formEditor?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="cypress-mochawesome-reporter" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-cypress-mochawesome-reporter.jpg" /></td>
+        <td>Miscellaneous</td>
+        <td>JavaScript</td>
+        <td><a href="https://github.com/LironEr/cypress-mochawesome-reporter" target="_blank">cypress-mochawesome-reporter</a></td>
+        <td>Zero config Mochawesome reporter for Cypress with screenshots and videos</td>
+        <th><a href="https://github.com/LironEr/cypress-mochawesome-reporter" target="_blank"><img alt="cypress-mochawesome-reporter" src="https://img.shields.io/github/stars/LironEr/cypress-mochawesome-reporter?style=social" /></a></th>
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="ClusterFuzz" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-clusterfuzz.png" /></td>
@@ -1100,14 +1108,6 @@
         <td>Get BEM to all people in simplest way</td>
         <th><a href="https://github.com/getbem/getbem.github.io" target="_blank"><img alt="BEM" src="https://img.shields.io/github/stars/getbem/getbem.github.io?style=social" /></a></th>
     </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Hysteria" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-hysteria.png" /></td>
-        <td>Infrastructure</td>
-        <td>Go</td>
-        <td><a href="https://hysteria.network" target="_blank">Hysteria</a></td>
-        <td>Hysteria is a feature-packed proxy &amp; relay tool optimized for lossy, unstable connections (e.g. satellite networks, congested public Wi-Fi, connecting to foreign servers from China)</td>
-        <th><a href="https://github.com/apernet/hysteria" target="_blank"><img alt="Hysteria" src="https://img.shields.io/github/stars/apernet/hysteria?style=social" /></a></th>
-    </tr>
 
 </table>
 
@@ -1146,6 +1146,14 @@
         <td><a href="https://medusajs.com" target="_blank">Medusa</a></td>
         <td>Building blocks for digital commerce</td>
         <th><a href="https://github.com/medusajs/medusa" target="_blank"><img alt="Medusa" src="https://img.shields.io/github/stars/medusajs/medusa?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="cypress-mochawesome-reporter" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-cypress-mochawesome-reporter.jpg" /></td>
+        <td>Miscellaneous</td>
+        <td>JavaScript</td>
+        <td><a href="https://github.com/LironEr/cypress-mochawesome-reporter" target="_blank">cypress-mochawesome-reporter</a></td>
+        <td>Zero config Mochawesome reporter for Cypress with screenshots and videos</td>
+        <th><a href="https://github.com/LironEr/cypress-mochawesome-reporter" target="_blank"><img alt="cypress-mochawesome-reporter" src="https://img.shields.io/github/stars/LironEr/cypress-mochawesome-reporter?style=social" /></a></th>
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="Cemu Emulator" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-Cemu.png" /></td>
@@ -1226,6 +1234,14 @@
         <td><a href="https://github.com/ngerritsen/containor" target="_blank">containor</a></td>
         <td>Simple IoC container for Javascript</td>
         <th><a href="https://github.com/ngerritsen/containor" target="_blank"><img alt="containor" src="https://img.shields.io/github/stars/ngerritsen/containor?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="BundleMon" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-bundlemon.jpg" /></td>
+        <td>Miscellaneous</td>
+        <td>TypeScript</td>
+        <td><a href="https://app.bundlemon.dev" target="_blank">BundleMon</a></td>
+        <td>A free open-source tool that helps you to monitor your bundle size on every commit and alerts you on changes.</td>
+        <th><a href="https://github.com/LironEr/bundlemon" target="_blank"><img alt="BundleMon" src="https://img.shields.io/github/stars/LironEr/bundlemon?style=social" /></a></th>
     </tr>
 
 </table>
@@ -3922,6 +3938,14 @@
         <td>Simple IoC container for Javascript</td>
         <th><a href="https://github.com/ngerritsen/containor" target="_blank"><img alt="containor" src="https://img.shields.io/github/stars/ngerritsen/containor?style=social" /></a></th>
     </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="BundleMon" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-bundlemon.jpg" /></td>
+        <td>Miscellaneous</td>
+        <td>TypeScript</td>
+        <td><a href="https://app.bundlemon.dev" target="_blank">BundleMon</a></td>
+        <td>A free open-source tool that helps you to monitor your bundle size on every commit and alerts you on changes.</td>
+        <th><a href="https://github.com/LironEr/bundlemon" target="_blank"><img alt="BundleMon" src="https://img.shields.io/github/stars/LironEr/bundlemon?style=social" /></a></th>
+    </tr>
 
 </table>
 
@@ -4035,6 +4059,14 @@
         <td><a href="https://everright.site/en/module/formEditor/introduction.html" target="_blank">Everright-formEditor</a></td>
         <td>A visual low code form editor based on vue, The PC depends on element-plus while the mobile depends on vant. It provides an easy way to create custom forms. The project is extensible, easy to use a…</td>
         <th><a href="https://github.com/Liberty-liu/Everright-formEditor" target="_blank"><img alt="Everright-formEditor" src="https://img.shields.io/github/stars/Liberty-liu/Everright-formEditor?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="cypress-mochawesome-reporter" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-cypress-mochawesome-reporter.jpg" /></td>
+        <td>Miscellaneous</td>
+        <td>JavaScript</td>
+        <td><a href="https://github.com/LironEr/cypress-mochawesome-reporter" target="_blank">cypress-mochawesome-reporter</a></td>
+        <td>Zero config Mochawesome reporter for Cypress with screenshots and videos</td>
+        <th><a href="https://github.com/LironEr/cypress-mochawesome-reporter" target="_blank"><img alt="cypress-mochawesome-reporter" src="https://img.shields.io/github/stars/LironEr/cypress-mochawesome-reporter?style=social" /></a></th>
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="Soundnode" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-soundnode-app.png" /></td>
