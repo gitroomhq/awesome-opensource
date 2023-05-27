@@ -134,6 +134,14 @@
         <th>Stargazers</th>
     </tr>
         <tr>
+        <td nowrap="nowrap"><img width="33" alt="Jellyfish-x-Retro" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-vscode-Jellyfish-x-Retro.jpg" /></td>
+        <td>Productivity</td>
+        <td>CSS</td>
+        <td><a href="https://marketplace.visualstudio.com/items?itemName=Bhanu1776.jellyfish-retro" target="_blank">Jellyfish-x-Retro</a></td>
+        <td>This Retro theme injects modern aesthetic looks and wild 80's animations into your VS code <g-emoji class="g-emoji" alias="rocket" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f680.png">?</g-emoji><g-emoji class="g-emoji" alias="boom" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4a5.png">?</g-emoji><g-emoji class="g-emoji" alias="bomb" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4a3.png">?</g-emoji></td>
+        <th><a href="https://github.com/Bhanu1776/vscode-Jellyfish-x-Retro" target="_blank"><img alt="Jellyfish-x-Retro" src="https://img.shields.io/github/stars/Bhanu1776/vscode-Jellyfish-x-Retro?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="auto-dop" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-auto-dop.jpg" /></td>
         <td>Productivity</td>
         <td>JavaScript</td>
@@ -285,14 +293,6 @@
         <td>An open-source platform to centralize community, product, and customer data in one place</td>
         <th><a href="https://github.com/CrowdDotDev/crowd.dev" target="_blank"><img alt="crowddev" src="https://img.shields.io/github/stars/CrowdDotDev/crowd.dev?style=social" /></a></th>
     </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="PHP Collections" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-map.png" /></td>
-        <td>Infrastructure</td>
-        <td>PHP</td>
-        <td><a href="http://php-map.org" target="_blank">PHP Collections</a></td>
-        <td>PHP arrays and collections made easy</td>
-        <th><a href="https://github.com/aimeos/map" target="_blank"><img alt="PHP Collections" src="https://img.shields.io/github/stars/aimeos/map?style=social" /></a></th>
-    </tr>
 
 </table>
 
@@ -309,6 +309,14 @@
         <th>Stargazers</th>
     </tr>
         <tr>
+        <td nowrap="nowrap"><img width="33" alt="crowddev" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-crowd.dev_.png" /></td>
+        <td>Analytics</td>
+        <td>TypeScript</td>
+        <td><a href="https://crowd.dev" target="_blank">crowddev</a></td>
+        <td>An open-source platform to centralize community, product, and customer data in one place</td>
+        <th><a href="https://github.com/CrowdDotDev/crowd.dev" target="_blank"><img alt="crowddev" src="https://img.shields.io/github/stars/CrowdDotDev/crowd.dev?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="Preevy" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-preevy.png" /></td>
         <td>Productivity</td>
         <td>TypeScript</td>
@@ -323,14 +331,6 @@
         <td><a href="https://novu.co" target="_blank">Novu</a></td>
         <td>The open-source notification infrastructure with fully functional embedded notification center</td>
         <th><a href="https://github.com/novuhq/novu" target="_blank"><img alt="Novu" src="https://img.shields.io/github/stars/novuhq/novu?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="crowddev" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-crowd.dev_.png" /></td>
-        <td>Analytics</td>
-        <td>TypeScript</td>
-        <td><a href="https://crowd.dev" target="_blank">crowddev</a></td>
-        <td>An open-source platform to centralize community, product, and customer data in one place</td>
-        <th><a href="https://github.com/CrowdDotDev/crowd.dev" target="_blank"><img alt="crowddev" src="https://img.shields.io/github/stars/CrowdDotDev/crowd.dev?style=social" /></a></th>
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="Talker" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-talker-1.jpg" /></td>
@@ -2103,6 +2103,14 @@
         <td>Extension developed with the aim of facilitating the usability of the TradingWorks platform for point management between work shifts.</td>
         <th><a href="https://github.com/ErnaneJ/tradingworks-plus" target="_blank"><img alt="TradingWorks+" src="https://img.shields.io/github/stars/ErnaneJ/tradingworks-plus?style=social" /></a></th>
     </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Jellyfish-x-Retro" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-vscode-Jellyfish-x-Retro.jpg" /></td>
+        <td>Productivity</td>
+        <td>CSS</td>
+        <td><a href="https://marketplace.visualstudio.com/items?itemName=Bhanu1776.jellyfish-retro" target="_blank">Jellyfish-x-Retro</a></td>
+        <td>This Retro theme injects modern aesthetic looks and wild 80's animations into your VS code <g-emoji class="g-emoji" alias="rocket" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f680.png">?</g-emoji><g-emoji class="g-emoji" alias="boom" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4a5.png">?</g-emoji><g-emoji class="g-emoji" alias="bomb" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4a3.png">?</g-emoji></td>
+        <th><a href="https://github.com/Bhanu1776/vscode-Jellyfish-x-Retro" target="_blank"><img alt="Jellyfish-x-Retro" src="https://img.shields.io/github/stars/Bhanu1776/vscode-Jellyfish-x-Retro?style=social" /></a></th>
+    </tr>
 
 </table>
 
@@ -3547,6 +3555,14 @@
         <th>Stargazers</th>
     </tr>
         <tr>
+        <td nowrap="nowrap"><img width="33" alt="crowddev" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-crowd.dev_.png" /></td>
+        <td>Analytics</td>
+        <td>TypeScript</td>
+        <td><a href="https://crowd.dev" target="_blank">crowddev</a></td>
+        <td>An open-source platform to centralize community, product, and customer data in one place</td>
+        <th><a href="https://github.com/CrowdDotDev/crowd.dev" target="_blank"><img alt="crowddev" src="https://img.shields.io/github/stars/CrowdDotDev/crowd.dev?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="Preevy" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-preevy.png" /></td>
         <td>Productivity</td>
         <td>TypeScript</td>
@@ -3561,14 +3577,6 @@
         <td><a href="https://novu.co" target="_blank">Novu</a></td>
         <td>The open-source notification infrastructure with fully functional embedded notification center</td>
         <th><a href="https://github.com/novuhq/novu" target="_blank"><img alt="Novu" src="https://img.shields.io/github/stars/novuhq/novu?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="crowddev" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-crowd.dev_.png" /></td>
-        <td>Analytics</td>
-        <td>TypeScript</td>
-        <td><a href="https://crowd.dev" target="_blank">crowddev</a></td>
-        <td>An open-source platform to centralize community, product, and customer data in one place</td>
-        <th><a href="https://github.com/CrowdDotDev/crowd.dev" target="_blank"><img alt="crowddev" src="https://img.shields.io/github/stars/CrowdDotDev/crowd.dev?style=social" /></a></th>
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="Github 20k" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-super-star-1.png" /></td>
@@ -5309,6 +5317,14 @@
         <td><a href="https://www.froala.com/wysiwyg-editor" target="_blank">froala/wysiwyg-editor</a></td>
         <td>The next generation Javascript WYSIWYG HTML Editor.</td>
         <th><a href="https://github.com/froala/wysiwyg-editor" target="_blank"><img alt="froala/wysiwyg-editor" src="https://img.shields.io/github/stars/froala/wysiwyg-editor?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Jellyfish-x-Retro" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-vscode-Jellyfish-x-Retro.jpg" /></td>
+        <td>Productivity</td>
+        <td>CSS</td>
+        <td><a href="https://marketplace.visualstudio.com/items?itemName=Bhanu1776.jellyfish-retro" target="_blank">Jellyfish-x-Retro</a></td>
+        <td>This Retro theme injects modern aesthetic looks and wild 80's animations into your VS code <g-emoji class="g-emoji" alias="rocket" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f680.png">?</g-emoji><g-emoji class="g-emoji" alias="boom" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4a5.png">?</g-emoji><g-emoji class="g-emoji" alias="bomb" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4a3.png">?</g-emoji></td>
+        <th><a href="https://github.com/Bhanu1776/vscode-Jellyfish-x-Retro" target="_blank"><img alt="Jellyfish-x-Retro" src="https://img.shields.io/github/stars/Bhanu1776/vscode-Jellyfish-x-Retro?style=social" /></a></th>
     </tr>
 
 </table>
