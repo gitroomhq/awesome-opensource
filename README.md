@@ -56,9 +56,9 @@
              </li>          <li>
                 <a href="#kotlin">Top 20 Kotlin libraries</a>
              </li>          <li>
-                <a href="#python">Top 20 Python libraries</a>
-             </li>          <li>
                 <a href="#css">Top 20 CSS libraries</a>
+             </li>          <li>
+                <a href="#python">Top 20 Python libraries</a>
              </li>          <li>
                 <a href="#c++">Top 20 C++ libraries</a>
              </li>          <li>
@@ -134,14 +134,6 @@
         <th>Stargazers</th>
     </tr>
         <tr>
-        <td nowrap="nowrap"><img width="33" alt="cypress-mochawesome-reporter" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-cypress-mochawesome-reporter.jpg" /></td>
-        <td>Miscellaneous</td>
-        <td>JavaScript</td>
-        <td><a href="https://github.com/LironEr/cypress-mochawesome-reporter" target="_blank">cypress-mochawesome-reporter</a></td>
-        <td>Zero config Mochawesome reporter for Cypress with screenshots and videos</td>
-        <th><a href="https://github.com/LironEr/cypress-mochawesome-reporter" target="_blank"><img alt="cypress-mochawesome-reporter" src="https://img.shields.io/github/stars/LironEr/cypress-mochawesome-reporter?style=social" /></a></th>
-    </tr>
-    <tr>
         <td nowrap="nowrap"><img width="33" alt="Jellyfish-x-Retro" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-vscode-Jellyfish-x-Retro.jpg" /></td>
         <td>Productivity</td>
         <td>CSS</td>
@@ -156,6 +148,14 @@
         <td><a href="https://app.bundlemon.dev" target="_blank">BundleMon</a></td>
         <td>A free open-source tool that helps you to monitor your bundle size on every commit and alerts you on changes.</td>
         <th><a href="https://github.com/LironEr/bundlemon" target="_blank"><img alt="BundleMon" src="https://img.shields.io/github/stars/LironEr/bundlemon?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="cypress-mochawesome-reporter" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-cypress-mochawesome-reporter.jpg" /></td>
+        <td>Miscellaneous</td>
+        <td>JavaScript</td>
+        <td><a href="https://github.com/LironEr/cypress-mochawesome-reporter" target="_blank">cypress-mochawesome-reporter</a></td>
+        <td>Zero config Mochawesome reporter for Cypress with screenshots and videos</td>
+        <th><a href="https://github.com/LironEr/cypress-mochawesome-reporter" target="_blank"><img alt="cypress-mochawesome-reporter" src="https://img.shields.io/github/stars/LironEr/cypress-mochawesome-reporter?style=social" /></a></th>
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="purekit" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-purekit.jpg" /></td>
@@ -491,6 +491,22 @@
         <td><a href="https://hyperswitch.io" target="_blank">Hyperswitch</a></td>
         <td>An Open Source Financial Switch to make Payments fast, reliable and affordable</td>
         <th><a href="https://github.com/juspay/hyperswitch" target="_blank"><img alt="Hyperswitch" src="https://img.shields.io/github/stars/juspay/hyperswitch?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Jellyfish-x-Retro" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-vscode-Jellyfish-x-Retro.jpg" /></td>
+        <td>Productivity</td>
+        <td>CSS</td>
+        <td><a href="https://marketplace.visualstudio.com/items?itemName=Bhanu1776.jellyfish-retro" target="_blank">Jellyfish-x-Retro</a></td>
+        <td>This Retro theme injects modern aesthetic looks and wild 80's animations into your VS code <g-emoji class="g-emoji" alias="rocket" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f680.png">?</g-emoji><g-emoji class="g-emoji" alias="boom" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4a5.png">?</g-emoji><g-emoji class="g-emoji" alias="bomb" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4a3.png">?</g-emoji></td>
+        <th><a href="https://github.com/Bhanu1776/vscode-Jellyfish-x-Retro" target="_blank"><img alt="Jellyfish-x-Retro" src="https://img.shields.io/github/stars/Bhanu1776/vscode-Jellyfish-x-Retro?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="BundleMon" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-bundlemon.jpg" /></td>
+        <td>Miscellaneous</td>
+        <td>TypeScript</td>
+        <td><a href="https://app.bundlemon.dev" target="_blank">BundleMon</a></td>
+        <td>A free open-source tool that helps you to monitor your bundle size on every commit and alerts you on changes.</td>
+        <th><a href="https://github.com/LironEr/bundlemon" target="_blank"><img alt="BundleMon" src="https://img.shields.io/github/stars/LironEr/bundlemon?style=social" /></a></th>
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="cypress-mochawesome-reporter" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-cypress-mochawesome-reporter.jpg" /></td>
@@ -1092,22 +1108,6 @@
         <td>Ultra performant API Gateway with middlewares. A project hosted at The Linux Foundation</td>
         <th><a href="https://github.com/luraproject/lura" target="_blank"><img alt="The Lura Project" src="https://img.shields.io/github/stars/luraproject/lura?style=social" /></a></th>
     </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Krew" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-krew.png" /></td>
-        <td>Productivity</td>
-        <td>Go</td>
-        <td><a href="https://krew.sigs.k8s.io" target="_blank">Krew</a></td>
-        <td><g-emoji class="g-emoji" alias="package" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4e6.png">?</g-emoji> Find and install kubectl plugins</td>
-        <th><a href="https://github.com/kubernetes-sigs/krew" target="_blank"><img alt="Krew" src="https://img.shields.io/github/stars/kubernetes-sigs/krew?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="BEM" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-getbem.github.io_.png" /></td>
-        <td>Infrastructure</td>
-        <td>Astro</td>
-        <td><a href="http://getbem.com/" target="_blank">BEM</a></td>
-        <td>Get BEM to all people in simplest way</td>
-        <th><a href="https://github.com/getbem/getbem.github.io" target="_blank"><img alt="BEM" src="https://img.shields.io/github/stars/getbem/getbem.github.io?style=social" /></a></th>
-    </tr>
 
 </table>
 
@@ -1146,6 +1146,14 @@
         <td><a href="https://medusajs.com" target="_blank">Medusa</a></td>
         <td>Building blocks for digital commerce</td>
         <th><a href="https://github.com/medusajs/medusa" target="_blank"><img alt="Medusa" src="https://img.shields.io/github/stars/medusajs/medusa?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="BundleMon" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-bundlemon.jpg" /></td>
+        <td>Miscellaneous</td>
+        <td>TypeScript</td>
+        <td><a href="https://app.bundlemon.dev" target="_blank">BundleMon</a></td>
+        <td>A free open-source tool that helps you to monitor your bundle size on every commit and alerts you on changes.</td>
+        <th><a href="https://github.com/LironEr/bundlemon" target="_blank"><img alt="BundleMon" src="https://img.shields.io/github/stars/LironEr/bundlemon?style=social" /></a></th>
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="cypress-mochawesome-reporter" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-cypress-mochawesome-reporter.jpg" /></td>
@@ -1234,14 +1242,6 @@
         <td><a href="https://github.com/ngerritsen/containor" target="_blank">containor</a></td>
         <td>Simple IoC container for Javascript</td>
         <th><a href="https://github.com/ngerritsen/containor" target="_blank"><img alt="containor" src="https://img.shields.io/github/stars/ngerritsen/containor?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="BundleMon" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-bundlemon.jpg" /></td>
-        <td>Miscellaneous</td>
-        <td>TypeScript</td>
-        <td><a href="https://app.bundlemon.dev" target="_blank">BundleMon</a></td>
-        <td>A free open-source tool that helps you to monitor your bundle size on every commit and alerts you on changes.</td>
-        <th><a href="https://github.com/LironEr/bundlemon" target="_blank"><img alt="BundleMon" src="https://img.shields.io/github/stars/LironEr/bundlemon?style=social" /></a></th>
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="typedash" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-typedash.png" /></td>
@@ -1478,6 +1478,14 @@
         <td><a href="https://hyperswitch.io" target="_blank">Hyperswitch</a></td>
         <td>An Open Source Financial Switch to make Payments fast, reliable and affordable</td>
         <th><a href="https://github.com/juspay/hyperswitch" target="_blank"><img alt="Hyperswitch" src="https://img.shields.io/github/stars/juspay/hyperswitch?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Jellyfish-x-Retro" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-vscode-Jellyfish-x-Retro.jpg" /></td>
+        <td>Productivity</td>
+        <td>CSS</td>
+        <td><a href="https://marketplace.visualstudio.com/items?itemName=Bhanu1776.jellyfish-retro" target="_blank">Jellyfish-x-Retro</a></td>
+        <td>This Retro theme injects modern aesthetic looks and wild 80's animations into your VS code <g-emoji class="g-emoji" alias="rocket" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f680.png">?</g-emoji><g-emoji class="g-emoji" alias="boom" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4a5.png">?</g-emoji><g-emoji class="g-emoji" alias="bomb" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4a3.png">?</g-emoji></td>
+        <th><a href="https://github.com/Bhanu1776/vscode-Jellyfish-x-Retro" target="_blank"><img alt="Jellyfish-x-Retro" src="https://img.shields.io/github/stars/Bhanu1776/vscode-Jellyfish-x-Retro?style=social" /></a></th>
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="VS Code Docs" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-vscode-docs.png" /></td>
@@ -2126,14 +2134,6 @@
         <td><a href="https://github.com/ErnaneJ/tradingworks-plus" target="_blank">TradingWorks+</a></td>
         <td>Extension developed with the aim of facilitating the usability of the TradingWorks platform for point management between work shifts.</td>
         <th><a href="https://github.com/ErnaneJ/tradingworks-plus" target="_blank"><img alt="TradingWorks+" src="https://img.shields.io/github/stars/ErnaneJ/tradingworks-plus?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Jellyfish-x-Retro" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-vscode-Jellyfish-x-Retro.jpg" /></td>
-        <td>Productivity</td>
-        <td>CSS</td>
-        <td><a href="https://marketplace.visualstudio.com/items?itemName=Bhanu1776.jellyfish-retro" target="_blank">Jellyfish-x-Retro</a></td>
-        <td>This Retro theme injects modern aesthetic looks and wild 80's animations into your VS code <g-emoji class="g-emoji" alias="rocket" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f680.png">?</g-emoji><g-emoji class="g-emoji" alias="boom" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4a5.png">?</g-emoji><g-emoji class="g-emoji" alias="bomb" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4a3.png">?</g-emoji></td>
-        <th><a href="https://github.com/Bhanu1776/vscode-Jellyfish-x-Retro" target="_blank"><img alt="Jellyfish-x-Retro" src="https://img.shields.io/github/stars/Bhanu1776/vscode-Jellyfish-x-Retro?style=social" /></a></th>
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="purekit" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-purekit.jpg" /></td>
@@ -3675,6 +3675,14 @@
         <th><a href="https://github.com/medusajs/medusa" target="_blank"><img alt="Medusa" src="https://img.shields.io/github/stars/medusajs/medusa?style=social" /></a></th>
     </tr>
     <tr>
+        <td nowrap="nowrap"><img width="33" alt="BundleMon" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-bundlemon.jpg" /></td>
+        <td>Miscellaneous</td>
+        <td>TypeScript</td>
+        <td><a href="https://app.bundlemon.dev" target="_blank">BundleMon</a></td>
+        <td>A free open-source tool that helps you to monitor your bundle size on every commit and alerts you on changes.</td>
+        <th><a href="https://github.com/LironEr/bundlemon" target="_blank"><img alt="BundleMon" src="https://img.shields.io/github/stars/LironEr/bundlemon?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="The Lounge" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-thelounge.png" /></td>
         <td>Collaboration</td>
         <td>TypeScript</td>
@@ -3969,14 +3977,6 @@
         <td><a href="https://github.com/ngerritsen/containor" target="_blank">containor</a></td>
         <td>Simple IoC container for Javascript</td>
         <th><a href="https://github.com/ngerritsen/containor" target="_blank"><img alt="containor" src="https://img.shields.io/github/stars/ngerritsen/containor?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="BundleMon" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-bundlemon.jpg" /></td>
-        <td>Miscellaneous</td>
-        <td>TypeScript</td>
-        <td><a href="https://app.bundlemon.dev" target="_blank">BundleMon</a></td>
-        <td>A free open-source tool that helps you to monitor your bundle size on every commit and alerts you on changes.</td>
-        <th><a href="https://github.com/LironEr/bundlemon" target="_blank"><img alt="BundleMon" src="https://img.shields.io/github/stars/LironEr/bundlemon?style=social" /></a></th>
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="purekit" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-purekit.jpg" /></td>
@@ -5174,6 +5174,44 @@
 </table>
 
 <br /><br />
+<h2 id="css">Top 20 CSS libraries</h2>
+<table>
+    <tr>
+        <th>Icon</th>
+        <th>Category</th>
+        <th>Language</th>
+        <th>Name</th>
+        <th>Description</th>
+        <th>Stargazers</th>
+    </tr>
+        <tr>
+        <td nowrap="nowrap"><img width="33" alt="Jellyfish-x-Retro" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-vscode-Jellyfish-x-Retro.jpg" /></td>
+        <td>Productivity</td>
+        <td>CSS</td>
+        <td><a href="https://marketplace.visualstudio.com/items?itemName=Bhanu1776.jellyfish-retro" target="_blank">Jellyfish-x-Retro</a></td>
+        <td>This Retro theme injects modern aesthetic looks and wild 80's animations into your VS code <g-emoji class="g-emoji" alias="rocket" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f680.png">?</g-emoji><g-emoji class="g-emoji" alias="boom" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4a5.png">?</g-emoji><g-emoji class="g-emoji" alias="bomb" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4a3.png">?</g-emoji></td>
+        <th><a href="https://github.com/Bhanu1776/vscode-Jellyfish-x-Retro" target="_blank"><img alt="Jellyfish-x-Retro" src="https://img.shields.io/github/stars/Bhanu1776/vscode-Jellyfish-x-Retro?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="VS Code Docs" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-vscode-docs.png" /></td>
+        <td>Productivity</td>
+        <td>CSS</td>
+        <td><a href="http://code.visualstudio.com/docs" target="_blank">VS Code Docs</a></td>
+        <td>Public documentation for Visual Studio Code</td>
+        <th><a href="https://github.com/microsoft/vscode-docs" target="_blank"><img alt="VS Code Docs" src="https://img.shields.io/github/stars/microsoft/vscode-docs?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="froala/wysiwyg-editor" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-wysiwyg-editor.png" /></td>
+        <td>Productivity</td>
+        <td>CSS</td>
+        <td><a href="https://www.froala.com/wysiwyg-editor" target="_blank">froala/wysiwyg-editor</a></td>
+        <td>The next generation Javascript WYSIWYG HTML Editor.</td>
+        <th><a href="https://github.com/froala/wysiwyg-editor" target="_blank"><img alt="froala/wysiwyg-editor" src="https://img.shields.io/github/stars/froala/wysiwyg-editor?style=social" /></a></th>
+    </tr>
+
+</table>
+
+<br /><br />
 <h2 id="python">Top 20 Python libraries</h2>
 <table>
     <tr>
@@ -5383,44 +5421,6 @@
         <td><a href="https://www.mkdocs.org" target="_blank">MkDocs</a></td>
         <td>Project documentation with Markdown.</td>
         <th><a href="https://github.com/mkdocs/mkdocs" target="_blank"><img alt="MkDocs" src="https://img.shields.io/github/stars/mkdocs/mkdocs?style=social" /></a></th>
-    </tr>
-
-</table>
-
-<br /><br />
-<h2 id="css">Top 20 CSS libraries</h2>
-<table>
-    <tr>
-        <th>Icon</th>
-        <th>Category</th>
-        <th>Language</th>
-        <th>Name</th>
-        <th>Description</th>
-        <th>Stargazers</th>
-    </tr>
-        <tr>
-        <td nowrap="nowrap"><img width="33" alt="VS Code Docs" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-vscode-docs.png" /></td>
-        <td>Productivity</td>
-        <td>CSS</td>
-        <td><a href="http://code.visualstudio.com/docs" target="_blank">VS Code Docs</a></td>
-        <td>Public documentation for Visual Studio Code</td>
-        <th><a href="https://github.com/microsoft/vscode-docs" target="_blank"><img alt="VS Code Docs" src="https://img.shields.io/github/stars/microsoft/vscode-docs?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="froala/wysiwyg-editor" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-wysiwyg-editor.png" /></td>
-        <td>Productivity</td>
-        <td>CSS</td>
-        <td><a href="https://www.froala.com/wysiwyg-editor" target="_blank">froala/wysiwyg-editor</a></td>
-        <td>The next generation Javascript WYSIWYG HTML Editor.</td>
-        <th><a href="https://github.com/froala/wysiwyg-editor" target="_blank"><img alt="froala/wysiwyg-editor" src="https://img.shields.io/github/stars/froala/wysiwyg-editor?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Jellyfish-x-Retro" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-vscode-Jellyfish-x-Retro.jpg" /></td>
-        <td>Productivity</td>
-        <td>CSS</td>
-        <td><a href="https://marketplace.visualstudio.com/items?itemName=Bhanu1776.jellyfish-retro" target="_blank">Jellyfish-x-Retro</a></td>
-        <td>This Retro theme injects modern aesthetic looks and wild 80's animations into your VS code <g-emoji class="g-emoji" alias="rocket" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f680.png">?</g-emoji><g-emoji class="g-emoji" alias="boom" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4a5.png">?</g-emoji><g-emoji class="g-emoji" alias="bomb" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4a3.png">?</g-emoji></td>
-        <th><a href="https://github.com/Bhanu1776/vscode-Jellyfish-x-Retro" target="_blank"><img alt="Jellyfish-x-Retro" src="https://img.shields.io/github/stars/Bhanu1776/vscode-Jellyfish-x-Retro?style=social" /></a></th>
     </tr>
 
 </table>
