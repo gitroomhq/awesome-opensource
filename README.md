@@ -50,6 +50,8 @@
              </li>          <li>
                 <a href="#java">Top 20 Java libraries</a>
              </li>          <li>
+                <a href="#c">Top 20 C# libraries</a>
+             </li>          <li>
                 <a href="#php">Top 20 PHP libraries</a>
              </li>          <li>
                 <a href="#go">Top 20 Go libraries</a>
@@ -69,8 +71,6 @@
                 <a href="#jsonnet">Top 20 Jsonnet libraries</a>
              </li>          <li>
                 <a href="#clojure">Top 20 Clojure libraries</a>
-             </li>          <li>
-                <a href="#c">Top 20 C# libraries</a>
              </li>          <li>
                 <a href="#c">Top 20 C libraries</a>
              </li>          <li>
@@ -349,6 +349,14 @@
         <th><a href="https://github.com/github-20k/super-star" target="_blank"><img alt="Github 20k" src="https://img.shields.io/github/stars/github-20k/super-star?style=social" /></a></th>
     </tr>
     <tr>
+        <td nowrap="nowrap"><img width="33" alt="Appwrite" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-appwrite.png" /></td>
+        <td>Databases</td>
+        <td>TypeScript</td>
+        <td><a href="https://appwrite.io" target="_blank">Appwrite</a></td>
+        <td>Build Fast. Scale Big. All in One Place.</td>
+        <th><a href="https://github.com/appwrite/appwrite" target="_blank"><img alt="Appwrite" src="https://img.shields.io/github/stars/appwrite/appwrite?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="awesome window manager" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-awesome.png" /></td>
         <td>Miscellaneous</td>
         <td>Lua</td>
@@ -379,14 +387,6 @@
         <td><a href="http://help.github.com/dmca" target="_blank">GitHub Support</a></td>
         <td>Repository with text of DMCA takedown notices as received. GitHub does not endorse or adopt any assertion contained in the following notices. Users identified in the notices are presumed innocent u…</td>
         <th><a href="https://github.com/github/dmca" target="_blank"><img alt="GitHub Support" src="https://img.shields.io/github/stars/github/dmca?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Appwrite" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-appwrite.png" /></td>
-        <td>Databases</td>
-        <td>TypeScript</td>
-        <td><a href="https://appwrite.io" target="_blank">Appwrite</a></td>
-        <td>Build Fast. Scale Big. All in One Place.</td>
-        <th><a href="https://github.com/appwrite/appwrite" target="_blank"><img alt="Appwrite" src="https://img.shields.io/github/stars/appwrite/appwrite?style=social" /></a></th>
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="Hanko" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-hanko.png" /></td>
@@ -435,6 +435,14 @@
         <td><a href="https://junit.org" target="_blank">JUnitorg.</a></td>
         <td><g-emoji class="g-emoji" alias="white_check_mark" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2705.png">✅</g-emoji> The 5th major version of the programmer-friendly testing framework for Java and the JVM</td>
         <th><a href="https://github.com/junit-team/junit5" target="_blank"><img alt="JUnitorg." src="https://img.shields.io/github/stars/junit-team/junit5?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="StackExchange.Redis" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-StackExchange.Redis_.png" /></td>
+        <td>Databases</td>
+        <td>C#</td>
+        <td><a href="https://stackexchange.github.io/StackExchange.Redis/" target="_blank">StackExchange.Redis</a></td>
+        <td>General purpose redis client</td>
+        <th><a href="https://github.com/StackExchange/StackExchange.Redis" target="_blank"><img alt="StackExchange.Redis" src="https://img.shields.io/github/stars/StackExchange/StackExchange.Redis?style=social" /></a></th>
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="Bitwarden" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-clients-1.png" /></td>
@@ -1099,14 +1107,6 @@
         <td><a href="https://stackstorm.com/" target="_blank">StackStorm</a></td>
         <td>StackStorm (aka "IFTTT for Ops") is event-driven automation for auto-remediation, incident responses, troubleshooting, deployments, and more for DevOps and SREs. Includes rules engine, workflow, 16…</td>
         <th><a href="https://github.com/StackStorm/st2" target="_blank"><img alt="StackStorm" src="https://img.shields.io/github/stars/StackStorm/st2?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="The Lura Project" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-lura.png" /></td>
-        <td>Infrastructure</td>
-        <td>Go</td>
-        <td><a href="https://luraproject.org" target="_blank">The Lura Project</a></td>
-        <td>Ultra performant API Gateway with middlewares. A project hosted at The Linux Foundation</td>
-        <th><a href="https://github.com/luraproject/lura" target="_blank"><img alt="The Lura Project" src="https://img.shields.io/github/stars/luraproject/lura?style=social" /></a></th>
     </tr>
 
 </table>
@@ -2726,6 +2726,14 @@
         <th><a href="https://github.com/MaterializeInc/materialize" target="_blank"><img alt="Materialize" src="https://img.shields.io/github/stars/MaterializeInc/materialize?style=social" /></a></th>
     </tr>
     <tr>
+        <td nowrap="nowrap"><img width="33" alt="StackExchange.Redis" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-StackExchange.Redis_.png" /></td>
+        <td>Databases</td>
+        <td>C#</td>
+        <td><a href="https://stackexchange.github.io/StackExchange.Redis/" target="_blank">StackExchange.Redis</a></td>
+        <td>General purpose redis client</td>
+        <th><a href="https://github.com/StackExchange/StackExchange.Redis" target="_blank"><img alt="StackExchange.Redis" src="https://img.shields.io/github/stars/StackExchange/StackExchange.Redis?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="Setup Falcon SQL Client" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-falcon.png" /></td>
         <td>Databases</td>
         <td>JavaScript</td>
@@ -2812,14 +2820,6 @@
         <td><a href="https://spatie.be/docs/laravel-medialibrary/v10/introduction" target="_blank">laravel-medialibrary</a></td>
         <td>Associate files with Eloquent models</td>
         <th><a href="https://github.com/spatie/laravel-medialibrary" target="_blank"><img alt="laravel-medialibrary" src="https://img.shields.io/github/stars/spatie/laravel-medialibrary?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="StackExchange.Redis" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-StackExchange.Redis_.png" /></td>
-        <td>Databases</td>
-        <td>C#</td>
-        <td><a href="https://stackexchange.github.io/StackExchange.Redis/" target="_blank">StackExchange.Redis</a></td>
-        <td>General purpose redis client</td>
-        <th><a href="https://github.com/StackExchange/StackExchange.Redis" target="_blank"><img alt="StackExchange.Redis" src="https://img.shields.io/github/stars/StackExchange/StackExchange.Redis?style=social" /></a></th>
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="FASTER" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-FASTER-1.png" /></td>
@@ -4668,6 +4668,84 @@
 </table>
 
 <br /><br />
+<h2 id="c">Top 20 C# libraries</h2>
+<table>
+    <tr>
+        <th>Icon</th>
+        <th>Category</th>
+        <th>Language</th>
+        <th>Name</th>
+        <th>Description</th>
+        <th>Stargazers</th>
+    </tr>
+        <tr>
+        <td nowrap="nowrap"><img width="33" alt="StackExchange.Redis" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-StackExchange.Redis_.png" /></td>
+        <td>Databases</td>
+        <td>C#</td>
+        <td><a href="https://stackexchange.github.io/StackExchange.Redis/" target="_blank">StackExchange.Redis</a></td>
+        <td>General purpose redis client</td>
+        <th><a href="https://github.com/StackExchange/StackExchange.Redis" target="_blank"><img alt="StackExchange.Redis" src="https://img.shields.io/github/stars/StackExchange/StackExchange.Redis?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="MudBlazor" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-MudBlazor.png" /></td>
+        <td>Infrastructure</td>
+        <td>C#</td>
+        <td><a href="http://mudblazor.com" target="_blank">MudBlazor</a></td>
+        <td>Blazor Component Library based on Material design with an emphasis on ease of use. Mainly written in C# with Javascript kept to a bare minimum it empowers .NET developers to easily debug it if needed.</td>
+        <th><a href="https://github.com/MudBlazor/MudBlazor" target="_blank"><img alt="MudBlazor" src="https://img.shields.io/github/stars/MudBlazor/MudBlazor?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="MassTransit" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-MassTransit.png" /></td>
+        <td>Infrastructure</td>
+        <td>C#</td>
+        <td><a href="https://masstransit.io/" target="_blank">MassTransit</a></td>
+        <td>Distributed Application Framework for .NET</td>
+        <th><a href="https://github.com/MassTransit/MassTransit" target="_blank"><img alt="MassTransit" src="https://img.shields.io/github/stars/MassTransit/MassTransit?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="QuartzNET" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-quartznet.png" /></td>
+        <td>Infrastructure</td>
+        <td>C#</td>
+        <td><a href="http://www.quartz-scheduler.net/" target="_blank">QuartzNET</a></td>
+        <td>Quartz Enterprise Scheduler .NET</td>
+        <th><a href="https://github.com/quartznet/quartznet" target="_blank"><img alt="QuartzNET" src="https://img.shields.io/github/stars/quartznet/quartznet?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="NLog/NLog" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-NLog-1.png" /></td>
+        <td>Observability</td>
+        <td>C#</td>
+        <td><a href="https://nlog-project.org" target="_blank">NLog/NLog</a></td>
+        <td>NLog - Advanced and Structured Logging for Various .NET Platforms</td>
+        <th><a href="https://github.com/NLog/NLog" target="_blank"><img alt="NLog/NLog" src="https://img.shields.io/github/stars/NLog/NLog?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="dotnetcore/CAP" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-CAP-1.png" /></td>
+        <td>Infrastructure</td>
+        <td>C#</td>
+        <td><a href="http://cap.dotnetcore.xyz" target="_blank">dotnetcore/CAP</a></td>
+        <td>Distributed transaction solution in micro-service base on eventually consistency, also an eventbus with Outbox pattern</td>
+        <th><a href="https://github.com/dotnetcore/CAP" target="_blank"><img alt="dotnetcore/CAP" src="https://img.shields.io/github/stars/dotnetcore/CAP?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Unity" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-open-project-1-2.png" /></td>
+        <td>Collaboration</td>
+        <td>C#</td>
+        <td><a href="http://unity.com/open-projects" target="_blank">Unity</a></td>
+        <td>Unity Open Project #1: Chop Chop</td>
+        <th><a href="https://github.com/UnityTechnologies/open-project-1" target="_blank"><img alt="Unity" src="https://img.shields.io/github/stars/UnityTechnologies/open-project-1?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="FASTER" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-FASTER-1.png" /></td>
+        <td>Databases</td>
+        <td>C#</td>
+        <td><a href="https://aka.ms/FASTER" target="_blank">FASTER</a></td>
+        <td>Fast persistent recoverable log and key-value store + cache, in C# and C++.</td>
+        <th><a href="https://github.com/microsoft/FASTER" target="_blank"><img alt="FASTER" src="https://img.shields.io/github/stars/microsoft/FASTER?style=social" /></a></th>
+    </tr>
+
+</table>
+
+<br /><br />
 <h2 id="php">Top 20 PHP libraries</h2>
 <table>
     <tr>
@@ -5779,84 +5857,6 @@
         <td><a href="http://day8.github.io/re-frame/" target="_blank">re-frame</a></td>
         <td>A ClojureScript framework for building user interfaces, leveraging React</td>
         <th><a href="https://github.com/day8/re-frame" target="_blank"><img alt="re-frame" src="https://img.shields.io/github/stars/day8/re-frame?style=social" /></a></th>
-    </tr>
-
-</table>
-
-<br /><br />
-<h2 id="c">Top 20 C# libraries</h2>
-<table>
-    <tr>
-        <th>Icon</th>
-        <th>Category</th>
-        <th>Language</th>
-        <th>Name</th>
-        <th>Description</th>
-        <th>Stargazers</th>
-    </tr>
-        <tr>
-        <td nowrap="nowrap"><img width="33" alt="MudBlazor" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-MudBlazor.png" /></td>
-        <td>Infrastructure</td>
-        <td>C#</td>
-        <td><a href="http://mudblazor.com" target="_blank">MudBlazor</a></td>
-        <td>Blazor Component Library based on Material design with an emphasis on ease of use. Mainly written in C# with Javascript kept to a bare minimum it empowers .NET developers to easily debug it if needed.</td>
-        <th><a href="https://github.com/MudBlazor/MudBlazor" target="_blank"><img alt="MudBlazor" src="https://img.shields.io/github/stars/MudBlazor/MudBlazor?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="MassTransit" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-MassTransit.png" /></td>
-        <td>Infrastructure</td>
-        <td>C#</td>
-        <td><a href="https://masstransit.io/" target="_blank">MassTransit</a></td>
-        <td>Distributed Application Framework for .NET</td>
-        <th><a href="https://github.com/MassTransit/MassTransit" target="_blank"><img alt="MassTransit" src="https://img.shields.io/github/stars/MassTransit/MassTransit?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="QuartzNET" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-quartznet.png" /></td>
-        <td>Infrastructure</td>
-        <td>C#</td>
-        <td><a href="http://www.quartz-scheduler.net/" target="_blank">QuartzNET</a></td>
-        <td>Quartz Enterprise Scheduler .NET</td>
-        <th><a href="https://github.com/quartznet/quartznet" target="_blank"><img alt="QuartzNET" src="https://img.shields.io/github/stars/quartznet/quartznet?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="StackExchange.Redis" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-StackExchange.Redis_.png" /></td>
-        <td>Databases</td>
-        <td>C#</td>
-        <td><a href="https://stackexchange.github.io/StackExchange.Redis/" target="_blank">StackExchange.Redis</a></td>
-        <td>General purpose redis client</td>
-        <th><a href="https://github.com/StackExchange/StackExchange.Redis" target="_blank"><img alt="StackExchange.Redis" src="https://img.shields.io/github/stars/StackExchange/StackExchange.Redis?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="NLog/NLog" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-NLog-1.png" /></td>
-        <td>Observability</td>
-        <td>C#</td>
-        <td><a href="https://nlog-project.org" target="_blank">NLog/NLog</a></td>
-        <td>NLog - Advanced and Structured Logging for Various .NET Platforms</td>
-        <th><a href="https://github.com/NLog/NLog" target="_blank"><img alt="NLog/NLog" src="https://img.shields.io/github/stars/NLog/NLog?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="dotnetcore/CAP" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-CAP-1.png" /></td>
-        <td>Infrastructure</td>
-        <td>C#</td>
-        <td><a href="http://cap.dotnetcore.xyz" target="_blank">dotnetcore/CAP</a></td>
-        <td>Distributed transaction solution in micro-service base on eventually consistency, also an eventbus with Outbox pattern</td>
-        <th><a href="https://github.com/dotnetcore/CAP" target="_blank"><img alt="dotnetcore/CAP" src="https://img.shields.io/github/stars/dotnetcore/CAP?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Unity" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-open-project-1-2.png" /></td>
-        <td>Collaboration</td>
-        <td>C#</td>
-        <td><a href="http://unity.com/open-projects" target="_blank">Unity</a></td>
-        <td>Unity Open Project #1: Chop Chop</td>
-        <th><a href="https://github.com/UnityTechnologies/open-project-1" target="_blank"><img alt="Unity" src="https://img.shields.io/github/stars/UnityTechnologies/open-project-1?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="FASTER" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-FASTER-1.png" /></td>
-        <td>Databases</td>
-        <td>C#</td>
-        <td><a href="https://aka.ms/FASTER" target="_blank">FASTER</a></td>
-        <td>Fast persistent recoverable log and key-value store + cache, in C# and C++.</td>
-        <th><a href="https://github.com/microsoft/FASTER" target="_blank"><img alt="FASTER" src="https://img.shields.io/github/stars/microsoft/FASTER?style=social" /></a></th>
     </tr>
 
 </table>
