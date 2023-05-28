@@ -190,6 +190,22 @@
         <th><a href="https://github.com/bengry/typedash" target="_blank"><img alt="typedash" src="https://img.shields.io/github/stars/bengry/typedash?style=social" /></a></th>
     </tr>
     <tr>
+        <td nowrap="nowrap"><img width="33" alt="Document Makeup Library" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-DML.png" /></td>
+        <td>Productivity</td>
+        <td>JavaScript</td>
+        <td><a href="https://efpage.de/DML/DML_homepage" target="_blank">Document Makeup Library</a></td>
+        <td>An Object Oriented Web Programming Framework</td>
+        <th><a href="https://github.com/efpage/DML" target="_blank"><img alt="Document Makeup Library" src="https://img.shields.io/github/stars/efpage/DML?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Piral - Microfrontend Framework" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-piral.png" /></td>
+        <td>Infrastructure</td>
+        <td>TypeScript</td>
+        <td><a href="https://piral.io" target="_blank">Piral - Microfrontend Framework</a></td>
+        <td>Framework for next generation web apps using micro frontends. <g-emoji class="g-emoji" alias="rocket" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f680.png">?</g-emoji></td>
+        <th><a href="https://github.com/smapiot/piral" target="_blank"><img alt="Piral - Microfrontend Framework" src="https://img.shields.io/github/stars/smapiot/piral?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="Everright-formEditor" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-Everright-formEditor.jpg" /></td>
         <td>Productivity</td>
         <td>JavaScript</td>
@@ -276,22 +292,6 @@
         <td><a href="https://maxday.github.io/lambda-perf" target="_blank">lambda-perf</a></td>
         <td>Lambda Cold Starts analysis, updated daily</td>
         <th><a href="https://github.com/maxday/lambda-perf" target="_blank"><img alt="lambda-perf" src="https://img.shields.io/github/stars/maxday/lambda-perf?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="wirepig" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-wirepig.jpg" /></td>
-        <td>Miscellaneous</td>
-        <td>JavaScript</td>
-        <td><a href="https://github.com/griffinmyers/wirepig" target="_blank">wirepig</a></td>
-        <td>Better testing through the power of sockets.</td>
-        <th><a href="https://github.com/griffinmyers/wirepig" target="_blank"><img alt="wirepig" src="https://img.shields.io/github/stars/griffinmyers/wirepig?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="containor" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-containor.png" /></td>
-        <td>Miscellaneous</td>
-        <td>TypeScript</td>
-        <td><a href="https://github.com/ngerritsen/containor" target="_blank">containor</a></td>
-        <td>Simple IoC container for Javascript</td>
-        <th><a href="https://github.com/ngerritsen/containor" target="_blank"><img alt="containor" src="https://img.shields.io/github/stars/ngerritsen/containor?style=social" /></a></th>
     </tr>
 
 </table>
@@ -2159,6 +2159,14 @@
         <td>Collection of spinners which can save hours of react developers</td>
         <th><a href="https://github.com/PunitSoniME/r-spinners" target="_blank"><img alt="r-spinners" src="https://img.shields.io/github/stars/PunitSoniME/r-spinners?style=social" /></a></th>
     </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Document Makeup Library" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-DML.png" /></td>
+        <td>Productivity</td>
+        <td>JavaScript</td>
+        <td><a href="https://efpage.de/DML/DML_homepage" target="_blank">Document Makeup Library</a></td>
+        <td>An Object Oriented Web Programming Framework</td>
+        <th><a href="https://github.com/efpage/DML" target="_blank"><img alt="Document Makeup Library" src="https://img.shields.io/github/stars/efpage/DML?style=social" /></a></th>
+    </tr>
 
 </table>
 
@@ -3587,6 +3595,14 @@
         <td>Live update for capacitor apps</td>
         <th><a href="https://github.com/Cap-go/capacitor-updater" target="_blank"><img alt="Capacitor updater" src="https://img.shields.io/github/stars/Cap-go/capacitor-updater?style=social" /></a></th>
     </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Piral - Microfrontend Framework" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-piral.png" /></td>
+        <td>Infrastructure</td>
+        <td>TypeScript</td>
+        <td><a href="https://piral.io" target="_blank">Piral - Microfrontend Framework</a></td>
+        <td>Framework for next generation web apps using micro frontends. <g-emoji class="g-emoji" alias="rocket" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f680.png">?</g-emoji></td>
+        <th><a href="https://github.com/smapiot/piral" target="_blank"><img alt="Piral - Microfrontend Framework" src="https://img.shields.io/github/stars/smapiot/piral?style=social" /></a></th>
+    </tr>
 
 </table>
 
@@ -4010,6 +4026,14 @@
         <td>Modern, type-safe alternative to lodash and friends</td>
         <th><a href="https://github.com/bengry/typedash" target="_blank"><img alt="typedash" src="https://img.shields.io/github/stars/bengry/typedash?style=social" /></a></th>
     </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Piral - Microfrontend Framework" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-piral.png" /></td>
+        <td>Infrastructure</td>
+        <td>TypeScript</td>
+        <td><a href="https://piral.io" target="_blank">Piral - Microfrontend Framework</a></td>
+        <td>Framework for next generation web apps using micro frontends. <g-emoji class="g-emoji" alias="rocket" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f680.png">?</g-emoji></td>
+        <th><a href="https://github.com/smapiot/piral" target="_blank"><img alt="Piral - Microfrontend Framework" src="https://img.shields.io/github/stars/smapiot/piral?style=social" /></a></th>
+    </tr>
 
 </table>
 
@@ -4379,6 +4403,14 @@
         <td><a href="https://github.com/ErnaneJ/tradingworks-plus" target="_blank">TradingWorks+</a></td>
         <td>Extension developed with the aim of facilitating the usability of the TradingWorks platform for point management between work shifts.</td>
         <th><a href="https://github.com/ErnaneJ/tradingworks-plus" target="_blank"><img alt="TradingWorks+" src="https://img.shields.io/github/stars/ErnaneJ/tradingworks-plus?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Document Makeup Library" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-DML.png" /></td>
+        <td>Productivity</td>
+        <td>JavaScript</td>
+        <td><a href="https://efpage.de/DML/DML_homepage" target="_blank">Document Makeup Library</a></td>
+        <td>An Object Oriented Web Programming Framework</td>
+        <th><a href="https://github.com/efpage/DML" target="_blank"><img alt="Document Makeup Library" src="https://img.shields.io/github/stars/efpage/DML?style=social" /></a></th>
     </tr>
 
 </table>
