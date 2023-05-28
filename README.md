@@ -174,6 +174,14 @@
         <th><a href="https://github.com/Infisical/infisical" target="_blank"><img alt="Infisical" src="https://img.shields.io/github/stars/Infisical/infisical?style=social" /></a></th>
     </tr>
     <tr>
+        <td nowrap="nowrap"><img width="33" alt="Nobu Browser" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-nobu.jpg" /></td>
+        <td>Productivity</td>
+        <td>TypeScript</td>
+        <td><a href="https://nobu.neplextech.com" target="_blank">Nobu Browser</a></td>
+        <td>Simple, cross-platform web browser for web developers</td>
+        <th><a href="https://github.com/neplextech/nobu" target="_blank"><img alt="Nobu Browser" src="https://img.shields.io/github/stars/neplextech/nobu?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="Jellyfish-x-Retro" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-vscode-Jellyfish-x-Retro.jpg" /></td>
         <td>Productivity</td>
         <td>CSS</td>
@@ -285,14 +293,6 @@
         <td>Action aimed at facilitating continuous delivery. You only need a Discord webhook to receive notifications for the completion status of your workflow. <g-emoji class="g-emoji" alias="tada" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f389.png">?</g-emoji></td>
         <th><a href="https://github.com/ErnaneJ/action-discord-alerts" target="_blank"><img alt="Action Discord Alerts" src="https://img.shields.io/github/stars/ErnaneJ/action-discord-alerts?style=social" /></a></th>
     </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="TradingWorks+" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-tradingworks-plus.jpg" /></td>
-        <td>Productivity</td>
-        <td>JavaScript</td>
-        <td><a href="https://github.com/ErnaneJ/tradingworks-plus" target="_blank">TradingWorks+</a></td>
-        <td>Extension developed with the aim of facilitating the usability of the TradingWorks platform for point management between work shifts.</td>
-        <th><a href="https://github.com/ErnaneJ/tradingworks-plus" target="_blank"><img alt="TradingWorks+" src="https://img.shields.io/github/stars/ErnaneJ/tradingworks-plus?style=social" /></a></th>
-    </tr>
 
 </table>
 
@@ -341,20 +341,20 @@
         <th><a href="https://github.com/Frezyx/talker" target="_blank"><img alt="Talker" src="https://img.shields.io/github/stars/Frezyx/talker?style=social" /></a></th>
     </tr>
     <tr>
-        <td nowrap="nowrap"><img width="33" alt="Github 20k" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-super-star-1.png" /></td>
-        <td>Productivity</td>
-        <td>TypeScript</td>
-        <td><a href="https://github20k.com" target="_blank">Github 20k</a></td>
-        <td>The open-source course landing page <g-emoji class="g-emoji" alias="rocket" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f680.png">?</g-emoji><g-emoji class="g-emoji" alias="rocket" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f680.png">?</g-emoji><g-emoji class="g-emoji" alias="rocket" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f680.png">?</g-emoji></td>
-        <th><a href="https://github.com/github-20k/super-star" target="_blank"><img alt="Github 20k" src="https://img.shields.io/github/stars/github-20k/super-star?style=social" /></a></th>
-    </tr>
-    <tr>
         <td nowrap="nowrap"><img width="33" alt="Appwrite" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-appwrite.png" /></td>
         <td>Databases</td>
         <td>TypeScript</td>
         <td><a href="https://appwrite.io" target="_blank">Appwrite</a></td>
         <td>Build Fast. Scale Big. All in One Place.</td>
         <th><a href="https://github.com/appwrite/appwrite" target="_blank"><img alt="Appwrite" src="https://img.shields.io/github/stars/appwrite/appwrite?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Github 20k" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-super-star-1.png" /></td>
+        <td>Productivity</td>
+        <td>TypeScript</td>
+        <td><a href="https://github20k.com" target="_blank">Github 20k</a></td>
+        <td>The open-source course landing page <g-emoji class="g-emoji" alias="rocket" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f680.png">?</g-emoji><g-emoji class="g-emoji" alias="rocket" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f680.png">?</g-emoji><g-emoji class="g-emoji" alias="rocket" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f680.png">?</g-emoji></td>
+        <th><a href="https://github.com/github-20k/super-star" target="_blank"><img alt="Github 20k" src="https://img.shields.io/github/stars/github-20k/super-star?style=social" /></a></th>
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="awesome window manager" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-awesome.png" /></td>
@@ -2199,6 +2199,14 @@
         <td>CalEPD is an Epaper component driver for the ESP-IDF framework with GFX and font support, optional touch interface, compatible with ESP32 / S2 / S3 / C3</td>
         <th><a href="https://github.com/martinberlin/cale-idf" target="_blank"><img alt="CalEPD is an Epaper component driver for the ESP-IDF framework with GFX and font support, optional touch interface, compatible with ESP32 / S2 / S3 / C3" src="https://img.shields.io/github/stars/martinberlin/cale-idf?style=social" /></a></th>
     </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Nobu Browser" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-nobu.jpg" /></td>
+        <td>Productivity</td>
+        <td>TypeScript</td>
+        <td><a href="https://nobu.neplextech.com" target="_blank">Nobu Browser</a></td>
+        <td>Simple, cross-platform web browser for web developers</td>
+        <th><a href="https://github.com/neplextech/nobu" target="_blank"><img alt="Nobu Browser" src="https://img.shields.io/github/stars/neplextech/nobu?style=social" /></a></th>
+    </tr>
 
 </table>
 
@@ -3683,20 +3691,20 @@
         <th><a href="https://github.com/novuhq/novu" target="_blank"><img alt="Novu" src="https://img.shields.io/github/stars/novuhq/novu?style=social" /></a></th>
     </tr>
     <tr>
-        <td nowrap="nowrap"><img width="33" alt="Github 20k" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-super-star-1.png" /></td>
-        <td>Productivity</td>
-        <td>TypeScript</td>
-        <td><a href="https://github20k.com" target="_blank">Github 20k</a></td>
-        <td>The open-source course landing page <g-emoji class="g-emoji" alias="rocket" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f680.png">?</g-emoji><g-emoji class="g-emoji" alias="rocket" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f680.png">?</g-emoji><g-emoji class="g-emoji" alias="rocket" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f680.png">?</g-emoji></td>
-        <th><a href="https://github.com/github-20k/super-star" target="_blank"><img alt="Github 20k" src="https://img.shields.io/github/stars/github-20k/super-star?style=social" /></a></th>
-    </tr>
-    <tr>
         <td nowrap="nowrap"><img width="33" alt="Appwrite" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-appwrite.png" /></td>
         <td>Databases</td>
         <td>TypeScript</td>
         <td><a href="https://appwrite.io" target="_blank">Appwrite</a></td>
         <td>Build Fast. Scale Big. All in One Place.</td>
         <th><a href="https://github.com/appwrite/appwrite" target="_blank"><img alt="Appwrite" src="https://img.shields.io/github/stars/appwrite/appwrite?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Github 20k" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-super-star-1.png" /></td>
+        <td>Productivity</td>
+        <td>TypeScript</td>
+        <td><a href="https://github20k.com" target="_blank">Github 20k</a></td>
+        <td>The open-source course landing page <g-emoji class="g-emoji" alias="rocket" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f680.png">?</g-emoji><g-emoji class="g-emoji" alias="rocket" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f680.png">?</g-emoji><g-emoji class="g-emoji" alias="rocket" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f680.png">?</g-emoji></td>
+        <th><a href="https://github.com/github-20k/super-star" target="_blank"><img alt="Github 20k" src="https://img.shields.io/github/stars/github-20k/super-star?style=social" /></a></th>
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="Hanko" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-hanko.png" /></td>
@@ -4089,6 +4097,14 @@
         <td><a href="https://infisical.com" target="_blank">Infisical</a></td>
         <td><g-emoji class="g-emoji" alias="infinity" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/267e.png">♾</g-emoji> Infisical is an open-source, end-to-end encrypted platform for secret management: sync secrets across your team/infrastructure and prevent secret leaks.</td>
         <th><a href="https://github.com/Infisical/infisical" target="_blank"><img alt="Infisical" src="https://img.shields.io/github/stars/Infisical/infisical?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Nobu Browser" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-nobu.jpg" /></td>
+        <td>Productivity</td>
+        <td>TypeScript</td>
+        <td><a href="https://nobu.neplextech.com" target="_blank">Nobu Browser</a></td>
+        <td>Simple, cross-platform web browser for web developers</td>
+        <th><a href="https://github.com/neplextech/nobu" target="_blank"><img alt="Nobu Browser" src="https://img.shields.io/github/stars/neplextech/nobu?style=social" /></a></th>
     </tr>
 
 </table>
