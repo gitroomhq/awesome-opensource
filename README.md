@@ -142,6 +142,38 @@
         <th><a href="https://github.com/bowencool/vhooks" target="_blank"><img alt="Vue Hooks" src="https://img.shields.io/github/stars/bowencool/vhooks?style=social" /></a></th>
     </tr>
     <tr>
+        <td nowrap="nowrap"><img width="33" alt="cssanimation.io" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-cssanimation.io_.jpg" /></td>
+        <td>Productivity</td>
+        <td>CSS</td>
+        <td><a href="https://cssanimation.io/" target="_blank">cssanimation.io</a></td>
+        <td>CSS Animation Library for Developers and Ninjas</td>
+        <th><a href="https://github.com/yesiamrocks/cssanimation.io" target="_blank"><img alt="cssanimation.io" src="https://img.shields.io/github/stars/yesiamrocks/cssanimation.io?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="CalEPD is an Epaper component driver for the ESP-IDF framework with GFX and font support, optional touch interface, compatible with ESP32 / S2 / S3 / C3" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-cale-idf.jpg" /></td>
+        <td>Productivity</td>
+        <td>C</td>
+        <td><a href="https://CALE.es" target="_blank">CalEPD is an Epaper component driver for the ESP-IDF framework with GFX and font support, optional touch interface, compatible with ESP32 / S2 / S3 / C3</a></td>
+        <td>CalEPD is an Epaper component driver for the ESP-IDF framework with GFX and font support, optional touch interface, compatible with ESP32 / S2 / S3 / C3</td>
+        <th><a href="https://github.com/martinberlin/cale-idf" target="_blank"><img alt="CalEPD is an Epaper component driver for the ESP-IDF framework with GFX and font support, optional touch interface, compatible with ESP32 / S2 / S3 / C3" src="https://img.shields.io/github/stars/martinberlin/cale-idf?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Remora udpx listens to UDP short commands to trigger LED Animations. Receives ; commands from ORCΛ" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-Remora.jpg" /></td>
+        <td>Observability</td>
+        <td>C++</td>
+        <td><a href="https://fasani.de" target="_blank">Remora udpx listens to UDP short commands to trigger LED Animations. Receives ; commands from ORCΛ</a></td>
+        <td>Remora udpx listens to UDP short commands to trigger LED Animations. Receives ; commands from ORCΛ</td>
+        <th><a href="https://github.com/martinberlin/Remora" target="_blank"><img alt="Remora udpx listens to UDP short commands to trigger LED Animations. Receives ; commands from ORCΛ" src="https://img.shields.io/github/stars/martinberlin/Remora?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Infisical" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-infisical.png" /></td>
+        <td>Security</td>
+        <td>TypeScript</td>
+        <td><a href="https://infisical.com" target="_blank">Infisical</a></td>
+        <td><g-emoji class="g-emoji" alias="infinity" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/267e.png">♾</g-emoji> Infisical is an open-source, end-to-end encrypted platform for secret management: sync secrets across your team/infrastructure and prevent secret leaks.</td>
+        <th><a href="https://github.com/Infisical/infisical" target="_blank"><img alt="Infisical" src="https://img.shields.io/github/stars/Infisical/infisical?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="Jellyfish-x-Retro" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-vscode-Jellyfish-x-Retro.jpg" /></td>
         <td>Productivity</td>
         <td>CSS</td>
@@ -260,38 +292,6 @@
         <td><a href="https://github.com/ErnaneJ/tradingworks-plus" target="_blank">TradingWorks+</a></td>
         <td>Extension developed with the aim of facilitating the usability of the TradingWorks platform for point management between work shifts.</td>
         <th><a href="https://github.com/ErnaneJ/tradingworks-plus" target="_blank"><img alt="TradingWorks+" src="https://img.shields.io/github/stars/ErnaneJ/tradingworks-plus?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Talker" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-talker-1.jpg" /></td>
-        <td>Observability</td>
-        <td>Dart</td>
-        <td><a href="https://pub.dev/packages/talker" target="_blank">Talker</a></td>
-        <td><g-emoji class="g-emoji" alias="phone" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/260e.png">☎️</g-emoji> Advanced error handler and logger for dart and flutter apps</td>
-        <th><a href="https://github.com/Frezyx/talker" target="_blank"><img alt="Talker" src="https://img.shields.io/github/stars/Frezyx/talker?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="group_button" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-group_button.jpg" /></td>
-        <td>Infrastructure</td>
-        <td>Dart</td>
-        <td><a href="https://pub.dev/packages/group_button" target="_blank">group_button</a></td>
-        <td><g-emoji class="g-emoji" alias="sweat_drops" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4a6.png">?</g-emoji> Flutter custom widget to make a group buttons. Included Radio and CheckBox buttons.</td>
-        <th><a href="https://github.com/Frezyx/group_button" target="_blank"><img alt="group_button" src="https://img.shields.io/github/stars/Frezyx/group_button?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="sidebarx" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-sidebarx.jpg" /></td>
-        <td>Infrastructure</td>
-        <td>Dart</td>
-        <td><a href="https://pub.dev/packages/sidebarx" target="_blank">sidebarx</a></td>
-        <td>Flutter multiplatform navigation sidebar / side navigation bar / drawer widget</td>
-        <th><a href="https://github.com/Frezyx/sidebarx" target="_blank"><img alt="sidebarx" src="https://img.shields.io/github/stars/Frezyx/sidebarx?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="KeyPass" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-KeyPass.jpg" /></td>
-        <td>Security</td>
-        <td>Kotlin</td>
-        <td><a href="https://play.google.com/store/apps/details?id=com.yogeshpaliyal.keypass" target="_blank">KeyPass</a></td>
-        <td>KeyPass: Open-source &amp; offline password manager. Store, manage, take control securely.</td>
-        <th><a href="https://github.com/yogeshpaliyal/KeyPass" target="_blank"><img alt="KeyPass" src="https://img.shields.io/github/stars/yogeshpaliyal/KeyPass?style=social" /></a></th>
     </tr>
 
 </table>
@@ -483,6 +483,14 @@
         <td><a href="http://php-map.org" target="_blank">PHP Collections</a></td>
         <td>PHP arrays and collections made easy</td>
         <th><a href="https://github.com/aimeos/map" target="_blank"><img alt="PHP Collections" src="https://img.shields.io/github/stars/aimeos/map?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Wing Language" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-wing.png" /></td>
+        <td>Infrastructure</td>
+        <td>TypeScript</td>
+        <td><a href="https://winglang.io" target="_blank">Wing Language</a></td>
+        <td>The Wing Programming Language</td>
+        <th><a href="https://github.com/winglang/wing" target="_blank"><img alt="Wing Language" src="https://img.shields.io/github/stars/winglang/wing?style=social" /></a></th>
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="Telego" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-telego.jpg" /></td>
@@ -1100,14 +1108,6 @@
         <td>Navigation-mesh Toolset for Games</td>
         <th><a href="https://github.com/recastnavigation/recastnavigation" target="_blank"><img alt="Recast Navigation" src="https://img.shields.io/github/stars/recastnavigation/recastnavigation?style=social" /></a></th>
     </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Open Source Routing Machine" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-osrm-backend.png" /></td>
-        <td>Infrastructure</td>
-        <td>C++</td>
-        <td><a href="http://map.project-osrm.org" target="_blank">Open Source Routing Machine</a></td>
-        <td>Open Source Routing Machine - C++ backend</td>
-        <th><a href="https://github.com/Project-OSRM/osrm-backend" target="_blank"><img alt="Open Source Routing Machine" src="https://img.shields.io/github/stars/Project-OSRM/osrm-backend?style=social" /></a></th>
-    </tr>
 
 </table>
 
@@ -1408,6 +1408,14 @@
         <td><a href="https://maxday.github.io/lambda-perf" target="_blank">lambda-perf</a></td>
         <td>Lambda Cold Starts analysis, updated daily</td>
         <th><a href="https://github.com/maxday/lambda-perf" target="_blank"><img alt="lambda-perf" src="https://img.shields.io/github/stars/maxday/lambda-perf?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Remora udpx listens to UDP short commands to trigger LED Animations. Receives ; commands from ORCΛ" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-Remora.jpg" /></td>
+        <td>Observability</td>
+        <td>C++</td>
+        <td><a href="https://fasani.de" target="_blank">Remora udpx listens to UDP short commands to trigger LED Animations. Receives ; commands from ORCΛ</a></td>
+        <td>Remora udpx listens to UDP short commands to trigger LED Animations. Receives ; commands from ORCΛ</td>
+        <th><a href="https://github.com/martinberlin/Remora" target="_blank"><img alt="Remora udpx listens to UDP short commands to trigger LED Animations. Receives ; commands from ORCΛ" src="https://img.shields.io/github/stars/martinberlin/Remora?style=social" /></a></th>
     </tr>
 
 </table>
@@ -2175,6 +2183,22 @@
         <td>vue hooks</td>
         <th><a href="https://github.com/bowencool/vhooks" target="_blank"><img alt="Vue Hooks" src="https://img.shields.io/github/stars/bowencool/vhooks?style=social" /></a></th>
     </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="cssanimation.io" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-cssanimation.io_.jpg" /></td>
+        <td>Productivity</td>
+        <td>CSS</td>
+        <td><a href="https://cssanimation.io/" target="_blank">cssanimation.io</a></td>
+        <td>CSS Animation Library for Developers and Ninjas</td>
+        <th><a href="https://github.com/yesiamrocks/cssanimation.io" target="_blank"><img alt="cssanimation.io" src="https://img.shields.io/github/stars/yesiamrocks/cssanimation.io?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="CalEPD is an Epaper component driver for the ESP-IDF framework with GFX and font support, optional touch interface, compatible with ESP32 / S2 / S3 / C3" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-cale-idf.jpg" /></td>
+        <td>Productivity</td>
+        <td>C</td>
+        <td><a href="https://CALE.es" target="_blank">CalEPD is an Epaper component driver for the ESP-IDF framework with GFX and font support, optional touch interface, compatible with ESP32 / S2 / S3 / C3</a></td>
+        <td>CalEPD is an Epaper component driver for the ESP-IDF framework with GFX and font support, optional touch interface, compatible with ESP32 / S2 / S3 / C3</td>
+        <th><a href="https://github.com/martinberlin/cale-idf" target="_blank"><img alt="CalEPD is an Epaper component driver for the ESP-IDF framework with GFX and font support, optional touch interface, compatible with ESP32 / S2 / S3 / C3" src="https://img.shields.io/github/stars/martinberlin/cale-idf?style=social" /></a></th>
+    </tr>
 
 </table>
 
@@ -2474,6 +2498,14 @@
         <td><a href="https://codeql.github.com" target="_blank">CodeQL</a></td>
         <td>CodeQL: the libraries and queries that power security researchers around the world, as well as code scanning in GitHub Advanced Security</td>
         <th><a href="https://github.com/github/codeql" target="_blank"><img alt="CodeQL" src="https://img.shields.io/github/stars/github/codeql?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Infisical" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-infisical.png" /></td>
+        <td>Security</td>
+        <td>TypeScript</td>
+        <td><a href="https://infisical.com" target="_blank">Infisical</a></td>
+        <td><g-emoji class="g-emoji" alias="infinity" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/267e.png">♾</g-emoji> Infisical is an open-source, end-to-end encrypted platform for secret management: sync secrets across your team/infrastructure and prevent secret leaks.</td>
+        <th><a href="https://github.com/Infisical/infisical" target="_blank"><img alt="Infisical" src="https://img.shields.io/github/stars/Infisical/infisical?style=social" /></a></th>
     </tr>
 
 </table>
@@ -2922,6 +2954,14 @@
         <td><a href="http://php-map.org" target="_blank">PHP Collections</a></td>
         <td>PHP arrays and collections made easy</td>
         <th><a href="https://github.com/aimeos/map" target="_blank"><img alt="PHP Collections" src="https://img.shields.io/github/stars/aimeos/map?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Wing Language" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-wing.png" /></td>
+        <td>Infrastructure</td>
+        <td>TypeScript</td>
+        <td><a href="https://winglang.io" target="_blank">Wing Language</a></td>
+        <td>The Wing Programming Language</td>
+        <th><a href="https://github.com/winglang/wing" target="_blank"><img alt="Wing Language" src="https://img.shields.io/github/stars/winglang/wing?style=social" /></a></th>
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="ClusterFuzz" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-clusterfuzz.png" /></td>
@@ -3588,14 +3628,6 @@
         <th><a href="https://github.com/refinedev/refine" target="_blank"><img alt="refine" src="https://img.shields.io/github/stars/refinedev/refine?style=social" /></a></th>
     </tr>
     <tr>
-        <td nowrap="nowrap"><img width="33" alt="Wing Language" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-wing.png" /></td>
-        <td>Infrastructure</td>
-        <td>TypeScript</td>
-        <td><a href="https://winglang.io" target="_blank">Wing Language</a></td>
-        <td>The Wing Programming Language</td>
-        <th><a href="https://github.com/winglang/wing" target="_blank"><img alt="Wing Language" src="https://img.shields.io/github/stars/winglang/wing?style=social" /></a></th>
-    </tr>
-    <tr>
         <td nowrap="nowrap"><img width="33" alt="Capacitor updater" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-capacitor-updater.png" /></td>
         <td>Infrastructure</td>
         <td>Java</td>
@@ -3697,6 +3729,14 @@
         <td><a href="https://medusajs.com" target="_blank">Medusa</a></td>
         <td>Building blocks for digital commerce</td>
         <th><a href="https://github.com/medusajs/medusa" target="_blank"><img alt="Medusa" src="https://img.shields.io/github/stars/medusajs/medusa?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Wing Language" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-wing.png" /></td>
+        <td>Infrastructure</td>
+        <td>TypeScript</td>
+        <td><a href="https://winglang.io" target="_blank">Wing Language</a></td>
+        <td>The Wing Programming Language</td>
+        <th><a href="https://github.com/winglang/wing" target="_blank"><img alt="Wing Language" src="https://img.shields.io/github/stars/winglang/wing?style=social" /></a></th>
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="BundleMon" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-bundlemon.jpg" /></td>
@@ -3987,14 +4027,6 @@
         <th><a href="https://github.com/refinedev/refine" target="_blank"><img alt="refine" src="https://img.shields.io/github/stars/refinedev/refine?style=social" /></a></th>
     </tr>
     <tr>
-        <td nowrap="nowrap"><img width="33" alt="Wing Language" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-wing.png" /></td>
-        <td>Infrastructure</td>
-        <td>TypeScript</td>
-        <td><a href="https://winglang.io" target="_blank">Wing Language</a></td>
-        <td>The Wing Programming Language</td>
-        <th><a href="https://github.com/winglang/wing" target="_blank"><img alt="Wing Language" src="https://img.shields.io/github/stars/winglang/wing?style=social" /></a></th>
-    </tr>
-    <tr>
         <td nowrap="nowrap"><img width="33" alt="WunderGraph" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-wundergraph.jpg" /></td>
         <td>Productivity</td>
         <td>TypeScript</td>
@@ -4049,6 +4081,14 @@
         <td><a href="https://bowencool.github.io/vhooks/" target="_blank">Vue Hooks</a></td>
         <td>vue hooks</td>
         <th><a href="https://github.com/bowencool/vhooks" target="_blank"><img alt="Vue Hooks" src="https://img.shields.io/github/stars/bowencool/vhooks?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Infisical" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-infisical.png" /></td>
+        <td>Security</td>
+        <td>TypeScript</td>
+        <td><a href="https://infisical.com" target="_blank">Infisical</a></td>
+        <td><g-emoji class="g-emoji" alias="infinity" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/267e.png">♾</g-emoji> Infisical is an open-source, end-to-end encrypted platform for secret management: sync secrets across your team/infrastructure and prevent secret leaks.</td>
+        <th><a href="https://github.com/Infisical/infisical" target="_blank"><img alt="Infisical" src="https://img.shields.io/github/stars/Infisical/infisical?style=social" /></a></th>
     </tr>
 
 </table>
@@ -5334,6 +5374,14 @@
         <td>The next generation Javascript WYSIWYG HTML Editor.</td>
         <th><a href="https://github.com/froala/wysiwyg-editor" target="_blank"><img alt="froala/wysiwyg-editor" src="https://img.shields.io/github/stars/froala/wysiwyg-editor?style=social" /></a></th>
     </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="cssanimation.io" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-cssanimation.io_.jpg" /></td>
+        <td>Productivity</td>
+        <td>CSS</td>
+        <td><a href="https://cssanimation.io/" target="_blank">cssanimation.io</a></td>
+        <td>CSS Animation Library for Developers and Ninjas</td>
+        <th><a href="https://github.com/yesiamrocks/cssanimation.io" target="_blank"><img alt="cssanimation.io" src="https://img.shields.io/github/stars/yesiamrocks/cssanimation.io?style=social" /></a></th>
+    </tr>
 
 </table>
 
@@ -5722,6 +5770,14 @@
         <td>ESPHome is a system to control your ESP8266/ESP32 by simple yet powerful configuration files and control them remotely through Home Automation systems.</td>
         <th><a href="https://github.com/esphome/esphome" target="_blank"><img alt="ESPHome" src="https://img.shields.io/github/stars/esphome/esphome?style=social" /></a></th>
     </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Remora udpx listens to UDP short commands to trigger LED Animations. Receives ; commands from ORCΛ" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-Remora.jpg" /></td>
+        <td>Observability</td>
+        <td>C++</td>
+        <td><a href="https://fasani.de" target="_blank">Remora udpx listens to UDP short commands to trigger LED Animations. Receives ; commands from ORCΛ</a></td>
+        <td>Remora udpx listens to UDP short commands to trigger LED Animations. Receives ; commands from ORCΛ</td>
+        <th><a href="https://github.com/martinberlin/Remora" target="_blank"><img alt="Remora udpx listens to UDP short commands to trigger LED Animations. Receives ; commands from ORCΛ" src="https://img.shields.io/github/stars/martinberlin/Remora?style=social" /></a></th>
+    </tr>
 
 </table>
 
@@ -5951,6 +6007,14 @@
         <td><a href="https://mujoco.org" target="_blank">MuJoCo</a></td>
         <td>Multi-Joint dynamics with Contact. A general purpose physics simulator.</td>
         <th><a href="https://github.com/deepmind/mujoco" target="_blank"><img alt="MuJoCo" src="https://img.shields.io/github/stars/deepmind/mujoco?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="CalEPD is an Epaper component driver for the ESP-IDF framework with GFX and font support, optional touch interface, compatible with ESP32 / S2 / S3 / C3" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-cale-idf.jpg" /></td>
+        <td>Productivity</td>
+        <td>C</td>
+        <td><a href="https://CALE.es" target="_blank">CalEPD is an Epaper component driver for the ESP-IDF framework with GFX and font support, optional touch interface, compatible with ESP32 / S2 / S3 / C3</a></td>
+        <td>CalEPD is an Epaper component driver for the ESP-IDF framework with GFX and font support, optional touch interface, compatible with ESP32 / S2 / S3 / C3</td>
+        <th><a href="https://github.com/martinberlin/cale-idf" target="_blank"><img alt="CalEPD is an Epaper component driver for the ESP-IDF framework with GFX and font support, optional touch interface, compatible with ESP32 / S2 / S3 / C3" src="https://img.shields.io/github/stars/martinberlin/cale-idf?style=social" /></a></th>
     </tr>
 
 </table>
