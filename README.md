@@ -40,6 +40,8 @@
                       <li>
                 <a href="#typescript">Top 20 TypeScript libraries</a>
              </li>          <li>
+                <a href="#html">Top 20 HTML libraries</a>
+             </li>          <li>
                 <a href="#dart">Top 20 Dart libraries</a>
              </li>          <li>
                 <a href="#lua">Top 20 Lua libraries</a>
@@ -47,6 +49,8 @@
                 <a href="#java">Top 20 Java libraries</a>
              </li>          <li>
                 <a href="#javascript">Top 20 JavaScript libraries</a>
+             </li>          <li>
+                <a href="#python">Top 20 Python libraries</a>
              </li>          <li>
                 <a href="#rust">Top 20 Rust libraries</a>
              </li>          <li>
@@ -60,13 +64,9 @@
              </li>          <li>
                 <a href="#css">Top 20 CSS libraries</a>
              </li>          <li>
-                <a href="#python">Top 20 Python libraries</a>
-             </li>          <li>
                 <a href="#c++">Top 20 C++ libraries</a>
              </li>          <li>
                 <a href="#ruby">Top 20 Ruby libraries</a>
-             </li>          <li>
-                <a href="#html">Top 20 HTML libraries</a>
              </li>          <li>
                 <a href="#jsonnet">Top 20 Jsonnet libraries</a>
              </li>          <li>
@@ -138,6 +138,22 @@
         <th>Stargazers</th>
     </tr>
         <tr>
+        <td nowrap="nowrap"><img width="33" alt="Overlay" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-overlay.png" /></td>
+        <td>Security</td>
+        <td>HTML</td>
+        <td><a href="https://github.com/os-scar/overlay" target="_blank">Overlay</a></td>
+        <td>Overlay is a browser extension helping developers evaluate open source packages before picking them</td>
+        <th><a href="https://github.com/os-scar/overlay" target="_blank"><img alt="Overlay" src="https://img.shields.io/github/stars/os-scar/overlay?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="llm-client" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-llm-client-sdk.jpg" /></td>
+        <td>Infrastructure</td>
+        <td>Python</td>
+        <td><a href="https://github.com/uripeled2/llm-client-sdk" target="_blank">llm-client</a></td>
+        <td>SDK for using LLM</td>
+        <th><a href="https://github.com/uripeled2/llm-client-sdk" target="_blank"><img alt="llm-client" src="https://img.shields.io/github/stars/uripeled2/llm-client-sdk?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="boyka-framework" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-boyka-framework.png" /></td>
         <td>Productivity</td>
         <td>Java</td>
@@ -160,6 +176,22 @@
         <td><a href="https://chatanalytics.app" target="_blank">Chat Analytics</a></td>
         <td>Generate interactive, beautiful and insightful chat analysis reports</td>
         <th><a href="https://github.com/mlomb/chat-analytics" target="_blank"><img alt="Chat Analytics" src="https://img.shields.io/github/stars/mlomb/chat-analytics?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="@origranot/ts-logger" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-ts-logger.png" /></td>
+        <td>Infrastructure</td>
+        <td>TypeScript</td>
+        <td><a href="https://github.com/origranot/ts-logger" target="_blank">@origranot/ts-logger</a></td>
+        <td>A powerful and easy-to-use logging and debugging package for TypeScript</td>
+        <th><a href="https://github.com/origranot/ts-logger" target="_blank"><img alt="@origranot/ts-logger" src="https://img.shields.io/github/stars/origranot/ts-logger?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Telenode" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-telenode.png" /></td>
+        <td>Notifications</td>
+        <td>JavaScript</td>
+        <td><a href="https://github.com/NivEz/telenode" target="_blank">Telenode</a></td>
+        <td>Lightweight Telegram API framework for Node.js</td>
+        <th><a href="https://github.com/NivEz/telenode" target="_blank"><img alt="Telenode" src="https://img.shields.io/github/stars/NivEz/telenode?style=social" /></a></th>
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="Everright-filter" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-Everright-filter.jpg" /></td>
@@ -200,6 +232,14 @@
         <td><a href="https://pdm.fming.dev" target="_blank">PDM</a></td>
         <td>A modern Python package and dependency manager supporting the latest PEP standards</td>
         <th><a href="https://github.com/pdm-project/pdm" target="_blank"><img alt="PDM" src="https://img.shields.io/github/stars/pdm-project/pdm?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="3kh0 Assets" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-ext-remover-5.jpg" /></td>
+        <td>Infrastructure</td>
+        <td>JavaScript</td>
+        <td><a href="https://3kh0.github.io/ext-remover/" target="_blank">3kh0 Assets</a></td>
+        <td>Bookmarklet exploit that can force-disable extensions installed on Chrome. Also has a very fancy GUI to manage all extensions!</td>
+        <th><a href="https://github.com/3kh0/ext-remover" target="_blank"><img alt="3kh0 Assets" src="https://img.shields.io/github/stars/3kh0/ext-remover?style=social" /></a></th>
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="Vue Hooks" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-vhooks.jpg" /></td>
@@ -257,46 +297,6 @@
         <td>An ASR (Automatic Speech Recognition) adversarial attack repository.</td>
         <th><a href="https://github.com/hammaad2002/ASRAdversarialAttacks" target="_blank"><img alt="Adversarial ASR" src="https://img.shields.io/github/stars/hammaad2002/ASRAdversarialAttacks?style=social" /></a></th>
     </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Aimless.js" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-aimless.js.jpg" /></td>
-        <td>Productivity</td>
-        <td>JavaScript</td>
-        <td><a href="https://chriscavs.github.io/aimless-demo/" target="_blank">Aimless.js</a></td>
-        <td>The missing JavaScript randomness library.</td>
-        <th><a href="https://github.com/ChrisCavs/aimless.js" target="_blank"><img alt="Aimless.js" src="https://img.shields.io/github/stars/ChrisCavs/aimless.js?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Jellyfish-x-Retro" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-vscode-Jellyfish-x-Retro.jpg" /></td>
-        <td>Productivity</td>
-        <td>CSS</td>
-        <td><a href="https://marketplace.visualstudio.com/items?itemName=Bhanu1776.jellyfish-retro" target="_blank">Jellyfish-x-Retro</a></td>
-        <td>This Retro theme injects modern aesthetic looks and wild 80's animations into your VS code <g-emoji class="g-emoji" alias="rocket" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f680.png">?</g-emoji><g-emoji class="g-emoji" alias="boom" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4a5.png">?</g-emoji><g-emoji class="g-emoji" alias="bomb" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4a3.png">?</g-emoji></td>
-        <th><a href="https://github.com/Bhanu1776/vscode-Jellyfish-x-Retro" target="_blank"><img alt="Jellyfish-x-Retro" src="https://img.shields.io/github/stars/Bhanu1776/vscode-Jellyfish-x-Retro?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="BundleMon" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-bundlemon.jpg" /></td>
-        <td>Miscellaneous</td>
-        <td>TypeScript</td>
-        <td><a href="https://app.bundlemon.dev" target="_blank">BundleMon</a></td>
-        <td>A free open-source tool that helps you to monitor your bundle size on every commit and alerts you on changes.</td>
-        <th><a href="https://github.com/LironEr/bundlemon" target="_blank"><img alt="BundleMon" src="https://img.shields.io/github/stars/LironEr/bundlemon?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="cypress-mochawesome-reporter" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-cypress-mochawesome-reporter.jpg" /></td>
-        <td>Miscellaneous</td>
-        <td>JavaScript</td>
-        <td><a href="https://github.com/LironEr/cypress-mochawesome-reporter" target="_blank">cypress-mochawesome-reporter</a></td>
-        <td>Zero config Mochawesome reporter for Cypress with screenshots and videos</td>
-        <th><a href="https://github.com/LironEr/cypress-mochawesome-reporter" target="_blank"><img alt="cypress-mochawesome-reporter" src="https://img.shields.io/github/stars/LironEr/cypress-mochawesome-reporter?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="purekit" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-purekit.jpg" /></td>
-        <td>Productivity</td>
-        <td>TypeScript</td>
-        <td><a href="https://purekit.vercel.app" target="_blank">purekit</a></td>
-        <td>The Simple and Efficient Javascript / Typescript Utility Library</td>
-        <th><a href="https://github.com/PunitSoniME/purekit" target="_blank"><img alt="purekit" src="https://img.shields.io/github/stars/PunitSoniME/purekit?style=social" /></a></th>
-    </tr>
 
 </table>
 
@@ -335,6 +335,14 @@
         <td><a href="https://novu.co" target="_blank">Novu</a></td>
         <td>The open-source notification infrastructure with fully functional embedded notification center</td>
         <th><a href="https://github.com/novuhq/novu" target="_blank"><img alt="Novu" src="https://img.shields.io/github/stars/novuhq/novu?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Overlay" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-overlay.png" /></td>
+        <td>Security</td>
+        <td>HTML</td>
+        <td><a href="https://github.com/os-scar/overlay" target="_blank">Overlay</a></td>
+        <td>Overlay is a browser extension helping developers evaluate open source packages before picking them</td>
+        <th><a href="https://github.com/os-scar/overlay" target="_blank"><img alt="Overlay" src="https://img.shields.io/github/stars/os-scar/overlay?style=social" /></a></th>
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="Talker" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-talker-1.jpg" /></td>
@@ -425,6 +433,14 @@
         <th><a href="https://github.com/Erutidians/auto-dop" target="_blank"><img alt="auto-dop" src="https://img.shields.io/github/stars/Erutidians/auto-dop?style=social" /></a></th>
     </tr>
     <tr>
+        <td nowrap="nowrap"><img width="33" alt="llm-client" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-llm-client-sdk.jpg" /></td>
+        <td>Infrastructure</td>
+        <td>Python</td>
+        <td><a href="https://github.com/uripeled2/llm-client-sdk" target="_blank">llm-client</a></td>
+        <td>SDK for using LLM</td>
+        <th><a href="https://github.com/uripeled2/llm-client-sdk" target="_blank"><img alt="llm-client" src="https://img.shields.io/github/stars/uripeled2/llm-client-sdk?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="Materialize" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-materialize.png" /></td>
         <td>Databases</td>
         <td>Rust</td>
@@ -471,6 +487,14 @@
         <td><a href="https://bitwarden.com" target="_blank">Bitwarden</a></td>
         <td>Bitwarden client applications (web, browser extension, desktop, and cli)</td>
         <th><a href="https://github.com/bitwarden/clients" target="_blank"><img alt="Bitwarden" src="https://img.shields.io/github/stars/bitwarden/clients?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Unity" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-open-project-1-2.png" /></td>
+        <td>Collaboration</td>
+        <td>C#</td>
+        <td><a href="http://unity.com/open-projects" target="_blank">Unity</a></td>
+        <td>Unity Open Project #1: Chop Chop</td>
+        <th><a href="https://github.com/UnityTechnologies/open-project-1" target="_blank"><img alt="Unity" src="https://img.shields.io/github/stars/UnityTechnologies/open-project-1?style=social" /></a></th>
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="Docusaurus" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-docusaurus.png" /></td>
@@ -591,6 +615,22 @@
         <td><a href="https://chatanalytics.app" target="_blank">Chat Analytics</a></td>
         <td>Generate interactive, beautiful and insightful chat analysis reports</td>
         <th><a href="https://github.com/mlomb/chat-analytics" target="_blank"><img alt="Chat Analytics" src="https://img.shields.io/github/stars/mlomb/chat-analytics?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="@origranot/ts-logger" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-ts-logger.png" /></td>
+        <td>Infrastructure</td>
+        <td>TypeScript</td>
+        <td><a href="https://github.com/origranot/ts-logger" target="_blank">@origranot/ts-logger</a></td>
+        <td>A powerful and easy-to-use logging and debugging package for TypeScript</td>
+        <th><a href="https://github.com/origranot/ts-logger" target="_blank"><img alt="@origranot/ts-logger" src="https://img.shields.io/github/stars/origranot/ts-logger?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Telenode" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-telenode.png" /></td>
+        <td>Notifications</td>
+        <td>JavaScript</td>
+        <td><a href="https://github.com/NivEz/telenode" target="_blank">Telenode</a></td>
+        <td>Lightweight Telegram API framework for Node.js</td>
+        <th><a href="https://github.com/NivEz/telenode" target="_blank"><img alt="Telenode" src="https://img.shields.io/github/stars/NivEz/telenode?style=social" /></a></th>
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="ClusterFuzz" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-clusterfuzz.png" /></td>
@@ -1071,46 +1111,6 @@
         <td><a href="https://coteditor.com" target="_blank">CotEditor</a></td>
         <td>Lightweight Plain-Text Editor for macOS</td>
         <th><a href="https://github.com/coteditor/CotEditor" target="_blank"><img alt="CotEditor" src="https://img.shields.io/github/stars/coteditor/CotEditor?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Ant Design Landing" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-ant-design-landing.png" /></td>
-        <td>Productivity</td>
-        <td>JavaScript</td>
-        <td><a href="https://landing.ant.design/" target="_blank">Ant Design Landing</a></td>
-        <td><g-emoji class="g-emoji" alias="mountain_bicyclist" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f6b5.png">?</g-emoji> Landing Pages of Ant Design System</td>
-        <th><a href="https://github.com/ant-design/ant-design-landing" target="_blank"><img alt="Ant Design Landing" src="https://img.shields.io/github/stars/ant-design/ant-design-landing?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="jOOQ" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-jOOQ.jpg" /></td>
-        <td>Databases</td>
-        <td>Java</td>
-        <td><a href="https://www.jooq.org" target="_blank">jOOQ</a></td>
-        <td>jOOQ is the best way to write SQL in Java</td>
-        <th><a href="https://github.com/jOOQ/jOOQ" target="_blank"><img alt="jOOQ" src="https://img.shields.io/github/stars/jOOQ/jOOQ?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="screego/server" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-server.png" /></td>
-        <td>Collaboration</td>
-        <td>TypeScript</td>
-        <td><a href="https://app.screego.net" target="_blank">screego/server</a></td>
-        <td>screen sharing for developers https://screego.net/</td>
-        <th><a href="https://github.com/screego/server" target="_blank"><img alt="screego/server" src="https://img.shields.io/github/stars/screego/server?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Universal Ctags" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-ctags.png" /></td>
-        <td>Infrastructure</td>
-        <td>C</td>
-        <td><a href="https://ctags.io" target="_blank">Universal Ctags</a></td>
-        <td>A maintained ctags implementation</td>
-        <th><a href="https://github.com/universal-ctags/ctags" target="_blank"><img alt="Universal Ctags" src="https://img.shields.io/github/stars/universal-ctags/ctags?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Snorkel AI" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-snorkel.png" /></td>
-        <td>Productivity</td>
-        <td>Python</td>
-        <td><a href="https://snorkel.org" target="_blank">Snorkel AI</a></td>
-        <td>A system for quickly generating training data with weak supervision</td>
-        <th><a href="https://github.com/snorkel-team/snorkel" target="_blank"><img alt="Snorkel AI" src="https://img.shields.io/github/stars/snorkel-team/snorkel?style=social" /></a></th>
     </tr>
 
 </table>
@@ -2392,6 +2392,14 @@
         <th>Stargazers</th>
     </tr>
         <tr>
+        <td nowrap="nowrap"><img width="33" alt="Overlay" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-overlay.png" /></td>
+        <td>Security</td>
+        <td>HTML</td>
+        <td><a href="https://github.com/os-scar/overlay" target="_blank">Overlay</a></td>
+        <td>Overlay is a browser extension helping developers evaluate open source packages before picking them</td>
+        <th><a href="https://github.com/os-scar/overlay" target="_blank"><img alt="Overlay" src="https://img.shields.io/github/stars/os-scar/overlay?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="Hanko" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-hanko.png" /></td>
         <td>Security</td>
         <td>TypeScript</td>
@@ -2614,6 +2622,14 @@
         <th>Stargazers</th>
     </tr>
         <tr>
+        <td nowrap="nowrap"><img width="33" alt="Unity" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-open-project-1-2.png" /></td>
+        <td>Collaboration</td>
+        <td>C#</td>
+        <td><a href="http://unity.com/open-projects" target="_blank">Unity</a></td>
+        <td>Unity Open Project #1: Chop Chop</td>
+        <th><a href="https://github.com/UnityTechnologies/open-project-1" target="_blank"><img alt="Unity" src="https://img.shields.io/github/stars/UnityTechnologies/open-project-1?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="The Lounge" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-thelounge.png" /></td>
         <td>Collaboration</td>
         <td>TypeScript</td>
@@ -2774,14 +2790,6 @@
         <th><a href="https://github.com/deeppavlov/DeepPavlov" target="_blank"><img alt="DeepPavlov" src="https://img.shields.io/github/stars/deeppavlov/DeepPavlov?style=social" /></a></th>
     </tr>
     <tr>
-        <td nowrap="nowrap"><img width="33" alt="Unity" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-open-project-1-2.png" /></td>
-        <td>Collaboration</td>
-        <td>C#</td>
-        <td><a href="http://unity.com/open-projects" target="_blank">Unity</a></td>
-        <td>Unity Open Project #1: Chop Chop</td>
-        <th><a href="https://github.com/UnityTechnologies/open-project-1" target="_blank"><img alt="Unity" src="https://img.shields.io/github/stars/UnityTechnologies/open-project-1?style=social" /></a></th>
-    </tr>
-    <tr>
         <td nowrap="nowrap"><img width="33" alt="Taiga" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-taiga-back-2.png" /></td>
         <td>Collaboration</td>
         <td>Python</td>
@@ -2826,6 +2834,14 @@
         <td><a href="https://telego.pixelbox.dev" target="_blank">Telego</a></td>
         <td>Telegram Bot API library for Go</td>
         <th><a href="https://github.com/mymmrac/telego" target="_blank"><img alt="Telego" src="https://img.shields.io/github/stars/mymmrac/telego?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Telenode" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-telenode.png" /></td>
+        <td>Notifications</td>
+        <td>JavaScript</td>
+        <td><a href="https://github.com/NivEz/telenode" target="_blank">Telenode</a></td>
+        <td>Lightweight Telegram API framework for Node.js</td>
+        <th><a href="https://github.com/NivEz/telenode" target="_blank"><img alt="Telenode" src="https://img.shields.io/github/stars/NivEz/telenode?style=social" /></a></th>
     </tr>
 
 </table>
@@ -3032,6 +3048,14 @@
         <th><a href="https://github.com/junit-team/junit5" target="_blank"><img alt="JUnitorg." src="https://img.shields.io/github/stars/junit-team/junit5?style=social" /></a></th>
     </tr>
     <tr>
+        <td nowrap="nowrap"><img width="33" alt="llm-client" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-llm-client-sdk.jpg" /></td>
+        <td>Infrastructure</td>
+        <td>Python</td>
+        <td><a href="https://github.com/uripeled2/llm-client-sdk" target="_blank">llm-client</a></td>
+        <td>SDK for using LLM</td>
+        <th><a href="https://github.com/uripeled2/llm-client-sdk" target="_blank"><img alt="llm-client" src="https://img.shields.io/github/stars/uripeled2/llm-client-sdk?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="Hyperf" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-hyperf.jpg" /></td>
         <td>Infrastructure</td>
         <td>PHP</td>
@@ -3070,6 +3094,14 @@
         <td><a href="https://piral.io" target="_blank">Piral - Microfrontend Framework</a></td>
         <td>Framework for next generation web apps using micro frontends. <g-emoji class="g-emoji" alias="rocket" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f680.png">?</g-emoji></td>
         <th><a href="https://github.com/smapiot/piral" target="_blank"><img alt="Piral - Microfrontend Framework" src="https://img.shields.io/github/stars/smapiot/piral?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="@origranot/ts-logger" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-ts-logger.png" /></td>
+        <td>Infrastructure</td>
+        <td>TypeScript</td>
+        <td><a href="https://github.com/origranot/ts-logger" target="_blank">@origranot/ts-logger</a></td>
+        <td>A powerful and easy-to-use logging and debugging package for TypeScript</td>
+        <th><a href="https://github.com/origranot/ts-logger" target="_blank"><img alt="@origranot/ts-logger" src="https://img.shields.io/github/stars/origranot/ts-logger?style=social" /></a></th>
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="ClusterFuzz" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-clusterfuzz.png" /></td>
@@ -3735,6 +3767,14 @@
         <td>Live update for capacitor apps</td>
         <th><a href="https://github.com/Cap-go/capacitor-updater" target="_blank"><img alt="Capacitor updater" src="https://img.shields.io/github/stars/Cap-go/capacitor-updater?style=social" /></a></th>
     </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="3kh0 Assets" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-ext-remover-5.jpg" /></td>
+        <td>Infrastructure</td>
+        <td>JavaScript</td>
+        <td><a href="https://3kh0.github.io/ext-remover/" target="_blank">3kh0 Assets</a></td>
+        <td>Bookmarklet exploit that can force-disable extensions installed on Chrome. Also has a very fancy GUI to manage all extensions!</td>
+        <th><a href="https://github.com/3kh0/ext-remover" target="_blank"><img alt="3kh0 Assets" src="https://img.shields.io/github/stars/3kh0/ext-remover?style=social" /></a></th>
+    </tr>
 
 </table>
 
@@ -3861,6 +3901,14 @@
         <td><a href="https://chatanalytics.app" target="_blank">Chat Analytics</a></td>
         <td>Generate interactive, beautiful and insightful chat analysis reports</td>
         <th><a href="https://github.com/mlomb/chat-analytics" target="_blank"><img alt="Chat Analytics" src="https://img.shields.io/github/stars/mlomb/chat-analytics?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="@origranot/ts-logger" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-ts-logger.png" /></td>
+        <td>Infrastructure</td>
+        <td>TypeScript</td>
+        <td><a href="https://github.com/origranot/ts-logger" target="_blank">@origranot/ts-logger</a></td>
+        <td>A powerful and easy-to-use logging and debugging package for TypeScript</td>
+        <th><a href="https://github.com/origranot/ts-logger" target="_blank"><img alt="@origranot/ts-logger" src="https://img.shields.io/github/stars/origranot/ts-logger?style=social" /></a></th>
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="The Lounge" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-thelounge.png" /></td>
@@ -4226,6 +4274,68 @@
 </table>
 
 <br /><br />
+<h2 id="html">Top 20 HTML libraries</h2>
+<table>
+    <tr>
+        <th>Icon</th>
+        <th>Category</th>
+        <th>Language</th>
+        <th>Name</th>
+        <th>Description</th>
+        <th>Stargazers</th>
+    </tr>
+        <tr>
+        <td nowrap="nowrap"><img width="33" alt="Overlay" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-overlay.png" /></td>
+        <td>Security</td>
+        <td>HTML</td>
+        <td><a href="https://github.com/os-scar/overlay" target="_blank">Overlay</a></td>
+        <td>Overlay is a browser extension helping developers evaluate open source packages before picking them</td>
+        <th><a href="https://github.com/os-scar/overlay" target="_blank"><img alt="Overlay" src="https://img.shields.io/github/stars/os-scar/overlay?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="OctoLinker" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-OctoLinker.png" /></td>
+        <td>Productivity</td>
+        <td>HTML</td>
+        <td><a href="https://octolinker.vercel.app" target="_blank">OctoLinker</a></td>
+        <td>OctoLinker — Links together, what belongs together</td>
+        <th><a href="https://github.com/OctoLinker/OctoLinker" target="_blank"><img alt="OctoLinker" src="https://img.shields.io/github/stars/OctoLinker/OctoLinker?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="MDN" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-learning-area.png" /></td>
+        <td>Collaboration</td>
+        <td>HTML</td>
+        <td><a href="https://developer.mozilla.org/en-US/Learn" target="_blank">MDN</a></td>
+        <td>Github repo for the MDN Learning Area. </td>
+        <th><a href="https://github.com/mdn/learning-area" target="_blank"><img alt="MDN" src="https://img.shields.io/github/stars/mdn/learning-area?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Rails Girls Guides" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-guides.railsgirls.com_-1.png" /></td>
+        <td>Collaboration</td>
+        <td>HTML</td>
+        <td><a href="https://guides.railsgirls.com/" target="_blank">Rails Girls Guides</a></td>
+        <td>Rails Girls Guides</td>
+        <th><a href="https://github.com/railsgirls/guides.railsgirls.com" target="_blank"><img alt="Rails Girls Guides" src="https://img.shields.io/github/stars/railsgirls/guides.railsgirls.com?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="School Of SRE." src="https://libraries.github20k.com/images/uploads/2023/05/newshot-school-of-sre.png" /></td>
+        <td>Productivity</td>
+        <td>HTML</td>
+        <td><a href="https://linkedin.github.io/school-of-sre/" target="_blank">School Of SRE.</a></td>
+        <td>At LinkedIn, we are using this curriculum for onboarding our entry-level talents into the SRE role.</td>
+        <th><a href="https://github.com/linkedin/school-of-sre" target="_blank"><img alt="School Of SRE." src="https://img.shields.io/github/stars/linkedin/school-of-sre?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="生信爱好者周刊" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-weekly.jpg" /></td>
+        <td>Miscellaneous</td>
+        <td>HTML</td>
+        <td><a href="https://shixiangwang.github.io/weekly/" target="_blank">生信爱好者周刊</a></td>
+        <td>生信爱好者周刊（每周日发布）</td>
+        <th><a href="https://github.com/ShixiangWang/weekly" target="_blank"><img alt="生信爱好者周刊" src="https://img.shields.io/github/stars/ShixiangWang/weekly?style=social" /></a></th>
+    </tr>
+
+</table>
+
+<br /><br />
 <h2 id="dart">Top 20 Dart libraries</h2>
 <table>
     <tr>
@@ -4535,6 +4645,14 @@
         <th><a href="https://github.com/WasiqB/multiple-cucumber-html-reporter" target="_blank"><img alt="multiple-cucumber-html-reporter" src="https://img.shields.io/github/stars/WasiqB/multiple-cucumber-html-reporter?style=social" /></a></th>
     </tr>
     <tr>
+        <td nowrap="nowrap"><img width="33" alt="Telenode" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-telenode.png" /></td>
+        <td>Notifications</td>
+        <td>JavaScript</td>
+        <td><a href="https://github.com/NivEz/telenode" target="_blank">Telenode</a></td>
+        <td>Lightweight Telegram API framework for Node.js</td>
+        <th><a href="https://github.com/NivEz/telenode" target="_blank"><img alt="Telenode" src="https://img.shields.io/github/stars/NivEz/telenode?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="Soundnode" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-soundnode-app.png" /></td>
         <td>Productivity</td>
         <td>JavaScript</td>
@@ -4798,6 +4916,244 @@
         <td>The missing JavaScript randomness library.</td>
         <th><a href="https://github.com/ChrisCavs/aimless.js" target="_blank"><img alt="Aimless.js" src="https://img.shields.io/github/stars/ChrisCavs/aimless.js?style=social" /></a></th>
     </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="3kh0 Assets" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-ext-remover-5.jpg" /></td>
+        <td>Infrastructure</td>
+        <td>JavaScript</td>
+        <td><a href="https://3kh0.github.io/ext-remover/" target="_blank">3kh0 Assets</a></td>
+        <td>Bookmarklet exploit that can force-disable extensions installed on Chrome. Also has a very fancy GUI to manage all extensions!</td>
+        <th><a href="https://github.com/3kh0/ext-remover" target="_blank"><img alt="3kh0 Assets" src="https://img.shields.io/github/stars/3kh0/ext-remover?style=social" /></a></th>
+    </tr>
+
+</table>
+
+<br /><br />
+<h2 id="python">Top 20 Python libraries</h2>
+<table>
+    <tr>
+        <th>Icon</th>
+        <th>Category</th>
+        <th>Language</th>
+        <th>Name</th>
+        <th>Description</th>
+        <th>Stargazers</th>
+    </tr>
+        <tr>
+        <td nowrap="nowrap"><img width="33" alt="llm-client" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-llm-client-sdk.jpg" /></td>
+        <td>Infrastructure</td>
+        <td>Python</td>
+        <td><a href="https://github.com/uripeled2/llm-client-sdk" target="_blank">llm-client</a></td>
+        <td>SDK for using LLM</td>
+        <th><a href="https://github.com/uripeled2/llm-client-sdk" target="_blank"><img alt="llm-client" src="https://img.shields.io/github/stars/uripeled2/llm-client-sdk?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="ClusterFuzz" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-clusterfuzz.png" /></td>
+        <td>Infrastructure</td>
+        <td>Python</td>
+        <td><a href="https://google.github.io/clusterfuzz" target="_blank">ClusterFuzz</a></td>
+        <td>Scalable fuzzing infrastructure.</td>
+        <th><a href="https://github.com/google/clusterfuzz" target="_blank"><img alt="ClusterFuzz" src="https://img.shields.io/github/stars/google/clusterfuzz?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Frappe Framework" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-frappe.png" /></td>
+        <td>Infrastructure</td>
+        <td>Python</td>
+        <td><a href="https://frappeframework.com" target="_blank">Frappe Framework</a></td>
+        <td>Low code web framework for real world applications, in Python and Javascript</td>
+        <th><a href="https://github.com/frappe/frappe" target="_blank"><img alt="Frappe Framework" src="https://img.shields.io/github/stars/frappe/frappe?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Musician's Friend" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-mmf.png" /></td>
+        <td>Infrastructure</td>
+        <td>Python</td>
+        <td><a href="https://mmf.sh/" target="_blank">Musician's Friend</a></td>
+        <td>A modular framework for vision &amp; language multimodal research from Facebook AI Research (FAIR)</td>
+        <th><a href="https://github.com/facebookresearch/mmf" target="_blank"><img alt="Musician's Friend" src="https://img.shields.io/github/stars/facebookresearch/mmf?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Flet" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-flet.png" /></td>
+        <td>Productivity</td>
+        <td>Python</td>
+        <td><a href="https://flet.dev" target="_blank">Flet</a></td>
+        <td>Flet enables developers to easily build realtime web, mobile and desktop apps in Python. No frontend experience required.</td>
+        <th><a href="https://github.com/flet-dev/flet" target="_blank"><img alt="Flet" src="https://img.shields.io/github/stars/flet-dev/flet?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="DocsGPT" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-DocsGPT.png" /></td>
+        <td>Productivity</td>
+        <td>Python</td>
+        <td><a href="https://docsgpt.arc53.com/" target="_blank">DocsGPT</a></td>
+        <td>GPT-powered chat for documentation search &amp; assistance.</td>
+        <th><a href="https://github.com/arc53/DocsGPT" target="_blank"><img alt="DocsGPT" src="https://img.shields.io/github/stars/arc53/DocsGPT?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Waydroid" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-waydroid.png" /></td>
+        <td>Infrastructure</td>
+        <td>Python</td>
+        <td><a href="https://waydro.id" target="_blank">Waydroid</a></td>
+        <td>Waydroid uses a container-based approach to boot a full Android system on a regular GNU/Linux system like Ubuntu.</td>
+        <th><a href="https://github.com/waydroid/waydroid" target="_blank"><img alt="Waydroid" src="https://img.shields.io/github/stars/waydroid/waydroid?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Snorkel AI" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-snorkel.png" /></td>
+        <td>Productivity</td>
+        <td>Python</td>
+        <td><a href="https://snorkel.org" target="_blank">Snorkel AI</a></td>
+        <td>A system for quickly generating training data with weak supervision</td>
+        <th><a href="https://github.com/snorkel-team/snorkel" target="_blank"><img alt="Snorkel AI" src="https://img.shields.io/github/stars/snorkel-team/snorkel?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="StackStorm" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-st2.jpg" /></td>
+        <td>Collaboration</td>
+        <td>Python</td>
+        <td><a href="https://stackstorm.com/" target="_blank">StackStorm</a></td>
+        <td>StackStorm (aka "IFTTT for Ops") is event-driven automation for auto-remediation, incident responses, troubleshooting, deployments, and more for DevOps and SREs. Includes rules engine, workflow, 16…</td>
+        <th><a href="https://github.com/StackStorm/st2" target="_blank"><img alt="StackStorm" src="https://img.shields.io/github/stars/StackStorm/st2?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="GitHub" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-pwndbg.png" /></td>
+        <td>Security</td>
+        <td>Python</td>
+        <td><a href="https://pwndbg.com/" target="_blank">GitHub</a></td>
+        <td>Exploit Development and Reverse Engineering with GDB Made Easy</td>
+        <th><a href="https://github.com/pwndbg/pwndbg" target="_blank"><img alt="GitHub" src="https://img.shields.io/github/stars/pwndbg/pwndbg?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="pypdf" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-pypdf.png" /></td>
+        <td>Databases</td>
+        <td>Python</td>
+        <td><a href="https://pypdf.readthedocs.io/en/latest/" target="_blank">pypdf</a></td>
+        <td>A pure-python PDF library capable of splitting, merging, cropping, and transforming the pages of PDF files</td>
+        <th><a href="https://github.com/py-pdf/pypdf" target="_blank"><img alt="pypdf" src="https://img.shields.io/github/stars/py-pdf/pypdf?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="PyCQA/isort" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-isort.jpg" /></td>
+        <td>Productivity</td>
+        <td>Python</td>
+        <td><a href="https://pycqa.github.io/isort/" target="_blank">PyCQA/isort</a></td>
+        <td>A Python utility / library to sort imports.</td>
+        <th><a href="https://github.com/PyCQA/isort" target="_blank"><img alt="PyCQA/isort" src="https://img.shields.io/github/stars/PyCQA/isort?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Librosa" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-librosa.png" /></td>
+        <td>Analytics</td>
+        <td>Python</td>
+        <td><a href="https://librosa.org/" target="_blank">Librosa</a></td>
+        <td>Python library for audio and music analysis</td>
+        <th><a href="https://github.com/librosa/librosa" target="_blank"><img alt="Librosa" src="https://img.shields.io/github/stars/librosa/librosa?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="PyGithub" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-PyGithub.png" /></td>
+        <td>Databases</td>
+        <td>Python</td>
+        <td><a href="https://pygithub.readthedocs.io/" target="_blank">PyGithub</a></td>
+        <td>Typed interactions with the GitHub API v3</td>
+        <th><a href="https://github.com/PyGithub/PyGithub" target="_blank"><img alt="PyGithub" src="https://img.shields.io/github/stars/PyGithub/PyGithub?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="OpenNMT" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-OpenNMT-py.png" /></td>
+        <td>Productivity</td>
+        <td>Python</td>
+        <td><a href="https://opennmt.net/" target="_blank">OpenNMT</a></td>
+        <td>Open Source Neural Machine Translation in PyTorch</td>
+        <th><a href="https://github.com/OpenNMT/OpenNMT-py" target="_blank"><img alt="OpenNMT" src="https://img.shields.io/github/stars/OpenNMT/OpenNMT-py?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="sqlfluff/sqlfluff" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-sqlfluff.png" /></td>
+        <td>Databases</td>
+        <td>Python</td>
+        <td><a href="https://www.sqlfluff.com" target="_blank">sqlfluff/sqlfluff</a></td>
+        <td>A modular SQL linter and auto-formatter with support for multiple dialects and templated code.</td>
+        <th><a href="https://github.com/sqlfluff/sqlfluff" target="_blank"><img alt="sqlfluff/sqlfluff" src="https://img.shields.io/github/stars/sqlfluff/sqlfluff?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Chroma" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-chroma-1.png" /></td>
+        <td>Databases</td>
+        <td>Python</td>
+        <td><a href="https://www.trychroma.com/" target="_blank">Chroma</a></td>
+        <td>the AI-native open-source embedding database</td>
+        <th><a href="https://github.com/chroma-core/chroma" target="_blank"><img alt="Chroma" src="https://img.shields.io/github/stars/chroma-core/chroma?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Conda" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-conda-1.png" /></td>
+        <td>Infrastructure</td>
+        <td>Python</td>
+        <td><a href="https://docs.conda.io/projects/conda/" target="_blank">Conda</a></td>
+        <td>A system-level, binary package and environment manager running on all major operating systems and platforms.</td>
+        <th><a href="https://github.com/conda/conda" target="_blank"><img alt="Conda" src="https://img.shields.io/github/stars/conda/conda?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="OnionShare" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-onionshare-1.png" /></td>
+        <td>Security</td>
+        <td>Python</td>
+        <td><a href="https://onionshare.org/" target="_blank">OnionShare</a></td>
+        <td>Securely and anonymously share files, host websites, and chat with friends using the Tor network</td>
+        <th><a href="https://github.com/onionshare/onionshare" target="_blank"><img alt="OnionShare" src="https://img.shields.io/github/stars/onionshare/onionshare?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Akamai" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-monkey-1.jpg" /></td>
+        <td>Security</td>
+        <td>Python</td>
+        <td><a href="https://www.guardicore.com/infectionmonkey/" target="_blank">Akamai</a></td>
+        <td>Infection Monkey - An open-source adversary emulation platform</td>
+        <th><a href="https://github.com/guardicore/monkey" target="_blank"><img alt="Akamai" src="https://img.shields.io/github/stars/guardicore/monkey?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="DeepPavlov" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-DeepPavlov.png" /></td>
+        <td>Collaboration</td>
+        <td>Python</td>
+        <td><a href="https://deeppavlov.ai" target="_blank">DeepPavlov</a></td>
+        <td>An open source library for deep learning end-to-end dialog systems and chatbots.</td>
+        <th><a href="https://github.com/deeppavlov/DeepPavlov" target="_blank"><img alt="DeepPavlov" src="https://img.shields.io/github/stars/deeppavlov/DeepPavlov?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="scikit-image" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-scikit-image-2.png" /></td>
+        <td>Productivity</td>
+        <td>Python</td>
+        <td><a href="https://scikit-image.org" target="_blank">scikit-image</a></td>
+        <td>Image processing in Python</td>
+        <th><a href="https://github.com/scikit-image/scikit-image" target="_blank"><img alt="scikit-image" src="https://img.shields.io/github/stars/scikit-image/scikit-image?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Taiga" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-taiga-back-2.png" /></td>
+        <td>Collaboration</td>
+        <td>Python</td>
+        <td><a href="http://taiga.io" target="_blank">Taiga</a></td>
+        <td>Agile project management platform. Built on top of Django and AngularJS</td>
+        <th><a href="https://github.com/taigaio/taiga-back" target="_blank"><img alt="Taiga" src="https://img.shields.io/github/stars/taigaio/taiga-back?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Our World in Data" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-covid-19-data-3.png" /></td>
+        <td>Databases</td>
+        <td>Python</td>
+        <td><a href="https://ourworldindata.org/coronavirus" target="_blank">Our World in Data</a></td>
+        <td>Data on COVID-19 (coronavirus) cases, deaths, hospitalizations, tests • All countries • Updated daily by Our World in Data</td>
+        <th><a href="https://github.com/owid/covid-19-data" target="_blank"><img alt="Our World in Data" src="https://img.shields.io/github/stars/owid/covid-19-data?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="AutoGluon Documentation" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-autogluon-1.png" /></td>
+        <td>Productivity</td>
+        <td>Python</td>
+        <td><a href="https://auto.gluon.ai/" target="_blank">AutoGluon Documentation</a></td>
+        <td>AutoGluon: AutoML for Image, Text, Time Series, and Tabular Data</td>
+        <th><a href="https://github.com/autogluon/autogluon" target="_blank"><img alt="AutoGluon Documentation" src="https://img.shields.io/github/stars/autogluon/autogluon?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="MkDocs" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-mkdocs-2.png" /></td>
+        <td>Productivity</td>
+        <td>Python</td>
+        <td><a href="https://www.mkdocs.org" target="_blank">MkDocs</a></td>
+        <td>Project documentation with Markdown.</td>
+        <th><a href="https://github.com/mkdocs/mkdocs" target="_blank"><img alt="MkDocs" src="https://img.shields.io/github/stars/mkdocs/mkdocs?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="PDM" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-pdm.png" /></td>
+        <td>Productivity</td>
+        <td>Python</td>
+        <td><a href="https://pdm.fming.dev" target="_blank">PDM</a></td>
+        <td>A modern Python package and dependency manager supporting the latest PEP standards</td>
+        <th><a href="https://github.com/pdm-project/pdm" target="_blank"><img alt="PDM" src="https://img.shields.io/github/stars/pdm-project/pdm?style=social" /></a></th>
+    </tr>
 
 </table>
 
@@ -5033,6 +5389,14 @@
         <th><a href="https://github.com/StackExchange/StackExchange.Redis" target="_blank"><img alt="StackExchange.Redis" src="https://img.shields.io/github/stars/StackExchange/StackExchange.Redis?style=social" /></a></th>
     </tr>
     <tr>
+        <td nowrap="nowrap"><img width="33" alt="Unity" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-open-project-1-2.png" /></td>
+        <td>Collaboration</td>
+        <td>C#</td>
+        <td><a href="http://unity.com/open-projects" target="_blank">Unity</a></td>
+        <td>Unity Open Project #1: Chop Chop</td>
+        <th><a href="https://github.com/UnityTechnologies/open-project-1" target="_blank"><img alt="Unity" src="https://img.shields.io/github/stars/UnityTechnologies/open-project-1?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="MudBlazor" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-MudBlazor.png" /></td>
         <td>Infrastructure</td>
         <td>C#</td>
@@ -5071,14 +5435,6 @@
         <td><a href="http://cap.dotnetcore.xyz" target="_blank">dotnetcore/CAP</a></td>
         <td>Distributed transaction solution in micro-service base on eventually consistency, also an eventbus with Outbox pattern</td>
         <th><a href="https://github.com/dotnetcore/CAP" target="_blank"><img alt="dotnetcore/CAP" src="https://img.shields.io/github/stars/dotnetcore/CAP?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Unity" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-open-project-1-2.png" /></td>
-        <td>Collaboration</td>
-        <td>C#</td>
-        <td><a href="http://unity.com/open-projects" target="_blank">Unity</a></td>
-        <td>Unity Open Project #1: Chop Chop</td>
-        <th><a href="https://github.com/UnityTechnologies/open-project-1" target="_blank"><img alt="Unity" src="https://img.shields.io/github/stars/UnityTechnologies/open-project-1?style=social" /></a></th>
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="FASTER" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-FASTER-1.png" /></td>
@@ -5542,228 +5898,6 @@
 </table>
 
 <br /><br />
-<h2 id="python">Top 20 Python libraries</h2>
-<table>
-    <tr>
-        <th>Icon</th>
-        <th>Category</th>
-        <th>Language</th>
-        <th>Name</th>
-        <th>Description</th>
-        <th>Stargazers</th>
-    </tr>
-        <tr>
-        <td nowrap="nowrap"><img width="33" alt="ClusterFuzz" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-clusterfuzz.png" /></td>
-        <td>Infrastructure</td>
-        <td>Python</td>
-        <td><a href="https://google.github.io/clusterfuzz" target="_blank">ClusterFuzz</a></td>
-        <td>Scalable fuzzing infrastructure.</td>
-        <th><a href="https://github.com/google/clusterfuzz" target="_blank"><img alt="ClusterFuzz" src="https://img.shields.io/github/stars/google/clusterfuzz?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Frappe Framework" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-frappe.png" /></td>
-        <td>Infrastructure</td>
-        <td>Python</td>
-        <td><a href="https://frappeframework.com" target="_blank">Frappe Framework</a></td>
-        <td>Low code web framework for real world applications, in Python and Javascript</td>
-        <th><a href="https://github.com/frappe/frappe" target="_blank"><img alt="Frappe Framework" src="https://img.shields.io/github/stars/frappe/frappe?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Musician's Friend" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-mmf.png" /></td>
-        <td>Infrastructure</td>
-        <td>Python</td>
-        <td><a href="https://mmf.sh/" target="_blank">Musician's Friend</a></td>
-        <td>A modular framework for vision &amp; language multimodal research from Facebook AI Research (FAIR)</td>
-        <th><a href="https://github.com/facebookresearch/mmf" target="_blank"><img alt="Musician's Friend" src="https://img.shields.io/github/stars/facebookresearch/mmf?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Flet" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-flet.png" /></td>
-        <td>Productivity</td>
-        <td>Python</td>
-        <td><a href="https://flet.dev" target="_blank">Flet</a></td>
-        <td>Flet enables developers to easily build realtime web, mobile and desktop apps in Python. No frontend experience required.</td>
-        <th><a href="https://github.com/flet-dev/flet" target="_blank"><img alt="Flet" src="https://img.shields.io/github/stars/flet-dev/flet?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="DocsGPT" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-DocsGPT.png" /></td>
-        <td>Productivity</td>
-        <td>Python</td>
-        <td><a href="https://docsgpt.arc53.com/" target="_blank">DocsGPT</a></td>
-        <td>GPT-powered chat for documentation search &amp; assistance.</td>
-        <th><a href="https://github.com/arc53/DocsGPT" target="_blank"><img alt="DocsGPT" src="https://img.shields.io/github/stars/arc53/DocsGPT?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Waydroid" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-waydroid.png" /></td>
-        <td>Infrastructure</td>
-        <td>Python</td>
-        <td><a href="https://waydro.id" target="_blank">Waydroid</a></td>
-        <td>Waydroid uses a container-based approach to boot a full Android system on a regular GNU/Linux system like Ubuntu.</td>
-        <th><a href="https://github.com/waydroid/waydroid" target="_blank"><img alt="Waydroid" src="https://img.shields.io/github/stars/waydroid/waydroid?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Snorkel AI" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-snorkel.png" /></td>
-        <td>Productivity</td>
-        <td>Python</td>
-        <td><a href="https://snorkel.org" target="_blank">Snorkel AI</a></td>
-        <td>A system for quickly generating training data with weak supervision</td>
-        <th><a href="https://github.com/snorkel-team/snorkel" target="_blank"><img alt="Snorkel AI" src="https://img.shields.io/github/stars/snorkel-team/snorkel?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="StackStorm" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-st2.jpg" /></td>
-        <td>Collaboration</td>
-        <td>Python</td>
-        <td><a href="https://stackstorm.com/" target="_blank">StackStorm</a></td>
-        <td>StackStorm (aka "IFTTT for Ops") is event-driven automation for auto-remediation, incident responses, troubleshooting, deployments, and more for DevOps and SREs. Includes rules engine, workflow, 16…</td>
-        <th><a href="https://github.com/StackStorm/st2" target="_blank"><img alt="StackStorm" src="https://img.shields.io/github/stars/StackStorm/st2?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="GitHub" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-pwndbg.png" /></td>
-        <td>Security</td>
-        <td>Python</td>
-        <td><a href="https://pwndbg.com/" target="_blank">GitHub</a></td>
-        <td>Exploit Development and Reverse Engineering with GDB Made Easy</td>
-        <th><a href="https://github.com/pwndbg/pwndbg" target="_blank"><img alt="GitHub" src="https://img.shields.io/github/stars/pwndbg/pwndbg?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="pypdf" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-pypdf.png" /></td>
-        <td>Databases</td>
-        <td>Python</td>
-        <td><a href="https://pypdf.readthedocs.io/en/latest/" target="_blank">pypdf</a></td>
-        <td>A pure-python PDF library capable of splitting, merging, cropping, and transforming the pages of PDF files</td>
-        <th><a href="https://github.com/py-pdf/pypdf" target="_blank"><img alt="pypdf" src="https://img.shields.io/github/stars/py-pdf/pypdf?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="PyCQA/isort" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-isort.jpg" /></td>
-        <td>Productivity</td>
-        <td>Python</td>
-        <td><a href="https://pycqa.github.io/isort/" target="_blank">PyCQA/isort</a></td>
-        <td>A Python utility / library to sort imports.</td>
-        <th><a href="https://github.com/PyCQA/isort" target="_blank"><img alt="PyCQA/isort" src="https://img.shields.io/github/stars/PyCQA/isort?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Librosa" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-librosa.png" /></td>
-        <td>Analytics</td>
-        <td>Python</td>
-        <td><a href="https://librosa.org/" target="_blank">Librosa</a></td>
-        <td>Python library for audio and music analysis</td>
-        <th><a href="https://github.com/librosa/librosa" target="_blank"><img alt="Librosa" src="https://img.shields.io/github/stars/librosa/librosa?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="PyGithub" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-PyGithub.png" /></td>
-        <td>Databases</td>
-        <td>Python</td>
-        <td><a href="https://pygithub.readthedocs.io/" target="_blank">PyGithub</a></td>
-        <td>Typed interactions with the GitHub API v3</td>
-        <th><a href="https://github.com/PyGithub/PyGithub" target="_blank"><img alt="PyGithub" src="https://img.shields.io/github/stars/PyGithub/PyGithub?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="OpenNMT" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-OpenNMT-py.png" /></td>
-        <td>Productivity</td>
-        <td>Python</td>
-        <td><a href="https://opennmt.net/" target="_blank">OpenNMT</a></td>
-        <td>Open Source Neural Machine Translation in PyTorch</td>
-        <th><a href="https://github.com/OpenNMT/OpenNMT-py" target="_blank"><img alt="OpenNMT" src="https://img.shields.io/github/stars/OpenNMT/OpenNMT-py?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="sqlfluff/sqlfluff" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-sqlfluff.png" /></td>
-        <td>Databases</td>
-        <td>Python</td>
-        <td><a href="https://www.sqlfluff.com" target="_blank">sqlfluff/sqlfluff</a></td>
-        <td>A modular SQL linter and auto-formatter with support for multiple dialects and templated code.</td>
-        <th><a href="https://github.com/sqlfluff/sqlfluff" target="_blank"><img alt="sqlfluff/sqlfluff" src="https://img.shields.io/github/stars/sqlfluff/sqlfluff?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Chroma" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-chroma-1.png" /></td>
-        <td>Databases</td>
-        <td>Python</td>
-        <td><a href="https://www.trychroma.com/" target="_blank">Chroma</a></td>
-        <td>the AI-native open-source embedding database</td>
-        <th><a href="https://github.com/chroma-core/chroma" target="_blank"><img alt="Chroma" src="https://img.shields.io/github/stars/chroma-core/chroma?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Conda" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-conda-1.png" /></td>
-        <td>Infrastructure</td>
-        <td>Python</td>
-        <td><a href="https://docs.conda.io/projects/conda/" target="_blank">Conda</a></td>
-        <td>A system-level, binary package and environment manager running on all major operating systems and platforms.</td>
-        <th><a href="https://github.com/conda/conda" target="_blank"><img alt="Conda" src="https://img.shields.io/github/stars/conda/conda?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="OnionShare" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-onionshare-1.png" /></td>
-        <td>Security</td>
-        <td>Python</td>
-        <td><a href="https://onionshare.org/" target="_blank">OnionShare</a></td>
-        <td>Securely and anonymously share files, host websites, and chat with friends using the Tor network</td>
-        <th><a href="https://github.com/onionshare/onionshare" target="_blank"><img alt="OnionShare" src="https://img.shields.io/github/stars/onionshare/onionshare?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Akamai" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-monkey-1.jpg" /></td>
-        <td>Security</td>
-        <td>Python</td>
-        <td><a href="https://www.guardicore.com/infectionmonkey/" target="_blank">Akamai</a></td>
-        <td>Infection Monkey - An open-source adversary emulation platform</td>
-        <th><a href="https://github.com/guardicore/monkey" target="_blank"><img alt="Akamai" src="https://img.shields.io/github/stars/guardicore/monkey?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="DeepPavlov" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-DeepPavlov.png" /></td>
-        <td>Collaboration</td>
-        <td>Python</td>
-        <td><a href="https://deeppavlov.ai" target="_blank">DeepPavlov</a></td>
-        <td>An open source library for deep learning end-to-end dialog systems and chatbots.</td>
-        <th><a href="https://github.com/deeppavlov/DeepPavlov" target="_blank"><img alt="DeepPavlov" src="https://img.shields.io/github/stars/deeppavlov/DeepPavlov?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="scikit-image" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-scikit-image-2.png" /></td>
-        <td>Productivity</td>
-        <td>Python</td>
-        <td><a href="https://scikit-image.org" target="_blank">scikit-image</a></td>
-        <td>Image processing in Python</td>
-        <th><a href="https://github.com/scikit-image/scikit-image" target="_blank"><img alt="scikit-image" src="https://img.shields.io/github/stars/scikit-image/scikit-image?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Taiga" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-taiga-back-2.png" /></td>
-        <td>Collaboration</td>
-        <td>Python</td>
-        <td><a href="http://taiga.io" target="_blank">Taiga</a></td>
-        <td>Agile project management platform. Built on top of Django and AngularJS</td>
-        <th><a href="https://github.com/taigaio/taiga-back" target="_blank"><img alt="Taiga" src="https://img.shields.io/github/stars/taigaio/taiga-back?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Our World in Data" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-covid-19-data-3.png" /></td>
-        <td>Databases</td>
-        <td>Python</td>
-        <td><a href="https://ourworldindata.org/coronavirus" target="_blank">Our World in Data</a></td>
-        <td>Data on COVID-19 (coronavirus) cases, deaths, hospitalizations, tests • All countries • Updated daily by Our World in Data</td>
-        <th><a href="https://github.com/owid/covid-19-data" target="_blank"><img alt="Our World in Data" src="https://img.shields.io/github/stars/owid/covid-19-data?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="AutoGluon Documentation" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-autogluon-1.png" /></td>
-        <td>Productivity</td>
-        <td>Python</td>
-        <td><a href="https://auto.gluon.ai/" target="_blank">AutoGluon Documentation</a></td>
-        <td>AutoGluon: AutoML for Image, Text, Time Series, and Tabular Data</td>
-        <th><a href="https://github.com/autogluon/autogluon" target="_blank"><img alt="AutoGluon Documentation" src="https://img.shields.io/github/stars/autogluon/autogluon?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="MkDocs" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-mkdocs-2.png" /></td>
-        <td>Productivity</td>
-        <td>Python</td>
-        <td><a href="https://www.mkdocs.org" target="_blank">MkDocs</a></td>
-        <td>Project documentation with Markdown.</td>
-        <th><a href="https://github.com/mkdocs/mkdocs" target="_blank"><img alt="MkDocs" src="https://img.shields.io/github/stars/mkdocs/mkdocs?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="PDM" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-pdm.png" /></td>
-        <td>Productivity</td>
-        <td>Python</td>
-        <td><a href="https://pdm.fming.dev" target="_blank">PDM</a></td>
-        <td>A modern Python package and dependency manager supporting the latest PEP standards</td>
-        <th><a href="https://github.com/pdm-project/pdm" target="_blank"><img alt="PDM" src="https://img.shields.io/github/stars/pdm-project/pdm?style=social" /></a></th>
-    </tr>
-
-</table>
-
-<br /><br />
 <h2 id="c++">Top 20 C++ libraries</h2>
 <table>
     <tr>
@@ -5995,60 +6129,6 @@
         <td><a href="https://cucumber.io" target="_blank">Cucumber</a></td>
         <td>Cucumber for Ruby. It's amazing!</td>
         <th><a href="https://github.com/cucumber/cucumber-ruby" target="_blank"><img alt="Cucumber" src="https://img.shields.io/github/stars/cucumber/cucumber-ruby?style=social" /></a></th>
-    </tr>
-
-</table>
-
-<br /><br />
-<h2 id="html">Top 20 HTML libraries</h2>
-<table>
-    <tr>
-        <th>Icon</th>
-        <th>Category</th>
-        <th>Language</th>
-        <th>Name</th>
-        <th>Description</th>
-        <th>Stargazers</th>
-    </tr>
-        <tr>
-        <td nowrap="nowrap"><img width="33" alt="OctoLinker" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-OctoLinker.png" /></td>
-        <td>Productivity</td>
-        <td>HTML</td>
-        <td><a href="https://octolinker.vercel.app" target="_blank">OctoLinker</a></td>
-        <td>OctoLinker — Links together, what belongs together</td>
-        <th><a href="https://github.com/OctoLinker/OctoLinker" target="_blank"><img alt="OctoLinker" src="https://img.shields.io/github/stars/OctoLinker/OctoLinker?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="MDN" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-learning-area.png" /></td>
-        <td>Collaboration</td>
-        <td>HTML</td>
-        <td><a href="https://developer.mozilla.org/en-US/Learn" target="_blank">MDN</a></td>
-        <td>Github repo for the MDN Learning Area. </td>
-        <th><a href="https://github.com/mdn/learning-area" target="_blank"><img alt="MDN" src="https://img.shields.io/github/stars/mdn/learning-area?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Rails Girls Guides" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-guides.railsgirls.com_-1.png" /></td>
-        <td>Collaboration</td>
-        <td>HTML</td>
-        <td><a href="https://guides.railsgirls.com/" target="_blank">Rails Girls Guides</a></td>
-        <td>Rails Girls Guides</td>
-        <th><a href="https://github.com/railsgirls/guides.railsgirls.com" target="_blank"><img alt="Rails Girls Guides" src="https://img.shields.io/github/stars/railsgirls/guides.railsgirls.com?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="School Of SRE." src="https://libraries.github20k.com/images/uploads/2023/05/newshot-school-of-sre.png" /></td>
-        <td>Productivity</td>
-        <td>HTML</td>
-        <td><a href="https://linkedin.github.io/school-of-sre/" target="_blank">School Of SRE.</a></td>
-        <td>At LinkedIn, we are using this curriculum for onboarding our entry-level talents into the SRE role.</td>
-        <th><a href="https://github.com/linkedin/school-of-sre" target="_blank"><img alt="School Of SRE." src="https://img.shields.io/github/stars/linkedin/school-of-sre?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="生信爱好者周刊" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-weekly.jpg" /></td>
-        <td>Miscellaneous</td>
-        <td>HTML</td>
-        <td><a href="https://shixiangwang.github.io/weekly/" target="_blank">生信爱好者周刊</a></td>
-        <td>生信爱好者周刊（每周日发布）</td>
-        <th><a href="https://github.com/ShixiangWang/weekly" target="_blank"><img alt="生信爱好者周刊" src="https://img.shields.io/github/stars/ShixiangWang/weekly?style=social" /></a></th>
     </tr>
 
 </table>
