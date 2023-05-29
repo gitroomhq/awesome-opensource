@@ -242,6 +242,22 @@
         <th><a href="https://github.com/3kh0/ext-remover" target="_blank"><img alt="3kh0 Assets" src="https://img.shields.io/github/stars/3kh0/ext-remover?style=social" /></a></th>
     </tr>
     <tr>
+        <td nowrap="nowrap"><img width="33" alt="Eventual Shop" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-EventualShop.jpg" /></td>
+        <td>Miscellaneous</td>
+        <td>C#</td>
+        <td><a href="https://github.com/AntonioFalcaoJr/EventualShop/blob/release/README.md#bulb-about" target="_blank">Eventual Shop</a></td>
+        <td>A state-of-the-art distributed system using Reactive DDD as uncertainty modeling, Event Storming as subdomain decomposition, Event Sourcing as an eventual persistence mechanism, CQRS, Async Project…</td>
+        <th><a href="https://github.com/AntonioFalcaoJr/EventualShop" target="_blank"><img alt="Eventual Shop" src="https://img.shields.io/github/stars/AntonioFalcaoJr/EventualShop?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Baby Query" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-baby-query.jpg" /></td>
+        <td>Infrastructure</td>
+        <td>JavaScript</td>
+        <td><a href="https://robiulhr.github.io/baby-query/" target="_blank">Baby Query</a></td>
+        <td>Baby Query is a custom implementation of the popular JavaScript library jQuery. </td>
+        <th><a href="https://github.com/robiulhr/baby-query" target="_blank"><img alt="Baby Query" src="https://img.shields.io/github/stars/robiulhr/baby-query?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="Vue Hooks" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-vhooks.jpg" /></td>
         <td>Productivity</td>
         <td>TypeScript</td>
@@ -280,22 +296,6 @@
         <td><a href="https://infisical.com" target="_blank">Infisical</a></td>
         <td><g-emoji class="g-emoji" alias="infinity" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/267e.png">♾</g-emoji> Infisical is an open-source, end-to-end encrypted platform for secret management: sync secrets across your team/infrastructure and prevent secret leaks.</td>
         <th><a href="https://github.com/Infisical/infisical" target="_blank"><img alt="Infisical" src="https://img.shields.io/github/stars/Infisical/infisical?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Nobu Browser" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-nobu.jpg" /></td>
-        <td>Productivity</td>
-        <td>TypeScript</td>
-        <td><a href="https://nobu.neplextech.com" target="_blank">Nobu Browser</a></td>
-        <td>Simple, cross-platform web browser for web developers</td>
-        <th><a href="https://github.com/neplextech/nobu" target="_blank"><img alt="Nobu Browser" src="https://img.shields.io/github/stars/neplextech/nobu?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Adversarial ASR" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-ASRAdversarialAttacks.jpg" /></td>
-        <td>Security</td>
-        <td>Jupyter Notebook</td>
-        <td><a href="https://github.com/hammaad2002/ASRAdversarialAttacks" target="_blank">Adversarial ASR</a></td>
-        <td>An ASR (Automatic Speech Recognition) adversarial attack repository.</td>
-        <th><a href="https://github.com/hammaad2002/ASRAdversarialAttacks" target="_blank"><img alt="Adversarial ASR" src="https://img.shields.io/github/stars/hammaad2002/ASRAdversarialAttacks?style=social" /></a></th>
     </tr>
 
 </table>
@@ -1294,6 +1294,14 @@
         <td><a href="https://github.com/GSTJ/pegava-dating-app" target="_blank">pegava-dating-app</a></td>
         <td><g-emoji class="g-emoji" alias="sparkling_heart" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f496.png">?</g-emoji> A place to get some love. Pegava is a beautiful dating app made in React Native. </td>
         <th><a href="https://github.com/GSTJ/pegava-dating-app" target="_blank"><img alt="pegava-dating-app" src="https://img.shields.io/github/stars/GSTJ/pegava-dating-app?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Eventual Shop" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-EventualShop.jpg" /></td>
+        <td>Miscellaneous</td>
+        <td>C#</td>
+        <td><a href="https://github.com/AntonioFalcaoJr/EventualShop/blob/release/README.md#bulb-about" target="_blank">Eventual Shop</a></td>
+        <td>A state-of-the-art distributed system using Reactive DDD as uncertainty modeling, Event Storming as subdomain decomposition, Event Sourcing as an eventual persistence mechanism, CQRS, Async Project…</td>
+        <th><a href="https://github.com/AntonioFalcaoJr/EventualShop" target="_blank"><img alt="Eventual Shop" src="https://img.shields.io/github/stars/AntonioFalcaoJr/EventualShop?style=social" /></a></th>
     </tr>
 
 </table>
@@ -3775,6 +3783,14 @@
         <td>Bookmarklet exploit that can force-disable extensions installed on Chrome. Also has a very fancy GUI to manage all extensions!</td>
         <th><a href="https://github.com/3kh0/ext-remover" target="_blank"><img alt="3kh0 Assets" src="https://img.shields.io/github/stars/3kh0/ext-remover?style=social" /></a></th>
     </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Baby Query" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-baby-query.jpg" /></td>
+        <td>Infrastructure</td>
+        <td>JavaScript</td>
+        <td><a href="https://robiulhr.github.io/baby-query/" target="_blank">Baby Query</a></td>
+        <td>Baby Query is a custom implementation of the popular JavaScript library jQuery. </td>
+        <th><a href="https://github.com/robiulhr/baby-query" target="_blank"><img alt="Baby Query" src="https://img.shields.io/github/stars/robiulhr/baby-query?style=social" /></a></th>
+    </tr>
 
 </table>
 
@@ -4924,6 +4940,14 @@
         <td>Bookmarklet exploit that can force-disable extensions installed on Chrome. Also has a very fancy GUI to manage all extensions!</td>
         <th><a href="https://github.com/3kh0/ext-remover" target="_blank"><img alt="3kh0 Assets" src="https://img.shields.io/github/stars/3kh0/ext-remover?style=social" /></a></th>
     </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Baby Query" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-baby-query.jpg" /></td>
+        <td>Infrastructure</td>
+        <td>JavaScript</td>
+        <td><a href="https://robiulhr.github.io/baby-query/" target="_blank">Baby Query</a></td>
+        <td>Baby Query is a custom implementation of the popular JavaScript library jQuery. </td>
+        <th><a href="https://github.com/robiulhr/baby-query" target="_blank"><img alt="Baby Query" src="https://img.shields.io/github/stars/robiulhr/baby-query?style=social" /></a></th>
+    </tr>
 
 </table>
 
@@ -5443,6 +5467,14 @@
         <td><a href="https://aka.ms/FASTER" target="_blank">FASTER</a></td>
         <td>Fast persistent recoverable log and key-value store + cache, in C# and C++.</td>
         <th><a href="https://github.com/microsoft/FASTER" target="_blank"><img alt="FASTER" src="https://img.shields.io/github/stars/microsoft/FASTER?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Eventual Shop" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-EventualShop.jpg" /></td>
+        <td>Miscellaneous</td>
+        <td>C#</td>
+        <td><a href="https://github.com/AntonioFalcaoJr/EventualShop/blob/release/README.md#bulb-about" target="_blank">Eventual Shop</a></td>
+        <td>A state-of-the-art distributed system using Reactive DDD as uncertainty modeling, Event Storming as subdomain decomposition, Event Sourcing as an eventual persistence mechanism, CQRS, Async Project…</td>
+        <th><a href="https://github.com/AntonioFalcaoJr/EventualShop" target="_blank"><img alt="Eventual Shop" src="https://img.shields.io/github/stars/AntonioFalcaoJr/EventualShop?style=social" /></a></th>
     </tr>
 
 </table>
