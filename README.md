@@ -119,6 +119,8 @@
                 <a href="#xslt">Top 20 XSLT libraries</a>
              </li>          <li>
                 <a href="#jupyter-notebook">Top 20 Jupyter Notebook libraries</a>
+             </li>          <li>
+                <a href="#vue">Top 20 Vue libraries</a>
              </li>        
         </ul>
     </li>
@@ -136,6 +138,38 @@
         <th>Stargazers</th>
     </tr>
         <tr>
+        <td nowrap="nowrap"><img width="33" alt="Everright-filter" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-Everright-filter.jpg" /></td>
+        <td>Miscellaneous</td>
+        <td>Vue</td>
+        <td><a href="https://everright.site/en/module/filter/introduction.html" target="_blank">Everright-filter</a></td>
+        <td>A query builder component for Vue3. Supports filtering of multiple data types, including string, number, dropdown, cascade, region, date, and time.</td>
+        <th><a href="https://github.com/Liberty-liu/Everright-filter" target="_blank"><img alt="Everright-filter" src="https://img.shields.io/github/stars/Liberty-liu/Everright-filter?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="eslint-plugin-safe-jsx" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-safe-jsx.png" /></td>
+        <td>Miscellaneous</td>
+        <td>TypeScript</td>
+        <td><a href="https://github.com/GSTJ/safe-jsx" target="_blank">eslint-plugin-safe-jsx</a></td>
+        <td>An ESLint plugin that enforces explicit boolean conversion before using the &amp;&amp; operator with JSX in React and React Native applications.</td>
+        <th><a href="https://github.com/GSTJ/safe-jsx" target="_blank"><img alt="eslint-plugin-safe-jsx" src="https://img.shields.io/github/stars/GSTJ/safe-jsx?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="react-native-magic-modal" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-react-native-magic-modal.png" /></td>
+        <td>Miscellaneous</td>
+        <td>TypeScript</td>
+        <td><a href="https://github.com/GSTJ/react-native-magic-modal" target="_blank">react-native-magic-modal</a></td>
+        <td><g-emoji class="g-emoji" alias="unicorn" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f984.png">?</g-emoji> A modal library that can be called imperatively from anywhere!</td>
+        <th><a href="https://github.com/GSTJ/react-native-magic-modal" target="_blank"><img alt="react-native-magic-modal" src="https://img.shields.io/github/stars/GSTJ/react-native-magic-modal?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="pegava-dating-app" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-pegava-dating-app.png" /></td>
+        <td>Miscellaneous</td>
+        <td>TypeScript</td>
+        <td><a href="https://github.com/GSTJ/pegava-dating-app" target="_blank">pegava-dating-app</a></td>
+        <td><g-emoji class="g-emoji" alias="sparkling_heart" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f496.png">?</g-emoji> A place to get some love. Pegava is a beautiful dating app made in React Native. </td>
+        <th><a href="https://github.com/GSTJ/pegava-dating-app" target="_blank"><img alt="pegava-dating-app" src="https://img.shields.io/github/stars/GSTJ/pegava-dating-app?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="Vue Hooks" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-vhooks.jpg" /></td>
         <td>Productivity</td>
         <td>TypeScript</td>
@@ -262,38 +296,6 @@
         <td><a href="https://github.com/bengry/typedash" target="_blank">typedash</a></td>
         <td>Modern, type-safe alternative to lodash and friends</td>
         <th><a href="https://github.com/bengry/typedash" target="_blank"><img alt="typedash" src="https://img.shields.io/github/stars/bengry/typedash?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Document Makeup Library" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-DML.png" /></td>
-        <td>Productivity</td>
-        <td>JavaScript</td>
-        <td><a href="https://efpage.de/DML/DML_homepage" target="_blank">Document Makeup Library</a></td>
-        <td>An Object Oriented Web Programming Framework</td>
-        <th><a href="https://github.com/efpage/DML" target="_blank"><img alt="Document Makeup Library" src="https://img.shields.io/github/stars/efpage/DML?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Everright-formEditor" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-Everright-formEditor.jpg" /></td>
-        <td>Productivity</td>
-        <td>JavaScript</td>
-        <td><a href="https://everright.site/en/module/formEditor/introduction.html" target="_blank">Everright-formEditor</a></td>
-        <td>A visual low code form editor based on vue, The PC depends on element-plus while the mobile depends on vant. It provides an easy way to create custom forms. The project is extensible, easy to use a…</td>
-        <th><a href="https://github.com/Liberty-liu/Everright-formEditor" target="_blank"><img alt="Everright-formEditor" src="https://img.shields.io/github/stars/Liberty-liu/Everright-formEditor?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="auto-dop" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-auto-dop.jpg" /></td>
-        <td>Productivity</td>
-        <td>JavaScript</td>
-        <td><a href="https://github.com/Erutidians/auto-dop" target="_blank">auto-dop</a></td>
-        <td>Automation for creating markdown files for 100 Days of Productivity challenge.</td>
-        <th><a href="https://github.com/Erutidians/auto-dop" target="_blank"><img alt="auto-dop" src="https://img.shields.io/github/stars/Erutidians/auto-dop?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Hyperswitch" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-hyperswitch.png" /></td>
-        <td>Productivity</td>
-        <td>Rust</td>
-        <td><a href="https://hyperswitch.io" target="_blank">Hyperswitch</a></td>
-        <td>An Open Source Financial Switch to make Payments fast, reliable and affordable</td>
-        <th><a href="https://github.com/juspay/hyperswitch" target="_blank"><img alt="Hyperswitch" src="https://img.shields.io/github/stars/juspay/hyperswitch?style=social" /></a></th>
     </tr>
 
 </table>
@@ -1252,6 +1254,38 @@
         <td><a href="https://github.com/bengry/typedash" target="_blank">typedash</a></td>
         <td>Modern, type-safe alternative to lodash and friends</td>
         <th><a href="https://github.com/bengry/typedash" target="_blank"><img alt="typedash" src="https://img.shields.io/github/stars/bengry/typedash?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Everright-filter" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-Everright-filter.jpg" /></td>
+        <td>Miscellaneous</td>
+        <td>Vue</td>
+        <td><a href="https://everright.site/en/module/filter/introduction.html" target="_blank">Everright-filter</a></td>
+        <td>A query builder component for Vue3. Supports filtering of multiple data types, including string, number, dropdown, cascade, region, date, and time.</td>
+        <th><a href="https://github.com/Liberty-liu/Everright-filter" target="_blank"><img alt="Everright-filter" src="https://img.shields.io/github/stars/Liberty-liu/Everright-filter?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="eslint-plugin-safe-jsx" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-safe-jsx.png" /></td>
+        <td>Miscellaneous</td>
+        <td>TypeScript</td>
+        <td><a href="https://github.com/GSTJ/safe-jsx" target="_blank">eslint-plugin-safe-jsx</a></td>
+        <td>An ESLint plugin that enforces explicit boolean conversion before using the &amp;&amp; operator with JSX in React and React Native applications.</td>
+        <th><a href="https://github.com/GSTJ/safe-jsx" target="_blank"><img alt="eslint-plugin-safe-jsx" src="https://img.shields.io/github/stars/GSTJ/safe-jsx?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="react-native-magic-modal" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-react-native-magic-modal.png" /></td>
+        <td>Miscellaneous</td>
+        <td>TypeScript</td>
+        <td><a href="https://github.com/GSTJ/react-native-magic-modal" target="_blank">react-native-magic-modal</a></td>
+        <td><g-emoji class="g-emoji" alias="unicorn" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f984.png">?</g-emoji> A modal library that can be called imperatively from anywhere!</td>
+        <th><a href="https://github.com/GSTJ/react-native-magic-modal" target="_blank"><img alt="react-native-magic-modal" src="https://img.shields.io/github/stars/GSTJ/react-native-magic-modal?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="pegava-dating-app" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-pegava-dating-app.png" /></td>
+        <td>Miscellaneous</td>
+        <td>TypeScript</td>
+        <td><a href="https://github.com/GSTJ/pegava-dating-app" target="_blank">pegava-dating-app</a></td>
+        <td><g-emoji class="g-emoji" alias="sparkling_heart" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f496.png">?</g-emoji> A place to get some love. Pegava is a beautiful dating app made in React Native. </td>
+        <th><a href="https://github.com/GSTJ/pegava-dating-app" target="_blank"><img alt="pegava-dating-app" src="https://img.shields.io/github/stars/GSTJ/pegava-dating-app?style=social" /></a></th>
     </tr>
 
 </table>
@@ -4124,6 +4158,30 @@
         <td>Simple, cross-platform web browser for web developers</td>
         <th><a href="https://github.com/neplextech/nobu" target="_blank"><img alt="Nobu Browser" src="https://img.shields.io/github/stars/neplextech/nobu?style=social" /></a></th>
     </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="eslint-plugin-safe-jsx" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-safe-jsx.png" /></td>
+        <td>Miscellaneous</td>
+        <td>TypeScript</td>
+        <td><a href="https://github.com/GSTJ/safe-jsx" target="_blank">eslint-plugin-safe-jsx</a></td>
+        <td>An ESLint plugin that enforces explicit boolean conversion before using the &amp;&amp; operator with JSX in React and React Native applications.</td>
+        <th><a href="https://github.com/GSTJ/safe-jsx" target="_blank"><img alt="eslint-plugin-safe-jsx" src="https://img.shields.io/github/stars/GSTJ/safe-jsx?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="react-native-magic-modal" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-react-native-magic-modal.png" /></td>
+        <td>Miscellaneous</td>
+        <td>TypeScript</td>
+        <td><a href="https://github.com/GSTJ/react-native-magic-modal" target="_blank">react-native-magic-modal</a></td>
+        <td><g-emoji class="g-emoji" alias="unicorn" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f984.png">?</g-emoji> A modal library that can be called imperatively from anywhere!</td>
+        <th><a href="https://github.com/GSTJ/react-native-magic-modal" target="_blank"><img alt="react-native-magic-modal" src="https://img.shields.io/github/stars/GSTJ/react-native-magic-modal?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="pegava-dating-app" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-pegava-dating-app.png" /></td>
+        <td>Miscellaneous</td>
+        <td>TypeScript</td>
+        <td><a href="https://github.com/GSTJ/pegava-dating-app" target="_blank">pegava-dating-app</a></td>
+        <td><g-emoji class="g-emoji" alias="sparkling_heart" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f496.png">?</g-emoji> A place to get some love. Pegava is a beautiful dating app made in React Native. </td>
+        <th><a href="https://github.com/GSTJ/pegava-dating-app" target="_blank"><img alt="pegava-dating-app" src="https://img.shields.io/github/stars/GSTJ/pegava-dating-app?style=social" /></a></th>
+    </tr>
 
 </table>
 
@@ -6643,6 +6701,28 @@
         <td><a href="https://github.com/hammaad2002/ASRAdversarialAttacks" target="_blank">Adversarial ASR</a></td>
         <td>An ASR (Automatic Speech Recognition) adversarial attack repository.</td>
         <th><a href="https://github.com/hammaad2002/ASRAdversarialAttacks" target="_blank"><img alt="Adversarial ASR" src="https://img.shields.io/github/stars/hammaad2002/ASRAdversarialAttacks?style=social" /></a></th>
+    </tr>
+
+</table>
+
+<br /><br />
+<h2 id="vue">Top 20 Vue libraries</h2>
+<table>
+    <tr>
+        <th>Icon</th>
+        <th>Category</th>
+        <th>Language</th>
+        <th>Name</th>
+        <th>Description</th>
+        <th>Stargazers</th>
+    </tr>
+        <tr>
+        <td nowrap="nowrap"><img width="33" alt="Everright-filter" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-Everright-filter.jpg" /></td>
+        <td>Miscellaneous</td>
+        <td>Vue</td>
+        <td><a href="https://everright.site/en/module/filter/introduction.html" target="_blank">Everright-filter</a></td>
+        <td>A query builder component for Vue3. Supports filtering of multiple data types, including string, number, dropdown, cascade, region, date, and time.</td>
+        <th><a href="https://github.com/Liberty-liu/Everright-filter" target="_blank"><img alt="Everright-filter" src="https://img.shields.io/github/stars/Liberty-liu/Everright-filter?style=social" /></a></th>
     </tr>
 
 </table>
