@@ -117,6 +117,8 @@
                 <a href="#haskell">Top 20 Haskell libraries</a>
              </li>          <li>
                 <a href="#xslt">Top 20 XSLT libraries</a>
+             </li>          <li>
+                <a href="#jupyter-notebook">Top 20 Jupyter Notebook libraries</a>
              </li>        
         </ul>
     </li>
@@ -182,6 +184,22 @@
         <th><a href="https://github.com/neplextech/nobu" target="_blank"><img alt="Nobu Browser" src="https://img.shields.io/github/stars/neplextech/nobu?style=social" /></a></th>
     </tr>
     <tr>
+        <td nowrap="nowrap"><img width="33" alt="Adversarial ASR" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-ASRAdversarialAttacks.jpg" /></td>
+        <td>Security</td>
+        <td>Jupyter Notebook</td>
+        <td><a href="https://github.com/hammaad2002/ASRAdversarialAttacks" target="_blank">Adversarial ASR</a></td>
+        <td>An ASR (Automatic Speech Recognition) adversarial attack repository.</td>
+        <th><a href="https://github.com/hammaad2002/ASRAdversarialAttacks" target="_blank"><img alt="Adversarial ASR" src="https://img.shields.io/github/stars/hammaad2002/ASRAdversarialAttacks?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Aimless.js" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-aimless.js.jpg" /></td>
+        <td>Productivity</td>
+        <td>JavaScript</td>
+        <td><a href="https://chriscavs.github.io/aimless-demo/" target="_blank">Aimless.js</a></td>
+        <td>The missing JavaScript randomness library.</td>
+        <th><a href="https://github.com/ChrisCavs/aimless.js" target="_blank"><img alt="Aimless.js" src="https://img.shields.io/github/stars/ChrisCavs/aimless.js?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="Jellyfish-x-Retro" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-vscode-Jellyfish-x-Retro.jpg" /></td>
         <td>Productivity</td>
         <td>CSS</td>
@@ -212,6 +230,14 @@
         <td><a href="https://purekit.vercel.app" target="_blank">purekit</a></td>
         <td>The Simple and Efficient Javascript / Typescript Utility Library</td>
         <th><a href="https://github.com/PunitSoniME/purekit" target="_blank"><img alt="purekit" src="https://img.shields.io/github/stars/PunitSoniME/purekit?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Piral - Microfrontend Framework" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-piral.png" /></td>
+        <td>Infrastructure</td>
+        <td>TypeScript</td>
+        <td><a href="https://piral.io" target="_blank">Piral - Microfrontend Framework</a></td>
+        <td>Framework for next generation web apps using micro frontends. <g-emoji class="g-emoji" alias="rocket" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f680.png">?</g-emoji></td>
+        <th><a href="https://github.com/smapiot/piral" target="_blank"><img alt="Piral - Microfrontend Framework" src="https://img.shields.io/github/stars/smapiot/piral?style=social" /></a></th>
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="react-helper-hooks" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-react-helper-hooks.jpg" /></td>
@@ -246,14 +272,6 @@
         <th><a href="https://github.com/efpage/DML" target="_blank"><img alt="Document Makeup Library" src="https://img.shields.io/github/stars/efpage/DML?style=social" /></a></th>
     </tr>
     <tr>
-        <td nowrap="nowrap"><img width="33" alt="Piral - Microfrontend Framework" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-piral.png" /></td>
-        <td>Infrastructure</td>
-        <td>TypeScript</td>
-        <td><a href="https://piral.io" target="_blank">Piral - Microfrontend Framework</a></td>
-        <td>Framework for next generation web apps using micro frontends. <g-emoji class="g-emoji" alias="rocket" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f680.png">?</g-emoji></td>
-        <th><a href="https://github.com/smapiot/piral" target="_blank"><img alt="Piral - Microfrontend Framework" src="https://img.shields.io/github/stars/smapiot/piral?style=social" /></a></th>
-    </tr>
-    <tr>
         <td nowrap="nowrap"><img width="33" alt="Everright-formEditor" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-Everright-formEditor.jpg" /></td>
         <td>Productivity</td>
         <td>JavaScript</td>
@@ -276,22 +294,6 @@
         <td><a href="https://hyperswitch.io" target="_blank">Hyperswitch</a></td>
         <td>An Open Source Financial Switch to make Payments fast, reliable and affordable</td>
         <th><a href="https://github.com/juspay/hyperswitch" target="_blank"><img alt="Hyperswitch" src="https://img.shields.io/github/stars/juspay/hyperswitch?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Capacitor updater" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-capacitor-updater.png" /></td>
-        <td>Infrastructure</td>
-        <td>Java</td>
-        <td><a href="https://capgo.app" target="_blank">Capacitor updater</a></td>
-        <td>Live update for capacitor apps</td>
-        <th><a href="https://github.com/Cap-go/capacitor-updater" target="_blank"><img alt="Capacitor updater" src="https://img.shields.io/github/stars/Cap-go/capacitor-updater?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Action Discord Alerts" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-action-discord-alerts.jpg" /></td>
-        <td>Productivity</td>
-        <td>JavaScript</td>
-        <td><a href="https://github.com/marketplace/actions/action-discord-alerts" target="_blank">Action Discord Alerts</a></td>
-        <td>Action aimed at facilitating continuous delivery. You only need a Discord webhook to receive notifications for the completion status of your workflow. <g-emoji class="g-emoji" alias="tada" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f389.png">?</g-emoji></td>
-        <th><a href="https://github.com/ErnaneJ/action-discord-alerts" target="_blank"><img alt="Action Discord Alerts" src="https://img.shields.io/github/stars/ErnaneJ/action-discord-alerts?style=social" /></a></th>
     </tr>
 
 </table>
@@ -547,6 +549,14 @@
         <td><a href="https://purekit.vercel.app" target="_blank">purekit</a></td>
         <td>The Simple and Efficient Javascript / Typescript Utility Library</td>
         <th><a href="https://github.com/PunitSoniME/purekit" target="_blank"><img alt="purekit" src="https://img.shields.io/github/stars/PunitSoniME/purekit?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Piral - Microfrontend Framework" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-piral.png" /></td>
+        <td>Infrastructure</td>
+        <td>TypeScript</td>
+        <td><a href="https://piral.io" target="_blank">Piral - Microfrontend Framework</a></td>
+        <td>Framework for next generation web apps using micro frontends. <g-emoji class="g-emoji" alias="rocket" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f680.png">?</g-emoji></td>
+        <th><a href="https://github.com/smapiot/piral" target="_blank"><img alt="Piral - Microfrontend Framework" src="https://img.shields.io/github/stars/smapiot/piral?style=social" /></a></th>
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="ClusterFuzz" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-clusterfuzz.png" /></td>
@@ -1099,14 +1109,6 @@
         <td><a href="https://masstransit.io/" target="_blank">MassTransit</a></td>
         <td>Distributed Application Framework for .NET</td>
         <th><a href="https://github.com/MassTransit/MassTransit" target="_blank"><img alt="MassTransit" src="https://img.shields.io/github/stars/MassTransit/MassTransit?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Recast Navigation" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-recastnavigation.png" /></td>
-        <td>Infrastructure</td>
-        <td>C++</td>
-        <td><a href="http://recastnav.com/" target="_blank">Recast Navigation</a></td>
-        <td>Navigation-mesh Toolset for Games</td>
-        <th><a href="https://github.com/recastnavigation/recastnavigation" target="_blank"><img alt="Recast Navigation" src="https://img.shields.io/github/stars/recastnavigation/recastnavigation?style=social" /></a></th>
     </tr>
 
 </table>
@@ -2207,6 +2209,14 @@
         <td>Simple, cross-platform web browser for web developers</td>
         <th><a href="https://github.com/neplextech/nobu" target="_blank"><img alt="Nobu Browser" src="https://img.shields.io/github/stars/neplextech/nobu?style=social" /></a></th>
     </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Aimless.js" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-aimless.js.jpg" /></td>
+        <td>Productivity</td>
+        <td>JavaScript</td>
+        <td><a href="https://chriscavs.github.io/aimless-demo/" target="_blank">Aimless.js</a></td>
+        <td>The missing JavaScript randomness library.</td>
+        <th><a href="https://github.com/ChrisCavs/aimless.js" target="_blank"><img alt="Aimless.js" src="https://img.shields.io/github/stars/ChrisCavs/aimless.js?style=social" /></a></th>
+    </tr>
 
 </table>
 
@@ -2514,6 +2524,14 @@
         <td><a href="https://infisical.com" target="_blank">Infisical</a></td>
         <td><g-emoji class="g-emoji" alias="infinity" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/267e.png">♾</g-emoji> Infisical is an open-source, end-to-end encrypted platform for secret management: sync secrets across your team/infrastructure and prevent secret leaks.</td>
         <th><a href="https://github.com/Infisical/infisical" target="_blank"><img alt="Infisical" src="https://img.shields.io/github/stars/Infisical/infisical?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Adversarial ASR" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-ASRAdversarialAttacks.jpg" /></td>
+        <td>Security</td>
+        <td>Jupyter Notebook</td>
+        <td><a href="https://github.com/hammaad2002/ASRAdversarialAttacks" target="_blank">Adversarial ASR</a></td>
+        <td>An ASR (Automatic Speech Recognition) adversarial attack repository.</td>
+        <th><a href="https://github.com/hammaad2002/ASRAdversarialAttacks" target="_blank"><img alt="Adversarial ASR" src="https://img.shields.io/github/stars/hammaad2002/ASRAdversarialAttacks?style=social" /></a></th>
     </tr>
 
 </table>
@@ -2970,6 +2988,14 @@
         <td><a href="https://winglang.io" target="_blank">Wing Language</a></td>
         <td>The Wing Programming Language</td>
         <th><a href="https://github.com/winglang/wing" target="_blank"><img alt="Wing Language" src="https://img.shields.io/github/stars/winglang/wing?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Piral - Microfrontend Framework" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-piral.png" /></td>
+        <td>Infrastructure</td>
+        <td>TypeScript</td>
+        <td><a href="https://piral.io" target="_blank">Piral - Microfrontend Framework</a></td>
+        <td>Framework for next generation web apps using micro frontends. <g-emoji class="g-emoji" alias="rocket" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f680.png">?</g-emoji></td>
+        <th><a href="https://github.com/smapiot/piral" target="_blank"><img alt="Piral - Microfrontend Framework" src="https://img.shields.io/github/stars/smapiot/piral?style=social" /></a></th>
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="ClusterFuzz" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-clusterfuzz.png" /></td>
@@ -3643,14 +3669,6 @@
         <td>Live update for capacitor apps</td>
         <th><a href="https://github.com/Cap-go/capacitor-updater" target="_blank"><img alt="Capacitor updater" src="https://img.shields.io/github/stars/Cap-go/capacitor-updater?style=social" /></a></th>
     </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Piral - Microfrontend Framework" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-piral.png" /></td>
-        <td>Infrastructure</td>
-        <td>TypeScript</td>
-        <td><a href="https://piral.io" target="_blank">Piral - Microfrontend Framework</a></td>
-        <td>Framework for next generation web apps using micro frontends. <g-emoji class="g-emoji" alias="rocket" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f680.png">?</g-emoji></td>
-        <th><a href="https://github.com/smapiot/piral" target="_blank"><img alt="Piral - Microfrontend Framework" src="https://img.shields.io/github/stars/smapiot/piral?style=social" /></a></th>
-    </tr>
 
 </table>
 
@@ -3761,6 +3779,14 @@
         <td><a href="https://purekit.vercel.app" target="_blank">purekit</a></td>
         <td>The Simple and Efficient Javascript / Typescript Utility Library</td>
         <th><a href="https://github.com/PunitSoniME/purekit" target="_blank"><img alt="purekit" src="https://img.shields.io/github/stars/PunitSoniME/purekit?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Piral - Microfrontend Framework" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-piral.png" /></td>
+        <td>Infrastructure</td>
+        <td>TypeScript</td>
+        <td><a href="https://piral.io" target="_blank">Piral - Microfrontend Framework</a></td>
+        <td>Framework for next generation web apps using micro frontends. <g-emoji class="g-emoji" alias="rocket" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f680.png">?</g-emoji></td>
+        <th><a href="https://github.com/smapiot/piral" target="_blank"><img alt="Piral - Microfrontend Framework" src="https://img.shields.io/github/stars/smapiot/piral?style=social" /></a></th>
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="The Lounge" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-thelounge.png" /></td>
@@ -4073,14 +4099,6 @@
         <td><a href="https://github.com/bengry/typedash" target="_blank">typedash</a></td>
         <td>Modern, type-safe alternative to lodash and friends</td>
         <th><a href="https://github.com/bengry/typedash" target="_blank"><img alt="typedash" src="https://img.shields.io/github/stars/bengry/typedash?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Piral - Microfrontend Framework" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-piral.png" /></td>
-        <td>Infrastructure</td>
-        <td>TypeScript</td>
-        <td><a href="https://piral.io" target="_blank">Piral - Microfrontend Framework</a></td>
-        <td>Framework for next generation web apps using micro frontends. <g-emoji class="g-emoji" alias="rocket" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f680.png">?</g-emoji></td>
-        <th><a href="https://github.com/smapiot/piral" target="_blank"><img alt="Piral - Microfrontend Framework" src="https://img.shields.io/github/stars/smapiot/piral?style=social" /></a></th>
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="Vue Hooks" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-vhooks.jpg" /></td>
@@ -4657,6 +4675,14 @@
         <td><a href="https://efpage.de/DML/DML_homepage" target="_blank">Document Makeup Library</a></td>
         <td>An Object Oriented Web Programming Framework</td>
         <th><a href="https://github.com/efpage/DML" target="_blank"><img alt="Document Makeup Library" src="https://img.shields.io/github/stars/efpage/DML?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Aimless.js" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-aimless.js.jpg" /></td>
+        <td>Productivity</td>
+        <td>JavaScript</td>
+        <td><a href="https://chriscavs.github.io/aimless-demo/" target="_blank">Aimless.js</a></td>
+        <td>The missing JavaScript randomness library.</td>
+        <th><a href="https://github.com/ChrisCavs/aimless.js" target="_blank"><img alt="Aimless.js" src="https://img.shields.io/github/stars/ChrisCavs/aimless.js?style=social" /></a></th>
     </tr>
 
 </table>
@@ -6595,6 +6621,28 @@
         <td><a href="http://www.mustangproject.org" target="_blank">Mustang</a></td>
         <td>Open Source Java e-Invoicing library, validator and tool (Factur-X/ZUGFeRD, UNCEFACT/CII XRechnung)</td>
         <th><a href="https://github.com/ZUGFeRD/mustangproject" target="_blank"><img alt="Mustang" src="https://img.shields.io/github/stars/ZUGFeRD/mustangproject?style=social" /></a></th>
+    </tr>
+
+</table>
+
+<br /><br />
+<h2 id="jupyter-notebook">Top 20 Jupyter Notebook libraries</h2>
+<table>
+    <tr>
+        <th>Icon</th>
+        <th>Category</th>
+        <th>Language</th>
+        <th>Name</th>
+        <th>Description</th>
+        <th>Stargazers</th>
+    </tr>
+        <tr>
+        <td nowrap="nowrap"><img width="33" alt="Adversarial ASR" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-ASRAdversarialAttacks.jpg" /></td>
+        <td>Security</td>
+        <td>Jupyter Notebook</td>
+        <td><a href="https://github.com/hammaad2002/ASRAdversarialAttacks" target="_blank">Adversarial ASR</a></td>
+        <td>An ASR (Automatic Speech Recognition) adversarial attack repository.</td>
+        <th><a href="https://github.com/hammaad2002/ASRAdversarialAttacks" target="_blank"><img alt="Adversarial ASR" src="https://img.shields.io/github/stars/hammaad2002/ASRAdversarialAttacks?style=social" /></a></th>
     </tr>
 
 </table>
