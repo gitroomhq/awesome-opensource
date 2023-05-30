@@ -194,6 +194,14 @@
         <th><a href="https://github.com/NivEz/telenode" target="_blank"><img alt="Telenode" src="https://img.shields.io/github/stars/NivEz/telenode?style=social" /></a></th>
     </tr>
     <tr>
+        <td nowrap="nowrap"><img width="33" alt="Eventual Shop" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-EventualShop.jpg" /></td>
+        <td>Miscellaneous</td>
+        <td>C#</td>
+        <td><a href="https://github.com/AntonioFalcaoJr/EventualShop/blob/release/README.md#bulb-about" target="_blank">Eventual Shop</a></td>
+        <td>A state-of-the-art distributed system using Reactive DDD as uncertainty modeling, Event Storming as subdomain decomposition, Event Sourcing as an eventual persistence mechanism, CQRS, Async Project…</td>
+        <th><a href="https://github.com/AntonioFalcaoJr/EventualShop" target="_blank"><img alt="Eventual Shop" src="https://img.shields.io/github/stars/AntonioFalcaoJr/EventualShop?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="Everright-filter" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-Everright-filter.jpg" /></td>
         <td>Miscellaneous</td>
         <td>Vue</td>
@@ -242,20 +250,20 @@
         <th><a href="https://github.com/3kh0/ext-remover" target="_blank"><img alt="3kh0 Assets" src="https://img.shields.io/github/stars/3kh0/ext-remover?style=social" /></a></th>
     </tr>
     <tr>
-        <td nowrap="nowrap"><img width="33" alt="Eventual Shop" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-EventualShop.jpg" /></td>
-        <td>Miscellaneous</td>
-        <td>C#</td>
-        <td><a href="https://github.com/AntonioFalcaoJr/EventualShop/blob/release/README.md#bulb-about" target="_blank">Eventual Shop</a></td>
-        <td>A state-of-the-art distributed system using Reactive DDD as uncertainty modeling, Event Storming as subdomain decomposition, Event Sourcing as an eventual persistence mechanism, CQRS, Async Project…</td>
-        <th><a href="https://github.com/AntonioFalcaoJr/EventualShop" target="_blank"><img alt="Eventual Shop" src="https://img.shields.io/github/stars/AntonioFalcaoJr/EventualShop?style=social" /></a></th>
-    </tr>
-    <tr>
         <td nowrap="nowrap"><img width="33" alt="Baby Query" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-baby-query.jpg" /></td>
         <td>Infrastructure</td>
         <td>JavaScript</td>
         <td><a href="https://robiulhr.github.io/baby-query/" target="_blank">Baby Query</a></td>
         <td>Baby Query is a custom implementation of the popular JavaScript library jQuery. </td>
         <th><a href="https://github.com/robiulhr/baby-query" target="_blank"><img alt="Baby Query" src="https://img.shields.io/github/stars/robiulhr/baby-query?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Infisical" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-infisical.png" /></td>
+        <td>Security</td>
+        <td>TypeScript</td>
+        <td><a href="https://infisical.com" target="_blank">Infisical</a></td>
+        <td><g-emoji class="g-emoji" alias="infinity" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/267e.png">♾</g-emoji> Infisical is an open-source, end-to-end encrypted platform for secret management: sync secrets across your team/infrastructure and prevent secret leaks.</td>
+        <th><a href="https://github.com/Infisical/infisical" target="_blank"><img alt="Infisical" src="https://img.shields.io/github/stars/Infisical/infisical?style=social" /></a></th>
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="Vue Hooks" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-vhooks.jpg" /></td>
@@ -288,14 +296,6 @@
         <td><a href="https://fasani.de" target="_blank">Remora udpx listens to UDP short commands to trigger LED Animations. Receives ; commands from ORCΛ</a></td>
         <td>Remora udpx listens to UDP short commands to trigger LED Animations. Receives ; commands from ORCΛ</td>
         <th><a href="https://github.com/martinberlin/Remora" target="_blank"><img alt="Remora udpx listens to UDP short commands to trigger LED Animations. Receives ; commands from ORCΛ" src="https://img.shields.io/github/stars/martinberlin/Remora?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Infisical" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-infisical.png" /></td>
-        <td>Security</td>
-        <td>TypeScript</td>
-        <td><a href="https://infisical.com" target="_blank">Infisical</a></td>
-        <td><g-emoji class="g-emoji" alias="infinity" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/267e.png">♾</g-emoji> Infisical is an open-source, end-to-end encrypted platform for secret management: sync secrets across your team/infrastructure and prevent secret leaks.</td>
-        <th><a href="https://github.com/Infisical/infisical" target="_blank"><img alt="Infisical" src="https://img.shields.io/github/stars/Infisical/infisical?style=social" /></a></th>
     </tr>
 
 </table>
@@ -473,6 +473,14 @@
         <th><a href="https://github.com/micronaut-projects/micronaut-core" target="_blank"><img alt="Micronaut Framework" src="https://img.shields.io/github/stars/micronaut-projects/micronaut-core?style=social" /></a></th>
     </tr>
     <tr>
+        <td nowrap="nowrap"><img width="33" alt="GraphQL Java" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-graphql-java.png" /></td>
+        <td>Infrastructure</td>
+        <td>Java</td>
+        <td><a href="https://graphql-java.com" target="_blank">GraphQL Java</a></td>
+        <td>GraphQL Java implementation</td>
+        <th><a href="https://github.com/graphql-java/graphql-java" target="_blank"><img alt="GraphQL Java" src="https://img.shields.io/github/stars/graphql-java/graphql-java?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="StackExchange.Redis" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-StackExchange.Redis_.png" /></td>
         <td>Databases</td>
         <td>C#</td>
@@ -593,6 +601,14 @@
         <th><a href="https://github.com/smapiot/piral" target="_blank"><img alt="Piral - Microfrontend Framework" src="https://img.shields.io/github/stars/smapiot/piral?style=social" /></a></th>
     </tr>
     <tr>
+        <td nowrap="nowrap"><img width="33" alt="Infisical" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-infisical.png" /></td>
+        <td>Security</td>
+        <td>TypeScript</td>
+        <td><a href="https://infisical.com" target="_blank">Infisical</a></td>
+        <td><g-emoji class="g-emoji" alias="infinity" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/267e.png">♾</g-emoji> Infisical is an open-source, end-to-end encrypted platform for secret management: sync secrets across your team/infrastructure and prevent secret leaks.</td>
+        <th><a href="https://github.com/Infisical/infisical" target="_blank"><img alt="Infisical" src="https://img.shields.io/github/stars/Infisical/infisical?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="boyka-framework" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-boyka-framework.png" /></td>
         <td>Productivity</td>
         <td>Java</td>
@@ -631,6 +647,14 @@
         <td><a href="https://github.com/NivEz/telenode" target="_blank">Telenode</a></td>
         <td>Lightweight Telegram API framework for Node.js</td>
         <th><a href="https://github.com/NivEz/telenode" target="_blank"><img alt="Telenode" src="https://img.shields.io/github/stars/NivEz/telenode?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Eventual Shop" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-EventualShop.jpg" /></td>
+        <td>Miscellaneous</td>
+        <td>C#</td>
+        <td><a href="https://github.com/AntonioFalcaoJr/EventualShop/blob/release/README.md#bulb-about" target="_blank">Eventual Shop</a></td>
+        <td>A state-of-the-art distributed system using Reactive DDD as uncertainty modeling, Event Storming as subdomain decomposition, Event Sourcing as an eventual persistence mechanism, CQRS, Async Project…</td>
+        <th><a href="https://github.com/AntonioFalcaoJr/EventualShop" target="_blank"><img alt="Eventual Shop" src="https://img.shields.io/github/stars/AntonioFalcaoJr/EventualShop?style=social" /></a></th>
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="ClusterFuzz" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-clusterfuzz.png" /></td>
@@ -1088,30 +1112,6 @@
         <td>Open source neutral style icon system</td>
         <th><a href="https://github.com/Remix-Design/RemixIcon" target="_blank"><img alt="Remix Icon" src="https://img.shields.io/github/stars/Remix-Design/RemixIcon?style=social" /></a></th>
     </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="detekt" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-detekt.png" /></td>
-        <td>Observability</td>
-        <td>Kotlin</td>
-        <td><a href="https://detekt.dev" target="_blank">detekt</a></td>
-        <td>Static code analysis for Kotlin</td>
-        <th><a href="https://github.com/detekt/detekt" target="_blank"><img alt="detekt" src="https://img.shields.io/github/stars/detekt/detekt?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Fn Project" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-fn.png" /></td>
-        <td>Infrastructure</td>
-        <td>Go</td>
-        <td><a href="http://fnproject.io" target="_blank">Fn Project</a></td>
-        <td>The container native, cloud agnostic serverless platform.</td>
-        <th><a href="https://github.com/fnproject/fn" target="_blank"><img alt="Fn Project" src="https://img.shields.io/github/stars/fnproject/fn?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="CotEditor" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-CotEditor.png" /></td>
-        <td>Productivity</td>
-        <td>Swift</td>
-        <td><a href="https://coteditor.com" target="_blank">CotEditor</a></td>
-        <td>Lightweight Plain-Text Editor for macOS</td>
-        <th><a href="https://github.com/coteditor/CotEditor" target="_blank"><img alt="CotEditor" src="https://img.shields.io/github/stars/coteditor/CotEditor?style=social" /></a></th>
-    </tr>
 
 </table>
 
@@ -1174,6 +1174,14 @@
         <td><a href="https://github.com/WasiqB/multiple-cucumber-html-reporter/blob/main/README.md" target="_blank">multiple-cucumber-html-reporter</a></td>
         <td>Generate beautiful Cucumber HTML reports</td>
         <th><a href="https://github.com/WasiqB/multiple-cucumber-html-reporter" target="_blank"><img alt="multiple-cucumber-html-reporter" src="https://img.shields.io/github/stars/WasiqB/multiple-cucumber-html-reporter?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Eventual Shop" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-EventualShop.jpg" /></td>
+        <td>Miscellaneous</td>
+        <td>C#</td>
+        <td><a href="https://github.com/AntonioFalcaoJr/EventualShop/blob/release/README.md#bulb-about" target="_blank">Eventual Shop</a></td>
+        <td>A state-of-the-art distributed system using Reactive DDD as uncertainty modeling, Event Storming as subdomain decomposition, Event Sourcing as an eventual persistence mechanism, CQRS, Async Project…</td>
+        <th><a href="https://github.com/AntonioFalcaoJr/EventualShop" target="_blank"><img alt="Eventual Shop" src="https://img.shields.io/github/stars/AntonioFalcaoJr/EventualShop?style=social" /></a></th>
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="Cemu Emulator" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-Cemu.png" /></td>
@@ -1294,14 +1302,6 @@
         <td><a href="https://github.com/GSTJ/pegava-dating-app" target="_blank">pegava-dating-app</a></td>
         <td><g-emoji class="g-emoji" alias="sparkling_heart" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f496.png">?</g-emoji> A place to get some love. Pegava is a beautiful dating app made in React Native. </td>
         <th><a href="https://github.com/GSTJ/pegava-dating-app" target="_blank"><img alt="pegava-dating-app" src="https://img.shields.io/github/stars/GSTJ/pegava-dating-app?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Eventual Shop" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-EventualShop.jpg" /></td>
-        <td>Miscellaneous</td>
-        <td>C#</td>
-        <td><a href="https://github.com/AntonioFalcaoJr/EventualShop/blob/release/README.md#bulb-about" target="_blank">Eventual Shop</a></td>
-        <td>A state-of-the-art distributed system using Reactive DDD as uncertainty modeling, Event Storming as subdomain decomposition, Event Sourcing as an eventual persistence mechanism, CQRS, Async Project…</td>
-        <th><a href="https://github.com/AntonioFalcaoJr/EventualShop" target="_blank"><img alt="Eventual Shop" src="https://img.shields.io/github/stars/AntonioFalcaoJr/EventualShop?style=social" /></a></th>
     </tr>
 
 </table>
@@ -2432,6 +2432,14 @@
         <th><a href="https://github.com/yogeshpaliyal/KeyPass" target="_blank"><img alt="KeyPass" src="https://img.shields.io/github/stars/yogeshpaliyal/KeyPass?style=social" /></a></th>
     </tr>
     <tr>
+        <td nowrap="nowrap"><img width="33" alt="Infisical" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-infisical.png" /></td>
+        <td>Security</td>
+        <td>TypeScript</td>
+        <td><a href="https://infisical.com" target="_blank">Infisical</a></td>
+        <td><g-emoji class="g-emoji" alias="infinity" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/267e.png">♾</g-emoji> Infisical is an open-source, end-to-end encrypted platform for secret management: sync secrets across your team/infrastructure and prevent secret leaks.</td>
+        <th><a href="https://github.com/Infisical/infisical" target="_blank"><img alt="Infisical" src="https://img.shields.io/github/stars/Infisical/infisical?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="PrivateBin" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-PrivateBin.png" /></td>
         <td>Security</td>
         <td>PHP</td>
@@ -2598,14 +2606,6 @@
         <td><a href="https://codeql.github.com" target="_blank">CodeQL</a></td>
         <td>CodeQL: the libraries and queries that power security researchers around the world, as well as code scanning in GitHub Advanced Security</td>
         <th><a href="https://github.com/github/codeql" target="_blank"><img alt="CodeQL" src="https://img.shields.io/github/stars/github/codeql?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Infisical" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-infisical.png" /></td>
-        <td>Security</td>
-        <td>TypeScript</td>
-        <td><a href="https://infisical.com" target="_blank">Infisical</a></td>
-        <td><g-emoji class="g-emoji" alias="infinity" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/267e.png">♾</g-emoji> Infisical is an open-source, end-to-end encrypted platform for secret management: sync secrets across your team/infrastructure and prevent secret leaks.</td>
-        <th><a href="https://github.com/Infisical/infisical" target="_blank"><img alt="Infisical" src="https://img.shields.io/github/stars/Infisical/infisical?style=social" /></a></th>
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="Adversarial ASR" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-ASRAdversarialAttacks.jpg" /></td>
@@ -3080,6 +3080,14 @@
         <th><a href="https://github.com/micronaut-projects/micronaut-core" target="_blank"><img alt="Micronaut Framework" src="https://img.shields.io/github/stars/micronaut-projects/micronaut-core?style=social" /></a></th>
     </tr>
     <tr>
+        <td nowrap="nowrap"><img width="33" alt="GraphQL Java" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-graphql-java.png" /></td>
+        <td>Infrastructure</td>
+        <td>Java</td>
+        <td><a href="https://graphql-java.com" target="_blank">GraphQL Java</a></td>
+        <td>GraphQL Java implementation</td>
+        <th><a href="https://github.com/graphql-java/graphql-java" target="_blank"><img alt="GraphQL Java" src="https://img.shields.io/github/stars/graphql-java/graphql-java?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="PHP Collections" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-map.png" /></td>
         <td>Infrastructure</td>
         <td>PHP</td>
@@ -3374,14 +3382,6 @@
         <td><a href="https://developers.cloudflare.com/cloudflare-one/connections/connect-apps/install-and-setup/tunnel-guide" target="_blank">Cloudflare Zero Trust</a></td>
         <td>Cloudflare Tunnel client (formerly Argo Tunnel)</td>
         <th><a href="https://github.com/cloudflare/cloudflared" target="_blank"><img alt="Cloudflare Zero Trust" src="https://img.shields.io/github/stars/cloudflare/cloudflared?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="GraphQL Java" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-graphql-java.png" /></td>
-        <td>Infrastructure</td>
-        <td>Java</td>
-        <td><a href="https://graphql-java.com" target="_blank">GraphQL Java</a></td>
-        <td>GraphQL Java implementation</td>
-        <th><a href="https://github.com/graphql-java/graphql-java" target="_blank"><img alt="GraphQL Java" src="https://img.shields.io/github/stars/graphql-java/graphql-java?style=social" /></a></th>
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="Roots" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-bedrock.png" /></td>
@@ -3911,6 +3911,14 @@
         <th><a href="https://github.com/smapiot/piral" target="_blank"><img alt="Piral - Microfrontend Framework" src="https://img.shields.io/github/stars/smapiot/piral?style=social" /></a></th>
     </tr>
     <tr>
+        <td nowrap="nowrap"><img width="33" alt="Infisical" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-infisical.png" /></td>
+        <td>Security</td>
+        <td>TypeScript</td>
+        <td><a href="https://infisical.com" target="_blank">Infisical</a></td>
+        <td><g-emoji class="g-emoji" alias="infinity" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/267e.png">♾</g-emoji> Infisical is an open-source, end-to-end encrypted platform for secret management: sync secrets across your team/infrastructure and prevent secret leaks.</td>
+        <th><a href="https://github.com/Infisical/infisical" target="_blank"><img alt="Infisical" src="https://img.shields.io/github/stars/Infisical/infisical?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="Chat Analytics" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-chat-analytics.jpg" /></td>
         <td>Analytics</td>
         <td>TypeScript</td>
@@ -4247,14 +4255,6 @@
         <th><a href="https://github.com/bowencool/vhooks" target="_blank"><img alt="Vue Hooks" src="https://img.shields.io/github/stars/bowencool/vhooks?style=social" /></a></th>
     </tr>
     <tr>
-        <td nowrap="nowrap"><img width="33" alt="Infisical" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-infisical.png" /></td>
-        <td>Security</td>
-        <td>TypeScript</td>
-        <td><a href="https://infisical.com" target="_blank">Infisical</a></td>
-        <td><g-emoji class="g-emoji" alias="infinity" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/267e.png">♾</g-emoji> Infisical is an open-source, end-to-end encrypted platform for secret management: sync secrets across your team/infrastructure and prevent secret leaks.</td>
-        <th><a href="https://github.com/Infisical/infisical" target="_blank"><img alt="Infisical" src="https://img.shields.io/github/stars/Infisical/infisical?style=social" /></a></th>
-    </tr>
-    <tr>
         <td nowrap="nowrap"><img width="33" alt="Nobu Browser" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-nobu.jpg" /></td>
         <td>Productivity</td>
         <td>TypeScript</td>
@@ -4463,6 +4463,14 @@
         <th><a href="https://github.com/micronaut-projects/micronaut-core" target="_blank"><img alt="Micronaut Framework" src="https://img.shields.io/github/stars/micronaut-projects/micronaut-core?style=social" /></a></th>
     </tr>
     <tr>
+        <td nowrap="nowrap"><img width="33" alt="GraphQL Java" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-graphql-java.png" /></td>
+        <td>Infrastructure</td>
+        <td>Java</td>
+        <td><a href="https://graphql-java.com" target="_blank">GraphQL Java</a></td>
+        <td>GraphQL Java implementation</td>
+        <th><a href="https://github.com/graphql-java/graphql-java" target="_blank"><img alt="GraphQL Java" src="https://img.shields.io/github/stars/graphql-java/graphql-java?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="boyka-framework" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-boyka-framework.png" /></td>
         <td>Productivity</td>
         <td>Java</td>
@@ -4525,14 +4533,6 @@
         <td><a href="https://microg.org" target="_blank">microG Project.</a></td>
         <td>Free implementation of Play Services</td>
         <th><a href="https://github.com/microg/GmsCore" target="_blank"><img alt="microG Project." src="https://img.shields.io/github/stars/microg/GmsCore?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="GraphQL Java" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-graphql-java.png" /></td>
-        <td>Infrastructure</td>
-        <td>Java</td>
-        <td><a href="https://graphql-java.com" target="_blank">GraphQL Java</a></td>
-        <td>GraphQL Java implementation</td>
-        <th><a href="https://github.com/graphql-java/graphql-java" target="_blank"><img alt="GraphQL Java" src="https://img.shields.io/github/stars/graphql-java/graphql-java?style=social" /></a></th>
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="Zeppelin Solutions" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-zeppelin.png" /></td>
@@ -5421,6 +5421,14 @@
         <th><a href="https://github.com/UnityTechnologies/open-project-1" target="_blank"><img alt="Unity" src="https://img.shields.io/github/stars/UnityTechnologies/open-project-1?style=social" /></a></th>
     </tr>
     <tr>
+        <td nowrap="nowrap"><img width="33" alt="Eventual Shop" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-EventualShop.jpg" /></td>
+        <td>Miscellaneous</td>
+        <td>C#</td>
+        <td><a href="https://github.com/AntonioFalcaoJr/EventualShop/blob/release/README.md#bulb-about" target="_blank">Eventual Shop</a></td>
+        <td>A state-of-the-art distributed system using Reactive DDD as uncertainty modeling, Event Storming as subdomain decomposition, Event Sourcing as an eventual persistence mechanism, CQRS, Async Project…</td>
+        <th><a href="https://github.com/AntonioFalcaoJr/EventualShop" target="_blank"><img alt="Eventual Shop" src="https://img.shields.io/github/stars/AntonioFalcaoJr/EventualShop?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="MudBlazor" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-MudBlazor.png" /></td>
         <td>Infrastructure</td>
         <td>C#</td>
@@ -5467,14 +5475,6 @@
         <td><a href="https://aka.ms/FASTER" target="_blank">FASTER</a></td>
         <td>Fast persistent recoverable log and key-value store + cache, in C# and C++.</td>
         <th><a href="https://github.com/microsoft/FASTER" target="_blank"><img alt="FASTER" src="https://img.shields.io/github/stars/microsoft/FASTER?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Eventual Shop" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-EventualShop.jpg" /></td>
-        <td>Miscellaneous</td>
-        <td>C#</td>
-        <td><a href="https://github.com/AntonioFalcaoJr/EventualShop/blob/release/README.md#bulb-about" target="_blank">Eventual Shop</a></td>
-        <td>A state-of-the-art distributed system using Reactive DDD as uncertainty modeling, Event Storming as subdomain decomposition, Event Sourcing as an eventual persistence mechanism, CQRS, Async Project…</td>
-        <th><a href="https://github.com/AntonioFalcaoJr/EventualShop" target="_blank"><img alt="Eventual Shop" src="https://img.shields.io/github/stars/AntonioFalcaoJr/EventualShop?style=social" /></a></th>
     </tr>
 
 </table>
