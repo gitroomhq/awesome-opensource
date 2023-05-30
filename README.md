@@ -40,6 +40,8 @@
                       <li>
                 <a href="#typescript">Top 20 TypeScript libraries</a>
              </li>          <li>
+                <a href="#haskell">Top 20 Haskell libraries</a>
+             </li>          <li>
                 <a href="#html">Top 20 HTML libraries</a>
              </li>          <li>
                 <a href="#dart">Top 20 Dart libraries</a>
@@ -51,6 +53,8 @@
                 <a href="#java">Top 20 Java libraries</a>
              </li>          <li>
                 <a href="#python">Top 20 Python libraries</a>
+             </li>          <li>
+                <a href="#ruby">Top 20 Ruby libraries</a>
              </li>          <li>
                 <a href="#rust">Top 20 Rust libraries</a>
              </li>          <li>
@@ -65,8 +69,6 @@
                 <a href="#css">Top 20 CSS libraries</a>
              </li>          <li>
                 <a href="#vue">Top 20 Vue libraries</a>
-             </li>          <li>
-                <a href="#ruby">Top 20 Ruby libraries</a>
              </li>          <li>
                 <a href="#c++">Top 20 C++ libraries</a>
              </li>          <li>
@@ -116,8 +118,6 @@
              </li>          <li>
                 <a href="#codeql">Top 20 CodeQL libraries</a>
              </li>          <li>
-                <a href="#haskell">Top 20 Haskell libraries</a>
-             </li>          <li>
                 <a href="#xslt">Top 20 XSLT libraries</a>
              </li>          <li>
                 <a href="#jupyter-notebook">Top 20 Jupyter Notebook libraries</a>
@@ -140,6 +140,14 @@
         <th>Stargazers</th>
     </tr>
         <tr>
+        <td nowrap="nowrap"><img width="33" alt="MacawFramework" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-macaw_framework.jpg" /></td>
+        <td>Miscellaneous</td>
+        <td>Ruby</td>
+        <td><a href="https://github.com/ariasdiniz/macaw_framework" target="_blank">MacawFramework</a></td>
+        <td>A lightweight web framework designed for building efficient backend applications. Initially created for study purposes, now production-ready and open for contributions.</td>
+        <th><a href="https://github.com/ariasdiniz/macaw_framework" target="_blank"><img alt="MacawFramework" src="https://img.shields.io/github/stars/ariasdiniz/macaw_framework?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="Dub" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-dub.jpg" /></td>
         <td>Productivity</td>
         <td>TypeScript</td>
@@ -156,12 +164,12 @@
         <th><a href="https://github.com/retracedhq/retraced" target="_blank"><img alt="Retraced" src="https://img.shields.io/github/stars/retracedhq/retraced?style=social" /></a></th>
     </tr>
     <tr>
-        <td nowrap="nowrap"><img width="33" alt="MacawFramework" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-macaw_framework.jpg" /></td>
-        <td>Miscellaneous</td>
-        <td>Ruby</td>
-        <td><a href="https://github.com/ariasdiniz/macaw_framework" target="_blank">MacawFramework</a></td>
-        <td>A lightweight web framework designed for building efficient backend applications. Initially created for study purposes, now production-ready and open for contributions.</td>
-        <th><a href="https://github.com/ariasdiniz/macaw_framework" target="_blank"><img alt="MacawFramework" src="https://img.shields.io/github/stars/ariasdiniz/macaw_framework?style=social" /></a></th>
+        <td nowrap="nowrap"><img width="33" alt="Wasp" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-wasp.png" /></td>
+        <td>Infrastructure</td>
+        <td>Haskell</td>
+        <td><a href="https://wasp-lang.dev" target="_blank">Wasp</a></td>
+        <td>The fastest way to develop full-stack web apps with React &amp; Node.js. </td>
+        <th><a href="https://github.com/wasp-lang/wasp" target="_blank"><img alt="Wasp" src="https://img.shields.io/github/stars/wasp-lang/wasp?style=social" /></a></th>
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="Microsoft-Activation-Scripts" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-Microsoft-Activation-Scripts.png" /></td>
@@ -202,6 +210,14 @@
         <td><a href="https://zenstack.dev" target="_blank">ZenStack</a></td>
         <td>Supercharges Prisma ORM with a powerful access control layer and unlocks its full potential for web development.</td>
         <th><a href="https://github.com/zenstackhq/zenstack" target="_blank"><img alt="ZenStack" src="https://img.shields.io/github/stars/zenstackhq/zenstack?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="git-cliff" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-git-cliff.jpg" /></td>
+        <td>Productivity</td>
+        <td>Rust</td>
+        <td><a href="https://git-cliff.org" target="_blank">git-cliff</a></td>
+        <td>A highly customizable Changelog Generator that follows Conventional Commit specifications <g-emoji class="g-emoji" alias="mountain" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/26f0.png">⛰️</g-emoji> </td>
+        <th><a href="https://github.com/orhun/git-cliff" target="_blank"><img alt="git-cliff" src="https://img.shields.io/github/stars/orhun/git-cliff?style=social" /></a></th>
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="Overlay" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-overlay.png" /></td>
@@ -283,22 +299,6 @@
         <td>An ESLint plugin that enforces explicit boolean conversion before using the &amp;&amp; operator with JSX in React and React Native applications.</td>
         <th><a href="https://github.com/GSTJ/safe-jsx" target="_blank"><img alt="eslint-plugin-safe-jsx" src="https://img.shields.io/github/stars/GSTJ/safe-jsx?style=social" /></a></th>
     </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="react-native-magic-modal" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-react-native-magic-modal.png" /></td>
-        <td>Miscellaneous</td>
-        <td>TypeScript</td>
-        <td><a href="https://github.com/GSTJ/react-native-magic-modal" target="_blank">react-native-magic-modal</a></td>
-        <td><g-emoji class="g-emoji" alias="unicorn" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f984.png">?</g-emoji> A modal library that can be called imperatively from anywhere!</td>
-        <th><a href="https://github.com/GSTJ/react-native-magic-modal" target="_blank"><img alt="react-native-magic-modal" src="https://img.shields.io/github/stars/GSTJ/react-native-magic-modal?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="pegava-dating-app" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-pegava-dating-app.png" /></td>
-        <td>Miscellaneous</td>
-        <td>TypeScript</td>
-        <td><a href="https://github.com/GSTJ/pegava-dating-app" target="_blank">pegava-dating-app</a></td>
-        <td><g-emoji class="g-emoji" alias="sparkling_heart" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f496.png">?</g-emoji> A place to get some love. Pegava is a beautiful dating app made in React Native. </td>
-        <th><a href="https://github.com/GSTJ/pegava-dating-app" target="_blank"><img alt="pegava-dating-app" src="https://img.shields.io/github/stars/GSTJ/pegava-dating-app?style=social" /></a></th>
-    </tr>
 
 </table>
 
@@ -337,6 +337,14 @@
         <td><a href="https://novu.co" target="_blank">Novu</a></td>
         <td>The open-source notification infrastructure with fully functional embedded notification center</td>
         <th><a href="https://github.com/novuhq/novu" target="_blank"><img alt="Novu" src="https://img.shields.io/github/stars/novuhq/novu?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Wasp" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-wasp.png" /></td>
+        <td>Infrastructure</td>
+        <td>Haskell</td>
+        <td><a href="https://wasp-lang.dev" target="_blank">Wasp</a></td>
+        <td>The fastest way to develop full-stack web apps with React &amp; Node.js. </td>
+        <th><a href="https://github.com/wasp-lang/wasp" target="_blank"><img alt="Wasp" src="https://img.shields.io/github/stars/wasp-lang/wasp?style=social" /></a></th>
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="Overlay" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-overlay.png" /></td>
@@ -457,6 +465,22 @@
         <td><a href="https://github.com/uripeled2/llm-client-sdk" target="_blank">llm-client</a></td>
         <td>SDK for using LLM</td>
         <th><a href="https://github.com/uripeled2/llm-client-sdk" target="_blank"><img alt="llm-client" src="https://img.shields.io/github/stars/uripeled2/llm-client-sdk?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="MacawFramework" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-macaw_framework.jpg" /></td>
+        <td>Miscellaneous</td>
+        <td>Ruby</td>
+        <td><a href="https://github.com/ariasdiniz/macaw_framework" target="_blank">MacawFramework</a></td>
+        <td>A lightweight web framework designed for building efficient backend applications. Initially created for study purposes, now production-ready and open for contributions.</td>
+        <th><a href="https://github.com/ariasdiniz/macaw_framework" target="_blank"><img alt="MacawFramework" src="https://img.shields.io/github/stars/ariasdiniz/macaw_framework?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Mirage JS" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-miragejs.png" /></td>
+        <td>Productivity</td>
+        <td>JavaScript</td>
+        <td><a href="https://miragejs.com/" target="_blank">Mirage JS</a></td>
+        <td>A client-side server to build, test and share your JavaScript app</td>
+        <th><a href="https://github.com/miragejs/miragejs" target="_blank"><img alt="Mirage JS" src="https://img.shields.io/github/stars/miragejs/miragejs?style=social" /></a></th>
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="Materialize" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-materialize.png" /></td>
@@ -683,14 +707,6 @@
         <th><a href="https://github.com/retracedhq/retraced" target="_blank"><img alt="Retraced" src="https://img.shields.io/github/stars/retracedhq/retraced?style=social" /></a></th>
     </tr>
     <tr>
-        <td nowrap="nowrap"><img width="33" alt="MacawFramework" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-macaw_framework.jpg" /></td>
-        <td>Miscellaneous</td>
-        <td>Ruby</td>
-        <td><a href="https://github.com/ariasdiniz/macaw_framework" target="_blank">MacawFramework</a></td>
-        <td>A lightweight web framework designed for building efficient backend applications. Initially created for study purposes, now production-ready and open for contributions.</td>
-        <th><a href="https://github.com/ariasdiniz/macaw_framework" target="_blank"><img alt="MacawFramework" src="https://img.shields.io/github/stars/ariasdiniz/macaw_framework?style=social" /></a></th>
-    </tr>
-    <tr>
         <td nowrap="nowrap"><img width="33" alt="ClusterFuzz" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-clusterfuzz.png" /></td>
         <td>Infrastructure</td>
         <td>Python</td>
@@ -761,14 +777,6 @@
         <td><a href="https://plot.ly/free-sql-client-download/" target="_blank">Setup Falcon SQL Client</a></td>
         <td>Free, open-source SQL client for Windows and Mac <g-emoji class="g-emoji" alias="eagle" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f985.png">?</g-emoji></td>
         <th><a href="https://github.com/plotly/falcon" target="_blank"><img alt="Setup Falcon SQL Client" src="https://img.shields.io/github/stars/plotly/falcon?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Mirage JS" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-miragejs.png" /></td>
-        <td>Productivity</td>
-        <td>JavaScript</td>
-        <td><a href="https://miragejs.com/" target="_blank">Mirage JS</a></td>
-        <td>A client-side server to build, test and share your JavaScript app</td>
-        <th><a href="https://github.com/miragejs/miragejs" target="_blank"><img alt="Mirage JS" src="https://img.shields.io/github/stars/miragejs/miragejs?style=social" /></a></th>
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="Konva.js - JavaScript 2d canvas library" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-react-konva.png" /></td>
@@ -1106,14 +1114,6 @@
         <td>The Rust toolchain installer</td>
         <th><a href="https://github.com/rust-lang/rustup" target="_blank"><img alt="The Rustup Book." src="https://img.shields.io/github/stars/rust-lang/rustup?style=social" /></a></th>
     </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Ferret Fact Service" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-ferret.png" /></td>
-        <td>Analytics</td>
-        <td>Go</td>
-        <td><a href="https://www.montferret.dev/" target="_blank">Ferret Fact Service</a></td>
-        <td>Declarative web scraping</td>
-        <th><a href="https://github.com/MontFerret/ferret" target="_blank"><img alt="Ferret Fact Service" src="https://img.shields.io/github/stars/MontFerret/ferret?style=social" /></a></th>
-    </tr>
 
 </table>
 
@@ -1144,6 +1144,14 @@
         <td><a href="http://help.github.com/dmca" target="_blank">GitHub Support</a></td>
         <td>Repository with text of DMCA takedown notices as received. GitHub does not endorse or adopt any assertion contained in the following notices. Users identified in the notices are presumed innocent u…</td>
         <th><a href="https://github.com/github/dmca" target="_blank"><img alt="GitHub Support" src="https://img.shields.io/github/stars/github/dmca?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="MacawFramework" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-macaw_framework.jpg" /></td>
+        <td>Miscellaneous</td>
+        <td>Ruby</td>
+        <td><a href="https://github.com/ariasdiniz/macaw_framework" target="_blank">MacawFramework</a></td>
+        <td>A lightweight web framework designed for building efficient backend applications. Initially created for study purposes, now production-ready and open for contributions.</td>
+        <th><a href="https://github.com/ariasdiniz/macaw_framework" target="_blank"><img alt="MacawFramework" src="https://img.shields.io/github/stars/ariasdiniz/macaw_framework?style=social" /></a></th>
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="Medusa" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-medusa.jpg" /></td>
@@ -1192,14 +1200,6 @@
         <td><a href="https://github.com/AntonioFalcaoJr/EventualShop/blob/release/README.md#bulb-about" target="_blank">Eventual Shop</a></td>
         <td>A state-of-the-art distributed system using Reactive DDD as uncertainty modeling, Event Storming as subdomain decomposition, Event Sourcing as an eventual persistence mechanism, CQRS, Async Project…</td>
         <th><a href="https://github.com/AntonioFalcaoJr/EventualShop" target="_blank"><img alt="Eventual Shop" src="https://img.shields.io/github/stars/AntonioFalcaoJr/EventualShop?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="MacawFramework" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-macaw_framework.jpg" /></td>
-        <td>Miscellaneous</td>
-        <td>Ruby</td>
-        <td><a href="https://github.com/ariasdiniz/macaw_framework" target="_blank">MacawFramework</a></td>
-        <td>A lightweight web framework designed for building efficient backend applications. Initially created for study purposes, now production-ready and open for contributions.</td>
-        <th><a href="https://github.com/ariasdiniz/macaw_framework" target="_blank"><img alt="MacawFramework" src="https://img.shields.io/github/stars/ariasdiniz/macaw_framework?style=social" /></a></th>
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="Cemu Emulator" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-Cemu.png" /></td>
@@ -1542,6 +1542,14 @@
         <th><a href="https://github.com/BoykaFramework/boyka-framework" target="_blank"><img alt="boyka-framework" src="https://img.shields.io/github/stars/BoykaFramework/boyka-framework?style=social" /></a></th>
     </tr>
     <tr>
+        <td nowrap="nowrap"><img width="33" alt="Mirage JS" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-miragejs.png" /></td>
+        <td>Productivity</td>
+        <td>JavaScript</td>
+        <td><a href="https://miragejs.com/" target="_blank">Mirage JS</a></td>
+        <td>A client-side server to build, test and share your JavaScript app</td>
+        <th><a href="https://github.com/miragejs/miragejs" target="_blank"><img alt="Mirage JS" src="https://img.shields.io/github/stars/miragejs/miragejs?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="Flutter Gallery" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-gallery.png" /></td>
         <td>Productivity</td>
         <td>Dart</td>
@@ -1612,14 +1620,6 @@
         <td><a href="https://elv.sh/" target="_blank">Elvish Shell</a></td>
         <td>Elvish = Expressive Programming Language + Versatile Interactive Shell</td>
         <th><a href="https://github.com/elves/elvish" target="_blank"><img alt="Elvish Shell" src="https://img.shields.io/github/stars/elves/elvish?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Mirage JS" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-miragejs.png" /></td>
-        <td>Productivity</td>
-        <td>JavaScript</td>
-        <td><a href="https://miragejs.com/" target="_blank">Mirage JS</a></td>
-        <td>A client-side server to build, test and share your JavaScript app</td>
-        <th><a href="https://github.com/miragejs/miragejs" target="_blank"><img alt="Mirage JS" src="https://img.shields.io/github/stars/miragejs/miragejs?style=social" /></a></th>
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="Organic Maps" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-organicmaps.png" /></td>
@@ -2324,6 +2324,14 @@
         <td><a href="https://robby-chatbot.com" target="_blank">Robby-chatbot</a></td>
         <td>AI chatbot <g-emoji class="g-emoji" alias="robot" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f916.png">?</g-emoji> for chat with your CSV, PDF, TXT files <g-emoji class="g-emoji" alias="page_facing_up" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c4.png">?</g-emoji> | using Langchain<g-emoji class="g-emoji" alias="parrot" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f99c.png">?</g-emoji> | OpenAI | Streamlit <g-emoji class="g-emoji" alias="zap" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/26a1.png">⚡</g-emoji></td>
         <th><a href="https://github.com/yvann-hub/Robby-chatbot" target="_blank"><img alt="Robby-chatbot" src="https://img.shields.io/github/stars/yvann-hub/Robby-chatbot?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="git-cliff" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-git-cliff.jpg" /></td>
+        <td>Productivity</td>
+        <td>Rust</td>
+        <td><a href="https://git-cliff.org" target="_blank">git-cliff</a></td>
+        <td>A highly customizable Changelog Generator that follows Conventional Commit specifications <g-emoji class="g-emoji" alias="mountain" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/26f0.png">⛰️</g-emoji> </td>
+        <th><a href="https://github.com/orhun/git-cliff" target="_blank"><img alt="git-cliff" src="https://img.shields.io/github/stars/orhun/git-cliff?style=social" /></a></th>
     </tr>
 
 </table>
@@ -3090,6 +3098,14 @@
         <th>Stargazers</th>
     </tr>
         <tr>
+        <td nowrap="nowrap"><img width="33" alt="Wasp" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-wasp.png" /></td>
+        <td>Infrastructure</td>
+        <td>Haskell</td>
+        <td><a href="https://wasp-lang.dev" target="_blank">Wasp</a></td>
+        <td>The fastest way to develop full-stack web apps with React &amp; Node.js. </td>
+        <th><a href="https://github.com/wasp-lang/wasp" target="_blank"><img alt="Wasp" src="https://img.shields.io/github/stars/wasp-lang/wasp?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="group_button" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-group_button.jpg" /></td>
         <td>Infrastructure</td>
         <td>Dart</td>
@@ -4396,6 +4412,36 @@
 </table>
 
 <br /><br />
+<h2 id="haskell">Top 20 Haskell libraries</h2>
+<table>
+    <tr>
+        <th>Icon</th>
+        <th>Category</th>
+        <th>Language</th>
+        <th>Name</th>
+        <th>Description</th>
+        <th>Stargazers</th>
+    </tr>
+        <tr>
+        <td nowrap="nowrap"><img width="33" alt="Wasp" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-wasp.png" /></td>
+        <td>Infrastructure</td>
+        <td>Haskell</td>
+        <td><a href="https://wasp-lang.dev" target="_blank">Wasp</a></td>
+        <td>The fastest way to develop full-stack web apps with React &amp; Node.js. </td>
+        <th><a href="https://github.com/wasp-lang/wasp" target="_blank"><img alt="Wasp" src="https://img.shields.io/github/stars/wasp-lang/wasp?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="unisonweb/unison" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-unison.png" /></td>
+        <td>Infrastructure</td>
+        <td>Haskell</td>
+        <td><a href="https://unison-lang.org" target="_blank">unisonweb/unison</a></td>
+        <td>A friendly programming language from the future</td>
+        <th><a href="https://github.com/unisonweb/unison" target="_blank"><img alt="unisonweb/unison" src="https://img.shields.io/github/stars/unisonweb/unison?style=social" /></a></th>
+    </tr>
+
+</table>
+
+<br /><br />
 <h2 id="html">Top 20 HTML libraries</h2>
 <table>
     <tr>
@@ -4531,6 +4577,14 @@
         <th><a href="https://github.com/Erutidians/auto-dop" target="_blank"><img alt="auto-dop" src="https://img.shields.io/github/stars/Erutidians/auto-dop?style=social" /></a></th>
     </tr>
     <tr>
+        <td nowrap="nowrap"><img width="33" alt="Mirage JS" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-miragejs.png" /></td>
+        <td>Productivity</td>
+        <td>JavaScript</td>
+        <td><a href="https://miragejs.com/" target="_blank">Mirage JS</a></td>
+        <td>A client-side server to build, test and share your JavaScript app</td>
+        <th><a href="https://github.com/miragejs/miragejs" target="_blank"><img alt="Mirage JS" src="https://img.shields.io/github/stars/miragejs/miragejs?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="cypress-mochawesome-reporter" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-cypress-mochawesome-reporter.jpg" /></td>
         <td>Miscellaneous</td>
         <td>JavaScript</td>
@@ -4569,14 +4623,6 @@
         <td><a href="https://plot.ly/free-sql-client-download/" target="_blank">Setup Falcon SQL Client</a></td>
         <td>Free, open-source SQL client for Windows and Mac <g-emoji class="g-emoji" alias="eagle" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f985.png">?</g-emoji></td>
         <th><a href="https://github.com/plotly/falcon" target="_blank"><img alt="Setup Falcon SQL Client" src="https://img.shields.io/github/stars/plotly/falcon?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Mirage JS" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-miragejs.png" /></td>
-        <td>Productivity</td>
-        <td>JavaScript</td>
-        <td><a href="https://miragejs.com/" target="_blank">Mirage JS</a></td>
-        <td>A client-side server to build, test and share your JavaScript app</td>
-        <th><a href="https://github.com/miragejs/miragejs" target="_blank"><img alt="Mirage JS" src="https://img.shields.io/github/stars/miragejs/miragejs?style=social" /></a></th>
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="grocy" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-grocy.png" /></td>
@@ -5296,6 +5342,68 @@
 </table>
 
 <br /><br />
+<h2 id="ruby">Top 20 Ruby libraries</h2>
+<table>
+    <tr>
+        <th>Icon</th>
+        <th>Category</th>
+        <th>Language</th>
+        <th>Name</th>
+        <th>Description</th>
+        <th>Stargazers</th>
+    </tr>
+        <tr>
+        <td nowrap="nowrap"><img width="33" alt="MacawFramework" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-macaw_framework.jpg" /></td>
+        <td>Miscellaneous</td>
+        <td>Ruby</td>
+        <td><a href="https://github.com/ariasdiniz/macaw_framework" target="_blank">MacawFramework</a></td>
+        <td>A lightweight web framework designed for building efficient backend applications. Initially created for study purposes, now production-ready and open for contributions.</td>
+        <th><a href="https://github.com/ariasdiniz/macaw_framework" target="_blank"><img alt="MacawFramework" src="https://img.shields.io/github/stars/ariasdiniz/macaw_framework?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Danger" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-danger.png" /></td>
+        <td>Collaboration</td>
+        <td>Ruby</td>
+        <td><a href="https://danger.systems" target="_blank">Danger</a></td>
+        <td><g-emoji class="g-emoji" alias="no_entry_sign" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f6ab.png">?</g-emoji> Stop saying "you forgot to …" in code review (in Ruby)</td>
+        <th><a href="https://github.com/danger/danger" target="_blank"><img alt="Danger" src="https://img.shields.io/github/stars/danger/danger?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Doorkeeper Guides" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-doorkeeper.png" /></td>
+        <td>Security</td>
+        <td>Ruby</td>
+        <td><a href="https://doorkeeper.gitbook.io/guides/" target="_blank">Doorkeeper Guides</a></td>
+        <td>Doorkeeper is an OAuth 2 provider for Ruby on Rails / Grape.</td>
+        <th><a href="https://github.com/doorkeeper-gem/doorkeeper" target="_blank"><img alt="Doorkeeper Guides" src="https://img.shields.io/github/stars/doorkeeper-gem/doorkeeper?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="thoughtbot/administrate" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-administrate.png" /></td>
+        <td>Productivity</td>
+        <td>Ruby</td>
+        <td><a href="http://administrate-demo.herokuapp.com" target="_blank">thoughtbot/administrate</a></td>
+        <td>A Rails engine that helps you put together a super-flexible admin dashboard.</td>
+        <th><a href="https://github.com/thoughtbot/administrate" target="_blank"><img alt="thoughtbot/administrate" src="https://img.shields.io/github/stars/thoughtbot/administrate?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Hanami" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-hanami-1.png" /></td>
+        <td>Infrastructure</td>
+        <td>Ruby</td>
+        <td><a href="http://hanamirb.org" target="_blank">Hanami</a></td>
+        <td>The web, with simplicity.</td>
+        <th><a href="https://github.com/hanami/hanami" target="_blank"><img alt="Hanami" src="https://img.shields.io/github/stars/hanami/hanami?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Cucumber" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-cucumber-ruby.png" /></td>
+        <td>Observability</td>
+        <td>Ruby</td>
+        <td><a href="https://cucumber.io" target="_blank">Cucumber</a></td>
+        <td>Cucumber for Ruby. It's amazing!</td>
+        <th><a href="https://github.com/cucumber/cucumber-ruby" target="_blank"><img alt="Cucumber" src="https://img.shields.io/github/stars/cucumber/cucumber-ruby?style=social" /></a></th>
+    </tr>
+
+</table>
+
+<br /><br />
 <h2 id="rust">Top 20 Rust libraries</h2>
 <table>
     <tr>
@@ -5369,6 +5477,14 @@
         <td><a href="https://rust-lang.github.io/rustfmt/" target="_blank">rust-lang/rustfmt</a></td>
         <td>Format Rust code</td>
         <th><a href="https://github.com/rust-lang/rustfmt" target="_blank"><img alt="rust-lang/rustfmt" src="https://img.shields.io/github/stars/rust-lang/rustfmt?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="git-cliff" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-git-cliff.jpg" /></td>
+        <td>Productivity</td>
+        <td>Rust</td>
+        <td><a href="https://git-cliff.org" target="_blank">git-cliff</a></td>
+        <td>A highly customizable Changelog Generator that follows Conventional Commit specifications <g-emoji class="g-emoji" alias="mountain" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/26f0.png">⛰️</g-emoji> </td>
+        <th><a href="https://github.com/orhun/git-cliff" target="_blank"><img alt="git-cliff" src="https://img.shields.io/github/stars/orhun/git-cliff?style=social" /></a></th>
     </tr>
 
 </table>
@@ -6061,68 +6177,6 @@
         <td><a href="https://everright.site/en/module/filter/introduction.html" target="_blank">Everright-filter</a></td>
         <td>A query builder component for Vue3. Supports filtering of multiple data types, including string, number, dropdown, cascade, region, date, and time.</td>
         <th><a href="https://github.com/Liberty-liu/Everright-filter" target="_blank"><img alt="Everright-filter" src="https://img.shields.io/github/stars/Liberty-liu/Everright-filter?style=social" /></a></th>
-    </tr>
-
-</table>
-
-<br /><br />
-<h2 id="ruby">Top 20 Ruby libraries</h2>
-<table>
-    <tr>
-        <th>Icon</th>
-        <th>Category</th>
-        <th>Language</th>
-        <th>Name</th>
-        <th>Description</th>
-        <th>Stargazers</th>
-    </tr>
-        <tr>
-        <td nowrap="nowrap"><img width="33" alt="MacawFramework" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-macaw_framework.jpg" /></td>
-        <td>Miscellaneous</td>
-        <td>Ruby</td>
-        <td><a href="https://github.com/ariasdiniz/macaw_framework" target="_blank">MacawFramework</a></td>
-        <td>A lightweight web framework designed for building efficient backend applications. Initially created for study purposes, now production-ready and open for contributions.</td>
-        <th><a href="https://github.com/ariasdiniz/macaw_framework" target="_blank"><img alt="MacawFramework" src="https://img.shields.io/github/stars/ariasdiniz/macaw_framework?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Danger" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-danger.png" /></td>
-        <td>Collaboration</td>
-        <td>Ruby</td>
-        <td><a href="https://danger.systems" target="_blank">Danger</a></td>
-        <td><g-emoji class="g-emoji" alias="no_entry_sign" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f6ab.png">?</g-emoji> Stop saying "you forgot to …" in code review (in Ruby)</td>
-        <th><a href="https://github.com/danger/danger" target="_blank"><img alt="Danger" src="https://img.shields.io/github/stars/danger/danger?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Doorkeeper Guides" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-doorkeeper.png" /></td>
-        <td>Security</td>
-        <td>Ruby</td>
-        <td><a href="https://doorkeeper.gitbook.io/guides/" target="_blank">Doorkeeper Guides</a></td>
-        <td>Doorkeeper is an OAuth 2 provider for Ruby on Rails / Grape.</td>
-        <th><a href="https://github.com/doorkeeper-gem/doorkeeper" target="_blank"><img alt="Doorkeeper Guides" src="https://img.shields.io/github/stars/doorkeeper-gem/doorkeeper?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="thoughtbot/administrate" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-administrate.png" /></td>
-        <td>Productivity</td>
-        <td>Ruby</td>
-        <td><a href="http://administrate-demo.herokuapp.com" target="_blank">thoughtbot/administrate</a></td>
-        <td>A Rails engine that helps you put together a super-flexible admin dashboard.</td>
-        <th><a href="https://github.com/thoughtbot/administrate" target="_blank"><img alt="thoughtbot/administrate" src="https://img.shields.io/github/stars/thoughtbot/administrate?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Hanami" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-hanami-1.png" /></td>
-        <td>Infrastructure</td>
-        <td>Ruby</td>
-        <td><a href="http://hanamirb.org" target="_blank">Hanami</a></td>
-        <td>The web, with simplicity.</td>
-        <th><a href="https://github.com/hanami/hanami" target="_blank"><img alt="Hanami" src="https://img.shields.io/github/stars/hanami/hanami?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Cucumber" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-cucumber-ruby.png" /></td>
-        <td>Observability</td>
-        <td>Ruby</td>
-        <td><a href="https://cucumber.io" target="_blank">Cucumber</a></td>
-        <td>Cucumber for Ruby. It's amazing!</td>
-        <th><a href="https://github.com/cucumber/cucumber-ruby" target="_blank"><img alt="Cucumber" src="https://img.shields.io/github/stars/cucumber/cucumber-ruby?style=social" /></a></th>
     </tr>
 
 </table>
@@ -6955,28 +7009,6 @@
         <td><a href="https://codeql.github.com" target="_blank">CodeQL</a></td>
         <td>CodeQL: the libraries and queries that power security researchers around the world, as well as code scanning in GitHub Advanced Security</td>
         <th><a href="https://github.com/github/codeql" target="_blank"><img alt="CodeQL" src="https://img.shields.io/github/stars/github/codeql?style=social" /></a></th>
-    </tr>
-
-</table>
-
-<br /><br />
-<h2 id="haskell">Top 20 Haskell libraries</h2>
-<table>
-    <tr>
-        <th>Icon</th>
-        <th>Category</th>
-        <th>Language</th>
-        <th>Name</th>
-        <th>Description</th>
-        <th>Stargazers</th>
-    </tr>
-        <tr>
-        <td nowrap="nowrap"><img width="33" alt="unisonweb/unison" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-unison.png" /></td>
-        <td>Infrastructure</td>
-        <td>Haskell</td>
-        <td><a href="https://unison-lang.org" target="_blank">unisonweb/unison</a></td>
-        <td>A friendly programming language from the future</td>
-        <th><a href="https://github.com/unisonweb/unison" target="_blank"><img alt="unisonweb/unison" src="https://img.shields.io/github/stars/unisonweb/unison?style=social" /></a></th>
     </tr>
 
 </table>
