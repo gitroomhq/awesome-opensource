@@ -44,9 +44,9 @@
              </li>          <li>
                 <a href="#dart">Top 20 Dart libraries</a>
              </li>          <li>
-                <a href="#lua">Top 20 Lua libraries</a>
-             </li>          <li>
                 <a href="#javascript">Top 20 JavaScript libraries</a>
+             </li>          <li>
+                <a href="#lua">Top 20 Lua libraries</a>
              </li>          <li>
                 <a href="#java">Top 20 Java libraries</a>
              </li>          <li>
@@ -64,9 +64,11 @@
              </li>          <li>
                 <a href="#css">Top 20 CSS libraries</a>
              </li>          <li>
-                <a href="#c++">Top 20 C++ libraries</a>
+                <a href="#vue">Top 20 Vue libraries</a>
              </li>          <li>
                 <a href="#ruby">Top 20 Ruby libraries</a>
+             </li>          <li>
+                <a href="#c++">Top 20 C++ libraries</a>
              </li>          <li>
                 <a href="#jsonnet">Top 20 Jsonnet libraries</a>
              </li>          <li>
@@ -120,8 +122,6 @@
              </li>          <li>
                 <a href="#jupyter-notebook">Top 20 Jupyter Notebook libraries</a>
              </li>          <li>
-                <a href="#vue">Top 20 Vue libraries</a>
-             </li>          <li>
                 <a href="#batchfile">Top 20 Batchfile libraries</a>
              </li>        
         </ul>
@@ -148,6 +148,22 @@
         <th><a href="https://github.com/steven-tey/dub" target="_blank"><img alt="Dub" src="https://img.shields.io/github/stars/steven-tey/dub?style=social" /></a></th>
     </tr>
     <tr>
+        <td nowrap="nowrap"><img width="33" alt="Retraced" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-retraced.png" /></td>
+        <td>Security</td>
+        <td>TypeScript</td>
+        <td><a href="https://boxyhq.com/audit-logs" target="_blank">Retraced</a></td>
+        <td>A fully open source audit logs service and embeddable UI easily deployed to your own Kubernetes cluster. Brought to you by replicated.com and boxyhq.com</td>
+        <th><a href="https://github.com/retracedhq/retraced" target="_blank"><img alt="Retraced" src="https://img.shields.io/github/stars/retracedhq/retraced?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="MacawFramework" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-macaw_framework.jpg" /></td>
+        <td>Miscellaneous</td>
+        <td>Ruby</td>
+        <td><a href="https://github.com/ariasdiniz/macaw_framework" target="_blank">MacawFramework</a></td>
+        <td>A lightweight web framework designed for building efficient backend applications. Initially created for study purposes, now production-ready and open for contributions.</td>
+        <th><a href="https://github.com/ariasdiniz/macaw_framework" target="_blank"><img alt="MacawFramework" src="https://img.shields.io/github/stars/ariasdiniz/macaw_framework?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="Microsoft-Activation-Scripts" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-Microsoft-Activation-Scripts.png" /></td>
         <td>Productivity</td>
         <td>Batchfile</td>
@@ -162,6 +178,30 @@
         <td><a href="https://pychat.org" target="_blank">pychat</a></td>
         <td>webchat via WebSockets/WebRTC that allows messaging/video call/screen sharing</td>
         <th><a href="https://github.com/akoidan/pychat" target="_blank"><img alt="pychat" src="https://img.shields.io/github/stars/akoidan/pychat?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Robby-chatbot" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-Robby-chatbot.jpg" /></td>
+        <td>Productivity</td>
+        <td>Python</td>
+        <td><a href="https://robby-chatbot.com" target="_blank">Robby-chatbot</a></td>
+        <td>AI chatbot <g-emoji class="g-emoji" alias="robot" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f916.png">?</g-emoji> for chat with your CSV, PDF, TXT files <g-emoji class="g-emoji" alias="page_facing_up" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c4.png">?</g-emoji> | using Langchain<g-emoji class="g-emoji" alias="parrot" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f99c.png">?</g-emoji> | OpenAI | Streamlit <g-emoji class="g-emoji" alias="zap" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/26a1.png">⚡</g-emoji></td>
+        <th><a href="https://github.com/yvann-hub/Robby-chatbot" target="_blank"><img alt="Robby-chatbot" src="https://img.shields.io/github/stars/yvann-hub/Robby-chatbot?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="SAML Jackson" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-jackson.png" /></td>
+        <td>Security</td>
+        <td>TypeScript</td>
+        <td><a href="https://boxyhq.com/docs/jackson/overview" target="_blank">SAML Jackson</a></td>
+        <td>An Enterprise SAML single sign-on service designed as an OAuth 2.0 flow. Integrate SAML and OIDC SSO with just a few lines of code.</td>
+        <th><a href="https://github.com/boxyhq/jackson" target="_blank"><img alt="SAML Jackson" src="https://img.shields.io/github/stars/boxyhq/jackson?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="ZenStack" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-zenstack.png" /></td>
+        <td>Infrastructure</td>
+        <td>TypeScript</td>
+        <td><a href="https://zenstack.dev" target="_blank">ZenStack</a></td>
+        <td>Supercharges Prisma ORM with a powerful access control layer and unlocks its full potential for web development.</td>
+        <th><a href="https://github.com/zenstackhq/zenstack" target="_blank"><img alt="ZenStack" src="https://img.shields.io/github/stars/zenstackhq/zenstack?style=social" /></a></th>
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="Overlay" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-overlay.png" /></td>
@@ -186,6 +226,14 @@
         <td><a href="https://github.com/uripeled2/llm-client-sdk" target="_blank">llm-client</a></td>
         <td>SDK for using LLM</td>
         <th><a href="https://github.com/uripeled2/llm-client-sdk" target="_blank"><img alt="llm-client" src="https://img.shields.io/github/stars/uripeled2/llm-client-sdk?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Everright-filter" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-Everright-filter.jpg" /></td>
+        <td>Miscellaneous</td>
+        <td>Vue</td>
+        <td><a href="https://everright.site/en/module/filter/introduction.html" target="_blank">Everright-filter</a></td>
+        <td>A query builder component for Vue3. Supports filtering of multiple data types, including string, number, dropdown, cascade, region, date, and time.</td>
+        <th><a href="https://github.com/Liberty-liu/Everright-filter" target="_blank"><img alt="Everright-filter" src="https://img.shields.io/github/stars/Liberty-liu/Everright-filter?style=social" /></a></th>
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="multiple-cucumber-html-reporter" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-multiple-cucumber-html-reporter.jpg" /></td>
@@ -228,14 +276,6 @@
         <th><a href="https://github.com/AntonioFalcaoJr/EventualShop" target="_blank"><img alt="Eventual Shop" src="https://img.shields.io/github/stars/AntonioFalcaoJr/EventualShop?style=social" /></a></th>
     </tr>
     <tr>
-        <td nowrap="nowrap"><img width="33" alt="Everright-filter" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-Everright-filter.jpg" /></td>
-        <td>Miscellaneous</td>
-        <td>Vue</td>
-        <td><a href="https://everright.site/en/module/filter/introduction.html" target="_blank">Everright-filter</a></td>
-        <td>A query builder component for Vue3. Supports filtering of multiple data types, including string, number, dropdown, cascade, region, date, and time.</td>
-        <th><a href="https://github.com/Liberty-liu/Everright-filter" target="_blank"><img alt="Everright-filter" src="https://img.shields.io/github/stars/Liberty-liu/Everright-filter?style=social" /></a></th>
-    </tr>
-    <tr>
         <td nowrap="nowrap"><img width="33" alt="eslint-plugin-safe-jsx" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-safe-jsx.png" /></td>
         <td>Miscellaneous</td>
         <td>TypeScript</td>
@@ -258,46 +298,6 @@
         <td><a href="https://github.com/GSTJ/pegava-dating-app" target="_blank">pegava-dating-app</a></td>
         <td><g-emoji class="g-emoji" alias="sparkling_heart" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f496.png">?</g-emoji> A place to get some love. Pegava is a beautiful dating app made in React Native. </td>
         <th><a href="https://github.com/GSTJ/pegava-dating-app" target="_blank"><img alt="pegava-dating-app" src="https://img.shields.io/github/stars/GSTJ/pegava-dating-app?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="PDM" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-pdm.png" /></td>
-        <td>Productivity</td>
-        <td>Python</td>
-        <td><a href="https://pdm.fming.dev" target="_blank">PDM</a></td>
-        <td>A modern Python package and dependency manager supporting the latest PEP standards</td>
-        <th><a href="https://github.com/pdm-project/pdm" target="_blank"><img alt="PDM" src="https://img.shields.io/github/stars/pdm-project/pdm?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="3kh0 Assets" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-ext-remover-5.jpg" /></td>
-        <td>Infrastructure</td>
-        <td>JavaScript</td>
-        <td><a href="https://3kh0.github.io/ext-remover/" target="_blank">3kh0 Assets</a></td>
-        <td>Bookmarklet exploit that can force-disable extensions installed on Chrome. Also has a very fancy GUI to manage all extensions!</td>
-        <th><a href="https://github.com/3kh0/ext-remover" target="_blank"><img alt="3kh0 Assets" src="https://img.shields.io/github/stars/3kh0/ext-remover?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Baby Query" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-baby-query.jpg" /></td>
-        <td>Infrastructure</td>
-        <td>JavaScript</td>
-        <td><a href="https://robiulhr.github.io/baby-query/" target="_blank">Baby Query</a></td>
-        <td>Baby Query is a custom implementation of the popular JavaScript library jQuery. </td>
-        <th><a href="https://github.com/robiulhr/baby-query" target="_blank"><img alt="Baby Query" src="https://img.shields.io/github/stars/robiulhr/baby-query?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Infisical" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-infisical.png" /></td>
-        <td>Security</td>
-        <td>TypeScript</td>
-        <td><a href="https://infisical.com" target="_blank">Infisical</a></td>
-        <td><g-emoji class="g-emoji" alias="infinity" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/267e.png">♾</g-emoji> Infisical is an open-source, end-to-end encrypted platform for secret management: sync secrets across your team/infrastructure and prevent secret leaks.</td>
-        <th><a href="https://github.com/Infisical/infisical" target="_blank"><img alt="Infisical" src="https://img.shields.io/github/stars/Infisical/infisical?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Vue Hooks" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-vhooks.jpg" /></td>
-        <td>Productivity</td>
-        <td>TypeScript</td>
-        <td><a href="https://bowencool.github.io/vhooks/" target="_blank">Vue Hooks</a></td>
-        <td>vue hooks</td>
-        <th><a href="https://github.com/bowencool/vhooks" target="_blank"><img alt="Vue Hooks" src="https://img.shields.io/github/stars/bowencool/vhooks?style=social" /></a></th>
     </tr>
 
 </table>
@@ -371,6 +371,14 @@
         <th><a href="https://github.com/appwrite/appwrite" target="_blank"><img alt="Appwrite" src="https://img.shields.io/github/stars/appwrite/appwrite?style=social" /></a></th>
     </tr>
     <tr>
+        <td nowrap="nowrap"><img width="33" alt="Everright-formEditor" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-Everright-formEditor.jpg" /></td>
+        <td>Productivity</td>
+        <td>JavaScript</td>
+        <td><a href="https://everright.site/en/module/formEditor/introduction.html" target="_blank">Everright-formEditor</a></td>
+        <td>A visual low code form editor based on vue, The PC depends on element-plus while the mobile depends on vant. It provides an easy way to create custom forms. The project is extensible, easy to use a…</td>
+        <th><a href="https://github.com/Liberty-liu/Everright-formEditor" target="_blank"><img alt="Everright-formEditor" src="https://img.shields.io/github/stars/Liberty-liu/Everright-formEditor?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="awesome window manager" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-awesome.png" /></td>
         <td>Miscellaneous</td>
         <td>Lua</td>
@@ -419,20 +427,20 @@
         <th><a href="https://github.com/junit-team/junit5" target="_blank"><img alt="JUnitorg." src="https://img.shields.io/github/stars/junit-team/junit5?style=social" /></a></th>
     </tr>
     <tr>
+        <td nowrap="nowrap"><img width="33" alt="Bitwarden" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-clients-1.png" /></td>
+        <td>Security</td>
+        <td>TypeScript</td>
+        <td><a href="https://bitwarden.com" target="_blank">Bitwarden</a></td>
+        <td>Bitwarden client applications (web, browser extension, desktop, and cli)</td>
+        <th><a href="https://github.com/bitwarden/clients" target="_blank"><img alt="Bitwarden" src="https://img.shields.io/github/stars/bitwarden/clients?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="Hanko" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-hanko.png" /></td>
         <td>Security</td>
         <td>TypeScript</td>
         <td><a href="https://hanko.io" target="_blank">Hanko</a></td>
         <td>Authentication and user management for the passkey era.</td>
         <th><a href="https://github.com/teamhanko/hanko" target="_blank"><img alt="Hanko" src="https://img.shields.io/github/stars/teamhanko/hanko?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Everright-formEditor" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-Everright-formEditor.jpg" /></td>
-        <td>Productivity</td>
-        <td>JavaScript</td>
-        <td><a href="https://everright.site/en/module/formEditor/introduction.html" target="_blank">Everright-formEditor</a></td>
-        <td>A visual low code form editor based on vue, The PC depends on element-plus while the mobile depends on vant. It provides an easy way to create custom forms. The project is extensible, easy to use a…</td>
-        <th><a href="https://github.com/Liberty-liu/Everright-formEditor" target="_blank"><img alt="Everright-formEditor" src="https://img.shields.io/github/stars/Liberty-liu/Everright-formEditor?style=social" /></a></th>
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="boyka-framework" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-boyka-framework.png" /></td>
@@ -497,14 +505,6 @@
         <td><a href="https://stackexchange.github.io/StackExchange.Redis/" target="_blank">StackExchange.Redis</a></td>
         <td>General purpose redis client</td>
         <th><a href="https://github.com/StackExchange/StackExchange.Redis" target="_blank"><img alt="StackExchange.Redis" src="https://img.shields.io/github/stars/StackExchange/StackExchange.Redis?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Bitwarden" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-clients-1.png" /></td>
-        <td>Security</td>
-        <td>TypeScript</td>
-        <td><a href="https://bitwarden.com" target="_blank">Bitwarden</a></td>
-        <td>Bitwarden client applications (web, browser extension, desktop, and cli)</td>
-        <th><a href="https://github.com/bitwarden/clients" target="_blank"><img alt="Bitwarden" src="https://img.shields.io/github/stars/bitwarden/clients?style=social" /></a></th>
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="Unity" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-open-project-1-2.png" /></td>
@@ -619,6 +619,14 @@
         <th><a href="https://github.com/Infisical/infisical" target="_blank"><img alt="Infisical" src="https://img.shields.io/github/stars/Infisical/infisical?style=social" /></a></th>
     </tr>
     <tr>
+        <td nowrap="nowrap"><img width="33" alt="Everright-filter" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-Everright-filter.jpg" /></td>
+        <td>Miscellaneous</td>
+        <td>Vue</td>
+        <td><a href="https://everright.site/en/module/filter/introduction.html" target="_blank">Everright-filter</a></td>
+        <td>A query builder component for Vue3. Supports filtering of multiple data types, including string, number, dropdown, cascade, region, date, and time.</td>
+        <th><a href="https://github.com/Liberty-liu/Everright-filter" target="_blank"><img alt="Everright-filter" src="https://img.shields.io/github/stars/Liberty-liu/Everright-filter?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="multiple-cucumber-html-reporter" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-multiple-cucumber-html-reporter.jpg" /></td>
         <td>Miscellaneous</td>
         <td>JavaScript</td>
@@ -657,6 +665,30 @@
         <td><a href="https://github.com/AntonioFalcaoJr/EventualShop/blob/release/README.md#bulb-about" target="_blank">Eventual Shop</a></td>
         <td>A state-of-the-art distributed system using Reactive DDD as uncertainty modeling, Event Storming as subdomain decomposition, Event Sourcing as an eventual persistence mechanism, CQRS, Async Project…</td>
         <th><a href="https://github.com/AntonioFalcaoJr/EventualShop" target="_blank"><img alt="Eventual Shop" src="https://img.shields.io/github/stars/AntonioFalcaoJr/EventualShop?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Dub" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-dub.jpg" /></td>
+        <td>Productivity</td>
+        <td>TypeScript</td>
+        <td><a href="https://dub.sh" target="_blank">Dub</a></td>
+        <td>An open-source link shortener with built-in analytics + free custom domains.</td>
+        <th><a href="https://github.com/steven-tey/dub" target="_blank"><img alt="Dub" src="https://img.shields.io/github/stars/steven-tey/dub?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Retraced" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-retraced.png" /></td>
+        <td>Security</td>
+        <td>TypeScript</td>
+        <td><a href="https://boxyhq.com/audit-logs" target="_blank">Retraced</a></td>
+        <td>A fully open source audit logs service and embeddable UI easily deployed to your own Kubernetes cluster. Brought to you by replicated.com and boxyhq.com</td>
+        <th><a href="https://github.com/retracedhq/retraced" target="_blank"><img alt="Retraced" src="https://img.shields.io/github/stars/retracedhq/retraced?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="MacawFramework" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-macaw_framework.jpg" /></td>
+        <td>Miscellaneous</td>
+        <td>Ruby</td>
+        <td><a href="https://github.com/ariasdiniz/macaw_framework" target="_blank">MacawFramework</a></td>
+        <td>A lightweight web framework designed for building efficient backend applications. Initially created for study purposes, now production-ready and open for contributions.</td>
+        <th><a href="https://github.com/ariasdiniz/macaw_framework" target="_blank"><img alt="MacawFramework" src="https://img.shields.io/github/stars/ariasdiniz/macaw_framework?style=social" /></a></th>
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="ClusterFuzz" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-clusterfuzz.png" /></td>
@@ -1082,38 +1114,6 @@
         <td>Declarative web scraping</td>
         <th><a href="https://github.com/MontFerret/ferret" target="_blank"><img alt="Ferret Fact Service" src="https://img.shields.io/github/stars/MontFerret/ferret?style=social" /></a></th>
     </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="mumble-voip/mumble" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-mumble.png" /></td>
-        <td>Collaboration</td>
-        <td>C++</td>
-        <td><a href="https://www.mumble.info" target="_blank">mumble-voip/mumble</a></td>
-        <td>Mumble is an open-source, low-latency, high quality voice chat software.</td>
-        <th><a href="https://github.com/mumble-voip/mumble" target="_blank"><img alt="mumble-voip/mumble" src="https://img.shields.io/github/stars/mumble-voip/mumble?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="AdAway" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-AdAway.png" /></td>
-        <td>Security</td>
-        <td>C</td>
-        <td><a href="https://adaway.org" target="_blank">AdAway</a></td>
-        <td>AdAway is a free and open source ad blocker for Android. </td>
-        <th><a href="https://github.com/AdAway/AdAway" target="_blank"><img alt="AdAway" src="https://img.shields.io/github/stars/AdAway/AdAway?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Discord Developer Portal" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-discord-api-docs.png" /></td>
-        <td>Collaboration</td>
-        <td>Markdown</td>
-        <td><a href="https://discord.com/developers/docs/intro" target="_blank">Discord Developer Portal</a></td>
-        <td>Official Discord API Documentation</td>
-        <th><a href="https://github.com/discord/discord-api-docs" target="_blank"><img alt="Discord Developer Portal" src="https://img.shields.io/github/stars/discord/discord-api-docs?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Remix Icon" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-RemixIcon.png" /></td>
-        <td>Productivity</td>
-        <td>Less</td>
-        <td><a href="https://remixicon.com" target="_blank">Remix Icon</a></td>
-        <td>Open source neutral style icon system</td>
-        <th><a href="https://github.com/Remix-Design/RemixIcon" target="_blank"><img alt="Remix Icon" src="https://img.shields.io/github/stars/Remix-Design/RemixIcon?style=social" /></a></th>
-    </tr>
 
 </table>
 
@@ -1170,6 +1170,14 @@
         <th><a href="https://github.com/LironEr/cypress-mochawesome-reporter" target="_blank"><img alt="cypress-mochawesome-reporter" src="https://img.shields.io/github/stars/LironEr/cypress-mochawesome-reporter?style=social" /></a></th>
     </tr>
     <tr>
+        <td nowrap="nowrap"><img width="33" alt="Everright-filter" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-Everright-filter.jpg" /></td>
+        <td>Miscellaneous</td>
+        <td>Vue</td>
+        <td><a href="https://everright.site/en/module/filter/introduction.html" target="_blank">Everright-filter</a></td>
+        <td>A query builder component for Vue3. Supports filtering of multiple data types, including string, number, dropdown, cascade, region, date, and time.</td>
+        <th><a href="https://github.com/Liberty-liu/Everright-filter" target="_blank"><img alt="Everright-filter" src="https://img.shields.io/github/stars/Liberty-liu/Everright-filter?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="multiple-cucumber-html-reporter" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-multiple-cucumber-html-reporter.jpg" /></td>
         <td>Miscellaneous</td>
         <td>JavaScript</td>
@@ -1184,6 +1192,14 @@
         <td><a href="https://github.com/AntonioFalcaoJr/EventualShop/blob/release/README.md#bulb-about" target="_blank">Eventual Shop</a></td>
         <td>A state-of-the-art distributed system using Reactive DDD as uncertainty modeling, Event Storming as subdomain decomposition, Event Sourcing as an eventual persistence mechanism, CQRS, Async Project…</td>
         <th><a href="https://github.com/AntonioFalcaoJr/EventualShop" target="_blank"><img alt="Eventual Shop" src="https://img.shields.io/github/stars/AntonioFalcaoJr/EventualShop?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="MacawFramework" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-macaw_framework.jpg" /></td>
+        <td>Miscellaneous</td>
+        <td>Ruby</td>
+        <td><a href="https://github.com/ariasdiniz/macaw_framework" target="_blank">MacawFramework</a></td>
+        <td>A lightweight web framework designed for building efficient backend applications. Initially created for study purposes, now production-ready and open for contributions.</td>
+        <th><a href="https://github.com/ariasdiniz/macaw_framework" target="_blank"><img alt="MacawFramework" src="https://img.shields.io/github/stars/ariasdiniz/macaw_framework?style=social" /></a></th>
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="Cemu Emulator" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-Cemu.png" /></td>
@@ -1272,14 +1288,6 @@
         <td><a href="https://github.com/bengry/typedash" target="_blank">typedash</a></td>
         <td>Modern, type-safe alternative to lodash and friends</td>
         <th><a href="https://github.com/bengry/typedash" target="_blank"><img alt="typedash" src="https://img.shields.io/github/stars/bengry/typedash?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Everright-filter" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-Everright-filter.jpg" /></td>
-        <td>Miscellaneous</td>
-        <td>Vue</td>
-        <td><a href="https://everright.site/en/module/filter/introduction.html" target="_blank">Everright-filter</a></td>
-        <td>A query builder component for Vue3. Supports filtering of multiple data types, including string, number, dropdown, cascade, region, date, and time.</td>
-        <th><a href="https://github.com/Liberty-liu/Everright-filter" target="_blank"><img alt="Everright-filter" src="https://img.shields.io/github/stars/Liberty-liu/Everright-filter?style=social" /></a></th>
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="eslint-plugin-safe-jsx" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-safe-jsx.png" /></td>
@@ -1510,20 +1518,20 @@
         <th><a href="https://github.com/github-20k/super-star" target="_blank"><img alt="Github 20k" src="https://img.shields.io/github/stars/github-20k/super-star?style=social" /></a></th>
     </tr>
     <tr>
-        <td nowrap="nowrap"><img width="33" alt="auto-dop" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-auto-dop.jpg" /></td>
-        <td>Productivity</td>
-        <td>JavaScript</td>
-        <td><a href="https://github.com/Erutidians/auto-dop" target="_blank">auto-dop</a></td>
-        <td>Automation for creating markdown files for 100 Days of Productivity challenge.</td>
-        <th><a href="https://github.com/Erutidians/auto-dop" target="_blank"><img alt="auto-dop" src="https://img.shields.io/github/stars/Erutidians/auto-dop?style=social" /></a></th>
-    </tr>
-    <tr>
         <td nowrap="nowrap"><img width="33" alt="Everright-formEditor" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-Everright-formEditor.jpg" /></td>
         <td>Productivity</td>
         <td>JavaScript</td>
         <td><a href="https://everright.site/en/module/formEditor/introduction.html" target="_blank">Everright-formEditor</a></td>
         <td>A visual low code form editor based on vue, The PC depends on element-plus while the mobile depends on vant. It provides an easy way to create custom forms. The project is extensible, easy to use a…</td>
         <th><a href="https://github.com/Liberty-liu/Everright-formEditor" target="_blank"><img alt="Everright-formEditor" src="https://img.shields.io/github/stars/Liberty-liu/Everright-formEditor?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="auto-dop" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-auto-dop.jpg" /></td>
+        <td>Productivity</td>
+        <td>JavaScript</td>
+        <td><a href="https://github.com/Erutidians/auto-dop" target="_blank">auto-dop</a></td>
+        <td>Automation for creating markdown files for 100 Days of Productivity challenge.</td>
+        <th><a href="https://github.com/Erutidians/auto-dop" target="_blank"><img alt="auto-dop" src="https://img.shields.io/github/stars/Erutidians/auto-dop?style=social" /></a></th>
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="boyka-framework" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-boyka-framework.png" /></td>
@@ -1572,6 +1580,14 @@
         <td><a href="https://purekit.vercel.app" target="_blank">purekit</a></td>
         <td>The Simple and Efficient Javascript / Typescript Utility Library</td>
         <th><a href="https://github.com/PunitSoniME/purekit" target="_blank"><img alt="purekit" src="https://img.shields.io/github/stars/PunitSoniME/purekit?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Dub" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-dub.jpg" /></td>
+        <td>Productivity</td>
+        <td>TypeScript</td>
+        <td><a href="https://dub.sh" target="_blank">Dub</a></td>
+        <td>An open-source link shortener with built-in analytics + free custom domains.</td>
+        <th><a href="https://github.com/steven-tey/dub" target="_blank"><img alt="Dub" src="https://img.shields.io/github/stars/steven-tey/dub?style=social" /></a></th>
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="VS Code Docs" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-vscode-docs.png" /></td>
@@ -2294,20 +2310,20 @@
         <th><a href="https://github.com/pdm-project/pdm" target="_blank"><img alt="PDM" src="https://img.shields.io/github/stars/pdm-project/pdm?style=social" /></a></th>
     </tr>
     <tr>
-        <td nowrap="nowrap"><img width="33" alt="Dub" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-dub.jpg" /></td>
-        <td>Productivity</td>
-        <td>TypeScript</td>
-        <td><a href="https://dub.sh" target="_blank">Dub</a></td>
-        <td>An open-source link shortener with built-in analytics + free custom domains.</td>
-        <th><a href="https://github.com/steven-tey/dub" target="_blank"><img alt="Dub" src="https://img.shields.io/github/stars/steven-tey/dub?style=social" /></a></th>
-    </tr>
-    <tr>
         <td nowrap="nowrap"><img width="33" alt="Microsoft-Activation-Scripts" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-Microsoft-Activation-Scripts.png" /></td>
         <td>Productivity</td>
         <td>Batchfile</td>
         <td><a href="https://massgrave.dev" target="_blank">Microsoft-Activation-Scripts</a></td>
         <td>A Windows and Office activator using HWID / KMS38 / Online KMS activation methods, with a focus on open-source code and fewer antivirus detections.</td>
         <th><a href="https://github.com/massgravel/Microsoft-Activation-Scripts" target="_blank"><img alt="Microsoft-Activation-Scripts" src="https://img.shields.io/github/stars/massgravel/Microsoft-Activation-Scripts?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Robby-chatbot" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-Robby-chatbot.jpg" /></td>
+        <td>Productivity</td>
+        <td>Python</td>
+        <td><a href="https://robby-chatbot.com" target="_blank">Robby-chatbot</a></td>
+        <td>AI chatbot <g-emoji class="g-emoji" alias="robot" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f916.png">?</g-emoji> for chat with your CSV, PDF, TXT files <g-emoji class="g-emoji" alias="page_facing_up" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c4.png">?</g-emoji> | using Langchain<g-emoji class="g-emoji" alias="parrot" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f99c.png">?</g-emoji> | OpenAI | Streamlit <g-emoji class="g-emoji" alias="zap" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/26a1.png">⚡</g-emoji></td>
+        <th><a href="https://github.com/yvann-hub/Robby-chatbot" target="_blank"><img alt="Robby-chatbot" src="https://img.shields.io/github/stars/yvann-hub/Robby-chatbot?style=social" /></a></th>
     </tr>
 
 </table>
@@ -2434,20 +2450,20 @@
         <th><a href="https://github.com/os-scar/overlay" target="_blank"><img alt="Overlay" src="https://img.shields.io/github/stars/os-scar/overlay?style=social" /></a></th>
     </tr>
     <tr>
-        <td nowrap="nowrap"><img width="33" alt="Hanko" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-hanko.png" /></td>
-        <td>Security</td>
-        <td>TypeScript</td>
-        <td><a href="https://hanko.io" target="_blank">Hanko</a></td>
-        <td>Authentication and user management for the passkey era.</td>
-        <th><a href="https://github.com/teamhanko/hanko" target="_blank"><img alt="Hanko" src="https://img.shields.io/github/stars/teamhanko/hanko?style=social" /></a></th>
-    </tr>
-    <tr>
         <td nowrap="nowrap"><img width="33" alt="Bitwarden" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-clients-1.png" /></td>
         <td>Security</td>
         <td>TypeScript</td>
         <td><a href="https://bitwarden.com" target="_blank">Bitwarden</a></td>
         <td>Bitwarden client applications (web, browser extension, desktop, and cli)</td>
         <th><a href="https://github.com/bitwarden/clients" target="_blank"><img alt="Bitwarden" src="https://img.shields.io/github/stars/bitwarden/clients?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Hanko" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-hanko.png" /></td>
+        <td>Security</td>
+        <td>TypeScript</td>
+        <td><a href="https://hanko.io" target="_blank">Hanko</a></td>
+        <td>Authentication and user management for the passkey era.</td>
+        <th><a href="https://github.com/teamhanko/hanko" target="_blank"><img alt="Hanko" src="https://img.shields.io/github/stars/teamhanko/hanko?style=social" /></a></th>
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="KeyPass" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-KeyPass.jpg" /></td>
@@ -2464,6 +2480,14 @@
         <td><a href="https://infisical.com" target="_blank">Infisical</a></td>
         <td><g-emoji class="g-emoji" alias="infinity" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/267e.png">♾</g-emoji> Infisical is an open-source, end-to-end encrypted platform for secret management: sync secrets across your team/infrastructure and prevent secret leaks.</td>
         <th><a href="https://github.com/Infisical/infisical" target="_blank"><img alt="Infisical" src="https://img.shields.io/github/stars/Infisical/infisical?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Retraced" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-retraced.png" /></td>
+        <td>Security</td>
+        <td>TypeScript</td>
+        <td><a href="https://boxyhq.com/audit-logs" target="_blank">Retraced</a></td>
+        <td>A fully open source audit logs service and embeddable UI easily deployed to your own Kubernetes cluster. Brought to you by replicated.com and boxyhq.com</td>
+        <th><a href="https://github.com/retracedhq/retraced" target="_blank"><img alt="Retraced" src="https://img.shields.io/github/stars/retracedhq/retraced?style=social" /></a></th>
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="PrivateBin" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-PrivateBin.png" /></td>
@@ -2640,6 +2664,14 @@
         <td><a href="https://github.com/hammaad2002/ASRAdversarialAttacks" target="_blank">Adversarial ASR</a></td>
         <td>An ASR (Automatic Speech Recognition) adversarial attack repository.</td>
         <th><a href="https://github.com/hammaad2002/ASRAdversarialAttacks" target="_blank"><img alt="Adversarial ASR" src="https://img.shields.io/github/stars/hammaad2002/ASRAdversarialAttacks?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="SAML Jackson" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-jackson.png" /></td>
+        <td>Security</td>
+        <td>TypeScript</td>
+        <td><a href="https://boxyhq.com/docs/jackson/overview" target="_blank">SAML Jackson</a></td>
+        <td>An Enterprise SAML single sign-on service designed as an OAuth 2.0 flow. Integrate SAML and OIDC SSO with just a few lines of code.</td>
+        <th><a href="https://github.com/boxyhq/jackson" target="_blank"><img alt="SAML Jackson" src="https://img.shields.io/github/stars/boxyhq/jackson?style=social" /></a></th>
     </tr>
 
 </table>
@@ -3817,6 +3849,14 @@
         <td>Baby Query is a custom implementation of the popular JavaScript library jQuery. </td>
         <th><a href="https://github.com/robiulhr/baby-query" target="_blank"><img alt="Baby Query" src="https://img.shields.io/github/stars/robiulhr/baby-query?style=social" /></a></th>
     </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="ZenStack" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-zenstack.png" /></td>
+        <td>Infrastructure</td>
+        <td>TypeScript</td>
+        <td><a href="https://zenstack.dev" target="_blank">ZenStack</a></td>
+        <td>Supercharges Prisma ORM with a powerful access control layer and unlocks its full potential for web development.</td>
+        <th><a href="https://github.com/zenstackhq/zenstack" target="_blank"><img alt="ZenStack" src="https://img.shields.io/github/stars/zenstackhq/zenstack?style=social" /></a></th>
+    </tr>
 
 </table>
 
@@ -3873,20 +3913,20 @@
         <th><a href="https://github.com/appwrite/appwrite" target="_blank"><img alt="Appwrite" src="https://img.shields.io/github/stars/appwrite/appwrite?style=social" /></a></th>
     </tr>
     <tr>
-        <td nowrap="nowrap"><img width="33" alt="Hanko" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-hanko.png" /></td>
-        <td>Security</td>
-        <td>TypeScript</td>
-        <td><a href="https://hanko.io" target="_blank">Hanko</a></td>
-        <td>Authentication and user management for the passkey era.</td>
-        <th><a href="https://github.com/teamhanko/hanko" target="_blank"><img alt="Hanko" src="https://img.shields.io/github/stars/teamhanko/hanko?style=social" /></a></th>
-    </tr>
-    <tr>
         <td nowrap="nowrap"><img width="33" alt="Bitwarden" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-clients-1.png" /></td>
         <td>Security</td>
         <td>TypeScript</td>
         <td><a href="https://bitwarden.com" target="_blank">Bitwarden</a></td>
         <td>Bitwarden client applications (web, browser extension, desktop, and cli)</td>
         <th><a href="https://github.com/bitwarden/clients" target="_blank"><img alt="Bitwarden" src="https://img.shields.io/github/stars/bitwarden/clients?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Hanko" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-hanko.png" /></td>
+        <td>Security</td>
+        <td>TypeScript</td>
+        <td><a href="https://hanko.io" target="_blank">Hanko</a></td>
+        <td>Authentication and user management for the passkey era.</td>
+        <th><a href="https://github.com/teamhanko/hanko" target="_blank"><img alt="Hanko" src="https://img.shields.io/github/stars/teamhanko/hanko?style=social" /></a></th>
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="Docusaurus" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-docusaurus.png" /></td>
@@ -3959,6 +3999,22 @@
         <td><a href="https://github.com/origranot/ts-logger" target="_blank">@origranot/ts-logger</a></td>
         <td>A powerful and easy-to-use logging and debugging package for TypeScript</td>
         <th><a href="https://github.com/origranot/ts-logger" target="_blank"><img alt="@origranot/ts-logger" src="https://img.shields.io/github/stars/origranot/ts-logger?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Dub" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-dub.jpg" /></td>
+        <td>Productivity</td>
+        <td>TypeScript</td>
+        <td><a href="https://dub.sh" target="_blank">Dub</a></td>
+        <td>An open-source link shortener with built-in analytics + free custom domains.</td>
+        <th><a href="https://github.com/steven-tey/dub" target="_blank"><img alt="Dub" src="https://img.shields.io/github/stars/steven-tey/dub?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Retraced" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-retraced.png" /></td>
+        <td>Security</td>
+        <td>TypeScript</td>
+        <td><a href="https://boxyhq.com/audit-logs" target="_blank">Retraced</a></td>
+        <td>A fully open source audit logs service and embeddable UI easily deployed to your own Kubernetes cluster. Brought to you by replicated.com and boxyhq.com</td>
+        <th><a href="https://github.com/retracedhq/retraced" target="_blank"><img alt="Retraced" src="https://img.shields.io/github/stars/retracedhq/retraced?style=social" /></a></th>
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="The Lounge" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-thelounge.png" /></td>
@@ -4313,20 +4369,28 @@
         <th><a href="https://github.com/GSTJ/pegava-dating-app" target="_blank"><img alt="pegava-dating-app" src="https://img.shields.io/github/stars/GSTJ/pegava-dating-app?style=social" /></a></th>
     </tr>
     <tr>
-        <td nowrap="nowrap"><img width="33" alt="Dub" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-dub.jpg" /></td>
-        <td>Productivity</td>
-        <td>TypeScript</td>
-        <td><a href="https://dub.sh" target="_blank">Dub</a></td>
-        <td>An open-source link shortener with built-in analytics + free custom domains.</td>
-        <th><a href="https://github.com/steven-tey/dub" target="_blank"><img alt="Dub" src="https://img.shields.io/github/stars/steven-tey/dub?style=social" /></a></th>
-    </tr>
-    <tr>
         <td nowrap="nowrap"><img width="33" alt="pychat" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-pychat-2.jpg" /></td>
         <td>Observability</td>
         <td>TypeScript</td>
         <td><a href="https://pychat.org" target="_blank">pychat</a></td>
         <td>webchat via WebSockets/WebRTC that allows messaging/video call/screen sharing</td>
         <th><a href="https://github.com/akoidan/pychat" target="_blank"><img alt="pychat" src="https://img.shields.io/github/stars/akoidan/pychat?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="SAML Jackson" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-jackson.png" /></td>
+        <td>Security</td>
+        <td>TypeScript</td>
+        <td><a href="https://boxyhq.com/docs/jackson/overview" target="_blank">SAML Jackson</a></td>
+        <td>An Enterprise SAML single sign-on service designed as an OAuth 2.0 flow. Integrate SAML and OIDC SSO with just a few lines of code.</td>
+        <th><a href="https://github.com/boxyhq/jackson" target="_blank"><img alt="SAML Jackson" src="https://img.shields.io/github/stars/boxyhq/jackson?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="ZenStack" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-zenstack.png" /></td>
+        <td>Infrastructure</td>
+        <td>TypeScript</td>
+        <td><a href="https://zenstack.dev" target="_blank">ZenStack</a></td>
+        <td>Supercharges Prisma ORM with a powerful access control layer and unlocks its full potential for web development.</td>
+        <th><a href="https://github.com/zenstackhq/zenstack" target="_blank"><img alt="ZenStack" src="https://img.shields.io/github/stars/zenstackhq/zenstack?style=social" /></a></th>
     </tr>
 
 </table>
@@ -4440,44 +4504,6 @@
 </table>
 
 <br /><br />
-<h2 id="lua">Top 20 Lua libraries</h2>
-<table>
-    <tr>
-        <th>Icon</th>
-        <th>Category</th>
-        <th>Language</th>
-        <th>Name</th>
-        <th>Description</th>
-        <th>Stargazers</th>
-    </tr>
-        <tr>
-        <td nowrap="nowrap"><img width="33" alt="awesome window manager" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-awesome.png" /></td>
-        <td>Miscellaneous</td>
-        <td>Lua</td>
-        <td><a href="https://awesomewm.org/" target="_blank">awesome window manager</a></td>
-        <td>awesome window manager</td>
-        <th><a href="https://github.com/awesomeWM/awesome" target="_blank"><img alt="awesome window manager" src="https://img.shields.io/github/stars/awesomeWM/awesome?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="LazyVim" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-LazyVim.png" /></td>
-        <td>Productivity</td>
-        <td>Lua</td>
-        <td><a href="https://lazyvim.github.io/" target="_blank">LazyVim</a></td>
-        <td>Neovim config for the lazy</td>
-        <th><a href="https://github.com/LazyVim/LazyVim" target="_blank"><img alt="LazyVim" src="https://img.shields.io/github/stars/LazyVim/LazyVim?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="ntop" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-ntopng.png" /></td>
-        <td>Observability</td>
-        <td>Lua</td>
-        <td><a href="http://www.ntop.org" target="_blank">ntop</a></td>
-        <td>Web-based Traffic and Security Network Traffic Monitoring</td>
-        <th><a href="https://github.com/ntop/ntopng" target="_blank"><img alt="ntop" src="https://img.shields.io/github/stars/ntop/ntopng?style=social" /></a></th>
-    </tr>
-
-</table>
-
-<br /><br />
 <h2 id="javascript">Top 20 JavaScript libraries</h2>
 <table>
     <tr>
@@ -4489,20 +4515,20 @@
         <th>Stargazers</th>
     </tr>
         <tr>
-        <td nowrap="nowrap"><img width="33" alt="auto-dop" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-auto-dop.jpg" /></td>
-        <td>Productivity</td>
-        <td>JavaScript</td>
-        <td><a href="https://github.com/Erutidians/auto-dop" target="_blank">auto-dop</a></td>
-        <td>Automation for creating markdown files for 100 Days of Productivity challenge.</td>
-        <th><a href="https://github.com/Erutidians/auto-dop" target="_blank"><img alt="auto-dop" src="https://img.shields.io/github/stars/Erutidians/auto-dop?style=social" /></a></th>
-    </tr>
-    <tr>
         <td nowrap="nowrap"><img width="33" alt="Everright-formEditor" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-Everright-formEditor.jpg" /></td>
         <td>Productivity</td>
         <td>JavaScript</td>
         <td><a href="https://everright.site/en/module/formEditor/introduction.html" target="_blank">Everright-formEditor</a></td>
         <td>A visual low code form editor based on vue, The PC depends on element-plus while the mobile depends on vant. It provides an easy way to create custom forms. The project is extensible, easy to use a…</td>
         <th><a href="https://github.com/Liberty-liu/Everright-formEditor" target="_blank"><img alt="Everright-formEditor" src="https://img.shields.io/github/stars/Liberty-liu/Everright-formEditor?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="auto-dop" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-auto-dop.jpg" /></td>
+        <td>Productivity</td>
+        <td>JavaScript</td>
+        <td><a href="https://github.com/Erutidians/auto-dop" target="_blank">auto-dop</a></td>
+        <td>Automation for creating markdown files for 100 Days of Productivity challenge.</td>
+        <th><a href="https://github.com/Erutidians/auto-dop" target="_blank"><img alt="auto-dop" src="https://img.shields.io/github/stars/Erutidians/auto-dop?style=social" /></a></th>
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="cypress-mochawesome-reporter" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-cypress-mochawesome-reporter.jpg" /></td>
@@ -4807,6 +4833,44 @@
         <td><a href="https://robiulhr.github.io/baby-query/" target="_blank">Baby Query</a></td>
         <td>Baby Query is a custom implementation of the popular JavaScript library jQuery. </td>
         <th><a href="https://github.com/robiulhr/baby-query" target="_blank"><img alt="Baby Query" src="https://img.shields.io/github/stars/robiulhr/baby-query?style=social" /></a></th>
+    </tr>
+
+</table>
+
+<br /><br />
+<h2 id="lua">Top 20 Lua libraries</h2>
+<table>
+    <tr>
+        <th>Icon</th>
+        <th>Category</th>
+        <th>Language</th>
+        <th>Name</th>
+        <th>Description</th>
+        <th>Stargazers</th>
+    </tr>
+        <tr>
+        <td nowrap="nowrap"><img width="33" alt="awesome window manager" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-awesome.png" /></td>
+        <td>Miscellaneous</td>
+        <td>Lua</td>
+        <td><a href="https://awesomewm.org/" target="_blank">awesome window manager</a></td>
+        <td>awesome window manager</td>
+        <th><a href="https://github.com/awesomeWM/awesome" target="_blank"><img alt="awesome window manager" src="https://img.shields.io/github/stars/awesomeWM/awesome?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="LazyVim" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-LazyVim.png" /></td>
+        <td>Productivity</td>
+        <td>Lua</td>
+        <td><a href="https://lazyvim.github.io/" target="_blank">LazyVim</a></td>
+        <td>Neovim config for the lazy</td>
+        <th><a href="https://github.com/LazyVim/LazyVim" target="_blank"><img alt="LazyVim" src="https://img.shields.io/github/stars/LazyVim/LazyVim?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="ntop" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-ntopng.png" /></td>
+        <td>Observability</td>
+        <td>Lua</td>
+        <td><a href="http://www.ntop.org" target="_blank">ntop</a></td>
+        <td>Web-based Traffic and Security Network Traffic Monitoring</td>
+        <th><a href="https://github.com/ntop/ntopng" target="_blank"><img alt="ntop" src="https://img.shields.io/github/stars/ntop/ntopng?style=social" /></a></th>
     </tr>
 
 </table>
@@ -5219,6 +5283,14 @@
         <td><a href="https://pdm.fming.dev" target="_blank">PDM</a></td>
         <td>A modern Python package and dependency manager supporting the latest PEP standards</td>
         <th><a href="https://github.com/pdm-project/pdm" target="_blank"><img alt="PDM" src="https://img.shields.io/github/stars/pdm-project/pdm?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Robby-chatbot" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-Robby-chatbot.jpg" /></td>
+        <td>Productivity</td>
+        <td>Python</td>
+        <td><a href="https://robby-chatbot.com" target="_blank">Robby-chatbot</a></td>
+        <td>AI chatbot <g-emoji class="g-emoji" alias="robot" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f916.png">?</g-emoji> for chat with your CSV, PDF, TXT files <g-emoji class="g-emoji" alias="page_facing_up" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c4.png">?</g-emoji> | using Langchain<g-emoji class="g-emoji" alias="parrot" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f99c.png">?</g-emoji> | OpenAI | Streamlit <g-emoji class="g-emoji" alias="zap" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/26a1.png">⚡</g-emoji></td>
+        <th><a href="https://github.com/yvann-hub/Robby-chatbot" target="_blank"><img alt="Robby-chatbot" src="https://img.shields.io/github/stars/yvann-hub/Robby-chatbot?style=social" /></a></th>
     </tr>
 
 </table>
@@ -5972,6 +6044,90 @@
 </table>
 
 <br /><br />
+<h2 id="vue">Top 20 Vue libraries</h2>
+<table>
+    <tr>
+        <th>Icon</th>
+        <th>Category</th>
+        <th>Language</th>
+        <th>Name</th>
+        <th>Description</th>
+        <th>Stargazers</th>
+    </tr>
+        <tr>
+        <td nowrap="nowrap"><img width="33" alt="Everright-filter" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-Everright-filter.jpg" /></td>
+        <td>Miscellaneous</td>
+        <td>Vue</td>
+        <td><a href="https://everright.site/en/module/filter/introduction.html" target="_blank">Everright-filter</a></td>
+        <td>A query builder component for Vue3. Supports filtering of multiple data types, including string, number, dropdown, cascade, region, date, and time.</td>
+        <th><a href="https://github.com/Liberty-liu/Everright-filter" target="_blank"><img alt="Everright-filter" src="https://img.shields.io/github/stars/Liberty-liu/Everright-filter?style=social" /></a></th>
+    </tr>
+
+</table>
+
+<br /><br />
+<h2 id="ruby">Top 20 Ruby libraries</h2>
+<table>
+    <tr>
+        <th>Icon</th>
+        <th>Category</th>
+        <th>Language</th>
+        <th>Name</th>
+        <th>Description</th>
+        <th>Stargazers</th>
+    </tr>
+        <tr>
+        <td nowrap="nowrap"><img width="33" alt="MacawFramework" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-macaw_framework.jpg" /></td>
+        <td>Miscellaneous</td>
+        <td>Ruby</td>
+        <td><a href="https://github.com/ariasdiniz/macaw_framework" target="_blank">MacawFramework</a></td>
+        <td>A lightweight web framework designed for building efficient backend applications. Initially created for study purposes, now production-ready and open for contributions.</td>
+        <th><a href="https://github.com/ariasdiniz/macaw_framework" target="_blank"><img alt="MacawFramework" src="https://img.shields.io/github/stars/ariasdiniz/macaw_framework?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Danger" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-danger.png" /></td>
+        <td>Collaboration</td>
+        <td>Ruby</td>
+        <td><a href="https://danger.systems" target="_blank">Danger</a></td>
+        <td><g-emoji class="g-emoji" alias="no_entry_sign" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f6ab.png">?</g-emoji> Stop saying "you forgot to …" in code review (in Ruby)</td>
+        <th><a href="https://github.com/danger/danger" target="_blank"><img alt="Danger" src="https://img.shields.io/github/stars/danger/danger?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Doorkeeper Guides" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-doorkeeper.png" /></td>
+        <td>Security</td>
+        <td>Ruby</td>
+        <td><a href="https://doorkeeper.gitbook.io/guides/" target="_blank">Doorkeeper Guides</a></td>
+        <td>Doorkeeper is an OAuth 2 provider for Ruby on Rails / Grape.</td>
+        <th><a href="https://github.com/doorkeeper-gem/doorkeeper" target="_blank"><img alt="Doorkeeper Guides" src="https://img.shields.io/github/stars/doorkeeper-gem/doorkeeper?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="thoughtbot/administrate" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-administrate.png" /></td>
+        <td>Productivity</td>
+        <td>Ruby</td>
+        <td><a href="http://administrate-demo.herokuapp.com" target="_blank">thoughtbot/administrate</a></td>
+        <td>A Rails engine that helps you put together a super-flexible admin dashboard.</td>
+        <th><a href="https://github.com/thoughtbot/administrate" target="_blank"><img alt="thoughtbot/administrate" src="https://img.shields.io/github/stars/thoughtbot/administrate?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Hanami" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-hanami-1.png" /></td>
+        <td>Infrastructure</td>
+        <td>Ruby</td>
+        <td><a href="http://hanamirb.org" target="_blank">Hanami</a></td>
+        <td>The web, with simplicity.</td>
+        <th><a href="https://github.com/hanami/hanami" target="_blank"><img alt="Hanami" src="https://img.shields.io/github/stars/hanami/hanami?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Cucumber" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-cucumber-ruby.png" /></td>
+        <td>Observability</td>
+        <td>Ruby</td>
+        <td><a href="https://cucumber.io" target="_blank">Cucumber</a></td>
+        <td>Cucumber for Ruby. It's amazing!</td>
+        <th><a href="https://github.com/cucumber/cucumber-ruby" target="_blank"><img alt="Cucumber" src="https://img.shields.io/github/stars/cucumber/cucumber-ruby?style=social" /></a></th>
+    </tr>
+
+</table>
+
+<br /><br />
 <h2 id="c++">Top 20 C++ libraries</h2>
 <table>
     <tr>
@@ -6149,60 +6305,6 @@
         <td><a href="https://fasani.de" target="_blank">Remora udpx listens to UDP short commands to trigger LED Animations. Receives ; commands from ORCΛ</a></td>
         <td>Remora udpx listens to UDP short commands to trigger LED Animations. Receives ; commands from ORCΛ</td>
         <th><a href="https://github.com/martinberlin/Remora" target="_blank"><img alt="Remora udpx listens to UDP short commands to trigger LED Animations. Receives ; commands from ORCΛ" src="https://img.shields.io/github/stars/martinberlin/Remora?style=social" /></a></th>
-    </tr>
-
-</table>
-
-<br /><br />
-<h2 id="ruby">Top 20 Ruby libraries</h2>
-<table>
-    <tr>
-        <th>Icon</th>
-        <th>Category</th>
-        <th>Language</th>
-        <th>Name</th>
-        <th>Description</th>
-        <th>Stargazers</th>
-    </tr>
-        <tr>
-        <td nowrap="nowrap"><img width="33" alt="Danger" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-danger.png" /></td>
-        <td>Collaboration</td>
-        <td>Ruby</td>
-        <td><a href="https://danger.systems" target="_blank">Danger</a></td>
-        <td><g-emoji class="g-emoji" alias="no_entry_sign" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f6ab.png">?</g-emoji> Stop saying "you forgot to …" in code review (in Ruby)</td>
-        <th><a href="https://github.com/danger/danger" target="_blank"><img alt="Danger" src="https://img.shields.io/github/stars/danger/danger?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Doorkeeper Guides" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-doorkeeper.png" /></td>
-        <td>Security</td>
-        <td>Ruby</td>
-        <td><a href="https://doorkeeper.gitbook.io/guides/" target="_blank">Doorkeeper Guides</a></td>
-        <td>Doorkeeper is an OAuth 2 provider for Ruby on Rails / Grape.</td>
-        <th><a href="https://github.com/doorkeeper-gem/doorkeeper" target="_blank"><img alt="Doorkeeper Guides" src="https://img.shields.io/github/stars/doorkeeper-gem/doorkeeper?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="thoughtbot/administrate" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-administrate.png" /></td>
-        <td>Productivity</td>
-        <td>Ruby</td>
-        <td><a href="http://administrate-demo.herokuapp.com" target="_blank">thoughtbot/administrate</a></td>
-        <td>A Rails engine that helps you put together a super-flexible admin dashboard.</td>
-        <th><a href="https://github.com/thoughtbot/administrate" target="_blank"><img alt="thoughtbot/administrate" src="https://img.shields.io/github/stars/thoughtbot/administrate?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Hanami" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-hanami-1.png" /></td>
-        <td>Infrastructure</td>
-        <td>Ruby</td>
-        <td><a href="http://hanamirb.org" target="_blank">Hanami</a></td>
-        <td>The web, with simplicity.</td>
-        <th><a href="https://github.com/hanami/hanami" target="_blank"><img alt="Hanami" src="https://img.shields.io/github/stars/hanami/hanami?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Cucumber" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-cucumber-ruby.png" /></td>
-        <td>Observability</td>
-        <td>Ruby</td>
-        <td><a href="https://cucumber.io" target="_blank">Cucumber</a></td>
-        <td>Cucumber for Ruby. It's amazing!</td>
-        <th><a href="https://github.com/cucumber/cucumber-ruby" target="_blank"><img alt="Cucumber" src="https://img.shields.io/github/stars/cucumber/cucumber-ruby?style=social" /></a></th>
     </tr>
 
 </table>
@@ -6919,28 +7021,6 @@
         <td><a href="https://github.com/hammaad2002/ASRAdversarialAttacks" target="_blank">Adversarial ASR</a></td>
         <td>An ASR (Automatic Speech Recognition) adversarial attack repository.</td>
         <th><a href="https://github.com/hammaad2002/ASRAdversarialAttacks" target="_blank"><img alt="Adversarial ASR" src="https://img.shields.io/github/stars/hammaad2002/ASRAdversarialAttacks?style=social" /></a></th>
-    </tr>
-
-</table>
-
-<br /><br />
-<h2 id="vue">Top 20 Vue libraries</h2>
-<table>
-    <tr>
-        <th>Icon</th>
-        <th>Category</th>
-        <th>Language</th>
-        <th>Name</th>
-        <th>Description</th>
-        <th>Stargazers</th>
-    </tr>
-        <tr>
-        <td nowrap="nowrap"><img width="33" alt="Everright-filter" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-Everright-filter.jpg" /></td>
-        <td>Miscellaneous</td>
-        <td>Vue</td>
-        <td><a href="https://everright.site/en/module/filter/introduction.html" target="_blank">Everright-filter</a></td>
-        <td>A query builder component for Vue3. Supports filtering of multiple data types, including string, number, dropdown, cascade, region, date, and time.</td>
-        <th><a href="https://github.com/Liberty-liu/Everright-filter" target="_blank"><img alt="Everright-filter" src="https://img.shields.io/github/stars/Liberty-liu/Everright-filter?style=social" /></a></th>
     </tr>
 
 </table>
