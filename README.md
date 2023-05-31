@@ -60,6 +60,8 @@
              </li>          <li>
                 <a href="#rust">Top 20 Rust libraries</a>
              </li>          <li>
+                <a href="#jsonnet">Top 20 Jsonnet libraries</a>
+             </li>          <li>
                 <a href="#c">Top 20 C# libraries</a>
              </li>          <li>
                 <a href="#go">Top 20 Go libraries</a>
@@ -71,8 +73,6 @@
                 <a href="#vue">Top 20 Vue libraries</a>
              </li>          <li>
                 <a href="#c++">Top 20 C++ libraries</a>
-             </li>          <li>
-                <a href="#jsonnet">Top 20 Jsonnet libraries</a>
              </li>          <li>
                 <a href="#clojure">Top 20 Clojure libraries</a>
              </li>          <li>
@@ -164,6 +164,14 @@
         <th><a href="https://github.com/plskz/100-days-of-productivity" target="_blank"><img alt="100-days-of-productivity" src="https://img.shields.io/github/stars/plskz/100-days-of-productivity?style=social" /></a></th>
     </tr>
     <tr>
+        <td nowrap="nowrap"><img width="33" alt="Railtrack" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-railtrack.png" /></td>
+        <td>Analytics</td>
+        <td>TypeScript</td>
+        <td><a href="https://railtrack.ch" target="_blank">Railtrack</a></td>
+        <td>Next.js and Supabase app to track your train journeys in Europe</td>
+        <th><a href="https://github.com/noahflk/railtrack" target="_blank"><img alt="Railtrack" src="https://img.shields.io/github/stars/noahflk/railtrack?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="Java Backend for FB Chatbot" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-Java-FbChatBot.jpg" /></td>
         <td>Miscellaneous</td>
         <td>Java</td>
@@ -178,6 +186,38 @@
         <td><a href="https://reduced.to" target="_blank">reduced.to</a></td>
         <td>Free Modern URL Reducer. Make sure to share love by giving it a star.<g-emoji class="g-emoji" alias="star2" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f31f.png">?</g-emoji> Have a great day!</td>
         <th><a href="https://github.com/origranot/reduced.to" target="_blank"><img alt="reduced.to" src="https://img.shields.io/github/stars/origranot/reduced.to?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Node decorators" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-node-decorators.jpg" /></td>
+        <td>Productivity</td>
+        <td>TypeScript</td>
+        <td><a href="https://www.linkedin.com/pulse/why-use-decorators-typescript-siddharth-kumar/" target="_blank">Node decorators</a></td>
+        <td>Typescript decorator implementation for caching and logging</td>
+        <th><a href="https://github.com/thekosmix/node-decorators" target="_blank"><img alt="Node decorators" src="https://img.shields.io/github/stars/thekosmix/node-decorators?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Laravel Priority Queue driver" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-laravel-priority-queue.png" /></td>
+        <td>Infrastructure</td>
+        <td>PHP</td>
+        <td><a href="https://github.com/shipsaas/laravel-priority-queue" target="_blank">Laravel Priority Queue driver</a></td>
+        <td>Priority Queues driver implementation for Laravel. Utilizing DB Driver.</td>
+        <th><a href="https://github.com/shipsaas/laravel-priority-queue" target="_blank"><img alt="Laravel Priority Queue driver" src="https://img.shields.io/github/stars/shipsaas/laravel-priority-queue?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Quickwit" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-quickwit.png" /></td>
+        <td>Observability</td>
+        <td>Rust</td>
+        <td><a href="https://quickwit.io" target="_blank">Quickwit</a></td>
+        <td>Sub-second search &amp; analytics engine on cloud storage</td>
+        <th><a href="https://github.com/quickwit-oss/quickwit" target="_blank"><img alt="Quickwit" src="https://img.shields.io/github/stars/quickwit-oss/quickwit?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="ZenStack" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-zenstack.png" /></td>
+        <td>Infrastructure</td>
+        <td>TypeScript</td>
+        <td><a href="https://zenstack.dev" target="_blank">ZenStack</a></td>
+        <td>Supercharges Prisma ORM with a powerful access control layer and unlocks its full potential for web development.</td>
+        <th><a href="https://github.com/zenstackhq/zenstack" target="_blank"><img alt="ZenStack" src="https://img.shields.io/github/stars/zenstackhq/zenstack?style=social" /></a></th>
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="MacawFramework" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-macaw_framework.jpg" /></td>
@@ -202,14 +242,6 @@
         <td><a href="https://boxyhq.com/audit-logs" target="_blank">Retraced</a></td>
         <td>A fully open source audit logs service and embeddable UI easily deployed to your own Kubernetes cluster. Brought to you by replicated.com and boxyhq.com</td>
         <th><a href="https://github.com/retracedhq/retraced" target="_blank"><img alt="Retraced" src="https://img.shields.io/github/stars/retracedhq/retraced?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="ZenStack" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-zenstack.png" /></td>
-        <td>Infrastructure</td>
-        <td>TypeScript</td>
-        <td><a href="https://zenstack.dev" target="_blank">ZenStack</a></td>
-        <td>Supercharges Prisma ORM with a powerful access control layer and unlocks its full potential for web development.</td>
-        <th><a href="https://github.com/zenstackhq/zenstack" target="_blank"><img alt="ZenStack" src="https://img.shields.io/github/stars/zenstackhq/zenstack?style=social" /></a></th>
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="Wasp" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-wasp.png" /></td>
@@ -266,38 +298,6 @@
         <td><a href="https://github.com/eleev/uicollectionview-layouts-kit" target="_blank">uicollectionview layouts kit</a></td>
         <td><g-emoji class="g-emoji" alias="triangular_ruler" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4d0.png">?</g-emoji>Custom layouts for UICollectionView with examples [iOS 12+].</td>
         <th><a href="https://github.com/eleev/uicollectionview-layouts-kit" target="_blank"><img alt="uicollectionview layouts kit" src="https://img.shields.io/github/stars/eleev/uicollectionview-layouts-kit?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="compositional layouts kit" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-compositional-layouts-kit.jpg" /></td>
-        <td>Miscellaneous</td>
-        <td>Swift</td>
-        <td><a href="https://github.com/eleev/compositional-layouts-kit" target="_blank">compositional layouts kit</a></td>
-        <td><g-emoji class="g-emoji" alias="straight_ruler" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4cf.png">?</g-emoji> Advanced compositional layouts for UICollectionView [iOS 13+].</td>
-        <th><a href="https://github.com/eleev/compositional-layouts-kit" target="_blank"><img alt="compositional layouts kit" src="https://img.shields.io/github/stars/eleev/compositional-layouts-kit?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="swift design patterns" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-swift-design-patterns.jpg" /></td>
-        <td>Miscellaneous</td>
-        <td>Swift</td>
-        <td><a href="https://github.com/eleev/swift-design-patterns" target="_blank">swift design patterns</a></td>
-        <td><g-emoji class="g-emoji" alias="rocket" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f680.png">?</g-emoji> The ultimate collection of Software Design Patterns &amp; Principles with examples [38/79 Patterns]. </td>
-        <th><a href="https://github.com/eleev/swift-design-patterns" target="_blank"><img alt="swift design patterns" src="https://img.shields.io/github/stars/eleev/swift-design-patterns?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="skcomponents kit" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-skcomponents-kit.jpg" /></td>
-        <td>Miscellaneous</td>
-        <td>Swift</td>
-        <td><a href="https://github.com/eleev/skcomponents-kit" target="_blank">skcomponents kit</a></td>
-        <td><g-emoji class="g-emoji" alias="alembic" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2697.png">⚗️</g-emoji> Collection of SpriteKit components for intermediate/advanced use cases.</td>
-        <th><a href="https://github.com/eleev/skcomponents-kit" target="_blank"><img alt="skcomponents kit" src="https://img.shields.io/github/stars/eleev/skcomponents-kit?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Overlay" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-overlay.png" /></td>
-        <td>Security</td>
-        <td>HTML</td>
-        <td><a href="https://github.com/os-scar/overlay" target="_blank">Overlay</a></td>
-        <td>Overlay is a browser extension helping developers evaluate open source packages before picking them</td>
-        <th><a href="https://github.com/os-scar/overlay" target="_blank"><img alt="Overlay" src="https://img.shields.io/github/stars/os-scar/overlay?style=social" /></a></th>
     </tr>
 
 </table>
@@ -435,6 +435,14 @@
         <th><a href="https://github.com/Frezyx/sidebarx" target="_blank"><img alt="sidebarx" src="https://img.shields.io/github/stars/Frezyx/sidebarx?style=social" /></a></th>
     </tr>
     <tr>
+        <td nowrap="nowrap"><img width="33" alt="ZenStack" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-zenstack.png" /></td>
+        <td>Infrastructure</td>
+        <td>TypeScript</td>
+        <td><a href="https://zenstack.dev" target="_blank">ZenStack</a></td>
+        <td>Supercharges Prisma ORM with a powerful access control layer and unlocks its full potential for web development.</td>
+        <th><a href="https://github.com/zenstackhq/zenstack" target="_blank"><img alt="ZenStack" src="https://img.shields.io/github/stars/zenstackhq/zenstack?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="GitHub Support" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-dmca.png" /></td>
         <td>Miscellaneous</td>
         <td>undefined</td>
@@ -513,6 +521,14 @@
         <td><a href="https://www.hyperf.io" target="_blank">Hyperf</a></td>
         <td><g-emoji class="g-emoji" alias="rocket" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f680.png">?</g-emoji> A coroutine framework that focuses on hyperspeed and flexibility. Building microservice or middleware with ease.</td>
         <th><a href="https://github.com/hyperf/hyperf" target="_blank"><img alt="Hyperf" src="https://img.shields.io/github/stars/hyperf/hyperf?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Prometheus Operator" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-kube-prometheus.png" /></td>
+        <td>Observability</td>
+        <td>Jsonnet</td>
+        <td><a href="https://prometheus-operator.dev/" target="_blank">Prometheus Operator</a></td>
+        <td>Use Prometheus to monitor Kubernetes and applications running on Kubernetes</td>
+        <th><a href="https://github.com/prometheus-operator/kube-prometheus" target="_blank"><img alt="Prometheus Operator" src="https://img.shields.io/github/stars/prometheus-operator/kube-prometheus?style=social" /></a></th>
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="Micronaut Framework" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-micronaut-core.png" /></td>
@@ -715,14 +731,6 @@
         <th><a href="https://github.com/retracedhq/retraced" target="_blank"><img alt="Retraced" src="https://img.shields.io/github/stars/retracedhq/retraced?style=social" /></a></th>
     </tr>
     <tr>
-        <td nowrap="nowrap"><img width="33" alt="ZenStack" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-zenstack.png" /></td>
-        <td>Infrastructure</td>
-        <td>TypeScript</td>
-        <td><a href="https://zenstack.dev" target="_blank">ZenStack</a></td>
-        <td>Supercharges Prisma ORM with a powerful access control layer and unlocks its full potential for web development.</td>
-        <th><a href="https://github.com/zenstackhq/zenstack" target="_blank"><img alt="ZenStack" src="https://img.shields.io/github/stars/zenstackhq/zenstack?style=social" /></a></th>
-    </tr>
-    <tr>
         <td nowrap="nowrap"><img width="33" alt="Keep" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-keep-4.png" /></td>
         <td>Notifications</td>
         <td>Python</td>
@@ -737,6 +745,14 @@
         <td><a href="https://github.com/Erutidians/auto-dop" target="_blank">100-days-of-productivity</a></td>
         <td>becoming one percent better everyday.</td>
         <th><a href="https://github.com/plskz/100-days-of-productivity" target="_blank"><img alt="100-days-of-productivity" src="https://img.shields.io/github/stars/plskz/100-days-of-productivity?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Railtrack" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-railtrack.png" /></td>
+        <td>Analytics</td>
+        <td>TypeScript</td>
+        <td><a href="https://railtrack.ch" target="_blank">Railtrack</a></td>
+        <td>Next.js and Supabase app to track your train journeys in Europe</td>
+        <th><a href="https://github.com/noahflk/railtrack" target="_blank"><img alt="Railtrack" src="https://img.shields.io/github/stars/noahflk/railtrack?style=social" /></a></th>
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="ClusterFuzz" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-clusterfuzz.png" /></td>
@@ -1051,14 +1067,6 @@
         <th><a href="https://github.com/versatica/mediasoup" target="_blank"><img alt="mediasoup" src="https://img.shields.io/github/stars/versatica/mediasoup?style=social" /></a></th>
     </tr>
     <tr>
-        <td nowrap="nowrap"><img width="33" alt="Prometheus Operator" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-kube-prometheus.png" /></td>
-        <td>Observability</td>
-        <td>Jsonnet</td>
-        <td><a href="https://prometheus-operator.dev/" target="_blank">Prometheus Operator</a></td>
-        <td>Use Prometheus to monitor Kubernetes and applications running on Kubernetes</td>
-        <th><a href="https://github.com/prometheus-operator/kube-prometheus" target="_blank"><img alt="Prometheus Operator" src="https://img.shields.io/github/stars/prometheus-operator/kube-prometheus?style=social" /></a></th>
-    </tr>
-    <tr>
         <td nowrap="nowrap"><img width="33" alt="ntop" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-ntopng.png" /></td>
         <td>Observability</td>
         <td>Lua</td>
@@ -1105,14 +1113,6 @@
         <td><a href="https://smallstep.com/certificates" target="_blank">Smallstep</a></td>
         <td><g-emoji class="g-emoji" alias="shield" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f6e1.png">?️</g-emoji> A private certificate authority (X.509 &amp; SSH) &amp; ACME server for secure automated certificate management, so you can use TLS everywhere &amp; SSO for SSH.</td>
         <th><a href="https://github.com/smallstep/certificates" target="_blank"><img alt="Smallstep" src="https://img.shields.io/github/stars/smallstep/certificates?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Tutanota" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-tutanota.png" /></td>
-        <td>Security</td>
-        <td>TypeScript</td>
-        <td><a href="https://tutanota.com" target="_blank">Tutanota</a></td>
-        <td>Tutanota is an email service with a strong focus on security and privacy that lets you encrypt emails, contacts and calendar entries on all your devices.</td>
-        <th><a href="https://github.com/tutao/tutanota" target="_blank"><img alt="Tutanota" src="https://img.shields.io/github/stars/tutao/tutanota?style=social" /></a></th>
     </tr>
 
 </table>
@@ -1376,6 +1376,14 @@
         <th><a href="https://github.com/Frezyx/talker" target="_blank"><img alt="Talker" src="https://img.shields.io/github/stars/Frezyx/talker?style=social" /></a></th>
     </tr>
     <tr>
+        <td nowrap="nowrap"><img width="33" alt="Prometheus Operator" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-kube-prometheus.png" /></td>
+        <td>Observability</td>
+        <td>Jsonnet</td>
+        <td><a href="https://prometheus-operator.dev/" target="_blank">Prometheus Operator</a></td>
+        <td>Use Prometheus to monitor Kubernetes and applications running on Kubernetes</td>
+        <th><a href="https://github.com/prometheus-operator/kube-prometheus" target="_blank"><img alt="Prometheus Operator" src="https://img.shields.io/github/stars/prometheus-operator/kube-prometheus?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="Konva.js - JavaScript 2d canvas library" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-react-konva.png" /></td>
         <td>Observability</td>
         <td>TypeScript</td>
@@ -1398,14 +1406,6 @@
         <td><a href="https://www.zeek.org" target="_blank">Zeek</a></td>
         <td>Zeek is a powerful network analysis framework that is much different from the typical IDS you may know.</td>
         <th><a href="https://github.com/zeek/zeek" target="_blank"><img alt="Zeek" src="https://img.shields.io/github/stars/zeek/zeek?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Prometheus Operator" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-kube-prometheus.png" /></td>
-        <td>Observability</td>
-        <td>Jsonnet</td>
-        <td><a href="https://prometheus-operator.dev/" target="_blank">Prometheus Operator</a></td>
-        <td>Use Prometheus to monitor Kubernetes and applications running on Kubernetes</td>
-        <th><a href="https://github.com/prometheus-operator/kube-prometheus" target="_blank"><img alt="Prometheus Operator" src="https://img.shields.io/github/stars/prometheus-operator/kube-prometheus?style=social" /></a></th>
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="ntop" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-ntopng.png" /></td>
@@ -1526,6 +1526,14 @@
         <td><a href="https://pychat.org" target="_blank">pychat</a></td>
         <td>webchat via WebSockets/WebRTC that allows messaging/video call/screen sharing</td>
         <th><a href="https://github.com/akoidan/pychat" target="_blank"><img alt="pychat" src="https://img.shields.io/github/stars/akoidan/pychat?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Quickwit" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-quickwit.png" /></td>
+        <td>Observability</td>
+        <td>Rust</td>
+        <td><a href="https://quickwit.io" target="_blank">Quickwit</a></td>
+        <td>Sub-second search &amp; analytics engine on cloud storage</td>
+        <th><a href="https://github.com/quickwit-oss/quickwit" target="_blank"><img alt="Quickwit" src="https://img.shields.io/github/stars/quickwit-oss/quickwit?style=social" /></a></th>
     </tr>
 
 </table>
@@ -2397,6 +2405,14 @@
         <td>Free Modern URL Reducer. Make sure to share love by giving it a star.<g-emoji class="g-emoji" alias="star2" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f31f.png">?</g-emoji> Have a great day!</td>
         <th><a href="https://github.com/origranot/reduced.to" target="_blank"><img alt="reduced.to" src="https://img.shields.io/github/stars/origranot/reduced.to?style=social" /></a></th>
     </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Node decorators" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-node-decorators.jpg" /></td>
+        <td>Productivity</td>
+        <td>TypeScript</td>
+        <td><a href="https://www.linkedin.com/pulse/why-use-decorators-typescript-siddharth-kumar/" target="_blank">Node decorators</a></td>
+        <td>Typescript decorator implementation for caching and logging</td>
+        <th><a href="https://github.com/thekosmix/node-decorators" target="_blank"><img alt="Node decorators" src="https://img.shields.io/github/stars/thekosmix/node-decorators?style=social" /></a></th>
+    </tr>
 
 </table>
 
@@ -2426,6 +2442,14 @@
         <td><a href="https://chatanalytics.app" target="_blank">Chat Analytics</a></td>
         <td>Generate interactive, beautiful and insightful chat analysis reports</td>
         <th><a href="https://github.com/mlomb/chat-analytics" target="_blank"><img alt="Chat Analytics" src="https://img.shields.io/github/stars/mlomb/chat-analytics?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Railtrack" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-railtrack.png" /></td>
+        <td>Analytics</td>
+        <td>TypeScript</td>
+        <td><a href="https://railtrack.ch" target="_blank">Railtrack</a></td>
+        <td>Next.js and Supabase app to track your train journeys in Europe</td>
+        <th><a href="https://github.com/noahflk/railtrack" target="_blank"><img alt="Railtrack" src="https://img.shields.io/github/stars/noahflk/railtrack?style=social" /></a></th>
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="OneFlow" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-oneflow.png" /></td>
@@ -3194,6 +3218,14 @@
         <th><a href="https://github.com/Frezyx/sidebarx" target="_blank"><img alt="sidebarx" src="https://img.shields.io/github/stars/Frezyx/sidebarx?style=social" /></a></th>
     </tr>
     <tr>
+        <td nowrap="nowrap"><img width="33" alt="ZenStack" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-zenstack.png" /></td>
+        <td>Infrastructure</td>
+        <td>TypeScript</td>
+        <td><a href="https://zenstack.dev" target="_blank">ZenStack</a></td>
+        <td>Supercharges Prisma ORM with a powerful access control layer and unlocks its full potential for web development.</td>
+        <th><a href="https://github.com/zenstackhq/zenstack" target="_blank"><img alt="ZenStack" src="https://img.shields.io/github/stars/zenstackhq/zenstack?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="JUnitorg." src="https://libraries.github20k.com/images/uploads/2023/05/newshot-junit5.png" /></td>
         <td>Infrastructure</td>
         <td>Java</td>
@@ -3264,14 +3296,6 @@
         <td><a href="https://github.com/origranot/ts-logger" target="_blank">@origranot/ts-logger</a></td>
         <td>A powerful and easy-to-use logging and debugging package for TypeScript</td>
         <th><a href="https://github.com/origranot/ts-logger" target="_blank"><img alt="@origranot/ts-logger" src="https://img.shields.io/github/stars/origranot/ts-logger?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="ZenStack" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-zenstack.png" /></td>
-        <td>Infrastructure</td>
-        <td>TypeScript</td>
-        <td><a href="https://zenstack.dev" target="_blank">ZenStack</a></td>
-        <td>Supercharges Prisma ORM with a powerful access control layer and unlocks its full potential for web development.</td>
-        <th><a href="https://github.com/zenstackhq/zenstack" target="_blank"><img alt="ZenStack" src="https://img.shields.io/github/stars/zenstackhq/zenstack?style=social" /></a></th>
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="ClusterFuzz" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-clusterfuzz.png" /></td>
@@ -3945,6 +3969,14 @@
         <td>Baby Query is a custom implementation of the popular JavaScript library jQuery. </td>
         <th><a href="https://github.com/robiulhr/baby-query" target="_blank"><img alt="Baby Query" src="https://img.shields.io/github/stars/robiulhr/baby-query?style=social" /></a></th>
     </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Laravel Priority Queue driver" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-laravel-priority-queue.png" /></td>
+        <td>Infrastructure</td>
+        <td>PHP</td>
+        <td><a href="https://github.com/shipsaas/laravel-priority-queue" target="_blank">Laravel Priority Queue driver</a></td>
+        <td>Priority Queues driver implementation for Laravel. Utilizing DB Driver.</td>
+        <th><a href="https://github.com/shipsaas/laravel-priority-queue" target="_blank"><img alt="Laravel Priority Queue driver" src="https://img.shields.io/github/stars/shipsaas/laravel-priority-queue?style=social" /></a></th>
+    </tr>
 
 </table>
 
@@ -4007,6 +4039,14 @@
         <td><a href="https://bitwarden.com" target="_blank">Bitwarden</a></td>
         <td>Bitwarden client applications (web, browser extension, desktop, and cli)</td>
         <th><a href="https://github.com/bitwarden/clients" target="_blank"><img alt="Bitwarden" src="https://img.shields.io/github/stars/bitwarden/clients?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="ZenStack" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-zenstack.png" /></td>
+        <td>Infrastructure</td>
+        <td>TypeScript</td>
+        <td><a href="https://zenstack.dev" target="_blank">ZenStack</a></td>
+        <td>Supercharges Prisma ORM with a powerful access control layer and unlocks its full potential for web development.</td>
+        <th><a href="https://github.com/zenstackhq/zenstack" target="_blank"><img alt="ZenStack" src="https://img.shields.io/github/stars/zenstackhq/zenstack?style=social" /></a></th>
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="Hanko" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-hanko.png" /></td>
@@ -4105,20 +4145,20 @@
         <th><a href="https://github.com/retracedhq/retraced" target="_blank"><img alt="Retraced" src="https://img.shields.io/github/stars/retracedhq/retraced?style=social" /></a></th>
     </tr>
     <tr>
-        <td nowrap="nowrap"><img width="33" alt="ZenStack" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-zenstack.png" /></td>
-        <td>Infrastructure</td>
-        <td>TypeScript</td>
-        <td><a href="https://zenstack.dev" target="_blank">ZenStack</a></td>
-        <td>Supercharges Prisma ORM with a powerful access control layer and unlocks its full potential for web development.</td>
-        <th><a href="https://github.com/zenstackhq/zenstack" target="_blank"><img alt="ZenStack" src="https://img.shields.io/github/stars/zenstackhq/zenstack?style=social" /></a></th>
-    </tr>
-    <tr>
         <td nowrap="nowrap"><img width="33" alt="100-days-of-productivity" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-100-days-of-productivity.jpg" /></td>
         <td>Productivity</td>
         <td>TypeScript</td>
         <td><a href="https://github.com/Erutidians/auto-dop" target="_blank">100-days-of-productivity</a></td>
         <td>becoming one percent better everyday.</td>
         <th><a href="https://github.com/plskz/100-days-of-productivity" target="_blank"><img alt="100-days-of-productivity" src="https://img.shields.io/github/stars/plskz/100-days-of-productivity?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Railtrack" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-railtrack.png" /></td>
+        <td>Analytics</td>
+        <td>TypeScript</td>
+        <td><a href="https://railtrack.ch" target="_blank">Railtrack</a></td>
+        <td>Next.js and Supabase app to track your train journeys in Europe</td>
+        <th><a href="https://github.com/noahflk/railtrack" target="_blank"><img alt="Railtrack" src="https://img.shields.io/github/stars/noahflk/railtrack?style=social" /></a></th>
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="The Lounge" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-thelounge.png" /></td>
@@ -4496,6 +4536,14 @@
         <td>Free Modern URL Reducer. Make sure to share love by giving it a star.<g-emoji class="g-emoji" alias="star2" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f31f.png">?</g-emoji> Have a great day!</td>
         <th><a href="https://github.com/origranot/reduced.to" target="_blank"><img alt="reduced.to" src="https://img.shields.io/github/stars/origranot/reduced.to?style=social" /></a></th>
     </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Node decorators" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-node-decorators.jpg" /></td>
+        <td>Productivity</td>
+        <td>TypeScript</td>
+        <td><a href="https://www.linkedin.com/pulse/why-use-decorators-typescript-siddharth-kumar/" target="_blank">Node decorators</a></td>
+        <td>Typescript decorator implementation for caching and logging</td>
+        <th><a href="https://github.com/thekosmix/node-decorators" target="_blank"><img alt="Node decorators" src="https://img.shields.io/github/stars/thekosmix/node-decorators?style=social" /></a></th>
+    </tr>
 
 </table>
 
@@ -4637,6 +4685,14 @@
         <td><a href="http://flarum.org/" target="_blank">Flarum</a></td>
         <td>Simple forum software for building great communities.</td>
         <th><a href="https://github.com/flarum/framework" target="_blank"><img alt="Flarum" src="https://img.shields.io/github/stars/flarum/framework?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Laravel Priority Queue driver" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-laravel-priority-queue.png" /></td>
+        <td>Infrastructure</td>
+        <td>PHP</td>
+        <td><a href="https://github.com/shipsaas/laravel-priority-queue" target="_blank">Laravel Priority Queue driver</a></td>
+        <td>Priority Queues driver implementation for Laravel. Utilizing DB Driver.</td>
+        <th><a href="https://github.com/shipsaas/laravel-priority-queue" target="_blank"><img alt="Laravel Priority Queue driver" src="https://img.shields.io/github/stars/shipsaas/laravel-priority-queue?style=social" /></a></th>
     </tr>
 
 </table>
@@ -5732,6 +5788,36 @@
         <td>A highly customizable Changelog Generator that follows Conventional Commit specifications <g-emoji class="g-emoji" alias="mountain" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/26f0.png">⛰️</g-emoji> </td>
         <th><a href="https://github.com/orhun/git-cliff" target="_blank"><img alt="git-cliff" src="https://img.shields.io/github/stars/orhun/git-cliff?style=social" /></a></th>
     </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Quickwit" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-quickwit.png" /></td>
+        <td>Observability</td>
+        <td>Rust</td>
+        <td><a href="https://quickwit.io" target="_blank">Quickwit</a></td>
+        <td>Sub-second search &amp; analytics engine on cloud storage</td>
+        <th><a href="https://github.com/quickwit-oss/quickwit" target="_blank"><img alt="Quickwit" src="https://img.shields.io/github/stars/quickwit-oss/quickwit?style=social" /></a></th>
+    </tr>
+
+</table>
+
+<br /><br />
+<h2 id="jsonnet">Top 20 Jsonnet libraries</h2>
+<table>
+    <tr>
+        <th>Icon</th>
+        <th>Category</th>
+        <th>Language</th>
+        <th>Name</th>
+        <th>Description</th>
+        <th>Stargazers</th>
+    </tr>
+        <tr>
+        <td nowrap="nowrap"><img width="33" alt="Prometheus Operator" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-kube-prometheus.png" /></td>
+        <td>Observability</td>
+        <td>Jsonnet</td>
+        <td><a href="https://prometheus-operator.dev/" target="_blank">Prometheus Operator</a></td>
+        <td>Use Prometheus to monitor Kubernetes and applications running on Kubernetes</td>
+        <th><a href="https://github.com/prometheus-operator/kube-prometheus" target="_blank"><img alt="Prometheus Operator" src="https://img.shields.io/github/stars/prometheus-operator/kube-prometheus?style=social" /></a></th>
+    </tr>
 
 </table>
 
@@ -6471,28 +6557,6 @@
         <td><a href="https://fasani.de" target="_blank">Remora udpx listens to UDP short commands to trigger LED Animations. Receives ; commands from ORCΛ</a></td>
         <td>Remora udpx listens to UDP short commands to trigger LED Animations. Receives ; commands from ORCΛ</td>
         <th><a href="https://github.com/martinberlin/Remora" target="_blank"><img alt="Remora udpx listens to UDP short commands to trigger LED Animations. Receives ; commands from ORCΛ" src="https://img.shields.io/github/stars/martinberlin/Remora?style=social" /></a></th>
-    </tr>
-
-</table>
-
-<br /><br />
-<h2 id="jsonnet">Top 20 Jsonnet libraries</h2>
-<table>
-    <tr>
-        <th>Icon</th>
-        <th>Category</th>
-        <th>Language</th>
-        <th>Name</th>
-        <th>Description</th>
-        <th>Stargazers</th>
-    </tr>
-        <tr>
-        <td nowrap="nowrap"><img width="33" alt="Prometheus Operator" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-kube-prometheus.png" /></td>
-        <td>Observability</td>
-        <td>Jsonnet</td>
-        <td><a href="https://prometheus-operator.dev/" target="_blank">Prometheus Operator</a></td>
-        <td>Use Prometheus to monitor Kubernetes and applications running on Kubernetes</td>
-        <th><a href="https://github.com/prometheus-operator/kube-prometheus" target="_blank"><img alt="Prometheus Operator" src="https://img.shields.io/github/stars/prometheus-operator/kube-prometheus?style=social" /></a></th>
     </tr>
 
 </table>
