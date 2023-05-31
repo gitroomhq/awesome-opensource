@@ -212,6 +212,14 @@
         <th><a href="https://github.com/quickwit-oss/quickwit" target="_blank"><img alt="Quickwit" src="https://img.shields.io/github/stars/quickwit-oss/quickwit?style=social" /></a></th>
     </tr>
     <tr>
+        <td nowrap="nowrap"><img width="33" alt="Blazorise" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-Blazorise.png" /></td>
+        <td>Infrastructure</td>
+        <td>C#</td>
+        <td><a href="https://blazorise.com/" target="_blank">Blazorise</a></td>
+        <td>Blazorise is a component library built on top of Blazor with support for CSS frameworks like Bootstrap, Bulma, AntDesign, and Material.</td>
+        <th><a href="https://github.com/Megabit/Blazorise" target="_blank"><img alt="Blazorise" src="https://img.shields.io/github/stars/Megabit/Blazorise?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="ZenStack" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-zenstack.png" /></td>
         <td>Infrastructure</td>
         <td>TypeScript</td>
@@ -290,14 +298,6 @@
         <td><a href="https://git-cliff.org" target="_blank">git-cliff</a></td>
         <td>A highly customizable Changelog Generator that follows Conventional Commit specifications <g-emoji class="g-emoji" alias="mountain" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/26f0.png">⛰️</g-emoji> </td>
         <th><a href="https://github.com/orhun/git-cliff" target="_blank"><img alt="git-cliff" src="https://img.shields.io/github/stars/orhun/git-cliff?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="uicollectionview layouts kit" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-uicollectionview-layouts-kit.jpg" /></td>
-        <td>Miscellaneous</td>
-        <td>Swift</td>
-        <td><a href="https://github.com/eleev/uicollectionview-layouts-kit" target="_blank">uicollectionview layouts kit</a></td>
-        <td><g-emoji class="g-emoji" alias="triangular_ruler" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4d0.png">?</g-emoji>Custom layouts for UICollectionView with examples [iOS 12+].</td>
-        <th><a href="https://github.com/eleev/uicollectionview-layouts-kit" target="_blank"><img alt="uicollectionview layouts kit" src="https://img.shields.io/github/stars/eleev/uicollectionview-layouts-kit?style=social" /></a></th>
     </tr>
 
 </table>
@@ -3977,6 +3977,14 @@
         <td>Priority Queues driver implementation for Laravel. Utilizing DB Driver.</td>
         <th><a href="https://github.com/shipsaas/laravel-priority-queue" target="_blank"><img alt="Laravel Priority Queue driver" src="https://img.shields.io/github/stars/shipsaas/laravel-priority-queue?style=social" /></a></th>
     </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Blazorise" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-Blazorise.png" /></td>
+        <td>Infrastructure</td>
+        <td>C#</td>
+        <td><a href="https://blazorise.com/" target="_blank">Blazorise</a></td>
+        <td>Blazorise is a component library built on top of Blazor with support for CSS frameworks like Bootstrap, Bulma, AntDesign, and Material.</td>
+        <th><a href="https://github.com/Megabit/Blazorise" target="_blank"><img alt="Blazorise" src="https://img.shields.io/github/stars/Megabit/Blazorise?style=social" /></a></th>
+    </tr>
 
 </table>
 
@@ -5903,6 +5911,14 @@
         <td><a href="https://aka.ms/FASTER" target="_blank">FASTER</a></td>
         <td>Fast persistent recoverable log and key-value store + cache, in C# and C++.</td>
         <th><a href="https://github.com/microsoft/FASTER" target="_blank"><img alt="FASTER" src="https://img.shields.io/github/stars/microsoft/FASTER?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Blazorise" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-Blazorise.png" /></td>
+        <td>Infrastructure</td>
+        <td>C#</td>
+        <td><a href="https://blazorise.com/" target="_blank">Blazorise</a></td>
+        <td>Blazorise is a component library built on top of Blazor with support for CSS frameworks like Bootstrap, Bulma, AntDesign, and Material.</td>
+        <th><a href="https://github.com/Megabit/Blazorise" target="_blank"><img alt="Blazorise" src="https://img.shields.io/github/stars/Megabit/Blazorise?style=social" /></a></th>
     </tr>
 
 </table>
