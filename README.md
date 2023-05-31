@@ -220,6 +220,38 @@
         <th><a href="https://github.com/orhun/git-cliff" target="_blank"><img alt="git-cliff" src="https://img.shields.io/github/stars/orhun/git-cliff?style=social" /></a></th>
     </tr>
     <tr>
+        <td nowrap="nowrap"><img width="33" alt="uicollectionview layouts kit" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-uicollectionview-layouts-kit.jpg" /></td>
+        <td>Miscellaneous</td>
+        <td>Swift</td>
+        <td><a href="https://github.com/eleev/uicollectionview-layouts-kit" target="_blank">uicollectionview layouts kit</a></td>
+        <td><g-emoji class="g-emoji" alias="triangular_ruler" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4d0.png">?</g-emoji>Custom layouts for UICollectionView with examples [iOS 12+].</td>
+        <th><a href="https://github.com/eleev/uicollectionview-layouts-kit" target="_blank"><img alt="uicollectionview layouts kit" src="https://img.shields.io/github/stars/eleev/uicollectionview-layouts-kit?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="compositional layouts kit" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-compositional-layouts-kit.jpg" /></td>
+        <td>Miscellaneous</td>
+        <td>Swift</td>
+        <td><a href="https://github.com/eleev/compositional-layouts-kit" target="_blank">compositional layouts kit</a></td>
+        <td><g-emoji class="g-emoji" alias="straight_ruler" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4cf.png">?</g-emoji> Advanced compositional layouts for UICollectionView [iOS 13+].</td>
+        <th><a href="https://github.com/eleev/compositional-layouts-kit" target="_blank"><img alt="compositional layouts kit" src="https://img.shields.io/github/stars/eleev/compositional-layouts-kit?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="swift design patterns" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-swift-design-patterns.jpg" /></td>
+        <td>Miscellaneous</td>
+        <td>Swift</td>
+        <td><a href="https://github.com/eleev/swift-design-patterns" target="_blank">swift design patterns</a></td>
+        <td><g-emoji class="g-emoji" alias="rocket" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f680.png">?</g-emoji> The ultimate collection of Software Design Patterns &amp; Principles with examples [38/79 Patterns]. </td>
+        <th><a href="https://github.com/eleev/swift-design-patterns" target="_blank"><img alt="swift design patterns" src="https://img.shields.io/github/stars/eleev/swift-design-patterns?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="skcomponents kit" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-skcomponents-kit.jpg" /></td>
+        <td>Miscellaneous</td>
+        <td>Swift</td>
+        <td><a href="https://github.com/eleev/skcomponents-kit" target="_blank">skcomponents kit</a></td>
+        <td><g-emoji class="g-emoji" alias="alembic" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2697.png">⚗️</g-emoji> Collection of SpriteKit components for intermediate/advanced use cases.</td>
+        <th><a href="https://github.com/eleev/skcomponents-kit" target="_blank"><img alt="skcomponents kit" src="https://img.shields.io/github/stars/eleev/skcomponents-kit?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="Overlay" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-overlay.png" /></td>
         <td>Security</td>
         <td>HTML</td>
@@ -266,38 +298,6 @@
         <td><a href="https://chatanalytics.app" target="_blank">Chat Analytics</a></td>
         <td>Generate interactive, beautiful and insightful chat analysis reports</td>
         <th><a href="https://github.com/mlomb/chat-analytics" target="_blank"><img alt="Chat Analytics" src="https://img.shields.io/github/stars/mlomb/chat-analytics?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="@origranot/ts-logger" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-ts-logger.png" /></td>
-        <td>Infrastructure</td>
-        <td>TypeScript</td>
-        <td><a href="https://github.com/origranot/ts-logger" target="_blank">@origranot/ts-logger</a></td>
-        <td>A powerful and easy-to-use logging and debugging package for TypeScript</td>
-        <th><a href="https://github.com/origranot/ts-logger" target="_blank"><img alt="@origranot/ts-logger" src="https://img.shields.io/github/stars/origranot/ts-logger?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Telenode" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-telenode.png" /></td>
-        <td>Notifications</td>
-        <td>JavaScript</td>
-        <td><a href="https://github.com/NivEz/telenode" target="_blank">Telenode</a></td>
-        <td>Lightweight Telegram API framework for Node.js</td>
-        <th><a href="https://github.com/NivEz/telenode" target="_blank"><img alt="Telenode" src="https://img.shields.io/github/stars/NivEz/telenode?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Eventual Shop" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-EventualShop.jpg" /></td>
-        <td>Miscellaneous</td>
-        <td>C#</td>
-        <td><a href="https://github.com/AntonioFalcaoJr/EventualShop/blob/release/README.md#bulb-about" target="_blank">Eventual Shop</a></td>
-        <td>A state-of-the-art distributed system using Reactive DDD as uncertainty modeling, Event Storming as subdomain decomposition, Event Sourcing as an eventual persistence mechanism, CQRS, Async Project…</td>
-        <th><a href="https://github.com/AntonioFalcaoJr/EventualShop" target="_blank"><img alt="Eventual Shop" src="https://img.shields.io/github/stars/AntonioFalcaoJr/EventualShop?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="eslint-plugin-safe-jsx" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-safe-jsx.png" /></td>
-        <td>Miscellaneous</td>
-        <td>TypeScript</td>
-        <td><a href="https://github.com/GSTJ/safe-jsx" target="_blank">eslint-plugin-safe-jsx</a></td>
-        <td>An ESLint plugin that enforces explicit boolean conversion before using the &amp;&amp; operator with JSX in React and React Native applications.</td>
-        <th><a href="https://github.com/GSTJ/safe-jsx" target="_blank"><img alt="eslint-plugin-safe-jsx" src="https://img.shields.io/github/stars/GSTJ/safe-jsx?style=social" /></a></th>
     </tr>
 
 </table>
@@ -395,6 +395,14 @@
         <th><a href="https://github.com/awesomeWM/awesome" target="_blank"><img alt="awesome window manager" src="https://img.shields.io/github/stars/awesomeWM/awesome?style=social" /></a></th>
     </tr>
     <tr>
+        <td nowrap="nowrap"><img width="33" alt="Bitwarden" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-clients-1.png" /></td>
+        <td>Security</td>
+        <td>TypeScript</td>
+        <td><a href="https://bitwarden.com" target="_blank">Bitwarden</a></td>
+        <td>Bitwarden client applications (web, browser extension, desktop, and cli)</td>
+        <th><a href="https://github.com/bitwarden/clients" target="_blank"><img alt="Bitwarden" src="https://img.shields.io/github/stars/bitwarden/clients?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="group_button" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-group_button.jpg" /></td>
         <td>Infrastructure</td>
         <td>Dart</td>
@@ -433,14 +441,6 @@
         <td><a href="https://junit.org" target="_blank">JUnitorg.</a></td>
         <td><g-emoji class="g-emoji" alias="white_check_mark" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2705.png">✅</g-emoji> The 5th major version of the programmer-friendly testing framework for Java and the JVM</td>
         <th><a href="https://github.com/junit-team/junit5" target="_blank"><img alt="JUnitorg." src="https://img.shields.io/github/stars/junit-team/junit5?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Bitwarden" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-clients-1.png" /></td>
-        <td>Security</td>
-        <td>TypeScript</td>
-        <td><a href="https://bitwarden.com" target="_blank">Bitwarden</a></td>
-        <td>Bitwarden client applications (web, browser extension, desktop, and cli)</td>
-        <th><a href="https://github.com/bitwarden/clients" target="_blank"><img alt="Bitwarden" src="https://img.shields.io/github/stars/bitwarden/clients?style=social" /></a></th>
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="Hanko" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-hanko.png" /></td>
@@ -1312,6 +1312,38 @@
         <td><a href="https://github.com/GSTJ/pegava-dating-app" target="_blank">pegava-dating-app</a></td>
         <td><g-emoji class="g-emoji" alias="sparkling_heart" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f496.png">?</g-emoji> A place to get some love. Pegava is a beautiful dating app made in React Native. </td>
         <th><a href="https://github.com/GSTJ/pegava-dating-app" target="_blank"><img alt="pegava-dating-app" src="https://img.shields.io/github/stars/GSTJ/pegava-dating-app?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="uicollectionview layouts kit" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-uicollectionview-layouts-kit.jpg" /></td>
+        <td>Miscellaneous</td>
+        <td>Swift</td>
+        <td><a href="https://github.com/eleev/uicollectionview-layouts-kit" target="_blank">uicollectionview layouts kit</a></td>
+        <td><g-emoji class="g-emoji" alias="triangular_ruler" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4d0.png">?</g-emoji>Custom layouts for UICollectionView with examples [iOS 12+].</td>
+        <th><a href="https://github.com/eleev/uicollectionview-layouts-kit" target="_blank"><img alt="uicollectionview layouts kit" src="https://img.shields.io/github/stars/eleev/uicollectionview-layouts-kit?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="compositional layouts kit" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-compositional-layouts-kit.jpg" /></td>
+        <td>Miscellaneous</td>
+        <td>Swift</td>
+        <td><a href="https://github.com/eleev/compositional-layouts-kit" target="_blank">compositional layouts kit</a></td>
+        <td><g-emoji class="g-emoji" alias="straight_ruler" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4cf.png">?</g-emoji> Advanced compositional layouts for UICollectionView [iOS 13+].</td>
+        <th><a href="https://github.com/eleev/compositional-layouts-kit" target="_blank"><img alt="compositional layouts kit" src="https://img.shields.io/github/stars/eleev/compositional-layouts-kit?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="swift design patterns" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-swift-design-patterns.jpg" /></td>
+        <td>Miscellaneous</td>
+        <td>Swift</td>
+        <td><a href="https://github.com/eleev/swift-design-patterns" target="_blank">swift design patterns</a></td>
+        <td><g-emoji class="g-emoji" alias="rocket" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f680.png">?</g-emoji> The ultimate collection of Software Design Patterns &amp; Principles with examples [38/79 Patterns]. </td>
+        <th><a href="https://github.com/eleev/swift-design-patterns" target="_blank"><img alt="swift design patterns" src="https://img.shields.io/github/stars/eleev/swift-design-patterns?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="skcomponents kit" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-skcomponents-kit.jpg" /></td>
+        <td>Miscellaneous</td>
+        <td>Swift</td>
+        <td><a href="https://github.com/eleev/skcomponents-kit" target="_blank">skcomponents kit</a></td>
+        <td><g-emoji class="g-emoji" alias="alembic" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2697.png">⚗️</g-emoji> Collection of SpriteKit components for intermediate/advanced use cases.</td>
+        <th><a href="https://github.com/eleev/skcomponents-kit" target="_blank"><img alt="skcomponents kit" src="https://img.shields.io/github/stars/eleev/skcomponents-kit?style=social" /></a></th>
     </tr>
 
 </table>
@@ -6563,6 +6595,38 @@
         <td><a href="https://blink.sh" target="_blank">Blink Shell</a></td>
         <td>Blink Mobile Shell for iOS (Mosh based)</td>
         <th><a href="https://github.com/blinksh/blink" target="_blank"><img alt="Blink Shell" src="https://img.shields.io/github/stars/blinksh/blink?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="uicollectionview layouts kit" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-uicollectionview-layouts-kit.jpg" /></td>
+        <td>Miscellaneous</td>
+        <td>Swift</td>
+        <td><a href="https://github.com/eleev/uicollectionview-layouts-kit" target="_blank">uicollectionview layouts kit</a></td>
+        <td><g-emoji class="g-emoji" alias="triangular_ruler" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4d0.png">?</g-emoji>Custom layouts for UICollectionView with examples [iOS 12+].</td>
+        <th><a href="https://github.com/eleev/uicollectionview-layouts-kit" target="_blank"><img alt="uicollectionview layouts kit" src="https://img.shields.io/github/stars/eleev/uicollectionview-layouts-kit?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="compositional layouts kit" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-compositional-layouts-kit.jpg" /></td>
+        <td>Miscellaneous</td>
+        <td>Swift</td>
+        <td><a href="https://github.com/eleev/compositional-layouts-kit" target="_blank">compositional layouts kit</a></td>
+        <td><g-emoji class="g-emoji" alias="straight_ruler" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4cf.png">?</g-emoji> Advanced compositional layouts for UICollectionView [iOS 13+].</td>
+        <th><a href="https://github.com/eleev/compositional-layouts-kit" target="_blank"><img alt="compositional layouts kit" src="https://img.shields.io/github/stars/eleev/compositional-layouts-kit?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="swift design patterns" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-swift-design-patterns.jpg" /></td>
+        <td>Miscellaneous</td>
+        <td>Swift</td>
+        <td><a href="https://github.com/eleev/swift-design-patterns" target="_blank">swift design patterns</a></td>
+        <td><g-emoji class="g-emoji" alias="rocket" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f680.png">?</g-emoji> The ultimate collection of Software Design Patterns &amp; Principles with examples [38/79 Patterns]. </td>
+        <th><a href="https://github.com/eleev/swift-design-patterns" target="_blank"><img alt="swift design patterns" src="https://img.shields.io/github/stars/eleev/swift-design-patterns?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="skcomponents kit" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-skcomponents-kit.jpg" /></td>
+        <td>Miscellaneous</td>
+        <td>Swift</td>
+        <td><a href="https://github.com/eleev/skcomponents-kit" target="_blank">skcomponents kit</a></td>
+        <td><g-emoji class="g-emoji" alias="alembic" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2697.png">⚗️</g-emoji> Collection of SpriteKit components for intermediate/advanced use cases.</td>
+        <th><a href="https://github.com/eleev/skcomponents-kit" target="_blank"><img alt="skcomponents kit" src="https://img.shields.io/github/stars/eleev/skcomponents-kit?style=social" /></a></th>
     </tr>
 
 </table>
