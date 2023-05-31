@@ -140,6 +140,14 @@
         <th>Stargazers</th>
     </tr>
         <tr>
+        <td nowrap="nowrap"><img width="33" alt="Java Backend for FB Chatbot" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-Java-FbChatBot.jpg" /></td>
+        <td>Miscellaneous</td>
+        <td>Java</td>
+        <td><a href="https://www.linkedin.com/pulse/why-build-your-chat-bot-fb-messenger-siddharth-kumar" target="_blank">Java Backend for FB Chatbot</a></td>
+        <td>Messenger webhook implementation in java with jetty, contracts of facebook messenger webhook</td>
+        <th><a href="https://github.com/thekosmix/Java-FbChatBot" target="_blank"><img alt="Java Backend for FB Chatbot" src="https://img.shields.io/github/stars/thekosmix/Java-FbChatBot?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="MacawFramework" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-macaw_framework.jpg" /></td>
         <td>Miscellaneous</td>
         <td>Ruby</td>
@@ -290,14 +298,6 @@
         <td><a href="https://github.com/WasiqB/multiple-cucumber-html-reporter/blob/main/README.md" target="_blank">multiple-cucumber-html-reporter</a></td>
         <td>Generate beautiful Cucumber HTML reports</td>
         <th><a href="https://github.com/WasiqB/multiple-cucumber-html-reporter" target="_blank"><img alt="multiple-cucumber-html-reporter" src="https://img.shields.io/github/stars/WasiqB/multiple-cucumber-html-reporter?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Chat Analytics" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-chat-analytics.jpg" /></td>
-        <td>Analytics</td>
-        <td>TypeScript</td>
-        <td><a href="https://chatanalytics.app" target="_blank">Chat Analytics</a></td>
-        <td>Generate interactive, beautiful and insightful chat analysis reports</td>
-        <th><a href="https://github.com/mlomb/chat-analytics" target="_blank"><img alt="Chat Analytics" src="https://img.shields.io/github/stars/mlomb/chat-analytics?style=social" /></a></th>
     </tr>
 
 </table>
@@ -1344,6 +1344,14 @@
         <td><a href="https://github.com/eleev/skcomponents-kit" target="_blank">skcomponents kit</a></td>
         <td><g-emoji class="g-emoji" alias="alembic" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2697.png">⚗️</g-emoji> Collection of SpriteKit components for intermediate/advanced use cases.</td>
         <th><a href="https://github.com/eleev/skcomponents-kit" target="_blank"><img alt="skcomponents kit" src="https://img.shields.io/github/stars/eleev/skcomponents-kit?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Java Backend for FB Chatbot" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-Java-FbChatBot.jpg" /></td>
+        <td>Miscellaneous</td>
+        <td>Java</td>
+        <td><a href="https://www.linkedin.com/pulse/why-build-your-chat-bot-fb-messenger-siddharth-kumar" target="_blank">Java Backend for FB Chatbot</a></td>
+        <td>Messenger webhook implementation in java with jetty, contracts of facebook messenger webhook</td>
+        <th><a href="https://github.com/thekosmix/Java-FbChatBot" target="_blank"><img alt="Java Backend for FB Chatbot" src="https://img.shields.io/github/stars/thekosmix/Java-FbChatBot?style=social" /></a></th>
     </tr>
 
 </table>
@@ -5131,6 +5139,14 @@
         <td><a href="https://capgo.app" target="_blank">Capacitor updater</a></td>
         <td>Live update for capacitor apps</td>
         <th><a href="https://github.com/Cap-go/capacitor-updater" target="_blank"><img alt="Capacitor updater" src="https://img.shields.io/github/stars/Cap-go/capacitor-updater?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Java Backend for FB Chatbot" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-Java-FbChatBot.jpg" /></td>
+        <td>Miscellaneous</td>
+        <td>Java</td>
+        <td><a href="https://www.linkedin.com/pulse/why-build-your-chat-bot-fb-messenger-siddharth-kumar" target="_blank">Java Backend for FB Chatbot</a></td>
+        <td>Messenger webhook implementation in java with jetty, contracts of facebook messenger webhook</td>
+        <th><a href="https://github.com/thekosmix/Java-FbChatBot" target="_blank"><img alt="Java Backend for FB Chatbot" src="https://img.shields.io/github/stars/thekosmix/Java-FbChatBot?style=social" /></a></th>
     </tr>
 
 </table>
