@@ -62,6 +62,8 @@
              </li>          <li>
                 <a href="#jsonnet">Top 20 Jsonnet libraries</a>
              </li>          <li>
+                <a href="#clojure">Top 20 Clojure libraries</a>
+             </li>          <li>
                 <a href="#c">Top 20 C# libraries</a>
              </li>          <li>
                 <a href="#go">Top 20 Go libraries</a>
@@ -73,8 +75,6 @@
                 <a href="#vue">Top 20 Vue libraries</a>
              </li>          <li>
                 <a href="#c++">Top 20 C++ libraries</a>
-             </li>          <li>
-                <a href="#clojure">Top 20 Clojure libraries</a>
              </li>          <li>
                 <a href="#c">Top 20 C libraries</a>
              </li>          <li>
@@ -529,6 +529,14 @@
         <td><a href="https://prometheus-operator.dev/" target="_blank">Prometheus Operator</a></td>
         <td>Use Prometheus to monitor Kubernetes and applications running on Kubernetes</td>
         <th><a href="https://github.com/prometheus-operator/kube-prometheus" target="_blank"><img alt="Prometheus Operator" src="https://img.shields.io/github/stars/prometheus-operator/kube-prometheus?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="re-frame" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-re-frame.png" /></td>
+        <td>Infrastructure</td>
+        <td>Clojure</td>
+        <td><a href="http://day8.github.io/re-frame/" target="_blank">re-frame</a></td>
+        <td>A ClojureScript framework for building user interfaces, leveraging React</td>
+        <th><a href="https://github.com/day8/re-frame" target="_blank"><img alt="re-frame" src="https://img.shields.io/github/stars/day8/re-frame?style=social" /></a></th>
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="Micronaut Framework" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-micronaut-core.png" /></td>
@@ -1089,14 +1097,6 @@
         <td><a href="https://flet.dev" target="_blank">Flet</a></td>
         <td>Flet enables developers to easily build realtime web, mobile and desktop apps in Python. No frontend experience required.</td>
         <th><a href="https://github.com/flet-dev/flet" target="_blank"><img alt="Flet" src="https://img.shields.io/github/stars/flet-dev/flet?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="re-frame" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-re-frame.png" /></td>
-        <td>Infrastructure</td>
-        <td>Clojure</td>
-        <td><a href="http://day8.github.io/re-frame/" target="_blank">re-frame</a></td>
-        <td>A ClojureScript framework for building user interfaces, leveraging React</td>
-        <th><a href="https://github.com/day8/re-frame" target="_blank"><img alt="re-frame" src="https://img.shields.io/github/stars/day8/re-frame?style=social" /></a></th>
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="DocsGPT" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-DocsGPT.png" /></td>
@@ -3250,6 +3250,14 @@
         <th><a href="https://github.com/hyperf/hyperf" target="_blank"><img alt="Hyperf" src="https://img.shields.io/github/stars/hyperf/hyperf?style=social" /></a></th>
     </tr>
     <tr>
+        <td nowrap="nowrap"><img width="33" alt="re-frame" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-re-frame.png" /></td>
+        <td>Infrastructure</td>
+        <td>Clojure</td>
+        <td><a href="http://day8.github.io/re-frame/" target="_blank">re-frame</a></td>
+        <td>A ClojureScript framework for building user interfaces, leveraging React</td>
+        <th><a href="https://github.com/day8/re-frame" target="_blank"><img alt="re-frame" src="https://img.shields.io/github/stars/day8/re-frame?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="Micronaut Framework" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-micronaut-core.png" /></td>
         <td>Infrastructure</td>
         <td>Java</td>
@@ -3376,14 +3384,6 @@
         <td><a href="https://mediasoup.org" target="_blank">mediasoup</a></td>
         <td>Cutting Edge WebRTC Video Conferencing</td>
         <th><a href="https://github.com/versatica/mediasoup" target="_blank"><img alt="mediasoup" src="https://img.shields.io/github/stars/versatica/mediasoup?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="re-frame" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-re-frame.png" /></td>
-        <td>Infrastructure</td>
-        <td>Clojure</td>
-        <td><a href="http://day8.github.io/re-frame/" target="_blank">re-frame</a></td>
-        <td>A ClojureScript framework for building user interfaces, leveraging React</td>
-        <th><a href="https://github.com/day8/re-frame" target="_blank"><img alt="re-frame" src="https://img.shields.io/github/stars/day8/re-frame?style=social" /></a></th>
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="MudBlazor" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-MudBlazor.png" /></td>
@@ -5830,6 +5830,28 @@
 </table>
 
 <br /><br />
+<h2 id="clojure">Top 20 Clojure libraries</h2>
+<table>
+    <tr>
+        <th>Icon</th>
+        <th>Category</th>
+        <th>Language</th>
+        <th>Name</th>
+        <th>Description</th>
+        <th>Stargazers</th>
+    </tr>
+        <tr>
+        <td nowrap="nowrap"><img width="33" alt="re-frame" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-re-frame.png" /></td>
+        <td>Infrastructure</td>
+        <td>Clojure</td>
+        <td><a href="http://day8.github.io/re-frame/" target="_blank">re-frame</a></td>
+        <td>A ClojureScript framework for building user interfaces, leveraging React</td>
+        <th><a href="https://github.com/day8/re-frame" target="_blank"><img alt="re-frame" src="https://img.shields.io/github/stars/day8/re-frame?style=social" /></a></th>
+    </tr>
+
+</table>
+
+<br /><br />
 <h2 id="c">Top 20 C# libraries</h2>
 <table>
     <tr>
@@ -6573,28 +6595,6 @@
         <td><a href="https://fasani.de" target="_blank">Remora udpx listens to UDP short commands to trigger LED Animations. Receives ; commands from ORCΛ</a></td>
         <td>Remora udpx listens to UDP short commands to trigger LED Animations. Receives ; commands from ORCΛ</td>
         <th><a href="https://github.com/martinberlin/Remora" target="_blank"><img alt="Remora udpx listens to UDP short commands to trigger LED Animations. Receives ; commands from ORCΛ" src="https://img.shields.io/github/stars/martinberlin/Remora?style=social" /></a></th>
-    </tr>
-
-</table>
-
-<br /><br />
-<h2 id="clojure">Top 20 Clojure libraries</h2>
-<table>
-    <tr>
-        <th>Icon</th>
-        <th>Category</th>
-        <th>Language</th>
-        <th>Name</th>
-        <th>Description</th>
-        <th>Stargazers</th>
-    </tr>
-        <tr>
-        <td nowrap="nowrap"><img width="33" alt="re-frame" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-re-frame.png" /></td>
-        <td>Infrastructure</td>
-        <td>Clojure</td>
-        <td><a href="http://day8.github.io/re-frame/" target="_blank">re-frame</a></td>
-        <td>A ClojureScript framework for building user interfaces, leveraging React</td>
-        <th><a href="https://github.com/day8/re-frame" target="_blank"><img alt="re-frame" src="https://img.shields.io/github/stars/day8/re-frame?style=social" /></a></th>
     </tr>
 
 </table>
