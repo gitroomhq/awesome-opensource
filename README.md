@@ -140,6 +140,30 @@
         <th>Stargazers</th>
     </tr>
         <tr>
+        <td nowrap="nowrap"><img width="33" alt="PoeticMetric" src="https://libraries.github20k.com/images/uploads/2023/06/newshot-poeticmetric.jpg" /></td>
+        <td>Analytics</td>
+        <td>TypeScript</td>
+        <td><a href="https://www.poeticmetric.com" target="_blank">PoeticMetric</a></td>
+        <td>PoeticMetric is a free as in freedom, open source, privacy-first, regulation-compliant, and blazingly fast Google Analytics alternative.</td>
+        <th><a href="https://github.com/th0th/poeticmetric" target="_blank"><img alt="PoeticMetric" src="https://img.shields.io/github/stars/th0th/poeticmetric?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="scalecast" src="https://libraries.github20k.com/images/uploads/2023/06/newshot-scalecast.jpg" /></td>
+        <td>Analytics</td>
+        <td>Python</td>
+        <td><a href="https://github.com/mikekeith52/scalecast" target="_blank">scalecast</a></td>
+        <td>The practitioner's forecasting library</td>
+        <th><a href="https://github.com/mikekeith52/scalecast" target="_blank"><img alt="scalecast" src="https://img.shields.io/github/stars/mikekeith52/scalecast?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Laravel Priority Queue driver" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-laravel-priority-queue.png" /></td>
+        <td>Infrastructure</td>
+        <td>PHP</td>
+        <td><a href="https://github.com/shipsaas/laravel-priority-queue" target="_blank">Laravel Priority Queue driver</a></td>
+        <td>Priority Queues driver implementation for Laravel. Utilizing DB Driver.</td>
+        <th><a href="https://github.com/shipsaas/laravel-priority-queue" target="_blank"><img alt="Laravel Priority Queue driver" src="https://img.shields.io/github/stars/shipsaas/laravel-priority-queue?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="Fleetbase" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-fleetbase.png" /></td>
         <td>Productivity</td>
         <td>PHP</td>
@@ -170,14 +194,6 @@
         <td><a href="https://railtrack.ch" target="_blank">Railtrack</a></td>
         <td>Next.js and Supabase app to track your train journeys in Europe</td>
         <th><a href="https://github.com/noahflk/railtrack" target="_blank"><img alt="Railtrack" src="https://img.shields.io/github/stars/noahflk/railtrack?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Laravel Priority Queue driver" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-laravel-priority-queue.png" /></td>
-        <td>Infrastructure</td>
-        <td>PHP</td>
-        <td><a href="https://github.com/shipsaas/laravel-priority-queue" target="_blank">Laravel Priority Queue driver</a></td>
-        <td>Priority Queues driver implementation for Laravel. Utilizing DB Driver.</td>
-        <th><a href="https://github.com/shipsaas/laravel-priority-queue" target="_blank"><img alt="Laravel Priority Queue driver" src="https://img.shields.io/github/stars/shipsaas/laravel-priority-queue?style=social" /></a></th>
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="Java Backend for FB Chatbot" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-Java-FbChatBot.jpg" /></td>
@@ -282,22 +298,6 @@
         <td><a href="https://robby-chatbot.com" target="_blank">Robby-chatbot</a></td>
         <td>AI chatbot <g-emoji class="g-emoji" alias="robot" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f916.png">?</g-emoji> for chat with your CSV, PDF, TXT files <g-emoji class="g-emoji" alias="page_facing_up" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c4.png">?</g-emoji> | using Langchain<g-emoji class="g-emoji" alias="parrot" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f99c.png">?</g-emoji> | OpenAI | Streamlit <g-emoji class="g-emoji" alias="zap" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/26a1.png">⚡</g-emoji></td>
         <th><a href="https://github.com/yvann-hub/Robby-chatbot" target="_blank"><img alt="Robby-chatbot" src="https://img.shields.io/github/stars/yvann-hub/Robby-chatbot?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="SAML Jackson" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-jackson.png" /></td>
-        <td>Security</td>
-        <td>TypeScript</td>
-        <td><a href="https://boxyhq.com/docs/jackson/overview" target="_blank">SAML Jackson</a></td>
-        <td>An Enterprise SAML single sign-on service designed as an OAuth 2.0 flow. Integrate SAML and OIDC SSO with just a few lines of code.</td>
-        <th><a href="https://github.com/boxyhq/jackson" target="_blank"><img alt="SAML Jackson" src="https://img.shields.io/github/stars/boxyhq/jackson?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="git-cliff" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-git-cliff.jpg" /></td>
-        <td>Productivity</td>
-        <td>Rust</td>
-        <td><a href="https://git-cliff.org" target="_blank">git-cliff</a></td>
-        <td>A highly customizable Changelog Generator that follows Conventional Commit specifications <g-emoji class="g-emoji" alias="mountain" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/26f0.png">⛰️</g-emoji> </td>
-        <th><a href="https://github.com/orhun/git-cliff" target="_blank"><img alt="git-cliff" src="https://img.shields.io/github/stars/orhun/git-cliff?style=social" /></a></th>
     </tr>
 
 </table>
@@ -441,6 +441,14 @@
         <td><a href="https://zenstack.dev" target="_blank">ZenStack</a></td>
         <td>Supercharges Prisma ORM with a powerful access control layer and unlocks its full potential for web development.</td>
         <th><a href="https://github.com/zenstackhq/zenstack" target="_blank"><img alt="ZenStack" src="https://img.shields.io/github/stars/zenstackhq/zenstack?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Laravel Priority Queue driver" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-laravel-priority-queue.png" /></td>
+        <td>Infrastructure</td>
+        <td>PHP</td>
+        <td><a href="https://github.com/shipsaas/laravel-priority-queue" target="_blank">Laravel Priority Queue driver</a></td>
+        <td>Priority Queues driver implementation for Laravel. Utilizing DB Driver.</td>
+        <th><a href="https://github.com/shipsaas/laravel-priority-queue" target="_blank"><img alt="Laravel Priority Queue driver" src="https://img.shields.io/github/stars/shipsaas/laravel-priority-queue?style=social" /></a></th>
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="GitHub Support" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-dmca.png" /></td>
@@ -761,14 +769,6 @@
         <td><a href="https://railtrack.ch" target="_blank">Railtrack</a></td>
         <td>Next.js and Supabase app to track your train journeys in Europe</td>
         <th><a href="https://github.com/noahflk/railtrack" target="_blank"><img alt="Railtrack" src="https://img.shields.io/github/stars/noahflk/railtrack?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Laravel Priority Queue driver" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-laravel-priority-queue.png" /></td>
-        <td>Infrastructure</td>
-        <td>PHP</td>
-        <td><a href="https://github.com/shipsaas/laravel-priority-queue" target="_blank">Laravel Priority Queue driver</a></td>
-        <td>Priority Queues driver implementation for Laravel. Utilizing DB Driver.</td>
-        <th><a href="https://github.com/shipsaas/laravel-priority-queue" target="_blank"><img alt="Laravel Priority Queue driver" src="https://img.shields.io/github/stars/shipsaas/laravel-priority-queue?style=social" /></a></th>
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="ClusterFuzz" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-clusterfuzz.png" /></td>
@@ -2523,6 +2523,22 @@
         <td>SeaTunnel is a distributed, high-performance data integration platform for the synchronization and transformation of massive data (offline &amp; real-time).</td>
         <th><a href="https://github.com/apache/incubator-seatunnel" target="_blank"><img alt="Apache SeaTunnel" src="https://img.shields.io/github/stars/apache/incubator-seatunnel?style=social" /></a></th>
     </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="PoeticMetric" src="https://libraries.github20k.com/images/uploads/2023/06/newshot-poeticmetric.jpg" /></td>
+        <td>Analytics</td>
+        <td>TypeScript</td>
+        <td><a href="https://www.poeticmetric.com" target="_blank">PoeticMetric</a></td>
+        <td>PoeticMetric is a free as in freedom, open source, privacy-first, regulation-compliant, and blazingly fast Google Analytics alternative.</td>
+        <th><a href="https://github.com/th0th/poeticmetric" target="_blank"><img alt="PoeticMetric" src="https://img.shields.io/github/stars/th0th/poeticmetric?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="scalecast" src="https://libraries.github20k.com/images/uploads/2023/06/newshot-scalecast.jpg" /></td>
+        <td>Analytics</td>
+        <td>Python</td>
+        <td><a href="https://github.com/mikekeith52/scalecast" target="_blank">scalecast</a></td>
+        <td>The practitioner's forecasting library</td>
+        <th><a href="https://github.com/mikekeith52/scalecast" target="_blank"><img alt="scalecast" src="https://img.shields.io/github/stars/mikekeith52/scalecast?style=social" /></a></th>
+    </tr>
 
 </table>
 
@@ -3226,6 +3242,14 @@
         <th><a href="https://github.com/zenstackhq/zenstack" target="_blank"><img alt="ZenStack" src="https://img.shields.io/github/stars/zenstackhq/zenstack?style=social" /></a></th>
     </tr>
     <tr>
+        <td nowrap="nowrap"><img width="33" alt="Laravel Priority Queue driver" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-laravel-priority-queue.png" /></td>
+        <td>Infrastructure</td>
+        <td>PHP</td>
+        <td><a href="https://github.com/shipsaas/laravel-priority-queue" target="_blank">Laravel Priority Queue driver</a></td>
+        <td>Priority Queues driver implementation for Laravel. Utilizing DB Driver.</td>
+        <th><a href="https://github.com/shipsaas/laravel-priority-queue" target="_blank"><img alt="Laravel Priority Queue driver" src="https://img.shields.io/github/stars/shipsaas/laravel-priority-queue?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="JUnitorg." src="https://libraries.github20k.com/images/uploads/2023/05/newshot-junit5.png" /></td>
         <td>Infrastructure</td>
         <td>Java</td>
@@ -3304,14 +3328,6 @@
         <td><a href="https://github.com/origranot/ts-logger" target="_blank">@origranot/ts-logger</a></td>
         <td>A powerful and easy-to-use logging and debugging package for TypeScript</td>
         <th><a href="https://github.com/origranot/ts-logger" target="_blank"><img alt="@origranot/ts-logger" src="https://img.shields.io/github/stars/origranot/ts-logger?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Laravel Priority Queue driver" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-laravel-priority-queue.png" /></td>
-        <td>Infrastructure</td>
-        <td>PHP</td>
-        <td><a href="https://github.com/shipsaas/laravel-priority-queue" target="_blank">Laravel Priority Queue driver</a></td>
-        <td>Priority Queues driver implementation for Laravel. Utilizing DB Driver.</td>
-        <th><a href="https://github.com/shipsaas/laravel-priority-queue" target="_blank"><img alt="Laravel Priority Queue driver" src="https://img.shields.io/github/stars/shipsaas/laravel-priority-queue?style=social" /></a></th>
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="ClusterFuzz" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-clusterfuzz.png" /></td>
@@ -4552,6 +4568,14 @@
         <td>Typescript decorator implementation for caching and logging</td>
         <th><a href="https://github.com/thekosmix/node-decorators" target="_blank"><img alt="Node decorators" src="https://img.shields.io/github/stars/thekosmix/node-decorators?style=social" /></a></th>
     </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="PoeticMetric" src="https://libraries.github20k.com/images/uploads/2023/06/newshot-poeticmetric.jpg" /></td>
+        <td>Analytics</td>
+        <td>TypeScript</td>
+        <td><a href="https://www.poeticmetric.com" target="_blank">PoeticMetric</a></td>
+        <td>PoeticMetric is a free as in freedom, open source, privacy-first, regulation-compliant, and blazingly fast Google Analytics alternative.</td>
+        <th><a href="https://github.com/th0th/poeticmetric" target="_blank"><img alt="PoeticMetric" src="https://img.shields.io/github/stars/th0th/poeticmetric?style=social" /></a></th>
+    </tr>
 
 </table>
 
@@ -4575,6 +4599,14 @@
         <th><a href="https://github.com/fleetbase/fleetbase" target="_blank"><img alt="Fleetbase" src="https://img.shields.io/github/stars/fleetbase/fleetbase?style=social" /></a></th>
     </tr>
     <tr>
+        <td nowrap="nowrap"><img width="33" alt="Laravel Priority Queue driver" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-laravel-priority-queue.png" /></td>
+        <td>Infrastructure</td>
+        <td>PHP</td>
+        <td><a href="https://github.com/shipsaas/laravel-priority-queue" target="_blank">Laravel Priority Queue driver</a></td>
+        <td>Priority Queues driver implementation for Laravel. Utilizing DB Driver.</td>
+        <th><a href="https://github.com/shipsaas/laravel-priority-queue" target="_blank"><img alt="Laravel Priority Queue driver" src="https://img.shields.io/github/stars/shipsaas/laravel-priority-queue?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="Hyperf" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-hyperf.jpg" /></td>
         <td>Infrastructure</td>
         <td>PHP</td>
@@ -4589,14 +4621,6 @@
         <td><a href="http://php-map.org" target="_blank">PHP Collections</a></td>
         <td>PHP arrays and collections made easy</td>
         <th><a href="https://github.com/aimeos/map" target="_blank"><img alt="PHP Collections" src="https://img.shields.io/github/stars/aimeos/map?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Laravel Priority Queue driver" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-laravel-priority-queue.png" /></td>
-        <td>Infrastructure</td>
-        <td>PHP</td>
-        <td><a href="https://github.com/shipsaas/laravel-priority-queue" target="_blank">Laravel Priority Queue driver</a></td>
-        <td>Priority Queues driver implementation for Laravel. Utilizing DB Driver.</td>
-        <th><a href="https://github.com/shipsaas/laravel-priority-queue" target="_blank"><img alt="Laravel Priority Queue driver" src="https://img.shields.io/github/stars/shipsaas/laravel-priority-queue?style=social" /></a></th>
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="PrivateBin" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-PrivateBin.png" /></td>
@@ -5647,6 +5671,14 @@
         <td><a href="https://robby-chatbot.com" target="_blank">Robby-chatbot</a></td>
         <td>AI chatbot <g-emoji class="g-emoji" alias="robot" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f916.png">?</g-emoji> for chat with your CSV, PDF, TXT files <g-emoji class="g-emoji" alias="page_facing_up" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c4.png">?</g-emoji> | using Langchain<g-emoji class="g-emoji" alias="parrot" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f99c.png">?</g-emoji> | OpenAI | Streamlit <g-emoji class="g-emoji" alias="zap" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/26a1.png">⚡</g-emoji></td>
         <th><a href="https://github.com/yvann-hub/Robby-chatbot" target="_blank"><img alt="Robby-chatbot" src="https://img.shields.io/github/stars/yvann-hub/Robby-chatbot?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="scalecast" src="https://libraries.github20k.com/images/uploads/2023/06/newshot-scalecast.jpg" /></td>
+        <td>Analytics</td>
+        <td>Python</td>
+        <td><a href="https://github.com/mikekeith52/scalecast" target="_blank">scalecast</a></td>
+        <td>The practitioner's forecasting library</td>
+        <th><a href="https://github.com/mikekeith52/scalecast" target="_blank"><img alt="scalecast" src="https://img.shields.io/github/stars/mikekeith52/scalecast?style=social" /></a></th>
     </tr>
 
 </table>
