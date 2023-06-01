@@ -40,9 +40,9 @@
                       <li>
                 <a href="#typescript">Top 20 TypeScript libraries</a>
              </li>          <li>
-                <a href="#php">Top 20 PHP libraries</a>
-             </li>          <li>
                 <a href="#haskell">Top 20 Haskell libraries</a>
+             </li>          <li>
+                <a href="#php">Top 20 PHP libraries</a>
              </li>          <li>
                 <a href="#html">Top 20 HTML libraries</a>
              </li>          <li>
@@ -156,6 +156,14 @@
         <th><a href="https://github.com/mikekeith52/scalecast" target="_blank"><img alt="scalecast" src="https://img.shields.io/github/stars/mikekeith52/scalecast?style=social" /></a></th>
     </tr>
     <tr>
+        <td nowrap="nowrap"><img width="33" alt="Aptabase" src="https://libraries.github20k.com/images/uploads/2023/06/newshot-aptabase.png" /></td>
+        <td>Analytics</td>
+        <td>TypeScript</td>
+        <td><a href="https://aptabase.com" target="_blank">Aptabase</a></td>
+        <td>Open Source, Privacy-First and Simple Analytics for Mobile, Desktop and Web Apps</td>
+        <th><a href="https://github.com/aptabase/aptabase" target="_blank"><img alt="Aptabase" src="https://img.shields.io/github/stars/aptabase/aptabase?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="Laravel Priority Queue driver" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-laravel-priority-queue.png" /></td>
         <td>Infrastructure</td>
         <td>PHP</td>
@@ -236,6 +244,14 @@
         <th><a href="https://github.com/Megabit/Blazorise" target="_blank"><img alt="Blazorise" src="https://img.shields.io/github/stars/Megabit/Blazorise?style=social" /></a></th>
     </tr>
     <tr>
+        <td nowrap="nowrap"><img width="33" alt="Wasp" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-wasp.png" /></td>
+        <td>Infrastructure</td>
+        <td>Haskell</td>
+        <td><a href="https://wasp-lang.dev" target="_blank">Wasp</a></td>
+        <td>The fastest way to develop full-stack web apps with React &amp; Node.js. </td>
+        <th><a href="https://github.com/wasp-lang/wasp" target="_blank"><img alt="Wasp" src="https://img.shields.io/github/stars/wasp-lang/wasp?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="ZenStack" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-zenstack.png" /></td>
         <td>Infrastructure</td>
         <td>TypeScript</td>
@@ -268,14 +284,6 @@
         <th><a href="https://github.com/retracedhq/retraced" target="_blank"><img alt="Retraced" src="https://img.shields.io/github/stars/retracedhq/retraced?style=social" /></a></th>
     </tr>
     <tr>
-        <td nowrap="nowrap"><img width="33" alt="Wasp" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-wasp.png" /></td>
-        <td>Infrastructure</td>
-        <td>Haskell</td>
-        <td><a href="https://wasp-lang.dev" target="_blank">Wasp</a></td>
-        <td>The fastest way to develop full-stack web apps with React &amp; Node.js. </td>
-        <th><a href="https://github.com/wasp-lang/wasp" target="_blank"><img alt="Wasp" src="https://img.shields.io/github/stars/wasp-lang/wasp?style=social" /></a></th>
-    </tr>
-    <tr>
         <td nowrap="nowrap"><img width="33" alt="Microsoft-Activation-Scripts" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-Microsoft-Activation-Scripts.png" /></td>
         <td>Productivity</td>
         <td>Batchfile</td>
@@ -290,14 +298,6 @@
         <td><a href="https://pychat.org" target="_blank">pychat</a></td>
         <td>webchat via WebSockets/WebRTC that allows messaging/video call/screen sharing</td>
         <th><a href="https://github.com/akoidan/pychat" target="_blank"><img alt="pychat" src="https://img.shields.io/github/stars/akoidan/pychat?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Robby-chatbot" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-Robby-chatbot.jpg" /></td>
-        <td>Productivity</td>
-        <td>Python</td>
-        <td><a href="https://robby-chatbot.com" target="_blank">Robby-chatbot</a></td>
-        <td>AI chatbot <g-emoji class="g-emoji" alias="robot" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f916.png">?</g-emoji> for chat with your CSV, PDF, TXT files <g-emoji class="g-emoji" alias="page_facing_up" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c4.png">?</g-emoji> | using Langchain<g-emoji class="g-emoji" alias="parrot" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f99c.png">?</g-emoji> | OpenAI | Streamlit <g-emoji class="g-emoji" alias="zap" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/26a1.png">⚡</g-emoji></td>
-        <th><a href="https://github.com/yvann-hub/Robby-chatbot" target="_blank"><img alt="Robby-chatbot" src="https://img.shields.io/github/stars/yvann-hub/Robby-chatbot?style=social" /></a></th>
     </tr>
 
 </table>
@@ -339,20 +339,20 @@
         <th><a href="https://github.com/novuhq/novu" target="_blank"><img alt="Novu" src="https://img.shields.io/github/stars/novuhq/novu?style=social" /></a></th>
     </tr>
     <tr>
-        <td nowrap="nowrap"><img width="33" alt="Fleetbase" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-fleetbase.png" /></td>
-        <td>Productivity</td>
-        <td>PHP</td>
-        <td><a href="https://fleetbase.io" target="_blank">Fleetbase</a></td>
-        <td>Fleetbase: a flexible platform for logistics and supply chain, built on adaptable extensions, providing robust digital infrastructure for developers.</td>
-        <th><a href="https://github.com/fleetbase/fleetbase" target="_blank"><img alt="Fleetbase" src="https://img.shields.io/github/stars/fleetbase/fleetbase?style=social" /></a></th>
-    </tr>
-    <tr>
         <td nowrap="nowrap"><img width="33" alt="Wasp" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-wasp.png" /></td>
         <td>Infrastructure</td>
         <td>Haskell</td>
         <td><a href="https://wasp-lang.dev" target="_blank">Wasp</a></td>
         <td>The fastest way to develop full-stack web apps with React &amp; Node.js. </td>
         <th><a href="https://github.com/wasp-lang/wasp" target="_blank"><img alt="Wasp" src="https://img.shields.io/github/stars/wasp-lang/wasp?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Fleetbase" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-fleetbase.png" /></td>
+        <td>Productivity</td>
+        <td>PHP</td>
+        <td><a href="https://fleetbase.io" target="_blank">Fleetbase</a></td>
+        <td>Fleetbase: a flexible platform for logistics and supply chain, built on adaptable extensions, providing robust digital infrastructure for developers.</td>
+        <th><a href="https://github.com/fleetbase/fleetbase" target="_blank"><img alt="Fleetbase" src="https://img.shields.io/github/stars/fleetbase/fleetbase?style=social" /></a></th>
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="Overlay" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-overlay.png" /></td>
@@ -2539,6 +2539,14 @@
         <td>The practitioner's forecasting library</td>
         <th><a href="https://github.com/mikekeith52/scalecast" target="_blank"><img alt="scalecast" src="https://img.shields.io/github/stars/mikekeith52/scalecast?style=social" /></a></th>
     </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Aptabase" src="https://libraries.github20k.com/images/uploads/2023/06/newshot-aptabase.png" /></td>
+        <td>Analytics</td>
+        <td>TypeScript</td>
+        <td><a href="https://aptabase.com" target="_blank">Aptabase</a></td>
+        <td>Open Source, Privacy-First and Simple Analytics for Mobile, Desktop and Web Apps</td>
+        <th><a href="https://github.com/aptabase/aptabase" target="_blank"><img alt="Aptabase" src="https://img.shields.io/github/stars/aptabase/aptabase?style=social" /></a></th>
+    </tr>
 
 </table>
 
@@ -4576,6 +4584,44 @@
         <td>PoeticMetric is a free as in freedom, open source, privacy-first, regulation-compliant, and blazingly fast Google Analytics alternative.</td>
         <th><a href="https://github.com/th0th/poeticmetric" target="_blank"><img alt="PoeticMetric" src="https://img.shields.io/github/stars/th0th/poeticmetric?style=social" /></a></th>
     </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Aptabase" src="https://libraries.github20k.com/images/uploads/2023/06/newshot-aptabase.png" /></td>
+        <td>Analytics</td>
+        <td>TypeScript</td>
+        <td><a href="https://aptabase.com" target="_blank">Aptabase</a></td>
+        <td>Open Source, Privacy-First and Simple Analytics for Mobile, Desktop and Web Apps</td>
+        <th><a href="https://github.com/aptabase/aptabase" target="_blank"><img alt="Aptabase" src="https://img.shields.io/github/stars/aptabase/aptabase?style=social" /></a></th>
+    </tr>
+
+</table>
+
+<br /><br />
+<h2 id="haskell">Top 20 Haskell libraries</h2>
+<table>
+    <tr>
+        <th>Icon</th>
+        <th>Category</th>
+        <th>Language</th>
+        <th>Name</th>
+        <th>Description</th>
+        <th>Stargazers</th>
+    </tr>
+        <tr>
+        <td nowrap="nowrap"><img width="33" alt="Wasp" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-wasp.png" /></td>
+        <td>Infrastructure</td>
+        <td>Haskell</td>
+        <td><a href="https://wasp-lang.dev" target="_blank">Wasp</a></td>
+        <td>The fastest way to develop full-stack web apps with React &amp; Node.js. </td>
+        <th><a href="https://github.com/wasp-lang/wasp" target="_blank"><img alt="Wasp" src="https://img.shields.io/github/stars/wasp-lang/wasp?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="unisonweb/unison" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-unison.png" /></td>
+        <td>Infrastructure</td>
+        <td>Haskell</td>
+        <td><a href="https://unison-lang.org" target="_blank">unisonweb/unison</a></td>
+        <td>A friendly programming language from the future</td>
+        <th><a href="https://github.com/unisonweb/unison" target="_blank"><img alt="unisonweb/unison" src="https://img.shields.io/github/stars/unisonweb/unison?style=social" /></a></th>
+    </tr>
 
 </table>
 
@@ -4725,36 +4771,6 @@
         <td><a href="http://flarum.org/" target="_blank">Flarum</a></td>
         <td>Simple forum software for building great communities.</td>
         <th><a href="https://github.com/flarum/framework" target="_blank"><img alt="Flarum" src="https://img.shields.io/github/stars/flarum/framework?style=social" /></a></th>
-    </tr>
-
-</table>
-
-<br /><br />
-<h2 id="haskell">Top 20 Haskell libraries</h2>
-<table>
-    <tr>
-        <th>Icon</th>
-        <th>Category</th>
-        <th>Language</th>
-        <th>Name</th>
-        <th>Description</th>
-        <th>Stargazers</th>
-    </tr>
-        <tr>
-        <td nowrap="nowrap"><img width="33" alt="Wasp" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-wasp.png" /></td>
-        <td>Infrastructure</td>
-        <td>Haskell</td>
-        <td><a href="https://wasp-lang.dev" target="_blank">Wasp</a></td>
-        <td>The fastest way to develop full-stack web apps with React &amp; Node.js. </td>
-        <th><a href="https://github.com/wasp-lang/wasp" target="_blank"><img alt="Wasp" src="https://img.shields.io/github/stars/wasp-lang/wasp?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="unisonweb/unison" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-unison.png" /></td>
-        <td>Infrastructure</td>
-        <td>Haskell</td>
-        <td><a href="https://unison-lang.org" target="_blank">unisonweb/unison</a></td>
-        <td>A friendly programming language from the future</td>
-        <th><a href="https://github.com/unisonweb/unison" target="_blank"><img alt="unisonweb/unison" src="https://img.shields.io/github/stars/unisonweb/unison?style=social" /></a></th>
     </tr>
 
 </table>
