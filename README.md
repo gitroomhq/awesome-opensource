@@ -140,6 +140,22 @@
         <th>Stargazers</th>
     </tr>
         <tr>
+        <td nowrap="nowrap"><img width="33" alt="Compage" src="https://libraries.github20k.com/images/uploads/2023/06/newshot-compage.png" /></td>
+        <td>Productivity</td>
+        <td>TypeScript</td>
+        <td><a href="https://github.com/intelops/compage" target="_blank">Compage</a></td>
+        <td>Compage - Low-Code Framework to develop Rest API, gRPC, dRPC, GraphQL, WebAssembly, microservices, FaaS, Temporal workloads, IoT and edge services, K8s controllers, K8s CRDs, K8s custom APIs, K8s O…</td>
+        <th><a href="https://github.com/intelops/compage" target="_blank"><img alt="Compage" src="https://img.shields.io/github/stars/intelops/compage?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Dockerized Salt Master" src="https://libraries.github20k.com/images/uploads/2023/06/newshot-docker-salt-master.jpg" /></td>
+        <td>Infrastructure</td>
+        <td>Shell</td>
+        <td><a href="https://docs.saltproject.io" target="_blank">Dockerized Salt Master</a></td>
+        <td><g-emoji class="g-emoji" alias="whale" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f433.png">?</g-emoji><g-emoji class="g-emoji" alias="salt" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f9c2.png">?</g-emoji> Dockerized Salt Master</td>
+        <th><a href="https://github.com/cdalvaro/docker-salt-master" target="_blank"><img alt="Dockerized Salt Master" src="https://img.shields.io/github/stars/cdalvaro/docker-salt-master?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="PoeticMetric" src="https://libraries.github20k.com/images/uploads/2023/06/newshot-poeticmetric.jpg" /></td>
         <td>Analytics</td>
         <td>TypeScript</td>
@@ -282,22 +298,6 @@
         <td><a href="https://boxyhq.com/audit-logs" target="_blank">Retraced</a></td>
         <td>A fully open source audit logs service and embeddable UI easily deployed to your own Kubernetes cluster. Brought to you by replicated.com and boxyhq.com</td>
         <th><a href="https://github.com/retracedhq/retraced" target="_blank"><img alt="Retraced" src="https://img.shields.io/github/stars/retracedhq/retraced?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Microsoft-Activation-Scripts" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-Microsoft-Activation-Scripts.png" /></td>
-        <td>Productivity</td>
-        <td>Batchfile</td>
-        <td><a href="https://massgrave.dev" target="_blank">Microsoft-Activation-Scripts</a></td>
-        <td>A Windows and Office activator using HWID / KMS38 / Online KMS activation methods, with a focus on open-source code and fewer antivirus detections.</td>
-        <th><a href="https://github.com/massgravel/Microsoft-Activation-Scripts" target="_blank"><img alt="Microsoft-Activation-Scripts" src="https://img.shields.io/github/stars/massgravel/Microsoft-Activation-Scripts?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="pychat" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-pychat-2.jpg" /></td>
-        <td>Observability</td>
-        <td>TypeScript</td>
-        <td><a href="https://pychat.org" target="_blank">pychat</a></td>
-        <td>webchat via WebSockets/WebRTC that allows messaging/video call/screen sharing</td>
-        <th><a href="https://github.com/akoidan/pychat" target="_blank"><img alt="pychat" src="https://img.shields.io/github/stars/akoidan/pychat?style=social" /></a></th>
     </tr>
 
 </table>
@@ -2413,6 +2413,14 @@
         <td>Typescript decorator implementation for caching and logging</td>
         <th><a href="https://github.com/thekosmix/node-decorators" target="_blank"><img alt="Node decorators" src="https://img.shields.io/github/stars/thekosmix/node-decorators?style=social" /></a></th>
     </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Compage" src="https://libraries.github20k.com/images/uploads/2023/06/newshot-compage.png" /></td>
+        <td>Productivity</td>
+        <td>TypeScript</td>
+        <td><a href="https://github.com/intelops/compage" target="_blank">Compage</a></td>
+        <td>Compage - Low-Code Framework to develop Rest API, gRPC, dRPC, GraphQL, WebAssembly, microservices, FaaS, Temporal workloads, IoT and edge services, K8s controllers, K8s CRDs, K8s custom APIs, K8s O…</td>
+        <th><a href="https://github.com/intelops/compage" target="_blank"><img alt="Compage" src="https://img.shields.io/github/stars/intelops/compage?style=social" /></a></th>
+    </tr>
 
 </table>
 
@@ -4009,6 +4017,14 @@
         <td>Blazorise is a component library built on top of Blazor with support for CSS frameworks like Bootstrap, Bulma, AntDesign, and Material.</td>
         <th><a href="https://github.com/Megabit/Blazorise" target="_blank"><img alt="Blazorise" src="https://img.shields.io/github/stars/Megabit/Blazorise?style=social" /></a></th>
     </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Dockerized Salt Master" src="https://libraries.github20k.com/images/uploads/2023/06/newshot-docker-salt-master.jpg" /></td>
+        <td>Infrastructure</td>
+        <td>Shell</td>
+        <td><a href="https://docs.saltproject.io" target="_blank">Dockerized Salt Master</a></td>
+        <td><g-emoji class="g-emoji" alias="whale" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f433.png">?</g-emoji><g-emoji class="g-emoji" alias="salt" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f9c2.png">?</g-emoji> Dockerized Salt Master</td>
+        <th><a href="https://github.com/cdalvaro/docker-salt-master" target="_blank"><img alt="Dockerized Salt Master" src="https://img.shields.io/github/stars/cdalvaro/docker-salt-master?style=social" /></a></th>
+    </tr>
 
 </table>
 
@@ -4591,6 +4607,14 @@
         <td><a href="https://aptabase.com" target="_blank">Aptabase</a></td>
         <td>Open Source, Privacy-First and Simple Analytics for Mobile, Desktop and Web Apps</td>
         <th><a href="https://github.com/aptabase/aptabase" target="_blank"><img alt="Aptabase" src="https://img.shields.io/github/stars/aptabase/aptabase?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Compage" src="https://libraries.github20k.com/images/uploads/2023/06/newshot-compage.png" /></td>
+        <td>Productivity</td>
+        <td>TypeScript</td>
+        <td><a href="https://github.com/intelops/compage" target="_blank">Compage</a></td>
+        <td>Compage - Low-Code Framework to develop Rest API, gRPC, dRPC, GraphQL, WebAssembly, microservices, FaaS, Temporal workloads, IoT and edge services, K8s controllers, K8s CRDs, K8s custom APIs, K8s O…</td>
+        <th><a href="https://github.com/intelops/compage" target="_blank"><img alt="Compage" src="https://img.shields.io/github/stars/intelops/compage?style=social" /></a></th>
     </tr>
 
 </table>
@@ -7067,6 +7091,14 @@
         <td><a href="http://todotxt.org" target="_blank">Todotxt</a></td>
         <td><g-emoji class="g-emoji" alias="ballot_box_with_check" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2611.png">☑️</g-emoji> A simple and extensible shell script for managing your todo.txt file.</td>
         <th><a href="https://github.com/todotxt/todo.txt-cli" target="_blank"><img alt="Todotxt" src="https://img.shields.io/github/stars/todotxt/todo.txt-cli?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Dockerized Salt Master" src="https://libraries.github20k.com/images/uploads/2023/06/newshot-docker-salt-master.jpg" /></td>
+        <td>Infrastructure</td>
+        <td>Shell</td>
+        <td><a href="https://docs.saltproject.io" target="_blank">Dockerized Salt Master</a></td>
+        <td><g-emoji class="g-emoji" alias="whale" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f433.png">?</g-emoji><g-emoji class="g-emoji" alias="salt" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f9c2.png">?</g-emoji> Dockerized Salt Master</td>
+        <th><a href="https://github.com/cdalvaro/docker-salt-master" target="_blank"><img alt="Dockerized Salt Master" src="https://img.shields.io/github/stars/cdalvaro/docker-salt-master?style=social" /></a></th>
     </tr>
 
 </table>
