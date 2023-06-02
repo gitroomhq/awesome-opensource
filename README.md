@@ -140,6 +140,22 @@
         <th>Stargazers</th>
     </tr>
         <tr>
+        <td nowrap="nowrap"><img width="33" alt="Mood-Example" src="https://libraries.github20k.com/images/uploads/2023/06/newshot-Mood-Example.png" /></td>
+        <td>Miscellaneous</td>
+        <td>Dart</td>
+        <td><a href="https://github.com/AmosHuKe/Mood-Example" target="_blank">Mood-Example</a></td>
+        <td><g-emoji class="g-emoji" alias="bird" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f426.png">?</g-emoji> Flutter 3 心情记录 样例工程 - 国际化 i18n、uni 小程序、深色模式、多主题、本地数据管理、路由管理、状态管理、无障碍（Semantics）、异步 FFI、集成测试、图表统计、Excel 导入导出、游戏…</td>
+        <th><a href="https://github.com/AmosHuKe/Mood-Example" target="_blank"><img alt="Mood-Example" src="https://img.shields.io/github/stars/AmosHuKe/Mood-Example?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Aesthetic Arch Linux dotfiles" src="https://libraries.github20k.com/images/uploads/2023/06/newshot-dotfiles.jpg" /></td>
+        <td>Productivity</td>
+        <td>CSS</td>
+        <td><a href="https://github.com/HynDuf/dotfiles" target="_blank">Aesthetic Arch Linux dotfiles</a></td>
+        <td>Aesthetic Dotfiles for my Arch Linux</td>
+        <th><a href="https://github.com/HynDuf/dotfiles" target="_blank"><img alt="Aesthetic Arch Linux dotfiles" src="https://img.shields.io/github/stars/HynDuf/dotfiles?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="Compage" src="https://libraries.github20k.com/images/uploads/2023/06/newshot-compage.png" /></td>
         <td>Productivity</td>
         <td>TypeScript</td>
@@ -180,12 +196,20 @@
         <th><a href="https://github.com/heestand-xyz/AsyncGraphics" target="_blank"><img alt="AsyncGraphics" src="https://img.shields.io/github/stars/heestand-xyz/AsyncGraphics?style=social" /></a></th>
     </tr>
     <tr>
-        <td nowrap="nowrap"><img width="33" alt="Aesthetic Arch Linux dotfiles" src="https://libraries.github20k.com/images/uploads/2023/06/newshot-dotfiles.jpg" /></td>
-        <td>Productivity</td>
-        <td>CSS</td>
-        <td><a href="https://github.com/HynDuf/dotfiles" target="_blank">Aesthetic Arch Linux dotfiles</a></td>
-        <td>Aesthetic Dotfiles for my Arch Linux</td>
-        <th><a href="https://github.com/HynDuf/dotfiles" target="_blank"><img alt="Aesthetic Arch Linux dotfiles" src="https://img.shields.io/github/stars/HynDuf/dotfiles?style=social" /></a></th>
+        <td nowrap="nowrap"><img width="33" alt="Futu Algo" src="https://libraries.github20k.com/images/uploads/2023/06/newshot-futu_algo.png" /></td>
+        <td>Analytics</td>
+        <td>Python</td>
+        <td><a href="https://github.com/billpwchan/futu_algo" target="_blank">Futu Algo</a></td>
+        <td>Futu Algorithmic Trading Solution (Python) 基於富途OpenAPI所開發量化交易程序</td>
+        <th><a href="https://github.com/billpwchan/futu_algo" target="_blank"><img alt="Futu Algo" src="https://img.shields.io/github/stars/billpwchan/futu_algo?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Aptabase" src="https://libraries.github20k.com/images/uploads/2023/06/newshot-aptabase.png" /></td>
+        <td>Analytics</td>
+        <td>TypeScript</td>
+        <td><a href="https://aptabase.com" target="_blank">Aptabase</a></td>
+        <td>Open Source, Privacy-First and Simple Analytics for Mobile, Desktop and Web Apps</td>
+        <th><a href="https://github.com/aptabase/aptabase" target="_blank"><img alt="Aptabase" src="https://img.shields.io/github/stars/aptabase/aptabase?style=social" /></a></th>
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="PoeticMetric" src="https://libraries.github20k.com/images/uploads/2023/06/newshot-poeticmetric.jpg" /></td>
@@ -202,14 +226,6 @@
         <td><a href="https://github.com/mikekeith52/scalecast" target="_blank">scalecast</a></td>
         <td>The practitioner's forecasting library</td>
         <th><a href="https://github.com/mikekeith52/scalecast" target="_blank"><img alt="scalecast" src="https://img.shields.io/github/stars/mikekeith52/scalecast?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Aptabase" src="https://libraries.github20k.com/images/uploads/2023/06/newshot-aptabase.png" /></td>
-        <td>Analytics</td>
-        <td>TypeScript</td>
-        <td><a href="https://aptabase.com" target="_blank">Aptabase</a></td>
-        <td>Open Source, Privacy-First and Simple Analytics for Mobile, Desktop and Web Apps</td>
-        <th><a href="https://github.com/aptabase/aptabase" target="_blank"><img alt="Aptabase" src="https://img.shields.io/github/stars/aptabase/aptabase?style=social" /></a></th>
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="Laravel Priority Queue driver" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-laravel-priority-queue.png" /></td>
@@ -282,22 +298,6 @@
         <td><a href="https://www.linkedin.com/pulse/why-use-decorators-typescript-siddharth-kumar/" target="_blank">Node decorators</a></td>
         <td>Typescript decorator implementation for caching and logging</td>
         <th><a href="https://github.com/thekosmix/node-decorators" target="_blank"><img alt="Node decorators" src="https://img.shields.io/github/stars/thekosmix/node-decorators?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Blazorise" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-Blazorise.png" /></td>
-        <td>Infrastructure</td>
-        <td>C#</td>
-        <td><a href="https://blazorise.com/" target="_blank">Blazorise</a></td>
-        <td>Blazorise is a component library built on top of Blazor with support for CSS frameworks like Bootstrap, Bulma, AntDesign, and Material.</td>
-        <th><a href="https://github.com/Megabit/Blazorise" target="_blank"><img alt="Blazorise" src="https://img.shields.io/github/stars/Megabit/Blazorise?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Wasp" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-wasp.png" /></td>
-        <td>Infrastructure</td>
-        <td>Haskell</td>
-        <td><a href="https://wasp-lang.dev" target="_blank">Wasp</a></td>
-        <td>The fastest way to develop full-stack web apps with React &amp; Node.js. </td>
-        <th><a href="https://github.com/wasp-lang/wasp" target="_blank"><img alt="Wasp" src="https://img.shields.io/github/stars/wasp-lang/wasp?style=social" /></a></th>
     </tr>
 
 </table>
@@ -385,6 +385,14 @@
         <td><a href="https://github.com/Erutidians/auto-dop" target="_blank">auto-dop</a></td>
         <td>Automation for creating markdown files for 100 Days of Productivity challenge.</td>
         <th><a href="https://github.com/Erutidians/auto-dop" target="_blank"><img alt="auto-dop" src="https://img.shields.io/github/stars/Erutidians/auto-dop?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Mood-Example" src="https://libraries.github20k.com/images/uploads/2023/06/newshot-Mood-Example.png" /></td>
+        <td>Miscellaneous</td>
+        <td>Dart</td>
+        <td><a href="https://github.com/AmosHuKe/Mood-Example" target="_blank">Mood-Example</a></td>
+        <td><g-emoji class="g-emoji" alias="bird" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f426.png">?</g-emoji> Flutter 3 心情记录 样例工程 - 国际化 i18n、uni 小程序、深色模式、多主题、本地数据管理、路由管理、状态管理、无障碍（Semantics）、异步 FFI、集成测试、图表统计、Excel 导入导出、游戏…</td>
+        <th><a href="https://github.com/AmosHuKe/Mood-Example" target="_blank"><img alt="Mood-Example" src="https://img.shields.io/github/stars/AmosHuKe/Mood-Example?style=social" /></a></th>
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="Appwrite" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-appwrite.png" /></td>
@@ -497,6 +505,14 @@
         <td><a href="https://github.com/ariasdiniz/macaw_framework" target="_blank">MacawFramework</a></td>
         <td>A lightweight web framework designed for building efficient backend applications. Initially created for study purposes, now production-ready and open for contributions.</td>
         <th><a href="https://github.com/ariasdiniz/macaw_framework" target="_blank"><img alt="MacawFramework" src="https://img.shields.io/github/stars/ariasdiniz/macaw_framework?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Aptabase" src="https://libraries.github20k.com/images/uploads/2023/06/newshot-aptabase.png" /></td>
+        <td>Analytics</td>
+        <td>TypeScript</td>
+        <td><a href="https://aptabase.com" target="_blank">Aptabase</a></td>
+        <td>Open Source, Privacy-First and Simple Analytics for Mobile, Desktop and Web Apps</td>
+        <th><a href="https://github.com/aptabase/aptabase" target="_blank"><img alt="Aptabase" src="https://img.shields.io/github/stars/aptabase/aptabase?style=social" /></a></th>
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="Mirage JS" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-miragejs.png" /></td>
@@ -777,6 +793,14 @@
         <td><a href="https://quickwit.io" target="_blank">Quickwit</a></td>
         <td>Sub-second search &amp; analytics engine on cloud storage</td>
         <th><a href="https://github.com/quickwit-oss/quickwit" target="_blank"><img alt="Quickwit" src="https://img.shields.io/github/stars/quickwit-oss/quickwit?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Aesthetic Arch Linux dotfiles" src="https://libraries.github20k.com/images/uploads/2023/06/newshot-dotfiles.jpg" /></td>
+        <td>Productivity</td>
+        <td>CSS</td>
+        <td><a href="https://github.com/HynDuf/dotfiles" target="_blank">Aesthetic Arch Linux dotfiles</a></td>
+        <td>Aesthetic Dotfiles for my Arch Linux</td>
+        <th><a href="https://github.com/HynDuf/dotfiles" target="_blank"><img alt="Aesthetic Arch Linux dotfiles" src="https://img.shields.io/github/stars/HynDuf/dotfiles?style=social" /></a></th>
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="ClusterFuzz" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-clusterfuzz.png" /></td>
@@ -1090,30 +1114,6 @@
         <td>Cutting Edge WebRTC Video Conferencing</td>
         <th><a href="https://github.com/versatica/mediasoup" target="_blank"><img alt="mediasoup" src="https://img.shields.io/github/stars/versatica/mediasoup?style=social" /></a></th>
     </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="ntop" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-ntopng.png" /></td>
-        <td>Observability</td>
-        <td>Lua</td>
-        <td><a href="http://www.ntop.org" target="_blank">ntop</a></td>
-        <td>Web-based Traffic and Security Network Traffic Monitoring</td>
-        <th><a href="https://github.com/ntop/ntopng" target="_blank"><img alt="ntop" src="https://img.shields.io/github/stars/ntop/ntopng?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Flet" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-flet.png" /></td>
-        <td>Productivity</td>
-        <td>Python</td>
-        <td><a href="https://flet.dev" target="_blank">Flet</a></td>
-        <td>Flet enables developers to easily build realtime web, mobile and desktop apps in Python. No frontend experience required.</td>
-        <th><a href="https://github.com/flet-dev/flet" target="_blank"><img alt="Flet" src="https://img.shields.io/github/stars/flet-dev/flet?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="DocsGPT" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-DocsGPT.png" /></td>
-        <td>Productivity</td>
-        <td>Python</td>
-        <td><a href="https://docsgpt.arc53.com/" target="_blank">DocsGPT</a></td>
-        <td>GPT-powered chat for documentation search &amp; assistance.</td>
-        <th><a href="https://github.com/arc53/DocsGPT" target="_blank"><img alt="DocsGPT" src="https://img.shields.io/github/stars/arc53/DocsGPT?style=social" /></a></th>
-    </tr>
 
 </table>
 
@@ -1130,6 +1130,14 @@
         <th>Stargazers</th>
     </tr>
         <tr>
+        <td nowrap="nowrap"><img width="33" alt="Mood-Example" src="https://libraries.github20k.com/images/uploads/2023/06/newshot-Mood-Example.png" /></td>
+        <td>Miscellaneous</td>
+        <td>Dart</td>
+        <td><a href="https://github.com/AmosHuKe/Mood-Example" target="_blank">Mood-Example</a></td>
+        <td><g-emoji class="g-emoji" alias="bird" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f426.png">?</g-emoji> Flutter 3 心情记录 样例工程 - 国际化 i18n、uni 小程序、深色模式、多主题、本地数据管理、路由管理、状态管理、无障碍（Semantics）、异步 FFI、集成测试、图表统计、Excel 导入导出、游戏…</td>
+        <th><a href="https://github.com/AmosHuKe/Mood-Example" target="_blank"><img alt="Mood-Example" src="https://img.shields.io/github/stars/AmosHuKe/Mood-Example?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="awesome window manager" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-awesome.png" /></td>
         <td>Miscellaneous</td>
         <td>Lua</td>
@@ -1676,6 +1684,14 @@
         <td><a href="https://github.com/Erutidians/auto-dop" target="_blank">100-days-of-productivity</a></td>
         <td>becoming one percent better everyday.</td>
         <th><a href="https://github.com/plskz/100-days-of-productivity" target="_blank"><img alt="100-days-of-productivity" src="https://img.shields.io/github/stars/plskz/100-days-of-productivity?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Aesthetic Arch Linux dotfiles" src="https://libraries.github20k.com/images/uploads/2023/06/newshot-dotfiles.jpg" /></td>
+        <td>Productivity</td>
+        <td>CSS</td>
+        <td><a href="https://github.com/HynDuf/dotfiles" target="_blank">Aesthetic Arch Linux dotfiles</a></td>
+        <td>Aesthetic Dotfiles for my Arch Linux</td>
+        <th><a href="https://github.com/HynDuf/dotfiles" target="_blank"><img alt="Aesthetic Arch Linux dotfiles" src="https://img.shields.io/github/stars/HynDuf/dotfiles?style=social" /></a></th>
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="VS Code Docs" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-vscode-docs.png" /></td>
@@ -2437,14 +2453,6 @@
         <td>Compage - Low-Code Framework to develop Rest API, gRPC, dRPC, GraphQL, WebAssembly, microservices, FaaS, Temporal workloads, IoT and edge services, K8s controllers, K8s CRDs, K8s custom APIs, K8s O…</td>
         <th><a href="https://github.com/intelops/compage" target="_blank"><img alt="Compage" src="https://img.shields.io/github/stars/intelops/compage?style=social" /></a></th>
     </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Aesthetic Arch Linux dotfiles" src="https://libraries.github20k.com/images/uploads/2023/06/newshot-dotfiles.jpg" /></td>
-        <td>Productivity</td>
-        <td>CSS</td>
-        <td><a href="https://github.com/HynDuf/dotfiles" target="_blank">Aesthetic Arch Linux dotfiles</a></td>
-        <td>Aesthetic Dotfiles for my Arch Linux</td>
-        <th><a href="https://github.com/HynDuf/dotfiles" target="_blank"><img alt="Aesthetic Arch Linux dotfiles" src="https://img.shields.io/github/stars/HynDuf/dotfiles?style=social" /></a></th>
-    </tr>
 
 </table>
 
@@ -2466,6 +2474,14 @@
         <td><a href="https://crowd.dev" target="_blank">crowddev</a></td>
         <td>An open-source platform to centralize community, product, and customer data in one place</td>
         <th><a href="https://github.com/CrowdDotDev/crowd.dev" target="_blank"><img alt="crowddev" src="https://img.shields.io/github/stars/CrowdDotDev/crowd.dev?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Aptabase" src="https://libraries.github20k.com/images/uploads/2023/06/newshot-aptabase.png" /></td>
+        <td>Analytics</td>
+        <td>TypeScript</td>
+        <td><a href="https://aptabase.com" target="_blank">Aptabase</a></td>
+        <td>Open Source, Privacy-First and Simple Analytics for Mobile, Desktop and Web Apps</td>
+        <th><a href="https://github.com/aptabase/aptabase" target="_blank"><img alt="Aptabase" src="https://img.shields.io/github/stars/aptabase/aptabase?style=social" /></a></th>
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="Chat Analytics" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-chat-analytics.jpg" /></td>
@@ -2572,12 +2588,12 @@
         <th><a href="https://github.com/mikekeith52/scalecast" target="_blank"><img alt="scalecast" src="https://img.shields.io/github/stars/mikekeith52/scalecast?style=social" /></a></th>
     </tr>
     <tr>
-        <td nowrap="nowrap"><img width="33" alt="Aptabase" src="https://libraries.github20k.com/images/uploads/2023/06/newshot-aptabase.png" /></td>
+        <td nowrap="nowrap"><img width="33" alt="Futu Algo" src="https://libraries.github20k.com/images/uploads/2023/06/newshot-futu_algo.png" /></td>
         <td>Analytics</td>
-        <td>TypeScript</td>
-        <td><a href="https://aptabase.com" target="_blank">Aptabase</a></td>
-        <td>Open Source, Privacy-First and Simple Analytics for Mobile, Desktop and Web Apps</td>
-        <th><a href="https://github.com/aptabase/aptabase" target="_blank"><img alt="Aptabase" src="https://img.shields.io/github/stars/aptabase/aptabase?style=social" /></a></th>
+        <td>Python</td>
+        <td><a href="https://github.com/billpwchan/futu_algo" target="_blank">Futu Algo</a></td>
+        <td>Futu Algorithmic Trading Solution (Python) 基於富途OpenAPI所開發量化交易程序</td>
+        <th><a href="https://github.com/billpwchan/futu_algo" target="_blank"><img alt="Futu Algo" src="https://img.shields.io/github/stars/billpwchan/futu_algo?style=social" /></a></th>
     </tr>
 
 </table>
@@ -4137,6 +4153,14 @@
         <th><a href="https://github.com/teamhanko/hanko" target="_blank"><img alt="Hanko" src="https://img.shields.io/github/stars/teamhanko/hanko?style=social" /></a></th>
     </tr>
     <tr>
+        <td nowrap="nowrap"><img width="33" alt="Aptabase" src="https://libraries.github20k.com/images/uploads/2023/06/newshot-aptabase.png" /></td>
+        <td>Analytics</td>
+        <td>TypeScript</td>
+        <td><a href="https://aptabase.com" target="_blank">Aptabase</a></td>
+        <td>Open Source, Privacy-First and Simple Analytics for Mobile, Desktop and Web Apps</td>
+        <th><a href="https://github.com/aptabase/aptabase" target="_blank"><img alt="Aptabase" src="https://img.shields.io/github/stars/aptabase/aptabase?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="Docusaurus" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-docusaurus.png" /></td>
         <td>Productivity</td>
         <td>TypeScript</td>
@@ -4633,14 +4657,6 @@
         <th><a href="https://github.com/th0th/poeticmetric" target="_blank"><img alt="PoeticMetric" src="https://img.shields.io/github/stars/th0th/poeticmetric?style=social" /></a></th>
     </tr>
     <tr>
-        <td nowrap="nowrap"><img width="33" alt="Aptabase" src="https://libraries.github20k.com/images/uploads/2023/06/newshot-aptabase.png" /></td>
-        <td>Analytics</td>
-        <td>TypeScript</td>
-        <td><a href="https://aptabase.com" target="_blank">Aptabase</a></td>
-        <td>Open Source, Privacy-First and Simple Analytics for Mobile, Desktop and Web Apps</td>
-        <th><a href="https://github.com/aptabase/aptabase" target="_blank"><img alt="Aptabase" src="https://img.shields.io/github/stars/aptabase/aptabase?style=social" /></a></th>
-    </tr>
-    <tr>
         <td nowrap="nowrap"><img width="33" alt="Compage" src="https://libraries.github20k.com/images/uploads/2023/06/newshot-compage.png" /></td>
         <td>Productivity</td>
         <td>TypeScript</td>
@@ -4911,6 +4927,14 @@
         <td><a href="https://pub.dev/packages/talker" target="_blank">Talker</a></td>
         <td><g-emoji class="g-emoji" alias="phone" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/260e.png">☎️</g-emoji> Advanced error handler and logger for dart and flutter apps</td>
         <th><a href="https://github.com/Frezyx/talker" target="_blank"><img alt="Talker" src="https://img.shields.io/github/stars/Frezyx/talker?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Mood-Example" src="https://libraries.github20k.com/images/uploads/2023/06/newshot-Mood-Example.png" /></td>
+        <td>Miscellaneous</td>
+        <td>Dart</td>
+        <td><a href="https://github.com/AmosHuKe/Mood-Example" target="_blank">Mood-Example</a></td>
+        <td><g-emoji class="g-emoji" alias="bird" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f426.png">?</g-emoji> Flutter 3 心情记录 样例工程 - 国际化 i18n、uni 小程序、深色模式、多主题、本地数据管理、路由管理、状态管理、无障碍（Semantics）、异步 FFI、集成测试、图表统计、Excel 导入导出、游戏…</td>
+        <th><a href="https://github.com/AmosHuKe/Mood-Example" target="_blank"><img alt="Mood-Example" src="https://img.shields.io/github/stars/AmosHuKe/Mood-Example?style=social" /></a></th>
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="group_button" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-group_button.jpg" /></td>
@@ -5752,6 +5776,14 @@
         <td>The practitioner's forecasting library</td>
         <th><a href="https://github.com/mikekeith52/scalecast" target="_blank"><img alt="scalecast" src="https://img.shields.io/github/stars/mikekeith52/scalecast?style=social" /></a></th>
     </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Futu Algo" src="https://libraries.github20k.com/images/uploads/2023/06/newshot-futu_algo.png" /></td>
+        <td>Analytics</td>
+        <td>Python</td>
+        <td><a href="https://github.com/billpwchan/futu_algo" target="_blank">Futu Algo</a></td>
+        <td>Futu Algorithmic Trading Solution (Python) 基於富途OpenAPI所開發量化交易程序</td>
+        <th><a href="https://github.com/billpwchan/futu_algo" target="_blank"><img alt="Futu Algo" src="https://img.shields.io/github/stars/billpwchan/futu_algo?style=social" /></a></th>
+    </tr>
 
 </table>
 
@@ -6481,6 +6513,14 @@
         <th><a href="https://github.com/Bhanu1776/vscode-Jellyfish-x-Retro" target="_blank"><img alt="Jellyfish-x-Retro" src="https://img.shields.io/github/stars/Bhanu1776/vscode-Jellyfish-x-Retro?style=social" /></a></th>
     </tr>
     <tr>
+        <td nowrap="nowrap"><img width="33" alt="Aesthetic Arch Linux dotfiles" src="https://libraries.github20k.com/images/uploads/2023/06/newshot-dotfiles.jpg" /></td>
+        <td>Productivity</td>
+        <td>CSS</td>
+        <td><a href="https://github.com/HynDuf/dotfiles" target="_blank">Aesthetic Arch Linux dotfiles</a></td>
+        <td>Aesthetic Dotfiles for my Arch Linux</td>
+        <th><a href="https://github.com/HynDuf/dotfiles" target="_blank"><img alt="Aesthetic Arch Linux dotfiles" src="https://img.shields.io/github/stars/HynDuf/dotfiles?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="VS Code Docs" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-vscode-docs.png" /></td>
         <td>Productivity</td>
         <td>CSS</td>
@@ -6503,14 +6543,6 @@
         <td><a href="https://cssanimation.io/" target="_blank">cssanimation.io</a></td>
         <td>CSS Animation Library for Developers and Ninjas</td>
         <th><a href="https://github.com/yesiamrocks/cssanimation.io" target="_blank"><img alt="cssanimation.io" src="https://img.shields.io/github/stars/yesiamrocks/cssanimation.io?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Aesthetic Arch Linux dotfiles" src="https://libraries.github20k.com/images/uploads/2023/06/newshot-dotfiles.jpg" /></td>
-        <td>Productivity</td>
-        <td>CSS</td>
-        <td><a href="https://github.com/HynDuf/dotfiles" target="_blank">Aesthetic Arch Linux dotfiles</a></td>
-        <td>Aesthetic Dotfiles for my Arch Linux</td>
-        <th><a href="https://github.com/HynDuf/dotfiles" target="_blank"><img alt="Aesthetic Arch Linux dotfiles" src="https://img.shields.io/github/stars/HynDuf/dotfiles?style=social" /></a></th>
     </tr>
 
 </table>
