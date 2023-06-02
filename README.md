@@ -156,6 +156,38 @@
         <th><a href="https://github.com/cdalvaro/docker-salt-master" target="_blank"><img alt="Dockerized Salt Master" src="https://img.shields.io/github/stars/cdalvaro/docker-salt-master?style=social" /></a></th>
     </tr>
     <tr>
+        <td nowrap="nowrap"><img width="33" alt="smartdns-rs" src="https://libraries.github20k.com/images/uploads/2023/06/newshot-smartdns-rs.jpg" /></td>
+        <td>Infrastructure</td>
+        <td>Rust</td>
+        <td><a href="https://github.com/mokeyish/smartdns-rs" target="_blank">smartdns-rs</a></td>
+        <td>A cross platform local DNS server (Dnsmasq like) written in rust to obtain the fastest website IP for the best Internet experience, supports DoT, DoH.</td>
+        <th><a href="https://github.com/mokeyish/smartdns-rs" target="_blank"><img alt="smartdns-rs" src="https://img.shields.io/github/stars/mokeyish/smartdns-rs?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="WooNuxt" src="https://libraries.github20k.com/images/uploads/2023/06/newshot-woonuxt.png" /></td>
+        <td>Miscellaneous</td>
+        <td>Vue</td>
+        <td><a href="https://woonuxt.com" target="_blank">WooNuxt</a></td>
+        <td>Static e-commerce powered by WooCommerce &amp; Nuxt</td>
+        <th><a href="https://github.com/scottyzen/woonuxt" target="_blank"><img alt="WooNuxt" src="https://img.shields.io/github/stars/scottyzen/woonuxt?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="AsyncGraphics" src="https://libraries.github20k.com/images/uploads/2023/06/newshot-AsyncGraphics.jpg" /></td>
+        <td>Miscellaneous</td>
+        <td>Swift</td>
+        <td><a href="http://async.graphics" target="_blank">AsyncGraphics</a></td>
+        <td>Edit images and video with async / await in Swift, powered by Metal.</td>
+        <th><a href="https://github.com/heestand-xyz/AsyncGraphics" target="_blank"><img alt="AsyncGraphics" src="https://img.shields.io/github/stars/heestand-xyz/AsyncGraphics?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Aesthetic Arch Linux dotfiles" src="https://libraries.github20k.com/images/uploads/2023/06/newshot-dotfiles.jpg" /></td>
+        <td>Productivity</td>
+        <td>CSS</td>
+        <td><a href="https://github.com/HynDuf/dotfiles" target="_blank">Aesthetic Arch Linux dotfiles</a></td>
+        <td>Aesthetic Dotfiles for my Arch Linux</td>
+        <th><a href="https://github.com/HynDuf/dotfiles" target="_blank"><img alt="Aesthetic Arch Linux dotfiles" src="https://img.shields.io/github/stars/HynDuf/dotfiles?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="PoeticMetric" src="https://libraries.github20k.com/images/uploads/2023/06/newshot-poeticmetric.jpg" /></td>
         <td>Analytics</td>
         <td>TypeScript</td>
@@ -220,6 +252,14 @@
         <th><a href="https://github.com/noahflk/railtrack" target="_blank"><img alt="Railtrack" src="https://img.shields.io/github/stars/noahflk/railtrack?style=social" /></a></th>
     </tr>
     <tr>
+        <td nowrap="nowrap"><img width="33" alt="Quickwit" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-quickwit.png" /></td>
+        <td>Observability</td>
+        <td>Rust</td>
+        <td><a href="https://quickwit.io" target="_blank">Quickwit</a></td>
+        <td>Sub-second search &amp; analytics engine on cloud storage</td>
+        <th><a href="https://github.com/quickwit-oss/quickwit" target="_blank"><img alt="Quickwit" src="https://img.shields.io/github/stars/quickwit-oss/quickwit?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="Java Backend for FB Chatbot" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-Java-FbChatBot.jpg" /></td>
         <td>Miscellaneous</td>
         <td>Java</td>
@@ -244,14 +284,6 @@
         <th><a href="https://github.com/thekosmix/node-decorators" target="_blank"><img alt="Node decorators" src="https://img.shields.io/github/stars/thekosmix/node-decorators?style=social" /></a></th>
     </tr>
     <tr>
-        <td nowrap="nowrap"><img width="33" alt="Quickwit" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-quickwit.png" /></td>
-        <td>Observability</td>
-        <td>Rust</td>
-        <td><a href="https://quickwit.io" target="_blank">Quickwit</a></td>
-        <td>Sub-second search &amp; analytics engine on cloud storage</td>
-        <th><a href="https://github.com/quickwit-oss/quickwit" target="_blank"><img alt="Quickwit" src="https://img.shields.io/github/stars/quickwit-oss/quickwit?style=social" /></a></th>
-    </tr>
-    <tr>
         <td nowrap="nowrap"><img width="33" alt="Blazorise" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-Blazorise.png" /></td>
         <td>Infrastructure</td>
         <td>C#</td>
@@ -266,38 +298,6 @@
         <td><a href="https://wasp-lang.dev" target="_blank">Wasp</a></td>
         <td>The fastest way to develop full-stack web apps with React &amp; Node.js. </td>
         <th><a href="https://github.com/wasp-lang/wasp" target="_blank"><img alt="Wasp" src="https://img.shields.io/github/stars/wasp-lang/wasp?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="ZenStack" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-zenstack.png" /></td>
-        <td>Infrastructure</td>
-        <td>TypeScript</td>
-        <td><a href="https://zenstack.dev" target="_blank">ZenStack</a></td>
-        <td>Supercharges Prisma ORM with a powerful access control layer and unlocks its full potential for web development.</td>
-        <th><a href="https://github.com/zenstackhq/zenstack" target="_blank"><img alt="ZenStack" src="https://img.shields.io/github/stars/zenstackhq/zenstack?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="MacawFramework" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-macaw_framework.jpg" /></td>
-        <td>Miscellaneous</td>
-        <td>Ruby</td>
-        <td><a href="https://github.com/ariasdiniz/macaw_framework" target="_blank">MacawFramework</a></td>
-        <td>A lightweight web framework designed for building efficient backend applications. Initially created for study purposes, now production-ready and open for contributions.</td>
-        <th><a href="https://github.com/ariasdiniz/macaw_framework" target="_blank"><img alt="MacawFramework" src="https://img.shields.io/github/stars/ariasdiniz/macaw_framework?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Dub" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-dub.jpg" /></td>
-        <td>Productivity</td>
-        <td>TypeScript</td>
-        <td><a href="https://dub.sh" target="_blank">Dub</a></td>
-        <td>An open-source link shortener with built-in analytics + free custom domains.</td>
-        <th><a href="https://github.com/steven-tey/dub" target="_blank"><img alt="Dub" src="https://img.shields.io/github/stars/steven-tey/dub?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Retraced" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-retraced.png" /></td>
-        <td>Security</td>
-        <td>TypeScript</td>
-        <td><a href="https://boxyhq.com/audit-logs" target="_blank">Retraced</a></td>
-        <td>A fully open source audit logs service and embeddable UI easily deployed to your own Kubernetes cluster. Brought to you by replicated.com and boxyhq.com</td>
-        <th><a href="https://github.com/retracedhq/retraced" target="_blank"><img alt="Retraced" src="https://img.shields.io/github/stars/retracedhq/retraced?style=social" /></a></th>
     </tr>
 
 </table>
@@ -331,20 +331,20 @@
         <th><a href="https://github.com/livecycle/preevy" target="_blank"><img alt="Preevy" src="https://img.shields.io/github/stars/livecycle/preevy?style=social" /></a></th>
     </tr>
     <tr>
-        <td nowrap="nowrap"><img width="33" alt="Novu" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-novu-2.png" /></td>
-        <td>Notifications</td>
-        <td>TypeScript</td>
-        <td><a href="https://novu.co" target="_blank">Novu</a></td>
-        <td>The open-source notification infrastructure with fully functional embedded notification center</td>
-        <th><a href="https://github.com/novuhq/novu" target="_blank"><img alt="Novu" src="https://img.shields.io/github/stars/novuhq/novu?style=social" /></a></th>
-    </tr>
-    <tr>
         <td nowrap="nowrap"><img width="33" alt="Wasp" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-wasp.png" /></td>
         <td>Infrastructure</td>
         <td>Haskell</td>
         <td><a href="https://wasp-lang.dev" target="_blank">Wasp</a></td>
         <td>The fastest way to develop full-stack web apps with React &amp; Node.js. </td>
         <th><a href="https://github.com/wasp-lang/wasp" target="_blank"><img alt="Wasp" src="https://img.shields.io/github/stars/wasp-lang/wasp?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Novu" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-novu-2.png" /></td>
+        <td>Notifications</td>
+        <td>TypeScript</td>
+        <td><a href="https://novu.co" target="_blank">Novu</a></td>
+        <td>The open-source notification infrastructure with fully functional embedded notification center</td>
+        <th><a href="https://github.com/novuhq/novu" target="_blank"><img alt="Novu" src="https://img.shields.io/github/stars/novuhq/novu?style=social" /></a></th>
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="Fleetbase" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-fleetbase.png" /></td>
@@ -771,6 +771,14 @@
         <th><a href="https://github.com/noahflk/railtrack" target="_blank"><img alt="Railtrack" src="https://img.shields.io/github/stars/noahflk/railtrack?style=social" /></a></th>
     </tr>
     <tr>
+        <td nowrap="nowrap"><img width="33" alt="Quickwit" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-quickwit.png" /></td>
+        <td>Observability</td>
+        <td>Rust</td>
+        <td><a href="https://quickwit.io" target="_blank">Quickwit</a></td>
+        <td>Sub-second search &amp; analytics engine on cloud storage</td>
+        <th><a href="https://github.com/quickwit-oss/quickwit" target="_blank"><img alt="Quickwit" src="https://img.shields.io/github/stars/quickwit-oss/quickwit?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="ClusterFuzz" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-clusterfuzz.png" /></td>
         <td>Infrastructure</td>
         <td>Python</td>
@@ -1106,14 +1114,6 @@
         <td>GPT-powered chat for documentation search &amp; assistance.</td>
         <th><a href="https://github.com/arc53/DocsGPT" target="_blank"><img alt="DocsGPT" src="https://img.shields.io/github/stars/arc53/DocsGPT?style=social" /></a></th>
     </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="MudBlazor" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-MudBlazor.png" /></td>
-        <td>Infrastructure</td>
-        <td>C#</td>
-        <td><a href="http://mudblazor.com" target="_blank">MudBlazor</a></td>
-        <td>Blazor Component Library based on Material design with an emphasis on ease of use. Mainly written in C# with Javascript kept to a bare minimum it empowers .NET developers to easily debug it if needed.</td>
-        <th><a href="https://github.com/MudBlazor/MudBlazor" target="_blank"><img alt="MudBlazor" src="https://img.shields.io/github/stars/MudBlazor/MudBlazor?style=social" /></a></th>
-    </tr>
 
 </table>
 
@@ -1353,6 +1353,22 @@
         <td>Messenger webhook implementation in java with jetty, contracts of facebook messenger webhook</td>
         <th><a href="https://github.com/thekosmix/Java-FbChatBot" target="_blank"><img alt="Java Backend for FB Chatbot" src="https://img.shields.io/github/stars/thekosmix/Java-FbChatBot?style=social" /></a></th>
     </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="WooNuxt" src="https://libraries.github20k.com/images/uploads/2023/06/newshot-woonuxt.png" /></td>
+        <td>Miscellaneous</td>
+        <td>Vue</td>
+        <td><a href="https://woonuxt.com" target="_blank">WooNuxt</a></td>
+        <td>Static e-commerce powered by WooCommerce &amp; Nuxt</td>
+        <th><a href="https://github.com/scottyzen/woonuxt" target="_blank"><img alt="WooNuxt" src="https://img.shields.io/github/stars/scottyzen/woonuxt?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="AsyncGraphics" src="https://libraries.github20k.com/images/uploads/2023/06/newshot-AsyncGraphics.jpg" /></td>
+        <td>Miscellaneous</td>
+        <td>Swift</td>
+        <td><a href="http://async.graphics" target="_blank">AsyncGraphics</a></td>
+        <td>Edit images and video with async / await in Swift, powered by Metal.</td>
+        <th><a href="https://github.com/heestand-xyz/AsyncGraphics" target="_blank"><img alt="AsyncGraphics" src="https://img.shields.io/github/stars/heestand-xyz/AsyncGraphics?style=social" /></a></th>
+    </tr>
 
 </table>
 
@@ -1382,6 +1398,14 @@
         <td><a href="https://prometheus-operator.dev/" target="_blank">Prometheus Operator</a></td>
         <td>Use Prometheus to monitor Kubernetes and applications running on Kubernetes</td>
         <th><a href="https://github.com/prometheus-operator/kube-prometheus" target="_blank"><img alt="Prometheus Operator" src="https://img.shields.io/github/stars/prometheus-operator/kube-prometheus?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Quickwit" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-quickwit.png" /></td>
+        <td>Observability</td>
+        <td>Rust</td>
+        <td><a href="https://quickwit.io" target="_blank">Quickwit</a></td>
+        <td>Sub-second search &amp; analytics engine on cloud storage</td>
+        <th><a href="https://github.com/quickwit-oss/quickwit" target="_blank"><img alt="Quickwit" src="https://img.shields.io/github/stars/quickwit-oss/quickwit?style=social" /></a></th>
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="Konva.js - JavaScript 2d canvas library" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-react-konva.png" /></td>
@@ -1526,14 +1550,6 @@
         <td><a href="https://pychat.org" target="_blank">pychat</a></td>
         <td>webchat via WebSockets/WebRTC that allows messaging/video call/screen sharing</td>
         <th><a href="https://github.com/akoidan/pychat" target="_blank"><img alt="pychat" src="https://img.shields.io/github/stars/akoidan/pychat?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Quickwit" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-quickwit.png" /></td>
-        <td>Observability</td>
-        <td>Rust</td>
-        <td><a href="https://quickwit.io" target="_blank">Quickwit</a></td>
-        <td>Sub-second search &amp; analytics engine on cloud storage</td>
-        <th><a href="https://github.com/quickwit-oss/quickwit" target="_blank"><img alt="Quickwit" src="https://img.shields.io/github/stars/quickwit-oss/quickwit?style=social" /></a></th>
     </tr>
 
 </table>
@@ -2420,6 +2436,14 @@
         <td><a href="https://github.com/intelops/compage" target="_blank">Compage</a></td>
         <td>Compage - Low-Code Framework to develop Rest API, gRPC, dRPC, GraphQL, WebAssembly, microservices, FaaS, Temporal workloads, IoT and edge services, K8s controllers, K8s CRDs, K8s custom APIs, K8s O…</td>
         <th><a href="https://github.com/intelops/compage" target="_blank"><img alt="Compage" src="https://img.shields.io/github/stars/intelops/compage?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Aesthetic Arch Linux dotfiles" src="https://libraries.github20k.com/images/uploads/2023/06/newshot-dotfiles.jpg" /></td>
+        <td>Productivity</td>
+        <td>CSS</td>
+        <td><a href="https://github.com/HynDuf/dotfiles" target="_blank">Aesthetic Arch Linux dotfiles</a></td>
+        <td>Aesthetic Dotfiles for my Arch Linux</td>
+        <th><a href="https://github.com/HynDuf/dotfiles" target="_blank"><img alt="Aesthetic Arch Linux dotfiles" src="https://img.shields.io/github/stars/HynDuf/dotfiles?style=social" /></a></th>
     </tr>
 
 </table>
@@ -4024,6 +4048,14 @@
         <td><a href="https://docs.saltproject.io" target="_blank">Dockerized Salt Master</a></td>
         <td><g-emoji class="g-emoji" alias="whale" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f433.png">?</g-emoji><g-emoji class="g-emoji" alias="salt" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f9c2.png">?</g-emoji> Dockerized Salt Master</td>
         <th><a href="https://github.com/cdalvaro/docker-salt-master" target="_blank"><img alt="Dockerized Salt Master" src="https://img.shields.io/github/stars/cdalvaro/docker-salt-master?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="smartdns-rs" src="https://libraries.github20k.com/images/uploads/2023/06/newshot-smartdns-rs.jpg" /></td>
+        <td>Infrastructure</td>
+        <td>Rust</td>
+        <td><a href="https://github.com/mokeyish/smartdns-rs" target="_blank">smartdns-rs</a></td>
+        <td>A cross platform local DNS server (Dnsmasq like) written in rust to obtain the fastest website IP for the best Internet experience, supports DoT, DoH.</td>
+        <th><a href="https://github.com/mokeyish/smartdns-rs" target="_blank"><img alt="smartdns-rs" src="https://img.shields.io/github/stars/mokeyish/smartdns-rs?style=social" /></a></th>
     </tr>
 
 </table>
@@ -5813,6 +5845,14 @@
         <th><a href="https://github.com/juspay/hyperswitch" target="_blank"><img alt="Hyperswitch" src="https://img.shields.io/github/stars/juspay/hyperswitch?style=social" /></a></th>
     </tr>
     <tr>
+        <td nowrap="nowrap"><img width="33" alt="Quickwit" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-quickwit.png" /></td>
+        <td>Observability</td>
+        <td>Rust</td>
+        <td><a href="https://quickwit.io" target="_blank">Quickwit</a></td>
+        <td>Sub-second search &amp; analytics engine on cloud storage</td>
+        <th><a href="https://github.com/quickwit-oss/quickwit" target="_blank"><img alt="Quickwit" src="https://img.shields.io/github/stars/quickwit-oss/quickwit?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="wasm-pack" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-wasm-pack.png" /></td>
         <td>Productivity</td>
         <td>Rust</td>
@@ -5869,12 +5909,12 @@
         <th><a href="https://github.com/orhun/git-cliff" target="_blank"><img alt="git-cliff" src="https://img.shields.io/github/stars/orhun/git-cliff?style=social" /></a></th>
     </tr>
     <tr>
-        <td nowrap="nowrap"><img width="33" alt="Quickwit" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-quickwit.png" /></td>
-        <td>Observability</td>
+        <td nowrap="nowrap"><img width="33" alt="smartdns-rs" src="https://libraries.github20k.com/images/uploads/2023/06/newshot-smartdns-rs.jpg" /></td>
+        <td>Infrastructure</td>
         <td>Rust</td>
-        <td><a href="https://quickwit.io" target="_blank">Quickwit</a></td>
-        <td>Sub-second search &amp; analytics engine on cloud storage</td>
-        <th><a href="https://github.com/quickwit-oss/quickwit" target="_blank"><img alt="Quickwit" src="https://img.shields.io/github/stars/quickwit-oss/quickwit?style=social" /></a></th>
+        <td><a href="https://github.com/mokeyish/smartdns-rs" target="_blank">smartdns-rs</a></td>
+        <td>A cross platform local DNS server (Dnsmasq like) written in rust to obtain the fastest website IP for the best Internet experience, supports DoT, DoH.</td>
+        <th><a href="https://github.com/mokeyish/smartdns-rs" target="_blank"><img alt="smartdns-rs" src="https://img.shields.io/github/stars/mokeyish/smartdns-rs?style=social" /></a></th>
     </tr>
 
 </table>
@@ -6464,6 +6504,14 @@
         <td>CSS Animation Library for Developers and Ninjas</td>
         <th><a href="https://github.com/yesiamrocks/cssanimation.io" target="_blank"><img alt="cssanimation.io" src="https://img.shields.io/github/stars/yesiamrocks/cssanimation.io?style=social" /></a></th>
     </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Aesthetic Arch Linux dotfiles" src="https://libraries.github20k.com/images/uploads/2023/06/newshot-dotfiles.jpg" /></td>
+        <td>Productivity</td>
+        <td>CSS</td>
+        <td><a href="https://github.com/HynDuf/dotfiles" target="_blank">Aesthetic Arch Linux dotfiles</a></td>
+        <td>Aesthetic Dotfiles for my Arch Linux</td>
+        <th><a href="https://github.com/HynDuf/dotfiles" target="_blank"><img alt="Aesthetic Arch Linux dotfiles" src="https://img.shields.io/github/stars/HynDuf/dotfiles?style=social" /></a></th>
+    </tr>
 
 </table>
 
@@ -6485,6 +6533,14 @@
         <td><a href="https://everright.site/en/module/filter/introduction.html" target="_blank">Everright-filter</a></td>
         <td>A query builder component for Vue3. Supports filtering of multiple data types, including string, number, dropdown, cascade, region, date, and time.</td>
         <th><a href="https://github.com/Liberty-liu/Everright-filter" target="_blank"><img alt="Everright-filter" src="https://img.shields.io/github/stars/Liberty-liu/Everright-filter?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="WooNuxt" src="https://libraries.github20k.com/images/uploads/2023/06/newshot-woonuxt.png" /></td>
+        <td>Miscellaneous</td>
+        <td>Vue</td>
+        <td><a href="https://woonuxt.com" target="_blank">WooNuxt</a></td>
+        <td>Static e-commerce powered by WooCommerce &amp; Nuxt</td>
+        <th><a href="https://github.com/scottyzen/woonuxt" target="_blank"><img alt="WooNuxt" src="https://img.shields.io/github/stars/scottyzen/woonuxt?style=social" /></a></th>
     </tr>
 
 </table>
@@ -6859,6 +6915,14 @@
         <td><a href="https://github.com/eleev/skcomponents-kit" target="_blank">skcomponents kit</a></td>
         <td><g-emoji class="g-emoji" alias="alembic" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2697.png">⚗️</g-emoji> Collection of SpriteKit components for intermediate/advanced use cases.</td>
         <th><a href="https://github.com/eleev/skcomponents-kit" target="_blank"><img alt="skcomponents kit" src="https://img.shields.io/github/stars/eleev/skcomponents-kit?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="AsyncGraphics" src="https://libraries.github20k.com/images/uploads/2023/06/newshot-AsyncGraphics.jpg" /></td>
+        <td>Miscellaneous</td>
+        <td>Swift</td>
+        <td><a href="http://async.graphics" target="_blank">AsyncGraphics</a></td>
+        <td>Edit images and video with async / await in Swift, powered by Metal.</td>
+        <th><a href="https://github.com/heestand-xyz/AsyncGraphics" target="_blank"><img alt="AsyncGraphics" src="https://img.shields.io/github/stars/heestand-xyz/AsyncGraphics?style=social" /></a></th>
     </tr>
 
 </table>
