@@ -140,6 +140,14 @@
         <th>Stargazers</th>
     </tr>
         <tr>
+        <td nowrap="nowrap"><img width="33" alt="NUKI Hub" src="https://libraries.github20k.com/images/uploads/2023/06/newshot-nuki_hub-1.png" /></td>
+        <td>Miscellaneous</td>
+        <td>C</td>
+        <td><a href="https://github.com/technyon/nuki_hub" target="_blank">NUKI Hub</a></td>
+        <td>Use an ESP32 as a Hub between a NUKI Lock and your smarthome.</td>
+        <th><a href="https://github.com/technyon/nuki_hub" target="_blank"><img alt="NUKI Hub" src="https://img.shields.io/github/stars/technyon/nuki_hub?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="Mood-Example" src="https://libraries.github20k.com/images/uploads/2023/06/newshot-Mood-Example.png" /></td>
         <td>Miscellaneous</td>
         <td>Dart</td>
@@ -290,14 +298,6 @@
         <td><a href="https://reduced.to" target="_blank">reduced.to</a></td>
         <td>Free Modern URL Reducer. Make sure to share love by giving it a star.<g-emoji class="g-emoji" alias="star2" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f31f.png">?</g-emoji> Have a great day!</td>
         <th><a href="https://github.com/origranot/reduced.to" target="_blank"><img alt="reduced.to" src="https://img.shields.io/github/stars/origranot/reduced.to?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Node decorators" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-node-decorators.jpg" /></td>
-        <td>Productivity</td>
-        <td>TypeScript</td>
-        <td><a href="https://www.linkedin.com/pulse/why-use-decorators-typescript-siddharth-kumar/" target="_blank">Node decorators</a></td>
-        <td>Typescript decorator implementation for caching and logging</td>
-        <th><a href="https://github.com/thekosmix/node-decorators" target="_blank"><img alt="Node decorators" src="https://img.shields.io/github/stars/thekosmix/node-decorators?style=social" /></a></th>
     </tr>
 
 </table>
@@ -1376,6 +1376,14 @@
         <td><a href="http://async.graphics" target="_blank">AsyncGraphics</a></td>
         <td>Edit images and video with async / await in Swift, powered by Metal.</td>
         <th><a href="https://github.com/heestand-xyz/AsyncGraphics" target="_blank"><img alt="AsyncGraphics" src="https://img.shields.io/github/stars/heestand-xyz/AsyncGraphics?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="NUKI Hub" src="https://libraries.github20k.com/images/uploads/2023/06/newshot-nuki_hub-1.png" /></td>
+        <td>Miscellaneous</td>
+        <td>C</td>
+        <td><a href="https://github.com/technyon/nuki_hub" target="_blank">NUKI Hub</a></td>
+        <td>Use an ESP32 as a Hub between a NUKI Lock and your smarthome.</td>
+        <th><a href="https://github.com/technyon/nuki_hub" target="_blank"><img alt="NUKI Hub" src="https://img.shields.io/github/stars/technyon/nuki_hub?style=social" /></a></th>
     </tr>
 
 </table>
@@ -6841,6 +6849,14 @@
         <td><a href="https://CALE.es" target="_blank">CalEPD is an Epaper component driver for the ESP-IDF framework with GFX and font support, optional touch interface, compatible with ESP32 / S2 / S3 / C3</a></td>
         <td>CalEPD is an Epaper component driver for the ESP-IDF framework with GFX and font support, optional touch interface, compatible with ESP32 / S2 / S3 / C3</td>
         <th><a href="https://github.com/martinberlin/cale-idf" target="_blank"><img alt="CalEPD is an Epaper component driver for the ESP-IDF framework with GFX and font support, optional touch interface, compatible with ESP32 / S2 / S3 / C3" src="https://img.shields.io/github/stars/martinberlin/cale-idf?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="NUKI Hub" src="https://libraries.github20k.com/images/uploads/2023/06/newshot-nuki_hub-1.png" /></td>
+        <td>Miscellaneous</td>
+        <td>C</td>
+        <td><a href="https://github.com/technyon/nuki_hub" target="_blank">NUKI Hub</a></td>
+        <td>Use an ESP32 as a Hub between a NUKI Lock and your smarthome.</td>
+        <th><a href="https://github.com/technyon/nuki_hub" target="_blank"><img alt="NUKI Hub" src="https://img.shields.io/github/stars/technyon/nuki_hub?style=social" /></a></th>
     </tr>
 
 </table>
