@@ -571,6 +571,14 @@
         <th><a href="https://github.com/day8/re-frame" target="_blank"><img alt="re-frame" src="https://img.shields.io/github/stars/day8/re-frame?style=social" /></a></th>
     </tr>
     <tr>
+        <td nowrap="nowrap"><img width="33" alt="DocsGPT" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-DocsGPT.png" /></td>
+        <td>Productivity</td>
+        <td>Python</td>
+        <td><a href="https://docsgpt.arc53.com/" target="_blank">DocsGPT</a></td>
+        <td>GPT-powered chat for documentation search &amp; assistance.</td>
+        <th><a href="https://github.com/arc53/DocsGPT" target="_blank"><img alt="DocsGPT" src="https://img.shields.io/github/stars/arc53/DocsGPT?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="Micronaut Framework" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-micronaut-core.png" /></td>
         <td>Infrastructure</td>
         <td>Java</td>
@@ -585,6 +593,14 @@
         <td><a href="https://graphql-java.com" target="_blank">GraphQL Java</a></td>
         <td>GraphQL Java implementation</td>
         <th><a href="https://github.com/graphql-java/graphql-java" target="_blank"><img alt="GraphQL Java" src="https://img.shields.io/github/stars/graphql-java/graphql-java?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="NativeScript-Vue" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-nativescript-vue-1.png" /></td>
+        <td>Infrastructure</td>
+        <td>TypeScript</td>
+        <td><a href="https://nativescript-vue.org/" target="_blank">NativeScript-Vue</a></td>
+        <td>Native mobile applications using Vue and NativeScript.</td>
+        <th><a href="https://github.com/nativescript-vue/nativescript-vue" target="_blank"><img alt="NativeScript-Vue" src="https://img.shields.io/github/stars/nativescript-vue/nativescript-vue?style=social" /></a></th>
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="StackExchange.Redis" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-StackExchange.Redis_.png" /></td>
@@ -1097,22 +1113,6 @@
         <td><a href="https://realm.io" target="_blank">Realm</a></td>
         <td> Realm is a mobile database: an alternative to SQLite &amp; key-value stores</td>
         <th><a href="https://github.com/realm/realm-js" target="_blank"><img alt="Realm" src="https://img.shields.io/github/stars/realm/realm-js?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="LibreTube" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-LibreTube.png" /></td>
-        <td>Productivity</td>
-        <td>Kotlin</td>
-        <td><a href="https://libre-tube.github.io" target="_blank">LibreTube</a></td>
-        <td>An alternative frontend for YouTube, for Android.</td>
-        <th><a href="https://github.com/libre-tube/LibreTube" target="_blank"><img alt="LibreTube" src="https://img.shields.io/github/stars/libre-tube/LibreTube?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="mediasoup" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-mediasoup.png" /></td>
-        <td>Infrastructure</td>
-        <td>C++</td>
-        <td><a href="https://mediasoup.org" target="_blank">mediasoup</a></td>
-        <td>Cutting Edge WebRTC Video Conferencing</td>
-        <th><a href="https://github.com/versatica/mediasoup" target="_blank"><img alt="mediasoup" src="https://img.shields.io/github/stars/versatica/mediasoup?style=social" /></a></th>
     </tr>
 
 </table>
@@ -1654,6 +1654,14 @@
         <th><a href="https://github.com/flutter/gallery" target="_blank"><img alt="Flutter Gallery" src="https://img.shields.io/github/stars/flutter/gallery?style=social" /></a></th>
     </tr>
     <tr>
+        <td nowrap="nowrap"><img width="33" alt="DocsGPT" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-DocsGPT.png" /></td>
+        <td>Productivity</td>
+        <td>Python</td>
+        <td><a href="https://docsgpt.arc53.com/" target="_blank">DocsGPT</a></td>
+        <td>GPT-powered chat for documentation search &amp; assistance.</td>
+        <th><a href="https://github.com/arc53/DocsGPT" target="_blank"><img alt="DocsGPT" src="https://img.shields.io/github/stars/arc53/DocsGPT?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="Docusaurus" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-docusaurus.png" /></td>
         <td>Productivity</td>
         <td>TypeScript</td>
@@ -1828,14 +1836,6 @@
         <td><a href="https://flet.dev" target="_blank">Flet</a></td>
         <td>Flet enables developers to easily build realtime web, mobile and desktop apps in Python. No frontend experience required.</td>
         <th><a href="https://github.com/flet-dev/flet" target="_blank"><img alt="Flet" src="https://img.shields.io/github/stars/flet-dev/flet?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="DocsGPT" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-DocsGPT.png" /></td>
-        <td>Productivity</td>
-        <td>Python</td>
-        <td><a href="https://docsgpt.arc53.com/" target="_blank">DocsGPT</a></td>
-        <td>GPT-powered chat for documentation search &amp; assistance.</td>
-        <th><a href="https://github.com/arc53/DocsGPT" target="_blank"><img alt="DocsGPT" src="https://img.shields.io/github/stars/arc53/DocsGPT?style=social" /></a></th>
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="Remix Icon" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-RemixIcon.png" /></td>
@@ -3386,6 +3386,14 @@
         <th><a href="https://github.com/graphql-java/graphql-java" target="_blank"><img alt="GraphQL Java" src="https://img.shields.io/github/stars/graphql-java/graphql-java?style=social" /></a></th>
     </tr>
     <tr>
+        <td nowrap="nowrap"><img width="33" alt="NativeScript-Vue" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-nativescript-vue-1.png" /></td>
+        <td>Infrastructure</td>
+        <td>TypeScript</td>
+        <td><a href="https://nativescript-vue.org/" target="_blank">NativeScript-Vue</a></td>
+        <td>Native mobile applications using Vue and NativeScript.</td>
+        <th><a href="https://github.com/nativescript-vue/nativescript-vue" target="_blank"><img alt="NativeScript-Vue" src="https://img.shields.io/github/stars/nativescript-vue/nativescript-vue?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="PHP Collections" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-map.png" /></td>
         <td>Infrastructure</td>
         <td>PHP</td>
@@ -3826,14 +3834,6 @@
         <th><a href="https://github.com/Jigsaw-Code/outline-server" target="_blank"><img alt="Outline VPN" src="https://img.shields.io/github/stars/Jigsaw-Code/outline-server?style=social" /></a></th>
     </tr>
     <tr>
-        <td nowrap="nowrap"><img width="33" alt="NativeScript-Vue" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-nativescript-vue-1.png" /></td>
-        <td>Infrastructure</td>
-        <td>TypeScript</td>
-        <td><a href="https://nativescript-vue.org/" target="_blank">NativeScript-Vue</a></td>
-        <td>Native mobile applications using Vue and NativeScript.</td>
-        <th><a href="https://github.com/nativescript-vue/nativescript-vue" target="_blank"><img alt="NativeScript-Vue" src="https://img.shields.io/github/stars/nativescript-vue/nativescript-vue?style=social" /></a></th>
-    </tr>
-    <tr>
         <td nowrap="nowrap"><img width="33" alt="Scala 3" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-dotty.jpg" /></td>
         <td>Infrastructure</td>
         <td>Scala</td>
@@ -4201,6 +4201,14 @@
         <th><a href="https://github.com/aptabase/aptabase" target="_blank"><img alt="Aptabase" src="https://img.shields.io/github/stars/aptabase/aptabase?style=social" /></a></th>
     </tr>
     <tr>
+        <td nowrap="nowrap"><img width="33" alt="NativeScript-Vue" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-nativescript-vue-1.png" /></td>
+        <td>Infrastructure</td>
+        <td>TypeScript</td>
+        <td><a href="https://nativescript-vue.org/" target="_blank">NativeScript-Vue</a></td>
+        <td>Native mobile applications using Vue and NativeScript.</td>
+        <th><a href="https://github.com/nativescript-vue/nativescript-vue" target="_blank"><img alt="NativeScript-Vue" src="https://img.shields.io/github/stars/nativescript-vue/nativescript-vue?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="Docusaurus" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-docusaurus.png" /></td>
         <td>Productivity</td>
         <td>TypeScript</td>
@@ -4463,14 +4471,6 @@
         <td><a href="https://getoutline.org/" target="_blank">Outline VPN</a></td>
         <td>Outline Manager, developed by Jigsaw. The Outline Manager application creates and manages Outline servers, powered by Shadowsocks. It uses the Electron framework to offer support for Windows, macOS…</td>
         <th><a href="https://github.com/Jigsaw-Code/outline-server" target="_blank"><img alt="Outline VPN" src="https://img.shields.io/github/stars/Jigsaw-Code/outline-server?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="NativeScript-Vue" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-nativescript-vue-1.png" /></td>
-        <td>Infrastructure</td>
-        <td>TypeScript</td>
-        <td><a href="https://nativescript-vue.org/" target="_blank">NativeScript-Vue</a></td>
-        <td>Native mobile applications using Vue and NativeScript.</td>
-        <th><a href="https://github.com/nativescript-vue/nativescript-vue" target="_blank"><img alt="NativeScript-Vue" src="https://img.shields.io/github/stars/nativescript-vue/nativescript-vue?style=social" /></a></th>
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="wix/react-native-ui-lib" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-react-native-ui-lib.png" /></td>
@@ -5585,6 +5585,14 @@
         <th><a href="https://github.com/uripeled2/llm-client-sdk" target="_blank"><img alt="llm-client" src="https://img.shields.io/github/stars/uripeled2/llm-client-sdk?style=social" /></a></th>
     </tr>
     <tr>
+        <td nowrap="nowrap"><img width="33" alt="DocsGPT" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-DocsGPT.png" /></td>
+        <td>Productivity</td>
+        <td>Python</td>
+        <td><a href="https://docsgpt.arc53.com/" target="_blank">DocsGPT</a></td>
+        <td>GPT-powered chat for documentation search &amp; assistance.</td>
+        <th><a href="https://github.com/arc53/DocsGPT" target="_blank"><img alt="DocsGPT" src="https://img.shields.io/github/stars/arc53/DocsGPT?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="Keep" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-keep-4.png" /></td>
         <td>Notifications</td>
         <td>Python</td>
@@ -5623,14 +5631,6 @@
         <td><a href="https://flet.dev" target="_blank">Flet</a></td>
         <td>Flet enables developers to easily build realtime web, mobile and desktop apps in Python. No frontend experience required.</td>
         <th><a href="https://github.com/flet-dev/flet" target="_blank"><img alt="Flet" src="https://img.shields.io/github/stars/flet-dev/flet?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="DocsGPT" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-DocsGPT.png" /></td>
-        <td>Productivity</td>
-        <td>Python</td>
-        <td><a href="https://docsgpt.arc53.com/" target="_blank">DocsGPT</a></td>
-        <td>GPT-powered chat for documentation search &amp; assistance.</td>
-        <th><a href="https://github.com/arc53/DocsGPT" target="_blank"><img alt="DocsGPT" src="https://img.shields.io/github/stars/arc53/DocsGPT?style=social" /></a></th>
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="Waydroid" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-waydroid.png" /></td>
