@@ -148,6 +148,22 @@
         <th><a href="https://github.com/rovelstars/reejs" target="_blank"><img alt="Reejs" src="https://img.shields.io/github/stars/rovelstars/reejs?style=social" /></a></th>
     </tr>
     <tr>
+        <td nowrap="nowrap"><img width="33" alt="Intents operator" src="https://libraries.github20k.com/images/uploads/2023/06/newshot-intents-operator.png" /></td>
+        <td>Security</td>
+        <td>Go</td>
+        <td><a href="https://github.com/otterize/intents-operator" target="_blank">Intents operator</a></td>
+        <td>Manage network policies, Istio Authorization Policies, and Kafka ACLs in a Kubernetes cluster with ease.</td>
+        <th><a href="https://github.com/otterize/intents-operator" target="_blank"><img alt="Intents operator" src="https://img.shields.io/github/stars/otterize/intents-operator?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Network mapper" src="https://libraries.github20k.com/images/uploads/2023/06/newshot-network-mapper.png" /></td>
+        <td>Observability</td>
+        <td>Go</td>
+        <td><a href="https://github.com/otterize/network-mapper" target="_blank">Network mapper</a></td>
+        <td>Map Kubernetes in-cluster traffic and export as text, intents, or an image</td>
+        <th><a href="https://github.com/otterize/network-mapper" target="_blank"><img alt="Network mapper" src="https://img.shields.io/github/stars/otterize/network-mapper?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="NUKI Hub" src="https://libraries.github20k.com/images/uploads/2023/06/newshot-nuki_hub-1.png" /></td>
         <td>Miscellaneous</td>
         <td>C</td>
@@ -282,22 +298,6 @@
         <td><a href="https://railtrack.ch" target="_blank">Railtrack</a></td>
         <td>Next.js and Supabase app to track your train journeys in Europe</td>
         <th><a href="https://github.com/noahflk/railtrack" target="_blank"><img alt="Railtrack" src="https://img.shields.io/github/stars/noahflk/railtrack?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Quickwit" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-quickwit.png" /></td>
-        <td>Observability</td>
-        <td>Rust</td>
-        <td><a href="https://quickwit.io" target="_blank">Quickwit</a></td>
-        <td>Sub-second search &amp; analytics engine on cloud storage</td>
-        <th><a href="https://github.com/quickwit-oss/quickwit" target="_blank"><img alt="Quickwit" src="https://img.shields.io/github/stars/quickwit-oss/quickwit?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Java Backend for FB Chatbot" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-Java-FbChatBot.jpg" /></td>
-        <td>Miscellaneous</td>
-        <td>Java</td>
-        <td><a href="https://www.linkedin.com/pulse/why-build-your-chat-bot-fb-messenger-siddharth-kumar" target="_blank">Java Backend for FB Chatbot</a></td>
-        <td>Messenger webhook implementation in java with jetty, contracts of facebook messenger webhook</td>
-        <th><a href="https://github.com/thekosmix/Java-FbChatBot" target="_blank"><img alt="Java Backend for FB Chatbot" src="https://img.shields.io/github/stars/thekosmix/Java-FbChatBot?style=social" /></a></th>
     </tr>
 
 </table>
@@ -1566,6 +1566,14 @@
         <td><a href="https://pychat.org" target="_blank">pychat</a></td>
         <td>webchat via WebSockets/WebRTC that allows messaging/video call/screen sharing</td>
         <th><a href="https://github.com/akoidan/pychat" target="_blank"><img alt="pychat" src="https://img.shields.io/github/stars/akoidan/pychat?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Network mapper" src="https://libraries.github20k.com/images/uploads/2023/06/newshot-network-mapper.png" /></td>
+        <td>Observability</td>
+        <td>Go</td>
+        <td><a href="https://github.com/otterize/network-mapper" target="_blank">Network mapper</a></td>
+        <td>Map Kubernetes in-cluster traffic and export as text, intents, or an image</td>
+        <th><a href="https://github.com/otterize/network-mapper" target="_blank"><img alt="Network mapper" src="https://img.shields.io/github/stars/otterize/network-mapper?style=social" /></a></th>
     </tr>
 
 </table>
@@ -2856,6 +2864,14 @@
         <td><a href="https://boxyhq.com/docs/jackson/overview" target="_blank">SAML Jackson</a></td>
         <td>An Enterprise SAML single sign-on service designed as an OAuth 2.0 flow. Integrate SAML and OIDC SSO with just a few lines of code.</td>
         <th><a href="https://github.com/boxyhq/jackson" target="_blank"><img alt="SAML Jackson" src="https://img.shields.io/github/stars/boxyhq/jackson?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Intents operator" src="https://libraries.github20k.com/images/uploads/2023/06/newshot-intents-operator.png" /></td>
+        <td>Security</td>
+        <td>Go</td>
+        <td><a href="https://github.com/otterize/intents-operator" target="_blank">Intents operator</a></td>
+        <td>Manage network policies, Istio Authorization Policies, and Kafka ACLs in a Kubernetes cluster with ease.</td>
+        <th><a href="https://github.com/otterize/intents-operator" target="_blank"><img alt="Intents operator" src="https://img.shields.io/github/stars/otterize/intents-operator?style=social" /></a></th>
     </tr>
 
 </table>
@@ -6419,6 +6435,22 @@
         <td><a href="https://zitadel.com" target="_blank">ZITADEL</a></td>
         <td>ZITADEL - The best of Auth0 and Keycloak combined. Built for the serverless era.</td>
         <th><a href="https://github.com/zitadel/zitadel" target="_blank"><img alt="ZITADEL" src="https://img.shields.io/github/stars/zitadel/zitadel?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Intents operator" src="https://libraries.github20k.com/images/uploads/2023/06/newshot-intents-operator.png" /></td>
+        <td>Security</td>
+        <td>Go</td>
+        <td><a href="https://github.com/otterize/intents-operator" target="_blank">Intents operator</a></td>
+        <td>Manage network policies, Istio Authorization Policies, and Kafka ACLs in a Kubernetes cluster with ease.</td>
+        <th><a href="https://github.com/otterize/intents-operator" target="_blank"><img alt="Intents operator" src="https://img.shields.io/github/stars/otterize/intents-operator?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Network mapper" src="https://libraries.github20k.com/images/uploads/2023/06/newshot-network-mapper.png" /></td>
+        <td>Observability</td>
+        <td>Go</td>
+        <td><a href="https://github.com/otterize/network-mapper" target="_blank">Network mapper</a></td>
+        <td>Map Kubernetes in-cluster traffic and export as text, intents, or an image</td>
+        <th><a href="https://github.com/otterize/network-mapper" target="_blank"><img alt="Network mapper" src="https://img.shields.io/github/stars/otterize/network-mapper?style=social" /></a></th>
     </tr>
 
 </table>
