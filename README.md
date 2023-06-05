@@ -140,6 +140,30 @@
         <th>Stargazers</th>
     </tr>
         <tr>
+        <td nowrap="nowrap"><img width="33" alt="@ogma/logger" src="https://libraries.github20k.com/images/uploads/2023/06/newshot-ogma.jpg" /></td>
+        <td>Miscellaneous</td>
+        <td>TypeScript</td>
+        <td><a href="https://ogma.jaymcdoniel.dev" target="_blank">@ogma/logger</a></td>
+        <td>A monorepo for the ogma logger and related packages</td>
+        <th><a href="https://github.com/jmcdo29/ogma" target="_blank"><img alt="@ogma/logger" src="https://img.shields.io/github/stars/jmcdo29/ogma?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Sqlg" src="https://libraries.github20k.com/images/uploads/2023/06/newshot-sqlg.png" /></td>
+        <td>Databases</td>
+        <td>Java</td>
+        <td><a href="https://github.com/pietermartin/sqlg" target="_blank">Sqlg</a></td>
+        <td>TinkerPop graph over sql</td>
+        <th><a href="https://github.com/pietermartin/sqlg" target="_blank"><img alt="Sqlg" src="https://img.shields.io/github/stars/pietermartin/sqlg?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Devtron" src="https://libraries.github20k.com/images/uploads/2023/06/newshot-devtron.png" /></td>
+        <td>Infrastructure</td>
+        <td>Go</td>
+        <td><a href="https://devtron.ai" target="_blank">Devtron</a></td>
+        <td>Tool integration platform for Kubernetes</td>
+        <th><a href="https://github.com/devtron-labs/devtron" target="_blank"><img alt="Devtron" src="https://img.shields.io/github/stars/devtron-labs/devtron?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="Reejs" src="https://libraries.github20k.com/images/uploads/2023/06/newshot-reejs.png" /></td>
         <td>Productivity</td>
         <td>JavaScript</td>
@@ -275,30 +299,6 @@
         <td>Fleetbase: a flexible platform for logistics and supply chain, built on adaptable extensions, providing robust digital infrastructure for developers.</td>
         <th><a href="https://github.com/fleetbase/fleetbase" target="_blank"><img alt="Fleetbase" src="https://img.shields.io/github/stars/fleetbase/fleetbase?style=social" /></a></th>
     </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Keep" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-keep-4.png" /></td>
-        <td>Notifications</td>
-        <td>Python</td>
-        <td><a href="https://www.keephq.dev" target="_blank">Keep</a></td>
-        <td>Open source alerting management for software developers.</td>
-        <th><a href="https://github.com/keephq/keep" target="_blank"><img alt="Keep" src="https://img.shields.io/github/stars/keephq/keep?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="100-days-of-productivity" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-100-days-of-productivity.jpg" /></td>
-        <td>Productivity</td>
-        <td>TypeScript</td>
-        <td><a href="https://github.com/Erutidians/auto-dop" target="_blank">100-days-of-productivity</a></td>
-        <td>becoming one percent better everyday.</td>
-        <th><a href="https://github.com/plskz/100-days-of-productivity" target="_blank"><img alt="100-days-of-productivity" src="https://img.shields.io/github/stars/plskz/100-days-of-productivity?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Railtrack" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-railtrack.png" /></td>
-        <td>Analytics</td>
-        <td>TypeScript</td>
-        <td><a href="https://railtrack.ch" target="_blank">Railtrack</a></td>
-        <td>Next.js and Supabase app to track your train journeys in Europe</td>
-        <th><a href="https://github.com/noahflk/railtrack" target="_blank"><img alt="Railtrack" src="https://img.shields.io/github/stars/noahflk/railtrack?style=social" /></a></th>
-    </tr>
 
 </table>
 
@@ -411,20 +411,20 @@
         <th><a href="https://github.com/Liberty-liu/Everright-formEditor" target="_blank"><img alt="Everright-formEditor" src="https://img.shields.io/github/stars/Liberty-liu/Everright-formEditor?style=social" /></a></th>
     </tr>
     <tr>
-        <td nowrap="nowrap"><img width="33" alt="awesome window manager" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-awesome.png" /></td>
-        <td>Miscellaneous</td>
-        <td>Lua</td>
-        <td><a href="https://awesomewm.org/" target="_blank">awesome window manager</a></td>
-        <td>awesome window manager</td>
-        <th><a href="https://github.com/awesomeWM/awesome" target="_blank"><img alt="awesome window manager" src="https://img.shields.io/github/stars/awesomeWM/awesome?style=social" /></a></th>
-    </tr>
-    <tr>
         <td nowrap="nowrap"><img width="33" alt="Bitwarden" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-clients-1.png" /></td>
         <td>Security</td>
         <td>TypeScript</td>
         <td><a href="https://bitwarden.com" target="_blank">Bitwarden</a></td>
         <td>Bitwarden client applications (web, browser extension, desktop, and cli)</td>
         <th><a href="https://github.com/bitwarden/clients" target="_blank"><img alt="Bitwarden" src="https://img.shields.io/github/stars/bitwarden/clients?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="awesome window manager" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-awesome.png" /></td>
+        <td>Miscellaneous</td>
+        <td>Lua</td>
+        <td><a href="https://awesomewm.org/" target="_blank">awesome window manager</a></td>
+        <td>awesome window manager</td>
+        <th><a href="https://github.com/awesomeWM/awesome" target="_blank"><img alt="awesome window manager" src="https://img.shields.io/github/stars/awesomeWM/awesome?style=social" /></a></th>
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="group_button" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-group_button.jpg" /></td>
@@ -1384,6 +1384,14 @@
         <td><a href="https://github.com/technyon/nuki_hub" target="_blank">NUKI Hub</a></td>
         <td>Use an ESP32 as a Hub between a NUKI Lock and your smarthome.</td>
         <th><a href="https://github.com/technyon/nuki_hub" target="_blank"><img alt="NUKI Hub" src="https://img.shields.io/github/stars/technyon/nuki_hub?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="@ogma/logger" src="https://libraries.github20k.com/images/uploads/2023/06/newshot-ogma.jpg" /></td>
+        <td>Miscellaneous</td>
+        <td>TypeScript</td>
+        <td><a href="https://ogma.jaymcdoniel.dev" target="_blank">@ogma/logger</a></td>
+        <td>A monorepo for the ogma logger and related packages</td>
+        <th><a href="https://github.com/jmcdo29/ogma" target="_blank"><img alt="@ogma/logger" src="https://img.shields.io/github/stars/jmcdo29/ogma?style=social" /></a></th>
     </tr>
 
 </table>
@@ -3283,6 +3291,14 @@
         <td>Advanced Java Redis client for thread-safe sync, async, and reactive usage. Supports Cluster, Sentinel, Pipelining, and codecs.</td>
         <th><a href="https://github.com/lettuce-io/lettuce-core" target="_blank"><img alt="lettuce-io/lettuce-core" src="https://img.shields.io/github/stars/lettuce-io/lettuce-core?style=social" /></a></th>
     </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Sqlg" src="https://libraries.github20k.com/images/uploads/2023/06/newshot-sqlg.png" /></td>
+        <td>Databases</td>
+        <td>Java</td>
+        <td><a href="https://github.com/pietermartin/sqlg" target="_blank">Sqlg</a></td>
+        <td>TinkerPop graph over sql</td>
+        <th><a href="https://github.com/pietermartin/sqlg" target="_blank"><img alt="Sqlg" src="https://img.shields.io/github/stars/pietermartin/sqlg?style=social" /></a></th>
+    </tr>
 
 </table>
 
@@ -4105,6 +4121,14 @@
         <td>A cross platform local DNS server (Dnsmasq like) written in rust to obtain the fastest website IP for the best Internet experience, supports DoT, DoH.</td>
         <th><a href="https://github.com/mokeyish/smartdns-rs" target="_blank"><img alt="smartdns-rs" src="https://img.shields.io/github/stars/mokeyish/smartdns-rs?style=social" /></a></th>
     </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Devtron" src="https://libraries.github20k.com/images/uploads/2023/06/newshot-devtron.png" /></td>
+        <td>Infrastructure</td>
+        <td>Go</td>
+        <td><a href="https://devtron.ai" target="_blank">Devtron</a></td>
+        <td>Tool integration platform for Kubernetes</td>
+        <th><a href="https://github.com/devtron-labs/devtron" target="_blank"><img alt="Devtron" src="https://img.shields.io/github/stars/devtron-labs/devtron?style=social" /></a></th>
+    </tr>
 
 </table>
 
@@ -4695,6 +4719,14 @@
         <td><a href="https://github.com/intelops/compage" target="_blank">Compage</a></td>
         <td>Compage - Low-Code Framework to develop Rest API, gRPC, dRPC, GraphQL, WebAssembly, microservices, FaaS, Temporal workloads, IoT and edge services, K8s controllers, K8s CRDs, K8s custom APIs, K8s O…</td>
         <th><a href="https://github.com/intelops/compage" target="_blank"><img alt="Compage" src="https://img.shields.io/github/stars/intelops/compage?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="@ogma/logger" src="https://libraries.github20k.com/images/uploads/2023/06/newshot-ogma.jpg" /></td>
+        <td>Miscellaneous</td>
+        <td>TypeScript</td>
+        <td><a href="https://ogma.jaymcdoniel.dev" target="_blank">@ogma/logger</a></td>
+        <td>A monorepo for the ogma logger and related packages</td>
+        <th><a href="https://github.com/jmcdo29/ogma" target="_blank"><img alt="@ogma/logger" src="https://img.shields.io/github/stars/jmcdo29/ogma?style=social" /></a></th>
     </tr>
 
 </table>
@@ -5561,6 +5593,14 @@
         <td><a href="https://www.linkedin.com/pulse/why-build-your-chat-bot-fb-messenger-siddharth-kumar" target="_blank">Java Backend for FB Chatbot</a></td>
         <td>Messenger webhook implementation in java with jetty, contracts of facebook messenger webhook</td>
         <th><a href="https://github.com/thekosmix/Java-FbChatBot" target="_blank"><img alt="Java Backend for FB Chatbot" src="https://img.shields.io/github/stars/thekosmix/Java-FbChatBot?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Sqlg" src="https://libraries.github20k.com/images/uploads/2023/06/newshot-sqlg.png" /></td>
+        <td>Databases</td>
+        <td>Java</td>
+        <td><a href="https://github.com/pietermartin/sqlg" target="_blank">Sqlg</a></td>
+        <td>TinkerPop graph over sql</td>
+        <th><a href="https://github.com/pietermartin/sqlg" target="_blank"><img alt="Sqlg" src="https://img.shields.io/github/stars/pietermartin/sqlg?style=social" /></a></th>
     </tr>
 
 </table>
@@ -6451,6 +6491,14 @@
         <td><a href="https://github.com/otterize/network-mapper" target="_blank">Network mapper</a></td>
         <td>Map Kubernetes in-cluster traffic and export as text, intents, or an image</td>
         <th><a href="https://github.com/otterize/network-mapper" target="_blank"><img alt="Network mapper" src="https://img.shields.io/github/stars/otterize/network-mapper?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Devtron" src="https://libraries.github20k.com/images/uploads/2023/06/newshot-devtron.png" /></td>
+        <td>Infrastructure</td>
+        <td>Go</td>
+        <td><a href="https://devtron.ai" target="_blank">Devtron</a></td>
+        <td>Tool integration platform for Kubernetes</td>
+        <th><a href="https://github.com/devtron-labs/devtron" target="_blank"><img alt="Devtron" src="https://img.shields.io/github/stars/devtron-labs/devtron?style=social" /></a></th>
     </tr>
 
 </table>
