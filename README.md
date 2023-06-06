@@ -60,13 +60,13 @@
              </li>          <li>
                 <a href="#ruby">Top 20 Ruby libraries</a>
              </li>          <li>
+                <a href="#c">Top 20 C# libraries</a>
+             </li>          <li>
                 <a href="#rust">Top 20 Rust libraries</a>
              </li>          <li>
                 <a href="#jsonnet">Top 20 Jsonnet libraries</a>
              </li>          <li>
                 <a href="#clojure">Top 20 Clojure libraries</a>
-             </li>          <li>
-                <a href="#c">Top 20 C# libraries</a>
              </li>          <li>
                 <a href="#kotlin">Top 20 Kotlin libraries</a>
              </li>          <li>
@@ -531,6 +531,14 @@
         <th><a href="https://github.com/aptabase/aptabase" target="_blank"><img alt="Aptabase" src="https://img.shields.io/github/stars/aptabase/aptabase?style=social" /></a></th>
     </tr>
     <tr>
+        <td nowrap="nowrap"><img width="33" alt="MoZhiMusicPlayer" src="https://libraries.github20k.com/images/uploads/2023/06/newshot-MoZhiMusicPlayer.jpg" /></td>
+        <td>Analytics</td>
+        <td>C#</td>
+        <td><a href="https://github.com/Super-Badmen-Viper/MoZhiMusicPlayer" target="_blank">MoZhiMusicPlayer</a></td>
+        <td>MusicPlayer，基于dotNET_ C#_ WPF的开源音乐软件</td>
+        <th><a href="https://github.com/Super-Badmen-Viper/MoZhiMusicPlayer" target="_blank"><img alt="MoZhiMusicPlayer" src="https://img.shields.io/github/stars/Super-Badmen-Viper/MoZhiMusicPlayer?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="Mirage JS" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-miragejs.png" /></td>
         <td>Productivity</td>
         <td>JavaScript</td>
@@ -825,14 +833,6 @@
         <td><a href="https://github.com/HynDuf/dotfiles" target="_blank">Aesthetic Arch Linux dotfiles</a></td>
         <td>Aesthetic Dotfiles for my Arch Linux</td>
         <th><a href="https://github.com/HynDuf/dotfiles" target="_blank"><img alt="Aesthetic Arch Linux dotfiles" src="https://img.shields.io/github/stars/HynDuf/dotfiles?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="MoZhiMusicPlayer" src="https://libraries.github20k.com/images/uploads/2023/06/newshot-MoZhiMusicPlayer.jpg" /></td>
-        <td>Analytics</td>
-        <td>C#</td>
-        <td><a href="https://github.com/Super-Badmen-Viper/MoZhiMusicPlayer" target="_blank">MoZhiMusicPlayer</a></td>
-        <td>MusicPlayer，基于dotNET_ C#_ WPF的开源音乐软件</td>
-        <th><a href="https://github.com/Super-Badmen-Viper/MoZhiMusicPlayer" target="_blank"><img alt="MoZhiMusicPlayer" src="https://img.shields.io/github/stars/Super-Badmen-Viper/MoZhiMusicPlayer?style=social" /></a></th>
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="trame" src="https://libraries.github20k.com/images/uploads/2023/06/newshot-trame.png" /></td>
@@ -2548,6 +2548,14 @@
         <th><a href="https://github.com/aptabase/aptabase" target="_blank"><img alt="Aptabase" src="https://img.shields.io/github/stars/aptabase/aptabase?style=social" /></a></th>
     </tr>
     <tr>
+        <td nowrap="nowrap"><img width="33" alt="MoZhiMusicPlayer" src="https://libraries.github20k.com/images/uploads/2023/06/newshot-MoZhiMusicPlayer.jpg" /></td>
+        <td>Analytics</td>
+        <td>C#</td>
+        <td><a href="https://github.com/Super-Badmen-Viper/MoZhiMusicPlayer" target="_blank">MoZhiMusicPlayer</a></td>
+        <td>MusicPlayer，基于dotNET_ C#_ WPF的开源音乐软件</td>
+        <th><a href="https://github.com/Super-Badmen-Viper/MoZhiMusicPlayer" target="_blank"><img alt="MoZhiMusicPlayer" src="https://img.shields.io/github/stars/Super-Badmen-Viper/MoZhiMusicPlayer?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="Chat Analytics" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-chat-analytics.jpg" /></td>
         <td>Analytics</td>
         <td>TypeScript</td>
@@ -2562,14 +2570,6 @@
         <td><a href="https://railtrack.ch" target="_blank">Railtrack</a></td>
         <td>Next.js and Supabase app to track your train journeys in Europe</td>
         <th><a href="https://github.com/noahflk/railtrack" target="_blank"><img alt="Railtrack" src="https://img.shields.io/github/stars/noahflk/railtrack?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="MoZhiMusicPlayer" src="https://libraries.github20k.com/images/uploads/2023/06/newshot-MoZhiMusicPlayer.jpg" /></td>
-        <td>Analytics</td>
-        <td>C#</td>
-        <td><a href="https://github.com/Super-Badmen-Viper/MoZhiMusicPlayer" target="_blank">MoZhiMusicPlayer</a></td>
-        <td>MusicPlayer，基于dotNET_ C#_ WPF的开源音乐软件</td>
-        <th><a href="https://github.com/Super-Badmen-Viper/MoZhiMusicPlayer" target="_blank"><img alt="MoZhiMusicPlayer" src="https://img.shields.io/github/stars/Super-Badmen-Viper/MoZhiMusicPlayer?style=social" /></a></th>
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="OneFlow" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-oneflow.png" /></td>
@@ -6312,6 +6312,108 @@
 </table>
 
 <br /><br />
+<h2 id="c">Top 20 C# libraries</h2>
+<table>
+    <tr>
+        <th>Icon</th>
+        <th>Category</th>
+        <th>Language</th>
+        <th>Name</th>
+        <th>Description</th>
+        <th>Stargazers</th>
+    </tr>
+        <tr>
+        <td nowrap="nowrap"><img width="33" alt="MoZhiMusicPlayer" src="https://libraries.github20k.com/images/uploads/2023/06/newshot-MoZhiMusicPlayer.jpg" /></td>
+        <td>Analytics</td>
+        <td>C#</td>
+        <td><a href="https://github.com/Super-Badmen-Viper/MoZhiMusicPlayer" target="_blank">MoZhiMusicPlayer</a></td>
+        <td>MusicPlayer，基于dotNET_ C#_ WPF的开源音乐软件</td>
+        <th><a href="https://github.com/Super-Badmen-Viper/MoZhiMusicPlayer" target="_blank"><img alt="MoZhiMusicPlayer" src="https://img.shields.io/github/stars/Super-Badmen-Viper/MoZhiMusicPlayer?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="StackExchange.Redis" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-StackExchange.Redis_.png" /></td>
+        <td>Databases</td>
+        <td>C#</td>
+        <td><a href="https://stackexchange.github.io/StackExchange.Redis/" target="_blank">StackExchange.Redis</a></td>
+        <td>General purpose redis client</td>
+        <th><a href="https://github.com/StackExchange/StackExchange.Redis" target="_blank"><img alt="StackExchange.Redis" src="https://img.shields.io/github/stars/StackExchange/StackExchange.Redis?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Unity" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-open-project-1-2.png" /></td>
+        <td>Collaboration</td>
+        <td>C#</td>
+        <td><a href="http://unity.com/open-projects" target="_blank">Unity</a></td>
+        <td>Unity Open Project #1: Chop Chop</td>
+        <th><a href="https://github.com/UnityTechnologies/open-project-1" target="_blank"><img alt="Unity" src="https://img.shields.io/github/stars/UnityTechnologies/open-project-1?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Eventual Shop" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-EventualShop.jpg" /></td>
+        <td>Miscellaneous</td>
+        <td>C#</td>
+        <td><a href="https://github.com/AntonioFalcaoJr/EventualShop/blob/release/README.md#bulb-about" target="_blank">Eventual Shop</a></td>
+        <td>A state-of-the-art distributed system using Reactive DDD as uncertainty modeling, Event Storming as subdomain decomposition, Event Sourcing as an eventual persistence mechanism, CQRS, Async Project…</td>
+        <th><a href="https://github.com/AntonioFalcaoJr/EventualShop" target="_blank"><img alt="Eventual Shop" src="https://img.shields.io/github/stars/AntonioFalcaoJr/EventualShop?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="MudBlazor" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-MudBlazor.png" /></td>
+        <td>Infrastructure</td>
+        <td>C#</td>
+        <td><a href="http://mudblazor.com" target="_blank">MudBlazor</a></td>
+        <td>Blazor Component Library based on Material design with an emphasis on ease of use. Mainly written in C# with Javascript kept to a bare minimum it empowers .NET developers to easily debug it if needed.</td>
+        <th><a href="https://github.com/MudBlazor/MudBlazor" target="_blank"><img alt="MudBlazor" src="https://img.shields.io/github/stars/MudBlazor/MudBlazor?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="MassTransit" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-MassTransit.png" /></td>
+        <td>Infrastructure</td>
+        <td>C#</td>
+        <td><a href="https://masstransit.io/" target="_blank">MassTransit</a></td>
+        <td>Distributed Application Framework for .NET</td>
+        <th><a href="https://github.com/MassTransit/MassTransit" target="_blank"><img alt="MassTransit" src="https://img.shields.io/github/stars/MassTransit/MassTransit?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="QuartzNET" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-quartznet.png" /></td>
+        <td>Infrastructure</td>
+        <td>C#</td>
+        <td><a href="http://www.quartz-scheduler.net/" target="_blank">QuartzNET</a></td>
+        <td>Quartz Enterprise Scheduler .NET</td>
+        <th><a href="https://github.com/quartznet/quartznet" target="_blank"><img alt="QuartzNET" src="https://img.shields.io/github/stars/quartznet/quartznet?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="NLog/NLog" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-NLog-1.png" /></td>
+        <td>Observability</td>
+        <td>C#</td>
+        <td><a href="https://nlog-project.org" target="_blank">NLog/NLog</a></td>
+        <td>NLog - Advanced and Structured Logging for Various .NET Platforms</td>
+        <th><a href="https://github.com/NLog/NLog" target="_blank"><img alt="NLog/NLog" src="https://img.shields.io/github/stars/NLog/NLog?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="dotnetcore/CAP" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-CAP-1.png" /></td>
+        <td>Infrastructure</td>
+        <td>C#</td>
+        <td><a href="http://cap.dotnetcore.xyz" target="_blank">dotnetcore/CAP</a></td>
+        <td>Distributed transaction solution in micro-service base on eventually consistency, also an eventbus with Outbox pattern</td>
+        <th><a href="https://github.com/dotnetcore/CAP" target="_blank"><img alt="dotnetcore/CAP" src="https://img.shields.io/github/stars/dotnetcore/CAP?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="FASTER" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-FASTER-1.png" /></td>
+        <td>Databases</td>
+        <td>C#</td>
+        <td><a href="https://aka.ms/FASTER" target="_blank">FASTER</a></td>
+        <td>Fast persistent recoverable log and key-value store + cache, in C# and C++.</td>
+        <th><a href="https://github.com/microsoft/FASTER" target="_blank"><img alt="FASTER" src="https://img.shields.io/github/stars/microsoft/FASTER?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Blazorise" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-Blazorise.png" /></td>
+        <td>Infrastructure</td>
+        <td>C#</td>
+        <td><a href="https://blazorise.com/" target="_blank">Blazorise</a></td>
+        <td>Blazorise is a component library built on top of Blazor with support for CSS frameworks like Bootstrap, Bulma, AntDesign, and Material.</td>
+        <th><a href="https://github.com/Megabit/Blazorise" target="_blank"><img alt="Blazorise" src="https://img.shields.io/github/stars/Megabit/Blazorise?style=social" /></a></th>
+    </tr>
+
+</table>
+
+<br /><br />
 <h2 id="rust">Top 20 Rust libraries</h2>
 <table>
     <tr>
@@ -6461,108 +6563,6 @@
         <td><a href="http://day8.github.io/re-frame/" target="_blank">re-frame</a></td>
         <td>A ClojureScript framework for building user interfaces, leveraging React</td>
         <th><a href="https://github.com/day8/re-frame" target="_blank"><img alt="re-frame" src="https://img.shields.io/github/stars/day8/re-frame?style=social" /></a></th>
-    </tr>
-
-</table>
-
-<br /><br />
-<h2 id="c">Top 20 C# libraries</h2>
-<table>
-    <tr>
-        <th>Icon</th>
-        <th>Category</th>
-        <th>Language</th>
-        <th>Name</th>
-        <th>Description</th>
-        <th>Stargazers</th>
-    </tr>
-        <tr>
-        <td nowrap="nowrap"><img width="33" alt="StackExchange.Redis" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-StackExchange.Redis_.png" /></td>
-        <td>Databases</td>
-        <td>C#</td>
-        <td><a href="https://stackexchange.github.io/StackExchange.Redis/" target="_blank">StackExchange.Redis</a></td>
-        <td>General purpose redis client</td>
-        <th><a href="https://github.com/StackExchange/StackExchange.Redis" target="_blank"><img alt="StackExchange.Redis" src="https://img.shields.io/github/stars/StackExchange/StackExchange.Redis?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Unity" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-open-project-1-2.png" /></td>
-        <td>Collaboration</td>
-        <td>C#</td>
-        <td><a href="http://unity.com/open-projects" target="_blank">Unity</a></td>
-        <td>Unity Open Project #1: Chop Chop</td>
-        <th><a href="https://github.com/UnityTechnologies/open-project-1" target="_blank"><img alt="Unity" src="https://img.shields.io/github/stars/UnityTechnologies/open-project-1?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Eventual Shop" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-EventualShop.jpg" /></td>
-        <td>Miscellaneous</td>
-        <td>C#</td>
-        <td><a href="https://github.com/AntonioFalcaoJr/EventualShop/blob/release/README.md#bulb-about" target="_blank">Eventual Shop</a></td>
-        <td>A state-of-the-art distributed system using Reactive DDD as uncertainty modeling, Event Storming as subdomain decomposition, Event Sourcing as an eventual persistence mechanism, CQRS, Async Project…</td>
-        <th><a href="https://github.com/AntonioFalcaoJr/EventualShop" target="_blank"><img alt="Eventual Shop" src="https://img.shields.io/github/stars/AntonioFalcaoJr/EventualShop?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="MoZhiMusicPlayer" src="https://libraries.github20k.com/images/uploads/2023/06/newshot-MoZhiMusicPlayer.jpg" /></td>
-        <td>Analytics</td>
-        <td>C#</td>
-        <td><a href="https://github.com/Super-Badmen-Viper/MoZhiMusicPlayer" target="_blank">MoZhiMusicPlayer</a></td>
-        <td>MusicPlayer，基于dotNET_ C#_ WPF的开源音乐软件</td>
-        <th><a href="https://github.com/Super-Badmen-Viper/MoZhiMusicPlayer" target="_blank"><img alt="MoZhiMusicPlayer" src="https://img.shields.io/github/stars/Super-Badmen-Viper/MoZhiMusicPlayer?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="MudBlazor" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-MudBlazor.png" /></td>
-        <td>Infrastructure</td>
-        <td>C#</td>
-        <td><a href="http://mudblazor.com" target="_blank">MudBlazor</a></td>
-        <td>Blazor Component Library based on Material design with an emphasis on ease of use. Mainly written in C# with Javascript kept to a bare minimum it empowers .NET developers to easily debug it if needed.</td>
-        <th><a href="https://github.com/MudBlazor/MudBlazor" target="_blank"><img alt="MudBlazor" src="https://img.shields.io/github/stars/MudBlazor/MudBlazor?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="MassTransit" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-MassTransit.png" /></td>
-        <td>Infrastructure</td>
-        <td>C#</td>
-        <td><a href="https://masstransit.io/" target="_blank">MassTransit</a></td>
-        <td>Distributed Application Framework for .NET</td>
-        <th><a href="https://github.com/MassTransit/MassTransit" target="_blank"><img alt="MassTransit" src="https://img.shields.io/github/stars/MassTransit/MassTransit?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="QuartzNET" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-quartznet.png" /></td>
-        <td>Infrastructure</td>
-        <td>C#</td>
-        <td><a href="http://www.quartz-scheduler.net/" target="_blank">QuartzNET</a></td>
-        <td>Quartz Enterprise Scheduler .NET</td>
-        <th><a href="https://github.com/quartznet/quartznet" target="_blank"><img alt="QuartzNET" src="https://img.shields.io/github/stars/quartznet/quartznet?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="NLog/NLog" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-NLog-1.png" /></td>
-        <td>Observability</td>
-        <td>C#</td>
-        <td><a href="https://nlog-project.org" target="_blank">NLog/NLog</a></td>
-        <td>NLog - Advanced and Structured Logging for Various .NET Platforms</td>
-        <th><a href="https://github.com/NLog/NLog" target="_blank"><img alt="NLog/NLog" src="https://img.shields.io/github/stars/NLog/NLog?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="dotnetcore/CAP" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-CAP-1.png" /></td>
-        <td>Infrastructure</td>
-        <td>C#</td>
-        <td><a href="http://cap.dotnetcore.xyz" target="_blank">dotnetcore/CAP</a></td>
-        <td>Distributed transaction solution in micro-service base on eventually consistency, also an eventbus with Outbox pattern</td>
-        <th><a href="https://github.com/dotnetcore/CAP" target="_blank"><img alt="dotnetcore/CAP" src="https://img.shields.io/github/stars/dotnetcore/CAP?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="FASTER" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-FASTER-1.png" /></td>
-        <td>Databases</td>
-        <td>C#</td>
-        <td><a href="https://aka.ms/FASTER" target="_blank">FASTER</a></td>
-        <td>Fast persistent recoverable log and key-value store + cache, in C# and C++.</td>
-        <th><a href="https://github.com/microsoft/FASTER" target="_blank"><img alt="FASTER" src="https://img.shields.io/github/stars/microsoft/FASTER?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Blazorise" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-Blazorise.png" /></td>
-        <td>Infrastructure</td>
-        <td>C#</td>
-        <td><a href="https://blazorise.com/" target="_blank">Blazorise</a></td>
-        <td>Blazorise is a component library built on top of Blazor with support for CSS frameworks like Bootstrap, Bulma, AntDesign, and Material.</td>
-        <th><a href="https://github.com/Megabit/Blazorise" target="_blank"><img alt="Blazorise" src="https://img.shields.io/github/stars/Megabit/Blazorise?style=social" /></a></th>
     </tr>
 
 </table>
