@@ -148,6 +148,14 @@
         <th><a href="https://github.com/devtron-labs/devtron" target="_blank"><img alt="Devtron" src="https://img.shields.io/github/stars/devtron-labs/devtron?style=social" /></a></th>
     </tr>
     <tr>
+        <td nowrap="nowrap"><img width="33" alt="MoZhiMusicPlayer" src="https://libraries.github20k.com/images/uploads/2023/06/newshot-MoZhiMusicPlayer.jpg" /></td>
+        <td>Analytics</td>
+        <td>C#</td>
+        <td><a href="https://github.com/Super-Badmen-Viper/MoZhiMusicPlayer" target="_blank">MoZhiMusicPlayer</a></td>
+        <td>MusicPlayer，基于dotNET_ C#_ WPF的开源音乐软件</td>
+        <th><a href="https://github.com/Super-Badmen-Viper/MoZhiMusicPlayer" target="_blank"><img alt="MoZhiMusicPlayer" src="https://img.shields.io/github/stars/Super-Badmen-Viper/MoZhiMusicPlayer?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="trame" src="https://libraries.github20k.com/images/uploads/2023/06/newshot-trame.png" /></td>
         <td>Productivity</td>
         <td>Python</td>
@@ -172,14 +180,6 @@
         <th><a href="https://github.com/pietermartin/sqlg" target="_blank"><img alt="Sqlg" src="https://img.shields.io/github/stars/pietermartin/sqlg?style=social" /></a></th>
     </tr>
     <tr>
-        <td nowrap="nowrap"><img width="33" alt="MoZhiMusicPlayer" src="https://libraries.github20k.com/images/uploads/2023/06/newshot-MoZhiMusicPlayer.jpg" /></td>
-        <td>Analytics</td>
-        <td>C#</td>
-        <td><a href="https://github.com/Super-Badmen-Viper/MoZhiMusicPlayer" target="_blank">MoZhiMusicPlayer</a></td>
-        <td>MusicPlayer，基于dotNET_ C#_ WPF的开源音乐软件</td>
-        <th><a href="https://github.com/Super-Badmen-Viper/MoZhiMusicPlayer" target="_blank"><img alt="MoZhiMusicPlayer" src="https://img.shields.io/github/stars/Super-Badmen-Viper/MoZhiMusicPlayer?style=social" /></a></th>
-    </tr>
-    <tr>
         <td nowrap="nowrap"><img width="33" alt="Grillon" src="https://libraries.github20k.com/images/uploads/2023/06/newshot-grillon.jpg" /></td>
         <td>Miscellaneous</td>
         <td>Rust</td>
@@ -194,6 +194,14 @@
         <td><a href="https://alikarakoc.com" target="_blank">Software Interview Questions</a></td>
         <td>Jr., Mid., Sn. Pozisyonlarında karşılaşabileceğiniz mülakat soruları ve cevapları.</td>
         <th><a href="https://github.com/alikarakoc/YazilimMulakatSorulari" target="_blank"><img alt="Software Interview Questions" src="https://img.shields.io/github/stars/alikarakoc/YazilimMulakatSorulari?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Vely" src="https://libraries.github20k.com/images/uploads/2023/06/newshot-vely.png" /></td>
+        <td>Productivity</td>
+        <td>C</td>
+        <td><a href="https://vely.dev/" target="_blank">Vely</a></td>
+        <td>Vely framework mirror, official git repo at https://vely.dev/pkg/ (click on Source to clone a repo).</td>
+        <th><a href="https://github.com/velydev/vely" target="_blank"><img alt="Vely" src="https://img.shields.io/github/stars/velydev/vely?style=social" /></a></th>
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="Reejs" src="https://libraries.github20k.com/images/uploads/2023/06/newshot-reejs.png" /></td>
@@ -290,14 +298,6 @@
         <td><a href="https://github.com/billpwchan/futu_algo" target="_blank">Futu Algo</a></td>
         <td>Futu Algorithmic Trading Solution (Python) 基於富途OpenAPI所開發量化交易程序</td>
         <th><a href="https://github.com/billpwchan/futu_algo" target="_blank"><img alt="Futu Algo" src="https://img.shields.io/github/stars/billpwchan/futu_algo?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Aptabase" src="https://libraries.github20k.com/images/uploads/2023/06/newshot-aptabase.png" /></td>
-        <td>Analytics</td>
-        <td>TypeScript</td>
-        <td><a href="https://aptabase.com" target="_blank">Aptabase</a></td>
-        <td>Open Source, Privacy-First and Simple Analytics for Mobile, Desktop and Web Apps</td>
-        <th><a href="https://github.com/aptabase/aptabase" target="_blank"><img alt="Aptabase" src="https://img.shields.io/github/stars/aptabase/aptabase?style=social" /></a></th>
     </tr>
 
 </table>
@@ -827,6 +827,14 @@
         <th><a href="https://github.com/HynDuf/dotfiles" target="_blank"><img alt="Aesthetic Arch Linux dotfiles" src="https://img.shields.io/github/stars/HynDuf/dotfiles?style=social" /></a></th>
     </tr>
     <tr>
+        <td nowrap="nowrap"><img width="33" alt="MoZhiMusicPlayer" src="https://libraries.github20k.com/images/uploads/2023/06/newshot-MoZhiMusicPlayer.jpg" /></td>
+        <td>Analytics</td>
+        <td>C#</td>
+        <td><a href="https://github.com/Super-Badmen-Viper/MoZhiMusicPlayer" target="_blank">MoZhiMusicPlayer</a></td>
+        <td>MusicPlayer，基于dotNET_ C#_ WPF的开源音乐软件</td>
+        <th><a href="https://github.com/Super-Badmen-Viper/MoZhiMusicPlayer" target="_blank"><img alt="MoZhiMusicPlayer" src="https://img.shields.io/github/stars/Super-Badmen-Viper/MoZhiMusicPlayer?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="trame" src="https://libraries.github20k.com/images/uploads/2023/06/newshot-trame.png" /></td>
         <td>Productivity</td>
         <td>Python</td>
@@ -1105,14 +1113,6 @@
         <td><a href="https://xmanagerapp.com" target="_blank">xManager</a></td>
         <td>Ad-Free, New Features &amp; Freedom</td>
         <th><a href="https://github.com/xManager-App/xManager" target="_blank"><img alt="xManager" src="https://img.shields.io/github/stars/xManager-App/xManager?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Musician's Friend" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-mmf.png" /></td>
-        <td>Infrastructure</td>
-        <td>Python</td>
-        <td><a href="https://mmf.sh/" target="_blank">Musician's Friend</a></td>
-        <td>A modular framework for vision &amp; language multimodal research from Facebook AI Research (FAIR)</td>
-        <th><a href="https://github.com/facebookresearch/mmf" target="_blank"><img alt="Musician's Friend" src="https://img.shields.io/github/stars/facebookresearch/mmf?style=social" /></a></th>
     </tr>
 
 </table>
@@ -2509,6 +2509,14 @@
         <td>Make Sites Faster, without the need of building anything!</td>
         <th><a href="https://github.com/rovelstars/reejs" target="_blank"><img alt="Reejs" src="https://img.shields.io/github/stars/rovelstars/reejs?style=social" /></a></th>
     </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Vely" src="https://libraries.github20k.com/images/uploads/2023/06/newshot-vely.png" /></td>
+        <td>Productivity</td>
+        <td>C</td>
+        <td><a href="https://vely.dev/" target="_blank">Vely</a></td>
+        <td>Vely framework mirror, official git repo at https://vely.dev/pkg/ (click on Source to clone a repo).</td>
+        <th><a href="https://github.com/velydev/vely" target="_blank"><img alt="Vely" src="https://img.shields.io/github/stars/velydev/vely?style=social" /></a></th>
+    </tr>
 
 </table>
 
@@ -2554,6 +2562,14 @@
         <td><a href="https://railtrack.ch" target="_blank">Railtrack</a></td>
         <td>Next.js and Supabase app to track your train journeys in Europe</td>
         <th><a href="https://github.com/noahflk/railtrack" target="_blank"><img alt="Railtrack" src="https://img.shields.io/github/stars/noahflk/railtrack?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="MoZhiMusicPlayer" src="https://libraries.github20k.com/images/uploads/2023/06/newshot-MoZhiMusicPlayer.jpg" /></td>
+        <td>Analytics</td>
+        <td>C#</td>
+        <td><a href="https://github.com/Super-Badmen-Viper/MoZhiMusicPlayer" target="_blank">MoZhiMusicPlayer</a></td>
+        <td>MusicPlayer，基于dotNET_ C#_ WPF的开源音乐软件</td>
+        <th><a href="https://github.com/Super-Badmen-Viper/MoZhiMusicPlayer" target="_blank"><img alt="MoZhiMusicPlayer" src="https://img.shields.io/github/stars/Super-Badmen-Viper/MoZhiMusicPlayer?style=social" /></a></th>
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="OneFlow" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-oneflow.png" /></td>
@@ -2650,14 +2666,6 @@
         <td><a href="https://github.com/billpwchan/futu_algo" target="_blank">Futu Algo</a></td>
         <td>Futu Algorithmic Trading Solution (Python) 基於富途OpenAPI所開發量化交易程序</td>
         <th><a href="https://github.com/billpwchan/futu_algo" target="_blank"><img alt="Futu Algo" src="https://img.shields.io/github/stars/billpwchan/futu_algo?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="MoZhiMusicPlayer" src="https://libraries.github20k.com/images/uploads/2023/06/newshot-MoZhiMusicPlayer.jpg" /></td>
-        <td>Analytics</td>
-        <td>C#</td>
-        <td><a href="https://github.com/Super-Badmen-Viper/MoZhiMusicPlayer" target="_blank">MoZhiMusicPlayer</a></td>
-        <td>MusicPlayer，基于dotNET_ C#_ WPF的开源音乐软件</td>
-        <th><a href="https://github.com/Super-Badmen-Viper/MoZhiMusicPlayer" target="_blank"><img alt="MoZhiMusicPlayer" src="https://img.shields.io/github/stars/Super-Badmen-Viper/MoZhiMusicPlayer?style=social" /></a></th>
     </tr>
 
 </table>
@@ -6493,6 +6501,14 @@
         <th><a href="https://github.com/AntonioFalcaoJr/EventualShop" target="_blank"><img alt="Eventual Shop" src="https://img.shields.io/github/stars/AntonioFalcaoJr/EventualShop?style=social" /></a></th>
     </tr>
     <tr>
+        <td nowrap="nowrap"><img width="33" alt="MoZhiMusicPlayer" src="https://libraries.github20k.com/images/uploads/2023/06/newshot-MoZhiMusicPlayer.jpg" /></td>
+        <td>Analytics</td>
+        <td>C#</td>
+        <td><a href="https://github.com/Super-Badmen-Viper/MoZhiMusicPlayer" target="_blank">MoZhiMusicPlayer</a></td>
+        <td>MusicPlayer，基于dotNET_ C#_ WPF的开源音乐软件</td>
+        <th><a href="https://github.com/Super-Badmen-Viper/MoZhiMusicPlayer" target="_blank"><img alt="MoZhiMusicPlayer" src="https://img.shields.io/github/stars/Super-Badmen-Viper/MoZhiMusicPlayer?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="MudBlazor" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-MudBlazor.png" /></td>
         <td>Infrastructure</td>
         <td>C#</td>
@@ -6547,14 +6563,6 @@
         <td><a href="https://blazorise.com/" target="_blank">Blazorise</a></td>
         <td>Blazorise is a component library built on top of Blazor with support for CSS frameworks like Bootstrap, Bulma, AntDesign, and Material.</td>
         <th><a href="https://github.com/Megabit/Blazorise" target="_blank"><img alt="Blazorise" src="https://img.shields.io/github/stars/Megabit/Blazorise?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="MoZhiMusicPlayer" src="https://libraries.github20k.com/images/uploads/2023/06/newshot-MoZhiMusicPlayer.jpg" /></td>
-        <td>Analytics</td>
-        <td>C#</td>
-        <td><a href="https://github.com/Super-Badmen-Viper/MoZhiMusicPlayer" target="_blank">MoZhiMusicPlayer</a></td>
-        <td>MusicPlayer，基于dotNET_ C#_ WPF的开源音乐软件</td>
-        <th><a href="https://github.com/Super-Badmen-Viper/MoZhiMusicPlayer" target="_blank"><img alt="MoZhiMusicPlayer" src="https://img.shields.io/github/stars/Super-Badmen-Viper/MoZhiMusicPlayer?style=social" /></a></th>
     </tr>
 
 </table>
@@ -7009,6 +7017,14 @@
         <td><a href="https://github.com/technyon/nuki_hub" target="_blank">NUKI Hub</a></td>
         <td>Use an ESP32 as a Hub between a NUKI Lock and your smarthome.</td>
         <th><a href="https://github.com/technyon/nuki_hub" target="_blank"><img alt="NUKI Hub" src="https://img.shields.io/github/stars/technyon/nuki_hub?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Vely" src="https://libraries.github20k.com/images/uploads/2023/06/newshot-vely.png" /></td>
+        <td>Productivity</td>
+        <td>C</td>
+        <td><a href="https://vely.dev/" target="_blank">Vely</a></td>
+        <td>Vely framework mirror, official git repo at https://vely.dev/pkg/ (click on Source to clone a repo).</td>
+        <th><a href="https://github.com/velydev/vely" target="_blank"><img alt="Vely" src="https://img.shields.io/github/stars/velydev/vely?style=social" /></a></th>
     </tr>
 
 </table>
