@@ -140,6 +140,14 @@
         <th>Stargazers</th>
     </tr>
         <tr>
+        <td nowrap="nowrap"><img width="33" alt="LegendsOfHeroes" src="https://libraries.github20k.com/images/uploads/2023/06/newshot-Legends-Of-Heroes.png" /></td>
+        <td>Productivity</td>
+        <td>C#</td>
+        <td><a href="https://github.com/FlameskyDexive/Legends-Of-Heroes" target="_blank">LegendsOfHeroes</a></td>
+        <td>A battle of balls game, lol style. 基于ET 7.2的双端C#(.net7 + Unity3d)多人在线英雄联盟风格的球球大作战。</td>
+        <th><a href="https://github.com/FlameskyDexive/Legends-Of-Heroes" target="_blank"><img alt="LegendsOfHeroes" src="https://img.shields.io/github/stars/FlameskyDexive/Legends-Of-Heroes?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="Devtron" src="https://libraries.github20k.com/images/uploads/2023/06/newshot-devtron.png" /></td>
         <td>Infrastructure</td>
         <td>Go</td>
@@ -290,14 +298,6 @@
         <td><a href="http://async.graphics" target="_blank">AsyncGraphics</a></td>
         <td>Edit images and video with async / await in Swift, powered by Metal.</td>
         <th><a href="https://github.com/heestand-xyz/AsyncGraphics" target="_blank"><img alt="AsyncGraphics" src="https://img.shields.io/github/stars/heestand-xyz/AsyncGraphics?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Futu Algo" src="https://libraries.github20k.com/images/uploads/2023/06/newshot-futu_algo.png" /></td>
-        <td>Analytics</td>
-        <td>Python</td>
-        <td><a href="https://github.com/billpwchan/futu_algo" target="_blank">Futu Algo</a></td>
-        <td>Futu Algorithmic Trading Solution (Python) 基於富途OpenAPI所開發量化交易程序</td>
-        <th><a href="https://github.com/billpwchan/futu_algo" target="_blank"><img alt="Futu Algo" src="https://img.shields.io/github/stars/billpwchan/futu_algo?style=social" /></a></th>
     </tr>
 
 </table>
@@ -2516,6 +2516,14 @@
         <td><a href="https://vely.dev/" target="_blank">Vely</a></td>
         <td>Vely framework mirror, official git repo at https://vely.dev/pkg/ (click on Source to clone a repo).</td>
         <th><a href="https://github.com/velydev/vely" target="_blank"><img alt="Vely" src="https://img.shields.io/github/stars/velydev/vely?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="LegendsOfHeroes" src="https://libraries.github20k.com/images/uploads/2023/06/newshot-Legends-Of-Heroes.png" /></td>
+        <td>Productivity</td>
+        <td>C#</td>
+        <td><a href="https://github.com/FlameskyDexive/Legends-Of-Heroes" target="_blank">LegendsOfHeroes</a></td>
+        <td>A battle of balls game, lol style. 基于ET 7.2的双端C#(.net7 + Unity3d)多人在线英雄联盟风格的球球大作战。</td>
+        <th><a href="https://github.com/FlameskyDexive/Legends-Of-Heroes" target="_blank"><img alt="LegendsOfHeroes" src="https://img.shields.io/github/stars/FlameskyDexive/Legends-Of-Heroes?style=social" /></a></th>
     </tr>
 
 </table>
@@ -6409,6 +6417,14 @@
         <td><a href="https://blazorise.com/" target="_blank">Blazorise</a></td>
         <td>Blazorise is a component library built on top of Blazor with support for CSS frameworks like Bootstrap, Bulma, AntDesign, and Material.</td>
         <th><a href="https://github.com/Megabit/Blazorise" target="_blank"><img alt="Blazorise" src="https://img.shields.io/github/stars/Megabit/Blazorise?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="LegendsOfHeroes" src="https://libraries.github20k.com/images/uploads/2023/06/newshot-Legends-Of-Heroes.png" /></td>
+        <td>Productivity</td>
+        <td>C#</td>
+        <td><a href="https://github.com/FlameskyDexive/Legends-Of-Heroes" target="_blank">LegendsOfHeroes</a></td>
+        <td>A battle of balls game, lol style. 基于ET 7.2的双端C#(.net7 + Unity3d)多人在线英雄联盟风格的球球大作战。</td>
+        <th><a href="https://github.com/FlameskyDexive/Legends-Of-Heroes" target="_blank"><img alt="LegendsOfHeroes" src="https://img.shields.io/github/stars/FlameskyDexive/Legends-Of-Heroes?style=social" /></a></th>
     </tr>
 
 </table>
