@@ -56,6 +56,8 @@
              </li>          <li>
                 <a href="#java">Top 20 Java libraries</a>
              </li>          <li>
+                <a href="#vue">Top 20 Vue libraries</a>
+             </li>          <li>
                 <a href="#python">Top 20 Python libraries</a>
              </li>          <li>
                 <a href="#ruby">Top 20 Ruby libraries</a>
@@ -71,8 +73,6 @@
                 <a href="#kotlin">Top 20 Kotlin libraries</a>
              </li>          <li>
                 <a href="#css">Top 20 CSS libraries</a>
-             </li>          <li>
-                <a href="#vue">Top 20 Vue libraries</a>
              </li>          <li>
                 <a href="#c++">Top 20 C++ libraries</a>
              </li>          <li>
@@ -499,6 +499,14 @@
         <th><a href="https://github.com/teamhanko/hanko" target="_blank"><img alt="Hanko" src="https://img.shields.io/github/stars/teamhanko/hanko?style=social" /></a></th>
     </tr>
     <tr>
+        <td nowrap="nowrap"><img width="33" alt="Everright-filter" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-Everright-filter.jpg" /></td>
+        <td>Miscellaneous</td>
+        <td>Vue</td>
+        <td><a href="https://everright.site/en/module/filter/introduction.html" target="_blank">Everright-filter</a></td>
+        <td>A query builder component for Vue3. Supports filtering of multiple data types, including string, number, dropdown, cascade, region, date, and time.</td>
+        <th><a href="https://github.com/Liberty-liu/Everright-filter" target="_blank"><img alt="Everright-filter" src="https://img.shields.io/github/stars/Liberty-liu/Everright-filter?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="boyka-framework" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-boyka-framework.png" /></td>
         <td>Productivity</td>
         <td>Java</td>
@@ -737,14 +745,6 @@
         <td><a href="https://infisical.com" target="_blank">Infisical</a></td>
         <td><g-emoji class="g-emoji" alias="infinity" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/267e.png">♾</g-emoji> Infisical is an open-source, end-to-end encrypted platform for secret management: sync secrets across your team/infrastructure and prevent secret leaks.</td>
         <th><a href="https://github.com/Infisical/infisical" target="_blank"><img alt="Infisical" src="https://img.shields.io/github/stars/Infisical/infisical?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Everright-filter" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-Everright-filter.jpg" /></td>
-        <td>Miscellaneous</td>
-        <td>Vue</td>
-        <td><a href="https://everright.site/en/module/filter/introduction.html" target="_blank">Everright-filter</a></td>
-        <td>A query builder component for Vue3. Supports filtering of multiple data types, including string, number, dropdown, cascade, region, date, and time.</td>
-        <th><a href="https://github.com/Liberty-liu/Everright-filter" target="_blank"><img alt="Everright-filter" src="https://img.shields.io/github/stars/Liberty-liu/Everright-filter?style=social" /></a></th>
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="multiple-cucumber-html-reporter" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-multiple-cucumber-html-reporter.jpg" /></td>
@@ -1162,6 +1162,14 @@
         <th><a href="https://github.com/medusajs/medusa" target="_blank"><img alt="Medusa" src="https://img.shields.io/github/stars/medusajs/medusa?style=social" /></a></th>
     </tr>
     <tr>
+        <td nowrap="nowrap"><img width="33" alt="Everright-filter" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-Everright-filter.jpg" /></td>
+        <td>Miscellaneous</td>
+        <td>Vue</td>
+        <td><a href="https://everright.site/en/module/filter/introduction.html" target="_blank">Everright-filter</a></td>
+        <td>A query builder component for Vue3. Supports filtering of multiple data types, including string, number, dropdown, cascade, region, date, and time.</td>
+        <th><a href="https://github.com/Liberty-liu/Everright-filter" target="_blank"><img alt="Everright-filter" src="https://img.shields.io/github/stars/Liberty-liu/Everright-filter?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="MacawFramework" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-macaw_framework.jpg" /></td>
         <td>Miscellaneous</td>
         <td>Ruby</td>
@@ -1192,14 +1200,6 @@
         <td><a href="https://github.com/LironEr/cypress-mochawesome-reporter" target="_blank">cypress-mochawesome-reporter</a></td>
         <td>Zero config Mochawesome reporter for Cypress with screenshots and videos</td>
         <th><a href="https://github.com/LironEr/cypress-mochawesome-reporter" target="_blank"><img alt="cypress-mochawesome-reporter" src="https://img.shields.io/github/stars/LironEr/cypress-mochawesome-reporter?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Everright-filter" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-Everright-filter.jpg" /></td>
-        <td>Miscellaneous</td>
-        <td>Vue</td>
-        <td><a href="https://everright.site/en/module/filter/introduction.html" target="_blank">Everright-filter</a></td>
-        <td>A query builder component for Vue3. Supports filtering of multiple data types, including string, number, dropdown, cascade, region, date, and time.</td>
-        <th><a href="https://github.com/Liberty-liu/Everright-filter" target="_blank"><img alt="Everright-filter" src="https://img.shields.io/github/stars/Liberty-liu/Everright-filter?style=social" /></a></th>
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="multiple-cucumber-html-reporter" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-multiple-cucumber-html-reporter.jpg" /></td>
@@ -5996,6 +5996,36 @@
 </table>
 
 <br /><br />
+<h2 id="vue">Top 20 Vue libraries</h2>
+<table>
+    <tr>
+        <th>Icon</th>
+        <th>Category</th>
+        <th>Language</th>
+        <th>Name</th>
+        <th>Description</th>
+        <th>Stargazers</th>
+    </tr>
+        <tr>
+        <td nowrap="nowrap"><img width="33" alt="Everright-filter" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-Everright-filter.jpg" /></td>
+        <td>Miscellaneous</td>
+        <td>Vue</td>
+        <td><a href="https://everright.site/en/module/filter/introduction.html" target="_blank">Everright-filter</a></td>
+        <td>A query builder component for Vue3. Supports filtering of multiple data types, including string, number, dropdown, cascade, region, date, and time.</td>
+        <th><a href="https://github.com/Liberty-liu/Everright-filter" target="_blank"><img alt="Everright-filter" src="https://img.shields.io/github/stars/Liberty-liu/Everright-filter?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="WooNuxt" src="https://libraries.github20k.com/images/uploads/2023/06/newshot-woonuxt.png" /></td>
+        <td>Miscellaneous</td>
+        <td>Vue</td>
+        <td><a href="https://woonuxt.com" target="_blank">WooNuxt</a></td>
+        <td>Static e-commerce powered by WooCommerce &amp; Nuxt</td>
+        <th><a href="https://github.com/scottyzen/woonuxt" target="_blank"><img alt="WooNuxt" src="https://img.shields.io/github/stars/scottyzen/woonuxt?style=social" /></a></th>
+    </tr>
+
+</table>
+
+<br /><br />
 <h2 id="python">Top 20 Python libraries</h2>
 <table>
     <tr>
@@ -6735,36 +6765,6 @@
         <td><a href="https://cssanimation.io/" target="_blank">cssanimation.io</a></td>
         <td>CSS Animation Library for Developers and Ninjas</td>
         <th><a href="https://github.com/yesiamrocks/cssanimation.io" target="_blank"><img alt="cssanimation.io" src="https://img.shields.io/github/stars/yesiamrocks/cssanimation.io?style=social" /></a></th>
-    </tr>
-
-</table>
-
-<br /><br />
-<h2 id="vue">Top 20 Vue libraries</h2>
-<table>
-    <tr>
-        <th>Icon</th>
-        <th>Category</th>
-        <th>Language</th>
-        <th>Name</th>
-        <th>Description</th>
-        <th>Stargazers</th>
-    </tr>
-        <tr>
-        <td nowrap="nowrap"><img width="33" alt="Everright-filter" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-Everright-filter.jpg" /></td>
-        <td>Miscellaneous</td>
-        <td>Vue</td>
-        <td><a href="https://everright.site/en/module/filter/introduction.html" target="_blank">Everright-filter</a></td>
-        <td>A query builder component for Vue3. Supports filtering of multiple data types, including string, number, dropdown, cascade, region, date, and time.</td>
-        <th><a href="https://github.com/Liberty-liu/Everright-filter" target="_blank"><img alt="Everright-filter" src="https://img.shields.io/github/stars/Liberty-liu/Everright-filter?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="WooNuxt" src="https://libraries.github20k.com/images/uploads/2023/06/newshot-woonuxt.png" /></td>
-        <td>Miscellaneous</td>
-        <td>Vue</td>
-        <td><a href="https://woonuxt.com" target="_blank">WooNuxt</a></td>
-        <td>Static e-commerce powered by WooCommerce &amp; Nuxt</td>
-        <th><a href="https://github.com/scottyzen/woonuxt" target="_blank"><img alt="WooNuxt" src="https://img.shields.io/github/stars/scottyzen/woonuxt?style=social" /></a></th>
     </tr>
 
 </table>
