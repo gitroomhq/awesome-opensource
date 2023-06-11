@@ -140,6 +140,14 @@
         <th>Stargazers</th>
     </tr>
         <tr>
+        <td nowrap="nowrap"><img width="33" alt="docusaurus-json-schema-plugin" src="https://libraries.github20k.com/images/uploads/2023/06/newshot-docusaurus-json-schema-plugin.png" /></td>
+        <td>Miscellaneous</td>
+        <td>TypeScript</td>
+        <td><a href="https://jy95.github.io/docusaurus-json-schema-plugin/" target="_blank">docusaurus-json-schema-plugin</a></td>
+        <td>JSON Schema viewer / editor in Docusaurus</td>
+        <th><a href="https://github.com/jy95/docusaurus-json-schema-plugin" target="_blank"><img alt="docusaurus-json-schema-plugin" src="https://img.shields.io/github/stars/jy95/docusaurus-json-schema-plugin?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="Multi Cloud Transfer Tool" src="https://libraries.github20k.com/images/uploads/2023/06/newshot-Multi-Cloud-Transfer-Tool.jpg" /></td>
         <td>Productivity</td>
         <td>Jupyter Notebook</td>
@@ -290,14 +298,6 @@
         <td><a href="https://github.com/mokeyish/smartdns-rs" target="_blank">smartdns-rs</a></td>
         <td>A cross platform local DNS server (Dnsmasq like) written in rust to obtain the fastest website IP for the best Internet experience, supports DoT, DoH.</td>
         <th><a href="https://github.com/mokeyish/smartdns-rs" target="_blank"><img alt="smartdns-rs" src="https://img.shields.io/github/stars/mokeyish/smartdns-rs?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="WooNuxt" src="https://libraries.github20k.com/images/uploads/2023/06/newshot-woonuxt.png" /></td>
-        <td>Miscellaneous</td>
-        <td>Vue</td>
-        <td><a href="https://woonuxt.com" target="_blank">WooNuxt</a></td>
-        <td>Static e-commerce powered by WooCommerce &amp; Nuxt</td>
-        <th><a href="https://github.com/scottyzen/woonuxt" target="_blank"><img alt="WooNuxt" src="https://img.shields.io/github/stars/scottyzen/woonuxt?style=social" /></a></th>
     </tr>
 
 </table>
@@ -1408,6 +1408,14 @@
         <td><a href="https://alikarakoc.com" target="_blank">Software Interview Questions</a></td>
         <td>Jr., Mid., Sn. Pozisyonlarında karşılaşabileceğiniz mülakat soruları ve cevapları.</td>
         <th><a href="https://github.com/alikarakoc/YazilimMulakatSorulari" target="_blank"><img alt="Software Interview Questions" src="https://img.shields.io/github/stars/alikarakoc/YazilimMulakatSorulari?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="docusaurus-json-schema-plugin" src="https://libraries.github20k.com/images/uploads/2023/06/newshot-docusaurus-json-schema-plugin.png" /></td>
+        <td>Miscellaneous</td>
+        <td>TypeScript</td>
+        <td><a href="https://jy95.github.io/docusaurus-json-schema-plugin/" target="_blank">docusaurus-json-schema-plugin</a></td>
+        <td>JSON Schema viewer / editor in Docusaurus</td>
+        <th><a href="https://github.com/jy95/docusaurus-json-schema-plugin" target="_blank"><img alt="docusaurus-json-schema-plugin" src="https://img.shields.io/github/stars/jy95/docusaurus-json-schema-plugin?style=social" /></a></th>
     </tr>
 
 </table>
@@ -4783,6 +4791,14 @@
         <td><a href="https://ogma.jaymcdoniel.dev" target="_blank">@ogma/logger</a></td>
         <td>A monorepo for the ogma logger and related packages</td>
         <th><a href="https://github.com/jmcdo29/ogma" target="_blank"><img alt="@ogma/logger" src="https://img.shields.io/github/stars/jmcdo29/ogma?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="docusaurus-json-schema-plugin" src="https://libraries.github20k.com/images/uploads/2023/06/newshot-docusaurus-json-schema-plugin.png" /></td>
+        <td>Miscellaneous</td>
+        <td>TypeScript</td>
+        <td><a href="https://jy95.github.io/docusaurus-json-schema-plugin/" target="_blank">docusaurus-json-schema-plugin</a></td>
+        <td>JSON Schema viewer / editor in Docusaurus</td>
+        <th><a href="https://github.com/jy95/docusaurus-json-schema-plugin" target="_blank"><img alt="docusaurus-json-schema-plugin" src="https://img.shields.io/github/stars/jy95/docusaurus-json-schema-plugin?style=social" /></a></th>
     </tr>
 
 </table>
