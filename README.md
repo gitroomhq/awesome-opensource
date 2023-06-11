@@ -683,6 +683,14 @@
         <th><a href="https://github.com/yogeshpaliyal/KeyPass" target="_blank"><img alt="KeyPass" src="https://img.shields.io/github/stars/yogeshpaliyal/KeyPass?style=social" /></a></th>
     </tr>
     <tr>
+        <td nowrap="nowrap"><img width="33" alt="lambda-perf" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-lambda-perf-17.jpg" /></td>
+        <td>Observability</td>
+        <td>JavaScript</td>
+        <td><a href="https://maxday.github.io/lambda-perf" target="_blank">lambda-perf</a></td>
+        <td>Lambda Cold Starts analysis, updated daily</td>
+        <th><a href="https://github.com/maxday/lambda-perf" target="_blank"><img alt="lambda-perf" src="https://img.shields.io/github/stars/maxday/lambda-perf?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="wirepig" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-wirepig.jpg" /></td>
         <td>Miscellaneous</td>
         <td>JavaScript</td>
@@ -1106,14 +1114,6 @@
         <td>Zeek is a powerful network analysis framework that is much different from the typical IDS you may know.</td>
         <th><a href="https://github.com/zeek/zeek" target="_blank"><img alt="Zeek" src="https://img.shields.io/github/stars/zeek/zeek?style=social" /></a></th>
     </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="cashapp/sqldelight" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-sqldelight.png" /></td>
-        <td>Databases</td>
-        <td>Kotlin</td>
-        <td><a href="https://cashapp.github.io/sqldelight/" target="_blank">cashapp/sqldelight</a></td>
-        <td>SQLDelight - Generates typesafe Kotlin APIs from SQL</td>
-        <th><a href="https://github.com/cashapp/sqldelight" target="_blank"><img alt="cashapp/sqldelight" src="https://img.shields.io/github/stars/cashapp/sqldelight?style=social" /></a></th>
-    </tr>
 
 </table>
 
@@ -1440,6 +1440,14 @@
         <th><a href="https://github.com/prometheus-operator/kube-prometheus" target="_blank"><img alt="Prometheus Operator" src="https://img.shields.io/github/stars/prometheus-operator/kube-prometheus?style=social" /></a></th>
     </tr>
     <tr>
+        <td nowrap="nowrap"><img width="33" alt="lambda-perf" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-lambda-perf-17.jpg" /></td>
+        <td>Observability</td>
+        <td>JavaScript</td>
+        <td><a href="https://maxday.github.io/lambda-perf" target="_blank">lambda-perf</a></td>
+        <td>Lambda Cold Starts analysis, updated daily</td>
+        <th><a href="https://github.com/maxday/lambda-perf" target="_blank"><img alt="lambda-perf" src="https://img.shields.io/github/stars/maxday/lambda-perf?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="Quickwit" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-quickwit.png" /></td>
         <td>Observability</td>
         <td>Rust</td>
@@ -1566,14 +1574,6 @@
         <td><a href="https://www.deque.com/axe/" target="_blank">StackPath</a></td>
         <td>Accessibility engine for automated Web UI testing</td>
         <th><a href="https://github.com/dequelabs/axe-core" target="_blank"><img alt="StackPath" src="https://img.shields.io/github/stars/dequelabs/axe-core?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="lambda-perf" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-lambda-perf-17.jpg" /></td>
-        <td>Observability</td>
-        <td>JavaScript</td>
-        <td><a href="https://maxday.github.io/lambda-perf" target="_blank">lambda-perf</a></td>
-        <td>Lambda Cold Starts analysis, updated daily</td>
-        <th><a href="https://github.com/maxday/lambda-perf" target="_blank"><img alt="lambda-perf" src="https://img.shields.io/github/stars/maxday/lambda-perf?style=social" /></a></th>
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="Remora udpx listens to UDP short commands to trigger LED Animations. Receives ; commands from ORCΛ" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-Remora.jpg" /></td>
@@ -5119,6 +5119,14 @@
         <th><a href="https://github.com/miragejs/miragejs" target="_blank"><img alt="Mirage JS" src="https://img.shields.io/github/stars/miragejs/miragejs?style=social" /></a></th>
     </tr>
     <tr>
+        <td nowrap="nowrap"><img width="33" alt="lambda-perf" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-lambda-perf-17.jpg" /></td>
+        <td>Observability</td>
+        <td>JavaScript</td>
+        <td><a href="https://maxday.github.io/lambda-perf" target="_blank">lambda-perf</a></td>
+        <td>Lambda Cold Starts analysis, updated daily</td>
+        <th><a href="https://github.com/maxday/lambda-perf" target="_blank"><img alt="lambda-perf" src="https://img.shields.io/github/stars/maxday/lambda-perf?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="wirepig" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-wirepig.jpg" /></td>
         <td>Miscellaneous</td>
         <td>JavaScript</td>
@@ -5357,14 +5365,6 @@
         <td><a href="https://docsify.js.org" target="_blank">Docsify</a></td>
         <td><g-emoji class="g-emoji" alias="black_joker" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f0cf.png">?</g-emoji> A magical documentation site generator.</td>
         <th><a href="https://github.com/docsifyjs/docsify" target="_blank"><img alt="Docsify" src="https://img.shields.io/github/stars/docsifyjs/docsify?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="lambda-perf" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-lambda-perf-17.jpg" /></td>
-        <td>Observability</td>
-        <td>JavaScript</td>
-        <td><a href="https://maxday.github.io/lambda-perf" target="_blank">lambda-perf</a></td>
-        <td>Lambda Cold Starts analysis, updated daily</td>
-        <th><a href="https://github.com/maxday/lambda-perf" target="_blank"><img alt="lambda-perf" src="https://img.shields.io/github/stars/maxday/lambda-perf?style=social" /></a></th>
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="Action Discord Alerts" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-action-discord-alerts.jpg" /></td>
