@@ -140,6 +140,14 @@
         <th>Stargazers</th>
     </tr>
         <tr>
+        <td nowrap="nowrap"><img width="33" alt="Cherrybomb" src="https://libraries.github20k.com/images/uploads/2023/06/newshot-cherrybomb.png" /></td>
+        <td>Security</td>
+        <td>Rust</td>
+        <td><a href="https://www.blstsecurity.com/cherrybomb" target="_blank">Cherrybomb</a></td>
+        <td>Stop half-done APIs! Cherrybomb is a CLI tool that helps you avoid undefined user behaviour by auditing your API specifications, validating them and running API security tests.</td>
+        <th><a href="https://github.com/blst-security/cherrybomb" target="_blank"><img alt="Cherrybomb" src="https://img.shields.io/github/stars/blst-security/cherrybomb?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="docusaurus-json-schema-plugin" src="https://libraries.github20k.com/images/uploads/2023/06/newshot-docusaurus-json-schema-plugin.png" /></td>
         <td>Miscellaneous</td>
         <td>TypeScript</td>
@@ -290,14 +298,6 @@
         <td><a href="https://docs.saltproject.io" target="_blank">Dockerized Salt Master</a></td>
         <td><g-emoji class="g-emoji" alias="whale" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f433.png">?</g-emoji><g-emoji class="g-emoji" alias="salt" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f9c2.png">?</g-emoji> Dockerized Salt Master</td>
         <th><a href="https://github.com/cdalvaro/docker-salt-master" target="_blank"><img alt="Dockerized Salt Master" src="https://img.shields.io/github/stars/cdalvaro/docker-salt-master?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="smartdns-rs" src="https://libraries.github20k.com/images/uploads/2023/06/newshot-smartdns-rs.jpg" /></td>
-        <td>Infrastructure</td>
-        <td>Rust</td>
-        <td><a href="https://github.com/mokeyish/smartdns-rs" target="_blank">smartdns-rs</a></td>
-        <td>A cross platform local DNS server (Dnsmasq like) written in rust to obtain the fastest website IP for the best Internet experience, supports DoT, DoH.</td>
-        <th><a href="https://github.com/mokeyish/smartdns-rs" target="_blank"><img alt="smartdns-rs" src="https://img.shields.io/github/stars/mokeyish/smartdns-rs?style=social" /></a></th>
     </tr>
 
 </table>
@@ -529,6 +529,14 @@
         <td><a href="https://github.com/ariasdiniz/macaw_framework" target="_blank">MacawFramework</a></td>
         <td>A lightweight web framework designed for building efficient backend applications. Initially created for study purposes, now production-ready and open for contributions.</td>
         <th><a href="https://github.com/ariasdiniz/macaw_framework" target="_blank"><img alt="MacawFramework" src="https://img.shields.io/github/stars/ariasdiniz/macaw_framework?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Keep" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-keep-4.png" /></td>
+        <td>Notifications</td>
+        <td>Python</td>
+        <td><a href="https://www.keephq.dev" target="_blank">Keep</a></td>
+        <td>Open source alerting management for software developers.</td>
+        <th><a href="https://github.com/keephq/keep" target="_blank"><img alt="Keep" src="https://img.shields.io/github/stars/keephq/keep?style=social" /></a></th>
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="Aptabase" src="https://libraries.github20k.com/images/uploads/2023/06/newshot-aptabase.png" /></td>
@@ -811,14 +819,6 @@
         <th><a href="https://github.com/retracedhq/retraced" target="_blank"><img alt="Retraced" src="https://img.shields.io/github/stars/retracedhq/retraced?style=social" /></a></th>
     </tr>
     <tr>
-        <td nowrap="nowrap"><img width="33" alt="Keep" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-keep-4.png" /></td>
-        <td>Notifications</td>
-        <td>Python</td>
-        <td><a href="https://www.keephq.dev" target="_blank">Keep</a></td>
-        <td>Open source alerting management for software developers.</td>
-        <th><a href="https://github.com/keephq/keep" target="_blank"><img alt="Keep" src="https://img.shields.io/github/stars/keephq/keep?style=social" /></a></th>
-    </tr>
-    <tr>
         <td nowrap="nowrap"><img width="33" alt="100-days-of-productivity" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-100-days-of-productivity.jpg" /></td>
         <td>Productivity</td>
         <td>TypeScript</td>
@@ -857,6 +857,14 @@
         <td><a href="https://kitware.github.io/trame/" target="_blank">trame</a></td>
         <td>Trame lets you weave various components and technologies into a Web Application solely written in Python.</td>
         <th><a href="https://github.com/Kitware/trame" target="_blank"><img alt="trame" src="https://img.shields.io/github/stars/Kitware/trame?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Cherrybomb" src="https://libraries.github20k.com/images/uploads/2023/06/newshot-cherrybomb.png" /></td>
+        <td>Security</td>
+        <td>Rust</td>
+        <td><a href="https://www.blstsecurity.com/cherrybomb" target="_blank">Cherrybomb</a></td>
+        <td>Stop half-done APIs! Cherrybomb is a CLI tool that helps you avoid undefined user behaviour by auditing your API specifications, validating them and running API security tests.</td>
+        <th><a href="https://github.com/blst-security/cherrybomb" target="_blank"><img alt="Cherrybomb" src="https://img.shields.io/github/stars/blst-security/cherrybomb?style=social" /></a></th>
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="ClusterFuzz" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-clusterfuzz.png" /></td>
@@ -1105,14 +1113,6 @@
         <td><a href="https://kubevela.io" target="_blank">KubeVela</a></td>
         <td>The Modern Application Platform.</td>
         <th><a href="https://github.com/kubevela/kubevela" target="_blank"><img alt="KubeVela" src="https://img.shields.io/github/stars/kubevela/kubevela?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Zeek" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-zeek.png" /></td>
-        <td>Observability</td>
-        <td>C++</td>
-        <td><a href="https://www.zeek.org" target="_blank">Zeek</a></td>
-        <td>Zeek is a powerful network analysis framework that is much different from the typical IDS you may know.</td>
-        <th><a href="https://github.com/zeek/zeek" target="_blank"><img alt="Zeek" src="https://img.shields.io/github/stars/zeek/zeek?style=social" /></a></th>
     </tr>
 
 </table>
@@ -2754,6 +2754,14 @@
         <th><a href="https://github.com/retracedhq/retraced" target="_blank"><img alt="Retraced" src="https://img.shields.io/github/stars/retracedhq/retraced?style=social" /></a></th>
     </tr>
     <tr>
+        <td nowrap="nowrap"><img width="33" alt="Cherrybomb" src="https://libraries.github20k.com/images/uploads/2023/06/newshot-cherrybomb.png" /></td>
+        <td>Security</td>
+        <td>Rust</td>
+        <td><a href="https://www.blstsecurity.com/cherrybomb" target="_blank">Cherrybomb</a></td>
+        <td>Stop half-done APIs! Cherrybomb is a CLI tool that helps you avoid undefined user behaviour by auditing your API specifications, validating them and running API security tests.</td>
+        <th><a href="https://github.com/blst-security/cherrybomb" target="_blank"><img alt="Cherrybomb" src="https://img.shields.io/github/stars/blst-security/cherrybomb?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="PrivateBin" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-PrivateBin.png" /></td>
         <td>Security</td>
         <td>PHP</td>
@@ -3166,6 +3174,14 @@
         <th><a href="https://github.com/novuhq/novu" target="_blank"><img alt="Novu" src="https://img.shields.io/github/stars/novuhq/novu?style=social" /></a></th>
     </tr>
     <tr>
+        <td nowrap="nowrap"><img width="33" alt="Keep" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-keep-4.png" /></td>
+        <td>Notifications</td>
+        <td>Python</td>
+        <td><a href="https://www.keephq.dev" target="_blank">Keep</a></td>
+        <td>Open source alerting management for software developers.</td>
+        <th><a href="https://github.com/keephq/keep" target="_blank"><img alt="Keep" src="https://img.shields.io/github/stars/keephq/keep?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="Telego" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-telego.jpg" /></td>
         <td>Notifications</td>
         <td>Go</td>
@@ -3180,14 +3196,6 @@
         <td><a href="https://github.com/NivEz/telenode" target="_blank">Telenode</a></td>
         <td>Lightweight Telegram API framework for Node.js</td>
         <th><a href="https://github.com/NivEz/telenode" target="_blank"><img alt="Telenode" src="https://img.shields.io/github/stars/NivEz/telenode?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Keep" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-keep-4.png" /></td>
-        <td>Notifications</td>
-        <td>Python</td>
-        <td><a href="https://www.keephq.dev" target="_blank">Keep</a></td>
-        <td>Open source alerting management for software developers.</td>
-        <th><a href="https://github.com/keephq/keep" target="_blank"><img alt="Keep" src="https://img.shields.io/github/stars/keephq/keep?style=social" /></a></th>
     </tr>
 
 </table>
@@ -6061,20 +6069,20 @@
         <th><a href="https://github.com/uripeled2/llm-client-sdk" target="_blank"><img alt="llm-client" src="https://img.shields.io/github/stars/uripeled2/llm-client-sdk?style=social" /></a></th>
     </tr>
     <tr>
-        <td nowrap="nowrap"><img width="33" alt="DocsGPT" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-DocsGPT.png" /></td>
-        <td>Productivity</td>
-        <td>Python</td>
-        <td><a href="https://docsgpt.arc53.com/" target="_blank">DocsGPT</a></td>
-        <td>GPT-powered chat for documentation search &amp; assistance.</td>
-        <th><a href="https://github.com/arc53/DocsGPT" target="_blank"><img alt="DocsGPT" src="https://img.shields.io/github/stars/arc53/DocsGPT?style=social" /></a></th>
-    </tr>
-    <tr>
         <td nowrap="nowrap"><img width="33" alt="Keep" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-keep-4.png" /></td>
         <td>Notifications</td>
         <td>Python</td>
         <td><a href="https://www.keephq.dev" target="_blank">Keep</a></td>
         <td>Open source alerting management for software developers.</td>
         <th><a href="https://github.com/keephq/keep" target="_blank"><img alt="Keep" src="https://img.shields.io/github/stars/keephq/keep?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="DocsGPT" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-DocsGPT.png" /></td>
+        <td>Productivity</td>
+        <td>Python</td>
+        <td><a href="https://docsgpt.arc53.com/" target="_blank">DocsGPT</a></td>
+        <td>GPT-powered chat for documentation search &amp; assistance.</td>
+        <th><a href="https://github.com/arc53/DocsGPT" target="_blank"><img alt="DocsGPT" src="https://img.shields.io/github/stars/arc53/DocsGPT?style=social" /></a></th>
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="trame" src="https://libraries.github20k.com/images/uploads/2023/06/newshot-trame.png" /></td>
@@ -6517,6 +6525,14 @@
         <td><a href="https://quickwit.io" target="_blank">Quickwit</a></td>
         <td>Sub-second search &amp; analytics engine on cloud storage</td>
         <th><a href="https://github.com/quickwit-oss/quickwit" target="_blank"><img alt="Quickwit" src="https://img.shields.io/github/stars/quickwit-oss/quickwit?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Cherrybomb" src="https://libraries.github20k.com/images/uploads/2023/06/newshot-cherrybomb.png" /></td>
+        <td>Security</td>
+        <td>Rust</td>
+        <td><a href="https://www.blstsecurity.com/cherrybomb" target="_blank">Cherrybomb</a></td>
+        <td>Stop half-done APIs! Cherrybomb is a CLI tool that helps you avoid undefined user behaviour by auditing your API specifications, validating them and running API security tests.</td>
+        <th><a href="https://github.com/blst-security/cherrybomb" target="_blank"><img alt="Cherrybomb" src="https://img.shields.io/github/stars/blst-security/cherrybomb?style=social" /></a></th>
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="wasm-pack" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-wasm-pack.png" /></td>
