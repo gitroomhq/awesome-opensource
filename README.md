@@ -140,6 +140,14 @@
         <th>Stargazers</th>
     </tr>
         <tr>
+        <td nowrap="nowrap"><img width="33" alt="Prim+RPC" src="https://libraries.github20k.com/images/uploads/2023/06/newshot-prim-rpc.jpg" /></td>
+        <td>Productivity</td>
+        <td>TypeScript</td>
+        <td><a href="https://prim.doseofted.me" target="_blank">Prim+RPC</a></td>
+        <td>Easy-to-understand, type-safe, transport-agnostic RPC/IPC for JavaScript, supporting callbacks, batching, file uploads, custom serialization, and more.</td>
+        <th><a href="https://github.com/doseofted/prim-rpc" target="_blank"><img alt="Prim+RPC" src="https://img.shields.io/github/stars/doseofted/prim-rpc?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="Cherrybomb" src="https://libraries.github20k.com/images/uploads/2023/06/newshot-cherrybomb.png" /></td>
         <td>Security</td>
         <td>Rust</td>
@@ -290,14 +298,6 @@
         <td><a href="https://github.com/intelops/compage" target="_blank">Compage</a></td>
         <td>Compage - Low-Code Framework to develop Rest API, gRPC, dRPC, GraphQL, WebAssembly, microservices, FaaS, Temporal workloads, IoT and edge services, K8s controllers, K8s CRDs, K8s custom APIs, K8s O…</td>
         <th><a href="https://github.com/intelops/compage" target="_blank"><img alt="Compage" src="https://img.shields.io/github/stars/intelops/compage?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Dockerized Salt Master" src="https://libraries.github20k.com/images/uploads/2023/06/newshot-docker-salt-master.jpg" /></td>
-        <td>Infrastructure</td>
-        <td>Shell</td>
-        <td><a href="https://docs.saltproject.io" target="_blank">Dockerized Salt Master</a></td>
-        <td><g-emoji class="g-emoji" alias="whale" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f433.png">?</g-emoji><g-emoji class="g-emoji" alias="salt" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f9c2.png">?</g-emoji> Dockerized Salt Master</td>
-        <th><a href="https://github.com/cdalvaro/docker-salt-master" target="_blank"><img alt="Dockerized Salt Master" src="https://img.shields.io/github/stars/cdalvaro/docker-salt-master?style=social" /></a></th>
     </tr>
 
 </table>
@@ -875,6 +875,14 @@
         <th><a href="https://github.com/blst-security/cherrybomb" target="_blank"><img alt="Cherrybomb" src="https://img.shields.io/github/stars/blst-security/cherrybomb?style=social" /></a></th>
     </tr>
     <tr>
+        <td nowrap="nowrap"><img width="33" alt="Prim+RPC" src="https://libraries.github20k.com/images/uploads/2023/06/newshot-prim-rpc.jpg" /></td>
+        <td>Productivity</td>
+        <td>TypeScript</td>
+        <td><a href="https://prim.doseofted.me" target="_blank">Prim+RPC</a></td>
+        <td>Easy-to-understand, type-safe, transport-agnostic RPC/IPC for JavaScript, supporting callbacks, batching, file uploads, custom serialization, and more.</td>
+        <th><a href="https://github.com/doseofted/prim-rpc" target="_blank"><img alt="Prim+RPC" src="https://img.shields.io/github/stars/doseofted/prim-rpc?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="ClusterFuzz" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-clusterfuzz.png" /></td>
         <td>Infrastructure</td>
         <td>Python</td>
@@ -1105,14 +1113,6 @@
         <td><a href="https://www.gopass.pw/" target="_blank">gopass</a></td>
         <td>The slightly more awesome standard unix password manager for teams</td>
         <th><a href="https://github.com/gopasspw/gopass" target="_blank"><img alt="gopass" src="https://img.shields.io/github/stars/gopasspw/gopass?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="vavr-io/vavr" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-vavr.png" /></td>
-        <td>Productivity</td>
-        <td>Java</td>
-        <td><a href="https://vavr.io" target="_blank">vavr-io/vavr</a></td>
-        <td>vʌvr (formerly called Javaslang) is a non-commercial, non-profit object-functional library that runs with Java 8+. It aims to reduce the lines of code and increase code quality.</td>
-        <th><a href="https://github.com/vavr-io/vavr" target="_blank"><img alt="vavr-io/vavr" src="https://img.shields.io/github/stars/vavr-io/vavr?style=social" /></a></th>
     </tr>
 
 </table>
@@ -1764,6 +1764,14 @@
         <td><a href="https://kitware.github.io/trame/" target="_blank">trame</a></td>
         <td>Trame lets you weave various components and technologies into a Web Application solely written in Python.</td>
         <th><a href="https://github.com/Kitware/trame" target="_blank"><img alt="trame" src="https://img.shields.io/github/stars/Kitware/trame?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Prim+RPC" src="https://libraries.github20k.com/images/uploads/2023/06/newshot-prim-rpc.jpg" /></td>
+        <td>Productivity</td>
+        <td>TypeScript</td>
+        <td><a href="https://prim.doseofted.me" target="_blank">Prim+RPC</a></td>
+        <td>Easy-to-understand, type-safe, transport-agnostic RPC/IPC for JavaScript, supporting callbacks, batching, file uploads, custom serialization, and more.</td>
+        <th><a href="https://github.com/doseofted/prim-rpc" target="_blank"><img alt="Prim+RPC" src="https://img.shields.io/github/stars/doseofted/prim-rpc?style=social" /></a></th>
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="VS Code Docs" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-vscode-docs.png" /></td>
@@ -4399,6 +4407,14 @@
         <td><a href="https://railtrack.ch" target="_blank">Railtrack</a></td>
         <td>Next.js and Supabase app to track your train journeys in Europe</td>
         <th><a href="https://github.com/noahflk/railtrack" target="_blank"><img alt="Railtrack" src="https://img.shields.io/github/stars/noahflk/railtrack?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Prim+RPC" src="https://libraries.github20k.com/images/uploads/2023/06/newshot-prim-rpc.jpg" /></td>
+        <td>Productivity</td>
+        <td>TypeScript</td>
+        <td><a href="https://prim.doseofted.me" target="_blank">Prim+RPC</a></td>
+        <td>Easy-to-understand, type-safe, transport-agnostic RPC/IPC for JavaScript, supporting callbacks, batching, file uploads, custom serialization, and more.</td>
+        <th><a href="https://github.com/doseofted/prim-rpc" target="_blank"><img alt="Prim+RPC" src="https://img.shields.io/github/stars/doseofted/prim-rpc?style=social" /></a></th>
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="The Lounge" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-thelounge.png" /></td>
