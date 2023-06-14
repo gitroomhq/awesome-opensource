@@ -555,6 +555,14 @@
         <th><a href="https://github.com/Super-Badmen-Viper/MoZhiMusicPlayer" target="_blank"><img alt="MoZhiMusicPlayer" src="https://img.shields.io/github/stars/Super-Badmen-Viper/MoZhiMusicPlayer?style=social" /></a></th>
     </tr>
     <tr>
+        <td nowrap="nowrap"><img width="33" alt="Prim+RPC" src="https://libraries.github20k.com/images/uploads/2023/06/newshot-prim-rpc.jpg" /></td>
+        <td>Productivity</td>
+        <td>TypeScript</td>
+        <td><a href="https://prim.doseofted.me" target="_blank">Prim+RPC</a></td>
+        <td>Easy-to-understand, type-safe, transport-agnostic RPC/IPC for JavaScript, supporting callbacks, batching, file uploads, custom serialization, and more.</td>
+        <th><a href="https://github.com/doseofted/prim-rpc" target="_blank"><img alt="Prim+RPC" src="https://img.shields.io/github/stars/doseofted/prim-rpc?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="Mirage JS" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-miragejs.png" /></td>
         <td>Productivity</td>
         <td>JavaScript</td>
@@ -873,14 +881,6 @@
         <td><a href="https://www.blstsecurity.com/cherrybomb" target="_blank">Cherrybomb</a></td>
         <td>Stop half-done APIs! Cherrybomb is a CLI tool that helps you avoid undefined user behaviour by auditing your API specifications, validating them and running API security tests.</td>
         <th><a href="https://github.com/blst-security/cherrybomb" target="_blank"><img alt="Cherrybomb" src="https://img.shields.io/github/stars/blst-security/cherrybomb?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Prim+RPC" src="https://libraries.github20k.com/images/uploads/2023/06/newshot-prim-rpc.jpg" /></td>
-        <td>Productivity</td>
-        <td>TypeScript</td>
-        <td><a href="https://prim.doseofted.me" target="_blank">Prim+RPC</a></td>
-        <td>Easy-to-understand, type-safe, transport-agnostic RPC/IPC for JavaScript, supporting callbacks, batching, file uploads, custom serialization, and more.</td>
-        <th><a href="https://github.com/doseofted/prim-rpc" target="_blank"><img alt="Prim+RPC" src="https://img.shields.io/github/stars/doseofted/prim-rpc?style=social" /></a></th>
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="ClusterFuzz" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-clusterfuzz.png" /></td>
@@ -1670,6 +1670,14 @@
         <th><a href="https://github.com/BoykaFramework/boyka-framework" target="_blank"><img alt="boyka-framework" src="https://img.shields.io/github/stars/BoykaFramework/boyka-framework?style=social" /></a></th>
     </tr>
     <tr>
+        <td nowrap="nowrap"><img width="33" alt="Prim+RPC" src="https://libraries.github20k.com/images/uploads/2023/06/newshot-prim-rpc.jpg" /></td>
+        <td>Productivity</td>
+        <td>TypeScript</td>
+        <td><a href="https://prim.doseofted.me" target="_blank">Prim+RPC</a></td>
+        <td>Easy-to-understand, type-safe, transport-agnostic RPC/IPC for JavaScript, supporting callbacks, batching, file uploads, custom serialization, and more.</td>
+        <th><a href="https://github.com/doseofted/prim-rpc" target="_blank"><img alt="Prim+RPC" src="https://img.shields.io/github/stars/doseofted/prim-rpc?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="Mirage JS" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-miragejs.png" /></td>
         <td>Productivity</td>
         <td>JavaScript</td>
@@ -1764,14 +1772,6 @@
         <td><a href="https://kitware.github.io/trame/" target="_blank">trame</a></td>
         <td>Trame lets you weave various components and technologies into a Web Application solely written in Python.</td>
         <th><a href="https://github.com/Kitware/trame" target="_blank"><img alt="trame" src="https://img.shields.io/github/stars/Kitware/trame?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Prim+RPC" src="https://libraries.github20k.com/images/uploads/2023/06/newshot-prim-rpc.jpg" /></td>
-        <td>Productivity</td>
-        <td>TypeScript</td>
-        <td><a href="https://prim.doseofted.me" target="_blank">Prim+RPC</a></td>
-        <td>Easy-to-understand, type-safe, transport-agnostic RPC/IPC for JavaScript, supporting callbacks, batching, file uploads, custom serialization, and more.</td>
-        <th><a href="https://github.com/doseofted/prim-rpc" target="_blank"><img alt="Prim+RPC" src="https://img.shields.io/github/stars/doseofted/prim-rpc?style=social" /></a></th>
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="VS Code Docs" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-vscode-docs.png" /></td>
@@ -4305,6 +4305,14 @@
         <th><a href="https://github.com/aptabase/aptabase" target="_blank"><img alt="Aptabase" src="https://img.shields.io/github/stars/aptabase/aptabase?style=social" /></a></th>
     </tr>
     <tr>
+        <td nowrap="nowrap"><img width="33" alt="Prim+RPC" src="https://libraries.github20k.com/images/uploads/2023/06/newshot-prim-rpc.jpg" /></td>
+        <td>Productivity</td>
+        <td>TypeScript</td>
+        <td><a href="https://prim.doseofted.me" target="_blank">Prim+RPC</a></td>
+        <td>Easy-to-understand, type-safe, transport-agnostic RPC/IPC for JavaScript, supporting callbacks, batching, file uploads, custom serialization, and more.</td>
+        <th><a href="https://github.com/doseofted/prim-rpc" target="_blank"><img alt="Prim+RPC" src="https://img.shields.io/github/stars/doseofted/prim-rpc?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="NativeScript-Vue" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-nativescript-vue-1.png" /></td>
         <td>Infrastructure</td>
         <td>TypeScript</td>
@@ -4407,14 +4415,6 @@
         <td><a href="https://railtrack.ch" target="_blank">Railtrack</a></td>
         <td>Next.js and Supabase app to track your train journeys in Europe</td>
         <th><a href="https://github.com/noahflk/railtrack" target="_blank"><img alt="Railtrack" src="https://img.shields.io/github/stars/noahflk/railtrack?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Prim+RPC" src="https://libraries.github20k.com/images/uploads/2023/06/newshot-prim-rpc.jpg" /></td>
-        <td>Productivity</td>
-        <td>TypeScript</td>
-        <td><a href="https://prim.doseofted.me" target="_blank">Prim+RPC</a></td>
-        <td>Easy-to-understand, type-safe, transport-agnostic RPC/IPC for JavaScript, supporting callbacks, batching, file uploads, custom serialization, and more.</td>
-        <th><a href="https://github.com/doseofted/prim-rpc" target="_blank"><img alt="Prim+RPC" src="https://img.shields.io/github/stars/doseofted/prim-rpc?style=social" /></a></th>
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="The Lounge" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-thelounge.png" /></td>
