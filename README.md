@@ -74,6 +74,8 @@
              </li>          <li>
                 <a href="#css">Top 20 CSS libraries</a>
              </li>          <li>
+                <a href="#batchfile">Top 20 Batchfile libraries</a>
+             </li>          <li>
                 <a href="#c++">Top 20 C++ libraries</a>
              </li>          <li>
                 <a href="#c">Top 20 C libraries</a>
@@ -121,8 +123,6 @@
                 <a href="#xslt">Top 20 XSLT libraries</a>
              </li>          <li>
                 <a href="#jupyter-notebook">Top 20 Jupyter Notebook libraries</a>
-             </li>          <li>
-                <a href="#batchfile">Top 20 Batchfile libraries</a>
              </li>        
         </ul>
     </li>
@@ -140,6 +140,14 @@
         <th>Stargazers</th>
     </tr>
         <tr>
+        <td nowrap="nowrap"><img width="33" alt="Phase Console" src="https://libraries.github20k.com/images/uploads/2023/06/newshot-console.png" /></td>
+        <td>Security</td>
+        <td>TypeScript</td>
+        <td><a href="https://phase.dev" target="_blank">Phase Console</a></td>
+        <td>Open-source encryption and key management platform for app developers.</td>
+        <th><a href="https://github.com/phasehq/console" target="_blank"><img alt="Phase Console" src="https://img.shields.io/github/stars/phasehq/console?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="Prim+RPC" src="https://libraries.github20k.com/images/uploads/2023/06/newshot-prim-rpc.jpg" /></td>
         <td>Productivity</td>
         <td>TypeScript</td>
@@ -290,14 +298,6 @@
         <td><a href="https://github.com/HynDuf/dotfiles" target="_blank">Aesthetic Arch Linux dotfiles</a></td>
         <td>Aesthetic Dotfiles for my Arch Linux</td>
         <th><a href="https://github.com/HynDuf/dotfiles" target="_blank"><img alt="Aesthetic Arch Linux dotfiles" src="https://img.shields.io/github/stars/HynDuf/dotfiles?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Compage" src="https://libraries.github20k.com/images/uploads/2023/06/newshot-compage.png" /></td>
-        <td>Productivity</td>
-        <td>TypeScript</td>
-        <td><a href="https://github.com/intelops/compage" target="_blank">Compage</a></td>
-        <td>Compage - Low-Code Framework to develop Rest API, gRPC, dRPC, GraphQL, WebAssembly, microservices, FaaS, Temporal workloads, IoT and edge services, K8s controllers, K8s CRDs, K8s custom APIs, K8s O…</td>
-        <th><a href="https://github.com/intelops/compage" target="_blank"><img alt="Compage" src="https://img.shields.io/github/stars/intelops/compage?style=social" /></a></th>
     </tr>
 
 </table>
@@ -563,6 +563,14 @@
         <th><a href="https://github.com/doseofted/prim-rpc" target="_blank"><img alt="Prim+RPC" src="https://img.shields.io/github/stars/doseofted/prim-rpc?style=social" /></a></th>
     </tr>
     <tr>
+        <td nowrap="nowrap"><img width="33" alt="Phase Console" src="https://libraries.github20k.com/images/uploads/2023/06/newshot-console.png" /></td>
+        <td>Security</td>
+        <td>TypeScript</td>
+        <td><a href="https://phase.dev" target="_blank">Phase Console</a></td>
+        <td>Open-source encryption and key management platform for app developers.</td>
+        <th><a href="https://github.com/phasehq/console" target="_blank"><img alt="Phase Console" src="https://img.shields.io/github/stars/phasehq/console?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="Mirage JS" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-miragejs.png" /></td>
         <td>Productivity</td>
         <td>JavaScript</td>
@@ -817,6 +825,14 @@
         <td><a href="https://dub.sh" target="_blank">Dub</a></td>
         <td>An open-source link shortener with built-in analytics + free custom domains.</td>
         <th><a href="https://github.com/steven-tey/dub" target="_blank"><img alt="Dub" src="https://img.shields.io/github/stars/steven-tey/dub?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Microsoft-Activation-Scripts" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-Microsoft-Activation-Scripts.png" /></td>
+        <td>Productivity</td>
+        <td>Batchfile</td>
+        <td><a href="https://massgrave.dev" target="_blank">Microsoft-Activation-Scripts</a></td>
+        <td>A Windows and Office activator using HWID / KMS38 / Online KMS activation methods, with a focus on open-source code and fewer antivirus detections.</td>
+        <th><a href="https://github.com/massgravel/Microsoft-Activation-Scripts" target="_blank"><img alt="Microsoft-Activation-Scripts" src="https://img.shields.io/github/stars/massgravel/Microsoft-Activation-Scripts?style=social" /></a></th>
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="Retraced" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-retraced.png" /></td>
@@ -1097,22 +1113,6 @@
         <td><a href="http://www.drools.org" target="_blank">Drools</a></td>
         <td>Drools is a rule engine, DMN engine and complex event processing (CEP) engine for Java.</td>
         <th><a href="https://github.com/kiegroup/drools" target="_blank"><img alt="Drools" src="https://img.shields.io/github/stars/kiegroup/drools?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="COLMAP" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-colmap.png" /></td>
-        <td>Observability</td>
-        <td>C++</td>
-        <td><a href="https://colmap.github.io/" target="_blank">COLMAP</a></td>
-        <td>COLMAP - Structure-from-Motion and Multi-View Stereo</td>
-        <th><a href="https://github.com/colmap/colmap" target="_blank"><img alt="COLMAP" src="https://img.shields.io/github/stars/colmap/colmap?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="gopass" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-gopass.png" /></td>
-        <td>Security</td>
-        <td>Go</td>
-        <td><a href="https://www.gopass.pw/" target="_blank">gopass</a></td>
-        <td>The slightly more awesome standard unix password manager for teams</td>
-        <th><a href="https://github.com/gopasspw/gopass" target="_blank"><img alt="gopass" src="https://img.shields.io/github/stars/gopasspw/gopass?style=social" /></a></th>
     </tr>
 
 </table>
@@ -1740,6 +1740,14 @@
         <td><a href="https://dub.sh" target="_blank">Dub</a></td>
         <td>An open-source link shortener with built-in analytics + free custom domains.</td>
         <th><a href="https://github.com/steven-tey/dub" target="_blank"><img alt="Dub" src="https://img.shields.io/github/stars/steven-tey/dub?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Microsoft-Activation-Scripts" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-Microsoft-Activation-Scripts.png" /></td>
+        <td>Productivity</td>
+        <td>Batchfile</td>
+        <td><a href="https://massgrave.dev" target="_blank">Microsoft-Activation-Scripts</a></td>
+        <td>A Windows and Office activator using HWID / KMS38 / Online KMS activation methods, with a focus on open-source code and fewer antivirus detections.</td>
+        <th><a href="https://github.com/massgravel/Microsoft-Activation-Scripts" target="_blank"><img alt="Microsoft-Activation-Scripts" src="https://img.shields.io/github/stars/massgravel/Microsoft-Activation-Scripts?style=social" /></a></th>
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="100-days-of-productivity" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-100-days-of-productivity.jpg" /></td>
@@ -2478,14 +2486,6 @@
         <th><a href="https://github.com/pdm-project/pdm" target="_blank"><img alt="PDM" src="https://img.shields.io/github/stars/pdm-project/pdm?style=social" /></a></th>
     </tr>
     <tr>
-        <td nowrap="nowrap"><img width="33" alt="Microsoft-Activation-Scripts" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-Microsoft-Activation-Scripts.png" /></td>
-        <td>Productivity</td>
-        <td>Batchfile</td>
-        <td><a href="https://massgrave.dev" target="_blank">Microsoft-Activation-Scripts</a></td>
-        <td>A Windows and Office activator using HWID / KMS38 / Online KMS activation methods, with a focus on open-source code and fewer antivirus detections.</td>
-        <th><a href="https://github.com/massgravel/Microsoft-Activation-Scripts" target="_blank"><img alt="Microsoft-Activation-Scripts" src="https://img.shields.io/github/stars/massgravel/Microsoft-Activation-Scripts?style=social" /></a></th>
-    </tr>
-    <tr>
         <td nowrap="nowrap"><img width="33" alt="Robby-chatbot" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-Robby-chatbot.jpg" /></td>
         <td>Productivity</td>
         <td>Python</td>
@@ -2736,6 +2736,14 @@
         <td><a href="https://hanko.io" target="_blank">Hanko</a></td>
         <td>Authentication and user management for the passkey era.</td>
         <th><a href="https://github.com/teamhanko/hanko" target="_blank"><img alt="Hanko" src="https://img.shields.io/github/stars/teamhanko/hanko?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Phase Console" src="https://libraries.github20k.com/images/uploads/2023/06/newshot-console.png" /></td>
+        <td>Security</td>
+        <td>TypeScript</td>
+        <td><a href="https://phase.dev" target="_blank">Phase Console</a></td>
+        <td>Open-source encryption and key management platform for app developers.</td>
+        <th><a href="https://github.com/phasehq/console" target="_blank"><img alt="Phase Console" src="https://img.shields.io/github/stars/phasehq/console?style=social" /></a></th>
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="KeyPass" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-KeyPass.jpg" /></td>
@@ -4311,6 +4319,14 @@
         <td><a href="https://prim.doseofted.me" target="_blank">Prim+RPC</a></td>
         <td>Easy-to-understand, type-safe, transport-agnostic RPC/IPC for JavaScript, supporting callbacks, batching, file uploads, custom serialization, and more.</td>
         <th><a href="https://github.com/doseofted/prim-rpc" target="_blank"><img alt="Prim+RPC" src="https://img.shields.io/github/stars/doseofted/prim-rpc?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Phase Console" src="https://libraries.github20k.com/images/uploads/2023/06/newshot-console.png" /></td>
+        <td>Security</td>
+        <td>TypeScript</td>
+        <td><a href="https://phase.dev" target="_blank">Phase Console</a></td>
+        <td>Open-source encryption and key management platform for app developers.</td>
+        <th><a href="https://github.com/phasehq/console" target="_blank"><img alt="Phase Console" src="https://img.shields.io/github/stars/phasehq/console?style=social" /></a></th>
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="NativeScript-Vue" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-nativescript-vue-1.png" /></td>
@@ -6818,6 +6834,28 @@
 </table>
 
 <br /><br />
+<h2 id="batchfile">Top 20 Batchfile libraries</h2>
+<table>
+    <tr>
+        <th>Icon</th>
+        <th>Category</th>
+        <th>Language</th>
+        <th>Name</th>
+        <th>Description</th>
+        <th>Stargazers</th>
+    </tr>
+        <tr>
+        <td nowrap="nowrap"><img width="33" alt="Microsoft-Activation-Scripts" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-Microsoft-Activation-Scripts.png" /></td>
+        <td>Productivity</td>
+        <td>Batchfile</td>
+        <td><a href="https://massgrave.dev" target="_blank">Microsoft-Activation-Scripts</a></td>
+        <td>A Windows and Office activator using HWID / KMS38 / Online KMS activation methods, with a focus on open-source code and fewer antivirus detections.</td>
+        <th><a href="https://github.com/massgravel/Microsoft-Activation-Scripts" target="_blank"><img alt="Microsoft-Activation-Scripts" src="https://img.shields.io/github/stars/massgravel/Microsoft-Activation-Scripts?style=social" /></a></th>
+    </tr>
+
+</table>
+
+<br /><br />
 <h2 id="c++">Top 20 C++ libraries</h2>
 <table>
     <tr>
@@ -7717,28 +7755,6 @@
         <td><a href="https://thecaduceus.eu.org/Multi-Cloud-Transfer-Tool" target="_blank">Multi Cloud Transfer Tool</a></td>
         <td>The most advanced yet simple Jupyter Notebook to transfer/manage your data from/to any cloud remotely based on Rclone and other engines.<g-emoji class="g-emoji" alias="zap" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/26a1.png">⚡</g-emoji></td>
         <th><a href="https://github.com/TheCaduceus/Multi-Cloud-Transfer-Tool" target="_blank"><img alt="Multi Cloud Transfer Tool" src="https://img.shields.io/github/stars/TheCaduceus/Multi-Cloud-Transfer-Tool?style=social" /></a></th>
-    </tr>
-
-</table>
-
-<br /><br />
-<h2 id="batchfile">Top 20 Batchfile libraries</h2>
-<table>
-    <tr>
-        <th>Icon</th>
-        <th>Category</th>
-        <th>Language</th>
-        <th>Name</th>
-        <th>Description</th>
-        <th>Stargazers</th>
-    </tr>
-        <tr>
-        <td nowrap="nowrap"><img width="33" alt="Microsoft-Activation-Scripts" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-Microsoft-Activation-Scripts.png" /></td>
-        <td>Productivity</td>
-        <td>Batchfile</td>
-        <td><a href="https://massgrave.dev" target="_blank">Microsoft-Activation-Scripts</a></td>
-        <td>A Windows and Office activator using HWID / KMS38 / Online KMS activation methods, with a focus on open-source code and fewer antivirus detections.</td>
-        <th><a href="https://github.com/massgravel/Microsoft-Activation-Scripts" target="_blank"><img alt="Microsoft-Activation-Scripts" src="https://img.shields.io/github/stars/massgravel/Microsoft-Activation-Scripts?style=social" /></a></th>
     </tr>
 
 </table>
