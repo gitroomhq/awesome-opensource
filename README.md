@@ -140,6 +140,14 @@
         <th>Stargazers</th>
     </tr>
         <tr>
+        <td nowrap="nowrap"><img width="33" alt="Tolgee" src="https://libraries.github20k.com/images/uploads/2023/06/newshot-tolgee-platform.png" /></td>
+        <td>Collaboration</td>
+        <td>Kotlin</td>
+        <td><a href="https://tolgee.io" target="_blank">Tolgee</a></td>
+        <td>Developer &amp; translator friendly web-based localization platform</td>
+        <th><a href="https://github.com/tolgee/tolgee-platform" target="_blank"><img alt="Tolgee" src="https://img.shields.io/github/stars/tolgee/tolgee-platform?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="Phase Console" src="https://libraries.github20k.com/images/uploads/2023/06/newshot-console.png" /></td>
         <td>Security</td>
         <td>TypeScript</td>
@@ -290,14 +298,6 @@
         <td><a href="https://github.com/AmosHuKe/Mood-Example" target="_blank">Mood-Example</a></td>
         <td><g-emoji class="g-emoji" alias="bird" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f426.png">?</g-emoji> Flutter 3 心情记录 样例工程 - 国际化 i18n、uni 小程序、深色模式、多主题、本地数据管理、路由管理、状态管理、无障碍（Semantics）、异步 FFI、集成测试、图表统计、Excel 导入导出、游戏…</td>
         <th><a href="https://github.com/AmosHuKe/Mood-Example" target="_blank"><img alt="Mood-Example" src="https://img.shields.io/github/stars/AmosHuKe/Mood-Example?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Aesthetic Arch Linux dotfiles" src="https://libraries.github20k.com/images/uploads/2023/06/newshot-dotfiles.jpg" /></td>
-        <td>Productivity</td>
-        <td>CSS</td>
-        <td><a href="https://github.com/HynDuf/dotfiles" target="_blank">Aesthetic Arch Linux dotfiles</a></td>
-        <td>Aesthetic Dotfiles for my Arch Linux</td>
-        <th><a href="https://github.com/HynDuf/dotfiles" target="_blank"><img alt="Aesthetic Arch Linux dotfiles" src="https://img.shields.io/github/stars/HynDuf/dotfiles?style=social" /></a></th>
     </tr>
 
 </table>
@@ -467,6 +467,14 @@
         <th><a href="https://github.com/devtron-labs/devtron" target="_blank"><img alt="Devtron" src="https://img.shields.io/github/stars/devtron-labs/devtron?style=social" /></a></th>
     </tr>
     <tr>
+        <td nowrap="nowrap"><img width="33" alt="Phase Console" src="https://libraries.github20k.com/images/uploads/2023/06/newshot-console.png" /></td>
+        <td>Security</td>
+        <td>TypeScript</td>
+        <td><a href="https://phase.dev" target="_blank">Phase Console</a></td>
+        <td>Open-source encryption and key management platform for app developers.</td>
+        <th><a href="https://github.com/phasehq/console" target="_blank"><img alt="Phase Console" src="https://img.shields.io/github/stars/phasehq/console?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="GitHub Support" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-dmca.png" /></td>
         <td>Miscellaneous</td>
         <td>undefined</td>
@@ -561,14 +569,6 @@
         <td><a href="https://prim.doseofted.me" target="_blank">Prim+RPC</a></td>
         <td>Easy-to-understand, type-safe, transport-agnostic RPC/IPC for JavaScript, supporting callbacks, batching, file uploads, custom serialization, and more.</td>
         <th><a href="https://github.com/doseofted/prim-rpc" target="_blank"><img alt="Prim+RPC" src="https://img.shields.io/github/stars/doseofted/prim-rpc?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Phase Console" src="https://libraries.github20k.com/images/uploads/2023/06/newshot-console.png" /></td>
-        <td>Security</td>
-        <td>TypeScript</td>
-        <td><a href="https://phase.dev" target="_blank">Phase Console</a></td>
-        <td>Open-source encryption and key management platform for app developers.</td>
-        <th><a href="https://github.com/phasehq/console" target="_blank"><img alt="Phase Console" src="https://img.shields.io/github/stars/phasehq/console?style=social" /></a></th>
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="Mirage JS" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-miragejs.png" /></td>
@@ -899,6 +899,14 @@
         <th><a href="https://github.com/blst-security/cherrybomb" target="_blank"><img alt="Cherrybomb" src="https://img.shields.io/github/stars/blst-security/cherrybomb?style=social" /></a></th>
     </tr>
     <tr>
+        <td nowrap="nowrap"><img width="33" alt="Tolgee" src="https://libraries.github20k.com/images/uploads/2023/06/newshot-tolgee-platform.png" /></td>
+        <td>Collaboration</td>
+        <td>Kotlin</td>
+        <td><a href="https://tolgee.io" target="_blank">Tolgee</a></td>
+        <td>Developer &amp; translator friendly web-based localization platform</td>
+        <th><a href="https://github.com/tolgee/tolgee-platform" target="_blank"><img alt="Tolgee" src="https://img.shields.io/github/stars/tolgee/tolgee-platform?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="ClusterFuzz" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-clusterfuzz.png" /></td>
         <td>Infrastructure</td>
         <td>Python</td>
@@ -1105,14 +1113,6 @@
         <td><a href="https://cosmos.network/" target="_blank">Cosmos: The Internet of Blockchains</a></td>
         <td><g-emoji class="g-emoji" alias="chains" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/26d3.png">⛓️</g-emoji> A Framework for Building High Value Public Blockchains <g-emoji class="g-emoji" alias="sparkles" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2728.png">✨</g-emoji></td>
         <th><a href="https://github.com/cosmos/cosmos-sdk" target="_blank"><img alt="Cosmos: The Internet of Blockchains" src="https://img.shields.io/github/stars/cosmos/cosmos-sdk?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Drools" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-drools.png" /></td>
-        <td>Infrastructure</td>
-        <td>Java</td>
-        <td><a href="http://www.drools.org" target="_blank">Drools</a></td>
-        <td>Drools is a rule engine, DMN engine and complex event processing (CEP) engine for Java.</td>
-        <th><a href="https://github.com/kiegroup/drools" target="_blank"><img alt="Drools" src="https://img.shields.io/github/stars/kiegroup/drools?style=social" /></a></th>
     </tr>
 
 </table>
@@ -2730,20 +2730,20 @@
         <th><a href="https://github.com/bitwarden/clients" target="_blank"><img alt="Bitwarden" src="https://img.shields.io/github/stars/bitwarden/clients?style=social" /></a></th>
     </tr>
     <tr>
-        <td nowrap="nowrap"><img width="33" alt="Hanko" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-hanko.png" /></td>
-        <td>Security</td>
-        <td>TypeScript</td>
-        <td><a href="https://hanko.io" target="_blank">Hanko</a></td>
-        <td>Authentication and user management for the passkey era.</td>
-        <th><a href="https://github.com/teamhanko/hanko" target="_blank"><img alt="Hanko" src="https://img.shields.io/github/stars/teamhanko/hanko?style=social" /></a></th>
-    </tr>
-    <tr>
         <td nowrap="nowrap"><img width="33" alt="Phase Console" src="https://libraries.github20k.com/images/uploads/2023/06/newshot-console.png" /></td>
         <td>Security</td>
         <td>TypeScript</td>
         <td><a href="https://phase.dev" target="_blank">Phase Console</a></td>
         <td>Open-source encryption and key management platform for app developers.</td>
         <th><a href="https://github.com/phasehq/console" target="_blank"><img alt="Phase Console" src="https://img.shields.io/github/stars/phasehq/console?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Hanko" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-hanko.png" /></td>
+        <td>Security</td>
+        <td>TypeScript</td>
+        <td><a href="https://hanko.io" target="_blank">Hanko</a></td>
+        <td>Authentication and user management for the passkey era.</td>
+        <th><a href="https://github.com/teamhanko/hanko" target="_blank"><img alt="Hanko" src="https://img.shields.io/github/stars/teamhanko/hanko?style=social" /></a></th>
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="KeyPass" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-KeyPass.jpg" /></td>
@@ -2990,6 +2990,14 @@
         <td><a href="http://unity.com/open-projects" target="_blank">Unity</a></td>
         <td>Unity Open Project #1: Chop Chop</td>
         <th><a href="https://github.com/UnityTechnologies/open-project-1" target="_blank"><img alt="Unity" src="https://img.shields.io/github/stars/UnityTechnologies/open-project-1?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Tolgee" src="https://libraries.github20k.com/images/uploads/2023/06/newshot-tolgee-platform.png" /></td>
+        <td>Collaboration</td>
+        <td>Kotlin</td>
+        <td><a href="https://tolgee.io" target="_blank">Tolgee</a></td>
+        <td>Developer &amp; translator friendly web-based localization platform</td>
+        <th><a href="https://github.com/tolgee/tolgee-platform" target="_blank"><img alt="Tolgee" src="https://img.shields.io/github/stars/tolgee/tolgee-platform?style=social" /></a></th>
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="The Lounge" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-thelounge.png" /></td>
@@ -4289,6 +4297,14 @@
         <th><a href="https://github.com/zenstackhq/zenstack" target="_blank"><img alt="ZenStack" src="https://img.shields.io/github/stars/zenstackhq/zenstack?style=social" /></a></th>
     </tr>
     <tr>
+        <td nowrap="nowrap"><img width="33" alt="Phase Console" src="https://libraries.github20k.com/images/uploads/2023/06/newshot-console.png" /></td>
+        <td>Security</td>
+        <td>TypeScript</td>
+        <td><a href="https://phase.dev" target="_blank">Phase Console</a></td>
+        <td>Open-source encryption and key management platform for app developers.</td>
+        <th><a href="https://github.com/phasehq/console" target="_blank"><img alt="Phase Console" src="https://img.shields.io/github/stars/phasehq/console?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="Medusa" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-medusa.jpg" /></td>
         <td>Miscellaneous</td>
         <td>TypeScript</td>
@@ -4319,14 +4335,6 @@
         <td><a href="https://prim.doseofted.me" target="_blank">Prim+RPC</a></td>
         <td>Easy-to-understand, type-safe, transport-agnostic RPC/IPC for JavaScript, supporting callbacks, batching, file uploads, custom serialization, and more.</td>
         <th><a href="https://github.com/doseofted/prim-rpc" target="_blank"><img alt="Prim+RPC" src="https://img.shields.io/github/stars/doseofted/prim-rpc?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Phase Console" src="https://libraries.github20k.com/images/uploads/2023/06/newshot-console.png" /></td>
-        <td>Security</td>
-        <td>TypeScript</td>
-        <td><a href="https://phase.dev" target="_blank">Phase Console</a></td>
-        <td>Open-source encryption and key management platform for app developers.</td>
-        <th><a href="https://github.com/phasehq/console" target="_blank"><img alt="Phase Console" src="https://img.shields.io/github/stars/phasehq/console?style=social" /></a></th>
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="NativeScript-Vue" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-nativescript-vue-1.png" /></td>
@@ -6703,6 +6711,14 @@
         <td><a href="https://play.google.com/store/apps/details?id=com.yogeshpaliyal.keypass" target="_blank">KeyPass</a></td>
         <td>KeyPass: Open-source &amp; offline password manager. Store, manage, take control securely.</td>
         <th><a href="https://github.com/yogeshpaliyal/KeyPass" target="_blank"><img alt="KeyPass" src="https://img.shields.io/github/stars/yogeshpaliyal/KeyPass?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Tolgee" src="https://libraries.github20k.com/images/uploads/2023/06/newshot-tolgee-platform.png" /></td>
+        <td>Collaboration</td>
+        <td>Kotlin</td>
+        <td><a href="https://tolgee.io" target="_blank">Tolgee</a></td>
+        <td>Developer &amp; translator friendly web-based localization platform</td>
+        <th><a href="https://github.com/tolgee/tolgee-platform" target="_blank"><img alt="Tolgee" src="https://img.shields.io/github/stars/tolgee/tolgee-platform?style=social" /></a></th>
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="SagerNet/SagerNet" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-SagerNet.png" /></td>
