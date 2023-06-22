@@ -140,6 +140,14 @@
         <th>Stargazers</th>
     </tr>
         <tr>
+        <td nowrap="nowrap"><img width="33" alt="Firecamp" src="https://libraries.github20k.com/images/uploads/2023/06/newshot-Firecamp.png" /></td>
+        <td>Collaboration</td>
+        <td>TypeScript</td>
+        <td><a href="https://firecamp.dev" target="_blank">Firecamp</a></td>
+        <td>The multi-protocol API Platform</td>
+        <th><a href="https://github.com/FirecampDev/Firecamp" target="_blank"><img alt="Firecamp" src="https://img.shields.io/github/stars/FirecampDev/Firecamp?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="Tolgee" src="https://libraries.github20k.com/images/uploads/2023/06/newshot-tolgee-platform.png" /></td>
         <td>Collaboration</td>
         <td>Kotlin</td>
@@ -290,14 +298,6 @@
         <td><a href="https://github.com/technyon/nuki_hub" target="_blank">NUKI Hub</a></td>
         <td>Use an ESP32 as a Hub between a NUKI Lock and your smarthome.</td>
         <th><a href="https://github.com/technyon/nuki_hub" target="_blank"><img alt="NUKI Hub" src="https://img.shields.io/github/stars/technyon/nuki_hub?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Mood-Example" src="https://libraries.github20k.com/images/uploads/2023/06/newshot-Mood-Example.png" /></td>
-        <td>Miscellaneous</td>
-        <td>Dart</td>
-        <td><a href="https://github.com/AmosHuKe/Mood-Example" target="_blank">Mood-Example</a></td>
-        <td><g-emoji class="g-emoji" alias="bird" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f426.png">?</g-emoji> Flutter 3 心情记录 样例工程 - 国际化 i18n、uni 小程序、深色模式、多主题、本地数据管理、路由管理、状态管理、无障碍（Semantics）、异步 FFI、集成测试、图表统计、Excel 导入导出、游戏…</td>
-        <th><a href="https://github.com/AmosHuKe/Mood-Example" target="_blank"><img alt="Mood-Example" src="https://img.shields.io/github/stars/AmosHuKe/Mood-Example?style=social" /></a></th>
     </tr>
 
 </table>
@@ -3175,6 +3175,14 @@
         <td>A tool for mocking HTTP services</td>
         <th><a href="https://github.com/wiremock/wiremock" target="_blank"><img alt="WireMock" src="https://img.shields.io/github/stars/wiremock/wiremock?style=social" /></a></th>
     </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Firecamp" src="https://libraries.github20k.com/images/uploads/2023/06/newshot-Firecamp.png" /></td>
+        <td>Collaboration</td>
+        <td>TypeScript</td>
+        <td><a href="https://firecamp.dev" target="_blank">Firecamp</a></td>
+        <td>The multi-protocol API Platform</td>
+        <th><a href="https://github.com/FirecampDev/Firecamp" target="_blank"><img alt="Firecamp" src="https://img.shields.io/github/stars/FirecampDev/Firecamp?style=social" /></a></th>
+    </tr>
 
 </table>
 
@@ -4847,6 +4855,14 @@
         <td><a href="https://jy95.github.io/docusaurus-json-schema-plugin/" target="_blank">docusaurus-json-schema-plugin</a></td>
         <td>JSON Schema viewer / editor in Docusaurus</td>
         <th><a href="https://github.com/jy95/docusaurus-json-schema-plugin" target="_blank"><img alt="docusaurus-json-schema-plugin" src="https://img.shields.io/github/stars/jy95/docusaurus-json-schema-plugin?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Firecamp" src="https://libraries.github20k.com/images/uploads/2023/06/newshot-Firecamp.png" /></td>
+        <td>Collaboration</td>
+        <td>TypeScript</td>
+        <td><a href="https://firecamp.dev" target="_blank">Firecamp</a></td>
+        <td>The multi-protocol API Platform</td>
+        <th><a href="https://github.com/FirecampDev/Firecamp" target="_blank"><img alt="Firecamp" src="https://img.shields.io/github/stars/FirecampDev/Firecamp?style=social" /></a></th>
     </tr>
 
 </table>
