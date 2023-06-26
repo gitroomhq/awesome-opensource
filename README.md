@@ -140,6 +140,14 @@
         <th>Stargazers</th>
     </tr>
         <tr>
+        <td nowrap="nowrap"><img width="33" alt="Watermelon" src="https://libraries.github20k.com/images/uploads/2023/06/newshot-watermelon-extension.png" /></td>
+        <td>Collaboration</td>
+        <td>TypeScript</td>
+        <td><a href="https://www.watermelontools.com/" target="_blank">Watermelon</a></td>
+        <td><g-emoji class="g-emoji" alias="watermelon" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f349.png">?</g-emoji> Pull Requests With Business Value</td>
+        <th><a href="https://github.com/watermelontools/watermelon-extension" target="_blank"><img alt="Watermelon" src="https://img.shields.io/github/stars/watermelontools/watermelon-extension?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="Firecamp" src="https://libraries.github20k.com/images/uploads/2023/06/newshot-Firecamp.png" /></td>
         <td>Collaboration</td>
         <td>TypeScript</td>
@@ -290,14 +298,6 @@
         <td><a href="https://github.com/otterize/network-mapper" target="_blank">Network mapper</a></td>
         <td>Map Kubernetes in-cluster traffic and export as text, intents, or an image</td>
         <th><a href="https://github.com/otterize/network-mapper" target="_blank"><img alt="Network mapper" src="https://img.shields.io/github/stars/otterize/network-mapper?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="NUKI Hub" src="https://libraries.github20k.com/images/uploads/2023/06/newshot-nuki_hub-1.png" /></td>
-        <td>Miscellaneous</td>
-        <td>C</td>
-        <td><a href="https://github.com/technyon/nuki_hub" target="_blank">NUKI Hub</a></td>
-        <td>Use an ESP32 as a Hub between a NUKI Lock and your smarthome.</td>
-        <th><a href="https://github.com/technyon/nuki_hub" target="_blank"><img alt="NUKI Hub" src="https://img.shields.io/github/stars/technyon/nuki_hub?style=social" /></a></th>
     </tr>
 
 </table>
@@ -3183,6 +3183,14 @@
         <td>The multi-protocol API Platform</td>
         <th><a href="https://github.com/FirecampDev/Firecamp" target="_blank"><img alt="Firecamp" src="https://img.shields.io/github/stars/FirecampDev/Firecamp?style=social" /></a></th>
     </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Watermelon" src="https://libraries.github20k.com/images/uploads/2023/06/newshot-watermelon-extension.png" /></td>
+        <td>Collaboration</td>
+        <td>TypeScript</td>
+        <td><a href="https://www.watermelontools.com/" target="_blank">Watermelon</a></td>
+        <td><g-emoji class="g-emoji" alias="watermelon" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f349.png">?</g-emoji> Pull Requests With Business Value</td>
+        <th><a href="https://github.com/watermelontools/watermelon-extension" target="_blank"><img alt="Watermelon" src="https://img.shields.io/github/stars/watermelontools/watermelon-extension?style=social" /></a></th>
+    </tr>
 
 </table>
 
@@ -4863,6 +4871,14 @@
         <td><a href="https://firecamp.dev" target="_blank">Firecamp</a></td>
         <td>The multi-protocol API Platform</td>
         <th><a href="https://github.com/FirecampDev/Firecamp" target="_blank"><img alt="Firecamp" src="https://img.shields.io/github/stars/FirecampDev/Firecamp?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Watermelon" src="https://libraries.github20k.com/images/uploads/2023/06/newshot-watermelon-extension.png" /></td>
+        <td>Collaboration</td>
+        <td>TypeScript</td>
+        <td><a href="https://www.watermelontools.com/" target="_blank">Watermelon</a></td>
+        <td><g-emoji class="g-emoji" alias="watermelon" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f349.png">?</g-emoji> Pull Requests With Business Value</td>
+        <th><a href="https://github.com/watermelontools/watermelon-extension" target="_blank"><img alt="Watermelon" src="https://img.shields.io/github/stars/watermelontools/watermelon-extension?style=social" /></a></th>
     </tr>
 
 </table>
