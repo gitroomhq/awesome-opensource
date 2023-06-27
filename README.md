@@ -50,9 +50,9 @@
              </li>          <li>
                 <a href="#javascript">Top 20 JavaScript libraries</a>
              </li>          <li>
-                <a href="#lua">Top 20 Lua libraries</a>
-             </li>          <li>
                 <a href="#go">Top 20 Go libraries</a>
+             </li>          <li>
+                <a href="#lua">Top 20 Lua libraries</a>
              </li>          <li>
                 <a href="#java">Top 20 Java libraries</a>
              </li>          <li>
@@ -70,13 +70,13 @@
              </li>          <li>
                 <a href="#clojure">Top 20 Clojure libraries</a>
              </li>          <li>
+                <a href="#c++">Top 20 C++ libraries</a>
+             </li>          <li>
                 <a href="#kotlin">Top 20 Kotlin libraries</a>
              </li>          <li>
                 <a href="#css">Top 20 CSS libraries</a>
              </li>          <li>
                 <a href="#batchfile">Top 20 Batchfile libraries</a>
-             </li>          <li>
-                <a href="#c++">Top 20 C++ libraries</a>
              </li>          <li>
                 <a href="#c">Top 20 C libraries</a>
              </li>          <li>
@@ -419,6 +419,14 @@
         <th><a href="https://github.com/bitwarden/clients" target="_blank"><img alt="Bitwarden" src="https://img.shields.io/github/stars/bitwarden/clients?style=social" /></a></th>
     </tr>
     <tr>
+        <td nowrap="nowrap"><img width="33" alt="Devtron" src="https://libraries.github20k.com/images/uploads/2023/06/newshot-devtron.png" /></td>
+        <td>Infrastructure</td>
+        <td>Go</td>
+        <td><a href="https://devtron.ai" target="_blank">Devtron</a></td>
+        <td>Tool integration platform for Kubernetes</td>
+        <th><a href="https://github.com/devtron-labs/devtron" target="_blank"><img alt="Devtron" src="https://img.shields.io/github/stars/devtron-labs/devtron?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="awesome window manager" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-awesome.png" /></td>
         <td>Miscellaneous</td>
         <td>Lua</td>
@@ -457,14 +465,6 @@
         <td><a href="https://github.com/shipsaas/laravel-priority-queue" target="_blank">Laravel Priority Queue driver</a></td>
         <td>Priority Queues driver implementation for Laravel. Utilizing DB Driver.</td>
         <th><a href="https://github.com/shipsaas/laravel-priority-queue" target="_blank"><img alt="Laravel Priority Queue driver" src="https://img.shields.io/github/stars/shipsaas/laravel-priority-queue?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Devtron" src="https://libraries.github20k.com/images/uploads/2023/06/newshot-devtron.png" /></td>
-        <td>Infrastructure</td>
-        <td>Go</td>
-        <td><a href="https://devtron.ai" target="_blank">Devtron</a></td>
-        <td>Tool integration platform for Kubernetes</td>
-        <th><a href="https://github.com/devtron-labs/devtron" target="_blank"><img alt="Devtron" src="https://img.shields.io/github/stars/devtron-labs/devtron?style=social" /></a></th>
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="Phase Console" src="https://libraries.github20k.com/images/uploads/2023/06/newshot-console.png" /></td>
@@ -641,6 +641,14 @@
         <td><a href="https://graphql-java.com" target="_blank">GraphQL Java</a></td>
         <td>GraphQL Java implementation</td>
         <th><a href="https://github.com/graphql-java/graphql-java" target="_blank"><img alt="GraphQL Java" src="https://img.shields.io/github/stars/graphql-java/graphql-java?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="wxWidgets" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-wxWidgets.png" /></td>
+        <td>Infrastructure</td>
+        <td>C++</td>
+        <td><a href="https://www.wxwidgets.org/" target="_blank">wxWidgets</a></td>
+        <td>Cross-Platform C++ GUI Library</td>
+        <th><a href="https://github.com/wxWidgets/wxWidgets" target="_blank"><img alt="wxWidgets" src="https://img.shields.io/github/stars/wxWidgets/wxWidgets?style=social" /></a></th>
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="NativeScript-Vue" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-nativescript-vue-1.png" /></td>
@@ -1105,14 +1113,6 @@
         <td><a href="https://countly.com" target="_blank">Countly</a></td>
         <td>Countly is a product analytics platform that helps teams track, analyze and act-on their user actions and behaviour on mobile, web and desktop applications.</td>
         <th><a href="https://github.com/Countly/countly-server" target="_blank"><img alt="Countly" src="https://img.shields.io/github/stars/Countly/countly-server?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Cosmos: The Internet of Blockchains" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-cosmos-sdk.png" /></td>
-        <td>Infrastructure</td>
-        <td>Go</td>
-        <td><a href="https://cosmos.network/" target="_blank">Cosmos: The Internet of Blockchains</a></td>
-        <td><g-emoji class="g-emoji" alias="chains" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/26d3.png">⛓️</g-emoji> A Framework for Building High Value Public Blockchains <g-emoji class="g-emoji" alias="sparkles" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2728.png">✨</g-emoji></td>
-        <th><a href="https://github.com/cosmos/cosmos-sdk" target="_blank"><img alt="Cosmos: The Internet of Blockchains" src="https://img.shields.io/github/stars/cosmos/cosmos-sdk?style=social" /></a></th>
     </tr>
 
 </table>
@@ -3434,6 +3434,14 @@
         <th><a href="https://github.com/wasp-lang/wasp" target="_blank"><img alt="Wasp" src="https://img.shields.io/github/stars/wasp-lang/wasp?style=social" /></a></th>
     </tr>
     <tr>
+        <td nowrap="nowrap"><img width="33" alt="Devtron" src="https://libraries.github20k.com/images/uploads/2023/06/newshot-devtron.png" /></td>
+        <td>Infrastructure</td>
+        <td>Go</td>
+        <td><a href="https://devtron.ai" target="_blank">Devtron</a></td>
+        <td>Tool integration platform for Kubernetes</td>
+        <th><a href="https://github.com/devtron-labs/devtron" target="_blank"><img alt="Devtron" src="https://img.shields.io/github/stars/devtron-labs/devtron?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="group_button" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-group_button.jpg" /></td>
         <td>Infrastructure</td>
         <td>Dart</td>
@@ -3464,14 +3472,6 @@
         <td><a href="https://github.com/shipsaas/laravel-priority-queue" target="_blank">Laravel Priority Queue driver</a></td>
         <td>Priority Queues driver implementation for Laravel. Utilizing DB Driver.</td>
         <th><a href="https://github.com/shipsaas/laravel-priority-queue" target="_blank"><img alt="Laravel Priority Queue driver" src="https://img.shields.io/github/stars/shipsaas/laravel-priority-queue?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Devtron" src="https://libraries.github20k.com/images/uploads/2023/06/newshot-devtron.png" /></td>
-        <td>Infrastructure</td>
-        <td>Go</td>
-        <td><a href="https://devtron.ai" target="_blank">Devtron</a></td>
-        <td>Tool integration platform for Kubernetes</td>
-        <th><a href="https://github.com/devtron-labs/devtron" target="_blank"><img alt="Devtron" src="https://img.shields.io/github/stars/devtron-labs/devtron?style=social" /></a></th>
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="JUnitorg." src="https://libraries.github20k.com/images/uploads/2023/05/newshot-junit5.png" /></td>
@@ -3520,6 +3520,14 @@
         <td><a href="https://graphql-java.com" target="_blank">GraphQL Java</a></td>
         <td>GraphQL Java implementation</td>
         <th><a href="https://github.com/graphql-java/graphql-java" target="_blank"><img alt="GraphQL Java" src="https://img.shields.io/github/stars/graphql-java/graphql-java?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="wxWidgets" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-wxWidgets.png" /></td>
+        <td>Infrastructure</td>
+        <td>C++</td>
+        <td><a href="https://www.wxwidgets.org/" target="_blank">wxWidgets</a></td>
+        <td>Cross-Platform C++ GUI Library</td>
+        <th><a href="https://github.com/wxWidgets/wxWidgets" target="_blank"><img alt="wxWidgets" src="https://img.shields.io/github/stars/wxWidgets/wxWidgets?style=social" /></a></th>
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="NativeScript-Vue" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-nativescript-vue-1.png" /></td>
@@ -3952,14 +3960,6 @@
         <td><a href="https://rescript-lang.org" target="_blank">ReScript Documentation</a></td>
         <td>The compiler for ReScript.</td>
         <th><a href="https://github.com/rescript-lang/rescript-compiler" target="_blank"><img alt="ReScript Documentation" src="https://img.shields.io/github/stars/rescript-lang/rescript-compiler?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="wxWidgets" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-wxWidgets.png" /></td>
-        <td>Infrastructure</td>
-        <td>C++</td>
-        <td><a href="https://www.wxwidgets.org/" target="_blank">wxWidgets</a></td>
-        <td>Cross-Platform C++ GUI Library</td>
-        <th><a href="https://github.com/wxWidgets/wxWidgets" target="_blank"><img alt="wxWidgets" src="https://img.shields.io/github/stars/wxWidgets/wxWidgets?style=social" /></a></th>
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="Outline VPN" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-outline-server-1.png" /></td>
@@ -5522,44 +5522,6 @@
 </table>
 
 <br /><br />
-<h2 id="lua">Top 20 Lua libraries</h2>
-<table>
-    <tr>
-        <th>Icon</th>
-        <th>Category</th>
-        <th>Language</th>
-        <th>Name</th>
-        <th>Description</th>
-        <th>Stargazers</th>
-    </tr>
-        <tr>
-        <td nowrap="nowrap"><img width="33" alt="awesome window manager" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-awesome.png" /></td>
-        <td>Miscellaneous</td>
-        <td>Lua</td>
-        <td><a href="https://awesomewm.org/" target="_blank">awesome window manager</a></td>
-        <td>awesome window manager</td>
-        <th><a href="https://github.com/awesomeWM/awesome" target="_blank"><img alt="awesome window manager" src="https://img.shields.io/github/stars/awesomeWM/awesome?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="LazyVim" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-LazyVim.png" /></td>
-        <td>Productivity</td>
-        <td>Lua</td>
-        <td><a href="https://lazyvim.github.io/" target="_blank">LazyVim</a></td>
-        <td>Neovim config for the lazy</td>
-        <th><a href="https://github.com/LazyVim/LazyVim" target="_blank"><img alt="LazyVim" src="https://img.shields.io/github/stars/LazyVim/LazyVim?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="ntop" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-ntopng.png" /></td>
-        <td>Observability</td>
-        <td>Lua</td>
-        <td><a href="http://www.ntop.org" target="_blank">ntop</a></td>
-        <td>Web-based Traffic and Security Network Traffic Monitoring</td>
-        <th><a href="https://github.com/ntop/ntopng" target="_blank"><img alt="ntop" src="https://img.shields.io/github/stars/ntop/ntopng?style=social" /></a></th>
-    </tr>
-
-</table>
-
-<br /><br />
 <h2 id="go">Top 20 Go libraries</h2>
 <table>
     <tr>
@@ -5889,6 +5851,44 @@
         <td><a href="https://github.com/otterize/network-mapper" target="_blank">Network mapper</a></td>
         <td>Map Kubernetes in-cluster traffic and export as text, intents, or an image</td>
         <th><a href="https://github.com/otterize/network-mapper" target="_blank"><img alt="Network mapper" src="https://img.shields.io/github/stars/otterize/network-mapper?style=social" /></a></th>
+    </tr>
+
+</table>
+
+<br /><br />
+<h2 id="lua">Top 20 Lua libraries</h2>
+<table>
+    <tr>
+        <th>Icon</th>
+        <th>Category</th>
+        <th>Language</th>
+        <th>Name</th>
+        <th>Description</th>
+        <th>Stargazers</th>
+    </tr>
+        <tr>
+        <td nowrap="nowrap"><img width="33" alt="awesome window manager" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-awesome.png" /></td>
+        <td>Miscellaneous</td>
+        <td>Lua</td>
+        <td><a href="https://awesomewm.org/" target="_blank">awesome window manager</a></td>
+        <td>awesome window manager</td>
+        <th><a href="https://github.com/awesomeWM/awesome" target="_blank"><img alt="awesome window manager" src="https://img.shields.io/github/stars/awesomeWM/awesome?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="LazyVim" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-LazyVim.png" /></td>
+        <td>Productivity</td>
+        <td>Lua</td>
+        <td><a href="https://lazyvim.github.io/" target="_blank">LazyVim</a></td>
+        <td>Neovim config for the lazy</td>
+        <th><a href="https://github.com/LazyVim/LazyVim" target="_blank"><img alt="LazyVim" src="https://img.shields.io/github/stars/LazyVim/LazyVim?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="ntop" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-ntopng.png" /></td>
+        <td>Observability</td>
+        <td>Lua</td>
+        <td><a href="http://www.ntop.org" target="_blank">ntop</a></td>
+        <td>Web-based Traffic and Security Network Traffic Monitoring</td>
+        <th><a href="https://github.com/ntop/ntopng" target="_blank"><img alt="ntop" src="https://img.shields.io/github/stars/ntop/ntopng?style=social" /></a></th>
     </tr>
 
 </table>
@@ -6726,6 +6726,188 @@
 </table>
 
 <br /><br />
+<h2 id="c++">Top 20 C++ libraries</h2>
+<table>
+    <tr>
+        <th>Icon</th>
+        <th>Category</th>
+        <th>Language</th>
+        <th>Name</th>
+        <th>Description</th>
+        <th>Stargazers</th>
+    </tr>
+        <tr>
+        <td nowrap="nowrap"><img width="33" alt="wxWidgets" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-wxWidgets.png" /></td>
+        <td>Infrastructure</td>
+        <td>C++</td>
+        <td><a href="https://www.wxwidgets.org/" target="_blank">wxWidgets</a></td>
+        <td>Cross-Platform C++ GUI Library</td>
+        <th><a href="https://github.com/wxWidgets/wxWidgets" target="_blank"><img alt="wxWidgets" src="https://img.shields.io/github/stars/wxWidgets/wxWidgets?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="OneFlow" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-oneflow.png" /></td>
+        <td>Analytics</td>
+        <td>C++</td>
+        <td><a href="http://www.oneflow.org" target="_blank">OneFlow</a></td>
+        <td>OneFlow is a deep learning framework designed to be user-friendly, scalable and efficient.</td>
+        <th><a href="https://github.com/Oneflow-Inc/oneflow" target="_blank"><img alt="OneFlow" src="https://img.shields.io/github/stars/Oneflow-Inc/oneflow?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Organic Maps" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-organicmaps.png" /></td>
+        <td>Productivity</td>
+        <td>C++</td>
+        <td><a href="https://organicmaps.app" target="_blank">Organic Maps</a></td>
+        <td><g-emoji class="g-emoji" alias="leaves" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f343.png">?</g-emoji> Organic Maps is a free Android &amp; iOS offline maps app for travelers, tourists, hikers, and cyclists. It uses crowd-sourced OpenStreetMap data and is developed with love by MapsWithMe (MapsMe) fou…</td>
+        <th><a href="https://github.com/organicmaps/organicmaps" target="_blank"><img alt="Organic Maps" src="https://img.shields.io/github/stars/organicmaps/organicmaps?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Cemu Emulator" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-Cemu.png" /></td>
+        <td>Miscellaneous</td>
+        <td>C++</td>
+        <td><a href="https://cemu.info" target="_blank">Cemu Emulator</a></td>
+        <td>Cemu - Wii U emulator</td>
+        <th><a href="https://github.com/cemu-project/Cemu" target="_blank"><img alt="Cemu Emulator" src="https://img.shields.io/github/stars/cemu-project/Cemu?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="JUCE" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-JUCE.png" /></td>
+        <td>Infrastructure</td>
+        <td>C++</td>
+        <td><a href="https://juce.com" target="_blank">JUCE</a></td>
+        <td>JUCE is an open-source cross-platform C++ application framework for desktop and mobile applications, including VST, VST3, AU, AUv3, RTAS and AAX audio plug-ins.</td>
+        <th><a href="https://github.com/juce-framework/JUCE" target="_blank"><img alt="JUCE" src="https://img.shields.io/github/stars/juce-framework/JUCE?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="COLMAP" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-colmap.png" /></td>
+        <td>Observability</td>
+        <td>C++</td>
+        <td><a href="https://colmap.github.io/" target="_blank">COLMAP</a></td>
+        <td>COLMAP - Structure-from-Motion and Multi-View Stereo</td>
+        <th><a href="https://github.com/colmap/colmap" target="_blank"><img alt="COLMAP" src="https://img.shields.io/github/stars/colmap/colmap?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Zeek" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-zeek.png" /></td>
+        <td>Observability</td>
+        <td>C++</td>
+        <td><a href="https://www.zeek.org" target="_blank">Zeek</a></td>
+        <td>Zeek is a powerful network analysis framework that is much different from the typical IDS you may know.</td>
+        <th><a href="https://github.com/zeek/zeek" target="_blank"><img alt="Zeek" src="https://img.shields.io/github/stars/zeek/zeek?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="mediasoup" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-mediasoup.png" /></td>
+        <td>Infrastructure</td>
+        <td>C++</td>
+        <td><a href="https://mediasoup.org" target="_blank">mediasoup</a></td>
+        <td>Cutting Edge WebRTC Video Conferencing</td>
+        <th><a href="https://github.com/versatica/mediasoup" target="_blank"><img alt="mediasoup" src="https://img.shields.io/github/stars/versatica/mediasoup?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="mumble-voip/mumble" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-mumble.png" /></td>
+        <td>Collaboration</td>
+        <td>C++</td>
+        <td><a href="https://www.mumble.info" target="_blank">mumble-voip/mumble</a></td>
+        <td>Mumble is an open-source, low-latency, high quality voice chat software.</td>
+        <th><a href="https://github.com/mumble-voip/mumble" target="_blank"><img alt="mumble-voip/mumble" src="https://img.shields.io/github/stars/mumble-voip/mumble?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Recast Navigation" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-recastnavigation.png" /></td>
+        <td>Infrastructure</td>
+        <td>C++</td>
+        <td><a href="http://recastnav.com/" target="_blank">Recast Navigation</a></td>
+        <td>Navigation-mesh Toolset for Games</td>
+        <th><a href="https://github.com/recastnavigation/recastnavigation" target="_blank"><img alt="Recast Navigation" src="https://img.shields.io/github/stars/recastnavigation/recastnavigation?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Open Source Routing Machine" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-osrm-backend.png" /></td>
+        <td>Infrastructure</td>
+        <td>C++</td>
+        <td><a href="http://map.project-osrm.org" target="_blank">Open Source Routing Machine</a></td>
+        <td>Open Source Routing Machine - C++ backend</td>
+        <th><a href="https://github.com/Project-OSRM/osrm-backend" target="_blank"><img alt="Open Source Routing Machine" src="https://img.shields.io/github/stars/Project-OSRM/osrm-backend?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="RAPIDS" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-cudf.png" /></td>
+        <td>Analytics</td>
+        <td>C++</td>
+        <td><a href="http://rapids.ai" target="_blank">RAPIDS</a></td>
+        <td>cuDF - GPU DataFrame Library </td>
+        <th><a href="https://github.com/rapidsai/cudf" target="_blank"><img alt="RAPIDS" src="https://img.shields.io/github/stars/rapidsai/cudf?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Telegram Database Library" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-td-4.png" /></td>
+        <td>Infrastructure</td>
+        <td>C++</td>
+        <td><a href="https://core.telegram.org/tdlib" target="_blank">Telegram Database Library</a></td>
+        <td>Cross-platform library for building Telegram clients</td>
+        <th><a href="https://github.com/tdlib/td" target="_blank"><img alt="Telegram Database Library" src="https://img.shields.io/github/stars/tdlib/td?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="SteamVR" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-openvr.png" /></td>
+        <td>Infrastructure</td>
+        <td>C++</td>
+        <td><a href="http://steamvr.com" target="_blank">SteamVR</a></td>
+        <td>OpenVR SDK</td>
+        <th><a href="https://github.com/ValveSoftware/openvr" target="_blank"><img alt="SteamVR" src="https://img.shields.io/github/stars/ValveSoftware/openvr?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="TensorFlow" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-serving.png" /></td>
+        <td>Infrastructure</td>
+        <td>C++</td>
+        <td><a href="https://www.tensorflow.org/serving" target="_blank">TensorFlow</a></td>
+        <td>A flexible, high-performance serving system for machine learning models</td>
+        <th><a href="https://github.com/tensorflow/serving" target="_blank"><img alt="TensorFlow" src="https://img.shields.io/github/stars/tensorflow/serving?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="WasmEdge" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-WasmEdge.png" /></td>
+        <td>Infrastructure</td>
+        <td>C++</td>
+        <td><a href="https://WasmEdge.org" target="_blank">WasmEdge</a></td>
+        <td>WasmEdge is a lightweight, high-performance, and extensible WebAssembly runtime for cloud native, edge, and decentralized applications. It powers serverless apps, embedded functions, microservices,…</td>
+        <th><a href="https://github.com/WasmEdge/WasmEdge" target="_blank"><img alt="WasmEdge" src="https://img.shields.io/github/stars/WasmEdge/WasmEdge?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="CSA-IOT" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-connectedhomeip.png" /></td>
+        <td>Infrastructure</td>
+        <td>C++</td>
+        <td><a href="https://buildwithmatter.com" target="_blank">CSA-IOT</a></td>
+        <td>Matter (formerly Project CHIP) creates more connections between more objects, simplifying development for manufacturers and increasing compatibility for consumers, guided by the Connectivity Standa…</td>
+        <th><a href="https://github.com/project-chip/connectedhomeip" target="_blank"><img alt="CSA-IOT" src="https://img.shields.io/github/stars/project-chip/connectedhomeip?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="C++ Requests" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-cpr-1.png" /></td>
+        <td>Infrastructure</td>
+        <td>C++</td>
+        <td><a href="https://docs.libcpr.org/" target="_blank">C++ Requests</a></td>
+        <td>C++ Requests: Curl for People, a spiritual port of Python Requests.</td>
+        <th><a href="https://github.com/libcpr/cpr" target="_blank"><img alt="C++ Requests" src="https://img.shields.io/github/stars/libcpr/cpr?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="OceanBase Community" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-oceanbase-2.png" /></td>
+        <td>Databases</td>
+        <td>C++</td>
+        <td><a href="https://open.oceanbase.com" target="_blank">OceanBase Community</a></td>
+        <td>OceanBase is an enterprise distributed relational database with high availability, high performance, horizontal scalability, and compatibility with SQL standards.</td>
+        <th><a href="https://github.com/oceanbase/oceanbase" target="_blank"><img alt="OceanBase Community" src="https://img.shields.io/github/stars/oceanbase/oceanbase?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="ESPHome" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-esphome-1.png" /></td>
+        <td>Productivity</td>
+        <td>C++</td>
+        <td><a href="https://esphome.io/" target="_blank">ESPHome</a></td>
+        <td>ESPHome is a system to control your ESP8266/ESP32 by simple yet powerful configuration files and control them remotely through Home Automation systems.</td>
+        <th><a href="https://github.com/esphome/esphome" target="_blank"><img alt="ESPHome" src="https://img.shields.io/github/stars/esphome/esphome?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Remora udpx listens to UDP short commands to trigger LED Animations. Receives ; commands from ORCΛ" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-Remora.jpg" /></td>
+        <td>Observability</td>
+        <td>C++</td>
+        <td><a href="https://fasani.de" target="_blank">Remora udpx listens to UDP short commands to trigger LED Animations. Receives ; commands from ORCΛ</a></td>
+        <td>Remora udpx listens to UDP short commands to trigger LED Animations. Receives ; commands from ORCΛ</td>
+        <th><a href="https://github.com/martinberlin/Remora" target="_blank"><img alt="Remora udpx listens to UDP short commands to trigger LED Animations. Receives ; commands from ORCΛ" src="https://img.shields.io/github/stars/martinberlin/Remora?style=social" /></a></th>
+    </tr>
+
+</table>
+
+<br /><br />
 <h2 id="kotlin">Top 20 Kotlin libraries</h2>
 <table>
     <tr>
@@ -6899,188 +7081,6 @@
         <td><a href="https://massgrave.dev" target="_blank">Microsoft-Activation-Scripts</a></td>
         <td>A Windows and Office activator using HWID / KMS38 / Online KMS activation methods, with a focus on open-source code and fewer antivirus detections.</td>
         <th><a href="https://github.com/massgravel/Microsoft-Activation-Scripts" target="_blank"><img alt="Microsoft-Activation-Scripts" src="https://img.shields.io/github/stars/massgravel/Microsoft-Activation-Scripts?style=social" /></a></th>
-    </tr>
-
-</table>
-
-<br /><br />
-<h2 id="c++">Top 20 C++ libraries</h2>
-<table>
-    <tr>
-        <th>Icon</th>
-        <th>Category</th>
-        <th>Language</th>
-        <th>Name</th>
-        <th>Description</th>
-        <th>Stargazers</th>
-    </tr>
-        <tr>
-        <td nowrap="nowrap"><img width="33" alt="OneFlow" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-oneflow.png" /></td>
-        <td>Analytics</td>
-        <td>C++</td>
-        <td><a href="http://www.oneflow.org" target="_blank">OneFlow</a></td>
-        <td>OneFlow is a deep learning framework designed to be user-friendly, scalable and efficient.</td>
-        <th><a href="https://github.com/Oneflow-Inc/oneflow" target="_blank"><img alt="OneFlow" src="https://img.shields.io/github/stars/Oneflow-Inc/oneflow?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Organic Maps" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-organicmaps.png" /></td>
-        <td>Productivity</td>
-        <td>C++</td>
-        <td><a href="https://organicmaps.app" target="_blank">Organic Maps</a></td>
-        <td><g-emoji class="g-emoji" alias="leaves" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f343.png">?</g-emoji> Organic Maps is a free Android &amp; iOS offline maps app for travelers, tourists, hikers, and cyclists. It uses crowd-sourced OpenStreetMap data and is developed with love by MapsWithMe (MapsMe) fou…</td>
-        <th><a href="https://github.com/organicmaps/organicmaps" target="_blank"><img alt="Organic Maps" src="https://img.shields.io/github/stars/organicmaps/organicmaps?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Cemu Emulator" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-Cemu.png" /></td>
-        <td>Miscellaneous</td>
-        <td>C++</td>
-        <td><a href="https://cemu.info" target="_blank">Cemu Emulator</a></td>
-        <td>Cemu - Wii U emulator</td>
-        <th><a href="https://github.com/cemu-project/Cemu" target="_blank"><img alt="Cemu Emulator" src="https://img.shields.io/github/stars/cemu-project/Cemu?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="JUCE" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-JUCE.png" /></td>
-        <td>Infrastructure</td>
-        <td>C++</td>
-        <td><a href="https://juce.com" target="_blank">JUCE</a></td>
-        <td>JUCE is an open-source cross-platform C++ application framework for desktop and mobile applications, including VST, VST3, AU, AUv3, RTAS and AAX audio plug-ins.</td>
-        <th><a href="https://github.com/juce-framework/JUCE" target="_blank"><img alt="JUCE" src="https://img.shields.io/github/stars/juce-framework/JUCE?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="COLMAP" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-colmap.png" /></td>
-        <td>Observability</td>
-        <td>C++</td>
-        <td><a href="https://colmap.github.io/" target="_blank">COLMAP</a></td>
-        <td>COLMAP - Structure-from-Motion and Multi-View Stereo</td>
-        <th><a href="https://github.com/colmap/colmap" target="_blank"><img alt="COLMAP" src="https://img.shields.io/github/stars/colmap/colmap?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Zeek" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-zeek.png" /></td>
-        <td>Observability</td>
-        <td>C++</td>
-        <td><a href="https://www.zeek.org" target="_blank">Zeek</a></td>
-        <td>Zeek is a powerful network analysis framework that is much different from the typical IDS you may know.</td>
-        <th><a href="https://github.com/zeek/zeek" target="_blank"><img alt="Zeek" src="https://img.shields.io/github/stars/zeek/zeek?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="mediasoup" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-mediasoup.png" /></td>
-        <td>Infrastructure</td>
-        <td>C++</td>
-        <td><a href="https://mediasoup.org" target="_blank">mediasoup</a></td>
-        <td>Cutting Edge WebRTC Video Conferencing</td>
-        <th><a href="https://github.com/versatica/mediasoup" target="_blank"><img alt="mediasoup" src="https://img.shields.io/github/stars/versatica/mediasoup?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="mumble-voip/mumble" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-mumble.png" /></td>
-        <td>Collaboration</td>
-        <td>C++</td>
-        <td><a href="https://www.mumble.info" target="_blank">mumble-voip/mumble</a></td>
-        <td>Mumble is an open-source, low-latency, high quality voice chat software.</td>
-        <th><a href="https://github.com/mumble-voip/mumble" target="_blank"><img alt="mumble-voip/mumble" src="https://img.shields.io/github/stars/mumble-voip/mumble?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Recast Navigation" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-recastnavigation.png" /></td>
-        <td>Infrastructure</td>
-        <td>C++</td>
-        <td><a href="http://recastnav.com/" target="_blank">Recast Navigation</a></td>
-        <td>Navigation-mesh Toolset for Games</td>
-        <th><a href="https://github.com/recastnavigation/recastnavigation" target="_blank"><img alt="Recast Navigation" src="https://img.shields.io/github/stars/recastnavigation/recastnavigation?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Open Source Routing Machine" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-osrm-backend.png" /></td>
-        <td>Infrastructure</td>
-        <td>C++</td>
-        <td><a href="http://map.project-osrm.org" target="_blank">Open Source Routing Machine</a></td>
-        <td>Open Source Routing Machine - C++ backend</td>
-        <th><a href="https://github.com/Project-OSRM/osrm-backend" target="_blank"><img alt="Open Source Routing Machine" src="https://img.shields.io/github/stars/Project-OSRM/osrm-backend?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="RAPIDS" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-cudf.png" /></td>
-        <td>Analytics</td>
-        <td>C++</td>
-        <td><a href="http://rapids.ai" target="_blank">RAPIDS</a></td>
-        <td>cuDF - GPU DataFrame Library </td>
-        <th><a href="https://github.com/rapidsai/cudf" target="_blank"><img alt="RAPIDS" src="https://img.shields.io/github/stars/rapidsai/cudf?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Telegram Database Library" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-td-4.png" /></td>
-        <td>Infrastructure</td>
-        <td>C++</td>
-        <td><a href="https://core.telegram.org/tdlib" target="_blank">Telegram Database Library</a></td>
-        <td>Cross-platform library for building Telegram clients</td>
-        <th><a href="https://github.com/tdlib/td" target="_blank"><img alt="Telegram Database Library" src="https://img.shields.io/github/stars/tdlib/td?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="SteamVR" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-openvr.png" /></td>
-        <td>Infrastructure</td>
-        <td>C++</td>
-        <td><a href="http://steamvr.com" target="_blank">SteamVR</a></td>
-        <td>OpenVR SDK</td>
-        <th><a href="https://github.com/ValveSoftware/openvr" target="_blank"><img alt="SteamVR" src="https://img.shields.io/github/stars/ValveSoftware/openvr?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="TensorFlow" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-serving.png" /></td>
-        <td>Infrastructure</td>
-        <td>C++</td>
-        <td><a href="https://www.tensorflow.org/serving" target="_blank">TensorFlow</a></td>
-        <td>A flexible, high-performance serving system for machine learning models</td>
-        <th><a href="https://github.com/tensorflow/serving" target="_blank"><img alt="TensorFlow" src="https://img.shields.io/github/stars/tensorflow/serving?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="WasmEdge" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-WasmEdge.png" /></td>
-        <td>Infrastructure</td>
-        <td>C++</td>
-        <td><a href="https://WasmEdge.org" target="_blank">WasmEdge</a></td>
-        <td>WasmEdge is a lightweight, high-performance, and extensible WebAssembly runtime for cloud native, edge, and decentralized applications. It powers serverless apps, embedded functions, microservices,…</td>
-        <th><a href="https://github.com/WasmEdge/WasmEdge" target="_blank"><img alt="WasmEdge" src="https://img.shields.io/github/stars/WasmEdge/WasmEdge?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="CSA-IOT" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-connectedhomeip.png" /></td>
-        <td>Infrastructure</td>
-        <td>C++</td>
-        <td><a href="https://buildwithmatter.com" target="_blank">CSA-IOT</a></td>
-        <td>Matter (formerly Project CHIP) creates more connections between more objects, simplifying development for manufacturers and increasing compatibility for consumers, guided by the Connectivity Standa…</td>
-        <th><a href="https://github.com/project-chip/connectedhomeip" target="_blank"><img alt="CSA-IOT" src="https://img.shields.io/github/stars/project-chip/connectedhomeip?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="wxWidgets" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-wxWidgets.png" /></td>
-        <td>Infrastructure</td>
-        <td>C++</td>
-        <td><a href="https://www.wxwidgets.org/" target="_blank">wxWidgets</a></td>
-        <td>Cross-Platform C++ GUI Library</td>
-        <th><a href="https://github.com/wxWidgets/wxWidgets" target="_blank"><img alt="wxWidgets" src="https://img.shields.io/github/stars/wxWidgets/wxWidgets?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="C++ Requests" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-cpr-1.png" /></td>
-        <td>Infrastructure</td>
-        <td>C++</td>
-        <td><a href="https://docs.libcpr.org/" target="_blank">C++ Requests</a></td>
-        <td>C++ Requests: Curl for People, a spiritual port of Python Requests.</td>
-        <th><a href="https://github.com/libcpr/cpr" target="_blank"><img alt="C++ Requests" src="https://img.shields.io/github/stars/libcpr/cpr?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="OceanBase Community" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-oceanbase-2.png" /></td>
-        <td>Databases</td>
-        <td>C++</td>
-        <td><a href="https://open.oceanbase.com" target="_blank">OceanBase Community</a></td>
-        <td>OceanBase is an enterprise distributed relational database with high availability, high performance, horizontal scalability, and compatibility with SQL standards.</td>
-        <th><a href="https://github.com/oceanbase/oceanbase" target="_blank"><img alt="OceanBase Community" src="https://img.shields.io/github/stars/oceanbase/oceanbase?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="ESPHome" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-esphome-1.png" /></td>
-        <td>Productivity</td>
-        <td>C++</td>
-        <td><a href="https://esphome.io/" target="_blank">ESPHome</a></td>
-        <td>ESPHome is a system to control your ESP8266/ESP32 by simple yet powerful configuration files and control them remotely through Home Automation systems.</td>
-        <th><a href="https://github.com/esphome/esphome" target="_blank"><img alt="ESPHome" src="https://img.shields.io/github/stars/esphome/esphome?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Remora udpx listens to UDP short commands to trigger LED Animations. Receives ; commands from ORCΛ" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-Remora.jpg" /></td>
-        <td>Observability</td>
-        <td>C++</td>
-        <td><a href="https://fasani.de" target="_blank">Remora udpx listens to UDP short commands to trigger LED Animations. Receives ; commands from ORCΛ</a></td>
-        <td>Remora udpx listens to UDP short commands to trigger LED Animations. Receives ; commands from ORCΛ</td>
-        <th><a href="https://github.com/martinberlin/Remora" target="_blank"><img alt="Remora udpx listens to UDP short commands to trigger LED Animations. Receives ; commands from ORCΛ" src="https://img.shields.io/github/stars/martinberlin/Remora?style=social" /></a></th>
     </tr>
 
 </table>
