@@ -123,6 +123,8 @@
                 <a href="#xslt">Top 20 XSLT libraries</a>
              </li>          <li>
                 <a href="#jupyter-notebook">Top 20 Jupyter Notebook libraries</a>
+             </li>          <li>
+                <a href="#cairo">Top 20 Cairo libraries</a>
              </li>        
         </ul>
     </li>
@@ -140,6 +142,30 @@
         <th>Stargazers</th>
     </tr>
         <tr>
+        <td nowrap="nowrap"><img width="33" alt="Starklings" src="https://libraries.github20k.com/images/uploads/2023/06/newshot-starklings-cairo1.jpg" /></td>
+        <td>Miscellaneous</td>
+        <td>Cairo</td>
+        <td><a href="https://github.com/shramee/starklings-cairo1" target="_blank">Starklings</a></td>
+        <td>An interactive tutorial to get you up and running with Cairo v1 and Starknet</td>
+        <th><a href="https://github.com/shramee/starklings-cairo1" target="_blank"><img alt="Starklings" src="https://img.shields.io/github/stars/shramee/starklings-cairo1?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="imi" src="https://libraries.github20k.com/images/uploads/2023/06/newshot-imi.png" /></td>
+        <td>Miscellaneous</td>
+        <td>PHP</td>
+        <td><a href="https://www.imiphp.com" target="_blank">imi</a></td>
+        <td>imi 是一款支持长连接微服务分布式的 PHP 开发框架，它可以运行在 PHP-FPM、Swoole、Workerman、RoadRunner 等多种容器环境下。它支持 HttpApi、WebSocket、TCP、UDP、MQTT 服务的开发。特别适合互联网微服务、即时通讯聊天im、物联网等场景！QQ群：17916227</td>
+        <th><a href="https://github.com/imiphp/imi" target="_blank"><img alt="imi" src="https://img.shields.io/github/stars/imiphp/imi?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="py3-pinterest" src="https://libraries.github20k.com/images/uploads/2023/06/newshot-py3-pinterest.jpg" /></td>
+        <td>Miscellaneous</td>
+        <td>Python</td>
+        <td><a href="https://github.com/bstoilov/py3-pinterest" target="_blank">py3-pinterest</a></td>
+        <td>Fully fledged Python Pinterest client</td>
+        <th><a href="https://github.com/bstoilov/py3-pinterest" target="_blank"><img alt="py3-pinterest" src="https://img.shields.io/github/stars/bstoilov/py3-pinterest?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="Watermelon" src="https://libraries.github20k.com/images/uploads/2023/06/newshot-watermelon-extension.png" /></td>
         <td>Collaboration</td>
         <td>TypeScript</td>
@@ -274,30 +300,6 @@
         <td><a href="https://vely.dev/" target="_blank">Vely</a></td>
         <td>Vely framework mirror, official git repo at https://vely.dev/pkg/ (click on Source to clone a repo).</td>
         <th><a href="https://github.com/velydev/vely" target="_blank"><img alt="Vely" src="https://img.shields.io/github/stars/velydev/vely?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Reejs" src="https://libraries.github20k.com/images/uploads/2023/06/newshot-reejs.png" /></td>
-        <td>Productivity</td>
-        <td>JavaScript</td>
-        <td><a href="https://ree.js.org" target="_blank">Reejs</a></td>
-        <td>Make Sites Faster, without the need of building anything!</td>
-        <th><a href="https://github.com/rovelstars/reejs" target="_blank"><img alt="Reejs" src="https://img.shields.io/github/stars/rovelstars/reejs?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Intents operator" src="https://libraries.github20k.com/images/uploads/2023/06/newshot-intents-operator.png" /></td>
-        <td>Security</td>
-        <td>Go</td>
-        <td><a href="https://github.com/otterize/intents-operator" target="_blank">Intents operator</a></td>
-        <td>Manage network policies, Istio Authorization Policies, and Kafka ACLs in a Kubernetes cluster with ease.</td>
-        <th><a href="https://github.com/otterize/intents-operator" target="_blank"><img alt="Intents operator" src="https://img.shields.io/github/stars/otterize/intents-operator?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Network mapper" src="https://libraries.github20k.com/images/uploads/2023/06/newshot-network-mapper.png" /></td>
-        <td>Observability</td>
-        <td>Go</td>
-        <td><a href="https://github.com/otterize/network-mapper" target="_blank">Network mapper</a></td>
-        <td>Map Kubernetes in-cluster traffic and export as text, intents, or an image</td>
-        <th><a href="https://github.com/otterize/network-mapper" target="_blank"><img alt="Network mapper" src="https://img.shields.io/github/stars/otterize/network-mapper?style=social" /></a></th>
     </tr>
 
 </table>
@@ -1416,6 +1418,30 @@
         <td><a href="https://jy95.github.io/docusaurus-json-schema-plugin/" target="_blank">docusaurus-json-schema-plugin</a></td>
         <td>JSON Schema viewer / editor in Docusaurus</td>
         <th><a href="https://github.com/jy95/docusaurus-json-schema-plugin" target="_blank"><img alt="docusaurus-json-schema-plugin" src="https://img.shields.io/github/stars/jy95/docusaurus-json-schema-plugin?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Starklings" src="https://libraries.github20k.com/images/uploads/2023/06/newshot-starklings-cairo1.jpg" /></td>
+        <td>Miscellaneous</td>
+        <td>Cairo</td>
+        <td><a href="https://github.com/shramee/starklings-cairo1" target="_blank">Starklings</a></td>
+        <td>An interactive tutorial to get you up and running with Cairo v1 and Starknet</td>
+        <th><a href="https://github.com/shramee/starklings-cairo1" target="_blank"><img alt="Starklings" src="https://img.shields.io/github/stars/shramee/starklings-cairo1?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="imi" src="https://libraries.github20k.com/images/uploads/2023/06/newshot-imi.png" /></td>
+        <td>Miscellaneous</td>
+        <td>PHP</td>
+        <td><a href="https://www.imiphp.com" target="_blank">imi</a></td>
+        <td>imi 是一款支持长连接微服务分布式的 PHP 开发框架，它可以运行在 PHP-FPM、Swoole、Workerman、RoadRunner 等多种容器环境下。它支持 HttpApi、WebSocket、TCP、UDP、MQTT 服务的开发。特别适合互联网微服务、即时通讯聊天im、物联网等场景！QQ群：17916227</td>
+        <th><a href="https://github.com/imiphp/imi" target="_blank"><img alt="imi" src="https://img.shields.io/github/stars/imiphp/imi?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="py3-pinterest" src="https://libraries.github20k.com/images/uploads/2023/06/newshot-py3-pinterest.jpg" /></td>
+        <td>Miscellaneous</td>
+        <td>Python</td>
+        <td><a href="https://github.com/bstoilov/py3-pinterest" target="_blank">py3-pinterest</a></td>
+        <td>Fully fledged Python Pinterest client</td>
+        <th><a href="https://github.com/bstoilov/py3-pinterest" target="_blank"><img alt="py3-pinterest" src="https://img.shields.io/github/stars/bstoilov/py3-pinterest?style=social" /></a></th>
     </tr>
 
 </table>
@@ -5060,6 +5086,14 @@
         <td>Simple forum software for building great communities.</td>
         <th><a href="https://github.com/flarum/framework" target="_blank"><img alt="Flarum" src="https://img.shields.io/github/stars/flarum/framework?style=social" /></a></th>
     </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="imi" src="https://libraries.github20k.com/images/uploads/2023/06/newshot-imi.png" /></td>
+        <td>Miscellaneous</td>
+        <td>PHP</td>
+        <td><a href="https://www.imiphp.com" target="_blank">imi</a></td>
+        <td>imi 是一款支持长连接微服务分布式的 PHP 开发框架，它可以运行在 PHP-FPM、Swoole、Workerman、RoadRunner 等多种容器环境下。它支持 HttpApi、WebSocket、TCP、UDP、MQTT 服务的开发。特别适合互联网微服务、即时通讯聊天im、物联网等场景！QQ群：17916227</td>
+        <th><a href="https://github.com/imiphp/imi" target="_blank"><img alt="imi" src="https://img.shields.io/github/stars/imiphp/imi?style=social" /></a></th>
+    </tr>
 
 </table>
 
@@ -6387,6 +6421,14 @@
         <td><a href="https://github.com/billpwchan/futu_algo" target="_blank">Futu Algo</a></td>
         <td>Futu Algorithmic Trading Solution (Python) 基於富途OpenAPI所開發量化交易程序</td>
         <th><a href="https://github.com/billpwchan/futu_algo" target="_blank"><img alt="Futu Algo" src="https://img.shields.io/github/stars/billpwchan/futu_algo?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="py3-pinterest" src="https://libraries.github20k.com/images/uploads/2023/06/newshot-py3-pinterest.jpg" /></td>
+        <td>Miscellaneous</td>
+        <td>Python</td>
+        <td><a href="https://github.com/bstoilov/py3-pinterest" target="_blank">py3-pinterest</a></td>
+        <td>Fully fledged Python Pinterest client</td>
+        <th><a href="https://github.com/bstoilov/py3-pinterest" target="_blank"><img alt="py3-pinterest" src="https://img.shields.io/github/stars/bstoilov/py3-pinterest?style=social" /></a></th>
     </tr>
 
 </table>
@@ -7803,6 +7845,28 @@
         <td><a href="https://thecaduceus.eu.org/Multi-Cloud-Transfer-Tool" target="_blank">Multi Cloud Transfer Tool</a></td>
         <td>The most advanced yet simple Jupyter Notebook to transfer/manage your data from/to any cloud remotely based on Rclone and other engines.<g-emoji class="g-emoji" alias="zap" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/26a1.png">⚡</g-emoji></td>
         <th><a href="https://github.com/TheCaduceus/Multi-Cloud-Transfer-Tool" target="_blank"><img alt="Multi Cloud Transfer Tool" src="https://img.shields.io/github/stars/TheCaduceus/Multi-Cloud-Transfer-Tool?style=social" /></a></th>
+    </tr>
+
+</table>
+
+<br /><br />
+<h2 id="cairo">Top 20 Cairo libraries</h2>
+<table>
+    <tr>
+        <th>Icon</th>
+        <th>Category</th>
+        <th>Language</th>
+        <th>Name</th>
+        <th>Description</th>
+        <th>Stargazers</th>
+    </tr>
+        <tr>
+        <td nowrap="nowrap"><img width="33" alt="Starklings" src="https://libraries.github20k.com/images/uploads/2023/06/newshot-starklings-cairo1.jpg" /></td>
+        <td>Miscellaneous</td>
+        <td>Cairo</td>
+        <td><a href="https://github.com/shramee/starklings-cairo1" target="_blank">Starklings</a></td>
+        <td>An interactive tutorial to get you up and running with Cairo v1 and Starknet</td>
+        <th><a href="https://github.com/shramee/starklings-cairo1" target="_blank"><img alt="Starklings" src="https://img.shields.io/github/stars/shramee/starklings-cairo1?style=social" /></a></th>
     </tr>
 
 </table>
