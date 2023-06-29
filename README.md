@@ -142,6 +142,62 @@
         <th>Stargazers</th>
     </tr>
         <tr>
+        <td nowrap="nowrap"><img width="33" alt="Keycloak" src="https://libraries.github20k.com/images/uploads/2023/06/newshot-keycloak.png" /></td>
+        <td>Infrastructure</td>
+        <td>Java</td>
+        <td><a href="https://www.keycloak.org" target="_blank">Keycloak</a></td>
+        <td>Open Source Identity and Access Management For Modern Applications and Services</td>
+        <th><a href="https://github.com/keycloak/keycloak" target="_blank"><img alt="Keycloak" src="https://img.shields.io/github/stars/keycloak/keycloak?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="nDPId" src="https://libraries.github20k.com/images/uploads/2023/06/newshot-nDPId.jpg" /></td>
+        <td>Observability</td>
+        <td>C</td>
+        <td><a href="https://github.com/utoni/nDPId" target="_blank">nDPId</a></td>
+        <td>Tiny nDPI based deep packet inspection daemons / toolkit.</td>
+        <th><a href="https://github.com/utoni/nDPId" target="_blank"><img alt="nDPId" src="https://img.shields.io/github/stars/utoni/nDPId?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="ptunnel-ng" src="https://libraries.github20k.com/images/uploads/2023/06/newshot-ptunnel-ng.jpg" /></td>
+        <td>Miscellaneous</td>
+        <td>C</td>
+        <td><a href="https://github.com/utoni/ptunnel-ng" target="_blank">ptunnel-ng</a></td>
+        <td>Tunnel TCP connections through ICMP.</td>
+        <th><a href="https://github.com/utoni/ptunnel-ng" target="_blank"><img alt="ptunnel-ng" src="https://img.shields.io/github/stars/utoni/ptunnel-ng?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="mingw-w64-dpp" src="https://libraries.github20k.com/images/uploads/2023/06/newshot-mingw-w64-dpp.jpg" /></td>
+        <td>Miscellaneous</td>
+        <td>C++</td>
+        <td><a href="https://github.com/utoni/mingw-w64-dpp" target="_blank">mingw-w64-dpp</a></td>
+        <td>"Mingw64 Driver Plus Plus": Mingw64, C++, DDK and (EA)STL made easy!</td>
+        <th><a href="https://github.com/utoni/mingw-w64-dpp" target="_blank"><img alt="mingw-w64-dpp" src="https://img.shields.io/github/stars/utoni/mingw-w64-dpp?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="w32miller" src="https://libraries.github20k.com/images/uploads/2023/06/newshot-w32miller.jpg" /></td>
+        <td>Security</td>
+        <td>C</td>
+        <td><a href="https://github.com/utoni/w32miller" target="_blank">w32miller</a></td>
+        <td>malware development kit for x86 windows based platforms with a linux compatible build system</td>
+        <th><a href="https://github.com/utoni/w32miller" target="_blank"><img alt="w32miller" src="https://img.shields.io/github/stars/utoni/w32miller?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="PastDSE" src="https://libraries.github20k.com/images/uploads/2023/06/newshot-PastDSE-1.jpg" /></td>
+        <td>Security</td>
+        <td>C</td>
+        <td><a href="https://github.com/utoni/PastDSE" target="_blank">PastDSE</a></td>
+        <td>DSE bypass using a leaked cert and adjusting the current clock.</td>
+        <th><a href="https://github.com/utoni/PastDSE" target="_blank"><img alt="PastDSE" src="https://img.shields.io/github/stars/utoni/PastDSE?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Love Babbar 450 DSA" src="https://libraries.github20k.com/images/uploads/2023/06/newshot-Love-Babbar-450.jpg" /></td>
+        <td>Productivity</td>
+        <td>C++</td>
+        <td><a href="https://github.com/viren-sureja/Love-Babbar-450" target="_blank">Love Babbar 450 DSA</a></td>
+        <td>Solution of the problems listed in DSA cracker sheet made by Love Babbar, with resources and some notes.</td>
+        <th><a href="https://github.com/viren-sureja/Love-Babbar-450" target="_blank"><img alt="Love Babbar 450 DSA" src="https://img.shields.io/github/stars/viren-sureja/Love-Babbar-450?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="imi" src="https://libraries.github20k.com/images/uploads/2023/06/newshot-imi.png" /></td>
         <td>Miscellaneous</td>
         <td>PHP</td>
@@ -244,62 +300,6 @@
         <td><a href="https://github.com/FlameskyDexive/Legends-Of-Heroes" target="_blank">LegendsOfHeroes</a></td>
         <td>A battle of balls game, lol style. 基于ET 7.2的双端C#(.net7 + Unity3d)多人在线英雄联盟风格的球球大作战。</td>
         <th><a href="https://github.com/FlameskyDexive/Legends-Of-Heroes" target="_blank"><img alt="LegendsOfHeroes" src="https://img.shields.io/github/stars/FlameskyDexive/Legends-Of-Heroes?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Devtron" src="https://libraries.github20k.com/images/uploads/2023/06/newshot-devtron.png" /></td>
-        <td>Infrastructure</td>
-        <td>Go</td>
-        <td><a href="https://devtron.ai" target="_blank">Devtron</a></td>
-        <td>Tool integration platform for Kubernetes</td>
-        <th><a href="https://github.com/devtron-labs/devtron" target="_blank"><img alt="Devtron" src="https://img.shields.io/github/stars/devtron-labs/devtron?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="MoZhiMusicPlayer" src="https://libraries.github20k.com/images/uploads/2023/06/newshot-MoZhiMusicPlayer.jpg" /></td>
-        <td>Analytics</td>
-        <td>C#</td>
-        <td><a href="https://github.com/Super-Badmen-Viper/MoZhiMusicPlayer" target="_blank">MoZhiMusicPlayer</a></td>
-        <td>MusicPlayer，基于dotNET_ C#_ WPF的开源音乐软件</td>
-        <th><a href="https://github.com/Super-Badmen-Viper/MoZhiMusicPlayer" target="_blank"><img alt="MoZhiMusicPlayer" src="https://img.shields.io/github/stars/Super-Badmen-Viper/MoZhiMusicPlayer?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="trame" src="https://libraries.github20k.com/images/uploads/2023/06/newshot-trame.png" /></td>
-        <td>Productivity</td>
-        <td>Python</td>
-        <td><a href="https://kitware.github.io/trame/" target="_blank">trame</a></td>
-        <td>Trame lets you weave various components and technologies into a Web Application solely written in Python.</td>
-        <th><a href="https://github.com/Kitware/trame" target="_blank"><img alt="trame" src="https://img.shields.io/github/stars/Kitware/trame?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="@ogma/logger" src="https://libraries.github20k.com/images/uploads/2023/06/newshot-ogma.jpg" /></td>
-        <td>Miscellaneous</td>
-        <td>TypeScript</td>
-        <td><a href="https://ogma.jaymcdoniel.dev" target="_blank">@ogma/logger</a></td>
-        <td>A monorepo for the ogma logger and related packages</td>
-        <th><a href="https://github.com/jmcdo29/ogma" target="_blank"><img alt="@ogma/logger" src="https://img.shields.io/github/stars/jmcdo29/ogma?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Sqlg" src="https://libraries.github20k.com/images/uploads/2023/06/newshot-sqlg.png" /></td>
-        <td>Databases</td>
-        <td>Java</td>
-        <td><a href="https://github.com/pietermartin/sqlg" target="_blank">Sqlg</a></td>
-        <td>TinkerPop graph over sql</td>
-        <th><a href="https://github.com/pietermartin/sqlg" target="_blank"><img alt="Sqlg" src="https://img.shields.io/github/stars/pietermartin/sqlg?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Grillon" src="https://libraries.github20k.com/images/uploads/2023/06/newshot-grillon.jpg" /></td>
-        <td>Miscellaneous</td>
-        <td>Rust</td>
-        <td><a href="https://owlduty.github.io/grillon/current/" target="_blank">Grillon</a></td>
-        <td><g-emoji class="g-emoji" alias="cricket" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f997.png">?</g-emoji> Grillon, an elegant and natural way to approach API testing in Rust.</td>
-        <th><a href="https://github.com/owlduty/grillon" target="_blank"><img alt="Grillon" src="https://img.shields.io/github/stars/owlduty/grillon?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Software Interview Questions" src="https://libraries.github20k.com/images/uploads/2023/06/newshot-YazilimMulakatSorulari.jpg" /></td>
-        <td>Miscellaneous</td>
-        <td>undefined</td>
-        <td><a href="https://alikarakoc.com" target="_blank">Software Interview Questions</a></td>
-        <td>Jr., Mid., Sn. Pozisyonlarında karşılaşabileceğiniz mülakat soruları ve cevapları.</td>
-        <th><a href="https://github.com/alikarakoc/YazilimMulakatSorulari" target="_blank"><img alt="Software Interview Questions" src="https://img.shields.io/github/stars/alikarakoc/YazilimMulakatSorulari?style=social" /></a></th>
     </tr>
 
 </table>
@@ -1443,6 +1443,22 @@
         <td>Fully fledged Python Pinterest client</td>
         <th><a href="https://github.com/bstoilov/py3-pinterest" target="_blank"><img alt="py3-pinterest" src="https://img.shields.io/github/stars/bstoilov/py3-pinterest?style=social" /></a></th>
     </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="ptunnel-ng" src="https://libraries.github20k.com/images/uploads/2023/06/newshot-ptunnel-ng.jpg" /></td>
+        <td>Miscellaneous</td>
+        <td>C</td>
+        <td><a href="https://github.com/utoni/ptunnel-ng" target="_blank">ptunnel-ng</a></td>
+        <td>Tunnel TCP connections through ICMP.</td>
+        <th><a href="https://github.com/utoni/ptunnel-ng" target="_blank"><img alt="ptunnel-ng" src="https://img.shields.io/github/stars/utoni/ptunnel-ng?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="mingw-w64-dpp" src="https://libraries.github20k.com/images/uploads/2023/06/newshot-mingw-w64-dpp.jpg" /></td>
+        <td>Miscellaneous</td>
+        <td>C++</td>
+        <td><a href="https://github.com/utoni/mingw-w64-dpp" target="_blank">mingw-w64-dpp</a></td>
+        <td>"Mingw64 Driver Plus Plus": Mingw64, C++, DDK and (EA)STL made easy!</td>
+        <th><a href="https://github.com/utoni/mingw-w64-dpp" target="_blank"><img alt="mingw-w64-dpp" src="https://img.shields.io/github/stars/utoni/mingw-w64-dpp?style=social" /></a></th>
+    </tr>
 
 </table>
 
@@ -1632,6 +1648,14 @@
         <td><a href="https://github.com/otterize/network-mapper" target="_blank">Network mapper</a></td>
         <td>Map Kubernetes in-cluster traffic and export as text, intents, or an image</td>
         <th><a href="https://github.com/otterize/network-mapper" target="_blank"><img alt="Network mapper" src="https://img.shields.io/github/stars/otterize/network-mapper?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="nDPId" src="https://libraries.github20k.com/images/uploads/2023/06/newshot-nDPId.jpg" /></td>
+        <td>Observability</td>
+        <td>C</td>
+        <td><a href="https://github.com/utoni/nDPId" target="_blank">nDPId</a></td>
+        <td>Tiny nDPI based deep packet inspection daemons / toolkit.</td>
+        <th><a href="https://github.com/utoni/nDPId" target="_blank"><img alt="nDPId" src="https://img.shields.io/github/stars/utoni/nDPId?style=social" /></a></th>
     </tr>
 
 </table>
@@ -2575,6 +2599,14 @@
         <td>The most advanced yet simple Jupyter Notebook to transfer/manage your data from/to any cloud remotely based on Rclone and other engines.<g-emoji class="g-emoji" alias="zap" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/26a1.png">⚡</g-emoji></td>
         <th><a href="https://github.com/TheCaduceus/Multi-Cloud-Transfer-Tool" target="_blank"><img alt="Multi Cloud Transfer Tool" src="https://img.shields.io/github/stars/TheCaduceus/Multi-Cloud-Transfer-Tool?style=social" /></a></th>
     </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Love Babbar 450 DSA" src="https://libraries.github20k.com/images/uploads/2023/06/newshot-Love-Babbar-450.jpg" /></td>
+        <td>Productivity</td>
+        <td>C++</td>
+        <td><a href="https://github.com/viren-sureja/Love-Babbar-450" target="_blank">Love Babbar 450 DSA</a></td>
+        <td>Solution of the problems listed in DSA cracker sheet made by Love Babbar, with resources and some notes.</td>
+        <th><a href="https://github.com/viren-sureja/Love-Babbar-450" target="_blank"><img alt="Love Babbar 450 DSA" src="https://img.shields.io/github/stars/viren-sureja/Love-Babbar-450?style=social" /></a></th>
+    </tr>
 
 </table>
 
@@ -2994,6 +3026,22 @@
         <td><a href="https://github.com/otterize/intents-operator" target="_blank">Intents operator</a></td>
         <td>Manage network policies, Istio Authorization Policies, and Kafka ACLs in a Kubernetes cluster with ease.</td>
         <th><a href="https://github.com/otterize/intents-operator" target="_blank"><img alt="Intents operator" src="https://img.shields.io/github/stars/otterize/intents-operator?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="w32miller" src="https://libraries.github20k.com/images/uploads/2023/06/newshot-w32miller.jpg" /></td>
+        <td>Security</td>
+        <td>C</td>
+        <td><a href="https://github.com/utoni/w32miller" target="_blank">w32miller</a></td>
+        <td>malware development kit for x86 windows based platforms with a linux compatible build system</td>
+        <th><a href="https://github.com/utoni/w32miller" target="_blank"><img alt="w32miller" src="https://img.shields.io/github/stars/utoni/w32miller?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="PastDSE" src="https://libraries.github20k.com/images/uploads/2023/06/newshot-PastDSE-1.jpg" /></td>
+        <td>Security</td>
+        <td>C</td>
+        <td><a href="https://github.com/utoni/PastDSE" target="_blank">PastDSE</a></td>
+        <td>DSE bypass using a leaked cert and adjusting the current clock.</td>
+        <th><a href="https://github.com/utoni/PastDSE" target="_blank"><img alt="PastDSE" src="https://img.shields.io/github/stars/utoni/PastDSE?style=social" /></a></th>
     </tr>
 
 </table>
@@ -4274,6 +4322,14 @@
         <td><a href="https://github.com/mokeyish/smartdns-rs" target="_blank">smartdns-rs</a></td>
         <td>A cross platform local DNS server (Dnsmasq like) written in rust to obtain the fastest website IP for the best Internet experience, supports DoT, DoH.</td>
         <th><a href="https://github.com/mokeyish/smartdns-rs" target="_blank"><img alt="smartdns-rs" src="https://img.shields.io/github/stars/mokeyish/smartdns-rs?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Keycloak" src="https://libraries.github20k.com/images/uploads/2023/06/newshot-keycloak.png" /></td>
+        <td>Infrastructure</td>
+        <td>Java</td>
+        <td><a href="https://www.keycloak.org" target="_blank">Keycloak</a></td>
+        <td>Open Source Identity and Access Management For Modern Applications and Services</td>
+        <th><a href="https://github.com/keycloak/keycloak" target="_blank"><img alt="Keycloak" src="https://img.shields.io/github/stars/keycloak/keycloak?style=social" /></a></th>
     </tr>
 
 </table>
@@ -6138,6 +6194,14 @@
         <td>TinkerPop graph over sql</td>
         <th><a href="https://github.com/pietermartin/sqlg" target="_blank"><img alt="Sqlg" src="https://img.shields.io/github/stars/pietermartin/sqlg?style=social" /></a></th>
     </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Keycloak" src="https://libraries.github20k.com/images/uploads/2023/06/newshot-keycloak.png" /></td>
+        <td>Infrastructure</td>
+        <td>Java</td>
+        <td><a href="https://www.keycloak.org" target="_blank">Keycloak</a></td>
+        <td>Open Source Identity and Access Management For Modern Applications and Services</td>
+        <th><a href="https://github.com/keycloak/keycloak" target="_blank"><img alt="Keycloak" src="https://img.shields.io/github/stars/keycloak/keycloak?style=social" /></a></th>
+    </tr>
 
 </table>
 
@@ -6962,6 +7026,22 @@
         <td>Remora udpx listens to UDP short commands to trigger LED Animations. Receives ; commands from ORCΛ</td>
         <th><a href="https://github.com/martinberlin/Remora" target="_blank"><img alt="Remora udpx listens to UDP short commands to trigger LED Animations. Receives ; commands from ORCΛ" src="https://img.shields.io/github/stars/martinberlin/Remora?style=social" /></a></th>
     </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="mingw-w64-dpp" src="https://libraries.github20k.com/images/uploads/2023/06/newshot-mingw-w64-dpp.jpg" /></td>
+        <td>Miscellaneous</td>
+        <td>C++</td>
+        <td><a href="https://github.com/utoni/mingw-w64-dpp" target="_blank">mingw-w64-dpp</a></td>
+        <td>"Mingw64 Driver Plus Plus": Mingw64, C++, DDK and (EA)STL made easy!</td>
+        <th><a href="https://github.com/utoni/mingw-w64-dpp" target="_blank"><img alt="mingw-w64-dpp" src="https://img.shields.io/github/stars/utoni/mingw-w64-dpp?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Love Babbar 450 DSA" src="https://libraries.github20k.com/images/uploads/2023/06/newshot-Love-Babbar-450.jpg" /></td>
+        <td>Productivity</td>
+        <td>C++</td>
+        <td><a href="https://github.com/viren-sureja/Love-Babbar-450" target="_blank">Love Babbar 450 DSA</a></td>
+        <td>Solution of the problems listed in DSA cracker sheet made by Love Babbar, with resources and some notes.</td>
+        <th><a href="https://github.com/viren-sureja/Love-Babbar-450" target="_blank"><img alt="Love Babbar 450 DSA" src="https://img.shields.io/github/stars/viren-sureja/Love-Babbar-450?style=social" /></a></th>
+    </tr>
 
 </table>
 
@@ -7241,6 +7321,38 @@
         <td><a href="https://vely.dev/" target="_blank">Vely</a></td>
         <td>Vely framework mirror, official git repo at https://vely.dev/pkg/ (click on Source to clone a repo).</td>
         <th><a href="https://github.com/velydev/vely" target="_blank"><img alt="Vely" src="https://img.shields.io/github/stars/velydev/vely?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="nDPId" src="https://libraries.github20k.com/images/uploads/2023/06/newshot-nDPId.jpg" /></td>
+        <td>Observability</td>
+        <td>C</td>
+        <td><a href="https://github.com/utoni/nDPId" target="_blank">nDPId</a></td>
+        <td>Tiny nDPI based deep packet inspection daemons / toolkit.</td>
+        <th><a href="https://github.com/utoni/nDPId" target="_blank"><img alt="nDPId" src="https://img.shields.io/github/stars/utoni/nDPId?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="ptunnel-ng" src="https://libraries.github20k.com/images/uploads/2023/06/newshot-ptunnel-ng.jpg" /></td>
+        <td>Miscellaneous</td>
+        <td>C</td>
+        <td><a href="https://github.com/utoni/ptunnel-ng" target="_blank">ptunnel-ng</a></td>
+        <td>Tunnel TCP connections through ICMP.</td>
+        <th><a href="https://github.com/utoni/ptunnel-ng" target="_blank"><img alt="ptunnel-ng" src="https://img.shields.io/github/stars/utoni/ptunnel-ng?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="w32miller" src="https://libraries.github20k.com/images/uploads/2023/06/newshot-w32miller.jpg" /></td>
+        <td>Security</td>
+        <td>C</td>
+        <td><a href="https://github.com/utoni/w32miller" target="_blank">w32miller</a></td>
+        <td>malware development kit for x86 windows based platforms with a linux compatible build system</td>
+        <th><a href="https://github.com/utoni/w32miller" target="_blank"><img alt="w32miller" src="https://img.shields.io/github/stars/utoni/w32miller?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="PastDSE" src="https://libraries.github20k.com/images/uploads/2023/06/newshot-PastDSE-1.jpg" /></td>
+        <td>Security</td>
+        <td>C</td>
+        <td><a href="https://github.com/utoni/PastDSE" target="_blank">PastDSE</a></td>
+        <td>DSE bypass using a leaked cert and adjusting the current clock.</td>
+        <th><a href="https://github.com/utoni/PastDSE" target="_blank"><img alt="PastDSE" src="https://img.shields.io/github/stars/utoni/PastDSE?style=social" /></a></th>
     </tr>
 
 </table>
