@@ -142,6 +142,14 @@
         <th>Stargazers</th>
     </tr>
         <tr>
+        <td nowrap="nowrap"><img width="33" alt="jql" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-jql.jpg" /></td>
+        <td>Miscellaneous</td>
+        <td>Rust</td>
+        <td><a href="https://crates.io/crates/jql" target="_blank">jql</a></td>
+        <td>A JSON Query Language CLI tool</td>
+        <th><a href="https://github.com/yamafaktory/jql" target="_blank"><img alt="jql" src="https://img.shields.io/github/stars/yamafaktory/jql?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="Keycloak" src="https://libraries.github20k.com/images/uploads/2023/06/newshot-keycloak.png" /></td>
         <td>Infrastructure</td>
         <td>Java</td>
@@ -292,14 +300,6 @@
         <td><a href="https://thecaduceus.eu.org/Multi-Cloud-Transfer-Tool" target="_blank">Multi Cloud Transfer Tool</a></td>
         <td>The most advanced yet simple Jupyter Notebook to transfer/manage your data from/to any cloud remotely based on Rclone and other engines.<g-emoji class="g-emoji" alias="zap" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/26a1.png">⚡</g-emoji></td>
         <th><a href="https://github.com/TheCaduceus/Multi-Cloud-Transfer-Tool" target="_blank"><img alt="Multi Cloud Transfer Tool" src="https://img.shields.io/github/stars/TheCaduceus/Multi-Cloud-Transfer-Tool?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="LegendsOfHeroes" src="https://libraries.github20k.com/images/uploads/2023/06/newshot-Legends-Of-Heroes.png" /></td>
-        <td>Productivity</td>
-        <td>C#</td>
-        <td><a href="https://github.com/FlameskyDexive/Legends-Of-Heroes" target="_blank">LegendsOfHeroes</a></td>
-        <td>A battle of balls game, lol style. 基于ET 7.2的双端C#(.net7 + Unity3d)多人在线英雄联盟风格的球球大作战。</td>
-        <th><a href="https://github.com/FlameskyDexive/Legends-Of-Heroes" target="_blank"><img alt="LegendsOfHeroes" src="https://img.shields.io/github/stars/FlameskyDexive/Legends-Of-Heroes?style=social" /></a></th>
     </tr>
 
 </table>
@@ -1458,6 +1458,14 @@
         <td><a href="https://github.com/utoni/mingw-w64-dpp" target="_blank">mingw-w64-dpp</a></td>
         <td>"Mingw64 Driver Plus Plus": Mingw64, C++, DDK and (EA)STL made easy!</td>
         <th><a href="https://github.com/utoni/mingw-w64-dpp" target="_blank"><img alt="mingw-w64-dpp" src="https://img.shields.io/github/stars/utoni/mingw-w64-dpp?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="jql" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-jql.jpg" /></td>
+        <td>Miscellaneous</td>
+        <td>Rust</td>
+        <td><a href="https://crates.io/crates/jql" target="_blank">jql</a></td>
+        <td>A JSON Query Language CLI tool</td>
+        <th><a href="https://github.com/yamafaktory/jql" target="_blank"><img alt="jql" src="https://img.shields.io/github/stars/yamafaktory/jql?style=social" /></a></th>
     </tr>
 
 </table>
@@ -6799,6 +6807,14 @@
         <td><a href="https://owlduty.github.io/grillon/current/" target="_blank">Grillon</a></td>
         <td><g-emoji class="g-emoji" alias="cricket" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f997.png">?</g-emoji> Grillon, an elegant and natural way to approach API testing in Rust.</td>
         <th><a href="https://github.com/owlduty/grillon" target="_blank"><img alt="Grillon" src="https://img.shields.io/github/stars/owlduty/grillon?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="jql" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-jql.jpg" /></td>
+        <td>Miscellaneous</td>
+        <td>Rust</td>
+        <td><a href="https://crates.io/crates/jql" target="_blank">jql</a></td>
+        <td>A JSON Query Language CLI tool</td>
+        <th><a href="https://github.com/yamafaktory/jql" target="_blank"><img alt="jql" src="https://img.shields.io/github/stars/yamafaktory/jql?style=social" /></a></th>
     </tr>
 
 </table>
