@@ -142,6 +142,14 @@
         <th>Stargazers</th>
     </tr>
         <tr>
+        <td nowrap="nowrap"><img width="33" alt="SKCountryPicker" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-CountryPicker.jpg" /></td>
+        <td>Productivity</td>
+        <td>Swift</td>
+        <td><a href="https://github.com/SURYAKANTSHARMA/CountryPicker" target="_blank">SKCountryPicker</a></td>
+        <td>A simple, customizable Country picker for picking country or dialing code. ?? ?? ?? ?? ?? ?? ?? ?? ?? ?? ?? </td>
+        <th><a href="https://github.com/SURYAKANTSHARMA/CountryPicker" target="_blank"><img alt="SKCountryPicker" src="https://img.shields.io/github/stars/SURYAKANTSHARMA/CountryPicker?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="jql" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-jql.jpg" /></td>
         <td>Miscellaneous</td>
         <td>Rust</td>
@@ -292,14 +300,6 @@
         <td><a href="https://jy95.github.io/docusaurus-json-schema-plugin/" target="_blank">docusaurus-json-schema-plugin</a></td>
         <td>JSON Schema viewer / editor in Docusaurus</td>
         <th><a href="https://github.com/jy95/docusaurus-json-schema-plugin" target="_blank"><img alt="docusaurus-json-schema-plugin" src="https://img.shields.io/github/stars/jy95/docusaurus-json-schema-plugin?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Multi Cloud Transfer Tool" src="https://libraries.github20k.com/images/uploads/2023/06/newshot-Multi-Cloud-Transfer-Tool.jpg" /></td>
-        <td>Productivity</td>
-        <td>Jupyter Notebook</td>
-        <td><a href="https://thecaduceus.eu.org/Multi-Cloud-Transfer-Tool" target="_blank">Multi Cloud Transfer Tool</a></td>
-        <td>The most advanced yet simple Jupyter Notebook to transfer/manage your data from/to any cloud remotely based on Rclone and other engines.<g-emoji class="g-emoji" alias="zap" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/26a1.png">⚡</g-emoji></td>
-        <th><a href="https://github.com/TheCaduceus/Multi-Cloud-Transfer-Tool" target="_blank"><img alt="Multi Cloud Transfer Tool" src="https://img.shields.io/github/stars/TheCaduceus/Multi-Cloud-Transfer-Tool?style=social" /></a></th>
     </tr>
 
 </table>
@@ -2614,6 +2614,14 @@
         <td><a href="https://github.com/viren-sureja/Love-Babbar-450" target="_blank">Love Babbar 450 DSA</a></td>
         <td>Solution of the problems listed in DSA cracker sheet made by Love Babbar, with resources and some notes.</td>
         <th><a href="https://github.com/viren-sureja/Love-Babbar-450" target="_blank"><img alt="Love Babbar 450 DSA" src="https://img.shields.io/github/stars/viren-sureja/Love-Babbar-450?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="SKCountryPicker" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-CountryPicker.jpg" /></td>
+        <td>Productivity</td>
+        <td>Swift</td>
+        <td><a href="https://github.com/SURYAKANTSHARMA/CountryPicker" target="_blank">SKCountryPicker</a></td>
+        <td>A simple, customizable Country picker for picking country or dialing code. ?? ?? ?? ?? ?? ?? ?? ?? ?? ?? ?? </td>
+        <th><a href="https://github.com/SURYAKANTSHARMA/CountryPicker" target="_blank"><img alt="SKCountryPicker" src="https://img.shields.io/github/stars/SURYAKANTSHARMA/CountryPicker?style=social" /></a></th>
     </tr>
 
 </table>
@@ -7483,6 +7491,14 @@
         <td><a href="http://async.graphics" target="_blank">AsyncGraphics</a></td>
         <td>Edit images and video with async / await in Swift, powered by Metal.</td>
         <th><a href="https://github.com/heestand-xyz/AsyncGraphics" target="_blank"><img alt="AsyncGraphics" src="https://img.shields.io/github/stars/heestand-xyz/AsyncGraphics?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="SKCountryPicker" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-CountryPicker.jpg" /></td>
+        <td>Productivity</td>
+        <td>Swift</td>
+        <td><a href="https://github.com/SURYAKANTSHARMA/CountryPicker" target="_blank">SKCountryPicker</a></td>
+        <td>A simple, customizable Country picker for picking country or dialing code. ?? ?? ?? ?? ?? ?? ?? ?? ?? ?? ?? </td>
+        <th><a href="https://github.com/SURYAKANTSHARMA/CountryPicker" target="_blank"><img alt="SKCountryPicker" src="https://img.shields.io/github/stars/SURYAKANTSHARMA/CountryPicker?style=social" /></a></th>
     </tr>
 
 </table>
