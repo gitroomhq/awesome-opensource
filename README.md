@@ -150,6 +150,14 @@
         <th><a href="https://github.com/SURYAKANTSHARMA/CountryPicker" target="_blank"><img alt="SKCountryPicker" src="https://img.shields.io/github/stars/SURYAKANTSHARMA/CountryPicker?style=social" /></a></th>
     </tr>
     <tr>
+        <td nowrap="nowrap"><img width="33" alt="BarcodeScanner.Mobile" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-BarcodeScanner.Mobile.png" /></td>
+        <td>Productivity</td>
+        <td>C#</td>
+        <td><a href="https://github.com/JimmyPun610/BarcodeScanner.Mobile" target="_blank">BarcodeScanner.Mobile</a></td>
+        <td>Barcode Scanner using GoogleVision API for Xamarin Form, Maui</td>
+        <th><a href="https://github.com/JimmyPun610/BarcodeScanner.Mobile" target="_blank"><img alt="BarcodeScanner.Mobile" src="https://img.shields.io/github/stars/JimmyPun610/BarcodeScanner.Mobile?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="jql" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-jql.jpg" /></td>
         <td>Miscellaneous</td>
         <td>Rust</td>
@@ -292,14 +300,6 @@
         <td><a href="https://www.blstsecurity.com/cherrybomb" target="_blank">Cherrybomb</a></td>
         <td>Stop half-done APIs! Cherrybomb is a CLI tool that helps you avoid undefined user behaviour by auditing your API specifications, validating them and running API security tests.</td>
         <th><a href="https://github.com/blst-security/cherrybomb" target="_blank"><img alt="Cherrybomb" src="https://img.shields.io/github/stars/blst-security/cherrybomb?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="docusaurus-json-schema-plugin" src="https://libraries.github20k.com/images/uploads/2023/06/newshot-docusaurus-json-schema-plugin.png" /></td>
-        <td>Miscellaneous</td>
-        <td>TypeScript</td>
-        <td><a href="https://jy95.github.io/docusaurus-json-schema-plugin/" target="_blank">docusaurus-json-schema-plugin</a></td>
-        <td>JSON Schema viewer / editor in Docusaurus</td>
-        <th><a href="https://github.com/jy95/docusaurus-json-schema-plugin" target="_blank"><img alt="docusaurus-json-schema-plugin" src="https://img.shields.io/github/stars/jy95/docusaurus-json-schema-plugin?style=social" /></a></th>
     </tr>
 
 </table>
@@ -2622,6 +2622,14 @@
         <td><a href="https://github.com/SURYAKANTSHARMA/CountryPicker" target="_blank">SKCountryPicker</a></td>
         <td>A simple, customizable Country picker for picking country or dialing code. ?? ?? ?? ?? ?? ?? ?? ?? ?? ?? ?? </td>
         <th><a href="https://github.com/SURYAKANTSHARMA/CountryPicker" target="_blank"><img alt="SKCountryPicker" src="https://img.shields.io/github/stars/SURYAKANTSHARMA/CountryPicker?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="BarcodeScanner.Mobile" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-BarcodeScanner.Mobile.png" /></td>
+        <td>Productivity</td>
+        <td>C#</td>
+        <td><a href="https://github.com/JimmyPun610/BarcodeScanner.Mobile" target="_blank">BarcodeScanner.Mobile</a></td>
+        <td>Barcode Scanner using GoogleVision API for Xamarin Form, Maui</td>
+        <th><a href="https://github.com/JimmyPun610/BarcodeScanner.Mobile" target="_blank"><img alt="BarcodeScanner.Mobile" src="https://img.shields.io/github/stars/JimmyPun610/BarcodeScanner.Mobile?style=social" /></a></th>
     </tr>
 
 </table>
@@ -6697,6 +6705,14 @@
         <td><a href="https://github.com/FlameskyDexive/Legends-Of-Heroes" target="_blank">LegendsOfHeroes</a></td>
         <td>A battle of balls game, lol style. 基于ET 7.2的双端C#(.net7 + Unity3d)多人在线英雄联盟风格的球球大作战。</td>
         <th><a href="https://github.com/FlameskyDexive/Legends-Of-Heroes" target="_blank"><img alt="LegendsOfHeroes" src="https://img.shields.io/github/stars/FlameskyDexive/Legends-Of-Heroes?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="BarcodeScanner.Mobile" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-BarcodeScanner.Mobile.png" /></td>
+        <td>Productivity</td>
+        <td>C#</td>
+        <td><a href="https://github.com/JimmyPun610/BarcodeScanner.Mobile" target="_blank">BarcodeScanner.Mobile</a></td>
+        <td>Barcode Scanner using GoogleVision API for Xamarin Form, Maui</td>
+        <th><a href="https://github.com/JimmyPun610/BarcodeScanner.Mobile" target="_blank"><img alt="BarcodeScanner.Mobile" src="https://img.shields.io/github/stars/JimmyPun610/BarcodeScanner.Mobile?style=social" /></a></th>
     </tr>
 
 </table>
