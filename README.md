@@ -150,6 +150,14 @@
         <th><a href="https://github.com/Valexr/Slidy" target="_blank"><img alt="Slidy" src="https://img.shields.io/github/stars/Valexr/Slidy?style=social" /></a></th>
     </tr>
     <tr>
+        <td nowrap="nowrap"><img width="33" alt="Awesome_Dynamic_SLAM" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-Awesome_Dynamic_SLAM.png" /></td>
+        <td>Collaboration</td>
+        <td>undefined</td>
+        <td><a href="https://github.com/zhuhu00/Awesome_Dynamic_SLAM" target="_blank">Awesome_Dynamic_SLAM</a></td>
+        <td>Dynamic SLAM, Life-long SLAM Research(Lidar, Visual, Sensor Fusion etc.) </td>
+        <th><a href="https://github.com/zhuhu00/Awesome_Dynamic_SLAM" target="_blank"><img alt="Awesome_Dynamic_SLAM" src="https://img.shields.io/github/stars/zhuhu00/Awesome_Dynamic_SLAM?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="SKCountryPicker" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-CountryPicker.jpg" /></td>
         <td>Productivity</td>
         <td>Swift</td>
@@ -292,14 +300,6 @@
         <td><a href="https://phase.dev" target="_blank">Phase Console</a></td>
         <td>Open-source encryption and key management platform for app developers.</td>
         <th><a href="https://github.com/phasehq/console" target="_blank"><img alt="Phase Console" src="https://img.shields.io/github/stars/phasehq/console?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Prim+RPC" src="https://libraries.github20k.com/images/uploads/2023/06/newshot-prim-rpc.jpg" /></td>
-        <td>Productivity</td>
-        <td>TypeScript</td>
-        <td><a href="https://prim.doseofted.me" target="_blank">Prim+RPC</a></td>
-        <td>Easy-to-understand, type-safe, transport-agnostic RPC/IPC for JavaScript, supporting callbacks, batching, file uploads, custom serialization, and more.</td>
-        <th><a href="https://github.com/doseofted/prim-rpc" target="_blank"><img alt="Prim+RPC" src="https://img.shields.io/github/stars/doseofted/prim-rpc?style=social" /></a></th>
     </tr>
 
 </table>
@@ -3296,6 +3296,14 @@
         <td><a href="https://www.watermelontools.com/" target="_blank">Watermelon</a></td>
         <td><g-emoji class="g-emoji" alias="watermelon" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f349.png">?</g-emoji> Pull Requests With Business Value</td>
         <th><a href="https://github.com/watermelontools/watermelon-extension" target="_blank"><img alt="Watermelon" src="https://img.shields.io/github/stars/watermelontools/watermelon-extension?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Awesome_Dynamic_SLAM" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-Awesome_Dynamic_SLAM.png" /></td>
+        <td>Collaboration</td>
+        <td>undefined</td>
+        <td><a href="https://github.com/zhuhu00/Awesome_Dynamic_SLAM" target="_blank">Awesome_Dynamic_SLAM</a></td>
+        <td>Dynamic SLAM, Life-long SLAM Research(Lidar, Visual, Sensor Fusion etc.) </td>
+        <th><a href="https://github.com/zhuhu00/Awesome_Dynamic_SLAM" target="_blank"><img alt="Awesome_Dynamic_SLAM" src="https://img.shields.io/github/stars/zhuhu00/Awesome_Dynamic_SLAM?style=social" /></a></th>
     </tr>
 
 </table>
