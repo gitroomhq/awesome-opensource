@@ -142,6 +142,14 @@
         <th>Stargazers</th>
     </tr>
         <tr>
+        <td nowrap="nowrap"><img width="33" alt="Slidy" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-Slidy.png" /></td>
+        <td>Miscellaneous</td>
+        <td>TypeScript</td>
+        <td><a href="https://slidy-core.surge.sh/" target="_blank">Slidy</a></td>
+        <td><g-emoji class="g-emoji" alias="camera_flash" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4f8.png">?</g-emoji> Sliding action script</td>
+        <th><a href="https://github.com/Valexr/Slidy" target="_blank"><img alt="Slidy" src="https://img.shields.io/github/stars/Valexr/Slidy?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="SKCountryPicker" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-CountryPicker.jpg" /></td>
         <td>Productivity</td>
         <td>Swift</td>
@@ -292,14 +300,6 @@
         <td><a href="https://prim.doseofted.me" target="_blank">Prim+RPC</a></td>
         <td>Easy-to-understand, type-safe, transport-agnostic RPC/IPC for JavaScript, supporting callbacks, batching, file uploads, custom serialization, and more.</td>
         <th><a href="https://github.com/doseofted/prim-rpc" target="_blank"><img alt="Prim+RPC" src="https://img.shields.io/github/stars/doseofted/prim-rpc?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Cherrybomb" src="https://libraries.github20k.com/images/uploads/2023/06/newshot-cherrybomb.png" /></td>
-        <td>Security</td>
-        <td>Rust</td>
-        <td><a href="https://www.blstsecurity.com/cherrybomb" target="_blank">Cherrybomb</a></td>
-        <td>Stop half-done APIs! Cherrybomb is a CLI tool that helps you avoid undefined user behaviour by auditing your API specifications, validating them and running API security tests.</td>
-        <th><a href="https://github.com/blst-security/cherrybomb" target="_blank"><img alt="Cherrybomb" src="https://img.shields.io/github/stars/blst-security/cherrybomb?style=social" /></a></th>
     </tr>
 
 </table>
@@ -1466,6 +1466,14 @@
         <td><a href="https://crates.io/crates/jql" target="_blank">jql</a></td>
         <td>A JSON Query Language CLI tool</td>
         <th><a href="https://github.com/yamafaktory/jql" target="_blank"><img alt="jql" src="https://img.shields.io/github/stars/yamafaktory/jql?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Slidy" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-Slidy.png" /></td>
+        <td>Miscellaneous</td>
+        <td>TypeScript</td>
+        <td><a href="https://slidy-core.surge.sh/" target="_blank">Slidy</a></td>
+        <td><g-emoji class="g-emoji" alias="camera_flash" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4f8.png">?</g-emoji> Sliding action script</td>
+        <th><a href="https://github.com/Valexr/Slidy" target="_blank"><img alt="Slidy" src="https://img.shields.io/github/stars/Valexr/Slidy?style=social" /></a></th>
     </tr>
 
 </table>
@@ -4993,6 +5001,14 @@
         <td><a href="https://www.watermelontools.com/" target="_blank">Watermelon</a></td>
         <td><g-emoji class="g-emoji" alias="watermelon" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f349.png">?</g-emoji> Pull Requests With Business Value</td>
         <th><a href="https://github.com/watermelontools/watermelon-extension" target="_blank"><img alt="Watermelon" src="https://img.shields.io/github/stars/watermelontools/watermelon-extension?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Slidy" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-Slidy.png" /></td>
+        <td>Miscellaneous</td>
+        <td>TypeScript</td>
+        <td><a href="https://slidy-core.surge.sh/" target="_blank">Slidy</a></td>
+        <td><g-emoji class="g-emoji" alias="camera_flash" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4f8.png">?</g-emoji> Sliding action script</td>
+        <th><a href="https://github.com/Valexr/Slidy" target="_blank"><img alt="Slidy" src="https://img.shields.io/github/stars/Valexr/Slidy?style=social" /></a></th>
     </tr>
 
 </table>
