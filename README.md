@@ -142,6 +142,14 @@
         <th>Stargazers</th>
     </tr>
         <tr>
+        <td nowrap="nowrap"><img width="33" alt="Neural Gauge Fields" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-Neural-Gauge-Fields.jpg" /></td>
+        <td>Miscellaneous</td>
+        <td>Python</td>
+        <td><a href="https://fnzhan.com/neural-gauge-fields" target="_blank">Neural Gauge Fields</a></td>
+        <td>General Neural Gauge Fields [ICLR 2023]</td>
+        <th><a href="https://github.com/fnzhan/Neural-Gauge-Fields" target="_blank"><img alt="Neural Gauge Fields" src="https://img.shields.io/github/stars/fnzhan/Neural-Gauge-Fields?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="Slidy" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-Slidy.png" /></td>
         <td>Miscellaneous</td>
         <td>TypeScript</td>
@@ -292,14 +300,6 @@
         <td><a href="https://tolgee.io" target="_blank">Tolgee</a></td>
         <td>Developer &amp; translator friendly web-based localization platform</td>
         <th><a href="https://github.com/tolgee/tolgee-platform" target="_blank"><img alt="Tolgee" src="https://img.shields.io/github/stars/tolgee/tolgee-platform?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Phase Console" src="https://libraries.github20k.com/images/uploads/2023/06/newshot-console.png" /></td>
-        <td>Security</td>
-        <td>TypeScript</td>
-        <td><a href="https://phase.dev" target="_blank">Phase Console</a></td>
-        <td>Open-source encryption and key management platform for app developers.</td>
-        <th><a href="https://github.com/phasehq/console" target="_blank"><img alt="Phase Console" src="https://img.shields.io/github/stars/phasehq/console?style=social" /></a></th>
     </tr>
 
 </table>
@@ -1474,6 +1474,14 @@
         <td><a href="https://slidy-core.surge.sh/" target="_blank">Slidy</a></td>
         <td><g-emoji class="g-emoji" alias="camera_flash" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4f8.png">?</g-emoji> Sliding action script</td>
         <th><a href="https://github.com/Valexr/Slidy" target="_blank"><img alt="Slidy" src="https://img.shields.io/github/stars/Valexr/Slidy?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Neural Gauge Fields" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-Neural-Gauge-Fields.jpg" /></td>
+        <td>Miscellaneous</td>
+        <td>Python</td>
+        <td><a href="https://fnzhan.com/neural-gauge-fields" target="_blank">Neural Gauge Fields</a></td>
+        <td>General Neural Gauge Fields [ICLR 2023]</td>
+        <th><a href="https://github.com/fnzhan/Neural-Gauge-Fields" target="_blank"><img alt="Neural Gauge Fields" src="https://img.shields.io/github/stars/fnzhan/Neural-Gauge-Fields?style=social" /></a></th>
     </tr>
 
 </table>
@@ -6557,6 +6565,14 @@
         <td><a href="https://github.com/bstoilov/py3-pinterest" target="_blank">py3-pinterest</a></td>
         <td>Fully fledged Python Pinterest client</td>
         <th><a href="https://github.com/bstoilov/py3-pinterest" target="_blank"><img alt="py3-pinterest" src="https://img.shields.io/github/stars/bstoilov/py3-pinterest?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Neural Gauge Fields" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-Neural-Gauge-Fields.jpg" /></td>
+        <td>Miscellaneous</td>
+        <td>Python</td>
+        <td><a href="https://fnzhan.com/neural-gauge-fields" target="_blank">Neural Gauge Fields</a></td>
+        <td>General Neural Gauge Fields [ICLR 2023]</td>
+        <th><a href="https://github.com/fnzhan/Neural-Gauge-Fields" target="_blank"><img alt="Neural Gauge Fields" src="https://img.shields.io/github/stars/fnzhan/Neural-Gauge-Fields?style=social" /></a></th>
     </tr>
 
 </table>
