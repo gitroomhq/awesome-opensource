@@ -150,6 +150,14 @@
         <th><a href="https://github.com/fnzhan/Neural-Gauge-Fields" target="_blank"><img alt="Neural Gauge Fields" src="https://img.shields.io/github/stars/fnzhan/Neural-Gauge-Fields?style=social" /></a></th>
     </tr>
     <tr>
+        <td nowrap="nowrap"><img width="33" alt="homeThing" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-homeThing.jpg" /></td>
+        <td>Miscellaneous</td>
+        <td>C++</td>
+        <td><a href="https://homething.io" target="_blank">homeThing</a></td>
+        <td>wifi smart home remote with display that runs on ESPHome. Uses on Lilygo T-Display or M5Stack Fire</td>
+        <th><a href="https://github.com/landonr/homeThing" target="_blank"><img alt="homeThing" src="https://img.shields.io/github/stars/landonr/homeThing?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="Slidy" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-Slidy.png" /></td>
         <td>Miscellaneous</td>
         <td>TypeScript</td>
@@ -292,14 +300,6 @@
         <td><a href="https://firecamp.dev" target="_blank">Firecamp</a></td>
         <td>The multi-protocol API Platform</td>
         <th><a href="https://github.com/FirecampDev/Firecamp" target="_blank"><img alt="Firecamp" src="https://img.shields.io/github/stars/FirecampDev/Firecamp?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Tolgee" src="https://libraries.github20k.com/images/uploads/2023/06/newshot-tolgee-platform.png" /></td>
-        <td>Collaboration</td>
-        <td>Kotlin</td>
-        <td><a href="https://tolgee.io" target="_blank">Tolgee</a></td>
-        <td>Developer &amp; translator friendly web-based localization platform</td>
-        <th><a href="https://github.com/tolgee/tolgee-platform" target="_blank"><img alt="Tolgee" src="https://img.shields.io/github/stars/tolgee/tolgee-platform?style=social" /></a></th>
     </tr>
 
 </table>
@@ -1482,6 +1482,14 @@
         <td><a href="https://fnzhan.com/neural-gauge-fields" target="_blank">Neural Gauge Fields</a></td>
         <td>General Neural Gauge Fields [ICLR 2023]</td>
         <th><a href="https://github.com/fnzhan/Neural-Gauge-Fields" target="_blank"><img alt="Neural Gauge Fields" src="https://img.shields.io/github/stars/fnzhan/Neural-Gauge-Fields?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="homeThing" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-homeThing.jpg" /></td>
+        <td>Miscellaneous</td>
+        <td>C++</td>
+        <td><a href="https://homething.io" target="_blank">homeThing</a></td>
+        <td>wifi smart home remote with display that runs on ESPHome. Uses on Lilygo T-Display or M5Stack Fire</td>
+        <th><a href="https://github.com/landonr/homeThing" target="_blank"><img alt="homeThing" src="https://img.shields.io/github/stars/landonr/homeThing?style=social" /></a></th>
     </tr>
 
 </table>
@@ -7121,6 +7129,14 @@
         <td><a href="https://github.com/viren-sureja/Love-Babbar-450" target="_blank">Love Babbar 450 DSA</a></td>
         <td>Solution of the problems listed in DSA cracker sheet made by Love Babbar, with resources and some notes.</td>
         <th><a href="https://github.com/viren-sureja/Love-Babbar-450" target="_blank"><img alt="Love Babbar 450 DSA" src="https://img.shields.io/github/stars/viren-sureja/Love-Babbar-450?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="homeThing" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-homeThing.jpg" /></td>
+        <td>Miscellaneous</td>
+        <td>C++</td>
+        <td><a href="https://homething.io" target="_blank">homeThing</a></td>
+        <td>wifi smart home remote with display that runs on ESPHome. Uses on Lilygo T-Display or M5Stack Fire</td>
+        <th><a href="https://github.com/landonr/homeThing" target="_blank"><img alt="homeThing" src="https://img.shields.io/github/stars/landonr/homeThing?style=social" /></a></th>
     </tr>
 
 </table>
