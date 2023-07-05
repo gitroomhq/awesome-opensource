@@ -166,6 +166,22 @@
         <th><a href="https://github.com/KevinNovak/discord.js-Collector-Utils" target="_blank"><img alt="discord.js Collector Utils" src="https://img.shields.io/github/stars/KevinNovak/discord.js-Collector-Utils?style=social" /></a></th>
     </tr>
     <tr>
+        <td nowrap="nowrap"><img width="33" alt="Z80" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-Z80.png" /></td>
+        <td>Miscellaneous</td>
+        <td>C</td>
+        <td><a href="https://zxe.io/software/Z80" target="_blank">Z80</a></td>
+        <td>Highly portable Zilog Z80 CPU emulator written in ANSI C</td>
+        <th><a href="https://github.com/redcode/Z80" target="_blank"><img alt="Z80" src="https://img.shields.io/github/stars/redcode/Z80?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Rudolfs" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-rudolfs.png" /></td>
+        <td>Infrastructure</td>
+        <td>Rust</td>
+        <td><a href="https://github.com/jasonwhite/rudolfs" target="_blank">Rudolfs</a></td>
+        <td>A high-performance, caching Git LFS server with an AWS S3 and local storage back-end.</td>
+        <th><a href="https://github.com/jasonwhite/rudolfs" target="_blank"><img alt="Rudolfs" src="https://img.shields.io/github/stars/jasonwhite/rudolfs?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="homeThing" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-homeThing.jpg" /></td>
         <td>Miscellaneous</td>
         <td>C++</td>
@@ -284,22 +300,6 @@
         <td><a href="https://www.imiphp.com" target="_blank">imi</a></td>
         <td>imi 是一款支持长连接微服务分布式的 PHP 开发框架，它可以运行在 PHP-FPM、Swoole、Workerman、RoadRunner 等多种容器环境下。它支持 HttpApi、WebSocket、TCP、UDP、MQTT 服务的开发。特别适合互联网微服务、即时通讯聊天im、物联网等场景！QQ群：17916227</td>
         <th><a href="https://github.com/imiphp/imi" target="_blank"><img alt="imi" src="https://img.shields.io/github/stars/imiphp/imi?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Convoy Webhooks Gateway" src="https://libraries.github20k.com/images/uploads/2023/06/newshot-convoy.png" /></td>
-        <td>Infrastructure</td>
-        <td>Go</td>
-        <td><a href="https://getconvoy.io" target="_blank">Convoy Webhooks Gateway</a></td>
-        <td>Open Source Webhooks Gateway; For both incoming &amp; outgoing events. </td>
-        <th><a href="https://github.com/frain-dev/convoy" target="_blank"><img alt="Convoy Webhooks Gateway" src="https://img.shields.io/github/stars/frain-dev/convoy?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Starklings" src="https://libraries.github20k.com/images/uploads/2023/06/newshot-starklings-cairo1.jpg" /></td>
-        <td>Miscellaneous</td>
-        <td>Cairo</td>
-        <td><a href="https://github.com/shramee/starklings-cairo1" target="_blank">Starklings</a></td>
-        <td>An interactive tutorial to get you up and running with Cairo v1 and Starknet</td>
-        <th><a href="https://github.com/shramee/starklings-cairo1" target="_blank"><img alt="Starklings" src="https://img.shields.io/github/stars/shramee/starklings-cairo1?style=social" /></a></th>
     </tr>
 
 </table>
@@ -1490,6 +1490,14 @@
         <td><a href="https://fnzhan.com/neural-gauge-fields" target="_blank">Neural Gauge Fields</a></td>
         <td>General Neural Gauge Fields [ICLR 2023]</td>
         <th><a href="https://github.com/fnzhan/Neural-Gauge-Fields" target="_blank"><img alt="Neural Gauge Fields" src="https://img.shields.io/github/stars/fnzhan/Neural-Gauge-Fields?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Z80" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-Z80.png" /></td>
+        <td>Miscellaneous</td>
+        <td>C</td>
+        <td><a href="https://zxe.io/software/Z80" target="_blank">Z80</a></td>
+        <td>Highly portable Zilog Z80 CPU emulator written in ANSI C</td>
+        <th><a href="https://github.com/redcode/Z80" target="_blank"><img alt="Z80" src="https://img.shields.io/github/stars/redcode/Z80?style=social" /></a></th>
     </tr>
 
 </table>
@@ -4411,6 +4419,14 @@
         <td>Npm package - Collector utilities for discord.js.</td>
         <th><a href="https://github.com/KevinNovak/discord.js-Collector-Utils" target="_blank"><img alt="discord.js Collector Utils" src="https://img.shields.io/github/stars/KevinNovak/discord.js-Collector-Utils?style=social" /></a></th>
     </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Rudolfs" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-rudolfs.png" /></td>
+        <td>Infrastructure</td>
+        <td>Rust</td>
+        <td><a href="https://github.com/jasonwhite/rudolfs" target="_blank">Rudolfs</a></td>
+        <td>A high-performance, caching Git LFS server with an AWS S3 and local storage back-end.</td>
+        <th><a href="https://github.com/jasonwhite/rudolfs" target="_blank"><img alt="Rudolfs" src="https://img.shields.io/github/stars/jasonwhite/rudolfs?style=social" /></a></th>
+    </tr>
 
 </table>
 
@@ -6928,6 +6944,14 @@
         <td>A JSON Query Language CLI tool</td>
         <th><a href="https://github.com/yamafaktory/jql" target="_blank"><img alt="jql" src="https://img.shields.io/github/stars/yamafaktory/jql?style=social" /></a></th>
     </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Rudolfs" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-rudolfs.png" /></td>
+        <td>Infrastructure</td>
+        <td>Rust</td>
+        <td><a href="https://github.com/jasonwhite/rudolfs" target="_blank">Rudolfs</a></td>
+        <td>A high-performance, caching Git LFS server with an AWS S3 and local storage back-end.</td>
+        <th><a href="https://github.com/jasonwhite/rudolfs" target="_blank"><img alt="Rudolfs" src="https://img.shields.io/github/stars/jasonwhite/rudolfs?style=social" /></a></th>
+    </tr>
 
 </table>
 
@@ -7489,6 +7513,14 @@
         <td><a href="https://github.com/utoni/PastDSE" target="_blank">PastDSE</a></td>
         <td>DSE bypass using a leaked cert and adjusting the current clock.</td>
         <th><a href="https://github.com/utoni/PastDSE" target="_blank"><img alt="PastDSE" src="https://img.shields.io/github/stars/utoni/PastDSE?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Z80" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-Z80.png" /></td>
+        <td>Miscellaneous</td>
+        <td>C</td>
+        <td><a href="https://zxe.io/software/Z80" target="_blank">Z80</a></td>
+        <td>Highly portable Zilog Z80 CPU emulator written in ANSI C</td>
+        <th><a href="https://github.com/redcode/Z80" target="_blank"><img alt="Z80" src="https://img.shields.io/github/stars/redcode/Z80?style=social" /></a></th>
     </tr>
 
 </table>
