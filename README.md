@@ -142,6 +142,14 @@
         <th>Stargazers</th>
     </tr>
         <tr>
+        <td nowrap="nowrap"><img width="33" alt="awesome-MIM" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-awesome-MIM.png" /></td>
+        <td>Analytics</td>
+        <td>undefined</td>
+        <td><a href="https://github.com/ucasligang/awesome-MIM" target="_blank">awesome-MIM</a></td>
+        <td>Reading list for research topics in Masked Image Modeling</td>
+        <th><a href="https://github.com/ucasligang/awesome-MIM" target="_blank"><img alt="awesome-MIM" src="https://img.shields.io/github/stars/ucasligang/awesome-MIM?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="homeThing" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-homeThing.jpg" /></td>
         <td>Miscellaneous</td>
         <td>C++</td>
@@ -292,14 +300,6 @@
         <td><a href="https://www.watermelontools.com/" target="_blank">Watermelon</a></td>
         <td><g-emoji class="g-emoji" alias="watermelon" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f349.png">?</g-emoji> Pull Requests With Business Value</td>
         <th><a href="https://github.com/watermelontools/watermelon-extension" target="_blank"><img alt="Watermelon" src="https://img.shields.io/github/stars/watermelontools/watermelon-extension?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Firecamp" src="https://libraries.github20k.com/images/uploads/2023/06/newshot-Firecamp.png" /></td>
-        <td>Collaboration</td>
-        <td>TypeScript</td>
-        <td><a href="https://firecamp.dev" target="_blank">Firecamp</a></td>
-        <td>The multi-protocol API Platform</td>
-        <th><a href="https://github.com/FirecampDev/Firecamp" target="_blank"><img alt="Firecamp" src="https://img.shields.io/github/stars/FirecampDev/Firecamp?style=social" /></a></th>
     </tr>
 
 </table>
@@ -2804,6 +2804,14 @@
         <td><a href="https://github.com/billpwchan/futu_algo" target="_blank">Futu Algo</a></td>
         <td>Futu Algorithmic Trading Solution (Python) 基於富途OpenAPI所開發量化交易程序</td>
         <th><a href="https://github.com/billpwchan/futu_algo" target="_blank"><img alt="Futu Algo" src="https://img.shields.io/github/stars/billpwchan/futu_algo?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="awesome-MIM" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-awesome-MIM.png" /></td>
+        <td>Analytics</td>
+        <td>undefined</td>
+        <td><a href="https://github.com/ucasligang/awesome-MIM" target="_blank">awesome-MIM</a></td>
+        <td>Reading list for research topics in Masked Image Modeling</td>
+        <th><a href="https://github.com/ucasligang/awesome-MIM" target="_blank"><img alt="awesome-MIM" src="https://img.shields.io/github/stars/ucasligang/awesome-MIM?style=social" /></a></th>
     </tr>
 
 </table>
