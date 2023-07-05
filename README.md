@@ -150,6 +150,22 @@
         <th><a href="https://github.com/ucasligang/awesome-MIM" target="_blank"><img alt="awesome-MIM" src="https://img.shields.io/github/stars/ucasligang/awesome-MIM?style=social" /></a></th>
     </tr>
     <tr>
+        <td nowrap="nowrap"><img width="33" alt="Linguini" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-Linguini.png" /></td>
+        <td>Infrastructure</td>
+        <td>TypeScript</td>
+        <td><a href="https://www.npmjs.com/package/linguini" target="_blank">Linguini</a></td>
+        <td>Npm package - A JSON-based translation file manager.</td>
+        <th><a href="https://github.com/KevinNovak/Linguini" target="_blank"><img alt="Linguini" src="https://img.shields.io/github/stars/KevinNovak/Linguini?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="discord.js Collector Utils" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-discord.js-Collector-Utils.png" /></td>
+        <td>Infrastructure</td>
+        <td>TypeScript</td>
+        <td><a href="https://www.npmjs.com/package/discord.js-collector-utils" target="_blank">discord.js Collector Utils</a></td>
+        <td>Npm package - Collector utilities for discord.js.</td>
+        <th><a href="https://github.com/KevinNovak/discord.js-Collector-Utils" target="_blank"><img alt="discord.js Collector Utils" src="https://img.shields.io/github/stars/KevinNovak/discord.js-Collector-Utils?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="homeThing" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-homeThing.jpg" /></td>
         <td>Miscellaneous</td>
         <td>C++</td>
@@ -284,22 +300,6 @@
         <td><a href="https://github.com/shramee/starklings-cairo1" target="_blank">Starklings</a></td>
         <td>An interactive tutorial to get you up and running with Cairo v1 and Starknet</td>
         <th><a href="https://github.com/shramee/starklings-cairo1" target="_blank"><img alt="Starklings" src="https://img.shields.io/github/stars/shramee/starklings-cairo1?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="py3-pinterest" src="https://libraries.github20k.com/images/uploads/2023/06/newshot-py3-pinterest.jpg" /></td>
-        <td>Miscellaneous</td>
-        <td>Python</td>
-        <td><a href="https://github.com/bstoilov/py3-pinterest" target="_blank">py3-pinterest</a></td>
-        <td>Fully fledged Python Pinterest client</td>
-        <th><a href="https://github.com/bstoilov/py3-pinterest" target="_blank"><img alt="py3-pinterest" src="https://img.shields.io/github/stars/bstoilov/py3-pinterest?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Watermelon" src="https://libraries.github20k.com/images/uploads/2023/06/newshot-watermelon-extension.png" /></td>
-        <td>Collaboration</td>
-        <td>TypeScript</td>
-        <td><a href="https://www.watermelontools.com/" target="_blank">Watermelon</a></td>
-        <td><g-emoji class="g-emoji" alias="watermelon" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f349.png">?</g-emoji> Pull Requests With Business Value</td>
-        <th><a href="https://github.com/watermelontools/watermelon-extension" target="_blank"><img alt="Watermelon" src="https://img.shields.io/github/stars/watermelontools/watermelon-extension?style=social" /></a></th>
     </tr>
 
 </table>
@@ -4395,6 +4395,22 @@
         <td>Open Source Identity and Access Management For Modern Applications and Services</td>
         <th><a href="https://github.com/keycloak/keycloak" target="_blank"><img alt="Keycloak" src="https://img.shields.io/github/stars/keycloak/keycloak?style=social" /></a></th>
     </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Linguini" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-Linguini.png" /></td>
+        <td>Infrastructure</td>
+        <td>TypeScript</td>
+        <td><a href="https://www.npmjs.com/package/linguini" target="_blank">Linguini</a></td>
+        <td>Npm package - A JSON-based translation file manager.</td>
+        <th><a href="https://github.com/KevinNovak/Linguini" target="_blank"><img alt="Linguini" src="https://img.shields.io/github/stars/KevinNovak/Linguini?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="discord.js Collector Utils" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-discord.js-Collector-Utils.png" /></td>
+        <td>Infrastructure</td>
+        <td>TypeScript</td>
+        <td><a href="https://www.npmjs.com/package/discord.js-collector-utils" target="_blank">discord.js Collector Utils</a></td>
+        <td>Npm package - Collector utilities for discord.js.</td>
+        <th><a href="https://github.com/KevinNovak/discord.js-Collector-Utils" target="_blank"><img alt="discord.js Collector Utils" src="https://img.shields.io/github/stars/KevinNovak/discord.js-Collector-Utils?style=social" /></a></th>
+    </tr>
 
 </table>
 
@@ -5041,6 +5057,22 @@
         <td><a href="https://slidy-core.surge.sh/" target="_blank">Slidy</a></td>
         <td><g-emoji class="g-emoji" alias="camera_flash" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4f8.png">?</g-emoji> Sliding action script</td>
         <th><a href="https://github.com/Valexr/Slidy" target="_blank"><img alt="Slidy" src="https://img.shields.io/github/stars/Valexr/Slidy?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Linguini" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-Linguini.png" /></td>
+        <td>Infrastructure</td>
+        <td>TypeScript</td>
+        <td><a href="https://www.npmjs.com/package/linguini" target="_blank">Linguini</a></td>
+        <td>Npm package - A JSON-based translation file manager.</td>
+        <th><a href="https://github.com/KevinNovak/Linguini" target="_blank"><img alt="Linguini" src="https://img.shields.io/github/stars/KevinNovak/Linguini?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="discord.js Collector Utils" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-discord.js-Collector-Utils.png" /></td>
+        <td>Infrastructure</td>
+        <td>TypeScript</td>
+        <td><a href="https://www.npmjs.com/package/discord.js-collector-utils" target="_blank">discord.js Collector Utils</a></td>
+        <td>Npm package - Collector utilities for discord.js.</td>
+        <th><a href="https://github.com/KevinNovak/discord.js-Collector-Utils" target="_blank"><img alt="discord.js Collector Utils" src="https://img.shields.io/github/stars/KevinNovak/discord.js-Collector-Utils?style=social" /></a></th>
     </tr>
 
 </table>
