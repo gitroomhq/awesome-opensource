@@ -142,6 +142,14 @@
         <th>Stargazers</th>
     </tr>
         <tr>
+        <td nowrap="nowrap"><img width="33" alt="Vision-transformers-cifar10" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-vision-transformers-cifar10.jpg" /></td>
+        <td>Analytics</td>
+        <td>Python</td>
+        <td><a href="https://github.com/kentaroy47/vision-transformers-cifar10" target="_blank">Vision-transformers-cifar10</a></td>
+        <td>Let's train vision transformers (ViT) for cifar 10! </td>
+        <th><a href="https://github.com/kentaroy47/vision-transformers-cifar10" target="_blank"><img alt="Vision-transformers-cifar10" src="https://img.shields.io/github/stars/kentaroy47/vision-transformers-cifar10?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="awesome-MIM" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-awesome-MIM.png" /></td>
         <td>Analytics</td>
         <td>undefined</td>
@@ -292,14 +300,6 @@
         <td><a href="https://github.com/viren-sureja/Love-Babbar-450" target="_blank">Love Babbar 450 DSA</a></td>
         <td>Solution of the problems listed in DSA cracker sheet made by Love Babbar, with resources and some notes.</td>
         <th><a href="https://github.com/viren-sureja/Love-Babbar-450" target="_blank"><img alt="Love Babbar 450 DSA" src="https://img.shields.io/github/stars/viren-sureja/Love-Babbar-450?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="imi" src="https://libraries.github20k.com/images/uploads/2023/06/newshot-imi.png" /></td>
-        <td>Miscellaneous</td>
-        <td>PHP</td>
-        <td><a href="https://www.imiphp.com" target="_blank">imi</a></td>
-        <td>imi 是一款支持长连接微服务分布式的 PHP 开发框架，它可以运行在 PHP-FPM、Swoole、Workerman、RoadRunner 等多种容器环境下。它支持 HttpApi、WebSocket、TCP、UDP、MQTT 服务的开发。特别适合互联网微服务、即时通讯聊天im、物联网等场景！QQ群：17916227</td>
-        <th><a href="https://github.com/imiphp/imi" target="_blank"><img alt="imi" src="https://img.shields.io/github/stars/imiphp/imi?style=social" /></a></th>
     </tr>
 
 </table>
@@ -2820,6 +2820,14 @@
         <td><a href="https://github.com/ucasligang/awesome-MIM" target="_blank">awesome-MIM</a></td>
         <td>Reading list for research topics in Masked Image Modeling</td>
         <th><a href="https://github.com/ucasligang/awesome-MIM" target="_blank"><img alt="awesome-MIM" src="https://img.shields.io/github/stars/ucasligang/awesome-MIM?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Vision-transformers-cifar10" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-vision-transformers-cifar10.jpg" /></td>
+        <td>Analytics</td>
+        <td>Python</td>
+        <td><a href="https://github.com/kentaroy47/vision-transformers-cifar10" target="_blank">Vision-transformers-cifar10</a></td>
+        <td>Let's train vision transformers (ViT) for cifar 10! </td>
+        <th><a href="https://github.com/kentaroy47/vision-transformers-cifar10" target="_blank"><img alt="Vision-transformers-cifar10" src="https://img.shields.io/github/stars/kentaroy47/vision-transformers-cifar10?style=social" /></a></th>
     </tr>
 
 </table>
@@ -6637,6 +6645,14 @@
         <td><a href="https://fnzhan.com/neural-gauge-fields" target="_blank">Neural Gauge Fields</a></td>
         <td>General Neural Gauge Fields [ICLR 2023]</td>
         <th><a href="https://github.com/fnzhan/Neural-Gauge-Fields" target="_blank"><img alt="Neural Gauge Fields" src="https://img.shields.io/github/stars/fnzhan/Neural-Gauge-Fields?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Vision-transformers-cifar10" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-vision-transformers-cifar10.jpg" /></td>
+        <td>Analytics</td>
+        <td>Python</td>
+        <td><a href="https://github.com/kentaroy47/vision-transformers-cifar10" target="_blank">Vision-transformers-cifar10</a></td>
+        <td>Let's train vision transformers (ViT) for cifar 10! </td>
+        <th><a href="https://github.com/kentaroy47/vision-transformers-cifar10" target="_blank"><img alt="Vision-transformers-cifar10" src="https://img.shields.io/github/stars/kentaroy47/vision-transformers-cifar10?style=social" /></a></th>
     </tr>
 
 </table>
