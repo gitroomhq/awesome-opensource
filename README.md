@@ -166,6 +166,22 @@
         <th><a href="https://github.com/joamag/boytacean" target="_blank"><img alt="Boytacean" src="https://img.shields.io/github/stars/joamag/boytacean?style=social" /></a></th>
     </tr>
     <tr>
+        <td nowrap="nowrap"><img width="33" alt="SMOGN: Synthetic Minority Over-Sampling Technique for Regression with Gaussian Noise" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-smogn.jpg" /></td>
+        <td>Analytics</td>
+        <td>Python</td>
+        <td><a href="https://pypi.org/project/smogn" target="_blank">SMOGN: Synthetic Minority Over-Sampling Technique for Regression with Gaussian Noise</a></td>
+        <td>Synthetic Minority Over-Sampling Technique for Regression</td>
+        <th><a href="https://github.com/nickkunz/smogn" target="_blank"><img alt="SMOGN: Synthetic Minority Over-Sampling Technique for Regression with Gaussian Noise" src="https://img.shields.io/github/stars/nickkunz/smogn?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="HumanML3D" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-HumanML3D.jpg" /></td>
+        <td>Productivity</td>
+        <td>Python</td>
+        <td><a href="https://github.com/EricGuo5513/HumanML3D" target="_blank">HumanML3D</a></td>
+        <td>HumanML3D: A large and diverse 3d human motion-language dataset.</td>
+        <th><a href="https://github.com/EricGuo5513/HumanML3D" target="_blank"><img alt="HumanML3D" src="https://img.shields.io/github/stars/EricGuo5513/HumanML3D?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="awesome-MIM" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-awesome-MIM.png" /></td>
         <td>Analytics</td>
         <td>undefined</td>
@@ -284,22 +300,6 @@
         <td><a href="https://github.com/utoni/ptunnel-ng" target="_blank">ptunnel-ng</a></td>
         <td>Tunnel TCP connections through ICMP.</td>
         <th><a href="https://github.com/utoni/ptunnel-ng" target="_blank"><img alt="ptunnel-ng" src="https://img.shields.io/github/stars/utoni/ptunnel-ng?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="mingw-w64-dpp" src="https://libraries.github20k.com/images/uploads/2023/06/newshot-mingw-w64-dpp.jpg" /></td>
-        <td>Miscellaneous</td>
-        <td>C++</td>
-        <td><a href="https://github.com/utoni/mingw-w64-dpp" target="_blank">mingw-w64-dpp</a></td>
-        <td>"Mingw64 Driver Plus Plus": Mingw64, C++, DDK and (EA)STL made easy!</td>
-        <th><a href="https://github.com/utoni/mingw-w64-dpp" target="_blank"><img alt="mingw-w64-dpp" src="https://img.shields.io/github/stars/utoni/mingw-w64-dpp?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="w32miller" src="https://libraries.github20k.com/images/uploads/2023/06/newshot-w32miller.jpg" /></td>
-        <td>Security</td>
-        <td>C</td>
-        <td><a href="https://github.com/utoni/w32miller" target="_blank">w32miller</a></td>
-        <td>malware development kit for x86 windows based platforms with a linux compatible build system</td>
-        <th><a href="https://github.com/utoni/w32miller" target="_blank"><img alt="w32miller" src="https://img.shields.io/github/stars/utoni/w32miller?style=social" /></a></th>
     </tr>
 
 </table>
@@ -2679,6 +2679,14 @@
         <td>Barcode Scanner using GoogleVision API for Xamarin Form, Maui</td>
         <th><a href="https://github.com/JimmyPun610/BarcodeScanner.Mobile" target="_blank"><img alt="BarcodeScanner.Mobile" src="https://img.shields.io/github/stars/JimmyPun610/BarcodeScanner.Mobile?style=social" /></a></th>
     </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="HumanML3D" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-HumanML3D.jpg" /></td>
+        <td>Productivity</td>
+        <td>Python</td>
+        <td><a href="https://github.com/EricGuo5513/HumanML3D" target="_blank">HumanML3D</a></td>
+        <td>HumanML3D: A large and diverse 3d human motion-language dataset.</td>
+        <th><a href="https://github.com/EricGuo5513/HumanML3D" target="_blank"><img alt="HumanML3D" src="https://img.shields.io/github/stars/EricGuo5513/HumanML3D?style=social" /></a></th>
+    </tr>
 
 </table>
 
@@ -2844,6 +2852,14 @@
         <td><a href="https://github.com/kentaroy47/vision-transformers-cifar10" target="_blank">Vision-transformers-cifar10</a></td>
         <td>Let's train vision transformers (ViT) for cifar 10! </td>
         <th><a href="https://github.com/kentaroy47/vision-transformers-cifar10" target="_blank"><img alt="Vision-transformers-cifar10" src="https://img.shields.io/github/stars/kentaroy47/vision-transformers-cifar10?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="SMOGN: Synthetic Minority Over-Sampling Technique for Regression with Gaussian Noise" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-smogn.jpg" /></td>
+        <td>Analytics</td>
+        <td>Python</td>
+        <td><a href="https://pypi.org/project/smogn" target="_blank">SMOGN: Synthetic Minority Over-Sampling Technique for Regression with Gaussian Noise</a></td>
+        <td>Synthetic Minority Over-Sampling Technique for Regression</td>
+        <th><a href="https://github.com/nickkunz/smogn" target="_blank"><img alt="SMOGN: Synthetic Minority Over-Sampling Technique for Regression with Gaussian Noise" src="https://img.shields.io/github/stars/nickkunz/smogn?style=social" /></a></th>
     </tr>
 
 </table>
@@ -6677,6 +6693,22 @@
         <td><a href="https://github.com/kentaroy47/vision-transformers-cifar10" target="_blank">Vision-transformers-cifar10</a></td>
         <td>Let's train vision transformers (ViT) for cifar 10! </td>
         <th><a href="https://github.com/kentaroy47/vision-transformers-cifar10" target="_blank"><img alt="Vision-transformers-cifar10" src="https://img.shields.io/github/stars/kentaroy47/vision-transformers-cifar10?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="SMOGN: Synthetic Minority Over-Sampling Technique for Regression with Gaussian Noise" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-smogn.jpg" /></td>
+        <td>Analytics</td>
+        <td>Python</td>
+        <td><a href="https://pypi.org/project/smogn" target="_blank">SMOGN: Synthetic Minority Over-Sampling Technique for Regression with Gaussian Noise</a></td>
+        <td>Synthetic Minority Over-Sampling Technique for Regression</td>
+        <th><a href="https://github.com/nickkunz/smogn" target="_blank"><img alt="SMOGN: Synthetic Minority Over-Sampling Technique for Regression with Gaussian Noise" src="https://img.shields.io/github/stars/nickkunz/smogn?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="HumanML3D" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-HumanML3D.jpg" /></td>
+        <td>Productivity</td>
+        <td>Python</td>
+        <td><a href="https://github.com/EricGuo5513/HumanML3D" target="_blank">HumanML3D</a></td>
+        <td>HumanML3D: A large and diverse 3d human motion-language dataset.</td>
+        <th><a href="https://github.com/EricGuo5513/HumanML3D" target="_blank"><img alt="HumanML3D" src="https://img.shields.io/github/stars/EricGuo5513/HumanML3D?style=social" /></a></th>
     </tr>
 
 </table>
