@@ -150,6 +150,22 @@
         <th><a href="https://github.com/kentaroy47/vision-transformers-cifar10" target="_blank"><img alt="Vision-transformers-cifar10" src="https://img.shields.io/github/stars/kentaroy47/vision-transformers-cifar10?style=social" /></a></th>
     </tr>
     <tr>
+        <td nowrap="nowrap"><img width="33" alt="Log Viewer" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-log-viewer.png" /></td>
+        <td>Observability</td>
+        <td>Java</td>
+        <td><a href="https://github.com/sevdokimov/log-viewer" target="_blank">Log Viewer</a></td>
+        <td>Web UI to viewing logs</td>
+        <th><a href="https://github.com/sevdokimov/log-viewer" target="_blank"><img alt="Log Viewer" src="https://img.shields.io/github/stars/sevdokimov/log-viewer?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Boytacean" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-boytacean.png" /></td>
+        <td>Miscellaneous</td>
+        <td>Rust</td>
+        <td><a href="https://boytacean.joao.me" target="_blank">Boytacean</a></td>
+        <td>A GB emulator that is written in Rust <g-emoji class="g-emoji" alias="crab" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f980.png">?</g-emoji>!</td>
+        <th><a href="https://github.com/joamag/boytacean" target="_blank"><img alt="Boytacean" src="https://img.shields.io/github/stars/joamag/boytacean?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="awesome-MIM" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-awesome-MIM.png" /></td>
         <td>Analytics</td>
         <td>undefined</td>
@@ -284,22 +300,6 @@
         <td><a href="https://github.com/utoni/w32miller" target="_blank">w32miller</a></td>
         <td>malware development kit for x86 windows based platforms with a linux compatible build system</td>
         <th><a href="https://github.com/utoni/w32miller" target="_blank"><img alt="w32miller" src="https://img.shields.io/github/stars/utoni/w32miller?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="PastDSE" src="https://libraries.github20k.com/images/uploads/2023/06/newshot-PastDSE-1.jpg" /></td>
-        <td>Security</td>
-        <td>C</td>
-        <td><a href="https://github.com/utoni/PastDSE" target="_blank">PastDSE</a></td>
-        <td>DSE bypass using a leaked cert and adjusting the current clock.</td>
-        <th><a href="https://github.com/utoni/PastDSE" target="_blank"><img alt="PastDSE" src="https://img.shields.io/github/stars/utoni/PastDSE?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Love Babbar 450 DSA" src="https://libraries.github20k.com/images/uploads/2023/06/newshot-Love-Babbar-450.jpg" /></td>
-        <td>Productivity</td>
-        <td>C++</td>
-        <td><a href="https://github.com/viren-sureja/Love-Babbar-450" target="_blank">Love Babbar 450 DSA</a></td>
-        <td>Solution of the problems listed in DSA cracker sheet made by Love Babbar, with resources and some notes.</td>
-        <th><a href="https://github.com/viren-sureja/Love-Babbar-450" target="_blank"><img alt="Love Babbar 450 DSA" src="https://img.shields.io/github/stars/viren-sureja/Love-Babbar-450?style=social" /></a></th>
     </tr>
 
 </table>
@@ -1499,6 +1499,14 @@
         <td>Highly portable Zilog Z80 CPU emulator written in ANSI C</td>
         <th><a href="https://github.com/redcode/Z80" target="_blank"><img alt="Z80" src="https://img.shields.io/github/stars/redcode/Z80?style=social" /></a></th>
     </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Boytacean" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-boytacean.png" /></td>
+        <td>Miscellaneous</td>
+        <td>Rust</td>
+        <td><a href="https://boytacean.joao.me" target="_blank">Boytacean</a></td>
+        <td>A GB emulator that is written in Rust <g-emoji class="g-emoji" alias="crab" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f980.png">?</g-emoji>!</td>
+        <th><a href="https://github.com/joamag/boytacean" target="_blank"><img alt="Boytacean" src="https://img.shields.io/github/stars/joamag/boytacean?style=social" /></a></th>
+    </tr>
 
 </table>
 
@@ -1696,6 +1704,14 @@
         <td><a href="https://github.com/utoni/nDPId" target="_blank">nDPId</a></td>
         <td>Tiny nDPI based deep packet inspection daemons / toolkit.</td>
         <th><a href="https://github.com/utoni/nDPId" target="_blank"><img alt="nDPId" src="https://img.shields.io/github/stars/utoni/nDPId?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Log Viewer" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-log-viewer.png" /></td>
+        <td>Observability</td>
+        <td>Java</td>
+        <td><a href="https://github.com/sevdokimov/log-viewer" target="_blank">Log Viewer</a></td>
+        <td>Web UI to viewing logs</td>
+        <th><a href="https://github.com/sevdokimov/log-viewer" target="_blank"><img alt="Log Viewer" src="https://img.shields.io/github/stars/sevdokimov/log-viewer?style=social" /></a></th>
     </tr>
 
 </table>
@@ -6330,6 +6346,14 @@
         <td>Open Source Identity and Access Management For Modern Applications and Services</td>
         <th><a href="https://github.com/keycloak/keycloak" target="_blank"><img alt="Keycloak" src="https://img.shields.io/github/stars/keycloak/keycloak?style=social" /></a></th>
     </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Log Viewer" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-log-viewer.png" /></td>
+        <td>Observability</td>
+        <td>Java</td>
+        <td><a href="https://github.com/sevdokimov/log-viewer" target="_blank">Log Viewer</a></td>
+        <td>Web UI to viewing logs</td>
+        <th><a href="https://github.com/sevdokimov/log-viewer" target="_blank"><img alt="Log Viewer" src="https://img.shields.io/github/stars/sevdokimov/log-viewer?style=social" /></a></th>
+    </tr>
 
 </table>
 
@@ -6967,6 +6991,14 @@
         <td><a href="https://github.com/jasonwhite/rudolfs" target="_blank">Rudolfs</a></td>
         <td>A high-performance, caching Git LFS server with an AWS S3 and local storage back-end.</td>
         <th><a href="https://github.com/jasonwhite/rudolfs" target="_blank"><img alt="Rudolfs" src="https://img.shields.io/github/stars/jasonwhite/rudolfs?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Boytacean" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-boytacean.png" /></td>
+        <td>Miscellaneous</td>
+        <td>Rust</td>
+        <td><a href="https://boytacean.joao.me" target="_blank">Boytacean</a></td>
+        <td>A GB emulator that is written in Rust <g-emoji class="g-emoji" alias="crab" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f980.png">?</g-emoji>!</td>
+        <th><a href="https://github.com/joamag/boytacean" target="_blank"><img alt="Boytacean" src="https://img.shields.io/github/stars/joamag/boytacean?style=social" /></a></th>
     </tr>
 
 </table>
