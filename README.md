@@ -150,6 +150,38 @@
         <th><a href="https://github.com/IacobIonut01/Gallery" target="_blank"><img alt="Gallery for Android" src="https://img.shields.io/github/stars/IacobIonut01/Gallery?style=social" /></a></th>
     </tr>
     <tr>
+        <td nowrap="nowrap"><img width="33" alt="aqua.css" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-aqua.css.jpg" /></td>
+        <td>Productivity</td>
+        <td>SCSS</td>
+        <td><a href="https://aquacss.netlify.com/" target="_blank">aqua.css</a></td>
+        <td>An elegant CSS Framework.</td>
+        <th><a href="https://github.com/alphardex/aqua.css" target="_blank"><img alt="aqua.css" src="https://img.shields.io/github/stars/alphardex/aqua.css?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="aqua.css" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-aqua.css-1.jpg" /></td>
+        <td>Productivity</td>
+        <td>SCSS</td>
+        <td><a href="https://aquacss.netlify.com/" target="_blank">aqua.css</a></td>
+        <td>An elegant CSS Framework.</td>
+        <th><a href="https://github.com/alphardex/aqua.css" target="_blank"><img alt="aqua.css" src="https://img.shields.io/github/stars/alphardex/aqua.css?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="aqua.css" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-aqua.css-2.jpg" /></td>
+        <td>Productivity</td>
+        <td>SCSS</td>
+        <td><a href="https://aquacss.netlify.com/" target="_blank">aqua.css</a></td>
+        <td>An elegant CSS Framework.</td>
+        <th><a href="https://github.com/alphardex/aqua.css" target="_blank"><img alt="aqua.css" src="https://img.shields.io/github/stars/alphardex/aqua.css?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="JHipster" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-generator-jhipster.png" /></td>
+        <td>Infrastructure</td>
+        <td>TypeScript</td>
+        <td><a href="https://www.jhipster.tech" target="_blank">JHipster</a></td>
+        <td>JHipster is a development platform to quickly generate, develop, &amp; deploy modern web applications &amp; microservice architectures.</td>
+        <th><a href="https://github.com/jhipster/generator-jhipster" target="_blank"><img alt="JHipster" src="https://img.shields.io/github/stars/jhipster/generator-jhipster?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="Vision-transformers-cifar10" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-vision-transformers-cifar10.jpg" /></td>
         <td>Analytics</td>
         <td>Python</td>
@@ -268,38 +300,6 @@
         <td><a href="https://github.com/SURYAKANTSHARMA/CountryPicker" target="_blank">SKCountryPicker</a></td>
         <td>A simple, customizable Country picker for picking country or dialing code. ?? ?? ?? ?? ?? ?? ?? ?? ?? ?? ?? </td>
         <th><a href="https://github.com/SURYAKANTSHARMA/CountryPicker" target="_blank"><img alt="SKCountryPicker" src="https://img.shields.io/github/stars/SURYAKANTSHARMA/CountryPicker?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="BarcodeScanner.Mobile" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-BarcodeScanner.Mobile.png" /></td>
-        <td>Productivity</td>
-        <td>C#</td>
-        <td><a href="https://github.com/JimmyPun610/BarcodeScanner.Mobile" target="_blank">BarcodeScanner.Mobile</a></td>
-        <td>Barcode Scanner using GoogleVision API for Xamarin Form, Maui</td>
-        <th><a href="https://github.com/JimmyPun610/BarcodeScanner.Mobile" target="_blank"><img alt="BarcodeScanner.Mobile" src="https://img.shields.io/github/stars/JimmyPun610/BarcodeScanner.Mobile?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="jql" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-jql.jpg" /></td>
-        <td>Miscellaneous</td>
-        <td>Rust</td>
-        <td><a href="https://crates.io/crates/jql" target="_blank">jql</a></td>
-        <td>A JSON Query Language CLI tool</td>
-        <th><a href="https://github.com/yamafaktory/jql" target="_blank"><img alt="jql" src="https://img.shields.io/github/stars/yamafaktory/jql?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Keycloak" src="https://libraries.github20k.com/images/uploads/2023/06/newshot-keycloak.png" /></td>
-        <td>Infrastructure</td>
-        <td>Java</td>
-        <td><a href="https://www.keycloak.org" target="_blank">Keycloak</a></td>
-        <td>Open Source Identity and Access Management For Modern Applications and Services</td>
-        <th><a href="https://github.com/keycloak/keycloak" target="_blank"><img alt="Keycloak" src="https://img.shields.io/github/stars/keycloak/keycloak?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="nDPId" src="https://libraries.github20k.com/images/uploads/2023/06/newshot-nDPId.jpg" /></td>
-        <td>Observability</td>
-        <td>C</td>
-        <td><a href="https://github.com/utoni/nDPId" target="_blank">nDPId</a></td>
-        <td>Tiny nDPI based deep packet inspection daemons / toolkit.</td>
-        <th><a href="https://github.com/utoni/nDPId" target="_blank"><img alt="nDPId" src="https://img.shields.io/github/stars/utoni/nDPId?style=social" /></a></th>
     </tr>
 
 </table>
@@ -941,6 +941,14 @@
         <th><a href="https://github.com/landonr/homeThing" target="_blank"><img alt="homeThing" src="https://img.shields.io/github/stars/landonr/homeThing?style=social" /></a></th>
     </tr>
     <tr>
+        <td nowrap="nowrap"><img width="33" alt="Gallery for Android" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-Gallery.jpg" /></td>
+        <td>Miscellaneous</td>
+        <td>Kotlin</td>
+        <td><a href="https://github.com/IacobIonut01/Gallery" target="_blank">Gallery for Android</a></td>
+        <td>Light-weight Media Gallery app for Android made with Jetpack Compose</td>
+        <th><a href="https://github.com/IacobIonut01/Gallery" target="_blank"><img alt="Gallery for Android" src="https://img.shields.io/github/stars/IacobIonut01/Gallery?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="ClusterFuzz" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-clusterfuzz.png" /></td>
         <td>Infrastructure</td>
         <td>Python</td>
@@ -1108,14 +1116,6 @@
         <td>Doorkeeper is an OAuth 2 provider for Ruby on Rails / Grape.</td>
         <th><a href="https://github.com/doorkeeper-gem/doorkeeper" target="_blank"><img alt="Doorkeeper Guides" src="https://img.shields.io/github/stars/doorkeeper-gem/doorkeeper?style=social" /></a></th>
     </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="OctoLinker" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-OctoLinker.png" /></td>
-        <td>Productivity</td>
-        <td>HTML</td>
-        <td><a href="https://octolinker.vercel.app" target="_blank">OctoLinker</a></td>
-        <td>OctoLinker — Links together, what belongs together</td>
-        <th><a href="https://github.com/OctoLinker/OctoLinker" target="_blank"><img alt="OctoLinker" src="https://img.shields.io/github/stars/OctoLinker/OctoLinker?style=social" /></a></th>
-    </tr>
 
 </table>
 
@@ -1234,6 +1234,14 @@
         <td><a href="https://homething.io" target="_blank">homeThing</a></td>
         <td>wifi smart home remote with display that runs on ESPHome. Uses on Lilygo T-Display or M5Stack Fire</td>
         <th><a href="https://github.com/landonr/homeThing" target="_blank"><img alt="homeThing" src="https://img.shields.io/github/stars/landonr/homeThing?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Gallery for Android" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-Gallery.jpg" /></td>
+        <td>Miscellaneous</td>
+        <td>Kotlin</td>
+        <td><a href="https://github.com/IacobIonut01/Gallery" target="_blank">Gallery for Android</a></td>
+        <td>Light-weight Media Gallery app for Android made with Jetpack Compose</td>
+        <th><a href="https://github.com/IacobIonut01/Gallery" target="_blank"><img alt="Gallery for Android" src="https://img.shields.io/github/stars/IacobIonut01/Gallery?style=social" /></a></th>
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="Cemu Emulator" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-Cemu.png" /></td>
@@ -1506,14 +1514,6 @@
         <td><a href="https://boytacean.joao.me" target="_blank">Boytacean</a></td>
         <td>A GB emulator that is written in Rust <g-emoji class="g-emoji" alias="crab" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f980.png">?</g-emoji>!</td>
         <th><a href="https://github.com/joamag/boytacean" target="_blank"><img alt="Boytacean" src="https://img.shields.io/github/stars/joamag/boytacean?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Gallery for Android" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-Gallery.jpg" /></td>
-        <td>Miscellaneous</td>
-        <td>Kotlin</td>
-        <td><a href="https://github.com/IacobIonut01/Gallery" target="_blank">Gallery for Android</a></td>
-        <td>Light-weight Media Gallery app for Android made with Jetpack Compose</td>
-        <th><a href="https://github.com/IacobIonut01/Gallery" target="_blank"><img alt="Gallery for Android" src="https://img.shields.io/github/stars/IacobIonut01/Gallery?style=social" /></a></th>
     </tr>
 
 </table>
@@ -2694,6 +2694,30 @@
         <td><a href="https://github.com/EricGuo5513/HumanML3D" target="_blank">HumanML3D</a></td>
         <td>HumanML3D: A large and diverse 3d human motion-language dataset.</td>
         <th><a href="https://github.com/EricGuo5513/HumanML3D" target="_blank"><img alt="HumanML3D" src="https://img.shields.io/github/stars/EricGuo5513/HumanML3D?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="aqua.css" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-aqua.css.jpg" /></td>
+        <td>Productivity</td>
+        <td>SCSS</td>
+        <td><a href="https://aquacss.netlify.com/" target="_blank">aqua.css</a></td>
+        <td>An elegant CSS Framework.</td>
+        <th><a href="https://github.com/alphardex/aqua.css" target="_blank"><img alt="aqua.css" src="https://img.shields.io/github/stars/alphardex/aqua.css?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="aqua.css" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-aqua.css-1.jpg" /></td>
+        <td>Productivity</td>
+        <td>SCSS</td>
+        <td><a href="https://aquacss.netlify.com/" target="_blank">aqua.css</a></td>
+        <td>An elegant CSS Framework.</td>
+        <th><a href="https://github.com/alphardex/aqua.css" target="_blank"><img alt="aqua.css" src="https://img.shields.io/github/stars/alphardex/aqua.css?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="aqua.css" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-aqua.css-2.jpg" /></td>
+        <td>Productivity</td>
+        <td>SCSS</td>
+        <td><a href="https://aquacss.netlify.com/" target="_blank">aqua.css</a></td>
+        <td>An elegant CSS Framework.</td>
+        <th><a href="https://github.com/alphardex/aqua.css" target="_blank"><img alt="aqua.css" src="https://img.shields.io/github/stars/alphardex/aqua.css?style=social" /></a></th>
     </tr>
 
 </table>
@@ -4475,6 +4499,14 @@
         <td>A high-performance, caching Git LFS server with an AWS S3 and local storage back-end.</td>
         <th><a href="https://github.com/jasonwhite/rudolfs" target="_blank"><img alt="Rudolfs" src="https://img.shields.io/github/stars/jasonwhite/rudolfs?style=social" /></a></th>
     </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="JHipster" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-generator-jhipster.png" /></td>
+        <td>Infrastructure</td>
+        <td>TypeScript</td>
+        <td><a href="https://www.jhipster.tech" target="_blank">JHipster</a></td>
+        <td>JHipster is a development platform to quickly generate, develop, &amp; deploy modern web applications &amp; microservice architectures.</td>
+        <th><a href="https://github.com/jhipster/generator-jhipster" target="_blank"><img alt="JHipster" src="https://img.shields.io/github/stars/jhipster/generator-jhipster?style=social" /></a></th>
+    </tr>
 
 </table>
 
@@ -5137,6 +5169,14 @@
         <td><a href="https://www.npmjs.com/package/discord.js-collector-utils" target="_blank">discord.js Collector Utils</a></td>
         <td>Npm package - Collector utilities for discord.js.</td>
         <th><a href="https://github.com/KevinNovak/discord.js-Collector-Utils" target="_blank"><img alt="discord.js Collector Utils" src="https://img.shields.io/github/stars/KevinNovak/discord.js-Collector-Utils?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="JHipster" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-generator-jhipster.png" /></td>
+        <td>Infrastructure</td>
+        <td>TypeScript</td>
+        <td><a href="https://www.jhipster.tech" target="_blank">JHipster</a></td>
+        <td>JHipster is a development platform to quickly generate, develop, &amp; deploy modern web applications &amp; microservice architectures.</td>
+        <th><a href="https://github.com/jhipster/generator-jhipster" target="_blank"><img alt="JHipster" src="https://img.shields.io/github/stars/jhipster/generator-jhipster?style=social" /></a></th>
     </tr>
 
 </table>
@@ -7321,6 +7361,14 @@
         <th><a href="https://github.com/tolgee/tolgee-platform" target="_blank"><img alt="Tolgee" src="https://img.shields.io/github/stars/tolgee/tolgee-platform?style=social" /></a></th>
     </tr>
     <tr>
+        <td nowrap="nowrap"><img width="33" alt="Gallery for Android" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-Gallery.jpg" /></td>
+        <td>Miscellaneous</td>
+        <td>Kotlin</td>
+        <td><a href="https://github.com/IacobIonut01/Gallery" target="_blank">Gallery for Android</a></td>
+        <td>Light-weight Media Gallery app for Android made with Jetpack Compose</td>
+        <th><a href="https://github.com/IacobIonut01/Gallery" target="_blank"><img alt="Gallery for Android" src="https://img.shields.io/github/stars/IacobIonut01/Gallery?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="SagerNet/SagerNet" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-SagerNet.png" /></td>
         <td>Security</td>
         <td>Kotlin</td>
@@ -7391,14 +7439,6 @@
         <td><a href="https://www.acra.ch" target="_blank">ACRA</a></td>
         <td>Application Crash Reports for Android</td>
         <th><a href="https://github.com/ACRA/acra" target="_blank"><img alt="ACRA" src="https://img.shields.io/github/stars/ACRA/acra?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Gallery for Android" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-Gallery.jpg" /></td>
-        <td>Miscellaneous</td>
-        <td>Kotlin</td>
-        <td><a href="https://github.com/IacobIonut01/Gallery" target="_blank">Gallery for Android</a></td>
-        <td>Light-weight Media Gallery app for Android made with Jetpack Compose</td>
-        <th><a href="https://github.com/IacobIonut01/Gallery" target="_blank"><img alt="Gallery for Android" src="https://img.shields.io/github/stars/IacobIonut01/Gallery?style=social" /></a></th>
     </tr>
 
 </table>
@@ -8039,6 +8079,30 @@
         <td><a href="https://just-the-docs.com" target="_blank">Just the Docs</a></td>
         <td>A modern, high customizable, responsive Jekyll theme for documentation with built-in search.</td>
         <th><a href="https://github.com/just-the-docs/just-the-docs" target="_blank"><img alt="Just the Docs" src="https://img.shields.io/github/stars/just-the-docs/just-the-docs?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="aqua.css" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-aqua.css.jpg" /></td>
+        <td>Productivity</td>
+        <td>SCSS</td>
+        <td><a href="https://aquacss.netlify.com/" target="_blank">aqua.css</a></td>
+        <td>An elegant CSS Framework.</td>
+        <th><a href="https://github.com/alphardex/aqua.css" target="_blank"><img alt="aqua.css" src="https://img.shields.io/github/stars/alphardex/aqua.css?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="aqua.css" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-aqua.css-1.jpg" /></td>
+        <td>Productivity</td>
+        <td>SCSS</td>
+        <td><a href="https://aquacss.netlify.com/" target="_blank">aqua.css</a></td>
+        <td>An elegant CSS Framework.</td>
+        <th><a href="https://github.com/alphardex/aqua.css" target="_blank"><img alt="aqua.css" src="https://img.shields.io/github/stars/alphardex/aqua.css?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="aqua.css" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-aqua.css-2.jpg" /></td>
+        <td>Productivity</td>
+        <td>SCSS</td>
+        <td><a href="https://aquacss.netlify.com/" target="_blank">aqua.css</a></td>
+        <td>An elegant CSS Framework.</td>
+        <th><a href="https://github.com/alphardex/aqua.css" target="_blank"><img alt="aqua.css" src="https://img.shields.io/github/stars/alphardex/aqua.css?style=social" /></a></th>
     </tr>
 
 </table>
