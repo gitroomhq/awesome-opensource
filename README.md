@@ -142,6 +142,14 @@
         <th>Stargazers</th>
     </tr>
         <tr>
+        <td nowrap="nowrap"><img width="33" alt="Gallery for Android" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-Gallery.jpg" /></td>
+        <td>Miscellaneous</td>
+        <td>Kotlin</td>
+        <td><a href="https://github.com/IacobIonut01/Gallery" target="_blank">Gallery for Android</a></td>
+        <td>Light-weight Media Gallery app for Android made with Jetpack Compose</td>
+        <th><a href="https://github.com/IacobIonut01/Gallery" target="_blank"><img alt="Gallery for Android" src="https://img.shields.io/github/stars/IacobIonut01/Gallery?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="Vision-transformers-cifar10" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-vision-transformers-cifar10.jpg" /></td>
         <td>Analytics</td>
         <td>Python</td>
@@ -292,14 +300,6 @@
         <td><a href="https://github.com/utoni/nDPId" target="_blank">nDPId</a></td>
         <td>Tiny nDPI based deep packet inspection daemons / toolkit.</td>
         <th><a href="https://github.com/utoni/nDPId" target="_blank"><img alt="nDPId" src="https://img.shields.io/github/stars/utoni/nDPId?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="ptunnel-ng" src="https://libraries.github20k.com/images/uploads/2023/06/newshot-ptunnel-ng.jpg" /></td>
-        <td>Miscellaneous</td>
-        <td>C</td>
-        <td><a href="https://github.com/utoni/ptunnel-ng" target="_blank">ptunnel-ng</a></td>
-        <td>Tunnel TCP connections through ICMP.</td>
-        <th><a href="https://github.com/utoni/ptunnel-ng" target="_blank"><img alt="ptunnel-ng" src="https://img.shields.io/github/stars/utoni/ptunnel-ng?style=social" /></a></th>
     </tr>
 
 </table>
@@ -1506,6 +1506,14 @@
         <td><a href="https://boytacean.joao.me" target="_blank">Boytacean</a></td>
         <td>A GB emulator that is written in Rust <g-emoji class="g-emoji" alias="crab" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f980.png">?</g-emoji>!</td>
         <th><a href="https://github.com/joamag/boytacean" target="_blank"><img alt="Boytacean" src="https://img.shields.io/github/stars/joamag/boytacean?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Gallery for Android" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-Gallery.jpg" /></td>
+        <td>Miscellaneous</td>
+        <td>Kotlin</td>
+        <td><a href="https://github.com/IacobIonut01/Gallery" target="_blank">Gallery for Android</a></td>
+        <td>Light-weight Media Gallery app for Android made with Jetpack Compose</td>
+        <th><a href="https://github.com/IacobIonut01/Gallery" target="_blank"><img alt="Gallery for Android" src="https://img.shields.io/github/stars/IacobIonut01/Gallery?style=social" /></a></th>
     </tr>
 
 </table>
@@ -7383,6 +7391,14 @@
         <td><a href="https://www.acra.ch" target="_blank">ACRA</a></td>
         <td>Application Crash Reports for Android</td>
         <th><a href="https://github.com/ACRA/acra" target="_blank"><img alt="ACRA" src="https://img.shields.io/github/stars/ACRA/acra?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Gallery for Android" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-Gallery.jpg" /></td>
+        <td>Miscellaneous</td>
+        <td>Kotlin</td>
+        <td><a href="https://github.com/IacobIonut01/Gallery" target="_blank">Gallery for Android</a></td>
+        <td>Light-weight Media Gallery app for Android made with Jetpack Compose</td>
+        <th><a href="https://github.com/IacobIonut01/Gallery" target="_blank"><img alt="Gallery for Android" src="https://img.shields.io/github/stars/IacobIonut01/Gallery?style=social" /></a></th>
     </tr>
 
 </table>
