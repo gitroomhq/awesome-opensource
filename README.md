@@ -56,13 +56,15 @@
              </li>          <li>
                 <a href="#java">Top 20 Java libraries</a>
              </li>          <li>
+                <a href="#c">Top 20 C# libraries</a>
+             </li>          <li>
                 <a href="#vue">Top 20 Vue libraries</a>
              </li>          <li>
                 <a href="#python">Top 20 Python libraries</a>
              </li>          <li>
                 <a href="#ruby">Top 20 Ruby libraries</a>
              </li>          <li>
-                <a href="#c">Top 20 C# libraries</a>
+                <a href="#kotlin">Top 20 Kotlin libraries</a>
              </li>          <li>
                 <a href="#rust">Top 20 Rust libraries</a>
              </li>          <li>
@@ -71,8 +73,6 @@
                 <a href="#clojure">Top 20 Clojure libraries</a>
              </li>          <li>
                 <a href="#c++">Top 20 C++ libraries</a>
-             </li>          <li>
-                <a href="#kotlin">Top 20 Kotlin libraries</a>
              </li>          <li>
                 <a href="#css">Top 20 CSS libraries</a>
              </li>          <li>
@@ -493,6 +493,14 @@
         <th><a href="https://github.com/junit-team/junit5" target="_blank"><img alt="JUnitorg." src="https://img.shields.io/github/stars/junit-team/junit5?style=social" /></a></th>
     </tr>
     <tr>
+        <td nowrap="nowrap"><img width="33" alt="Unity" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-open-project-1-2.png" /></td>
+        <td>Collaboration</td>
+        <td>C#</td>
+        <td><a href="http://unity.com/open-projects" target="_blank">Unity</a></td>
+        <td>Unity Open Project #1: Chop Chop</td>
+        <th><a href="https://github.com/UnityTechnologies/open-project-1" target="_blank"><img alt="Unity" src="https://img.shields.io/github/stars/UnityTechnologies/open-project-1?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="Medusa" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-medusa.jpg" /></td>
         <td>Miscellaneous</td>
         <td>TypeScript</td>
@@ -571,6 +579,14 @@
         <td><a href="https://prim.doseofted.me" target="_blank">Prim+RPC</a></td>
         <td>Easy-to-understand, type-safe, transport-agnostic RPC/IPC for JavaScript, supporting callbacks, batching, file uploads, custom serialization, and more.</td>
         <th><a href="https://github.com/doseofted/prim-rpc" target="_blank"><img alt="Prim+RPC" src="https://img.shields.io/github/stars/doseofted/prim-rpc?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Tolgee" src="https://libraries.github20k.com/images/uploads/2023/06/newshot-tolgee-platform.png" /></td>
+        <td>Collaboration</td>
+        <td>Kotlin</td>
+        <td><a href="https://tolgee.io" target="_blank">Tolgee</a></td>
+        <td>Developer &amp; translator friendly web-based localization platform</td>
+        <th><a href="https://github.com/tolgee/tolgee-platform" target="_blank"><img alt="Tolgee" src="https://img.shields.io/github/stars/tolgee/tolgee-platform?style=social" /></a></th>
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="Mirage JS" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-miragejs.png" /></td>
@@ -667,14 +683,6 @@
         <td><a href="https://stackexchange.github.io/StackExchange.Redis/" target="_blank">StackExchange.Redis</a></td>
         <td>General purpose redis client</td>
         <th><a href="https://github.com/StackExchange/StackExchange.Redis" target="_blank"><img alt="StackExchange.Redis" src="https://img.shields.io/github/stars/StackExchange/StackExchange.Redis?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Unity" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-open-project-1-2.png" /></td>
-        <td>Collaboration</td>
-        <td>C#</td>
-        <td><a href="http://unity.com/open-projects" target="_blank">Unity</a></td>
-        <td>Unity Open Project #1: Chop Chop</td>
-        <th><a href="https://github.com/UnityTechnologies/open-project-1" target="_blank"><img alt="Unity" src="https://img.shields.io/github/stars/UnityTechnologies/open-project-1?style=social" /></a></th>
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="Docusaurus" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-docusaurus.png" /></td>
@@ -907,14 +915,6 @@
         <td><a href="https://www.blstsecurity.com/cherrybomb" target="_blank">Cherrybomb</a></td>
         <td>Stop half-done APIs! Cherrybomb is a CLI tool that helps you avoid undefined user behaviour by auditing your API specifications, validating them and running API security tests.</td>
         <th><a href="https://github.com/blst-security/cherrybomb" target="_blank"><img alt="Cherrybomb" src="https://img.shields.io/github/stars/blst-security/cherrybomb?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Tolgee" src="https://libraries.github20k.com/images/uploads/2023/06/newshot-tolgee-platform.png" /></td>
-        <td>Collaboration</td>
-        <td>Kotlin</td>
-        <td><a href="https://tolgee.io" target="_blank">Tolgee</a></td>
-        <td>Developer &amp; translator friendly web-based localization platform</td>
-        <th><a href="https://github.com/tolgee/tolgee-platform" target="_blank"><img alt="Tolgee" src="https://img.shields.io/github/stars/tolgee/tolgee-platform?style=social" /></a></th>
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="imi" src="https://libraries.github20k.com/images/uploads/2023/06/newshot-imi.png" /></td>
@@ -6438,6 +6438,124 @@
 </table>
 
 <br /><br />
+<h2 id="c">Top 20 C# libraries</h2>
+<table>
+    <tr>
+        <th>Icon</th>
+        <th>Category</th>
+        <th>Language</th>
+        <th>Name</th>
+        <th>Description</th>
+        <th>Stargazers</th>
+    </tr>
+        <tr>
+        <td nowrap="nowrap"><img width="33" alt="Unity" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-open-project-1-2.png" /></td>
+        <td>Collaboration</td>
+        <td>C#</td>
+        <td><a href="http://unity.com/open-projects" target="_blank">Unity</a></td>
+        <td>Unity Open Project #1: Chop Chop</td>
+        <th><a href="https://github.com/UnityTechnologies/open-project-1" target="_blank"><img alt="Unity" src="https://img.shields.io/github/stars/UnityTechnologies/open-project-1?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="MoZhiMusicPlayer" src="https://libraries.github20k.com/images/uploads/2023/06/newshot-MoZhiMusicPlayer.jpg" /></td>
+        <td>Analytics</td>
+        <td>C#</td>
+        <td><a href="https://github.com/Super-Badmen-Viper/MoZhiMusicPlayer" target="_blank">MoZhiMusicPlayer</a></td>
+        <td>MusicPlayer，基于dotNET_ C#_ WPF的开源音乐软件</td>
+        <th><a href="https://github.com/Super-Badmen-Viper/MoZhiMusicPlayer" target="_blank"><img alt="MoZhiMusicPlayer" src="https://img.shields.io/github/stars/Super-Badmen-Viper/MoZhiMusicPlayer?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="StackExchange.Redis" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-StackExchange.Redis_.png" /></td>
+        <td>Databases</td>
+        <td>C#</td>
+        <td><a href="https://stackexchange.github.io/StackExchange.Redis/" target="_blank">StackExchange.Redis</a></td>
+        <td>General purpose redis client</td>
+        <th><a href="https://github.com/StackExchange/StackExchange.Redis" target="_blank"><img alt="StackExchange.Redis" src="https://img.shields.io/github/stars/StackExchange/StackExchange.Redis?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Eventual Shop" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-EventualShop.jpg" /></td>
+        <td>Miscellaneous</td>
+        <td>C#</td>
+        <td><a href="https://github.com/AntonioFalcaoJr/EventualShop/blob/release/README.md#bulb-about" target="_blank">Eventual Shop</a></td>
+        <td>A state-of-the-art distributed system using Reactive DDD as uncertainty modeling, Event Storming as subdomain decomposition, Event Sourcing as an eventual persistence mechanism, CQRS, Async Project…</td>
+        <th><a href="https://github.com/AntonioFalcaoJr/EventualShop" target="_blank"><img alt="Eventual Shop" src="https://img.shields.io/github/stars/AntonioFalcaoJr/EventualShop?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="MudBlazor" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-MudBlazor.png" /></td>
+        <td>Infrastructure</td>
+        <td>C#</td>
+        <td><a href="http://mudblazor.com" target="_blank">MudBlazor</a></td>
+        <td>Blazor Component Library based on Material design with an emphasis on ease of use. Mainly written in C# with Javascript kept to a bare minimum it empowers .NET developers to easily debug it if needed.</td>
+        <th><a href="https://github.com/MudBlazor/MudBlazor" target="_blank"><img alt="MudBlazor" src="https://img.shields.io/github/stars/MudBlazor/MudBlazor?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="MassTransit" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-MassTransit.png" /></td>
+        <td>Infrastructure</td>
+        <td>C#</td>
+        <td><a href="https://masstransit.io/" target="_blank">MassTransit</a></td>
+        <td>Distributed Application Framework for .NET</td>
+        <th><a href="https://github.com/MassTransit/MassTransit" target="_blank"><img alt="MassTransit" src="https://img.shields.io/github/stars/MassTransit/MassTransit?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="QuartzNET" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-quartznet.png" /></td>
+        <td>Infrastructure</td>
+        <td>C#</td>
+        <td><a href="http://www.quartz-scheduler.net/" target="_blank">QuartzNET</a></td>
+        <td>Quartz Enterprise Scheduler .NET</td>
+        <th><a href="https://github.com/quartznet/quartznet" target="_blank"><img alt="QuartzNET" src="https://img.shields.io/github/stars/quartznet/quartznet?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="NLog/NLog" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-NLog-1.png" /></td>
+        <td>Observability</td>
+        <td>C#</td>
+        <td><a href="https://nlog-project.org" target="_blank">NLog/NLog</a></td>
+        <td>NLog - Advanced and Structured Logging for Various .NET Platforms</td>
+        <th><a href="https://github.com/NLog/NLog" target="_blank"><img alt="NLog/NLog" src="https://img.shields.io/github/stars/NLog/NLog?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="dotnetcore/CAP" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-CAP-1.png" /></td>
+        <td>Infrastructure</td>
+        <td>C#</td>
+        <td><a href="http://cap.dotnetcore.xyz" target="_blank">dotnetcore/CAP</a></td>
+        <td>Distributed transaction solution in micro-service base on eventually consistency, also an eventbus with Outbox pattern</td>
+        <th><a href="https://github.com/dotnetcore/CAP" target="_blank"><img alt="dotnetcore/CAP" src="https://img.shields.io/github/stars/dotnetcore/CAP?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="FASTER" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-FASTER-1.png" /></td>
+        <td>Databases</td>
+        <td>C#</td>
+        <td><a href="https://aka.ms/FASTER" target="_blank">FASTER</a></td>
+        <td>Fast persistent recoverable log and key-value store + cache, in C# and C++.</td>
+        <th><a href="https://github.com/microsoft/FASTER" target="_blank"><img alt="FASTER" src="https://img.shields.io/github/stars/microsoft/FASTER?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Blazorise" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-Blazorise.png" /></td>
+        <td>Infrastructure</td>
+        <td>C#</td>
+        <td><a href="https://blazorise.com/" target="_blank">Blazorise</a></td>
+        <td>Blazorise is a component library built on top of Blazor with support for CSS frameworks like Bootstrap, Bulma, AntDesign, and Material.</td>
+        <th><a href="https://github.com/Megabit/Blazorise" target="_blank"><img alt="Blazorise" src="https://img.shields.io/github/stars/Megabit/Blazorise?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="LegendsOfHeroes" src="https://libraries.github20k.com/images/uploads/2023/06/newshot-Legends-Of-Heroes.png" /></td>
+        <td>Productivity</td>
+        <td>C#</td>
+        <td><a href="https://github.com/FlameskyDexive/Legends-Of-Heroes" target="_blank">LegendsOfHeroes</a></td>
+        <td>A battle of balls game, lol style. 基于ET 7.2的双端C#(.net7 + Unity3d)多人在线英雄联盟风格的球球大作战。</td>
+        <th><a href="https://github.com/FlameskyDexive/Legends-Of-Heroes" target="_blank"><img alt="LegendsOfHeroes" src="https://img.shields.io/github/stars/FlameskyDexive/Legends-Of-Heroes?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="BarcodeScanner.Mobile" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-BarcodeScanner.Mobile.png" /></td>
+        <td>Productivity</td>
+        <td>C#</td>
+        <td><a href="https://github.com/JimmyPun610/BarcodeScanner.Mobile" target="_blank">BarcodeScanner.Mobile</a></td>
+        <td>Barcode Scanner using GoogleVision API for Xamarin Form, Maui</td>
+        <th><a href="https://github.com/JimmyPun610/BarcodeScanner.Mobile" target="_blank"><img alt="BarcodeScanner.Mobile" src="https://img.shields.io/github/stars/JimmyPun610/BarcodeScanner.Mobile?style=social" /></a></th>
+    </tr>
+
+</table>
+
+<br /><br />
 <h2 id="vue">Top 20 Vue libraries</h2>
 <table>
     <tr>
@@ -6840,7 +6958,7 @@
 </table>
 
 <br /><br />
-<h2 id="c">Top 20 C# libraries</h2>
+<h2 id="kotlin">Top 20 Kotlin libraries</h2>
 <table>
     <tr>
         <th>Icon</th>
@@ -6851,108 +6969,100 @@
         <th>Stargazers</th>
     </tr>
         <tr>
-        <td nowrap="nowrap"><img width="33" alt="MoZhiMusicPlayer" src="https://libraries.github20k.com/images/uploads/2023/06/newshot-MoZhiMusicPlayer.jpg" /></td>
-        <td>Analytics</td>
-        <td>C#</td>
-        <td><a href="https://github.com/Super-Badmen-Viper/MoZhiMusicPlayer" target="_blank">MoZhiMusicPlayer</a></td>
-        <td>MusicPlayer，基于dotNET_ C#_ WPF的开源音乐软件</td>
-        <th><a href="https://github.com/Super-Badmen-Viper/MoZhiMusicPlayer" target="_blank"><img alt="MoZhiMusicPlayer" src="https://img.shields.io/github/stars/Super-Badmen-Viper/MoZhiMusicPlayer?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="StackExchange.Redis" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-StackExchange.Redis_.png" /></td>
-        <td>Databases</td>
-        <td>C#</td>
-        <td><a href="https://stackexchange.github.io/StackExchange.Redis/" target="_blank">StackExchange.Redis</a></td>
-        <td>General purpose redis client</td>
-        <th><a href="https://github.com/StackExchange/StackExchange.Redis" target="_blank"><img alt="StackExchange.Redis" src="https://img.shields.io/github/stars/StackExchange/StackExchange.Redis?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Unity" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-open-project-1-2.png" /></td>
+        <td nowrap="nowrap"><img width="33" alt="Tolgee" src="https://libraries.github20k.com/images/uploads/2023/06/newshot-tolgee-platform.png" /></td>
         <td>Collaboration</td>
-        <td>C#</td>
-        <td><a href="http://unity.com/open-projects" target="_blank">Unity</a></td>
-        <td>Unity Open Project #1: Chop Chop</td>
-        <th><a href="https://github.com/UnityTechnologies/open-project-1" target="_blank"><img alt="Unity" src="https://img.shields.io/github/stars/UnityTechnologies/open-project-1?style=social" /></a></th>
+        <td>Kotlin</td>
+        <td><a href="https://tolgee.io" target="_blank">Tolgee</a></td>
+        <td>Developer &amp; translator friendly web-based localization platform</td>
+        <th><a href="https://github.com/tolgee/tolgee-platform" target="_blank"><img alt="Tolgee" src="https://img.shields.io/github/stars/tolgee/tolgee-platform?style=social" /></a></th>
     </tr>
     <tr>
-        <td nowrap="nowrap"><img width="33" alt="Eventual Shop" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-EventualShop.jpg" /></td>
+        <td nowrap="nowrap"><img width="33" alt="KeyPass" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-KeyPass.jpg" /></td>
+        <td>Security</td>
+        <td>Kotlin</td>
+        <td><a href="https://play.google.com/store/apps/details?id=com.yogeshpaliyal.keypass" target="_blank">KeyPass</a></td>
+        <td>KeyPass: Open-source &amp; offline password manager. Store, manage, take control securely.</td>
+        <th><a href="https://github.com/yogeshpaliyal/KeyPass" target="_blank"><img alt="KeyPass" src="https://img.shields.io/github/stars/yogeshpaliyal/KeyPass?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Gallery for Android" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-Gallery.jpg" /></td>
         <td>Miscellaneous</td>
-        <td>C#</td>
-        <td><a href="https://github.com/AntonioFalcaoJr/EventualShop/blob/release/README.md#bulb-about" target="_blank">Eventual Shop</a></td>
-        <td>A state-of-the-art distributed system using Reactive DDD as uncertainty modeling, Event Storming as subdomain decomposition, Event Sourcing as an eventual persistence mechanism, CQRS, Async Project…</td>
-        <th><a href="https://github.com/AntonioFalcaoJr/EventualShop" target="_blank"><img alt="Eventual Shop" src="https://img.shields.io/github/stars/AntonioFalcaoJr/EventualShop?style=social" /></a></th>
+        <td>Kotlin</td>
+        <td><a href="https://github.com/IacobIonut01/Gallery" target="_blank">Gallery for Android</a></td>
+        <td>Light-weight Media Gallery app for Android made with Jetpack Compose</td>
+        <th><a href="https://github.com/IacobIonut01/Gallery" target="_blank"><img alt="Gallery for Android" src="https://img.shields.io/github/stars/IacobIonut01/Gallery?style=social" /></a></th>
     </tr>
     <tr>
-        <td nowrap="nowrap"><img width="33" alt="MudBlazor" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-MudBlazor.png" /></td>
-        <td>Infrastructure</td>
-        <td>C#</td>
-        <td><a href="http://mudblazor.com" target="_blank">MudBlazor</a></td>
-        <td>Blazor Component Library based on Material design with an emphasis on ease of use. Mainly written in C# with Javascript kept to a bare minimum it empowers .NET developers to easily debug it if needed.</td>
-        <th><a href="https://github.com/MudBlazor/MudBlazor" target="_blank"><img alt="MudBlazor" src="https://img.shields.io/github/stars/MudBlazor/MudBlazor?style=social" /></a></th>
+        <td nowrap="nowrap"><img width="33" alt="SagerNet/SagerNet" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-SagerNet.png" /></td>
+        <td>Security</td>
+        <td>Kotlin</td>
+        <td><a href="https://sagernet.org" target="_blank">SagerNet/SagerNet</a></td>
+        <td>The universal proxy toolchain for Android</td>
+        <th><a href="https://github.com/SagerNet/SagerNet" target="_blank"><img alt="SagerNet/SagerNet" src="https://img.shields.io/github/stars/SagerNet/SagerNet?style=social" /></a></th>
     </tr>
     <tr>
-        <td nowrap="nowrap"><img width="33" alt="MassTransit" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-MassTransit.png" /></td>
-        <td>Infrastructure</td>
-        <td>C#</td>
-        <td><a href="https://masstransit.io/" target="_blank">MassTransit</a></td>
-        <td>Distributed Application Framework for .NET</td>
-        <th><a href="https://github.com/MassTransit/MassTransit" target="_blank"><img alt="MassTransit" src="https://img.shields.io/github/stars/MassTransit/MassTransit?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="QuartzNET" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-quartznet.png" /></td>
-        <td>Infrastructure</td>
-        <td>C#</td>
-        <td><a href="http://www.quartz-scheduler.net/" target="_blank">QuartzNET</a></td>
-        <td>Quartz Enterprise Scheduler .NET</td>
-        <th><a href="https://github.com/quartznet/quartznet" target="_blank"><img alt="QuartzNET" src="https://img.shields.io/github/stars/quartznet/quartznet?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="NLog/NLog" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-NLog-1.png" /></td>
-        <td>Observability</td>
-        <td>C#</td>
-        <td><a href="https://nlog-project.org" target="_blank">NLog/NLog</a></td>
-        <td>NLog - Advanced and Structured Logging for Various .NET Platforms</td>
-        <th><a href="https://github.com/NLog/NLog" target="_blank"><img alt="NLog/NLog" src="https://img.shields.io/github/stars/NLog/NLog?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="dotnetcore/CAP" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-CAP-1.png" /></td>
-        <td>Infrastructure</td>
-        <td>C#</td>
-        <td><a href="http://cap.dotnetcore.xyz" target="_blank">dotnetcore/CAP</a></td>
-        <td>Distributed transaction solution in micro-service base on eventually consistency, also an eventbus with Outbox pattern</td>
-        <th><a href="https://github.com/dotnetcore/CAP" target="_blank"><img alt="dotnetcore/CAP" src="https://img.shields.io/github/stars/dotnetcore/CAP?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="FASTER" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-FASTER-1.png" /></td>
+        <td nowrap="nowrap"><img width="33" alt="cashapp/sqldelight" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-sqldelight.png" /></td>
         <td>Databases</td>
-        <td>C#</td>
-        <td><a href="https://aka.ms/FASTER" target="_blank">FASTER</a></td>
-        <td>Fast persistent recoverable log and key-value store + cache, in C# and C++.</td>
-        <th><a href="https://github.com/microsoft/FASTER" target="_blank"><img alt="FASTER" src="https://img.shields.io/github/stars/microsoft/FASTER?style=social" /></a></th>
+        <td>Kotlin</td>
+        <td><a href="https://cashapp.github.io/sqldelight/" target="_blank">cashapp/sqldelight</a></td>
+        <td>SQLDelight - Generates typesafe Kotlin APIs from SQL</td>
+        <th><a href="https://github.com/cashapp/sqldelight" target="_blank"><img alt="cashapp/sqldelight" src="https://img.shields.io/github/stars/cashapp/sqldelight?style=social" /></a></th>
     </tr>
     <tr>
-        <td nowrap="nowrap"><img width="33" alt="Blazorise" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-Blazorise.png" /></td>
+        <td nowrap="nowrap"><img width="33" alt="LibreTube" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-LibreTube.png" /></td>
+        <td>Productivity</td>
+        <td>Kotlin</td>
+        <td><a href="https://libre-tube.github.io" target="_blank">LibreTube</a></td>
+        <td>An alternative frontend for YouTube, for Android.</td>
+        <th><a href="https://github.com/libre-tube/LibreTube" target="_blank"><img alt="LibreTube" src="https://img.shields.io/github/stars/libre-tube/LibreTube?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="detekt" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-detekt.png" /></td>
+        <td>Observability</td>
+        <td>Kotlin</td>
+        <td><a href="https://detekt.dev" target="_blank">detekt</a></td>
+        <td>Static code analysis for Kotlin</td>
+        <th><a href="https://github.com/detekt/detekt" target="_blank"><img alt="detekt" src="https://img.shields.io/github/stars/detekt/detekt?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="kickstarter/android-oss" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-android-oss.png" /></td>
+        <td>Collaboration</td>
+        <td>Kotlin</td>
+        <td><a href="https://www.kickstarter.com/mobile" target="_blank">kickstarter/android-oss</a></td>
+        <td>Kickstarter for Android. Bring new ideas to life, anywhere.</td>
+        <th><a href="https://github.com/kickstarter/android-oss" target="_blank"><img alt="kickstarter/android-oss" src="https://img.shields.io/github/stars/kickstarter/android-oss?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="pinterest/ktlint" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-ktlint-1.png" /></td>
+        <td>Productivity</td>
+        <td>Kotlin</td>
+        <td><a href="https://pinterest.github.io/ktlint/" target="_blank">pinterest/ktlint</a></td>
+        <td>An anti-bikeshedding Kotlin linter with built-in formatter</td>
+        <th><a href="https://github.com/pinterest/ktlint" target="_blank"><img alt="pinterest/ktlint" src="https://img.shields.io/github/stars/pinterest/ktlint?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Chainlist" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-chains-1.png" /></td>
         <td>Infrastructure</td>
-        <td>C#</td>
-        <td><a href="https://blazorise.com/" target="_blank">Blazorise</a></td>
-        <td>Blazorise is a component library built on top of Blazor with support for CSS frameworks like Bootstrap, Bulma, AntDesign, and Material.</td>
-        <th><a href="https://github.com/Megabit/Blazorise" target="_blank"><img alt="Blazorise" src="https://img.shields.io/github/stars/Megabit/Blazorise?style=social" /></a></th>
+        <td>Kotlin</td>
+        <td><a href="https://chainid.network" target="_blank">Chainlist</a></td>
+        <td>provides metadata for networkIDs and chainIDs</td>
+        <th><a href="https://github.com/ethereum-lists/chains" target="_blank"><img alt="Chainlist" src="https://img.shields.io/github/stars/ethereum-lists/chains?style=social" /></a></th>
     </tr>
     <tr>
-        <td nowrap="nowrap"><img width="33" alt="LegendsOfHeroes" src="https://libraries.github20k.com/images/uploads/2023/06/newshot-Legends-Of-Heroes.png" /></td>
-        <td>Productivity</td>
-        <td>C#</td>
-        <td><a href="https://github.com/FlameskyDexive/Legends-Of-Heroes" target="_blank">LegendsOfHeroes</a></td>
-        <td>A battle of balls game, lol style. 基于ET 7.2的双端C#(.net7 + Unity3d)多人在线英雄联盟风格的球球大作战。</td>
-        <th><a href="https://github.com/FlameskyDexive/Legends-Of-Heroes" target="_blank"><img alt="LegendsOfHeroes" src="https://img.shields.io/github/stars/FlameskyDexive/Legends-Of-Heroes?style=social" /></a></th>
+        <td nowrap="nowrap"><img width="33" alt="arrow-kt/arrow" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-arrow-1.png" /></td>
+        <td>Infrastructure</td>
+        <td>Kotlin</td>
+        <td><a href="http://arrow-kt.io" target="_blank">arrow-kt/arrow</a></td>
+        <td>Λrrow - Functional companion to Kotlin's Standard Library</td>
+        <th><a href="https://github.com/arrow-kt/arrow" target="_blank"><img alt="arrow-kt/arrow" src="https://img.shields.io/github/stars/arrow-kt/arrow?style=social" /></a></th>
     </tr>
     <tr>
-        <td nowrap="nowrap"><img width="33" alt="BarcodeScanner.Mobile" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-BarcodeScanner.Mobile.png" /></td>
-        <td>Productivity</td>
-        <td>C#</td>
-        <td><a href="https://github.com/JimmyPun610/BarcodeScanner.Mobile" target="_blank">BarcodeScanner.Mobile</a></td>
-        <td>Barcode Scanner using GoogleVision API for Xamarin Form, Maui</td>
-        <th><a href="https://github.com/JimmyPun610/BarcodeScanner.Mobile" target="_blank"><img alt="BarcodeScanner.Mobile" src="https://img.shields.io/github/stars/JimmyPun610/BarcodeScanner.Mobile?style=social" /></a></th>
+        <td nowrap="nowrap"><img width="33" alt="ACRA" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-acra-3.png" /></td>
+        <td>Observability</td>
+        <td>Kotlin</td>
+        <td><a href="https://www.acra.ch" target="_blank">ACRA</a></td>
+        <td>Application Crash Reports for Android</td>
+        <th><a href="https://github.com/ACRA/acra" target="_blank"><img alt="ACRA" src="https://img.shields.io/github/stars/ACRA/acra?style=social" /></a></th>
     </tr>
 
 </table>
@@ -7345,116 +7455,6 @@
         <td><a href="https://github.com/viren-sureja/Love-Babbar-450" target="_blank">Love Babbar 450 DSA</a></td>
         <td>Solution of the problems listed in DSA cracker sheet made by Love Babbar, with resources and some notes.</td>
         <th><a href="https://github.com/viren-sureja/Love-Babbar-450" target="_blank"><img alt="Love Babbar 450 DSA" src="https://img.shields.io/github/stars/viren-sureja/Love-Babbar-450?style=social" /></a></th>
-    </tr>
-
-</table>
-
-<br /><br />
-<h2 id="kotlin">Top 20 Kotlin libraries</h2>
-<table>
-    <tr>
-        <th>Icon</th>
-        <th>Category</th>
-        <th>Language</th>
-        <th>Name</th>
-        <th>Description</th>
-        <th>Stargazers</th>
-    </tr>
-        <tr>
-        <td nowrap="nowrap"><img width="33" alt="KeyPass" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-KeyPass.jpg" /></td>
-        <td>Security</td>
-        <td>Kotlin</td>
-        <td><a href="https://play.google.com/store/apps/details?id=com.yogeshpaliyal.keypass" target="_blank">KeyPass</a></td>
-        <td>KeyPass: Open-source &amp; offline password manager. Store, manage, take control securely.</td>
-        <th><a href="https://github.com/yogeshpaliyal/KeyPass" target="_blank"><img alt="KeyPass" src="https://img.shields.io/github/stars/yogeshpaliyal/KeyPass?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Tolgee" src="https://libraries.github20k.com/images/uploads/2023/06/newshot-tolgee-platform.png" /></td>
-        <td>Collaboration</td>
-        <td>Kotlin</td>
-        <td><a href="https://tolgee.io" target="_blank">Tolgee</a></td>
-        <td>Developer &amp; translator friendly web-based localization platform</td>
-        <th><a href="https://github.com/tolgee/tolgee-platform" target="_blank"><img alt="Tolgee" src="https://img.shields.io/github/stars/tolgee/tolgee-platform?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Gallery for Android" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-Gallery.jpg" /></td>
-        <td>Miscellaneous</td>
-        <td>Kotlin</td>
-        <td><a href="https://github.com/IacobIonut01/Gallery" target="_blank">Gallery for Android</a></td>
-        <td>Light-weight Media Gallery app for Android made with Jetpack Compose</td>
-        <th><a href="https://github.com/IacobIonut01/Gallery" target="_blank"><img alt="Gallery for Android" src="https://img.shields.io/github/stars/IacobIonut01/Gallery?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="SagerNet/SagerNet" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-SagerNet.png" /></td>
-        <td>Security</td>
-        <td>Kotlin</td>
-        <td><a href="https://sagernet.org" target="_blank">SagerNet/SagerNet</a></td>
-        <td>The universal proxy toolchain for Android</td>
-        <th><a href="https://github.com/SagerNet/SagerNet" target="_blank"><img alt="SagerNet/SagerNet" src="https://img.shields.io/github/stars/SagerNet/SagerNet?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="cashapp/sqldelight" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-sqldelight.png" /></td>
-        <td>Databases</td>
-        <td>Kotlin</td>
-        <td><a href="https://cashapp.github.io/sqldelight/" target="_blank">cashapp/sqldelight</a></td>
-        <td>SQLDelight - Generates typesafe Kotlin APIs from SQL</td>
-        <th><a href="https://github.com/cashapp/sqldelight" target="_blank"><img alt="cashapp/sqldelight" src="https://img.shields.io/github/stars/cashapp/sqldelight?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="LibreTube" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-LibreTube.png" /></td>
-        <td>Productivity</td>
-        <td>Kotlin</td>
-        <td><a href="https://libre-tube.github.io" target="_blank">LibreTube</a></td>
-        <td>An alternative frontend for YouTube, for Android.</td>
-        <th><a href="https://github.com/libre-tube/LibreTube" target="_blank"><img alt="LibreTube" src="https://img.shields.io/github/stars/libre-tube/LibreTube?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="detekt" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-detekt.png" /></td>
-        <td>Observability</td>
-        <td>Kotlin</td>
-        <td><a href="https://detekt.dev" target="_blank">detekt</a></td>
-        <td>Static code analysis for Kotlin</td>
-        <th><a href="https://github.com/detekt/detekt" target="_blank"><img alt="detekt" src="https://img.shields.io/github/stars/detekt/detekt?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="kickstarter/android-oss" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-android-oss.png" /></td>
-        <td>Collaboration</td>
-        <td>Kotlin</td>
-        <td><a href="https://www.kickstarter.com/mobile" target="_blank">kickstarter/android-oss</a></td>
-        <td>Kickstarter for Android. Bring new ideas to life, anywhere.</td>
-        <th><a href="https://github.com/kickstarter/android-oss" target="_blank"><img alt="kickstarter/android-oss" src="https://img.shields.io/github/stars/kickstarter/android-oss?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="pinterest/ktlint" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-ktlint-1.png" /></td>
-        <td>Productivity</td>
-        <td>Kotlin</td>
-        <td><a href="https://pinterest.github.io/ktlint/" target="_blank">pinterest/ktlint</a></td>
-        <td>An anti-bikeshedding Kotlin linter with built-in formatter</td>
-        <th><a href="https://github.com/pinterest/ktlint" target="_blank"><img alt="pinterest/ktlint" src="https://img.shields.io/github/stars/pinterest/ktlint?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Chainlist" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-chains-1.png" /></td>
-        <td>Infrastructure</td>
-        <td>Kotlin</td>
-        <td><a href="https://chainid.network" target="_blank">Chainlist</a></td>
-        <td>provides metadata for networkIDs and chainIDs</td>
-        <th><a href="https://github.com/ethereum-lists/chains" target="_blank"><img alt="Chainlist" src="https://img.shields.io/github/stars/ethereum-lists/chains?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="arrow-kt/arrow" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-arrow-1.png" /></td>
-        <td>Infrastructure</td>
-        <td>Kotlin</td>
-        <td><a href="http://arrow-kt.io" target="_blank">arrow-kt/arrow</a></td>
-        <td>Λrrow - Functional companion to Kotlin's Standard Library</td>
-        <th><a href="https://github.com/arrow-kt/arrow" target="_blank"><img alt="arrow-kt/arrow" src="https://img.shields.io/github/stars/arrow-kt/arrow?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="ACRA" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-acra-3.png" /></td>
-        <td>Observability</td>
-        <td>Kotlin</td>
-        <td><a href="https://www.acra.ch" target="_blank">ACRA</a></td>
-        <td>Application Crash Reports for Android</td>
-        <th><a href="https://github.com/ACRA/acra" target="_blank"><img alt="ACRA" src="https://img.shields.io/github/stars/ACRA/acra?style=social" /></a></th>
     </tr>
 
 </table>
