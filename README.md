@@ -52,6 +52,8 @@
              </li>          <li>
                 <a href="#go">Top 20 Go libraries</a>
              </li>          <li>
+                <a href="#kotlin">Top 20 Kotlin libraries</a>
+             </li>          <li>
                 <a href="#lua">Top 20 Lua libraries</a>
              </li>          <li>
                 <a href="#java">Top 20 Java libraries</a>
@@ -63,8 +65,6 @@
                 <a href="#python">Top 20 Python libraries</a>
              </li>          <li>
                 <a href="#ruby">Top 20 Ruby libraries</a>
-             </li>          <li>
-                <a href="#kotlin">Top 20 Kotlin libraries</a>
              </li>          <li>
                 <a href="#rust">Top 20 Rust libraries</a>
              </li>          <li>
@@ -429,6 +429,14 @@
         <th><a href="https://github.com/devtron-labs/devtron" target="_blank"><img alt="Devtron" src="https://img.shields.io/github/stars/devtron-labs/devtron?style=social" /></a></th>
     </tr>
     <tr>
+        <td nowrap="nowrap"><img width="33" alt="Tolgee" src="https://libraries.github20k.com/images/uploads/2023/06/newshot-tolgee-platform.png" /></td>
+        <td>Collaboration</td>
+        <td>Kotlin</td>
+        <td><a href="https://tolgee.io" target="_blank">Tolgee</a></td>
+        <td>Developer &amp; translator friendly web-based localization platform</td>
+        <th><a href="https://github.com/tolgee/tolgee-platform" target="_blank"><img alt="Tolgee" src="https://img.shields.io/github/stars/tolgee/tolgee-platform?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="awesome window manager" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-awesome.png" /></td>
         <td>Miscellaneous</td>
         <td>Lua</td>
@@ -579,14 +587,6 @@
         <td><a href="https://prim.doseofted.me" target="_blank">Prim+RPC</a></td>
         <td>Easy-to-understand, type-safe, transport-agnostic RPC/IPC for JavaScript, supporting callbacks, batching, file uploads, custom serialization, and more.</td>
         <th><a href="https://github.com/doseofted/prim-rpc" target="_blank"><img alt="Prim+RPC" src="https://img.shields.io/github/stars/doseofted/prim-rpc?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Tolgee" src="https://libraries.github20k.com/images/uploads/2023/06/newshot-tolgee-platform.png" /></td>
-        <td>Collaboration</td>
-        <td>Kotlin</td>
-        <td><a href="https://tolgee.io" target="_blank">Tolgee</a></td>
-        <td>Developer &amp; translator friendly web-based localization platform</td>
-        <th><a href="https://github.com/tolgee/tolgee-platform" target="_blank"><img alt="Tolgee" src="https://img.shields.io/github/stars/tolgee/tolgee-platform?style=social" /></a></th>
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="Mirage JS" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-miragejs.png" /></td>
@@ -3202,20 +3202,20 @@
         <th>Stargazers</th>
     </tr>
         <tr>
-        <td nowrap="nowrap"><img width="33" alt="Unity" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-open-project-1-2.png" /></td>
-        <td>Collaboration</td>
-        <td>C#</td>
-        <td><a href="http://unity.com/open-projects" target="_blank">Unity</a></td>
-        <td>Unity Open Project #1: Chop Chop</td>
-        <th><a href="https://github.com/UnityTechnologies/open-project-1" target="_blank"><img alt="Unity" src="https://img.shields.io/github/stars/UnityTechnologies/open-project-1?style=social" /></a></th>
-    </tr>
-    <tr>
         <td nowrap="nowrap"><img width="33" alt="Tolgee" src="https://libraries.github20k.com/images/uploads/2023/06/newshot-tolgee-platform.png" /></td>
         <td>Collaboration</td>
         <td>Kotlin</td>
         <td><a href="https://tolgee.io" target="_blank">Tolgee</a></td>
         <td>Developer &amp; translator friendly web-based localization platform</td>
         <th><a href="https://github.com/tolgee/tolgee-platform" target="_blank"><img alt="Tolgee" src="https://img.shields.io/github/stars/tolgee/tolgee-platform?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Unity" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-open-project-1-2.png" /></td>
+        <td>Collaboration</td>
+        <td>C#</td>
+        <td><a href="http://unity.com/open-projects" target="_blank">Unity</a></td>
+        <td>Unity Open Project #1: Chop Chop</td>
+        <th><a href="https://github.com/UnityTechnologies/open-project-1" target="_blank"><img alt="Unity" src="https://img.shields.io/github/stars/UnityTechnologies/open-project-1?style=social" /></a></th>
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="The Lounge" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-thelounge.png" /></td>
@@ -6194,6 +6194,116 @@
 </table>
 
 <br /><br />
+<h2 id="kotlin">Top 20 Kotlin libraries</h2>
+<table>
+    <tr>
+        <th>Icon</th>
+        <th>Category</th>
+        <th>Language</th>
+        <th>Name</th>
+        <th>Description</th>
+        <th>Stargazers</th>
+    </tr>
+        <tr>
+        <td nowrap="nowrap"><img width="33" alt="Tolgee" src="https://libraries.github20k.com/images/uploads/2023/06/newshot-tolgee-platform.png" /></td>
+        <td>Collaboration</td>
+        <td>Kotlin</td>
+        <td><a href="https://tolgee.io" target="_blank">Tolgee</a></td>
+        <td>Developer &amp; translator friendly web-based localization platform</td>
+        <th><a href="https://github.com/tolgee/tolgee-platform" target="_blank"><img alt="Tolgee" src="https://img.shields.io/github/stars/tolgee/tolgee-platform?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="KeyPass" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-KeyPass.jpg" /></td>
+        <td>Security</td>
+        <td>Kotlin</td>
+        <td><a href="https://play.google.com/store/apps/details?id=com.yogeshpaliyal.keypass" target="_blank">KeyPass</a></td>
+        <td>KeyPass: Open-source &amp; offline password manager. Store, manage, take control securely.</td>
+        <th><a href="https://github.com/yogeshpaliyal/KeyPass" target="_blank"><img alt="KeyPass" src="https://img.shields.io/github/stars/yogeshpaliyal/KeyPass?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Gallery for Android" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-Gallery.jpg" /></td>
+        <td>Miscellaneous</td>
+        <td>Kotlin</td>
+        <td><a href="https://github.com/IacobIonut01/Gallery" target="_blank">Gallery for Android</a></td>
+        <td>Light-weight Media Gallery app for Android made with Jetpack Compose</td>
+        <th><a href="https://github.com/IacobIonut01/Gallery" target="_blank"><img alt="Gallery for Android" src="https://img.shields.io/github/stars/IacobIonut01/Gallery?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="SagerNet/SagerNet" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-SagerNet.png" /></td>
+        <td>Security</td>
+        <td>Kotlin</td>
+        <td><a href="https://sagernet.org" target="_blank">SagerNet/SagerNet</a></td>
+        <td>The universal proxy toolchain for Android</td>
+        <th><a href="https://github.com/SagerNet/SagerNet" target="_blank"><img alt="SagerNet/SagerNet" src="https://img.shields.io/github/stars/SagerNet/SagerNet?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="cashapp/sqldelight" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-sqldelight.png" /></td>
+        <td>Databases</td>
+        <td>Kotlin</td>
+        <td><a href="https://cashapp.github.io/sqldelight/" target="_blank">cashapp/sqldelight</a></td>
+        <td>SQLDelight - Generates typesafe Kotlin APIs from SQL</td>
+        <th><a href="https://github.com/cashapp/sqldelight" target="_blank"><img alt="cashapp/sqldelight" src="https://img.shields.io/github/stars/cashapp/sqldelight?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="LibreTube" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-LibreTube.png" /></td>
+        <td>Productivity</td>
+        <td>Kotlin</td>
+        <td><a href="https://libre-tube.github.io" target="_blank">LibreTube</a></td>
+        <td>An alternative frontend for YouTube, for Android.</td>
+        <th><a href="https://github.com/libre-tube/LibreTube" target="_blank"><img alt="LibreTube" src="https://img.shields.io/github/stars/libre-tube/LibreTube?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="detekt" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-detekt.png" /></td>
+        <td>Observability</td>
+        <td>Kotlin</td>
+        <td><a href="https://detekt.dev" target="_blank">detekt</a></td>
+        <td>Static code analysis for Kotlin</td>
+        <th><a href="https://github.com/detekt/detekt" target="_blank"><img alt="detekt" src="https://img.shields.io/github/stars/detekt/detekt?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="kickstarter/android-oss" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-android-oss.png" /></td>
+        <td>Collaboration</td>
+        <td>Kotlin</td>
+        <td><a href="https://www.kickstarter.com/mobile" target="_blank">kickstarter/android-oss</a></td>
+        <td>Kickstarter for Android. Bring new ideas to life, anywhere.</td>
+        <th><a href="https://github.com/kickstarter/android-oss" target="_blank"><img alt="kickstarter/android-oss" src="https://img.shields.io/github/stars/kickstarter/android-oss?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="pinterest/ktlint" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-ktlint-1.png" /></td>
+        <td>Productivity</td>
+        <td>Kotlin</td>
+        <td><a href="https://pinterest.github.io/ktlint/" target="_blank">pinterest/ktlint</a></td>
+        <td>An anti-bikeshedding Kotlin linter with built-in formatter</td>
+        <th><a href="https://github.com/pinterest/ktlint" target="_blank"><img alt="pinterest/ktlint" src="https://img.shields.io/github/stars/pinterest/ktlint?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Chainlist" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-chains-1.png" /></td>
+        <td>Infrastructure</td>
+        <td>Kotlin</td>
+        <td><a href="https://chainid.network" target="_blank">Chainlist</a></td>
+        <td>provides metadata for networkIDs and chainIDs</td>
+        <th><a href="https://github.com/ethereum-lists/chains" target="_blank"><img alt="Chainlist" src="https://img.shields.io/github/stars/ethereum-lists/chains?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="arrow-kt/arrow" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-arrow-1.png" /></td>
+        <td>Infrastructure</td>
+        <td>Kotlin</td>
+        <td><a href="http://arrow-kt.io" target="_blank">arrow-kt/arrow</a></td>
+        <td>Λrrow - Functional companion to Kotlin's Standard Library</td>
+        <th><a href="https://github.com/arrow-kt/arrow" target="_blank"><img alt="arrow-kt/arrow" src="https://img.shields.io/github/stars/arrow-kt/arrow?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="ACRA" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-acra-3.png" /></td>
+        <td>Observability</td>
+        <td>Kotlin</td>
+        <td><a href="https://www.acra.ch" target="_blank">ACRA</a></td>
+        <td>Application Crash Reports for Android</td>
+        <th><a href="https://github.com/ACRA/acra" target="_blank"><img alt="ACRA" src="https://img.shields.io/github/stars/ACRA/acra?style=social" /></a></th>
+    </tr>
+
+</table>
+
+<br /><br />
 <h2 id="lua">Top 20 Lua libraries</h2>
 <table>
     <tr>
@@ -6961,116 +7071,6 @@
         <td><a href="https://cucumber.io" target="_blank">Cucumber</a></td>
         <td>Cucumber for Ruby. It's amazing!</td>
         <th><a href="https://github.com/cucumber/cucumber-ruby" target="_blank"><img alt="Cucumber" src="https://img.shields.io/github/stars/cucumber/cucumber-ruby?style=social" /></a></th>
-    </tr>
-
-</table>
-
-<br /><br />
-<h2 id="kotlin">Top 20 Kotlin libraries</h2>
-<table>
-    <tr>
-        <th>Icon</th>
-        <th>Category</th>
-        <th>Language</th>
-        <th>Name</th>
-        <th>Description</th>
-        <th>Stargazers</th>
-    </tr>
-        <tr>
-        <td nowrap="nowrap"><img width="33" alt="Tolgee" src="https://libraries.github20k.com/images/uploads/2023/06/newshot-tolgee-platform.png" /></td>
-        <td>Collaboration</td>
-        <td>Kotlin</td>
-        <td><a href="https://tolgee.io" target="_blank">Tolgee</a></td>
-        <td>Developer &amp; translator friendly web-based localization platform</td>
-        <th><a href="https://github.com/tolgee/tolgee-platform" target="_blank"><img alt="Tolgee" src="https://img.shields.io/github/stars/tolgee/tolgee-platform?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="KeyPass" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-KeyPass.jpg" /></td>
-        <td>Security</td>
-        <td>Kotlin</td>
-        <td><a href="https://play.google.com/store/apps/details?id=com.yogeshpaliyal.keypass" target="_blank">KeyPass</a></td>
-        <td>KeyPass: Open-source &amp; offline password manager. Store, manage, take control securely.</td>
-        <th><a href="https://github.com/yogeshpaliyal/KeyPass" target="_blank"><img alt="KeyPass" src="https://img.shields.io/github/stars/yogeshpaliyal/KeyPass?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Gallery for Android" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-Gallery.jpg" /></td>
-        <td>Miscellaneous</td>
-        <td>Kotlin</td>
-        <td><a href="https://github.com/IacobIonut01/Gallery" target="_blank">Gallery for Android</a></td>
-        <td>Light-weight Media Gallery app for Android made with Jetpack Compose</td>
-        <th><a href="https://github.com/IacobIonut01/Gallery" target="_blank"><img alt="Gallery for Android" src="https://img.shields.io/github/stars/IacobIonut01/Gallery?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="SagerNet/SagerNet" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-SagerNet.png" /></td>
-        <td>Security</td>
-        <td>Kotlin</td>
-        <td><a href="https://sagernet.org" target="_blank">SagerNet/SagerNet</a></td>
-        <td>The universal proxy toolchain for Android</td>
-        <th><a href="https://github.com/SagerNet/SagerNet" target="_blank"><img alt="SagerNet/SagerNet" src="https://img.shields.io/github/stars/SagerNet/SagerNet?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="cashapp/sqldelight" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-sqldelight.png" /></td>
-        <td>Databases</td>
-        <td>Kotlin</td>
-        <td><a href="https://cashapp.github.io/sqldelight/" target="_blank">cashapp/sqldelight</a></td>
-        <td>SQLDelight - Generates typesafe Kotlin APIs from SQL</td>
-        <th><a href="https://github.com/cashapp/sqldelight" target="_blank"><img alt="cashapp/sqldelight" src="https://img.shields.io/github/stars/cashapp/sqldelight?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="LibreTube" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-LibreTube.png" /></td>
-        <td>Productivity</td>
-        <td>Kotlin</td>
-        <td><a href="https://libre-tube.github.io" target="_blank">LibreTube</a></td>
-        <td>An alternative frontend for YouTube, for Android.</td>
-        <th><a href="https://github.com/libre-tube/LibreTube" target="_blank"><img alt="LibreTube" src="https://img.shields.io/github/stars/libre-tube/LibreTube?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="detekt" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-detekt.png" /></td>
-        <td>Observability</td>
-        <td>Kotlin</td>
-        <td><a href="https://detekt.dev" target="_blank">detekt</a></td>
-        <td>Static code analysis for Kotlin</td>
-        <th><a href="https://github.com/detekt/detekt" target="_blank"><img alt="detekt" src="https://img.shields.io/github/stars/detekt/detekt?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="kickstarter/android-oss" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-android-oss.png" /></td>
-        <td>Collaboration</td>
-        <td>Kotlin</td>
-        <td><a href="https://www.kickstarter.com/mobile" target="_blank">kickstarter/android-oss</a></td>
-        <td>Kickstarter for Android. Bring new ideas to life, anywhere.</td>
-        <th><a href="https://github.com/kickstarter/android-oss" target="_blank"><img alt="kickstarter/android-oss" src="https://img.shields.io/github/stars/kickstarter/android-oss?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="pinterest/ktlint" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-ktlint-1.png" /></td>
-        <td>Productivity</td>
-        <td>Kotlin</td>
-        <td><a href="https://pinterest.github.io/ktlint/" target="_blank">pinterest/ktlint</a></td>
-        <td>An anti-bikeshedding Kotlin linter with built-in formatter</td>
-        <th><a href="https://github.com/pinterest/ktlint" target="_blank"><img alt="pinterest/ktlint" src="https://img.shields.io/github/stars/pinterest/ktlint?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Chainlist" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-chains-1.png" /></td>
-        <td>Infrastructure</td>
-        <td>Kotlin</td>
-        <td><a href="https://chainid.network" target="_blank">Chainlist</a></td>
-        <td>provides metadata for networkIDs and chainIDs</td>
-        <th><a href="https://github.com/ethereum-lists/chains" target="_blank"><img alt="Chainlist" src="https://img.shields.io/github/stars/ethereum-lists/chains?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="arrow-kt/arrow" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-arrow-1.png" /></td>
-        <td>Infrastructure</td>
-        <td>Kotlin</td>
-        <td><a href="http://arrow-kt.io" target="_blank">arrow-kt/arrow</a></td>
-        <td>Λrrow - Functional companion to Kotlin's Standard Library</td>
-        <th><a href="https://github.com/arrow-kt/arrow" target="_blank"><img alt="arrow-kt/arrow" src="https://img.shields.io/github/stars/arrow-kt/arrow?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="ACRA" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-acra-3.png" /></td>
-        <td>Observability</td>
-        <td>Kotlin</td>
-        <td><a href="https://www.acra.ch" target="_blank">ACRA</a></td>
-        <td>Application Crash Reports for Android</td>
-        <th><a href="https://github.com/ACRA/acra" target="_blank"><img alt="ACRA" src="https://img.shields.io/github/stars/ACRA/acra?style=social" /></a></th>
     </tr>
 
 </table>
