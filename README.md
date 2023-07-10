@@ -142,6 +142,14 @@
         <th>Stargazers</th>
     </tr>
         <tr>
+        <td nowrap="nowrap"><img width="33" alt="skynet-mingw" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-skynet-mingw.png" /></td>
+        <td>Infrastructure</td>
+        <td>C</td>
+        <td><a href="http://blog.dpull.com/post/2015-11-08-skynet_mingw" target="_blank">skynet-mingw</a></td>
+        <td>对skynet无任何改动的windows版</td>
+        <th><a href="https://github.com/dpull/skynet-mingw" target="_blank"><img alt="skynet-mingw" src="https://img.shields.io/github/stars/dpull/skynet-mingw?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="Fancy Time" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-fancy-time.png" /></td>
         <td>Productivity</td>
         <td>JavaScript</td>
@@ -292,14 +300,6 @@
         <td><a href="https://slidy-core.surge.sh/" target="_blank">Slidy</a></td>
         <td><g-emoji class="g-emoji" alias="camera_flash" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4f8.png">?</g-emoji> Sliding action script</td>
         <th><a href="https://github.com/Valexr/Slidy" target="_blank"><img alt="Slidy" src="https://img.shields.io/github/stars/Valexr/Slidy?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Awesome_Dynamic_SLAM" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-Awesome_Dynamic_SLAM.png" /></td>
-        <td>Collaboration</td>
-        <td>undefined</td>
-        <td><a href="https://github.com/zhuhu00/Awesome_Dynamic_SLAM" target="_blank">Awesome_Dynamic_SLAM</a></td>
-        <td>Dynamic SLAM, Life-long SLAM Research(Lidar, Visual, Sensor Fusion etc.) </td>
-        <th><a href="https://github.com/zhuhu00/Awesome_Dynamic_SLAM" target="_blank"><img alt="Awesome_Dynamic_SLAM" src="https://img.shields.io/github/stars/zhuhu00/Awesome_Dynamic_SLAM?style=social" /></a></th>
     </tr>
 
 </table>
@@ -4515,6 +4515,14 @@
         <td>JHipster is a development platform to quickly generate, develop, &amp; deploy modern web applications &amp; microservice architectures.</td>
         <th><a href="https://github.com/jhipster/generator-jhipster" target="_blank"><img alt="JHipster" src="https://img.shields.io/github/stars/jhipster/generator-jhipster?style=social" /></a></th>
     </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="skynet-mingw" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-skynet-mingw.png" /></td>
+        <td>Infrastructure</td>
+        <td>C</td>
+        <td><a href="http://blog.dpull.com/post/2015-11-08-skynet_mingw" target="_blank">skynet-mingw</a></td>
+        <td>对skynet无任何改动的windows版</td>
+        <th><a href="https://github.com/dpull/skynet-mingw" target="_blank"><img alt="skynet-mingw" src="https://img.shields.io/github/stars/dpull/skynet-mingw?style=social" /></a></th>
+    </tr>
 
 </table>
 
@@ -7673,6 +7681,14 @@
         <td><a href="https://zxe.io/software/Z80" target="_blank">Z80</a></td>
         <td>Highly portable Zilog Z80 CPU emulator written in ANSI C</td>
         <th><a href="https://github.com/redcode/Z80" target="_blank"><img alt="Z80" src="https://img.shields.io/github/stars/redcode/Z80?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="skynet-mingw" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-skynet-mingw.png" /></td>
+        <td>Infrastructure</td>
+        <td>C</td>
+        <td><a href="http://blog.dpull.com/post/2015-11-08-skynet_mingw" target="_blank">skynet-mingw</a></td>
+        <td>对skynet无任何改动的windows版</td>
+        <th><a href="https://github.com/dpull/skynet-mingw" target="_blank"><img alt="skynet-mingw" src="https://img.shields.io/github/stars/dpull/skynet-mingw?style=social" /></a></th>
     </tr>
 
 </table>
