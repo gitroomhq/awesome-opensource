@@ -142,6 +142,22 @@
         <th>Stargazers</th>
     </tr>
         <tr>
+        <td nowrap="nowrap"><img width="33" alt="ngx-echarts" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-ngx-echarts.jpg" /></td>
+        <td>Productivity</td>
+        <td>TypeScript</td>
+        <td><a href="https://xieziyu.github.io/ngx-echarts/" target="_blank">ngx-echarts</a></td>
+        <td>An angular (ver &gt;= 2.x) directive for ECharts (ver &gt;= 3.x)</td>
+        <th><a href="https://github.com/xieziyu/ngx-echarts" target="_blank"><img alt="ngx-echarts" src="https://img.shields.io/github/stars/xieziyu/ngx-echarts?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="ChartGPT SVG Creator" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-chatgpt-svg-creator-web.jpg" /></td>
+        <td>Productivity</td>
+        <td>TypeScript</td>
+        <td><a href="https://chatgpt-svg-creator-web.vercel.app" target="_blank">ChartGPT SVG Creator</a></td>
+        <td>A small tool for creating, modifying, and previewing SVGs using ChatGPT</td>
+        <th><a href="https://github.com/xieziyu/chatgpt-svg-creator-web" target="_blank"><img alt="ChartGPT SVG Creator" src="https://img.shields.io/github/stars/xieziyu/chatgpt-svg-creator-web?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="skynet-mingw" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-skynet-mingw.png" /></td>
         <td>Infrastructure</td>
         <td>C</td>
@@ -284,22 +300,6 @@
         <td><a href="https://homething.io" target="_blank">homeThing</a></td>
         <td>wifi smart home remote with display that runs on ESPHome. Uses on Lilygo T-Display or M5Stack Fire</td>
         <th><a href="https://github.com/landonr/homeThing" target="_blank"><img alt="homeThing" src="https://img.shields.io/github/stars/landonr/homeThing?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Neural Gauge Fields" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-Neural-Gauge-Fields.jpg" /></td>
-        <td>Miscellaneous</td>
-        <td>Python</td>
-        <td><a href="https://fnzhan.com/neural-gauge-fields" target="_blank">Neural Gauge Fields</a></td>
-        <td>General Neural Gauge Fields [ICLR 2023]</td>
-        <th><a href="https://github.com/fnzhan/Neural-Gauge-Fields" target="_blank"><img alt="Neural Gauge Fields" src="https://img.shields.io/github/stars/fnzhan/Neural-Gauge-Fields?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Slidy" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-Slidy.png" /></td>
-        <td>Miscellaneous</td>
-        <td>TypeScript</td>
-        <td><a href="https://slidy-core.surge.sh/" target="_blank">Slidy</a></td>
-        <td><g-emoji class="g-emoji" alias="camera_flash" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4f8.png">?</g-emoji> Sliding action script</td>
-        <th><a href="https://github.com/Valexr/Slidy" target="_blank"><img alt="Slidy" src="https://img.shields.io/github/stars/Valexr/Slidy?style=social" /></a></th>
     </tr>
 
 </table>
@@ -2726,6 +2726,22 @@
         <td><a href="https://github.com/zNotChill/fancy-time" target="_blank">Fancy Time</a></td>
         <td>A simple package for converting Unix to Readable.</td>
         <th><a href="https://github.com/zNotChill/fancy-time" target="_blank"><img alt="Fancy Time" src="https://img.shields.io/github/stars/zNotChill/fancy-time?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="ngx-echarts" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-ngx-echarts.jpg" /></td>
+        <td>Productivity</td>
+        <td>TypeScript</td>
+        <td><a href="https://xieziyu.github.io/ngx-echarts/" target="_blank">ngx-echarts</a></td>
+        <td>An angular (ver &gt;= 2.x) directive for ECharts (ver &gt;= 3.x)</td>
+        <th><a href="https://github.com/xieziyu/ngx-echarts" target="_blank"><img alt="ngx-echarts" src="https://img.shields.io/github/stars/xieziyu/ngx-echarts?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="ChartGPT SVG Creator" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-chatgpt-svg-creator-web.jpg" /></td>
+        <td>Productivity</td>
+        <td>TypeScript</td>
+        <td><a href="https://chatgpt-svg-creator-web.vercel.app" target="_blank">ChartGPT SVG Creator</a></td>
+        <td>A small tool for creating, modifying, and previewing SVGs using ChatGPT</td>
+        <th><a href="https://github.com/xieziyu/chatgpt-svg-creator-web" target="_blank"><img alt="ChartGPT SVG Creator" src="https://img.shields.io/github/stars/xieziyu/chatgpt-svg-creator-web?style=social" /></a></th>
     </tr>
 
 </table>
@@ -5193,6 +5209,22 @@
         <td><a href="https://www.jhipster.tech" target="_blank">JHipster</a></td>
         <td>JHipster is a development platform to quickly generate, develop, &amp; deploy modern web applications &amp; microservice architectures.</td>
         <th><a href="https://github.com/jhipster/generator-jhipster" target="_blank"><img alt="JHipster" src="https://img.shields.io/github/stars/jhipster/generator-jhipster?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="ngx-echarts" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-ngx-echarts.jpg" /></td>
+        <td>Productivity</td>
+        <td>TypeScript</td>
+        <td><a href="https://xieziyu.github.io/ngx-echarts/" target="_blank">ngx-echarts</a></td>
+        <td>An angular (ver &gt;= 2.x) directive for ECharts (ver &gt;= 3.x)</td>
+        <th><a href="https://github.com/xieziyu/ngx-echarts" target="_blank"><img alt="ngx-echarts" src="https://img.shields.io/github/stars/xieziyu/ngx-echarts?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="ChartGPT SVG Creator" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-chatgpt-svg-creator-web.jpg" /></td>
+        <td>Productivity</td>
+        <td>TypeScript</td>
+        <td><a href="https://chatgpt-svg-creator-web.vercel.app" target="_blank">ChartGPT SVG Creator</a></td>
+        <td>A small tool for creating, modifying, and previewing SVGs using ChatGPT</td>
+        <th><a href="https://github.com/xieziyu/chatgpt-svg-creator-web" target="_blank"><img alt="ChartGPT SVG Creator" src="https://img.shields.io/github/stars/xieziyu/chatgpt-svg-creator-web?style=social" /></a></th>
     </tr>
 
 </table>
