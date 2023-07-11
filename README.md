@@ -176,6 +176,14 @@
         <th><a href="https://github.com/PaulRBerg/foundry-template" target="_blank"><img alt="Foundry Template" src="https://img.shields.io/github/stars/PaulRBerg/foundry-template?style=social" /></a></th>
     </tr>
     <tr>
+        <td nowrap="nowrap"><img width="33" alt="CXXGraph" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-CXXGraph.png" /></td>
+        <td>Infrastructure</td>
+        <td>C++</td>
+        <td><a href="https://zigrazor.github.io/CXXGraph/" target="_blank">CXXGraph</a></td>
+        <td>Header-Only C++ Library for Graph Representation and Algorithms</td>
+        <th><a href="https://github.com/ZigRazor/CXXGraph" target="_blank"><img alt="CXXGraph" src="https://img.shields.io/github/stars/ZigRazor/CXXGraph?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="skynet-mingw" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-skynet-mingw.png" /></td>
         <td>Infrastructure</td>
         <td>C</td>
@@ -294,14 +302,6 @@
         <td><a href="https://www.npmjs.com/package/discord.js-collector-utils" target="_blank">discord.js Collector Utils</a></td>
         <td>Npm package - Collector utilities for discord.js.</td>
         <th><a href="https://github.com/KevinNovak/discord.js-Collector-Utils" target="_blank"><img alt="discord.js Collector Utils" src="https://img.shields.io/github/stars/KevinNovak/discord.js-Collector-Utils?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Z80" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-Z80.png" /></td>
-        <td>Miscellaneous</td>
-        <td>C</td>
-        <td><a href="https://zxe.io/software/Z80" target="_blank">Z80</a></td>
-        <td>Highly portable Zilog Z80 CPU emulator written in ANSI C</td>
-        <th><a href="https://github.com/redcode/Z80" target="_blank"><img alt="Z80" src="https://img.shields.io/github/stars/redcode/Z80?style=social" /></a></th>
     </tr>
 
 </table>
@@ -4557,6 +4557,14 @@
         <td>对skynet无任何改动的windows版</td>
         <th><a href="https://github.com/dpull/skynet-mingw" target="_blank"><img alt="skynet-mingw" src="https://img.shields.io/github/stars/dpull/skynet-mingw?style=social" /></a></th>
     </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="CXXGraph" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-CXXGraph.png" /></td>
+        <td>Infrastructure</td>
+        <td>C++</td>
+        <td><a href="https://zigrazor.github.io/CXXGraph/" target="_blank">CXXGraph</a></td>
+        <td>Header-Only C++ Library for Graph Representation and Algorithms</td>
+        <th><a href="https://github.com/ZigRazor/CXXGraph" target="_blank"><img alt="CXXGraph" src="https://img.shields.io/github/stars/ZigRazor/CXXGraph?style=social" /></a></th>
+    </tr>
 
 </table>
 
@@ -7521,6 +7529,14 @@
         <td><a href="https://github.com/viren-sureja/Love-Babbar-450" target="_blank">Love Babbar 450 DSA</a></td>
         <td>Solution of the problems listed in DSA cracker sheet made by Love Babbar, with resources and some notes.</td>
         <th><a href="https://github.com/viren-sureja/Love-Babbar-450" target="_blank"><img alt="Love Babbar 450 DSA" src="https://img.shields.io/github/stars/viren-sureja/Love-Babbar-450?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="CXXGraph" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-CXXGraph.png" /></td>
+        <td>Infrastructure</td>
+        <td>C++</td>
+        <td><a href="https://zigrazor.github.io/CXXGraph/" target="_blank">CXXGraph</a></td>
+        <td>Header-Only C++ Library for Graph Representation and Algorithms</td>
+        <th><a href="https://github.com/ZigRazor/CXXGraph" target="_blank"><img alt="CXXGraph" src="https://img.shields.io/github/stars/ZigRazor/CXXGraph?style=social" /></a></th>
     </tr>
 
 </table>
