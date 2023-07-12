@@ -184,6 +184,14 @@
         <th><a href="https://github.com/ZigRazor/CXXGraph" target="_blank"><img alt="CXXGraph" src="https://img.shields.io/github/stars/ZigRazor/CXXGraph?style=social" /></a></th>
     </tr>
     <tr>
+        <td nowrap="nowrap"><img width="33" alt="Grail UI" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-grail-ui.png" /></td>
+        <td>Productivity</td>
+        <td>TypeScript</td>
+        <td><a href="https://grail-ui.vercel.app/" target="_blank">Grail UI</a></td>
+        <td>A library of accessible component primitives, actions and utilities for Svelte.</td>
+        <th><a href="https://github.com/grail-ui/grail-ui" target="_blank"><img alt="Grail UI" src="https://img.shields.io/github/stars/grail-ui/grail-ui?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="skynet-mingw" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-skynet-mingw.png" /></td>
         <td>Infrastructure</td>
         <td>C</td>
@@ -294,14 +302,6 @@
         <td><a href="https://www.npmjs.com/package/linguini" target="_blank">Linguini</a></td>
         <td>Npm package - A JSON-based translation file manager.</td>
         <th><a href="https://github.com/KevinNovak/Linguini" target="_blank"><img alt="Linguini" src="https://img.shields.io/github/stars/KevinNovak/Linguini?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="discord.js Collector Utils" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-discord.js-Collector-Utils.png" /></td>
-        <td>Infrastructure</td>
-        <td>TypeScript</td>
-        <td><a href="https://www.npmjs.com/package/discord.js-collector-utils" target="_blank">discord.js Collector Utils</a></td>
-        <td>Npm package - Collector utilities for discord.js.</td>
-        <th><a href="https://github.com/KevinNovak/discord.js-Collector-Utils" target="_blank"><img alt="discord.js Collector Utils" src="https://img.shields.io/github/stars/KevinNovak/discord.js-Collector-Utils?style=social" /></a></th>
     </tr>
 
 </table>
@@ -2760,6 +2760,14 @@
         <td><a href="https://github.com/PaulRBerg/foundry-template" target="_blank">Foundry Template</a></td>
         <td>Foundry-based template for developing Solidity smart contracts</td>
         <th><a href="https://github.com/PaulRBerg/foundry-template" target="_blank"><img alt="Foundry Template" src="https://img.shields.io/github/stars/PaulRBerg/foundry-template?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Grail UI" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-grail-ui.png" /></td>
+        <td>Productivity</td>
+        <td>TypeScript</td>
+        <td><a href="https://grail-ui.vercel.app/" target="_blank">Grail UI</a></td>
+        <td>A library of accessible component primitives, actions and utilities for Svelte.</td>
+        <th><a href="https://github.com/grail-ui/grail-ui" target="_blank"><img alt="Grail UI" src="https://img.shields.io/github/stars/grail-ui/grail-ui?style=social" /></a></th>
     </tr>
 
 </table>
@@ -5259,6 +5267,14 @@
         <td><a href="https://chatgpt-svg-creator-web.vercel.app" target="_blank">ChartGPT SVG Creator</a></td>
         <td>A small tool for creating, modifying, and previewing SVGs using ChatGPT</td>
         <th><a href="https://github.com/xieziyu/chatgpt-svg-creator-web" target="_blank"><img alt="ChartGPT SVG Creator" src="https://img.shields.io/github/stars/xieziyu/chatgpt-svg-creator-web?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Grail UI" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-grail-ui.png" /></td>
+        <td>Productivity</td>
+        <td>TypeScript</td>
+        <td><a href="https://grail-ui.vercel.app/" target="_blank">Grail UI</a></td>
+        <td>A library of accessible component primitives, actions and utilities for Svelte.</td>
+        <th><a href="https://github.com/grail-ui/grail-ui" target="_blank"><img alt="Grail UI" src="https://img.shields.io/github/stars/grail-ui/grail-ui?style=social" /></a></th>
     </tr>
 
 </table>
