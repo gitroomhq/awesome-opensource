@@ -144,6 +144,14 @@
         <th>Stargazers</th>
     </tr>
         <tr>
+        <td nowrap="nowrap"><img width="33" alt="ZJU Rule" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-ZJU-Rule.png" /></td>
+        <td>Productivity</td>
+        <td>undefined</td>
+        <td><a href="https://zjurule.xyz" target="_blank">ZJU Rule</a></td>
+        <td>ZJU Clash 分流规则</td>
+        <th><a href="https://github.com/Mythologyli/ZJU-Rule" target="_blank"><img alt="ZJU Rule" src="https://img.shields.io/github/stars/Mythologyli/ZJU-Rule?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="dyrector.io" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-dyrectorio.jpg" /></td>
         <td>Productivity</td>
         <td>TypeScript</td>
@@ -294,14 +302,6 @@
         <td><a href="https://github.com/ucasligang/awesome-MIM" target="_blank">awesome-MIM</a></td>
         <td>Reading list for research topics in Masked Image Modeling</td>
         <th><a href="https://github.com/ucasligang/awesome-MIM" target="_blank"><img alt="awesome-MIM" src="https://img.shields.io/github/stars/ucasligang/awesome-MIM?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Linguini" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-Linguini.png" /></td>
-        <td>Infrastructure</td>
-        <td>TypeScript</td>
-        <td><a href="https://www.npmjs.com/package/linguini" target="_blank">Linguini</a></td>
-        <td>Npm package - A JSON-based translation file manager.</td>
-        <th><a href="https://github.com/KevinNovak/Linguini" target="_blank"><img alt="Linguini" src="https://img.shields.io/github/stars/KevinNovak/Linguini?style=social" /></a></th>
     </tr>
 
 </table>
@@ -2768,6 +2768,14 @@
         <td><a href="https://grail-ui.vercel.app/" target="_blank">Grail UI</a></td>
         <td>A library of accessible component primitives, actions and utilities for Svelte.</td>
         <th><a href="https://github.com/grail-ui/grail-ui" target="_blank"><img alt="Grail UI" src="https://img.shields.io/github/stars/grail-ui/grail-ui?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="ZJU Rule" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-ZJU-Rule.png" /></td>
+        <td>Productivity</td>
+        <td>undefined</td>
+        <td><a href="https://zjurule.xyz" target="_blank">ZJU Rule</a></td>
+        <td>ZJU Clash 分流规则</td>
+        <th><a href="https://github.com/Mythologyli/ZJU-Rule" target="_blank"><img alt="ZJU Rule" src="https://img.shields.io/github/stars/Mythologyli/ZJU-Rule?style=social" /></a></th>
     </tr>
 
 </table>
