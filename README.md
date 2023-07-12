@@ -127,6 +127,8 @@
                 <a href="#cairo">Top 20 Cairo libraries</a>
              </li>          <li>
                 <a href="#solidity">Top 20 Solidity libraries</a>
+             </li>          <li>
+                <a href="#pascal">Top 20 Pascal libraries</a>
              </li>        
         </ul>
     </li>
@@ -150,6 +152,22 @@
         <td><a href="https://zjurule.xyz" target="_blank">ZJU Rule</a></td>
         <td>ZJU Clash 分流规则</td>
         <th><a href="https://github.com/Mythologyli/ZJU-Rule" target="_blank"><img alt="ZJU Rule" src="https://img.shields.io/github/stars/Mythologyli/ZJU-Rule?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="CnPack IDE Wizards" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-cnwizards.png" /></td>
+        <td>Productivity</td>
+        <td>Pascal</td>
+        <td><a href="http://www.cnpack.org" target="_blank">CnPack IDE Wizards</a></td>
+        <td>CnPack IDE Wizards</td>
+        <th><a href="https://github.com/cnpack/cnwizards" target="_blank"><img alt="CnPack IDE Wizards" src="https://img.shields.io/github/stars/cnpack/cnwizards?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="CnPack Component Package" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-cnvcl.png" /></td>
+        <td>Productivity</td>
+        <td>Pascal</td>
+        <td><a href="http://www.cnpack.org" target="_blank">CnPack Component Package</a></td>
+        <td>CnPack VCL Components</td>
+        <th><a href="https://github.com/cnpack/cnvcl" target="_blank"><img alt="CnPack Component Package" src="https://img.shields.io/github/stars/cnpack/cnvcl?style=social" /></a></th>
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="dyrector.io" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-dyrectorio.jpg" /></td>
@@ -286,22 +304,6 @@
         <td><a href="https://pypi.org/project/smogn" target="_blank">SMOGN: Synthetic Minority Over-Sampling Technique for Regression with Gaussian Noise</a></td>
         <td>Synthetic Minority Over-Sampling Technique for Regression</td>
         <th><a href="https://github.com/nickkunz/smogn" target="_blank"><img alt="SMOGN: Synthetic Minority Over-Sampling Technique for Regression with Gaussian Noise" src="https://img.shields.io/github/stars/nickkunz/smogn?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="HumanML3D" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-HumanML3D.jpg" /></td>
-        <td>Productivity</td>
-        <td>Python</td>
-        <td><a href="https://github.com/EricGuo5513/HumanML3D" target="_blank">HumanML3D</a></td>
-        <td>HumanML3D: A large and diverse 3d human motion-language dataset.</td>
-        <th><a href="https://github.com/EricGuo5513/HumanML3D" target="_blank"><img alt="HumanML3D" src="https://img.shields.io/github/stars/EricGuo5513/HumanML3D?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="awesome-MIM" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-awesome-MIM.png" /></td>
-        <td>Analytics</td>
-        <td>undefined</td>
-        <td><a href="https://github.com/ucasligang/awesome-MIM" target="_blank">awesome-MIM</a></td>
-        <td>Reading list for research topics in Masked Image Modeling</td>
-        <th><a href="https://github.com/ucasligang/awesome-MIM" target="_blank"><img alt="awesome-MIM" src="https://img.shields.io/github/stars/ucasligang/awesome-MIM?style=social" /></a></th>
     </tr>
 
 </table>
@@ -2776,6 +2778,22 @@
         <td><a href="https://zjurule.xyz" target="_blank">ZJU Rule</a></td>
         <td>ZJU Clash 分流规则</td>
         <th><a href="https://github.com/Mythologyli/ZJU-Rule" target="_blank"><img alt="ZJU Rule" src="https://img.shields.io/github/stars/Mythologyli/ZJU-Rule?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="CnPack IDE Wizards" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-cnwizards.png" /></td>
+        <td>Productivity</td>
+        <td>Pascal</td>
+        <td><a href="http://www.cnpack.org" target="_blank">CnPack IDE Wizards</a></td>
+        <td>CnPack IDE Wizards</td>
+        <th><a href="https://github.com/cnpack/cnwizards" target="_blank"><img alt="CnPack IDE Wizards" src="https://img.shields.io/github/stars/cnpack/cnwizards?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="CnPack Component Package" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-cnvcl.png" /></td>
+        <td>Productivity</td>
+        <td>Pascal</td>
+        <td><a href="http://www.cnpack.org" target="_blank">CnPack Component Package</a></td>
+        <td>CnPack VCL Components</td>
+        <th><a href="https://github.com/cnpack/cnvcl" target="_blank"><img alt="CnPack Component Package" src="https://img.shields.io/github/stars/cnpack/cnvcl?style=social" /></a></th>
     </tr>
 
 </table>
@@ -8483,6 +8501,36 @@
         <td><a href="https://github.com/PaulRBerg/foundry-template" target="_blank">Foundry Template</a></td>
         <td>Foundry-based template for developing Solidity smart contracts</td>
         <th><a href="https://github.com/PaulRBerg/foundry-template" target="_blank"><img alt="Foundry Template" src="https://img.shields.io/github/stars/PaulRBerg/foundry-template?style=social" /></a></th>
+    </tr>
+
+</table>
+
+<br /><br />
+<h2 id="pascal">Top 20 Pascal libraries</h2>
+<table>
+    <tr>
+        <th>Icon</th>
+        <th>Category</th>
+        <th>Language</th>
+        <th>Name</th>
+        <th>Description</th>
+        <th>Stargazers</th>
+    </tr>
+        <tr>
+        <td nowrap="nowrap"><img width="33" alt="CnPack IDE Wizards" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-cnwizards.png" /></td>
+        <td>Productivity</td>
+        <td>Pascal</td>
+        <td><a href="http://www.cnpack.org" target="_blank">CnPack IDE Wizards</a></td>
+        <td>CnPack IDE Wizards</td>
+        <th><a href="https://github.com/cnpack/cnwizards" target="_blank"><img alt="CnPack IDE Wizards" src="https://img.shields.io/github/stars/cnpack/cnwizards?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="CnPack Component Package" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-cnvcl.png" /></td>
+        <td>Productivity</td>
+        <td>Pascal</td>
+        <td><a href="http://www.cnpack.org" target="_blank">CnPack Component Package</a></td>
+        <td>CnPack VCL Components</td>
+        <th><a href="https://github.com/cnpack/cnvcl" target="_blank"><img alt="CnPack Component Package" src="https://img.shields.io/github/stars/cnpack/cnvcl?style=social" /></a></th>
     </tr>
 
 </table>
