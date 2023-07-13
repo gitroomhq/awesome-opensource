@@ -146,6 +146,30 @@
         <th>Stargazers</th>
     </tr>
         <tr>
+        <td nowrap="nowrap"><img width="33" alt="PyPOTS" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-PyPOTS.jpg" /></td>
+        <td>Analytics</td>
+        <td>Python</td>
+        <td><a href="https://pypots.com" target="_blank">PyPOTS</a></td>
+        <td>A python toolbox/library for data mining on partially-observed time series with PyTorch, including SOTA models supporting tasks of imputation, classification, clustering, and forecasting on incompl…</td>
+        <th><a href="https://github.com/WenjieDu/PyPOTS" target="_blank"><img alt="PyPOTS" src="https://img.shields.io/github/stars/WenjieDu/PyPOTS?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Qwerty Learner" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-qwerty-learner.jpg" /></td>
+        <td>Productivity</td>
+        <td>TypeScript</td>
+        <td><a href="https://qwerty.kaiyi.cool/" target="_blank">Qwerty Learner</a></td>
+        <td>为键盘工作者设计的单词记忆与英语肌肉记忆锻炼软件 / Words learning and English muscle memory training software designed for keyboard workers</td>
+        <th><a href="https://github.com/Kaiyiwing/qwerty-learner" target="_blank"><img alt="Qwerty Learner" src="https://img.shields.io/github/stars/Kaiyiwing/qwerty-learner?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Qwerty Learner VSCode" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-qwerty-learner-vscode.jpg" /></td>
+        <td>Productivity</td>
+        <td>TypeScript</td>
+        <td><a href="https://marketplace.visualstudio.com/items?itemName=Kaiyi.qwerty-learner" target="_blank">Qwerty Learner VSCode</a></td>
+        <td>为键盘工作者设计的单词记忆与英语肌肉记忆锻炼软件 VSCode 摸<g-emoji class="g-emoji" alias="fish" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f41f.png">?</g-emoji>版 / Words learning and English muscle memory training software designed for keyboard workers for VSCode</td>
+        <th><a href="https://github.com/Kaiyiwing/qwerty-learner-vscode" target="_blank"><img alt="Qwerty Learner VSCode" src="https://img.shields.io/github/stars/Kaiyiwing/qwerty-learner-vscode?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="ZJU Rule" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-ZJU-Rule.png" /></td>
         <td>Productivity</td>
         <td>undefined</td>
@@ -280,30 +304,6 @@
         <td><a href="https://github.com/kentaroy47/vision-transformers-cifar10" target="_blank">Vision-transformers-cifar10</a></td>
         <td>Let's train vision transformers (ViT) for cifar 10! </td>
         <th><a href="https://github.com/kentaroy47/vision-transformers-cifar10" target="_blank"><img alt="Vision-transformers-cifar10" src="https://img.shields.io/github/stars/kentaroy47/vision-transformers-cifar10?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Log Viewer" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-log-viewer.png" /></td>
-        <td>Observability</td>
-        <td>Java</td>
-        <td><a href="https://github.com/sevdokimov/log-viewer" target="_blank">Log Viewer</a></td>
-        <td>Web UI to viewing logs</td>
-        <th><a href="https://github.com/sevdokimov/log-viewer" target="_blank"><img alt="Log Viewer" src="https://img.shields.io/github/stars/sevdokimov/log-viewer?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Boytacean" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-boytacean.png" /></td>
-        <td>Miscellaneous</td>
-        <td>Rust</td>
-        <td><a href="https://boytacean.joao.me" target="_blank">Boytacean</a></td>
-        <td>A GB emulator that is written in Rust <g-emoji class="g-emoji" alias="crab" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f980.png">?</g-emoji>!</td>
-        <th><a href="https://github.com/joamag/boytacean" target="_blank"><img alt="Boytacean" src="https://img.shields.io/github/stars/joamag/boytacean?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="SMOGN: Synthetic Minority Over-Sampling Technique for Regression with Gaussian Noise" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-smogn.jpg" /></td>
-        <td>Analytics</td>
-        <td>Python</td>
-        <td><a href="https://pypi.org/project/smogn" target="_blank">SMOGN: Synthetic Minority Over-Sampling Technique for Regression with Gaussian Noise</a></td>
-        <td>Synthetic Minority Over-Sampling Technique for Regression</td>
-        <th><a href="https://github.com/nickkunz/smogn" target="_blank"><img alt="SMOGN: Synthetic Minority Over-Sampling Technique for Regression with Gaussian Noise" src="https://img.shields.io/github/stars/nickkunz/smogn?style=social" /></a></th>
     </tr>
 
 </table>
@@ -2795,6 +2795,22 @@
         <td>CnPack VCL Components</td>
         <th><a href="https://github.com/cnpack/cnvcl" target="_blank"><img alt="CnPack Component Package" src="https://img.shields.io/github/stars/cnpack/cnvcl?style=social" /></a></th>
     </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Qwerty Learner" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-qwerty-learner.jpg" /></td>
+        <td>Productivity</td>
+        <td>TypeScript</td>
+        <td><a href="https://qwerty.kaiyi.cool/" target="_blank">Qwerty Learner</a></td>
+        <td>为键盘工作者设计的单词记忆与英语肌肉记忆锻炼软件 / Words learning and English muscle memory training software designed for keyboard workers</td>
+        <th><a href="https://github.com/Kaiyiwing/qwerty-learner" target="_blank"><img alt="Qwerty Learner" src="https://img.shields.io/github/stars/Kaiyiwing/qwerty-learner?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Qwerty Learner VSCode" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-qwerty-learner-vscode.jpg" /></td>
+        <td>Productivity</td>
+        <td>TypeScript</td>
+        <td><a href="https://marketplace.visualstudio.com/items?itemName=Kaiyi.qwerty-learner" target="_blank">Qwerty Learner VSCode</a></td>
+        <td>为键盘工作者设计的单词记忆与英语肌肉记忆锻炼软件 VSCode 摸<g-emoji class="g-emoji" alias="fish" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f41f.png">?</g-emoji>版 / Words learning and English muscle memory training software designed for keyboard workers for VSCode</td>
+        <th><a href="https://github.com/Kaiyiwing/qwerty-learner-vscode" target="_blank"><img alt="Qwerty Learner VSCode" src="https://img.shields.io/github/stars/Kaiyiwing/qwerty-learner-vscode?style=social" /></a></th>
+    </tr>
 
 </table>
 
@@ -2968,6 +2984,14 @@
         <td><a href="https://pypi.org/project/smogn" target="_blank">SMOGN: Synthetic Minority Over-Sampling Technique for Regression with Gaussian Noise</a></td>
         <td>Synthetic Minority Over-Sampling Technique for Regression</td>
         <th><a href="https://github.com/nickkunz/smogn" target="_blank"><img alt="SMOGN: Synthetic Minority Over-Sampling Technique for Regression with Gaussian Noise" src="https://img.shields.io/github/stars/nickkunz/smogn?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="PyPOTS" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-PyPOTS.jpg" /></td>
+        <td>Analytics</td>
+        <td>Python</td>
+        <td><a href="https://pypots.com" target="_blank">PyPOTS</a></td>
+        <td>A python toolbox/library for data mining on partially-observed time series with PyTorch, including SOTA models supporting tasks of imputation, classification, clustering, and forecasting on incompl…</td>
+        <th><a href="https://github.com/WenjieDu/PyPOTS" target="_blank"><img alt="PyPOTS" src="https://img.shields.io/github/stars/WenjieDu/PyPOTS?style=social" /></a></th>
     </tr>
 
 </table>
@@ -5302,6 +5326,22 @@
         <td>A library of accessible component primitives, actions and utilities for Svelte.</td>
         <th><a href="https://github.com/grail-ui/grail-ui" target="_blank"><img alt="Grail UI" src="https://img.shields.io/github/stars/grail-ui/grail-ui?style=social" /></a></th>
     </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Qwerty Learner" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-qwerty-learner.jpg" /></td>
+        <td>Productivity</td>
+        <td>TypeScript</td>
+        <td><a href="https://qwerty.kaiyi.cool/" target="_blank">Qwerty Learner</a></td>
+        <td>为键盘工作者设计的单词记忆与英语肌肉记忆锻炼软件 / Words learning and English muscle memory training software designed for keyboard workers</td>
+        <th><a href="https://github.com/Kaiyiwing/qwerty-learner" target="_blank"><img alt="Qwerty Learner" src="https://img.shields.io/github/stars/Kaiyiwing/qwerty-learner?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Qwerty Learner VSCode" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-qwerty-learner-vscode.jpg" /></td>
+        <td>Productivity</td>
+        <td>TypeScript</td>
+        <td><a href="https://marketplace.visualstudio.com/items?itemName=Kaiyi.qwerty-learner" target="_blank">Qwerty Learner VSCode</a></td>
+        <td>为键盘工作者设计的单词记忆与英语肌肉记忆锻炼软件 VSCode 摸<g-emoji class="g-emoji" alias="fish" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f41f.png">?</g-emoji>版 / Words learning and English muscle memory training software designed for keyboard workers for VSCode</td>
+        <th><a href="https://github.com/Kaiyiwing/qwerty-learner-vscode" target="_blank"><img alt="Qwerty Learner VSCode" src="https://img.shields.io/github/stars/Kaiyiwing/qwerty-learner-vscode?style=social" /></a></th>
+    </tr>
 
 </table>
 
@@ -7117,6 +7157,14 @@
         <td><a href="https://github.com/EricGuo5513/HumanML3D" target="_blank">HumanML3D</a></td>
         <td>HumanML3D: A large and diverse 3d human motion-language dataset.</td>
         <th><a href="https://github.com/EricGuo5513/HumanML3D" target="_blank"><img alt="HumanML3D" src="https://img.shields.io/github/stars/EricGuo5513/HumanML3D?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="PyPOTS" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-PyPOTS.jpg" /></td>
+        <td>Analytics</td>
+        <td>Python</td>
+        <td><a href="https://pypots.com" target="_blank">PyPOTS</a></td>
+        <td>A python toolbox/library for data mining on partially-observed time series with PyTorch, including SOTA models supporting tasks of imputation, classification, clustering, and forecasting on incompl…</td>
+        <th><a href="https://github.com/WenjieDu/PyPOTS" target="_blank"><img alt="PyPOTS" src="https://img.shields.io/github/stars/WenjieDu/PyPOTS?style=social" /></a></th>
     </tr>
 
 </table>
