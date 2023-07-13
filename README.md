@@ -170,6 +170,14 @@
         <th><a href="https://github.com/Kaiyiwing/qwerty-learner-vscode" target="_blank"><img alt="Qwerty Learner VSCode" src="https://img.shields.io/github/stars/Kaiyiwing/qwerty-learner-vscode?style=social" /></a></th>
     </tr>
     <tr>
+        <td nowrap="nowrap"><img width="33" alt="Create Issue Branch" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-create-issue-branch.jpg" /></td>
+        <td>Productivity</td>
+        <td>JavaScript</td>
+        <td><a href="https://github.com/apps/create-issue-branch" target="_blank">Create Issue Branch</a></td>
+        <td>GitHub App/Action that automates the creation of issue branches</td>
+        <th><a href="https://github.com/robvanderleek/create-issue-branch" target="_blank"><img alt="Create Issue Branch" src="https://img.shields.io/github/stars/robvanderleek/create-issue-branch?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="ZJU Rule" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-ZJU-Rule.png" /></td>
         <td>Productivity</td>
         <td>undefined</td>
@@ -296,14 +304,6 @@
         <td><a href="https://www.jhipster.tech" target="_blank">JHipster</a></td>
         <td>JHipster is a development platform to quickly generate, develop, &amp; deploy modern web applications &amp; microservice architectures.</td>
         <th><a href="https://github.com/jhipster/generator-jhipster" target="_blank"><img alt="JHipster" src="https://img.shields.io/github/stars/jhipster/generator-jhipster?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Vision-transformers-cifar10" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-vision-transformers-cifar10.jpg" /></td>
-        <td>Analytics</td>
-        <td>Python</td>
-        <td><a href="https://github.com/kentaroy47/vision-transformers-cifar10" target="_blank">Vision-transformers-cifar10</a></td>
-        <td>Let's train vision transformers (ViT) for cifar 10! </td>
-        <th><a href="https://github.com/kentaroy47/vision-transformers-cifar10" target="_blank"><img alt="Vision-transformers-cifar10" src="https://img.shields.io/github/stars/kentaroy47/vision-transformers-cifar10?style=social" /></a></th>
     </tr>
 
 </table>
@@ -2810,6 +2810,14 @@
         <td><a href="https://marketplace.visualstudio.com/items?itemName=Kaiyi.qwerty-learner" target="_blank">Qwerty Learner VSCode</a></td>
         <td>为键盘工作者设计的单词记忆与英语肌肉记忆锻炼软件 VSCode 摸<g-emoji class="g-emoji" alias="fish" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f41f.png">?</g-emoji>版 / Words learning and English muscle memory training software designed for keyboard workers for VSCode</td>
         <th><a href="https://github.com/Kaiyiwing/qwerty-learner-vscode" target="_blank"><img alt="Qwerty Learner VSCode" src="https://img.shields.io/github/stars/Kaiyiwing/qwerty-learner-vscode?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Create Issue Branch" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-create-issue-branch.jpg" /></td>
+        <td>Productivity</td>
+        <td>JavaScript</td>
+        <td><a href="https://github.com/apps/create-issue-branch" target="_blank">Create Issue Branch</a></td>
+        <td>GitHub App/Action that automates the creation of issue branches</td>
+        <th><a href="https://github.com/robvanderleek/create-issue-branch" target="_blank"><img alt="Create Issue Branch" src="https://img.shields.io/github/stars/robvanderleek/create-issue-branch?style=social" /></a></th>
     </tr>
 
 </table>
@@ -6105,6 +6113,14 @@
         <td><a href="https://github.com/zNotChill/fancy-time" target="_blank">Fancy Time</a></td>
         <td>A simple package for converting Unix to Readable.</td>
         <th><a href="https://github.com/zNotChill/fancy-time" target="_blank"><img alt="Fancy Time" src="https://img.shields.io/github/stars/zNotChill/fancy-time?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Create Issue Branch" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-create-issue-branch.jpg" /></td>
+        <td>Productivity</td>
+        <td>JavaScript</td>
+        <td><a href="https://github.com/apps/create-issue-branch" target="_blank">Create Issue Branch</a></td>
+        <td>GitHub App/Action that automates the creation of issue branches</td>
+        <th><a href="https://github.com/robvanderleek/create-issue-branch" target="_blank"><img alt="Create Issue Branch" src="https://img.shields.io/github/stars/robvanderleek/create-issue-branch?style=social" /></a></th>
     </tr>
 
 </table>
