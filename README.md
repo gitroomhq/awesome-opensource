@@ -78,6 +78,8 @@
              </li>          <li>
                 <a href="#batchfile">Top 20 Batchfile libraries</a>
              </li>          <li>
+                <a href="#scss">Top 20 SCSS libraries</a>
+             </li>          <li>
                 <a href="#c">Top 20 C libraries</a>
              </li>          <li>
                 <a href="#markdown">Top 20 Markdown libraries</a>
@@ -103,8 +105,6 @@
                 <a href="#shell">Top 20 Shell libraries</a>
              </li>          <li>
                 <a href="#ocaml">Top 20 OCaml libraries</a>
-             </li>          <li>
-                <a href="#scss">Top 20 SCSS libraries</a>
              </li>          <li>
                 <a href="#r">Top 20 R libraries</a>
              </li>          <li>
@@ -971,6 +971,14 @@
         <th><a href="https://github.com/IacobIonut01/Gallery" target="_blank"><img alt="Gallery for Android" src="https://img.shields.io/github/stars/IacobIonut01/Gallery?style=social" /></a></th>
     </tr>
     <tr>
+        <td nowrap="nowrap"><img width="33" alt="aqua.css" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-aqua.css-1.jpg" /></td>
+        <td>Productivity</td>
+        <td>SCSS</td>
+        <td><a href="https://aquacss.netlify.com/" target="_blank">aqua.css</a></td>
+        <td>An elegant CSS Framework.</td>
+        <th><a href="https://github.com/alphardex/aqua.css" target="_blank"><img alt="aqua.css" src="https://img.shields.io/github/stars/alphardex/aqua.css?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="Fenv" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-Fenv.png" /></td>
         <td>Miscellaneous</td>
         <td>Python</td>
@@ -1113,14 +1121,6 @@
         <td><a href="https://grocy.info" target="_blank">grocy</a></td>
         <td>ERP beyond your fridge - grocy is a web-based self-hosted groceries &amp; household management solution for your home</td>
         <th><a href="https://github.com/grocy/grocy" target="_blank"><img alt="grocy" src="https://img.shields.io/github/stars/grocy/grocy?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="React Native Skia" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-react-native-skia.png" /></td>
-        <td>Infrastructure</td>
-        <td>TypeScript</td>
-        <td><a href="https://shopify.github.io/react-native-skia" target="_blank">React Native Skia</a></td>
-        <td>High-performance React Native Graphics using Skia</td>
-        <th><a href="https://github.com/Shopify/react-native-skia" target="_blank"><img alt="React Native Skia" src="https://img.shields.io/github/stars/Shopify/react-native-skia?style=social" /></a></th>
     </tr>
 
 </table>
@@ -1942,6 +1942,14 @@
         <th><a href="https://github.com/Kitware/trame" target="_blank"><img alt="trame" src="https://img.shields.io/github/stars/Kitware/trame?style=social" /></a></th>
     </tr>
     <tr>
+        <td nowrap="nowrap"><img width="33" alt="aqua.css" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-aqua.css-1.jpg" /></td>
+        <td>Productivity</td>
+        <td>SCSS</td>
+        <td><a href="https://aquacss.netlify.com/" target="_blank">aqua.css</a></td>
+        <td>An elegant CSS Framework.</td>
+        <th><a href="https://github.com/alphardex/aqua.css" target="_blank"><img alt="aqua.css" src="https://img.shields.io/github/stars/alphardex/aqua.css?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="REI3" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-r3.png" /></td>
         <td>Productivity</td>
         <td>JavaScript</td>
@@ -2751,14 +2759,6 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="aqua.css" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-aqua.css.jpg" /></td>
-        <td>Productivity</td>
-        <td>SCSS</td>
-        <td><a href="https://aquacss.netlify.com/" target="_blank">aqua.css</a></td>
-        <td>An elegant CSS Framework.</td>
-        <th><a href="https://github.com/alphardex/aqua.css" target="_blank"><img alt="aqua.css" src="https://img.shields.io/github/stars/alphardex/aqua.css?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="aqua.css" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-aqua.css-1.jpg" /></td>
         <td>Productivity</td>
         <td>SCSS</td>
         <td><a href="https://aquacss.netlify.com/" target="_blank">aqua.css</a></td>
@@ -7926,6 +7926,68 @@
 </table>
 
 <br /><br />
+<h2 id="scss">Top 20 SCSS libraries</h2>
+<table>
+    <tr>
+        <th>Icon</th>
+        <th>Category</th>
+        <th>Language</th>
+        <th>Name</th>
+        <th>Description</th>
+        <th>Stargazers</th>
+    </tr>
+        <tr>
+        <td nowrap="nowrap"><img width="33" alt="aqua.css" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-aqua.css-1.jpg" /></td>
+        <td>Productivity</td>
+        <td>SCSS</td>
+        <td><a href="https://aquacss.netlify.com/" target="_blank">aqua.css</a></td>
+        <td>An elegant CSS Framework.</td>
+        <th><a href="https://github.com/alphardex/aqua.css" target="_blank"><img alt="aqua.css" src="https://img.shields.io/github/stars/alphardex/aqua.css?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="MQTT" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-mqtt.org_.png" /></td>
+        <td>Miscellaneous</td>
+        <td>SCSS</td>
+        <td><a href="https://mqtt.org" target="_blank">MQTT</a></td>
+        <td>The mqtt.org website</td>
+        <th><a href="https://github.com/mqtt/mqtt.org" target="_blank"><img alt="MQTT" src="https://img.shields.io/github/stars/mqtt/mqtt.org?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="conventional-commits/conventionalcommits.org" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-conventionalcommits.org_.jpg" /></td>
+        <td>Collaboration</td>
+        <td>SCSS</td>
+        <td><a href="https://conventionalcommits.org" target="_blank">conventional-commits/conventionalcommits.org</a></td>
+        <td>The conventional commits specification</td>
+        <th><a href="https://github.com/conventional-commits/conventionalcommits.org" target="_blank"><img alt="conventional-commits/conventionalcommits.org" src="https://img.shields.io/github/stars/conventional-commits/conventionalcommits.org?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Just the Docs" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-just-the-docs-1.png" /></td>
+        <td>Productivity</td>
+        <td>SCSS</td>
+        <td><a href="https://just-the-docs.com" target="_blank">Just the Docs</a></td>
+        <td>A modern, high customizable, responsive Jekyll theme for documentation with built-in search.</td>
+        <th><a href="https://github.com/just-the-docs/just-the-docs" target="_blank"><img alt="Just the Docs" src="https://img.shields.io/github/stars/just-the-docs/just-the-docs?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="aqua.css" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-aqua.css.jpg" /></td>
+        <td>Productivity</td>
+        <td>SCSS</td>
+        <td><a href="https://aquacss.netlify.com/" target="_blank">aqua.css</a></td>
+        <td>An elegant CSS Framework.</td>
+        <th><a href="https://github.com/alphardex/aqua.css" target="_blank"><img alt="aqua.css" src="https://img.shields.io/github/stars/alphardex/aqua.css?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="aqua.css" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-aqua.css-2.jpg" /></td>
+        <td>Productivity</td>
+        <td>SCSS</td>
+        <td><a href="https://aquacss.netlify.com/" target="_blank">aqua.css</a></td>
+        <td>An elegant CSS Framework.</td>
+        <th><a href="https://github.com/alphardex/aqua.css" target="_blank"><img alt="aqua.css" src="https://img.shields.io/github/stars/alphardex/aqua.css?style=social" /></a></th>
+    </tr>
+
+</table>
+
+<br /><br />
 <h2 id="c">Top 20 C libraries</h2>
 <table>
     <tr>
@@ -8455,68 +8517,6 @@
         <td><a href="https://rescript-lang.org" target="_blank">ReScript Documentation</a></td>
         <td>The compiler for ReScript.</td>
         <th><a href="https://github.com/rescript-lang/rescript-compiler" target="_blank"><img alt="ReScript Documentation" src="https://img.shields.io/github/stars/rescript-lang/rescript-compiler?style=social" /></a></th>
-    </tr>
-
-</table>
-
-<br /><br />
-<h2 id="scss">Top 20 SCSS libraries</h2>
-<table>
-    <tr>
-        <th>Icon</th>
-        <th>Category</th>
-        <th>Language</th>
-        <th>Name</th>
-        <th>Description</th>
-        <th>Stargazers</th>
-    </tr>
-        <tr>
-        <td nowrap="nowrap"><img width="33" alt="MQTT" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-mqtt.org_.png" /></td>
-        <td>Miscellaneous</td>
-        <td>SCSS</td>
-        <td><a href="https://mqtt.org" target="_blank">MQTT</a></td>
-        <td>The mqtt.org website</td>
-        <th><a href="https://github.com/mqtt/mqtt.org" target="_blank"><img alt="MQTT" src="https://img.shields.io/github/stars/mqtt/mqtt.org?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="conventional-commits/conventionalcommits.org" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-conventionalcommits.org_.jpg" /></td>
-        <td>Collaboration</td>
-        <td>SCSS</td>
-        <td><a href="https://conventionalcommits.org" target="_blank">conventional-commits/conventionalcommits.org</a></td>
-        <td>The conventional commits specification</td>
-        <th><a href="https://github.com/conventional-commits/conventionalcommits.org" target="_blank"><img alt="conventional-commits/conventionalcommits.org" src="https://img.shields.io/github/stars/conventional-commits/conventionalcommits.org?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Just the Docs" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-just-the-docs-1.png" /></td>
-        <td>Productivity</td>
-        <td>SCSS</td>
-        <td><a href="https://just-the-docs.com" target="_blank">Just the Docs</a></td>
-        <td>A modern, high customizable, responsive Jekyll theme for documentation with built-in search.</td>
-        <th><a href="https://github.com/just-the-docs/just-the-docs" target="_blank"><img alt="Just the Docs" src="https://img.shields.io/github/stars/just-the-docs/just-the-docs?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="aqua.css" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-aqua.css.jpg" /></td>
-        <td>Productivity</td>
-        <td>SCSS</td>
-        <td><a href="https://aquacss.netlify.com/" target="_blank">aqua.css</a></td>
-        <td>An elegant CSS Framework.</td>
-        <th><a href="https://github.com/alphardex/aqua.css" target="_blank"><img alt="aqua.css" src="https://img.shields.io/github/stars/alphardex/aqua.css?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="aqua.css" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-aqua.css-1.jpg" /></td>
-        <td>Productivity</td>
-        <td>SCSS</td>
-        <td><a href="https://aquacss.netlify.com/" target="_blank">aqua.css</a></td>
-        <td>An elegant CSS Framework.</td>
-        <th><a href="https://github.com/alphardex/aqua.css" target="_blank"><img alt="aqua.css" src="https://img.shields.io/github/stars/alphardex/aqua.css?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="aqua.css" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-aqua.css-2.jpg" /></td>
-        <td>Productivity</td>
-        <td>SCSS</td>
-        <td><a href="https://aquacss.netlify.com/" target="_blank">aqua.css</a></td>
-        <td>An elegant CSS Framework.</td>
-        <th><a href="https://github.com/alphardex/aqua.css" target="_blank"><img alt="aqua.css" src="https://img.shields.io/github/stars/alphardex/aqua.css?style=social" /></a></th>
     </tr>
 
 </table>
