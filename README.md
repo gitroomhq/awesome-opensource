@@ -129,6 +129,8 @@
                 <a href="#solidity">Top 20 Solidity libraries</a>
              </li>          <li>
                 <a href="#pascal">Top 20 Pascal libraries</a>
+             </li>          <li>
+                <a href="#nim">Top 20 Nim libraries</a>
              </li>        
         </ul>
     </li>
@@ -176,6 +178,14 @@
         <td><a href="https://github.com/apps/create-issue-branch" target="_blank">Create Issue Branch</a></td>
         <td>GitHub App/Action that automates the creation of issue branches</td>
         <th><a href="https://github.com/robvanderleek/create-issue-branch" target="_blank"><img alt="Create Issue Branch" src="https://img.shields.io/github/stars/robvanderleek/create-issue-branch?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Nimdow" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-nimdow.png" /></td>
+        <td>Productivity</td>
+        <td>Nim</td>
+        <td><a href="https://github.com/avahe-kellenberger/nimdow" target="_blank">Nimdow</a></td>
+        <td>A window manager written in Nim (In Development)</td>
+        <th><a href="https://github.com/avahe-kellenberger/nimdow" target="_blank"><img alt="Nimdow" src="https://img.shields.io/github/stars/avahe-kellenberger/nimdow?style=social" /></a></th>
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="ZJU Rule" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-ZJU-Rule.png" /></td>
@@ -296,14 +306,6 @@
         <td><a href="https://aquacss.netlify.com/" target="_blank">aqua.css</a></td>
         <td>An elegant CSS Framework.</td>
         <th><a href="https://github.com/alphardex/aqua.css" target="_blank"><img alt="aqua.css" src="https://img.shields.io/github/stars/alphardex/aqua.css?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="JHipster" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-generator-jhipster.png" /></td>
-        <td>Infrastructure</td>
-        <td>TypeScript</td>
-        <td><a href="https://www.jhipster.tech" target="_blank">JHipster</a></td>
-        <td>JHipster is a development platform to quickly generate, develop, &amp; deploy modern web applications &amp; microservice architectures.</td>
-        <th><a href="https://github.com/jhipster/generator-jhipster" target="_blank"><img alt="JHipster" src="https://img.shields.io/github/stars/jhipster/generator-jhipster?style=social" /></a></th>
     </tr>
 
 </table>
@@ -2818,6 +2820,14 @@
         <td><a href="https://github.com/apps/create-issue-branch" target="_blank">Create Issue Branch</a></td>
         <td>GitHub App/Action that automates the creation of issue branches</td>
         <th><a href="https://github.com/robvanderleek/create-issue-branch" target="_blank"><img alt="Create Issue Branch" src="https://img.shields.io/github/stars/robvanderleek/create-issue-branch?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Nimdow" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-nimdow.png" /></td>
+        <td>Productivity</td>
+        <td>Nim</td>
+        <td><a href="https://github.com/avahe-kellenberger/nimdow" target="_blank">Nimdow</a></td>
+        <td>A window manager written in Nim (In Development)</td>
+        <th><a href="https://github.com/avahe-kellenberger/nimdow" target="_blank"><img alt="Nimdow" src="https://img.shields.io/github/stars/avahe-kellenberger/nimdow?style=social" /></a></th>
     </tr>
 
 </table>
@@ -8595,6 +8605,28 @@
         <td><a href="http://www.cnpack.org" target="_blank">CnPack Component Package</a></td>
         <td>CnPack VCL Components</td>
         <th><a href="https://github.com/cnpack/cnvcl" target="_blank"><img alt="CnPack Component Package" src="https://img.shields.io/github/stars/cnpack/cnvcl?style=social" /></a></th>
+    </tr>
+
+</table>
+
+<br /><br />
+<h2 id="nim">Top 20 Nim libraries</h2>
+<table>
+    <tr>
+        <th>Icon</th>
+        <th>Category</th>
+        <th>Language</th>
+        <th>Name</th>
+        <th>Description</th>
+        <th>Stargazers</th>
+    </tr>
+        <tr>
+        <td nowrap="nowrap"><img width="33" alt="Nimdow" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-nimdow.png" /></td>
+        <td>Productivity</td>
+        <td>Nim</td>
+        <td><a href="https://github.com/avahe-kellenberger/nimdow" target="_blank">Nimdow</a></td>
+        <td>A window manager written in Nim (In Development)</td>
+        <th><a href="https://github.com/avahe-kellenberger/nimdow" target="_blank"><img alt="Nimdow" src="https://img.shields.io/github/stars/avahe-kellenberger/nimdow?style=social" /></a></th>
     </tr>
 
 </table>
