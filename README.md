@@ -148,6 +148,54 @@
         <th>Stargazers</th>
     </tr>
         <tr>
+        <td nowrap="nowrap"><img width="33" alt="ThorsSerializer" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-ThorsSerializer.jpg" /></td>
+        <td>Infrastructure</td>
+        <td>C++</td>
+        <td><a href="https://github.com/Loki-Astari/ThorsSerializer" target="_blank">ThorsSerializer</a></td>
+        <td>C++ Serialization library for JSON</td>
+        <th><a href="https://github.com/Loki-Astari/ThorsSerializer" target="_blank"><img alt="ThorsSerializer" src="https://img.shields.io/github/stars/Loki-Astari/ThorsSerializer?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Unleash" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-unleash.png" /></td>
+        <td>Miscellaneous</td>
+        <td>TypeScript</td>
+        <td><a href="https://getunleash.io" target="_blank">Unleash</a></td>
+        <td>Open-source feature management solution built for developers.</td>
+        <th><a href="https://github.com/Unleash/unleash" target="_blank"><img alt="Unleash" src="https://img.shields.io/github/stars/Unleash/unleash?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="pygwalker" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-pygwalker.png" /></td>
+        <td>Analytics</td>
+        <td>TypeScript</td>
+        <td><a href="https://docs.kanaries.net/pygwalker" target="_blank">pygwalker</a></td>
+        <td>PyGWalker: Turn your pandas dataframe into a Tableau-style User Interface for visual analysis</td>
+        <th><a href="https://github.com/Kanaries/pygwalker" target="_blank"><img alt="pygwalker" src="https://img.shields.io/github/stars/Kanaries/pygwalker?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Rath" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-Rath.png" /></td>
+        <td>Analytics</td>
+        <td>TypeScript</td>
+        <td><a href="https://kanaries.net" target="_blank">Rath</a></td>
+        <td>Next generation of automated data exploratory analysis and visualization platform.</td>
+        <th><a href="https://github.com/Kanaries/Rath" target="_blank"><img alt="Rath" src="https://img.shields.io/github/stars/Kanaries/Rath?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="graphic-walker" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-graphic-walker.png" /></td>
+        <td>Analytics</td>
+        <td>TypeScript</td>
+        <td><a href="https://docs.kanaries.net/graphic-walker" target="_blank">graphic-walker</a></td>
+        <td>An open source alternative to Tableau. Easily embedded as a component in web apps.</td>
+        <th><a href="https://github.com/Kanaries/graphic-walker" target="_blank"><img alt="graphic-walker" src="https://img.shields.io/github/stars/Kanaries/graphic-walker?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="GWalkR" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-GWalkR-1.png" /></td>
+        <td>Analytics</td>
+        <td>R</td>
+        <td><a href="https://github.com/Kanaries/GWalkR" target="_blank">GWalkR</a></td>
+        <td>Turn your data frame into a tableau style drag and drop UI interface to build visualization in R.</td>
+        <th><a href="https://github.com/Kanaries/GWalkR" target="_blank"><img alt="GWalkR" src="https://img.shields.io/github/stars/Kanaries/GWalkR?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="PyPOTS" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-PyPOTS.jpg" /></td>
         <td>Analytics</td>
         <td>Python</td>
@@ -258,54 +306,6 @@
         <td><a href="https://grail-ui.vercel.app/" target="_blank">Grail UI</a></td>
         <td>A library of accessible component primitives, actions and utilities for Svelte.</td>
         <th><a href="https://github.com/grail-ui/grail-ui" target="_blank"><img alt="Grail UI" src="https://img.shields.io/github/stars/grail-ui/grail-ui?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="skynet-mingw" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-skynet-mingw.png" /></td>
-        <td>Infrastructure</td>
-        <td>C</td>
-        <td><a href="http://blog.dpull.com/post/2015-11-08-skynet_mingw" target="_blank">skynet-mingw</a></td>
-        <td>对skynet无任何改动的windows版</td>
-        <th><a href="https://github.com/dpull/skynet-mingw" target="_blank"><img alt="skynet-mingw" src="https://img.shields.io/github/stars/dpull/skynet-mingw?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Fancy Time" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-fancy-time.png" /></td>
-        <td>Productivity</td>
-        <td>JavaScript</td>
-        <td><a href="https://github.com/zNotChill/fancy-time" target="_blank">Fancy Time</a></td>
-        <td>A simple package for converting Unix to Readable.</td>
-        <th><a href="https://github.com/zNotChill/fancy-time" target="_blank"><img alt="Fancy Time" src="https://img.shields.io/github/stars/zNotChill/fancy-time?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Gallery for Android" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-Gallery.jpg" /></td>
-        <td>Miscellaneous</td>
-        <td>Kotlin</td>
-        <td><a href="https://github.com/IacobIonut01/Gallery" target="_blank">Gallery for Android</a></td>
-        <td>Light-weight Media Gallery app for Android made with Jetpack Compose</td>
-        <th><a href="https://github.com/IacobIonut01/Gallery" target="_blank"><img alt="Gallery for Android" src="https://img.shields.io/github/stars/IacobIonut01/Gallery?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="aqua.css" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-aqua.css.jpg" /></td>
-        <td>Productivity</td>
-        <td>SCSS</td>
-        <td><a href="https://aquacss.netlify.com/" target="_blank">aqua.css</a></td>
-        <td>An elegant CSS Framework.</td>
-        <th><a href="https://github.com/alphardex/aqua.css" target="_blank"><img alt="aqua.css" src="https://img.shields.io/github/stars/alphardex/aqua.css?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="aqua.css" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-aqua.css-1.jpg" /></td>
-        <td>Productivity</td>
-        <td>SCSS</td>
-        <td><a href="https://aquacss.netlify.com/" target="_blank">aqua.css</a></td>
-        <td>An elegant CSS Framework.</td>
-        <th><a href="https://github.com/alphardex/aqua.css" target="_blank"><img alt="aqua.css" src="https://img.shields.io/github/stars/alphardex/aqua.css?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="aqua.css" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-aqua.css-2.jpg" /></td>
-        <td>Productivity</td>
-        <td>SCSS</td>
-        <td><a href="https://aquacss.netlify.com/" target="_blank">aqua.css</a></td>
-        <td>An elegant CSS Framework.</td>
-        <th><a href="https://github.com/alphardex/aqua.css" target="_blank"><img alt="aqua.css" src="https://img.shields.io/github/stars/alphardex/aqua.css?style=social" /></a></th>
     </tr>
 
 </table>
@@ -1520,6 +1520,14 @@
         <td><a href="https://boytacean.joao.me" target="_blank">Boytacean</a></td>
         <td>A GB emulator that is written in Rust <g-emoji class="g-emoji" alias="crab" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f980.png">?</g-emoji>!</td>
         <th><a href="https://github.com/joamag/boytacean" target="_blank"><img alt="Boytacean" src="https://img.shields.io/github/stars/joamag/boytacean?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Unleash" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-unleash.png" /></td>
+        <td>Miscellaneous</td>
+        <td>TypeScript</td>
+        <td><a href="https://getunleash.io" target="_blank">Unleash</a></td>
+        <td>Open-source feature management solution built for developers.</td>
+        <th><a href="https://github.com/Unleash/unleash" target="_blank"><img alt="Unleash" src="https://img.shields.io/github/stars/Unleash/unleash?style=social" /></a></th>
     </tr>
 
 </table>
@@ -3010,6 +3018,38 @@
         <td><a href="https://pypots.com" target="_blank">PyPOTS</a></td>
         <td>A python toolbox/library for data mining on partially-observed time series with PyTorch, including SOTA models supporting tasks of imputation, classification, clustering, and forecasting on incompl…</td>
         <th><a href="https://github.com/WenjieDu/PyPOTS" target="_blank"><img alt="PyPOTS" src="https://img.shields.io/github/stars/WenjieDu/PyPOTS?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="pygwalker" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-pygwalker.png" /></td>
+        <td>Analytics</td>
+        <td>TypeScript</td>
+        <td><a href="https://docs.kanaries.net/pygwalker" target="_blank">pygwalker</a></td>
+        <td>PyGWalker: Turn your pandas dataframe into a Tableau-style User Interface for visual analysis</td>
+        <th><a href="https://github.com/Kanaries/pygwalker" target="_blank"><img alt="pygwalker" src="https://img.shields.io/github/stars/Kanaries/pygwalker?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Rath" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-Rath.png" /></td>
+        <td>Analytics</td>
+        <td>TypeScript</td>
+        <td><a href="https://kanaries.net" target="_blank">Rath</a></td>
+        <td>Next generation of automated data exploratory analysis and visualization platform.</td>
+        <th><a href="https://github.com/Kanaries/Rath" target="_blank"><img alt="Rath" src="https://img.shields.io/github/stars/Kanaries/Rath?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="graphic-walker" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-graphic-walker.png" /></td>
+        <td>Analytics</td>
+        <td>TypeScript</td>
+        <td><a href="https://docs.kanaries.net/graphic-walker" target="_blank">graphic-walker</a></td>
+        <td>An open source alternative to Tableau. Easily embedded as a component in web apps.</td>
+        <th><a href="https://github.com/Kanaries/graphic-walker" target="_blank"><img alt="graphic-walker" src="https://img.shields.io/github/stars/Kanaries/graphic-walker?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="GWalkR" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-GWalkR-1.png" /></td>
+        <td>Analytics</td>
+        <td>R</td>
+        <td><a href="https://github.com/Kanaries/GWalkR" target="_blank">GWalkR</a></td>
+        <td>Turn your data frame into a tableau style drag and drop UI interface to build visualization in R.</td>
+        <th><a href="https://github.com/Kanaries/GWalkR" target="_blank"><img alt="GWalkR" src="https://img.shields.io/github/stars/Kanaries/GWalkR?style=social" /></a></th>
     </tr>
 
 </table>
@@ -4641,6 +4681,14 @@
         <td>Header-Only C++ Library for Graph Representation and Algorithms</td>
         <th><a href="https://github.com/ZigRazor/CXXGraph" target="_blank"><img alt="CXXGraph" src="https://img.shields.io/github/stars/ZigRazor/CXXGraph?style=social" /></a></th>
     </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="ThorsSerializer" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-ThorsSerializer.jpg" /></td>
+        <td>Infrastructure</td>
+        <td>C++</td>
+        <td><a href="https://github.com/Loki-Astari/ThorsSerializer" target="_blank">ThorsSerializer</a></td>
+        <td>C++ Serialization library for JSON</td>
+        <th><a href="https://github.com/Loki-Astari/ThorsSerializer" target="_blank"><img alt="ThorsSerializer" src="https://img.shields.io/github/stars/Loki-Astari/ThorsSerializer?style=social" /></a></th>
+    </tr>
 
 </table>
 
@@ -5359,6 +5407,38 @@
         <td><a href="https://marketplace.visualstudio.com/items?itemName=Kaiyi.qwerty-learner" target="_blank">Qwerty Learner VSCode</a></td>
         <td>为键盘工作者设计的单词记忆与英语肌肉记忆锻炼软件 VSCode 摸<g-emoji class="g-emoji" alias="fish" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f41f.png">?</g-emoji>版 / Words learning and English muscle memory training software designed for keyboard workers for VSCode</td>
         <th><a href="https://github.com/Kaiyiwing/qwerty-learner-vscode" target="_blank"><img alt="Qwerty Learner VSCode" src="https://img.shields.io/github/stars/Kaiyiwing/qwerty-learner-vscode?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Unleash" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-unleash.png" /></td>
+        <td>Miscellaneous</td>
+        <td>TypeScript</td>
+        <td><a href="https://getunleash.io" target="_blank">Unleash</a></td>
+        <td>Open-source feature management solution built for developers.</td>
+        <th><a href="https://github.com/Unleash/unleash" target="_blank"><img alt="Unleash" src="https://img.shields.io/github/stars/Unleash/unleash?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="pygwalker" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-pygwalker.png" /></td>
+        <td>Analytics</td>
+        <td>TypeScript</td>
+        <td><a href="https://docs.kanaries.net/pygwalker" target="_blank">pygwalker</a></td>
+        <td>PyGWalker: Turn your pandas dataframe into a Tableau-style User Interface for visual analysis</td>
+        <th><a href="https://github.com/Kanaries/pygwalker" target="_blank"><img alt="pygwalker" src="https://img.shields.io/github/stars/Kanaries/pygwalker?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Rath" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-Rath.png" /></td>
+        <td>Analytics</td>
+        <td>TypeScript</td>
+        <td><a href="https://kanaries.net" target="_blank">Rath</a></td>
+        <td>Next generation of automated data exploratory analysis and visualization platform.</td>
+        <th><a href="https://github.com/Kanaries/Rath" target="_blank"><img alt="Rath" src="https://img.shields.io/github/stars/Kanaries/Rath?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="graphic-walker" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-graphic-walker.png" /></td>
+        <td>Analytics</td>
+        <td>TypeScript</td>
+        <td><a href="https://docs.kanaries.net/graphic-walker" target="_blank">graphic-walker</a></td>
+        <td>An open source alternative to Tableau. Easily embedded as a component in web apps.</td>
+        <th><a href="https://github.com/Kanaries/graphic-walker" target="_blank"><img alt="graphic-walker" src="https://img.shields.io/github/stars/Kanaries/graphic-walker?style=social" /></a></th>
     </tr>
 
 </table>
@@ -7654,6 +7734,14 @@
         <td>Header-Only C++ Library for Graph Representation and Algorithms</td>
         <th><a href="https://github.com/ZigRazor/CXXGraph" target="_blank"><img alt="CXXGraph" src="https://img.shields.io/github/stars/ZigRazor/CXXGraph?style=social" /></a></th>
     </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="ThorsSerializer" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-ThorsSerializer.jpg" /></td>
+        <td>Infrastructure</td>
+        <td>C++</td>
+        <td><a href="https://github.com/Loki-Astari/ThorsSerializer" target="_blank">ThorsSerializer</a></td>
+        <td>C++ Serialization library for JSON</td>
+        <th><a href="https://github.com/Loki-Astari/ThorsSerializer" target="_blank"><img alt="ThorsSerializer" src="https://img.shields.io/github/stars/Loki-Astari/ThorsSerializer?style=social" /></a></th>
+    </tr>
 
 </table>
 
@@ -8347,6 +8435,14 @@
         <td><a href="http://shiny.rstudio.com" target="_blank">Shiny.</a></td>
         <td>Easy interactive web applications with R</td>
         <th><a href="https://github.com/rstudio/shiny" target="_blank"><img alt="Shiny." src="https://img.shields.io/github/stars/rstudio/shiny?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="GWalkR" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-GWalkR-1.png" /></td>
+        <td>Analytics</td>
+        <td>R</td>
+        <td><a href="https://github.com/Kanaries/GWalkR" target="_blank">GWalkR</a></td>
+        <td>Turn your data frame into a tableau style drag and drop UI interface to build visualization in R.</td>
+        <th><a href="https://github.com/Kanaries/GWalkR" target="_blank"><img alt="GWalkR" src="https://img.shields.io/github/stars/Kanaries/GWalkR?style=social" /></a></th>
     </tr>
 
 </table>
