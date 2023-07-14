@@ -148,6 +148,30 @@
         <th>Stargazers</th>
     </tr>
         <tr>
+        <td nowrap="nowrap"><img width="33" alt="Hackertab.dev" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-hackertab.dev_.jpg" /></td>
+        <td>Productivity</td>
+        <td>TypeScript</td>
+        <td><a href="https://hackertab.dev" target="_blank">Hackertab.dev</a></td>
+        <td>A Chrome <g-emoji class="g-emoji" alias="globe_with_meridians" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f310.png">?</g-emoji> &amp; Firefox <g-emoji class="g-emoji" alias="fox_face" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f98a.png">?</g-emoji> extension to discover the best developer news and tools in one tab!</td>
+        <th><a href="https://github.com/medyo/hackertab.dev" target="_blank"><img alt="Hackertab.dev" src="https://img.shields.io/github/stars/medyo/hackertab.dev?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Fenv" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-Fenv.png" /></td>
+        <td>Miscellaneous</td>
+        <td>Python</td>
+        <td><a href="https://watchakorn-18k.github.io/Fenv/" target="_blank">Fenv</a></td>
+        <td><g-emoji class="g-emoji" alias="fast_forward" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/23e9.png">⏩</g-emoji> Module for Generate a folder, establish a virtual environment with a single command. </td>
+        <th><a href="https://github.com/watchakorn-18k/Fenv" target="_blank"><img alt="Fenv" src="https://img.shields.io/github/stars/watchakorn-18k/Fenv?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="REI3" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-r3.png" /></td>
+        <td>Productivity</td>
+        <td>JavaScript</td>
+        <td><a href="https://rei3.de" target="_blank">REI3</a></td>
+        <td>REI3 - Free and open low code</td>
+        <th><a href="https://github.com/r3-team/r3" target="_blank"><img alt="REI3" src="https://img.shields.io/github/stars/r3-team/r3?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="ThorsSerializer" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-ThorsSerializer.jpg" /></td>
         <td>Infrastructure</td>
         <td>C++</td>
@@ -194,6 +218,38 @@
         <td><a href="https://github.com/Kanaries/GWalkR" target="_blank">GWalkR</a></td>
         <td>Turn your data frame into a tableau style drag and drop UI interface to build visualization in R.</td>
         <th><a href="https://github.com/Kanaries/GWalkR" target="_blank"><img alt="GWalkR" src="https://img.shields.io/github/stars/Kanaries/GWalkR?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="MarsX" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-marsx.v4.png" /></td>
+        <td>Infrastructure</td>
+        <td>undefined</td>
+        <td><a href="https://github.com/MarsX-dev/marsx.v4" target="_blank">MarsX</a></td>
+        <td>We will push the code here in Q2 2023</td>
+        <th><a href="https://github.com/MarsX-dev/marsx.v4" target="_blank"><img alt="MarsX" src="https://img.shields.io/github/stars/MarsX-dev/marsx.v4?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Float UI" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-floatui.png" /></td>
+        <td>Productivity</td>
+        <td>JavaScript</td>
+        <td><a href="https://floatui.com/" target="_blank">Float UI</a></td>
+        <td>Beautiful and responsive UI components and templates for React and Vue (soon) with Tailwind CSS.</td>
+        <th><a href="https://github.com/MarsX-dev/floatui" target="_blank"><img alt="Float UI" src="https://img.shields.io/github/stars/MarsX-dev/floatui?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="DevHunt" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-devhunt.png" /></td>
+        <td>Infrastructure</td>
+        <td>TypeScript</td>
+        <td><a href="https://devhunt.org/" target="_blank">DevHunt</a></td>
+        <td>A launching platform for dev tools, built by developers. Open-source and collaborative, we use GitHub pull requests for listings and user logins for genuine voting. Join us at DevHunt to showcase y…</td>
+        <th><a href="https://github.com/MarsX-dev/devhunt" target="_blank"><img alt="DevHunt" src="https://img.shields.io/github/stars/MarsX-dev/devhunt?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="OpenStatus" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-openstatus.png" /></td>
+        <td>Miscellaneous</td>
+        <td>TypeScript</td>
+        <td><a href="https://openstatus.dev" target="_blank">OpenStatus</a></td>
+        <td>The open-source status page</td>
+        <th><a href="https://github.com/openstatusHQ/openstatus" target="_blank"><img alt="OpenStatus" src="https://img.shields.io/github/stars/openstatusHQ/openstatus?style=social" /></a></th>
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="PyPOTS" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-PyPOTS.jpg" /></td>
@@ -250,62 +306,6 @@
         <td><a href="http://www.cnpack.org" target="_blank">CnPack IDE Wizards</a></td>
         <td>CnPack IDE Wizards</td>
         <th><a href="https://github.com/cnpack/cnwizards" target="_blank"><img alt="CnPack IDE Wizards" src="https://img.shields.io/github/stars/cnpack/cnwizards?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="CnPack Component Package" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-cnvcl.png" /></td>
-        <td>Productivity</td>
-        <td>Pascal</td>
-        <td><a href="http://www.cnpack.org" target="_blank">CnPack Component Package</a></td>
-        <td>CnPack VCL Components</td>
-        <th><a href="https://github.com/cnpack/cnvcl" target="_blank"><img alt="CnPack Component Package" src="https://img.shields.io/github/stars/cnpack/cnvcl?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="dyrector.io" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-dyrectorio.jpg" /></td>
-        <td>Productivity</td>
-        <td>TypeScript</td>
-        <td><a href="https://dyrectorio.com" target="_blank">dyrector.io</a></td>
-        <td>dyrector.io is a self-hosted container management and delivery platform.</td>
-        <th><a href="https://github.com/dyrector-io/dyrectorio" target="_blank"><img alt="dyrector.io" src="https://img.shields.io/github/stars/dyrector-io/dyrectorio?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="ngx-echarts" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-ngx-echarts.jpg" /></td>
-        <td>Productivity</td>
-        <td>TypeScript</td>
-        <td><a href="https://xieziyu.github.io/ngx-echarts/" target="_blank">ngx-echarts</a></td>
-        <td>An angular (ver &gt;= 2.x) directive for ECharts (ver &gt;= 3.x)</td>
-        <th><a href="https://github.com/xieziyu/ngx-echarts" target="_blank"><img alt="ngx-echarts" src="https://img.shields.io/github/stars/xieziyu/ngx-echarts?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="ChartGPT SVG Creator" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-chatgpt-svg-creator-web.jpg" /></td>
-        <td>Productivity</td>
-        <td>TypeScript</td>
-        <td><a href="https://chatgpt-svg-creator-web.vercel.app" target="_blank">ChartGPT SVG Creator</a></td>
-        <td>A small tool for creating, modifying, and previewing SVGs using ChatGPT</td>
-        <th><a href="https://github.com/xieziyu/chatgpt-svg-creator-web" target="_blank"><img alt="ChartGPT SVG Creator" src="https://img.shields.io/github/stars/xieziyu/chatgpt-svg-creator-web?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Foundry Template" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-foundry-template.jpg" /></td>
-        <td>Productivity</td>
-        <td>Solidity</td>
-        <td><a href="https://github.com/PaulRBerg/foundry-template" target="_blank">Foundry Template</a></td>
-        <td>Foundry-based template for developing Solidity smart contracts</td>
-        <th><a href="https://github.com/PaulRBerg/foundry-template" target="_blank"><img alt="Foundry Template" src="https://img.shields.io/github/stars/PaulRBerg/foundry-template?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="CXXGraph" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-CXXGraph.png" /></td>
-        <td>Infrastructure</td>
-        <td>C++</td>
-        <td><a href="https://zigrazor.github.io/CXXGraph/" target="_blank">CXXGraph</a></td>
-        <td>Header-Only C++ Library for Graph Representation and Algorithms</td>
-        <th><a href="https://github.com/ZigRazor/CXXGraph" target="_blank"><img alt="CXXGraph" src="https://img.shields.io/github/stars/ZigRazor/CXXGraph?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Grail UI" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-grail-ui.png" /></td>
-        <td>Productivity</td>
-        <td>TypeScript</td>
-        <td><a href="https://grail-ui.vercel.app/" target="_blank">Grail UI</a></td>
-        <td>A library of accessible component primitives, actions and utilities for Svelte.</td>
-        <th><a href="https://github.com/grail-ui/grail-ui" target="_blank"><img alt="Grail UI" src="https://img.shields.io/github/stars/grail-ui/grail-ui?style=social" /></a></th>
     </tr>
 
 </table>
@@ -601,6 +601,14 @@
         <td><a href="https://prim.doseofted.me" target="_blank">Prim+RPC</a></td>
         <td>Easy-to-understand, type-safe, transport-agnostic RPC/IPC for JavaScript, supporting callbacks, batching, file uploads, custom serialization, and more.</td>
         <th><a href="https://github.com/doseofted/prim-rpc" target="_blank"><img alt="Prim+RPC" src="https://img.shields.io/github/stars/doseofted/prim-rpc?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Hackertab.dev" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-hackertab.dev_.jpg" /></td>
+        <td>Productivity</td>
+        <td>TypeScript</td>
+        <td><a href="https://hackertab.dev" target="_blank">Hackertab.dev</a></td>
+        <td>A Chrome <g-emoji class="g-emoji" alias="globe_with_meridians" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f310.png">?</g-emoji> &amp; Firefox <g-emoji class="g-emoji" alias="fox_face" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f98a.png">?</g-emoji> extension to discover the best developer news and tools in one tab!</td>
+        <th><a href="https://github.com/medyo/hackertab.dev" target="_blank"><img alt="Hackertab.dev" src="https://img.shields.io/github/stars/medyo/hackertab.dev?style=social" /></a></th>
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="Mirage JS" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-miragejs.png" /></td>
@@ -963,6 +971,22 @@
         <th><a href="https://github.com/IacobIonut01/Gallery" target="_blank"><img alt="Gallery for Android" src="https://img.shields.io/github/stars/IacobIonut01/Gallery?style=social" /></a></th>
     </tr>
     <tr>
+        <td nowrap="nowrap"><img width="33" alt="Fenv" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-Fenv.png" /></td>
+        <td>Miscellaneous</td>
+        <td>Python</td>
+        <td><a href="https://watchakorn-18k.github.io/Fenv/" target="_blank">Fenv</a></td>
+        <td><g-emoji class="g-emoji" alias="fast_forward" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/23e9.png">⏩</g-emoji> Module for Generate a folder, establish a virtual environment with a single command. </td>
+        <th><a href="https://github.com/watchakorn-18k/Fenv" target="_blank"><img alt="Fenv" src="https://img.shields.io/github/stars/watchakorn-18k/Fenv?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="REI3" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-r3.png" /></td>
+        <td>Productivity</td>
+        <td>JavaScript</td>
+        <td><a href="https://rei3.de" target="_blank">REI3</a></td>
+        <td>REI3 - Free and open low code</td>
+        <th><a href="https://github.com/r3-team/r3" target="_blank"><img alt="REI3" src="https://img.shields.io/github/stars/r3-team/r3?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="ClusterFuzz" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-clusterfuzz.png" /></td>
         <td>Infrastructure</td>
         <td>Python</td>
@@ -1098,30 +1122,6 @@
         <td>High-performance React Native Graphics using Skia</td>
         <th><a href="https://github.com/Shopify/react-native-skia" target="_blank"><img alt="React Native Skia" src="https://img.shields.io/github/stars/Shopify/react-native-skia?style=social" /></a></th>
     </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="JUCE" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-JUCE.png" /></td>
-        <td>Infrastructure</td>
-        <td>C++</td>
-        <td><a href="https://juce.com" target="_blank">JUCE</a></td>
-        <td>JUCE is an open-source cross-platform C++ application framework for desktop and mobile applications, including VST, VST3, AU, AUv3, RTAS and AAX audio plug-ins.</td>
-        <th><a href="https://github.com/juce-framework/JUCE" target="_blank"><img alt="JUCE" src="https://img.shields.io/github/stars/juce-framework/JUCE?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Danger" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-danger.png" /></td>
-        <td>Collaboration</td>
-        <td>Ruby</td>
-        <td><a href="https://danger.systems" target="_blank">Danger</a></td>
-        <td><g-emoji class="g-emoji" alias="no_entry_sign" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f6ab.png">?</g-emoji> Stop saying "you forgot to …" in code review (in Ruby)</td>
-        <th><a href="https://github.com/danger/danger" target="_blank"><img alt="Danger" src="https://img.shields.io/github/stars/danger/danger?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Frappe Framework" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-frappe.png" /></td>
-        <td>Infrastructure</td>
-        <td>Python</td>
-        <td><a href="https://frappeframework.com" target="_blank">Frappe Framework</a></td>
-        <td>Low code web framework for real world applications, in Python and Javascript</td>
-        <th><a href="https://github.com/frappe/frappe" target="_blank"><img alt="Frappe Framework" src="https://img.shields.io/github/stars/frappe/frappe?style=social" /></a></th>
-    </tr>
 
 </table>
 
@@ -1248,6 +1248,14 @@
         <td><a href="https://github.com/IacobIonut01/Gallery" target="_blank">Gallery for Android</a></td>
         <td>Light-weight Media Gallery app for Android made with Jetpack Compose</td>
         <th><a href="https://github.com/IacobIonut01/Gallery" target="_blank"><img alt="Gallery for Android" src="https://img.shields.io/github/stars/IacobIonut01/Gallery?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Fenv" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-Fenv.png" /></td>
+        <td>Miscellaneous</td>
+        <td>Python</td>
+        <td><a href="https://watchakorn-18k.github.io/Fenv/" target="_blank">Fenv</a></td>
+        <td><g-emoji class="g-emoji" alias="fast_forward" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/23e9.png">⏩</g-emoji> Module for Generate a folder, establish a virtual environment with a single command. </td>
+        <th><a href="https://github.com/watchakorn-18k/Fenv" target="_blank"><img alt="Fenv" src="https://img.shields.io/github/stars/watchakorn-18k/Fenv?style=social" /></a></th>
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="Cemu Emulator" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-Cemu.png" /></td>
@@ -1528,6 +1536,14 @@
         <td><a href="https://getunleash.io" target="_blank">Unleash</a></td>
         <td>Open-source feature management solution built for developers.</td>
         <th><a href="https://github.com/Unleash/unleash" target="_blank"><img alt="Unleash" src="https://img.shields.io/github/stars/Unleash/unleash?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="OpenStatus" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-openstatus.png" /></td>
+        <td>Miscellaneous</td>
+        <td>TypeScript</td>
+        <td><a href="https://openstatus.dev" target="_blank">OpenStatus</a></td>
+        <td>The open-source status page</td>
+        <th><a href="https://github.com/openstatusHQ/openstatus" target="_blank"><img alt="OpenStatus" src="https://img.shields.io/github/stars/openstatusHQ/openstatus?style=social" /></a></th>
     </tr>
 
 </table>
@@ -1814,6 +1830,14 @@
         <th><a href="https://github.com/doseofted/prim-rpc" target="_blank"><img alt="Prim+RPC" src="https://img.shields.io/github/stars/doseofted/prim-rpc?style=social" /></a></th>
     </tr>
     <tr>
+        <td nowrap="nowrap"><img width="33" alt="Hackertab.dev" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-hackertab.dev_.jpg" /></td>
+        <td>Productivity</td>
+        <td>TypeScript</td>
+        <td><a href="https://hackertab.dev" target="_blank">Hackertab.dev</a></td>
+        <td>A Chrome <g-emoji class="g-emoji" alias="globe_with_meridians" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f310.png">?</g-emoji> &amp; Firefox <g-emoji class="g-emoji" alias="fox_face" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f98a.png">?</g-emoji> extension to discover the best developer news and tools in one tab!</td>
+        <th><a href="https://github.com/medyo/hackertab.dev" target="_blank"><img alt="Hackertab.dev" src="https://img.shields.io/github/stars/medyo/hackertab.dev?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="Mirage JS" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-miragejs.png" /></td>
         <td>Productivity</td>
         <td>JavaScript</td>
@@ -1916,6 +1940,14 @@
         <td><a href="https://kitware.github.io/trame/" target="_blank">trame</a></td>
         <td>Trame lets you weave various components and technologies into a Web Application solely written in Python.</td>
         <th><a href="https://github.com/Kitware/trame" target="_blank"><img alt="trame" src="https://img.shields.io/github/stars/Kitware/trame?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="REI3" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-r3.png" /></td>
+        <td>Productivity</td>
+        <td>JavaScript</td>
+        <td><a href="https://rei3.de" target="_blank">REI3</a></td>
+        <td>REI3 - Free and open low code</td>
+        <th><a href="https://github.com/r3-team/r3" target="_blank"><img alt="REI3" src="https://img.shields.io/github/stars/r3-team/r3?style=social" /></a></th>
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="VS Code Docs" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-vscode-docs.png" /></td>
@@ -2836,6 +2868,14 @@
         <td><a href="https://github.com/avahe-kellenberger/nimdow" target="_blank">Nimdow</a></td>
         <td>A window manager written in Nim (In Development)</td>
         <th><a href="https://github.com/avahe-kellenberger/nimdow" target="_blank"><img alt="Nimdow" src="https://img.shields.io/github/stars/avahe-kellenberger/nimdow?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Float UI" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-floatui.png" /></td>
+        <td>Productivity</td>
+        <td>JavaScript</td>
+        <td><a href="https://floatui.com/" target="_blank">Float UI</a></td>
+        <td>Beautiful and responsive UI components and templates for React and Vue (soon) with Tailwind CSS.</td>
+        <th><a href="https://github.com/MarsX-dev/floatui" target="_blank"><img alt="Float UI" src="https://img.shields.io/github/stars/MarsX-dev/floatui?style=social" /></a></th>
     </tr>
 
 </table>
@@ -4689,6 +4729,22 @@
         <td>C++ Serialization library for JSON</td>
         <th><a href="https://github.com/Loki-Astari/ThorsSerializer" target="_blank"><img alt="ThorsSerializer" src="https://img.shields.io/github/stars/Loki-Astari/ThorsSerializer?style=social" /></a></th>
     </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="MarsX" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-marsx.v4.png" /></td>
+        <td>Infrastructure</td>
+        <td>undefined</td>
+        <td><a href="https://github.com/MarsX-dev/marsx.v4" target="_blank">MarsX</a></td>
+        <td>We will push the code here in Q2 2023</td>
+        <th><a href="https://github.com/MarsX-dev/marsx.v4" target="_blank"><img alt="MarsX" src="https://img.shields.io/github/stars/MarsX-dev/marsx.v4?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="DevHunt" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-devhunt.png" /></td>
+        <td>Infrastructure</td>
+        <td>TypeScript</td>
+        <td><a href="https://devhunt.org/" target="_blank">DevHunt</a></td>
+        <td>A launching platform for dev tools, built by developers. Open-source and collaborative, we use GitHub pull requests for listings and user logins for genuine voting. Join us at DevHunt to showcase y…</td>
+        <th><a href="https://github.com/MarsX-dev/devhunt" target="_blank"><img alt="DevHunt" src="https://img.shields.io/github/stars/MarsX-dev/devhunt?style=social" /></a></th>
+    </tr>
 
 </table>
 
@@ -4807,6 +4863,14 @@
         <td><a href="https://prim.doseofted.me" target="_blank">Prim+RPC</a></td>
         <td>Easy-to-understand, type-safe, transport-agnostic RPC/IPC for JavaScript, supporting callbacks, batching, file uploads, custom serialization, and more.</td>
         <th><a href="https://github.com/doseofted/prim-rpc" target="_blank"><img alt="Prim+RPC" src="https://img.shields.io/github/stars/doseofted/prim-rpc?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Hackertab.dev" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-hackertab.dev_.jpg" /></td>
+        <td>Productivity</td>
+        <td>TypeScript</td>
+        <td><a href="https://hackertab.dev" target="_blank">Hackertab.dev</a></td>
+        <td>A Chrome <g-emoji class="g-emoji" alias="globe_with_meridians" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f310.png">?</g-emoji> &amp; Firefox <g-emoji class="g-emoji" alias="fox_face" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f98a.png">?</g-emoji> extension to discover the best developer news and tools in one tab!</td>
+        <th><a href="https://github.com/medyo/hackertab.dev" target="_blank"><img alt="Hackertab.dev" src="https://img.shields.io/github/stars/medyo/hackertab.dev?style=social" /></a></th>
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="NativeScript-Vue" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-nativescript-vue-1.png" /></td>
@@ -5440,6 +5504,22 @@
         <td>An open source alternative to Tableau. Easily embedded as a component in web apps.</td>
         <th><a href="https://github.com/Kanaries/graphic-walker" target="_blank"><img alt="graphic-walker" src="https://img.shields.io/github/stars/Kanaries/graphic-walker?style=social" /></a></th>
     </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="DevHunt" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-devhunt.png" /></td>
+        <td>Infrastructure</td>
+        <td>TypeScript</td>
+        <td><a href="https://devhunt.org/" target="_blank">DevHunt</a></td>
+        <td>A launching platform for dev tools, built by developers. Open-source and collaborative, we use GitHub pull requests for listings and user logins for genuine voting. Join us at DevHunt to showcase y…</td>
+        <th><a href="https://github.com/MarsX-dev/devhunt" target="_blank"><img alt="DevHunt" src="https://img.shields.io/github/stars/MarsX-dev/devhunt?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="OpenStatus" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-openstatus.png" /></td>
+        <td>Miscellaneous</td>
+        <td>TypeScript</td>
+        <td><a href="https://openstatus.dev" target="_blank">OpenStatus</a></td>
+        <td>The open-source status page</td>
+        <th><a href="https://github.com/openstatusHQ/openstatus" target="_blank"><img alt="OpenStatus" src="https://img.shields.io/github/stars/openstatusHQ/openstatus?style=social" /></a></th>
+    </tr>
 
 </table>
 
@@ -5941,6 +6021,14 @@
         <th><a href="https://github.com/rovelstars/reejs" target="_blank"><img alt="Reejs" src="https://img.shields.io/github/stars/rovelstars/reejs?style=social" /></a></th>
     </tr>
     <tr>
+        <td nowrap="nowrap"><img width="33" alt="REI3" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-r3.png" /></td>
+        <td>Productivity</td>
+        <td>JavaScript</td>
+        <td><a href="https://rei3.de" target="_blank">REI3</a></td>
+        <td>REI3 - Free and open low code</td>
+        <th><a href="https://github.com/r3-team/r3" target="_blank"><img alt="REI3" src="https://img.shields.io/github/stars/r3-team/r3?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="Soundnode" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-soundnode-app.png" /></td>
         <td>Productivity</td>
         <td>JavaScript</td>
@@ -6211,6 +6299,14 @@
         <td><a href="https://github.com/apps/create-issue-branch" target="_blank">Create Issue Branch</a></td>
         <td>GitHub App/Action that automates the creation of issue branches</td>
         <th><a href="https://github.com/robvanderleek/create-issue-branch" target="_blank"><img alt="Create Issue Branch" src="https://img.shields.io/github/stars/robvanderleek/create-issue-branch?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Float UI" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-floatui.png" /></td>
+        <td>Productivity</td>
+        <td>JavaScript</td>
+        <td><a href="https://floatui.com/" target="_blank">Float UI</a></td>
+        <td>Beautiful and responsive UI components and templates for React and Vue (soon) with Tailwind CSS.</td>
+        <th><a href="https://github.com/MarsX-dev/floatui" target="_blank"><img alt="Float UI" src="https://img.shields.io/github/stars/MarsX-dev/floatui?style=social" /></a></th>
     </tr>
 
 </table>
@@ -6999,6 +7095,14 @@
         <td><a href="https://kitware.github.io/trame/" target="_blank">trame</a></td>
         <td>Trame lets you weave various components and technologies into a Web Application solely written in Python.</td>
         <th><a href="https://github.com/Kitware/trame" target="_blank"><img alt="trame" src="https://img.shields.io/github/stars/Kitware/trame?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Fenv" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-Fenv.png" /></td>
+        <td>Miscellaneous</td>
+        <td>Python</td>
+        <td><a href="https://watchakorn-18k.github.io/Fenv/" target="_blank">Fenv</a></td>
+        <td><g-emoji class="g-emoji" alias="fast_forward" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/23e9.png">⏩</g-emoji> Module for Generate a folder, establish a virtual environment with a single command. </td>
+        <th><a href="https://github.com/watchakorn-18k/Fenv" target="_blank"><img alt="Fenv" src="https://img.shields.io/github/stars/watchakorn-18k/Fenv?style=social" /></a></th>
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="ClusterFuzz" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-clusterfuzz.png" /></td>
