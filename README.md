@@ -148,6 +148,22 @@
         <th>Stargazers</th>
     </tr>
         <tr>
+        <td nowrap="nowrap"><img width="33" alt="Discord Package" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-Discord-Package.png" /></td>
+        <td>Observability</td>
+        <td>TypeScript</td>
+        <td><a href="https://discordpackage.com/" target="_blank">Discord Package</a></td>
+        <td>A detailed discord data package explorer inspired by ddpe.androz2091.fr made to help discord users visualize the data used by Discord.</td>
+        <th><a href="https://github.com/peterhanania/Discord-Package" target="_blank"><img alt="Discord Package" src="https://img.shields.io/github/stars/peterhanania/Discord-Package?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Formbricks" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-formbricks.png" /></td>
+        <td>Analytics</td>
+        <td>TypeScript</td>
+        <td><a href="https://formbricks.com" target="_blank">Formbricks</a></td>
+        <td>Open Source Surveys &amp; Experience Management Solution</td>
+        <th><a href="https://github.com/formbricks/formbricks" target="_blank"><img alt="Formbricks" src="https://img.shields.io/github/stars/formbricks/formbricks?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="Hackertab.dev" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-hackertab.dev_.jpg" /></td>
         <td>Productivity</td>
         <td>TypeScript</td>
@@ -290,22 +306,6 @@
         <td><a href="https://github.com/avahe-kellenberger/nimdow" target="_blank">Nimdow</a></td>
         <td>A window manager written in Nim (In Development)</td>
         <th><a href="https://github.com/avahe-kellenberger/nimdow" target="_blank"><img alt="Nimdow" src="https://img.shields.io/github/stars/avahe-kellenberger/nimdow?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="ZJU Rule" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-ZJU-Rule.png" /></td>
-        <td>Productivity</td>
-        <td>undefined</td>
-        <td><a href="https://zjurule.xyz" target="_blank">ZJU Rule</a></td>
-        <td>ZJU Clash 分流规则</td>
-        <th><a href="https://github.com/Mythologyli/ZJU-Rule" target="_blank"><img alt="ZJU Rule" src="https://img.shields.io/github/stars/Mythologyli/ZJU-Rule?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="CnPack IDE Wizards" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-cnwizards.png" /></td>
-        <td>Productivity</td>
-        <td>Pascal</td>
-        <td><a href="http://www.cnpack.org" target="_blank">CnPack IDE Wizards</a></td>
-        <td>CnPack IDE Wizards</td>
-        <th><a href="https://github.com/cnpack/cnwizards" target="_blank"><img alt="CnPack IDE Wizards" src="https://img.shields.io/github/stars/cnpack/cnwizards?style=social" /></a></th>
     </tr>
 
 </table>
@@ -1751,6 +1751,14 @@
         <td>Web UI to viewing logs</td>
         <th><a href="https://github.com/sevdokimov/log-viewer" target="_blank"><img alt="Log Viewer" src="https://img.shields.io/github/stars/sevdokimov/log-viewer?style=social" /></a></th>
     </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Discord Package" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-Discord-Package.png" /></td>
+        <td>Observability</td>
+        <td>TypeScript</td>
+        <td><a href="https://discordpackage.com/" target="_blank">Discord Package</a></td>
+        <td>A detailed discord data package explorer inspired by ddpe.androz2091.fr made to help discord users visualize the data used by Discord.</td>
+        <th><a href="https://github.com/peterhanania/Discord-Package" target="_blank"><img alt="Discord Package" src="https://img.shields.io/github/stars/peterhanania/Discord-Package?style=social" /></a></th>
+    </tr>
 
 </table>
 
@@ -3090,6 +3098,14 @@
         <td><a href="https://github.com/Kanaries/GWalkR" target="_blank">GWalkR</a></td>
         <td>Turn your data frame into a tableau style drag and drop UI interface to build visualization in R.</td>
         <th><a href="https://github.com/Kanaries/GWalkR" target="_blank"><img alt="GWalkR" src="https://img.shields.io/github/stars/Kanaries/GWalkR?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Formbricks" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-formbricks.png" /></td>
+        <td>Analytics</td>
+        <td>TypeScript</td>
+        <td><a href="https://formbricks.com" target="_blank">Formbricks</a></td>
+        <td>Open Source Surveys &amp; Experience Management Solution</td>
+        <th><a href="https://github.com/formbricks/formbricks" target="_blank"><img alt="Formbricks" src="https://img.shields.io/github/stars/formbricks/formbricks?style=social" /></a></th>
     </tr>
 
 </table>
@@ -5519,6 +5535,22 @@
         <td><a href="https://openstatus.dev" target="_blank">OpenStatus</a></td>
         <td>The open-source status page</td>
         <th><a href="https://github.com/openstatusHQ/openstatus" target="_blank"><img alt="OpenStatus" src="https://img.shields.io/github/stars/openstatusHQ/openstatus?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Discord Package" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-Discord-Package.png" /></td>
+        <td>Observability</td>
+        <td>TypeScript</td>
+        <td><a href="https://discordpackage.com/" target="_blank">Discord Package</a></td>
+        <td>A detailed discord data package explorer inspired by ddpe.androz2091.fr made to help discord users visualize the data used by Discord.</td>
+        <th><a href="https://github.com/peterhanania/Discord-Package" target="_blank"><img alt="Discord Package" src="https://img.shields.io/github/stars/peterhanania/Discord-Package?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Formbricks" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-formbricks.png" /></td>
+        <td>Analytics</td>
+        <td>TypeScript</td>
+        <td><a href="https://formbricks.com" target="_blank">Formbricks</a></td>
+        <td>Open Source Surveys &amp; Experience Management Solution</td>
+        <th><a href="https://github.com/formbricks/formbricks" target="_blank"><img alt="Formbricks" src="https://img.shields.io/github/stars/formbricks/formbricks?style=social" /></a></th>
     </tr>
 
 </table>
