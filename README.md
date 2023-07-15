@@ -164,6 +164,30 @@
         <th><a href="https://github.com/formbricks/formbricks" target="_blank"><img alt="Formbricks" src="https://img.shields.io/github/stars/formbricks/formbricks?style=social" /></a></th>
     </tr>
     <tr>
+        <td nowrap="nowrap"><img width="33" alt="PyCM" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-pycm.png" /></td>
+        <td>Miscellaneous</td>
+        <td>Python</td>
+        <td><a href="http://pycm.io" target="_blank">PyCM</a></td>
+        <td>Multi-class confusion matrix library in Python</td>
+        <th><a href="https://github.com/sepandhaghighi/pycm" target="_blank"><img alt="PyCM" src="https://img.shields.io/github/stars/sepandhaghighi/pycm?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Art" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-art.png" /></td>
+        <td>Miscellaneous</td>
+        <td>Python</td>
+        <td><a href="https://www.ascii-art.site" target="_blank">Art</a></td>
+        <td><g-emoji class="g-emoji" alias="art" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f3a8.png">?</g-emoji> ASCII art library for Python</td>
+        <th><a href="https://github.com/sepandhaghighi/art" target="_blank"><img alt="Art" src="https://img.shields.io/github/stars/sepandhaghighi/art?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Architecture Decision Record" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-architecture-decision-record.jpg" /></td>
+        <td>Infrastructure</td>
+        <td>undefined</td>
+        <td><a href="https://github.com/joelparkerhenderson/architecture-decision-record" target="_blank">Architecture Decision Record</a></td>
+        <td>Architecture decision record (ADR) examples for software planning, IT leadership, and template documentation</td>
+        <th><a href="https://github.com/joelparkerhenderson/architecture-decision-record" target="_blank"><img alt="Architecture Decision Record" src="https://img.shields.io/github/stars/joelparkerhenderson/architecture-decision-record?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="Hackertab.dev" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-hackertab.dev_.jpg" /></td>
         <td>Productivity</td>
         <td>TypeScript</td>
@@ -186,6 +210,14 @@
         <td><a href="https://rei3.de" target="_blank">REI3</a></td>
         <td>REI3 - Free and open low code</td>
         <th><a href="https://github.com/r3-team/r3" target="_blank"><img alt="REI3" src="https://img.shields.io/github/stars/r3-team/r3?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="OpenStatus" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-openstatus.png" /></td>
+        <td>Miscellaneous</td>
+        <td>TypeScript</td>
+        <td><a href="https://openstatus.dev" target="_blank">OpenStatus</a></td>
+        <td>The open-source status page</td>
+        <th><a href="https://github.com/openstatusHQ/openstatus" target="_blank"><img alt="OpenStatus" src="https://img.shields.io/github/stars/openstatusHQ/openstatus?style=social" /></a></th>
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="ThorsSerializer" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-ThorsSerializer.jpg" /></td>
@@ -260,14 +292,6 @@
         <th><a href="https://github.com/MarsX-dev/devhunt" target="_blank"><img alt="DevHunt" src="https://img.shields.io/github/stars/MarsX-dev/devhunt?style=social" /></a></th>
     </tr>
     <tr>
-        <td nowrap="nowrap"><img width="33" alt="OpenStatus" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-openstatus.png" /></td>
-        <td>Miscellaneous</td>
-        <td>TypeScript</td>
-        <td><a href="https://openstatus.dev" target="_blank">OpenStatus</a></td>
-        <td>The open-source status page</td>
-        <th><a href="https://github.com/openstatusHQ/openstatus" target="_blank"><img alt="OpenStatus" src="https://img.shields.io/github/stars/openstatusHQ/openstatus?style=social" /></a></th>
-    </tr>
-    <tr>
         <td nowrap="nowrap"><img width="33" alt="PyPOTS" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-PyPOTS.jpg" /></td>
         <td>Analytics</td>
         <td>Python</td>
@@ -282,30 +306,6 @@
         <td><a href="https://qwerty.kaiyi.cool/" target="_blank">Qwerty Learner</a></td>
         <td>为键盘工作者设计的单词记忆与英语肌肉记忆锻炼软件 / Words learning and English muscle memory training software designed for keyboard workers</td>
         <th><a href="https://github.com/Kaiyiwing/qwerty-learner" target="_blank"><img alt="Qwerty Learner" src="https://img.shields.io/github/stars/Kaiyiwing/qwerty-learner?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Qwerty Learner VSCode" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-qwerty-learner-vscode.jpg" /></td>
-        <td>Productivity</td>
-        <td>TypeScript</td>
-        <td><a href="https://marketplace.visualstudio.com/items?itemName=Kaiyi.qwerty-learner" target="_blank">Qwerty Learner VSCode</a></td>
-        <td>为键盘工作者设计的单词记忆与英语肌肉记忆锻炼软件 VSCode 摸<g-emoji class="g-emoji" alias="fish" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f41f.png">?</g-emoji>版 / Words learning and English muscle memory training software designed for keyboard workers for VSCode</td>
-        <th><a href="https://github.com/Kaiyiwing/qwerty-learner-vscode" target="_blank"><img alt="Qwerty Learner VSCode" src="https://img.shields.io/github/stars/Kaiyiwing/qwerty-learner-vscode?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Create Issue Branch" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-create-issue-branch.jpg" /></td>
-        <td>Productivity</td>
-        <td>JavaScript</td>
-        <td><a href="https://github.com/apps/create-issue-branch" target="_blank">Create Issue Branch</a></td>
-        <td>GitHub App/Action that automates the creation of issue branches</td>
-        <th><a href="https://github.com/robvanderleek/create-issue-branch" target="_blank"><img alt="Create Issue Branch" src="https://img.shields.io/github/stars/robvanderleek/create-issue-branch?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Nimdow" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-nimdow.png" /></td>
-        <td>Productivity</td>
-        <td>Nim</td>
-        <td><a href="https://github.com/avahe-kellenberger/nimdow" target="_blank">Nimdow</a></td>
-        <td>A window manager written in Nim (In Development)</td>
-        <th><a href="https://github.com/avahe-kellenberger/nimdow" target="_blank"><img alt="Nimdow" src="https://img.shields.io/github/stars/avahe-kellenberger/nimdow?style=social" /></a></th>
     </tr>
 
 </table>
@@ -995,6 +995,14 @@
         <th><a href="https://github.com/r3-team/r3" target="_blank"><img alt="REI3" src="https://img.shields.io/github/stars/r3-team/r3?style=social" /></a></th>
     </tr>
     <tr>
+        <td nowrap="nowrap"><img width="33" alt="OpenStatus" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-openstatus.png" /></td>
+        <td>Miscellaneous</td>
+        <td>TypeScript</td>
+        <td><a href="https://openstatus.dev" target="_blank">OpenStatus</a></td>
+        <td>The open-source status page</td>
+        <th><a href="https://github.com/openstatusHQ/openstatus" target="_blank"><img alt="OpenStatus" src="https://img.shields.io/github/stars/openstatusHQ/openstatus?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="ClusterFuzz" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-clusterfuzz.png" /></td>
         <td>Infrastructure</td>
         <td>Python</td>
@@ -1113,14 +1121,6 @@
         <td><a href="https://markmap.js.org/" target="_blank">Markmap</a></td>
         <td>Visualize your Markdown as mindmaps with Markmap.</td>
         <th><a href="https://github.com/markmap/markmap" target="_blank"><img alt="Markmap" src="https://img.shields.io/github/stars/markmap/markmap?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="grocy" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-grocy.png" /></td>
-        <td>Productivity</td>
-        <td>JavaScript</td>
-        <td><a href="https://grocy.info" target="_blank">grocy</a></td>
-        <td>ERP beyond your fridge - grocy is a web-based self-hosted groceries &amp; household management solution for your home</td>
-        <th><a href="https://github.com/grocy/grocy" target="_blank"><img alt="grocy" src="https://img.shields.io/github/stars/grocy/grocy?style=social" /></a></th>
     </tr>
 
 </table>
@@ -1256,6 +1256,14 @@
         <td><a href="https://watchakorn-18k.github.io/Fenv/" target="_blank">Fenv</a></td>
         <td><g-emoji class="g-emoji" alias="fast_forward" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/23e9.png">⏩</g-emoji> Module for Generate a folder, establish a virtual environment with a single command. </td>
         <th><a href="https://github.com/watchakorn-18k/Fenv" target="_blank"><img alt="Fenv" src="https://img.shields.io/github/stars/watchakorn-18k/Fenv?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="OpenStatus" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-openstatus.png" /></td>
+        <td>Miscellaneous</td>
+        <td>TypeScript</td>
+        <td><a href="https://openstatus.dev" target="_blank">OpenStatus</a></td>
+        <td>The open-source status page</td>
+        <th><a href="https://github.com/openstatusHQ/openstatus" target="_blank"><img alt="OpenStatus" src="https://img.shields.io/github/stars/openstatusHQ/openstatus?style=social" /></a></th>
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="Cemu Emulator" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-Cemu.png" /></td>
@@ -1538,12 +1546,20 @@
         <th><a href="https://github.com/Unleash/unleash" target="_blank"><img alt="Unleash" src="https://img.shields.io/github/stars/Unleash/unleash?style=social" /></a></th>
     </tr>
     <tr>
-        <td nowrap="nowrap"><img width="33" alt="OpenStatus" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-openstatus.png" /></td>
+        <td nowrap="nowrap"><img width="33" alt="PyCM" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-pycm.png" /></td>
         <td>Miscellaneous</td>
-        <td>TypeScript</td>
-        <td><a href="https://openstatus.dev" target="_blank">OpenStatus</a></td>
-        <td>The open-source status page</td>
-        <th><a href="https://github.com/openstatusHQ/openstatus" target="_blank"><img alt="OpenStatus" src="https://img.shields.io/github/stars/openstatusHQ/openstatus?style=social" /></a></th>
+        <td>Python</td>
+        <td><a href="http://pycm.io" target="_blank">PyCM</a></td>
+        <td>Multi-class confusion matrix library in Python</td>
+        <th><a href="https://github.com/sepandhaghighi/pycm" target="_blank"><img alt="PyCM" src="https://img.shields.io/github/stars/sepandhaghighi/pycm?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Art" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-art.png" /></td>
+        <td>Miscellaneous</td>
+        <td>Python</td>
+        <td><a href="https://www.ascii-art.site" target="_blank">Art</a></td>
+        <td><g-emoji class="g-emoji" alias="art" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f3a8.png">?</g-emoji> ASCII art library for Python</td>
+        <th><a href="https://github.com/sepandhaghighi/art" target="_blank"><img alt="Art" src="https://img.shields.io/github/stars/sepandhaghighi/art?style=social" /></a></th>
     </tr>
 
 </table>
@@ -4761,6 +4777,14 @@
         <td>A launching platform for dev tools, built by developers. Open-source and collaborative, we use GitHub pull requests for listings and user logins for genuine voting. Join us at DevHunt to showcase y…</td>
         <th><a href="https://github.com/MarsX-dev/devhunt" target="_blank"><img alt="DevHunt" src="https://img.shields.io/github/stars/MarsX-dev/devhunt?style=social" /></a></th>
     </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Architecture Decision Record" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-architecture-decision-record.jpg" /></td>
+        <td>Infrastructure</td>
+        <td>undefined</td>
+        <td><a href="https://github.com/joelparkerhenderson/architecture-decision-record" target="_blank">Architecture Decision Record</a></td>
+        <td>Architecture decision record (ADR) examples for software planning, IT leadership, and template documentation</td>
+        <th><a href="https://github.com/joelparkerhenderson/architecture-decision-record" target="_blank"><img alt="Architecture Decision Record" src="https://img.shields.io/github/stars/joelparkerhenderson/architecture-decision-record?style=social" /></a></th>
+    </tr>
 
 </table>
 
@@ -4991,6 +5015,14 @@
         <td><a href="https://railtrack.ch" target="_blank">Railtrack</a></td>
         <td>Next.js and Supabase app to track your train journeys in Europe</td>
         <th><a href="https://github.com/noahflk/railtrack" target="_blank"><img alt="Railtrack" src="https://img.shields.io/github/stars/noahflk/railtrack?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="OpenStatus" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-openstatus.png" /></td>
+        <td>Miscellaneous</td>
+        <td>TypeScript</td>
+        <td><a href="https://openstatus.dev" target="_blank">OpenStatus</a></td>
+        <td>The open-source status page</td>
+        <th><a href="https://github.com/openstatusHQ/openstatus" target="_blank"><img alt="OpenStatus" src="https://img.shields.io/github/stars/openstatusHQ/openstatus?style=social" /></a></th>
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="The Lounge" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-thelounge.png" /></td>
@@ -5527,14 +5559,6 @@
         <td><a href="https://devhunt.org/" target="_blank">DevHunt</a></td>
         <td>A launching platform for dev tools, built by developers. Open-source and collaborative, we use GitHub pull requests for listings and user logins for genuine voting. Join us at DevHunt to showcase y…</td>
         <th><a href="https://github.com/MarsX-dev/devhunt" target="_blank"><img alt="DevHunt" src="https://img.shields.io/github/stars/MarsX-dev/devhunt?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="OpenStatus" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-openstatus.png" /></td>
-        <td>Miscellaneous</td>
-        <td>TypeScript</td>
-        <td><a href="https://openstatus.dev" target="_blank">OpenStatus</a></td>
-        <td>The open-source status page</td>
-        <th><a href="https://github.com/openstatusHQ/openstatus" target="_blank"><img alt="OpenStatus" src="https://img.shields.io/github/stars/openstatusHQ/openstatus?style=social" /></a></th>
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="Discord Package" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-Discord-Package.png" /></td>
@@ -7407,6 +7431,22 @@
         <td><a href="https://pypots.com" target="_blank">PyPOTS</a></td>
         <td>A python toolbox/library for data mining on partially-observed time series with PyTorch, including SOTA models supporting tasks of imputation, classification, clustering, and forecasting on incompl…</td>
         <th><a href="https://github.com/WenjieDu/PyPOTS" target="_blank"><img alt="PyPOTS" src="https://img.shields.io/github/stars/WenjieDu/PyPOTS?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="PyCM" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-pycm.png" /></td>
+        <td>Miscellaneous</td>
+        <td>Python</td>
+        <td><a href="http://pycm.io" target="_blank">PyCM</a></td>
+        <td>Multi-class confusion matrix library in Python</td>
+        <th><a href="https://github.com/sepandhaghighi/pycm" target="_blank"><img alt="PyCM" src="https://img.shields.io/github/stars/sepandhaghighi/pycm?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Art" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-art.png" /></td>
+        <td>Miscellaneous</td>
+        <td>Python</td>
+        <td><a href="https://www.ascii-art.site" target="_blank">Art</a></td>
+        <td><g-emoji class="g-emoji" alias="art" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f3a8.png">?</g-emoji> ASCII art library for Python</td>
+        <th><a href="https://github.com/sepandhaghighi/art" target="_blank"><img alt="Art" src="https://img.shields.io/github/stars/sepandhaghighi/art?style=social" /></a></th>
     </tr>
 
 </table>
