@@ -196,6 +196,22 @@
         <th><a href="https://github.com/hyper-designed/box_transform" target="_blank"><img alt="Box Transform" src="https://img.shields.io/github/stars/hyper-designed/box_transform?style=social" /></a></th>
     </tr>
     <tr>
+        <td nowrap="nowrap"><img width="33" alt="Undercover" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-undercover.jpg" /></td>
+        <td>Miscellaneous</td>
+        <td>Ruby</td>
+        <td><a href="https://undercover-ci.com" target="_blank">Undercover</a></td>
+        <td>Actionable code coverage - detects untested code blocks in recent changes</td>
+        <th><a href="https://github.com/grodowski/undercover" target="_blank"><img alt="Undercover" src="https://img.shields.io/github/stars/grodowski/undercover?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="SwitchFeat" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-switchfeat.png" /></td>
+        <td>Miscellaneous</td>
+        <td>TypeScript</td>
+        <td><a href="https://switchfeat.com" target="_blank">SwitchFeat</a></td>
+        <td>Feature flags and A/B testing framework.</td>
+        <th><a href="https://github.com/switchfeat-com/switchfeat" target="_blank"><img alt="SwitchFeat" src="https://img.shields.io/github/stars/switchfeat-com/switchfeat?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="Discord Package" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-Discord-Package.png" /></td>
         <td>Observability</td>
         <td>TypeScript</td>
@@ -290,22 +306,6 @@
         <td><a href="https://docs.kanaries.net/pygwalker" target="_blank">pygwalker</a></td>
         <td>PyGWalker: Turn your pandas dataframe into a Tableau-style User Interface for visual analysis</td>
         <th><a href="https://github.com/Kanaries/pygwalker" target="_blank"><img alt="pygwalker" src="https://img.shields.io/github/stars/Kanaries/pygwalker?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Rath" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-Rath.png" /></td>
-        <td>Analytics</td>
-        <td>TypeScript</td>
-        <td><a href="https://kanaries.net" target="_blank">Rath</a></td>
-        <td>Next generation of automated data exploratory analysis and visualization platform.</td>
-        <th><a href="https://github.com/Kanaries/Rath" target="_blank"><img alt="Rath" src="https://img.shields.io/github/stars/Kanaries/Rath?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="graphic-walker" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-graphic-walker.png" /></td>
-        <td>Analytics</td>
-        <td>TypeScript</td>
-        <td><a href="https://docs.kanaries.net/graphic-walker" target="_blank">graphic-walker</a></td>
-        <td>An open source alternative to Tableau. Easily embedded as a component in web apps.</td>
-        <th><a href="https://github.com/Kanaries/graphic-walker" target="_blank"><img alt="graphic-walker" src="https://img.shields.io/github/stars/Kanaries/graphic-walker?style=social" /></a></th>
     </tr>
 
 </table>
@@ -633,6 +633,14 @@
         <td><a href="https://materialize.com" target="_blank">Materialize</a></td>
         <td>Materialize is a fast, distributed SQL database built on streaming internals.</td>
         <th><a href="https://github.com/MaterializeInc/materialize" target="_blank"><img alt="Materialize" src="https://img.shields.io/github/stars/MaterializeInc/materialize?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Danger" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-danger.png" /></td>
+        <td>Collaboration</td>
+        <td>Ruby</td>
+        <td><a href="https://danger.systems" target="_blank">Danger</a></td>
+        <td><g-emoji class="g-emoji" alias="no_entry_sign" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f6ab.png">?</g-emoji> Stop saying "you forgot to …" in code review (in Ruby)</td>
+        <th><a href="https://github.com/danger/danger" target="_blank"><img alt="Danger" src="https://img.shields.io/github/stars/danger/danger?style=social" /></a></th>
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="Flutter Gallery" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-gallery.png" /></td>
@@ -1114,14 +1122,6 @@
         <td>Cemu - Wii U emulator</td>
         <th><a href="https://github.com/cemu-project/Cemu" target="_blank"><img alt="Cemu Emulator" src="https://img.shields.io/github/stars/cemu-project/Cemu?style=social" /></a></th>
     </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="froala/wysiwyg-editor" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-wysiwyg-editor.png" /></td>
-        <td>Productivity</td>
-        <td>CSS</td>
-        <td><a href="https://www.froala.com/wysiwyg-editor" target="_blank">froala/wysiwyg-editor</a></td>
-        <td>The next generation Javascript WYSIWYG HTML Editor.</td>
-        <th><a href="https://github.com/froala/wysiwyg-editor" target="_blank"><img alt="froala/wysiwyg-editor" src="https://img.shields.io/github/stars/froala/wysiwyg-editor?style=social" /></a></th>
-    </tr>
 
 </table>
 
@@ -1576,6 +1576,22 @@
         <td><a href="https://birjuvachhani.github.io/pluto" target="_blank">Pluto</a></td>
         <td>A minimal new tab for Chrome/Edge.</td>
         <th><a href="https://github.com/BirjuVachhani/pluto" target="_blank"><img alt="Pluto" src="https://img.shields.io/github/stars/BirjuVachhani/pluto?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Undercover" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-undercover.jpg" /></td>
+        <td>Miscellaneous</td>
+        <td>Ruby</td>
+        <td><a href="https://undercover-ci.com" target="_blank">Undercover</a></td>
+        <td>Actionable code coverage - detects untested code blocks in recent changes</td>
+        <th><a href="https://github.com/grodowski/undercover" target="_blank"><img alt="Undercover" src="https://img.shields.io/github/stars/grodowski/undercover?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="SwitchFeat" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-switchfeat.png" /></td>
+        <td>Miscellaneous</td>
+        <td>TypeScript</td>
+        <td><a href="https://switchfeat.com" target="_blank">SwitchFeat</a></td>
+        <td>Feature flags and A/B testing framework.</td>
+        <th><a href="https://github.com/switchfeat-com/switchfeat" target="_blank"><img alt="SwitchFeat" src="https://img.shields.io/github/stars/switchfeat-com/switchfeat?style=social" /></a></th>
     </tr>
 
 </table>
@@ -3472,6 +3488,14 @@
         <th><a href="https://github.com/UnityTechnologies/open-project-1" target="_blank"><img alt="Unity" src="https://img.shields.io/github/stars/UnityTechnologies/open-project-1?style=social" /></a></th>
     </tr>
     <tr>
+        <td nowrap="nowrap"><img width="33" alt="Danger" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-danger.png" /></td>
+        <td>Collaboration</td>
+        <td>Ruby</td>
+        <td><a href="https://danger.systems" target="_blank">Danger</a></td>
+        <td><g-emoji class="g-emoji" alias="no_entry_sign" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f6ab.png">?</g-emoji> Stop saying "you forgot to …" in code review (in Ruby)</td>
+        <th><a href="https://github.com/danger/danger" target="_blank"><img alt="Danger" src="https://img.shields.io/github/stars/danger/danger?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="Snapify" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-snapify.png" /></td>
         <td>Collaboration</td>
         <td>TypeScript</td>
@@ -3486,14 +3510,6 @@
         <td><a href="https://thelounge.chat" target="_blank">The Lounge</a></td>
         <td><g-emoji class="g-emoji" alias="speech_balloon" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4ac.png">?</g-emoji> ‎ Modern, responsive, cross-platform, self-hosted web IRC client</td>
         <th><a href="https://github.com/thelounge/thelounge" target="_blank"><img alt="The Lounge" src="https://img.shields.io/github/stars/thelounge/thelounge?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Danger" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-danger.png" /></td>
-        <td>Collaboration</td>
-        <td>Ruby</td>
-        <td><a href="https://danger.systems" target="_blank">Danger</a></td>
-        <td><g-emoji class="g-emoji" alias="no_entry_sign" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f6ab.png">?</g-emoji> Stop saying "you forgot to …" in code review (in Ruby)</td>
-        <th><a href="https://github.com/danger/danger" target="_blank"><img alt="Danger" src="https://img.shields.io/github/stars/danger/danger?style=social" /></a></th>
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="Shopify Polaris" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-polaris.png" /></td>
@@ -5640,6 +5656,14 @@
         <td><g-emoji class="g-emoji" alias="mailbox_with_mail" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4ec.png">?</g-emoji> Small and efficient cache interceptor for axios. Etag, Cache-Control, TTL, HTTP headers and more!</td>
         <th><a href="https://github.com/arthurfiorette/axios-cache-interceptor" target="_blank"><img alt="Axios Cache Interceptor" src="https://img.shields.io/github/stars/arthurfiorette/axios-cache-interceptor?style=social" /></a></th>
     </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="SwitchFeat" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-switchfeat.png" /></td>
+        <td>Miscellaneous</td>
+        <td>TypeScript</td>
+        <td><a href="https://switchfeat.com" target="_blank">SwitchFeat</a></td>
+        <td>Feature flags and A/B testing framework.</td>
+        <th><a href="https://github.com/switchfeat-com/switchfeat" target="_blank"><img alt="SwitchFeat" src="https://img.shields.io/github/stars/switchfeat-com/switchfeat?style=social" /></a></th>
+    </tr>
 
 </table>
 
@@ -7605,6 +7629,14 @@
         <td><a href="https://cucumber.io" target="_blank">Cucumber</a></td>
         <td>Cucumber for Ruby. It's amazing!</td>
         <th><a href="https://github.com/cucumber/cucumber-ruby" target="_blank"><img alt="Cucumber" src="https://img.shields.io/github/stars/cucumber/cucumber-ruby?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Undercover" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-undercover.jpg" /></td>
+        <td>Miscellaneous</td>
+        <td>Ruby</td>
+        <td><a href="https://undercover-ci.com" target="_blank">Undercover</a></td>
+        <td>Actionable code coverage - detects untested code blocks in recent changes</td>
+        <th><a href="https://github.com/grodowski/undercover" target="_blank"><img alt="Undercover" src="https://img.shields.io/github/stars/grodowski/undercover?style=social" /></a></th>
     </tr>
 
 </table>
