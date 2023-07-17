@@ -148,6 +148,14 @@
         <th>Stargazers</th>
     </tr>
         <tr>
+        <td nowrap="nowrap"><img width="33" alt="Bob" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-bob.jpg" /></td>
+        <td>Databases</td>
+        <td>Go</td>
+        <td><a href="https://bob.stephenafamo.com" target="_blank">Bob</a></td>
+        <td>SQL query builder and ORM/Factory generator for Go with support for PostgreSQL, MySQL and SQLite</td>
+        <th><a href="https://github.com/stephenafamo/bob" target="_blank"><img alt="Bob" src="https://img.shields.io/github/stars/stephenafamo/bob?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="Discord Package" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-Discord-Package.png" /></td>
         <td>Observability</td>
         <td>TypeScript</td>
@@ -196,6 +204,14 @@
         <th><a href="https://github.com/medyo/hackertab.dev" target="_blank"><img alt="Hackertab.dev" src="https://img.shields.io/github/stars/medyo/hackertab.dev?style=social" /></a></th>
     </tr>
     <tr>
+        <td nowrap="nowrap"><img width="33" alt="OpenStatus" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-openstatus.png" /></td>
+        <td>Miscellaneous</td>
+        <td>TypeScript</td>
+        <td><a href="https://openstatus.dev" target="_blank">OpenStatus</a></td>
+        <td>The open-source status page</td>
+        <th><a href="https://github.com/openstatusHQ/openstatus" target="_blank"><img alt="OpenStatus" src="https://img.shields.io/github/stars/openstatusHQ/openstatus?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="Fenv" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-Fenv.png" /></td>
         <td>Miscellaneous</td>
         <td>Python</td>
@@ -210,14 +226,6 @@
         <td><a href="https://rei3.de" target="_blank">REI3</a></td>
         <td>REI3 - Free and open low code</td>
         <th><a href="https://github.com/r3-team/r3" target="_blank"><img alt="REI3" src="https://img.shields.io/github/stars/r3-team/r3?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="OpenStatus" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-openstatus.png" /></td>
-        <td>Miscellaneous</td>
-        <td>TypeScript</td>
-        <td><a href="https://openstatus.dev" target="_blank">OpenStatus</a></td>
-        <td>The open-source status page</td>
-        <th><a href="https://github.com/openstatusHQ/openstatus" target="_blank"><img alt="OpenStatus" src="https://img.shields.io/github/stars/openstatusHQ/openstatus?style=social" /></a></th>
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="ThorsSerializer" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-ThorsSerializer.jpg" /></td>
@@ -298,14 +306,6 @@
         <td><a href="https://pypots.com" target="_blank">PyPOTS</a></td>
         <td>A python toolbox/library for data mining on partially-observed time series with PyTorch, including SOTA models supporting tasks of imputation, classification, clustering, and forecasting on incompl…</td>
         <th><a href="https://github.com/WenjieDu/PyPOTS" target="_blank"><img alt="PyPOTS" src="https://img.shields.io/github/stars/WenjieDu/PyPOTS?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Qwerty Learner" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-qwerty-learner.jpg" /></td>
-        <td>Productivity</td>
-        <td>TypeScript</td>
-        <td><a href="https://qwerty.kaiyi.cool/" target="_blank">Qwerty Learner</a></td>
-        <td>为键盘工作者设计的单词记忆与英语肌肉记忆锻炼软件 / Words learning and English muscle memory training software designed for keyboard workers</td>
-        <th><a href="https://github.com/Kaiyiwing/qwerty-learner" target="_blank"><img alt="Qwerty Learner" src="https://img.shields.io/github/stars/Kaiyiwing/qwerty-learner?style=social" /></a></th>
     </tr>
 
 </table>
@@ -609,6 +609,14 @@
         <td><a href="https://hackertab.dev" target="_blank">Hackertab.dev</a></td>
         <td>A Chrome <g-emoji class="g-emoji" alias="globe_with_meridians" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f310.png">?</g-emoji> &amp; Firefox <g-emoji class="g-emoji" alias="fox_face" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f98a.png">?</g-emoji> extension to discover the best developer news and tools in one tab!</td>
         <th><a href="https://github.com/medyo/hackertab.dev" target="_blank"><img alt="Hackertab.dev" src="https://img.shields.io/github/stars/medyo/hackertab.dev?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="OpenStatus" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-openstatus.png" /></td>
+        <td>Miscellaneous</td>
+        <td>TypeScript</td>
+        <td><a href="https://openstatus.dev" target="_blank">OpenStatus</a></td>
+        <td>The open-source status page</td>
+        <th><a href="https://github.com/openstatusHQ/openstatus" target="_blank"><img alt="OpenStatus" src="https://img.shields.io/github/stars/openstatusHQ/openstatus?style=social" /></a></th>
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="Mirage JS" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-miragejs.png" /></td>
@@ -995,14 +1003,6 @@
         <th><a href="https://github.com/r3-team/r3" target="_blank"><img alt="REI3" src="https://img.shields.io/github/stars/r3-team/r3?style=social" /></a></th>
     </tr>
     <tr>
-        <td nowrap="nowrap"><img width="33" alt="OpenStatus" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-openstatus.png" /></td>
-        <td>Miscellaneous</td>
-        <td>TypeScript</td>
-        <td><a href="https://openstatus.dev" target="_blank">OpenStatus</a></td>
-        <td>The open-source status page</td>
-        <th><a href="https://github.com/openstatusHQ/openstatus" target="_blank"><img alt="OpenStatus" src="https://img.shields.io/github/stars/openstatusHQ/openstatus?style=social" /></a></th>
-    </tr>
-    <tr>
         <td nowrap="nowrap"><img width="33" alt="ClusterFuzz" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-clusterfuzz.png" /></td>
         <td>Infrastructure</td>
         <td>Python</td>
@@ -1186,6 +1186,14 @@
         <th><a href="https://github.com/ariasdiniz/macaw_framework" target="_blank"><img alt="MacawFramework" src="https://img.shields.io/github/stars/ariasdiniz/macaw_framework?style=social" /></a></th>
     </tr>
     <tr>
+        <td nowrap="nowrap"><img width="33" alt="OpenStatus" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-openstatus.png" /></td>
+        <td>Miscellaneous</td>
+        <td>TypeScript</td>
+        <td><a href="https://openstatus.dev" target="_blank">OpenStatus</a></td>
+        <td>The open-source status page</td>
+        <th><a href="https://github.com/openstatusHQ/openstatus" target="_blank"><img alt="OpenStatus" src="https://img.shields.io/github/stars/openstatusHQ/openstatus?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="wirepig" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-wirepig.jpg" /></td>
         <td>Miscellaneous</td>
         <td>JavaScript</td>
@@ -1256,14 +1264,6 @@
         <td><a href="https://watchakorn-18k.github.io/Fenv/" target="_blank">Fenv</a></td>
         <td><g-emoji class="g-emoji" alias="fast_forward" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/23e9.png">⏩</g-emoji> Module for Generate a folder, establish a virtual environment with a single command. </td>
         <th><a href="https://github.com/watchakorn-18k/Fenv" target="_blank"><img alt="Fenv" src="https://img.shields.io/github/stars/watchakorn-18k/Fenv?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="OpenStatus" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-openstatus.png" /></td>
-        <td>Miscellaneous</td>
-        <td>TypeScript</td>
-        <td><a href="https://openstatus.dev" target="_blank">OpenStatus</a></td>
-        <td>The open-source status page</td>
-        <th><a href="https://github.com/openstatusHQ/openstatus" target="_blank"><img alt="OpenStatus" src="https://img.shields.io/github/stars/openstatusHQ/openstatus?style=social" /></a></th>
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="Cemu Emulator" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-Cemu.png" /></td>
@@ -3859,6 +3859,14 @@
         <td>TinkerPop graph over sql</td>
         <th><a href="https://github.com/pietermartin/sqlg" target="_blank"><img alt="Sqlg" src="https://img.shields.io/github/stars/pietermartin/sqlg?style=social" /></a></th>
     </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Bob" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-bob.jpg" /></td>
+        <td>Databases</td>
+        <td>Go</td>
+        <td><a href="https://bob.stephenafamo.com" target="_blank">Bob</a></td>
+        <td>SQL query builder and ORM/Factory generator for Go with support for PostgreSQL, MySQL and SQLite</td>
+        <th><a href="https://github.com/stephenafamo/bob" target="_blank"><img alt="Bob" src="https://img.shields.io/github/stars/stephenafamo/bob?style=social" /></a></th>
+    </tr>
 
 </table>
 
@@ -4913,6 +4921,14 @@
         <th><a href="https://github.com/medyo/hackertab.dev" target="_blank"><img alt="Hackertab.dev" src="https://img.shields.io/github/stars/medyo/hackertab.dev?style=social" /></a></th>
     </tr>
     <tr>
+        <td nowrap="nowrap"><img width="33" alt="OpenStatus" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-openstatus.png" /></td>
+        <td>Miscellaneous</td>
+        <td>TypeScript</td>
+        <td><a href="https://openstatus.dev" target="_blank">OpenStatus</a></td>
+        <td>The open-source status page</td>
+        <th><a href="https://github.com/openstatusHQ/openstatus" target="_blank"><img alt="OpenStatus" src="https://img.shields.io/github/stars/openstatusHQ/openstatus?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="NativeScript-Vue" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-nativescript-vue-1.png" /></td>
         <td>Infrastructure</td>
         <td>TypeScript</td>
@@ -5015,14 +5031,6 @@
         <td><a href="https://railtrack.ch" target="_blank">Railtrack</a></td>
         <td>Next.js and Supabase app to track your train journeys in Europe</td>
         <th><a href="https://github.com/noahflk/railtrack" target="_blank"><img alt="Railtrack" src="https://img.shields.io/github/stars/noahflk/railtrack?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="OpenStatus" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-openstatus.png" /></td>
-        <td>Miscellaneous</td>
-        <td>TypeScript</td>
-        <td><a href="https://openstatus.dev" target="_blank">OpenStatus</a></td>
-        <td>The open-source status page</td>
-        <th><a href="https://github.com/openstatusHQ/openstatus" target="_blank"><img alt="OpenStatus" src="https://img.shields.io/github/stars/openstatusHQ/openstatus?style=social" /></a></th>
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="The Lounge" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-thelounge.png" /></td>
@@ -6705,6 +6713,14 @@
         <td><a href="https://github.com/otterize/network-mapper" target="_blank">Network mapper</a></td>
         <td>Map Kubernetes in-cluster traffic and export as text, intents, or an image</td>
         <th><a href="https://github.com/otterize/network-mapper" target="_blank"><img alt="Network mapper" src="https://img.shields.io/github/stars/otterize/network-mapper?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Bob" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-bob.jpg" /></td>
+        <td>Databases</td>
+        <td>Go</td>
+        <td><a href="https://bob.stephenafamo.com" target="_blank">Bob</a></td>
+        <td>SQL query builder and ORM/Factory generator for Go with support for PostgreSQL, MySQL and SQLite</td>
+        <th><a href="https://github.com/stephenafamo/bob" target="_blank"><img alt="Bob" src="https://img.shields.io/github/stars/stephenafamo/bob?style=social" /></a></th>
     </tr>
 
 </table>
