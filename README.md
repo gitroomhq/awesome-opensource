@@ -148,12 +148,52 @@
         <th>Stargazers</th>
     </tr>
         <tr>
+        <td nowrap="nowrap"><img width="33" alt="Snapify" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-snapify.png" /></td>
+        <td>Collaboration</td>
+        <td>TypeScript</td>
+        <td><a href="https://snapify.it" target="_blank">Snapify</a></td>
+        <td>Screen recording sharing for absolutely everyone.</td>
+        <th><a href="https://github.com/MarconLP/snapify" target="_blank"><img alt="Snapify" src="https://img.shields.io/github/stars/MarconLP/snapify?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="Bob" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-bob.jpg" /></td>
         <td>Databases</td>
         <td>Go</td>
         <td><a href="https://bob.stephenafamo.com" target="_blank">Bob</a></td>
         <td>SQL query builder and ORM/Factory generator for Go with support for PostgreSQL, MySQL and SQLite</td>
         <th><a href="https://github.com/stephenafamo/bob" target="_blank"><img alt="Bob" src="https://img.shields.io/github/stars/stephenafamo/bob?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Axios Cache Interceptor" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-axios-cache-interceptor.jpg" /></td>
+        <td>Miscellaneous</td>
+        <td>TypeScript</td>
+        <td><a href="https://axios-cache-interceptor.js.org" target="_blank">Axios Cache Interceptor</a></td>
+        <td><g-emoji class="g-emoji" alias="mailbox_with_mail" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4ec.png">?</g-emoji> Small and efficient cache interceptor for axios. Etag, Cache-Control, TTL, HTTP headers and more!</td>
+        <th><a href="https://github.com/arthurfiorette/axios-cache-interceptor" target="_blank"><img alt="Axios Cache Interceptor" src="https://img.shields.io/github/stars/arthurfiorette/axios-cache-interceptor?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Spider" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-spider.jpg" /></td>
+        <td>Productivity</td>
+        <td>Dart</td>
+        <td><a href="https://spider.birju.dev/" target="_blank">Spider</a></td>
+        <td>A small dart library to generate Assets dart code from assets folder.</td>
+        <th><a href="https://github.com/BirjuVachhani/spider" target="_blank"><img alt="Spider" src="https://img.shields.io/github/stars/BirjuVachhani/spider?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Pluto" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-pluto.jpg" /></td>
+        <td>Miscellaneous</td>
+        <td>Dart</td>
+        <td><a href="https://birjuvachhani.github.io/pluto" target="_blank">Pluto</a></td>
+        <td>A minimal new tab for Chrome/Edge.</td>
+        <th><a href="https://github.com/BirjuVachhani/pluto" target="_blank"><img alt="Pluto" src="https://img.shields.io/github/stars/BirjuVachhani/pluto?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Box Transform" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-box_transform.png" /></td>
+        <td>Productivity</td>
+        <td>Dart</td>
+        <td><a href="https://boxtransform.hyperdesigned.dev" target="_blank">Box Transform</a></td>
+        <td>A library for advanced resizing of rect in UI.</td>
+        <th><a href="https://github.com/hyper-designed/box_transform" target="_blank"><img alt="Box Transform" src="https://img.shields.io/github/stars/hyper-designed/box_transform?style=social" /></a></th>
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="Discord Package" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-Discord-Package.png" /></td>
@@ -266,46 +306,6 @@
         <td><a href="https://docs.kanaries.net/graphic-walker" target="_blank">graphic-walker</a></td>
         <td>An open source alternative to Tableau. Easily embedded as a component in web apps.</td>
         <th><a href="https://github.com/Kanaries/graphic-walker" target="_blank"><img alt="graphic-walker" src="https://img.shields.io/github/stars/Kanaries/graphic-walker?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="GWalkR" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-GWalkR-1.png" /></td>
-        <td>Analytics</td>
-        <td>R</td>
-        <td><a href="https://github.com/Kanaries/GWalkR" target="_blank">GWalkR</a></td>
-        <td>Turn your data frame into a tableau style drag and drop UI interface to build visualization in R.</td>
-        <th><a href="https://github.com/Kanaries/GWalkR" target="_blank"><img alt="GWalkR" src="https://img.shields.io/github/stars/Kanaries/GWalkR?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="MarsX" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-marsx.v4.png" /></td>
-        <td>Infrastructure</td>
-        <td>undefined</td>
-        <td><a href="https://github.com/MarsX-dev/marsx.v4" target="_blank">MarsX</a></td>
-        <td>We will push the code here in Q2 2023</td>
-        <th><a href="https://github.com/MarsX-dev/marsx.v4" target="_blank"><img alt="MarsX" src="https://img.shields.io/github/stars/MarsX-dev/marsx.v4?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Float UI" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-floatui.png" /></td>
-        <td>Productivity</td>
-        <td>JavaScript</td>
-        <td><a href="https://floatui.com/" target="_blank">Float UI</a></td>
-        <td>Beautiful and responsive UI components and templates for React and Vue (soon) with Tailwind CSS.</td>
-        <th><a href="https://github.com/MarsX-dev/floatui" target="_blank"><img alt="Float UI" src="https://img.shields.io/github/stars/MarsX-dev/floatui?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="DevHunt" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-devhunt.png" /></td>
-        <td>Infrastructure</td>
-        <td>TypeScript</td>
-        <td><a href="https://devhunt.org/" target="_blank">DevHunt</a></td>
-        <td>A launching platform for dev tools, built by developers. Open-source and collaborative, we use GitHub pull requests for listings and user logins for genuine voting. Join us at DevHunt to showcase y…</td>
-        <th><a href="https://github.com/MarsX-dev/devhunt" target="_blank"><img alt="DevHunt" src="https://img.shields.io/github/stars/MarsX-dev/devhunt?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="PyPOTS" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-PyPOTS.jpg" /></td>
-        <td>Analytics</td>
-        <td>Python</td>
-        <td><a href="https://pypots.com" target="_blank">PyPOTS</a></td>
-        <td>A python toolbox/library for data mining on partially-observed time series with PyTorch, including SOTA models supporting tasks of imputation, classification, clustering, and forecasting on incompl…</td>
-        <th><a href="https://github.com/WenjieDu/PyPOTS" target="_blank"><img alt="PyPOTS" src="https://img.shields.io/github/stars/WenjieDu/PyPOTS?style=social" /></a></th>
     </tr>
 
 </table>
@@ -1003,6 +1003,14 @@
         <th><a href="https://github.com/r3-team/r3" target="_blank"><img alt="REI3" src="https://img.shields.io/github/stars/r3-team/r3?style=social" /></a></th>
     </tr>
     <tr>
+        <td nowrap="nowrap"><img width="33" alt="Snapify" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-snapify.png" /></td>
+        <td>Collaboration</td>
+        <td>TypeScript</td>
+        <td><a href="https://snapify.it" target="_blank">Snapify</a></td>
+        <td>Screen recording sharing for absolutely everyone.</td>
+        <th><a href="https://github.com/MarconLP/snapify" target="_blank"><img alt="Snapify" src="https://img.shields.io/github/stars/MarconLP/snapify?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="ClusterFuzz" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-clusterfuzz.png" /></td>
         <td>Infrastructure</td>
         <td>Python</td>
@@ -1113,14 +1121,6 @@
         <td><a href="https://www.froala.com/wysiwyg-editor" target="_blank">froala/wysiwyg-editor</a></td>
         <td>The next generation Javascript WYSIWYG HTML Editor.</td>
         <th><a href="https://github.com/froala/wysiwyg-editor" target="_blank"><img alt="froala/wysiwyg-editor" src="https://img.shields.io/github/stars/froala/wysiwyg-editor?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Markmap" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-markmap.png" /></td>
-        <td>Productivity</td>
-        <td>TypeScript</td>
-        <td><a href="https://markmap.js.org/" target="_blank">Markmap</a></td>
-        <td>Visualize your Markdown as mindmaps with Markmap.</td>
-        <th><a href="https://github.com/markmap/markmap" target="_blank"><img alt="Markmap" src="https://img.shields.io/github/stars/markmap/markmap?style=social" /></a></th>
     </tr>
 
 </table>
@@ -1560,6 +1560,22 @@
         <td><a href="https://www.ascii-art.site" target="_blank">Art</a></td>
         <td><g-emoji class="g-emoji" alias="art" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f3a8.png">?</g-emoji> ASCII art library for Python</td>
         <th><a href="https://github.com/sepandhaghighi/art" target="_blank"><img alt="Art" src="https://img.shields.io/github/stars/sepandhaghighi/art?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Axios Cache Interceptor" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-axios-cache-interceptor.jpg" /></td>
+        <td>Miscellaneous</td>
+        <td>TypeScript</td>
+        <td><a href="https://axios-cache-interceptor.js.org" target="_blank">Axios Cache Interceptor</a></td>
+        <td><g-emoji class="g-emoji" alias="mailbox_with_mail" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4ec.png">?</g-emoji> Small and efficient cache interceptor for axios. Etag, Cache-Control, TTL, HTTP headers and more!</td>
+        <th><a href="https://github.com/arthurfiorette/axios-cache-interceptor" target="_blank"><img alt="Axios Cache Interceptor" src="https://img.shields.io/github/stars/arthurfiorette/axios-cache-interceptor?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Pluto" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-pluto.jpg" /></td>
+        <td>Miscellaneous</td>
+        <td>Dart</td>
+        <td><a href="https://birjuvachhani.github.io/pluto" target="_blank">Pluto</a></td>
+        <td>A minimal new tab for Chrome/Edge.</td>
+        <th><a href="https://github.com/BirjuVachhani/pluto" target="_blank"><img alt="Pluto" src="https://img.shields.io/github/stars/BirjuVachhani/pluto?style=social" /></a></th>
     </tr>
 
 </table>
@@ -2901,6 +2917,22 @@
         <td>Beautiful and responsive UI components and templates for React and Vue (soon) with Tailwind CSS.</td>
         <th><a href="https://github.com/MarsX-dev/floatui" target="_blank"><img alt="Float UI" src="https://img.shields.io/github/stars/MarsX-dev/floatui?style=social" /></a></th>
     </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Spider" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-spider.jpg" /></td>
+        <td>Productivity</td>
+        <td>Dart</td>
+        <td><a href="https://spider.birju.dev/" target="_blank">Spider</a></td>
+        <td>A small dart library to generate Assets dart code from assets folder.</td>
+        <th><a href="https://github.com/BirjuVachhani/spider" target="_blank"><img alt="Spider" src="https://img.shields.io/github/stars/BirjuVachhani/spider?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Box Transform" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-box_transform.png" /></td>
+        <td>Productivity</td>
+        <td>Dart</td>
+        <td><a href="https://boxtransform.hyperdesigned.dev" target="_blank">Box Transform</a></td>
+        <td>A library for advanced resizing of rect in UI.</td>
+        <th><a href="https://github.com/hyper-designed/box_transform" target="_blank"><img alt="Box Transform" src="https://img.shields.io/github/stars/hyper-designed/box_transform?style=social" /></a></th>
+    </tr>
 
 </table>
 
@@ -3438,6 +3470,14 @@
         <td><a href="http://unity.com/open-projects" target="_blank">Unity</a></td>
         <td>Unity Open Project #1: Chop Chop</td>
         <th><a href="https://github.com/UnityTechnologies/open-project-1" target="_blank"><img alt="Unity" src="https://img.shields.io/github/stars/UnityTechnologies/open-project-1?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Snapify" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-snapify.png" /></td>
+        <td>Collaboration</td>
+        <td>TypeScript</td>
+        <td><a href="https://snapify.it" target="_blank">Snapify</a></td>
+        <td>Screen recording sharing for absolutely everyone.</td>
+        <th><a href="https://github.com/MarconLP/snapify" target="_blank"><img alt="Snapify" src="https://img.shields.io/github/stars/MarconLP/snapify?style=social" /></a></th>
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="The Lounge" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-thelounge.png" /></td>
@@ -5033,6 +5073,14 @@
         <th><a href="https://github.com/noahflk/railtrack" target="_blank"><img alt="Railtrack" src="https://img.shields.io/github/stars/noahflk/railtrack?style=social" /></a></th>
     </tr>
     <tr>
+        <td nowrap="nowrap"><img width="33" alt="Snapify" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-snapify.png" /></td>
+        <td>Collaboration</td>
+        <td>TypeScript</td>
+        <td><a href="https://snapify.it" target="_blank">Snapify</a></td>
+        <td>Screen recording sharing for absolutely everyone.</td>
+        <th><a href="https://github.com/MarconLP/snapify" target="_blank"><img alt="Snapify" src="https://img.shields.io/github/stars/MarconLP/snapify?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="The Lounge" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-thelounge.png" /></td>
         <td>Collaboration</td>
         <td>TypeScript</td>
@@ -5584,6 +5632,14 @@
         <td>Open Source Surveys &amp; Experience Management Solution</td>
         <th><a href="https://github.com/formbricks/formbricks" target="_blank"><img alt="Formbricks" src="https://img.shields.io/github/stars/formbricks/formbricks?style=social" /></a></th>
     </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Axios Cache Interceptor" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-axios-cache-interceptor.jpg" /></td>
+        <td>Miscellaneous</td>
+        <td>TypeScript</td>
+        <td><a href="https://axios-cache-interceptor.js.org" target="_blank">Axios Cache Interceptor</a></td>
+        <td><g-emoji class="g-emoji" alias="mailbox_with_mail" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4ec.png">?</g-emoji> Small and efficient cache interceptor for axios. Etag, Cache-Control, TTL, HTTP headers and more!</td>
+        <th><a href="https://github.com/arthurfiorette/axios-cache-interceptor" target="_blank"><img alt="Axios Cache Interceptor" src="https://img.shields.io/github/stars/arthurfiorette/axios-cache-interceptor?style=social" /></a></th>
+    </tr>
 
 </table>
 
@@ -5997,6 +6053,30 @@
         <td><a href="https://gallery.flutter.dev" target="_blank">Flutter Gallery</a></td>
         <td>Flutter Gallery is a resource to help developers evaluate and use Flutter</td>
         <th><a href="https://github.com/flutter/gallery" target="_blank"><img alt="Flutter Gallery" src="https://img.shields.io/github/stars/flutter/gallery?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Spider" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-spider.jpg" /></td>
+        <td>Productivity</td>
+        <td>Dart</td>
+        <td><a href="https://spider.birju.dev/" target="_blank">Spider</a></td>
+        <td>A small dart library to generate Assets dart code from assets folder.</td>
+        <th><a href="https://github.com/BirjuVachhani/spider" target="_blank"><img alt="Spider" src="https://img.shields.io/github/stars/BirjuVachhani/spider?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Pluto" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-pluto.jpg" /></td>
+        <td>Miscellaneous</td>
+        <td>Dart</td>
+        <td><a href="https://birjuvachhani.github.io/pluto" target="_blank">Pluto</a></td>
+        <td>A minimal new tab for Chrome/Edge.</td>
+        <th><a href="https://github.com/BirjuVachhani/pluto" target="_blank"><img alt="Pluto" src="https://img.shields.io/github/stars/BirjuVachhani/pluto?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Box Transform" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-box_transform.png" /></td>
+        <td>Productivity</td>
+        <td>Dart</td>
+        <td><a href="https://boxtransform.hyperdesigned.dev" target="_blank">Box Transform</a></td>
+        <td>A library for advanced resizing of rect in UI.</td>
+        <th><a href="https://github.com/hyper-designed/box_transform" target="_blank"><img alt="Box Transform" src="https://img.shields.io/github/stars/hyper-designed/box_transform?style=social" /></a></th>
     </tr>
 
 </table>
