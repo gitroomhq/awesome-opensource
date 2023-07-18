@@ -74,6 +74,8 @@
              </li>          <li>
                 <a href="#c++">Top 20 C++ libraries</a>
              </li>          <li>
+                <a href="#scala">Top 20 Scala libraries</a>
+             </li>          <li>
                 <a href="#css">Top 20 CSS libraries</a>
              </li>          <li>
                 <a href="#batchfile">Top 20 Batchfile libraries</a>
@@ -91,8 +93,6 @@
                 <a href="#astro">Top 20 Astro libraries</a>
              </li>          <li>
                 <a href="#dockerfile">Top 20 Dockerfile libraries</a>
-             </li>          <li>
-                <a href="#scala">Top 20 Scala libraries</a>
              </li>          <li>
                 <a href="#rich-text-format">Top 20 Rich Text Format libraries</a>
              </li>          <li>
@@ -154,6 +154,22 @@
         <td><a href="https://github.com/utkuozdemir/nvidia_gpu_exporter" target="_blank">nvidia_gpu_exporter</a></td>
         <td>Nvidia GPU exporter for prometheus using nvidia-smi binary</td>
         <th><a href="https://github.com/utkuozdemir/nvidia_gpu_exporter" target="_blank"><img alt="nvidia_gpu_exporter" src="https://img.shields.io/github/stars/utkuozdemir/nvidia_gpu_exporter?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="React loading indicators" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-react-loading-indicator.png" /></td>
+        <td>Miscellaneous</td>
+        <td>TypeScript</td>
+        <td><a href="https://www.npmjs.com/package/react-loading-indicators" target="_blank">React loading indicators</a></td>
+        <td>Cool loading indicators for your react project</td>
+        <th><a href="https://github.com/hane-smitter/react-loading-indicator" target="_blank"><img alt="React loading indicators" src="https://img.shields.io/github/stars/hane-smitter/react-loading-indicator?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="IDURAR ERP CRM" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-idurar-erp-crm.png" /></td>
+        <td>Productivity</td>
+        <td>JavaScript</td>
+        <td><a href="https://demo-erp-crm.idurarapp.com/" target="_blank">IDURAR ERP CRM</a></td>
+        <td>ERP / CRM Open Source (Invoice / Inventory / Accounting / HR) Based on Node.js / React.js alternative to erpnext,salesforce and odoo</td>
+        <th><a href="https://github.com/idurar/idurar-erp-crm" target="_blank"><img alt="IDURAR ERP CRM" src="https://img.shields.io/github/stars/idurar/idurar-erp-crm?style=social" /></a></th>
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="Snapify" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-snapify.png" /></td>
@@ -290,22 +306,6 @@
         <td><a href="https://rei3.de" target="_blank">REI3</a></td>
         <td>REI3 - Free and open low code</td>
         <th><a href="https://github.com/r3-team/r3" target="_blank"><img alt="REI3" src="https://img.shields.io/github/stars/r3-team/r3?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="ThorsSerializer" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-ThorsSerializer.jpg" /></td>
-        <td>Infrastructure</td>
-        <td>C++</td>
-        <td><a href="https://github.com/Loki-Astari/ThorsSerializer" target="_blank">ThorsSerializer</a></td>
-        <td>C++ Serialization library for JSON</td>
-        <th><a href="https://github.com/Loki-Astari/ThorsSerializer" target="_blank"><img alt="ThorsSerializer" src="https://img.shields.io/github/stars/Loki-Astari/ThorsSerializer?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Unleash" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-unleash.png" /></td>
-        <td>Miscellaneous</td>
-        <td>TypeScript</td>
-        <td><a href="https://getunleash.io" target="_blank">Unleash</a></td>
-        <td>Open-source feature management solution built for developers.</td>
-        <th><a href="https://github.com/Unleash/unleash" target="_blank"><img alt="Unleash" src="https://img.shields.io/github/stars/Unleash/unleash?style=social" /></a></th>
     </tr>
 
 </table>
@@ -723,6 +723,14 @@
         <th><a href="https://github.com/StackExchange/StackExchange.Redis" target="_blank"><img alt="StackExchange.Redis" src="https://img.shields.io/github/stars/StackExchange/StackExchange.Redis?style=social" /></a></th>
     </tr>
     <tr>
+        <td nowrap="nowrap"><img width="33" alt="Apache OpenWhisk" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-openwhisk-3.png" /></td>
+        <td>Infrastructure</td>
+        <td>Scala</td>
+        <td><a href="https://openwhisk.apache.org/" target="_blank">Apache OpenWhisk</a></td>
+        <td>Apache OpenWhisk is an open source serverless cloud platform</td>
+        <th><a href="https://github.com/apache/openwhisk" target="_blank"><img alt="Apache OpenWhisk" src="https://img.shields.io/github/stars/apache/openwhisk?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="Docusaurus" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-docusaurus.png" /></td>
         <td>Productivity</td>
         <td>TypeScript</td>
@@ -1113,14 +1121,6 @@
         <td><a href="https://sagernet.org" target="_blank">SagerNet/SagerNet</a></td>
         <td>The universal proxy toolchain for Android</td>
         <th><a href="https://github.com/SagerNet/SagerNet" target="_blank"><img alt="SagerNet/SagerNet" src="https://img.shields.io/github/stars/SagerNet/SagerNet?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Organic Maps" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-organicmaps.png" /></td>
-        <td>Productivity</td>
-        <td>C++</td>
-        <td><a href="https://organicmaps.app" target="_blank">Organic Maps</a></td>
-        <td><g-emoji class="g-emoji" alias="leaves" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f343.png">?</g-emoji> Organic Maps is a free Android &amp; iOS offline maps app for travelers, tourists, hikers, and cyclists. It uses crowd-sourced OpenStreetMap data and is developed with love by MapsWithMe (MapsMe) fou…</td>
-        <th><a href="https://github.com/organicmaps/organicmaps" target="_blank"><img alt="Organic Maps" src="https://img.shields.io/github/stars/organicmaps/organicmaps?style=social" /></a></th>
     </tr>
 
 </table>
@@ -1592,6 +1592,14 @@
         <td><a href="https://switchfeat.com" target="_blank">SwitchFeat</a></td>
         <td>Feature flags and A/B testing framework.</td>
         <th><a href="https://github.com/switchfeat-com/switchfeat" target="_blank"><img alt="SwitchFeat" src="https://img.shields.io/github/stars/switchfeat-com/switchfeat?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="React loading indicators" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-react-loading-indicator.png" /></td>
+        <td>Miscellaneous</td>
+        <td>TypeScript</td>
+        <td><a href="https://www.npmjs.com/package/react-loading-indicators" target="_blank">React loading indicators</a></td>
+        <td>Cool loading indicators for your react project</td>
+        <th><a href="https://github.com/hane-smitter/react-loading-indicator" target="_blank"><img alt="React loading indicators" src="https://img.shields.io/github/stars/hane-smitter/react-loading-indicator?style=social" /></a></th>
     </tr>
 
 </table>
@@ -2957,6 +2965,14 @@
         <td>A library for advanced resizing of rect in UI.</td>
         <th><a href="https://github.com/hyper-designed/box_transform" target="_blank"><img alt="Box Transform" src="https://img.shields.io/github/stars/hyper-designed/box_transform?style=social" /></a></th>
     </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="IDURAR ERP CRM" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-idurar-erp-crm.png" /></td>
+        <td>Productivity</td>
+        <td>JavaScript</td>
+        <td><a href="https://demo-erp-crm.idurarapp.com/" target="_blank">IDURAR ERP CRM</a></td>
+        <td>ERP / CRM Open Source (Invoice / Inventory / Accounting / HR) Based on Node.js / React.js alternative to erpnext,salesforce and odoo</td>
+        <th><a href="https://github.com/idurar/idurar-erp-crm" target="_blank"><img alt="IDURAR ERP CRM" src="https://img.shields.io/github/stars/idurar/idurar-erp-crm?style=social" /></a></th>
+    </tr>
 
 </table>
 
@@ -4058,6 +4074,14 @@
         <th><a href="https://github.com/nativescript-vue/nativescript-vue" target="_blank"><img alt="NativeScript-Vue" src="https://img.shields.io/github/stars/nativescript-vue/nativescript-vue?style=social" /></a></th>
     </tr>
     <tr>
+        <td nowrap="nowrap"><img width="33" alt="Apache OpenWhisk" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-openwhisk-3.png" /></td>
+        <td>Infrastructure</td>
+        <td>Scala</td>
+        <td><a href="https://openwhisk.apache.org/" target="_blank">Apache OpenWhisk</a></td>
+        <td>Apache OpenWhisk is an open source serverless cloud platform</td>
+        <th><a href="https://github.com/apache/openwhisk" target="_blank"><img alt="Apache OpenWhisk" src="https://img.shields.io/github/stars/apache/openwhisk?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="PHP Collections" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-map.png" /></td>
         <td>Infrastructure</td>
         <td>PHP</td>
@@ -4680,14 +4704,6 @@
         <td><a href="https://watermill.io" target="_blank">ThreeDotsLabs/watermill</a></td>
         <td>Building event-driven applications the easy way in Go.</td>
         <th><a href="https://github.com/ThreeDotsLabs/watermill" target="_blank"><img alt="ThreeDotsLabs/watermill" src="https://img.shields.io/github/stars/ThreeDotsLabs/watermill?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Apache OpenWhisk" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-openwhisk-3.png" /></td>
-        <td>Infrastructure</td>
-        <td>Scala</td>
-        <td><a href="https://openwhisk.apache.org/" target="_blank">Apache OpenWhisk</a></td>
-        <td>Apache OpenWhisk is an open source serverless cloud platform</td>
-        <th><a href="https://github.com/apache/openwhisk" target="_blank"><img alt="Apache OpenWhisk" src="https://img.shields.io/github/stars/apache/openwhisk?style=social" /></a></th>
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="Amplication" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-amplication-1.png" /></td>
@@ -5672,6 +5688,14 @@
         <td>Feature flags and A/B testing framework.</td>
         <th><a href="https://github.com/switchfeat-com/switchfeat" target="_blank"><img alt="SwitchFeat" src="https://img.shields.io/github/stars/switchfeat-com/switchfeat?style=social" /></a></th>
     </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="React loading indicators" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-react-loading-indicator.png" /></td>
+        <td>Miscellaneous</td>
+        <td>TypeScript</td>
+        <td><a href="https://www.npmjs.com/package/react-loading-indicators" target="_blank">React loading indicators</a></td>
+        <td>Cool loading indicators for your react project</td>
+        <th><a href="https://github.com/hane-smitter/react-loading-indicator" target="_blank"><img alt="React loading indicators" src="https://img.shields.io/github/stars/hane-smitter/react-loading-indicator?style=social" /></a></th>
+    </tr>
 
 </table>
 
@@ -6483,6 +6507,14 @@
         <td><a href="https://floatui.com/" target="_blank">Float UI</a></td>
         <td>Beautiful and responsive UI components and templates for React and Vue (soon) with Tailwind CSS.</td>
         <th><a href="https://github.com/MarsX-dev/floatui" target="_blank"><img alt="Float UI" src="https://img.shields.io/github/stars/MarsX-dev/floatui?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="IDURAR ERP CRM" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-idurar-erp-crm.png" /></td>
+        <td>Productivity</td>
+        <td>JavaScript</td>
+        <td><a href="https://demo-erp-crm.idurarapp.com/" target="_blank">IDURAR ERP CRM</a></td>
+        <td>ERP / CRM Open Source (Invoice / Inventory / Accounting / HR) Based on Node.js / React.js alternative to erpnext,salesforce and odoo</td>
+        <th><a href="https://github.com/idurar/idurar-erp-crm" target="_blank"><img alt="IDURAR ERP CRM" src="https://img.shields.io/github/stars/idurar/idurar-erp-crm?style=social" /></a></th>
     </tr>
 
 </table>
@@ -8066,6 +8098,60 @@
 </table>
 
 <br /><br />
+<h2 id="scala">Top 20 Scala libraries</h2>
+<table>
+    <tr>
+        <th>Icon</th>
+        <th>Category</th>
+        <th>Language</th>
+        <th>Name</th>
+        <th>Description</th>
+        <th>Stargazers</th>
+    </tr>
+        <tr>
+        <td nowrap="nowrap"><img width="33" alt="Apache OpenWhisk" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-openwhisk-3.png" /></td>
+        <td>Infrastructure</td>
+        <td>Scala</td>
+        <td><a href="https://openwhisk.apache.org/" target="_blank">Apache OpenWhisk</a></td>
+        <td>Apache OpenWhisk is an open source serverless cloud platform</td>
+        <th><a href="https://github.com/apache/openwhisk" target="_blank"><img alt="Apache OpenWhisk" src="https://img.shields.io/github/stars/apache/openwhisk?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="the Guardian" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-frontend.png" /></td>
+        <td>Infrastructure</td>
+        <td>Scala</td>
+        <td><a href="https://theguardian.com" target="_blank">the Guardian</a></td>
+        <td>The Guardian DotCom.</td>
+        <th><a href="https://github.com/guardian/frontend" target="_blank"><img alt="the Guardian" src="https://img.shields.io/github/stars/guardian/frontend?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Gatling" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-gatling.png" /></td>
+        <td>Infrastructure</td>
+        <td>Scala</td>
+        <td><a href="https://gatling.io" target="_blank">Gatling</a></td>
+        <td>Modern Load Testing as Code</td>
+        <th><a href="https://github.com/gatling/gatling" target="_blank"><img alt="Gatling" src="https://img.shields.io/github/stars/gatling/gatling?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Scala 3" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-dotty.jpg" /></td>
+        <td>Infrastructure</td>
+        <td>Scala</td>
+        <td><a href="https://dotty.epfl.ch" target="_blank">Scala 3</a></td>
+        <td>The Scala 3 compiler, also known as Dotty.</td>
+        <th><a href="https://github.com/lampepfl/dotty" target="_blank"><img alt="Scala 3" src="https://img.shields.io/github/stars/lampepfl/dotty?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Delta Lake" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-delta-2.png" /></td>
+        <td>Databases</td>
+        <td>Scala</td>
+        <td><a href="https://delta.io" target="_blank">Delta Lake</a></td>
+        <td>An open-source storage framework that enables building a Lakehouse architecture with compute engines including Spark, PrestoDB, Flink, Trino, and Hive and APIs</td>
+        <th><a href="https://github.com/delta-io/delta" target="_blank"><img alt="Delta Lake" src="https://img.shields.io/github/stars/delta-io/delta?style=social" /></a></th>
+    </tr>
+
+</table>
+
+<br /><br />
 <h2 id="css">Top 20 CSS libraries</h2>
 <table>
     <tr>
@@ -8515,60 +8601,6 @@
         <td><a href="https://owasp.org/www-project-web-security-testing-guide/" target="_blank">OWASP Security Guide</a></td>
         <td>The Web Security Testing Guide is a comprehensive Open Source guide to testing the security of web applications and web services.</td>
         <th><a href="https://github.com/OWASP/wstg" target="_blank"><img alt="OWASP Security Guide" src="https://img.shields.io/github/stars/OWASP/wstg?style=social" /></a></th>
-    </tr>
-
-</table>
-
-<br /><br />
-<h2 id="scala">Top 20 Scala libraries</h2>
-<table>
-    <tr>
-        <th>Icon</th>
-        <th>Category</th>
-        <th>Language</th>
-        <th>Name</th>
-        <th>Description</th>
-        <th>Stargazers</th>
-    </tr>
-        <tr>
-        <td nowrap="nowrap"><img width="33" alt="the Guardian" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-frontend.png" /></td>
-        <td>Infrastructure</td>
-        <td>Scala</td>
-        <td><a href="https://theguardian.com" target="_blank">the Guardian</a></td>
-        <td>The Guardian DotCom.</td>
-        <th><a href="https://github.com/guardian/frontend" target="_blank"><img alt="the Guardian" src="https://img.shields.io/github/stars/guardian/frontend?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Gatling" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-gatling.png" /></td>
-        <td>Infrastructure</td>
-        <td>Scala</td>
-        <td><a href="https://gatling.io" target="_blank">Gatling</a></td>
-        <td>Modern Load Testing as Code</td>
-        <th><a href="https://github.com/gatling/gatling" target="_blank"><img alt="Gatling" src="https://img.shields.io/github/stars/gatling/gatling?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Scala 3" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-dotty.jpg" /></td>
-        <td>Infrastructure</td>
-        <td>Scala</td>
-        <td><a href="https://dotty.epfl.ch" target="_blank">Scala 3</a></td>
-        <td>The Scala 3 compiler, also known as Dotty.</td>
-        <th><a href="https://github.com/lampepfl/dotty" target="_blank"><img alt="Scala 3" src="https://img.shields.io/github/stars/lampepfl/dotty?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Delta Lake" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-delta-2.png" /></td>
-        <td>Databases</td>
-        <td>Scala</td>
-        <td><a href="https://delta.io" target="_blank">Delta Lake</a></td>
-        <td>An open-source storage framework that enables building a Lakehouse architecture with compute engines including Spark, PrestoDB, Flink, Trino, and Hive and APIs</td>
-        <th><a href="https://github.com/delta-io/delta" target="_blank"><img alt="Delta Lake" src="https://img.shields.io/github/stars/delta-io/delta?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Apache OpenWhisk" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-openwhisk-3.png" /></td>
-        <td>Infrastructure</td>
-        <td>Scala</td>
-        <td><a href="https://openwhisk.apache.org/" target="_blank">Apache OpenWhisk</a></td>
-        <td>Apache OpenWhisk is an open source serverless cloud platform</td>
-        <th><a href="https://github.com/apache/openwhisk" target="_blank"><img alt="Apache OpenWhisk" src="https://img.shields.io/github/stars/apache/openwhisk?style=social" /></a></th>
     </tr>
 
 </table>
