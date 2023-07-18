@@ -148,6 +148,14 @@
         <th>Stargazers</th>
     </tr>
         <tr>
+        <td nowrap="nowrap"><img width="33" alt="nvidia_gpu_exporter" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-nvidia_gpu_exporter.jpg" /></td>
+        <td>Observability</td>
+        <td>Go</td>
+        <td><a href="https://github.com/utkuozdemir/nvidia_gpu_exporter" target="_blank">nvidia_gpu_exporter</a></td>
+        <td>Nvidia GPU exporter for prometheus using nvidia-smi binary</td>
+        <th><a href="https://github.com/utkuozdemir/nvidia_gpu_exporter" target="_blank"><img alt="nvidia_gpu_exporter" src="https://img.shields.io/github/stars/utkuozdemir/nvidia_gpu_exporter?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="Snapify" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-snapify.png" /></td>
         <td>Collaboration</td>
         <td>TypeScript</td>
@@ -298,14 +306,6 @@
         <td><a href="https://getunleash.io" target="_blank">Unleash</a></td>
         <td>Open-source feature management solution built for developers.</td>
         <th><a href="https://github.com/Unleash/unleash" target="_blank"><img alt="Unleash" src="https://img.shields.io/github/stars/Unleash/unleash?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="pygwalker" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-pygwalker.png" /></td>
-        <td>Analytics</td>
-        <td>TypeScript</td>
-        <td><a href="https://docs.kanaries.net/pygwalker" target="_blank">pygwalker</a></td>
-        <td>PyGWalker: Turn your pandas dataframe into a Tableau-style User Interface for visual analysis</td>
-        <th><a href="https://github.com/Kanaries/pygwalker" target="_blank"><img alt="pygwalker" src="https://img.shields.io/github/stars/Kanaries/pygwalker?style=social" /></a></th>
     </tr>
 
 </table>
@@ -1019,6 +1019,14 @@
         <th><a href="https://github.com/MarconLP/snapify" target="_blank"><img alt="Snapify" src="https://img.shields.io/github/stars/MarconLP/snapify?style=social" /></a></th>
     </tr>
     <tr>
+        <td nowrap="nowrap"><img width="33" alt="nvidia_gpu_exporter" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-nvidia_gpu_exporter.jpg" /></td>
+        <td>Observability</td>
+        <td>Go</td>
+        <td><a href="https://github.com/utkuozdemir/nvidia_gpu_exporter" target="_blank">nvidia_gpu_exporter</a></td>
+        <td>Nvidia GPU exporter for prometheus using nvidia-smi binary</td>
+        <th><a href="https://github.com/utkuozdemir/nvidia_gpu_exporter" target="_blank"><img alt="nvidia_gpu_exporter" src="https://img.shields.io/github/stars/utkuozdemir/nvidia_gpu_exporter?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="ClusterFuzz" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-clusterfuzz.png" /></td>
         <td>Infrastructure</td>
         <td>Python</td>
@@ -1113,14 +1121,6 @@
         <td><a href="https://organicmaps.app" target="_blank">Organic Maps</a></td>
         <td><g-emoji class="g-emoji" alias="leaves" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f343.png">?</g-emoji> Organic Maps is a free Android &amp; iOS offline maps app for travelers, tourists, hikers, and cyclists. It uses crowd-sourced OpenStreetMap data and is developed with love by MapsWithMe (MapsMe) fou…</td>
         <th><a href="https://github.com/organicmaps/organicmaps" target="_blank"><img alt="Organic Maps" src="https://img.shields.io/github/stars/organicmaps/organicmaps?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Cemu Emulator" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-Cemu.png" /></td>
-        <td>Miscellaneous</td>
-        <td>C++</td>
-        <td><a href="https://cemu.info" target="_blank">Cemu Emulator</a></td>
-        <td>Cemu - Wii U emulator</td>
-        <th><a href="https://github.com/cemu-project/Cemu" target="_blank"><img alt="Cemu Emulator" src="https://img.shields.io/github/stars/cemu-project/Cemu?style=social" /></a></th>
     </tr>
 
 </table>
@@ -1638,6 +1638,14 @@
         <td><a href="https://quickwit.io" target="_blank">Quickwit</a></td>
         <td>Sub-second search &amp; analytics engine on cloud storage</td>
         <th><a href="https://github.com/quickwit-oss/quickwit" target="_blank"><img alt="Quickwit" src="https://img.shields.io/github/stars/quickwit-oss/quickwit?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="nvidia_gpu_exporter" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-nvidia_gpu_exporter.jpg" /></td>
+        <td>Observability</td>
+        <td>Go</td>
+        <td><a href="https://github.com/utkuozdemir/nvidia_gpu_exporter" target="_blank">nvidia_gpu_exporter</a></td>
+        <td>Nvidia GPU exporter for prometheus using nvidia-smi binary</td>
+        <th><a href="https://github.com/utkuozdemir/nvidia_gpu_exporter" target="_blank"><img alt="nvidia_gpu_exporter" src="https://img.shields.io/github/stars/utkuozdemir/nvidia_gpu_exporter?style=social" /></a></th>
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="Konva.js - JavaScript 2d canvas library" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-react-konva.png" /></td>
@@ -6513,6 +6521,14 @@
         <td><a href="https://getconvoy.io" target="_blank">Convoy Webhooks Gateway</a></td>
         <td>Open Source Webhooks Gateway; For both incoming &amp; outgoing events. </td>
         <th><a href="https://github.com/frain-dev/convoy" target="_blank"><img alt="Convoy Webhooks Gateway" src="https://img.shields.io/github/stars/frain-dev/convoy?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="nvidia_gpu_exporter" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-nvidia_gpu_exporter.jpg" /></td>
+        <td>Observability</td>
+        <td>Go</td>
+        <td><a href="https://github.com/utkuozdemir/nvidia_gpu_exporter" target="_blank">nvidia_gpu_exporter</a></td>
+        <td>Nvidia GPU exporter for prometheus using nvidia-smi binary</td>
+        <th><a href="https://github.com/utkuozdemir/nvidia_gpu_exporter" target="_blank"><img alt="nvidia_gpu_exporter" src="https://img.shields.io/github/stars/utkuozdemir/nvidia_gpu_exporter?style=social" /></a></th>
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="Elvish Shell" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-elvish.jpg" /></td>
