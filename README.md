@@ -156,6 +156,14 @@
         <th><a href="https://github.com/utkuozdemir/nvidia_gpu_exporter" target="_blank"><img alt="nvidia_gpu_exporter" src="https://img.shields.io/github/stars/utkuozdemir/nvidia_gpu_exporter?style=social" /></a></th>
     </tr>
     <tr>
+        <td nowrap="nowrap"><img width="33" alt="IDURAR ERP CRM" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-idurar-erp-crm.png" /></td>
+        <td>Productivity</td>
+        <td>JavaScript</td>
+        <td><a href="https://demo-erp-crm.idurarapp.com/" target="_blank">IDURAR ERP CRM</a></td>
+        <td>ERP / CRM Open Source (Invoice / Inventory / Accounting / HR) Based on Node.js / React.js alternative to erpnext,salesforce and odoo</td>
+        <th><a href="https://github.com/idurar/idurar-erp-crm" target="_blank"><img alt="IDURAR ERP CRM" src="https://img.shields.io/github/stars/idurar/idurar-erp-crm?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="React loading indicators" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-react-loading-indicator.png" /></td>
         <td>Miscellaneous</td>
         <td>TypeScript</td>
@@ -164,12 +172,12 @@
         <th><a href="https://github.com/hane-smitter/react-loading-indicator" target="_blank"><img alt="React loading indicators" src="https://img.shields.io/github/stars/hane-smitter/react-loading-indicator?style=social" /></a></th>
     </tr>
     <tr>
-        <td nowrap="nowrap"><img width="33" alt="IDURAR ERP CRM" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-idurar-erp-crm.png" /></td>
-        <td>Productivity</td>
-        <td>JavaScript</td>
-        <td><a href="https://demo-erp-crm.idurarapp.com/" target="_blank">IDURAR ERP CRM</a></td>
-        <td>ERP / CRM Open Source (Invoice / Inventory / Accounting / HR) Based on Node.js / React.js alternative to erpnext,salesforce and odoo</td>
-        <th><a href="https://github.com/idurar/idurar-erp-crm" target="_blank"><img alt="IDURAR ERP CRM" src="https://img.shields.io/github/stars/idurar/idurar-erp-crm?style=social" /></a></th>
+        <td nowrap="nowrap"><img width="33" alt="Featurevisor" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-featurevisor.jpg" /></td>
+        <td>Miscellaneous</td>
+        <td>TypeScript</td>
+        <td><a href="https://featurevisor.com" target="_blank">Featurevisor</a></td>
+        <td>Git-based feature flags, experiments &amp; remote config management for developers</td>
+        <th><a href="https://github.com/fahad19/featurevisor" target="_blank"><img alt="Featurevisor" src="https://img.shields.io/github/stars/fahad19/featurevisor?style=social" /></a></th>
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="Snapify" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-snapify.png" /></td>
@@ -298,14 +306,6 @@
         <td><a href="https://watchakorn-18k.github.io/Fenv/" target="_blank">Fenv</a></td>
         <td><g-emoji class="g-emoji" alias="fast_forward" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/23e9.png">⏩</g-emoji> Module for Generate a folder, establish a virtual environment with a single command. </td>
         <th><a href="https://github.com/watchakorn-18k/Fenv" target="_blank"><img alt="Fenv" src="https://img.shields.io/github/stars/watchakorn-18k/Fenv?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="REI3" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-r3.png" /></td>
-        <td>Productivity</td>
-        <td>JavaScript</td>
-        <td><a href="https://rei3.de" target="_blank">REI3</a></td>
-        <td>REI3 - Free and open low code</td>
-        <th><a href="https://github.com/r3-team/r3" target="_blank"><img alt="REI3" src="https://img.shields.io/github/stars/r3-team/r3?style=social" /></a></th>
     </tr>
 
 </table>
@@ -1035,6 +1035,14 @@
         <th><a href="https://github.com/utkuozdemir/nvidia_gpu_exporter" target="_blank"><img alt="nvidia_gpu_exporter" src="https://img.shields.io/github/stars/utkuozdemir/nvidia_gpu_exporter?style=social" /></a></th>
     </tr>
     <tr>
+        <td nowrap="nowrap"><img width="33" alt="IDURAR ERP CRM" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-idurar-erp-crm.png" /></td>
+        <td>Productivity</td>
+        <td>JavaScript</td>
+        <td><a href="https://demo-erp-crm.idurarapp.com/" target="_blank">IDURAR ERP CRM</a></td>
+        <td>ERP / CRM Open Source (Invoice / Inventory / Accounting / HR) Based on Node.js / React.js alternative to erpnext,salesforce and odoo</td>
+        <th><a href="https://github.com/idurar/idurar-erp-crm" target="_blank"><img alt="IDURAR ERP CRM" src="https://img.shields.io/github/stars/idurar/idurar-erp-crm?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="ClusterFuzz" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-clusterfuzz.png" /></td>
         <td>Infrastructure</td>
         <td>Python</td>
@@ -1113,14 +1121,6 @@
         <td><a href="https://konvajs.github.io/docs/react/" target="_blank">Konva.js - JavaScript 2d canvas library</a></td>
         <td>React + Canvas = Love. JavaScript library for drawing complex canvas graphics using React.</td>
         <th><a href="https://github.com/konvajs/react-konva" target="_blank"><img alt="Konva.js - JavaScript 2d canvas library" src="https://img.shields.io/github/stars/konvajs/react-konva?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="SagerNet/SagerNet" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-SagerNet.png" /></td>
-        <td>Security</td>
-        <td>Kotlin</td>
-        <td><a href="https://sagernet.org" target="_blank">SagerNet/SagerNet</a></td>
-        <td>The universal proxy toolchain for Android</td>
-        <th><a href="https://github.com/SagerNet/SagerNet" target="_blank"><img alt="SagerNet/SagerNet" src="https://img.shields.io/github/stars/SagerNet/SagerNet?style=social" /></a></th>
     </tr>
 
 </table>
@@ -1601,6 +1601,14 @@
         <td>Cool loading indicators for your react project</td>
         <th><a href="https://github.com/hane-smitter/react-loading-indicator" target="_blank"><img alt="React loading indicators" src="https://img.shields.io/github/stars/hane-smitter/react-loading-indicator?style=social" /></a></th>
     </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Featurevisor" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-featurevisor.jpg" /></td>
+        <td>Miscellaneous</td>
+        <td>TypeScript</td>
+        <td><a href="https://featurevisor.com" target="_blank">Featurevisor</a></td>
+        <td>Git-based feature flags, experiments &amp; remote config management for developers</td>
+        <th><a href="https://github.com/fahad19/featurevisor" target="_blank"><img alt="Featurevisor" src="https://img.shields.io/github/stars/fahad19/featurevisor?style=social" /></a></th>
+    </tr>
 
 </table>
 
@@ -2028,6 +2036,14 @@
         <td><a href="https://rei3.de" target="_blank">REI3</a></td>
         <td>REI3 - Free and open low code</td>
         <th><a href="https://github.com/r3-team/r3" target="_blank"><img alt="REI3" src="https://img.shields.io/github/stars/r3-team/r3?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="IDURAR ERP CRM" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-idurar-erp-crm.png" /></td>
+        <td>Productivity</td>
+        <td>JavaScript</td>
+        <td><a href="https://demo-erp-crm.idurarapp.com/" target="_blank">IDURAR ERP CRM</a></td>
+        <td>ERP / CRM Open Source (Invoice / Inventory / Accounting / HR) Based on Node.js / React.js alternative to erpnext,salesforce and odoo</td>
+        <th><a href="https://github.com/idurar/idurar-erp-crm" target="_blank"><img alt="IDURAR ERP CRM" src="https://img.shields.io/github/stars/idurar/idurar-erp-crm?style=social" /></a></th>
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="VS Code Docs" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-vscode-docs.png" /></td>
@@ -2964,14 +2980,6 @@
         <td><a href="https://boxtransform.hyperdesigned.dev" target="_blank">Box Transform</a></td>
         <td>A library for advanced resizing of rect in UI.</td>
         <th><a href="https://github.com/hyper-designed/box_transform" target="_blank"><img alt="Box Transform" src="https://img.shields.io/github/stars/hyper-designed/box_transform?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="IDURAR ERP CRM" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-idurar-erp-crm.png" /></td>
-        <td>Productivity</td>
-        <td>JavaScript</td>
-        <td><a href="https://demo-erp-crm.idurarapp.com/" target="_blank">IDURAR ERP CRM</a></td>
-        <td>ERP / CRM Open Source (Invoice / Inventory / Accounting / HR) Based on Node.js / React.js alternative to erpnext,salesforce and odoo</td>
-        <th><a href="https://github.com/idurar/idurar-erp-crm" target="_blank"><img alt="IDURAR ERP CRM" src="https://img.shields.io/github/stars/idurar/idurar-erp-crm?style=social" /></a></th>
     </tr>
 
 </table>
@@ -5696,6 +5704,14 @@
         <td>Cool loading indicators for your react project</td>
         <th><a href="https://github.com/hane-smitter/react-loading-indicator" target="_blank"><img alt="React loading indicators" src="https://img.shields.io/github/stars/hane-smitter/react-loading-indicator?style=social" /></a></th>
     </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Featurevisor" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-featurevisor.jpg" /></td>
+        <td>Miscellaneous</td>
+        <td>TypeScript</td>
+        <td><a href="https://featurevisor.com" target="_blank">Featurevisor</a></td>
+        <td>Git-based feature flags, experiments &amp; remote config management for developers</td>
+        <th><a href="https://github.com/fahad19/featurevisor" target="_blank"><img alt="Featurevisor" src="https://img.shields.io/github/stars/fahad19/featurevisor?style=social" /></a></th>
+    </tr>
 
 </table>
 
@@ -6229,6 +6245,14 @@
         <th><a href="https://github.com/r3-team/r3" target="_blank"><img alt="REI3" src="https://img.shields.io/github/stars/r3-team/r3?style=social" /></a></th>
     </tr>
     <tr>
+        <td nowrap="nowrap"><img width="33" alt="IDURAR ERP CRM" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-idurar-erp-crm.png" /></td>
+        <td>Productivity</td>
+        <td>JavaScript</td>
+        <td><a href="https://demo-erp-crm.idurarapp.com/" target="_blank">IDURAR ERP CRM</a></td>
+        <td>ERP / CRM Open Source (Invoice / Inventory / Accounting / HR) Based on Node.js / React.js alternative to erpnext,salesforce and odoo</td>
+        <th><a href="https://github.com/idurar/idurar-erp-crm" target="_blank"><img alt="IDURAR ERP CRM" src="https://img.shields.io/github/stars/idurar/idurar-erp-crm?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="Soundnode" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-soundnode-app.png" /></td>
         <td>Productivity</td>
         <td>JavaScript</td>
@@ -6507,14 +6531,6 @@
         <td><a href="https://floatui.com/" target="_blank">Float UI</a></td>
         <td>Beautiful and responsive UI components and templates for React and Vue (soon) with Tailwind CSS.</td>
         <th><a href="https://github.com/MarsX-dev/floatui" target="_blank"><img alt="Float UI" src="https://img.shields.io/github/stars/MarsX-dev/floatui?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="IDURAR ERP CRM" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-idurar-erp-crm.png" /></td>
-        <td>Productivity</td>
-        <td>JavaScript</td>
-        <td><a href="https://demo-erp-crm.idurarapp.com/" target="_blank">IDURAR ERP CRM</a></td>
-        <td>ERP / CRM Open Source (Invoice / Inventory / Accounting / HR) Based on Node.js / React.js alternative to erpnext,salesforce and odoo</td>
-        <th><a href="https://github.com/idurar/idurar-erp-crm" target="_blank"><img alt="IDURAR ERP CRM" src="https://img.shields.io/github/stars/idurar/idurar-erp-crm?style=social" /></a></th>
     </tr>
 
 </table>
