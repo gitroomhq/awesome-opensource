@@ -148,6 +148,22 @@
         <th>Stargazers</th>
     </tr>
         <tr>
+        <td nowrap="nowrap"><img width="33" alt="qtrader" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-qtrader.jpg" /></td>
+        <td>Analytics</td>
+        <td>Python</td>
+        <td><a href="https://github.com/josephchenhk/qtrader" target="_blank">qtrader</a></td>
+        <td>A Light Event-Driven Algorithmic Trading Engine</td>
+        <th><a href="https://github.com/josephchenhk/qtrader" target="_blank"><img alt="qtrader" src="https://img.shields.io/github/stars/josephchenhk/qtrader?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Hoppscotch" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-hoppscotch.png" /></td>
+        <td>Productivity</td>
+        <td>TypeScript</td>
+        <td><a href="https://hoppscotch.io" target="_blank">Hoppscotch</a></td>
+        <td><g-emoji class="g-emoji" alias="alien" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f47d.png">?</g-emoji> Open source API development ecosystem - https://hoppscotch.io</td>
+        <th><a href="https://github.com/hoppscotch/hoppscotch" target="_blank"><img alt="Hoppscotch" src="https://img.shields.io/github/stars/hoppscotch/hoppscotch?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="nvidia_gpu_exporter" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-nvidia_gpu_exporter.jpg" /></td>
         <td>Observability</td>
         <td>Go</td>
@@ -290,22 +306,6 @@
         <td><a href="https://hackertab.dev" target="_blank">Hackertab.dev</a></td>
         <td>A Chrome <g-emoji class="g-emoji" alias="globe_with_meridians" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f310.png">?</g-emoji> &amp; Firefox <g-emoji class="g-emoji" alias="fox_face" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f98a.png">?</g-emoji> extension to discover the best developer news and tools in one tab!</td>
         <th><a href="https://github.com/medyo/hackertab.dev" target="_blank"><img alt="Hackertab.dev" src="https://img.shields.io/github/stars/medyo/hackertab.dev?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="OpenStatus" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-openstatus.png" /></td>
-        <td>Miscellaneous</td>
-        <td>TypeScript</td>
-        <td><a href="https://openstatus.dev" target="_blank">OpenStatus</a></td>
-        <td>The open-source status page</td>
-        <th><a href="https://github.com/openstatusHQ/openstatus" target="_blank"><img alt="OpenStatus" src="https://img.shields.io/github/stars/openstatusHQ/openstatus?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="ThorsSerializer" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-ThorsSerializer.jpg" /></td>
-        <td>Infrastructure</td>
-        <td>C++</td>
-        <td><a href="https://github.com/Loki-Astari/ThorsSerializer" target="_blank">ThorsSerializer</a></td>
-        <td>C++ Serialization library for JSON</td>
-        <th><a href="https://github.com/Loki-Astari/ThorsSerializer" target="_blank"><img alt="ThorsSerializer" src="https://img.shields.io/github/stars/Loki-Astari/ThorsSerializer?style=social" /></a></th>
     </tr>
 
 </table>
@@ -2981,6 +2981,14 @@
         <td>A library for advanced resizing of rect in UI.</td>
         <th><a href="https://github.com/hyper-designed/box_transform" target="_blank"><img alt="Box Transform" src="https://img.shields.io/github/stars/hyper-designed/box_transform?style=social" /></a></th>
     </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Hoppscotch" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-hoppscotch.png" /></td>
+        <td>Productivity</td>
+        <td>TypeScript</td>
+        <td><a href="https://hoppscotch.io" target="_blank">Hoppscotch</a></td>
+        <td><g-emoji class="g-emoji" alias="alien" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f47d.png">?</g-emoji> Open source API development ecosystem - https://hoppscotch.io</td>
+        <th><a href="https://github.com/hoppscotch/hoppscotch" target="_blank"><img alt="Hoppscotch" src="https://img.shields.io/github/stars/hoppscotch/hoppscotch?style=social" /></a></th>
+    </tr>
 
 </table>
 
@@ -3202,6 +3210,14 @@
         <td><a href="https://formbricks.com" target="_blank">Formbricks</a></td>
         <td>Open Source Surveys &amp; Experience Management Solution</td>
         <th><a href="https://github.com/formbricks/formbricks" target="_blank"><img alt="Formbricks" src="https://img.shields.io/github/stars/formbricks/formbricks?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="qtrader" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-qtrader.jpg" /></td>
+        <td>Analytics</td>
+        <td>Python</td>
+        <td><a href="https://github.com/josephchenhk/qtrader" target="_blank">qtrader</a></td>
+        <td>A Light Event-Driven Algorithmic Trading Engine</td>
+        <th><a href="https://github.com/josephchenhk/qtrader" target="_blank"><img alt="qtrader" src="https://img.shields.io/github/stars/josephchenhk/qtrader?style=social" /></a></th>
     </tr>
 
 </table>
@@ -5712,6 +5728,14 @@
         <td>Git-based feature flags, experiments &amp; remote config management for developers</td>
         <th><a href="https://github.com/fahad19/featurevisor" target="_blank"><img alt="Featurevisor" src="https://img.shields.io/github/stars/fahad19/featurevisor?style=social" /></a></th>
     </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Hoppscotch" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-hoppscotch.png" /></td>
+        <td>Productivity</td>
+        <td>TypeScript</td>
+        <td><a href="https://hoppscotch.io" target="_blank">Hoppscotch</a></td>
+        <td><g-emoji class="g-emoji" alias="alien" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f47d.png">?</g-emoji> Open source API development ecosystem - https://hoppscotch.io</td>
+        <th><a href="https://github.com/hoppscotch/hoppscotch" target="_blank"><img alt="Hoppscotch" src="https://img.shields.io/github/stars/hoppscotch/hoppscotch?style=social" /></a></th>
+    </tr>
 
 </table>
 
@@ -7631,6 +7655,14 @@
         <td><a href="https://www.ascii-art.site" target="_blank">Art</a></td>
         <td><g-emoji class="g-emoji" alias="art" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f3a8.png">?</g-emoji> ASCII art library for Python</td>
         <th><a href="https://github.com/sepandhaghighi/art" target="_blank"><img alt="Art" src="https://img.shields.io/github/stars/sepandhaghighi/art?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="qtrader" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-qtrader.jpg" /></td>
+        <td>Analytics</td>
+        <td>Python</td>
+        <td><a href="https://github.com/josephchenhk/qtrader" target="_blank">qtrader</a></td>
+        <td>A Light Event-Driven Algorithmic Trading Engine</td>
+        <th><a href="https://github.com/josephchenhk/qtrader" target="_blank"><img alt="qtrader" src="https://img.shields.io/github/stars/josephchenhk/qtrader?style=social" /></a></th>
     </tr>
 
 </table>
