@@ -180,6 +180,22 @@
         <th><a href="https://github.com/aregtech/areg-sdk" target="_blank"><img alt="areg engine" src="https://img.shields.io/github/stars/aregtech/areg-sdk?style=social" /></a></th>
     </tr>
     <tr>
+        <td nowrap="nowrap"><img width="33" alt="brapi" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-brapi.jpg" /></td>
+        <td>Miscellaneous</td>
+        <td>TypeScript</td>
+        <td><a href="https://brapi.dev" target="_blank">brapi</a></td>
+        <td>A poderosa API open source para dados financeiros do mercado de ações, conversão de moedas e inflação brasileira</td>
+        <th><a href="https://github.com/Alissonsleal/brapi" target="_blank"><img alt="brapi" src="https://img.shields.io/github/stars/Alissonsleal/brapi?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="TCET Linux" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-tcet-linux.png" /></td>
+        <td>Infrastructure</td>
+        <td>Shell</td>
+        <td><a href="https://github.com/tcet-opensource/tcet-linux" target="_blank">TCET Linux</a></td>
+        <td>ISO profile &amp; scripts to build TCET Linux</td>
+        <th><a href="https://github.com/tcet-opensource/tcet-linux" target="_blank"><img alt="TCET Linux" src="https://img.shields.io/github/stars/tcet-opensource/tcet-linux?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="nvidia_gpu_exporter" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-nvidia_gpu_exporter.jpg" /></td>
         <td>Observability</td>
         <td>Go</td>
@@ -290,22 +306,6 @@
         <td><a href="https://formbricks.com" target="_blank">Formbricks</a></td>
         <td>Open Source Surveys &amp; Experience Management Solution</td>
         <th><a href="https://github.com/formbricks/formbricks" target="_blank"><img alt="Formbricks" src="https://img.shields.io/github/stars/formbricks/formbricks?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="PyCM" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-pycm.png" /></td>
-        <td>Miscellaneous</td>
-        <td>Python</td>
-        <td><a href="http://pycm.io" target="_blank">PyCM</a></td>
-        <td>Multi-class confusion matrix library in Python</td>
-        <th><a href="https://github.com/sepandhaghighi/pycm" target="_blank"><img alt="PyCM" src="https://img.shields.io/github/stars/sepandhaghighi/pycm?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Art" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-art.png" /></td>
-        <td>Miscellaneous</td>
-        <td>Python</td>
-        <td><a href="https://www.ascii-art.site" target="_blank">Art</a></td>
-        <td><g-emoji class="g-emoji" alias="art" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f3a8.png">?</g-emoji> ASCII art library for Python</td>
-        <th><a href="https://github.com/sepandhaghighi/art" target="_blank"><img alt="Art" src="https://img.shields.io/github/stars/sepandhaghighi/art?style=social" /></a></th>
     </tr>
 
 </table>
@@ -499,6 +499,14 @@
         <th><a href="https://github.com/phasehq/console" target="_blank"><img alt="Phase Console" src="https://img.shields.io/github/stars/phasehq/console?style=social" /></a></th>
     </tr>
     <tr>
+        <td nowrap="nowrap"><img width="33" alt="OpenStatus" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-openstatus.png" /></td>
+        <td>Miscellaneous</td>
+        <td>TypeScript</td>
+        <td><a href="https://openstatus.dev" target="_blank">OpenStatus</a></td>
+        <td>The open-source status page</td>
+        <th><a href="https://github.com/openstatusHQ/openstatus" target="_blank"><img alt="OpenStatus" src="https://img.shields.io/github/stars/openstatusHQ/openstatus?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="GitHub Support" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-dmca.png" /></td>
         <td>Miscellaneous</td>
         <td>undefined</td>
@@ -537,6 +545,14 @@
         <td><a href="https://hanko.io" target="_blank">Hanko</a></td>
         <td>Authentication and user management for the passkey era.</td>
         <th><a href="https://github.com/teamhanko/hanko" target="_blank"><img alt="Hanko" src="https://img.shields.io/github/stars/teamhanko/hanko?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="KeyPass" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-KeyPass.jpg" /></td>
+        <td>Security</td>
+        <td>Kotlin</td>
+        <td><a href="https://play.google.com/store/apps/details?id=com.yogeshpaliyal.keypass" target="_blank">KeyPass</a></td>
+        <td>KeyPass: Open-source &amp; offline password manager. Store, manage, take control securely.</td>
+        <th><a href="https://github.com/yogeshpaliyal/KeyPass" target="_blank"><img alt="KeyPass" src="https://img.shields.io/github/stars/yogeshpaliyal/KeyPass?style=social" /></a></th>
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="Everright-filter" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-Everright-filter.jpg" /></td>
@@ -609,14 +625,6 @@
         <td><a href="https://hackertab.dev" target="_blank">Hackertab.dev</a></td>
         <td>A Chrome <g-emoji class="g-emoji" alias="globe_with_meridians" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f310.png">?</g-emoji> &amp; Firefox <g-emoji class="g-emoji" alias="fox_face" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f98a.png">?</g-emoji> extension to discover the best developer news and tools in one tab!</td>
         <th><a href="https://github.com/medyo/hackertab.dev" target="_blank"><img alt="Hackertab.dev" src="https://img.shields.io/github/stars/medyo/hackertab.dev?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="OpenStatus" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-openstatus.png" /></td>
-        <td>Miscellaneous</td>
-        <td>TypeScript</td>
-        <td><a href="https://openstatus.dev" target="_blank">OpenStatus</a></td>
-        <td>The open-source status page</td>
-        <th><a href="https://github.com/openstatusHQ/openstatus" target="_blank"><img alt="OpenStatus" src="https://img.shields.io/github/stars/openstatusHQ/openstatus?style=social" /></a></th>
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="Mirage JS" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-miragejs.png" /></td>
@@ -761,14 +769,6 @@
         <td><a href="https://telego.pixelbox.dev" target="_blank">Telego</a></td>
         <td>Telegram Bot API library for Go</td>
         <th><a href="https://github.com/mymmrac/telego" target="_blank"><img alt="Telego" src="https://img.shields.io/github/stars/mymmrac/telego?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="KeyPass" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-KeyPass.jpg" /></td>
-        <td>Security</td>
-        <td>Kotlin</td>
-        <td><a href="https://play.google.com/store/apps/details?id=com.yogeshpaliyal.keypass" target="_blank">KeyPass</a></td>
-        <td>KeyPass: Open-source &amp; offline password manager. Store, manage, take control securely.</td>
-        <th><a href="https://github.com/yogeshpaliyal/KeyPass" target="_blank"><img alt="KeyPass" src="https://img.shields.io/github/stars/yogeshpaliyal/KeyPass?style=social" /></a></th>
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="lambda-perf" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-lambda-perf-17.jpg" /></td>
@@ -1154,6 +1154,14 @@
         <th><a href="https://github.com/awesomeWM/awesome" target="_blank"><img alt="awesome window manager" src="https://img.shields.io/github/stars/awesomeWM/awesome?style=social" /></a></th>
     </tr>
     <tr>
+        <td nowrap="nowrap"><img width="33" alt="OpenStatus" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-openstatus.png" /></td>
+        <td>Miscellaneous</td>
+        <td>TypeScript</td>
+        <td><a href="https://openstatus.dev" target="_blank">OpenStatus</a></td>
+        <td>The open-source status page</td>
+        <th><a href="https://github.com/openstatusHQ/openstatus" target="_blank"><img alt="OpenStatus" src="https://img.shields.io/github/stars/openstatusHQ/openstatus?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="GitHub Support" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-dmca.png" /></td>
         <td>Miscellaneous</td>
         <td>undefined</td>
@@ -1184,14 +1192,6 @@
         <td><a href="https://github.com/ariasdiniz/macaw_framework" target="_blank">MacawFramework</a></td>
         <td>A lightweight web framework designed for building efficient backend applications. Initially created for study purposes, now production-ready and open for contributions.</td>
         <th><a href="https://github.com/ariasdiniz/macaw_framework" target="_blank"><img alt="MacawFramework" src="https://img.shields.io/github/stars/ariasdiniz/macaw_framework?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="OpenStatus" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-openstatus.png" /></td>
-        <td>Miscellaneous</td>
-        <td>TypeScript</td>
-        <td><a href="https://openstatus.dev" target="_blank">OpenStatus</a></td>
-        <td>The open-source status page</td>
-        <th><a href="https://github.com/openstatusHQ/openstatus" target="_blank"><img alt="OpenStatus" src="https://img.shields.io/github/stars/openstatusHQ/openstatus?style=social" /></a></th>
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="wirepig" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-wirepig.jpg" /></td>
@@ -1608,6 +1608,14 @@
         <td><a href="https://featurevisor.com" target="_blank">Featurevisor</a></td>
         <td>Git-based feature flags, experiments &amp; remote config management for developers</td>
         <th><a href="https://github.com/fahad19/featurevisor" target="_blank"><img alt="Featurevisor" src="https://img.shields.io/github/stars/fahad19/featurevisor?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="brapi" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-brapi.jpg" /></td>
+        <td>Miscellaneous</td>
+        <td>TypeScript</td>
+        <td><a href="https://brapi.dev" target="_blank">brapi</a></td>
+        <td>A poderosa API open source para dados financeiros do mercado de ações, conversão de moedas e inflação brasileira</td>
+        <th><a href="https://github.com/Alissonsleal/brapi" target="_blank"><img alt="brapi" src="https://img.shields.io/github/stars/Alissonsleal/brapi?style=social" /></a></th>
     </tr>
 
 </table>
@@ -4913,6 +4921,14 @@
         <td>Architecture decision record (ADR) examples for software planning, IT leadership, and template documentation</td>
         <th><a href="https://github.com/joelparkerhenderson/architecture-decision-record" target="_blank"><img alt="Architecture Decision Record" src="https://img.shields.io/github/stars/joelparkerhenderson/architecture-decision-record?style=social" /></a></th>
     </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="TCET Linux" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-tcet-linux.png" /></td>
+        <td>Infrastructure</td>
+        <td>Shell</td>
+        <td><a href="https://github.com/tcet-opensource/tcet-linux" target="_blank">TCET Linux</a></td>
+        <td>ISO profile &amp; scripts to build TCET Linux</td>
+        <th><a href="https://github.com/tcet-opensource/tcet-linux" target="_blank"><img alt="TCET Linux" src="https://img.shields.io/github/stars/tcet-opensource/tcet-linux?style=social" /></a></th>
+    </tr>
 
 </table>
 
@@ -5001,6 +5017,14 @@
         <th><a href="https://github.com/phasehq/console" target="_blank"><img alt="Phase Console" src="https://img.shields.io/github/stars/phasehq/console?style=social" /></a></th>
     </tr>
     <tr>
+        <td nowrap="nowrap"><img width="33" alt="OpenStatus" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-openstatus.png" /></td>
+        <td>Miscellaneous</td>
+        <td>TypeScript</td>
+        <td><a href="https://openstatus.dev" target="_blank">OpenStatus</a></td>
+        <td>The open-source status page</td>
+        <th><a href="https://github.com/openstatusHQ/openstatus" target="_blank"><img alt="OpenStatus" src="https://img.shields.io/github/stars/openstatusHQ/openstatus?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="Medusa" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-medusa.jpg" /></td>
         <td>Miscellaneous</td>
         <td>TypeScript</td>
@@ -5039,14 +5063,6 @@
         <td><a href="https://hackertab.dev" target="_blank">Hackertab.dev</a></td>
         <td>A Chrome <g-emoji class="g-emoji" alias="globe_with_meridians" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f310.png">?</g-emoji> &amp; Firefox <g-emoji class="g-emoji" alias="fox_face" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f98a.png">?</g-emoji> extension to discover the best developer news and tools in one tab!</td>
         <th><a href="https://github.com/medyo/hackertab.dev" target="_blank"><img alt="Hackertab.dev" src="https://img.shields.io/github/stars/medyo/hackertab.dev?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="OpenStatus" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-openstatus.png" /></td>
-        <td>Miscellaneous</td>
-        <td>TypeScript</td>
-        <td><a href="https://openstatus.dev" target="_blank">OpenStatus</a></td>
-        <td>The open-source status page</td>
-        <th><a href="https://github.com/openstatusHQ/openstatus" target="_blank"><img alt="OpenStatus" src="https://img.shields.io/github/stars/openstatusHQ/openstatus?style=social" /></a></th>
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="NativeScript-Vue" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-nativescript-vue-1.png" /></td>
@@ -5751,6 +5767,14 @@
         <td><a href="https://hoppscotch.io" target="_blank">Hoppscotch</a></td>
         <td><g-emoji class="g-emoji" alias="alien" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f47d.png">?</g-emoji> Open source API development ecosystem - https://hoppscotch.io</td>
         <th><a href="https://github.com/hoppscotch/hoppscotch" target="_blank"><img alt="Hoppscotch" src="https://img.shields.io/github/stars/hoppscotch/hoppscotch?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="brapi" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-brapi.jpg" /></td>
+        <td>Miscellaneous</td>
+        <td>TypeScript</td>
+        <td><a href="https://brapi.dev" target="_blank">brapi</a></td>
+        <td>A poderosa API open source para dados financeiros do mercado de ações, conversão de moedas e inflação brasileira</td>
+        <th><a href="https://github.com/Alissonsleal/brapi" target="_blank"><img alt="brapi" src="https://img.shields.io/github/stars/Alissonsleal/brapi?style=social" /></a></th>
     </tr>
 
 </table>
@@ -8823,6 +8847,14 @@
         <td><a href="https://docs.saltproject.io" target="_blank">Dockerized Salt Master</a></td>
         <td><g-emoji class="g-emoji" alias="whale" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f433.png">?</g-emoji><g-emoji class="g-emoji" alias="salt" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f9c2.png">?</g-emoji> Dockerized Salt Master</td>
         <th><a href="https://github.com/cdalvaro/docker-salt-master" target="_blank"><img alt="Dockerized Salt Master" src="https://img.shields.io/github/stars/cdalvaro/docker-salt-master?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="TCET Linux" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-tcet-linux.png" /></td>
+        <td>Infrastructure</td>
+        <td>Shell</td>
+        <td><a href="https://github.com/tcet-opensource/tcet-linux" target="_blank">TCET Linux</a></td>
+        <td>ISO profile &amp; scripts to build TCET Linux</td>
+        <th><a href="https://github.com/tcet-opensource/tcet-linux" target="_blank"><img alt="TCET Linux" src="https://img.shields.io/github/stars/tcet-opensource/tcet-linux?style=social" /></a></th>
     </tr>
 
 </table>
