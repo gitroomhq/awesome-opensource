@@ -164,6 +164,22 @@
         <th><a href="https://github.com/hoppscotch/hoppscotch" target="_blank"><img alt="Hoppscotch" src="https://img.shields.io/github/stars/hoppscotch/hoppscotch?style=social" /></a></th>
     </tr>
     <tr>
+        <td nowrap="nowrap"><img width="33" alt="php-diff" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-php-diff.jpg" /></td>
+        <td>Productivity</td>
+        <td>PHP</td>
+        <td><a href="https://packagist.org/packages/jfcherng/php-diff" target="_blank">php-diff</a></td>
+        <td>A comprehensive library for generating differences between two strings in multiple formats (unified, side by side HTML etc).</td>
+        <th><a href="https://github.com/jfcherng/php-diff" target="_blank"><img alt="php-diff" src="https://img.shields.io/github/stars/jfcherng/php-diff?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="areg engine" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-areg-sdk.jpg" /></td>
+        <td>Productivity</td>
+        <td>C++</td>
+        <td><a href="https://www.aregtech.com" target="_blank">areg engine</a></td>
+        <td>AREG is an RPC framework, but Object RPC (ORPC), that asynchronously triggers methods of the remote objects called services.</td>
+        <th><a href="https://github.com/aregtech/areg-sdk" target="_blank"><img alt="areg engine" src="https://img.shields.io/github/stars/aregtech/areg-sdk?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="nvidia_gpu_exporter" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-nvidia_gpu_exporter.jpg" /></td>
         <td>Observability</td>
         <td>Go</td>
@@ -290,22 +306,6 @@
         <td><a href="https://www.ascii-art.site" target="_blank">Art</a></td>
         <td><g-emoji class="g-emoji" alias="art" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f3a8.png">?</g-emoji> ASCII art library for Python</td>
         <th><a href="https://github.com/sepandhaghighi/art" target="_blank"><img alt="Art" src="https://img.shields.io/github/stars/sepandhaghighi/art?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Architecture Decision Record" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-architecture-decision-record.jpg" /></td>
-        <td>Infrastructure</td>
-        <td>undefined</td>
-        <td><a href="https://github.com/joelparkerhenderson/architecture-decision-record" target="_blank">Architecture Decision Record</a></td>
-        <td>Architecture decision record (ADR) examples for software planning, IT leadership, and template documentation</td>
-        <th><a href="https://github.com/joelparkerhenderson/architecture-decision-record" target="_blank"><img alt="Architecture Decision Record" src="https://img.shields.io/github/stars/joelparkerhenderson/architecture-decision-record?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Hackertab.dev" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-hackertab.dev_.jpg" /></td>
-        <td>Productivity</td>
-        <td>TypeScript</td>
-        <td><a href="https://hackertab.dev" target="_blank">Hackertab.dev</a></td>
-        <td>A Chrome <g-emoji class="g-emoji" alias="globe_with_meridians" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f310.png">?</g-emoji> &amp; Firefox <g-emoji class="g-emoji" alias="fox_face" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f98a.png">?</g-emoji> extension to discover the best developer news and tools in one tab!</td>
-        <th><a href="https://github.com/medyo/hackertab.dev" target="_blank"><img alt="Hackertab.dev" src="https://img.shields.io/github/stars/medyo/hackertab.dev?style=social" /></a></th>
     </tr>
 
 </table>
@@ -2988,6 +2988,22 @@
         <td><a href="https://hoppscotch.io" target="_blank">Hoppscotch</a></td>
         <td><g-emoji class="g-emoji" alias="alien" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f47d.png">?</g-emoji> Open source API development ecosystem - https://hoppscotch.io</td>
         <th><a href="https://github.com/hoppscotch/hoppscotch" target="_blank"><img alt="Hoppscotch" src="https://img.shields.io/github/stars/hoppscotch/hoppscotch?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="php-diff" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-php-diff.jpg" /></td>
+        <td>Productivity</td>
+        <td>PHP</td>
+        <td><a href="https://packagist.org/packages/jfcherng/php-diff" target="_blank">php-diff</a></td>
+        <td>A comprehensive library for generating differences between two strings in multiple formats (unified, side by side HTML etc).</td>
+        <th><a href="https://github.com/jfcherng/php-diff" target="_blank"><img alt="php-diff" src="https://img.shields.io/github/stars/jfcherng/php-diff?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="areg engine" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-areg-sdk.jpg" /></td>
+        <td>Productivity</td>
+        <td>C++</td>
+        <td><a href="https://www.aregtech.com" target="_blank">areg engine</a></td>
+        <td>AREG is an RPC framework, but Object RPC (ORPC), that asynchronously triggers methods of the remote objects called services.</td>
+        <th><a href="https://github.com/aregtech/areg-sdk" target="_blank"><img alt="areg engine" src="https://img.shields.io/github/stars/aregtech/areg-sdk?style=social" /></a></th>
     </tr>
 
 </table>
@@ -5924,6 +5940,14 @@
         <td>Simple forum software for building great communities.</td>
         <th><a href="https://github.com/flarum/framework" target="_blank"><img alt="Flarum" src="https://img.shields.io/github/stars/flarum/framework?style=social" /></a></th>
     </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="php-diff" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-php-diff.jpg" /></td>
+        <td>Productivity</td>
+        <td>PHP</td>
+        <td><a href="https://packagist.org/packages/jfcherng/php-diff" target="_blank">php-diff</a></td>
+        <td>A comprehensive library for generating differences between two strings in multiple formats (unified, side by side HTML etc).</td>
+        <th><a href="https://github.com/jfcherng/php-diff" target="_blank"><img alt="php-diff" src="https://img.shields.io/github/stars/jfcherng/php-diff?style=social" /></a></th>
+    </tr>
 
 </table>
 
@@ -8141,6 +8165,14 @@
         <td><a href="https://zigrazor.github.io/CXXGraph/" target="_blank">CXXGraph</a></td>
         <td>Header-Only C++ Library for Graph Representation and Algorithms</td>
         <th><a href="https://github.com/ZigRazor/CXXGraph" target="_blank"><img alt="CXXGraph" src="https://img.shields.io/github/stars/ZigRazor/CXXGraph?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="areg engine" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-areg-sdk.jpg" /></td>
+        <td>Productivity</td>
+        <td>C++</td>
+        <td><a href="https://www.aregtech.com" target="_blank">areg engine</a></td>
+        <td>AREG is an RPC framework, but Object RPC (ORPC), that asynchronously triggers methods of the remote objects called services.</td>
+        <th><a href="https://github.com/aregtech/areg-sdk" target="_blank"><img alt="areg engine" src="https://img.shields.io/github/stars/aregtech/areg-sdk?style=social" /></a></th>
     </tr>
 
 </table>
