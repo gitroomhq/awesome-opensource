@@ -148,12 +148,36 @@
         <th>Stargazers</th>
     </tr>
         <tr>
+        <td nowrap="nowrap"><img width="33" alt="ScienceQA" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-ScienceQA.jpg" /></td>
+        <td>Miscellaneous</td>
+        <td>Python</td>
+        <td><a href="https://github.com/lupantech/ScienceQA" target="_blank">ScienceQA</a></td>
+        <td>Data and code for NeurIPS 2022 Paper "Learn to Explain: Multimodal Reasoning via Thought Chains for Science Question Answering".</td>
+        <th><a href="https://github.com/lupantech/ScienceQA" target="_blank"><img alt="ScienceQA" src="https://img.shields.io/github/stars/lupantech/ScienceQA?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="doticons" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-doticons.jpg" /></td>
+        <td>Miscellaneous</td>
+        <td>undefined</td>
+        <td><a href="https://github.com/eduardconstantin/doticons" target="_blank">doticons</a></td>
+        <td>doticons is a collection of versatile and visually appealing dot icons in SVG format.</td>
+        <th><a href="https://github.com/eduardconstantin/doticons" target="_blank"><img alt="doticons" src="https://img.shields.io/github/stars/eduardconstantin/doticons?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="TCET Linux" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-tcet-linux.png" /></td>
         <td>Infrastructure</td>
         <td>Shell</td>
         <td><a href="https://github.com/tcet-opensource/tcet-linux" target="_blank">TCET Linux</a></td>
         <td>ISO profile &amp; scripts to build TCET Linux</td>
         <th><a href="https://github.com/tcet-opensource/tcet-linux" target="_blank"><img alt="TCET Linux" src="https://img.shields.io/github/stars/tcet-opensource/tcet-linux?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="areg engine" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-areg-sdk.jpg" /></td>
+        <td>Productivity</td>
+        <td>C++</td>
+        <td><a href="https://www.aregtech.com" target="_blank">areg engine</a></td>
+        <td>AREG is an RPC framework, but Object RPC (ORPC), that asynchronously triggers methods of the remote objects called services.</td>
+        <th><a href="https://github.com/aregtech/areg-sdk" target="_blank"><img alt="areg engine" src="https://img.shields.io/github/stars/aregtech/areg-sdk?style=social" /></a></th>
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="qtrader" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-qtrader.jpg" /></td>
@@ -178,14 +202,6 @@
         <td><a href="https://packagist.org/packages/jfcherng/php-diff" target="_blank">php-diff</a></td>
         <td>A comprehensive library for generating differences between two strings in multiple formats (unified, side by side HTML etc).</td>
         <th><a href="https://github.com/jfcherng/php-diff" target="_blank"><img alt="php-diff" src="https://img.shields.io/github/stars/jfcherng/php-diff?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="areg engine" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-areg-sdk.jpg" /></td>
-        <td>Productivity</td>
-        <td>C++</td>
-        <td><a href="https://www.aregtech.com" target="_blank">areg engine</a></td>
-        <td>AREG is an RPC framework, but Object RPC (ORPC), that asynchronously triggers methods of the remote objects called services.</td>
-        <th><a href="https://github.com/aregtech/areg-sdk" target="_blank"><img alt="areg engine" src="https://img.shields.io/github/stars/aregtech/areg-sdk?style=social" /></a></th>
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="brapi" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-brapi.jpg" /></td>
@@ -290,22 +306,6 @@
         <td><a href="https://switchfeat.com" target="_blank">SwitchFeat</a></td>
         <td>Feature flags and A/B testing framework.</td>
         <th><a href="https://github.com/switchfeat-com/switchfeat" target="_blank"><img alt="SwitchFeat" src="https://img.shields.io/github/stars/switchfeat-com/switchfeat?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Discord Package" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-Discord-Package.png" /></td>
-        <td>Observability</td>
-        <td>TypeScript</td>
-        <td><a href="https://discordpackage.com/" target="_blank">Discord Package</a></td>
-        <td>A detailed discord data package explorer inspired by ddpe.androz2091.fr made to help discord users visualize the data used by Discord.</td>
-        <th><a href="https://github.com/peterhanania/Discord-Package" target="_blank"><img alt="Discord Package" src="https://img.shields.io/github/stars/peterhanania/Discord-Package?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Formbricks" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-formbricks.png" /></td>
-        <td>Analytics</td>
-        <td>TypeScript</td>
-        <td><a href="https://formbricks.com" target="_blank">Formbricks</a></td>
-        <td>Open Source Surveys &amp; Experience Management Solution</td>
-        <th><a href="https://github.com/formbricks/formbricks" target="_blank"><img alt="Formbricks" src="https://img.shields.io/github/stars/formbricks/formbricks?style=social" /></a></th>
     </tr>
 
 </table>
@@ -499,6 +499,14 @@
         <th><a href="https://github.com/phasehq/console" target="_blank"><img alt="Phase Console" src="https://img.shields.io/github/stars/phasehq/console?style=social" /></a></th>
     </tr>
     <tr>
+        <td nowrap="nowrap"><img width="33" alt="Hackertab.dev" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-hackertab.dev_.jpg" /></td>
+        <td>Productivity</td>
+        <td>TypeScript</td>
+        <td><a href="https://hackertab.dev" target="_blank">Hackertab.dev</a></td>
+        <td>A Chrome <g-emoji class="g-emoji" alias="globe_with_meridians" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f310.png">?</g-emoji> &amp; Firefox <g-emoji class="g-emoji" alias="fox_face" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f98a.png">?</g-emoji> extension to discover the best developer news and tools in one tab!</td>
+        <th><a href="https://github.com/medyo/hackertab.dev" target="_blank"><img alt="Hackertab.dev" src="https://img.shields.io/github/stars/medyo/hackertab.dev?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="OpenStatus" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-openstatus.png" /></td>
         <td>Miscellaneous</td>
         <td>TypeScript</td>
@@ -617,14 +625,6 @@
         <td><a href="https://prim.doseofted.me" target="_blank">Prim+RPC</a></td>
         <td>Easy-to-understand, type-safe, transport-agnostic RPC/IPC for JavaScript, supporting callbacks, batching, file uploads, custom serialization, and more.</td>
         <th><a href="https://github.com/doseofted/prim-rpc" target="_blank"><img alt="Prim+RPC" src="https://img.shields.io/github/stars/doseofted/prim-rpc?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Hackertab.dev" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-hackertab.dev_.jpg" /></td>
-        <td>Productivity</td>
-        <td>TypeScript</td>
-        <td><a href="https://hackertab.dev" target="_blank">Hackertab.dev</a></td>
-        <td>A Chrome <g-emoji class="g-emoji" alias="globe_with_meridians" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f310.png">?</g-emoji> &amp; Firefox <g-emoji class="g-emoji" alias="fox_face" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f98a.png">?</g-emoji> extension to discover the best developer news and tools in one tab!</td>
-        <th><a href="https://github.com/medyo/hackertab.dev" target="_blank"><img alt="Hackertab.dev" src="https://img.shields.io/github/stars/medyo/hackertab.dev?style=social" /></a></th>
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="TCET Linux" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-tcet-linux.png" /></td>
@@ -1059,6 +1059,14 @@
         <th><a href="https://github.com/idurar/idurar-erp-crm" target="_blank"><img alt="IDURAR ERP CRM" src="https://img.shields.io/github/stars/idurar/idurar-erp-crm?style=social" /></a></th>
     </tr>
     <tr>
+        <td nowrap="nowrap"><img width="33" alt="areg engine" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-areg-sdk.jpg" /></td>
+        <td>Productivity</td>
+        <td>C++</td>
+        <td><a href="https://www.aregtech.com" target="_blank">areg engine</a></td>
+        <td>AREG is an RPC framework, but Object RPC (ORPC), that asynchronously triggers methods of the remote objects called services.</td>
+        <th><a href="https://github.com/aregtech/areg-sdk" target="_blank"><img alt="areg engine" src="https://img.shields.io/github/stars/aregtech/areg-sdk?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="ClusterFuzz" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-clusterfuzz.png" /></td>
         <td>Infrastructure</td>
         <td>Python</td>
@@ -1113,14 +1121,6 @@
         <td><a href="http://phpseclib.com/" target="_blank">phpseclib</a></td>
         <td>PHP Secure Communications Library</td>
         <th><a href="https://github.com/phpseclib/phpseclib" target="_blank"><img alt="phpseclib" src="https://img.shields.io/github/stars/phpseclib/phpseclib?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Elvish Shell" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-elvish.jpg" /></td>
-        <td>Productivity</td>
-        <td>Go</td>
-        <td><a href="https://elv.sh/" target="_blank">Elvish Shell</a></td>
-        <td>Elvish = Expressive Programming Language + Versatile Interactive Shell</td>
-        <th><a href="https://github.com/elves/elvish" target="_blank"><img alt="Elvish Shell" src="https://img.shields.io/github/stars/elves/elvish?style=social" /></a></th>
     </tr>
 
 </table>
@@ -1617,6 +1617,22 @@
         <td>A poderosa API open source para dados financeiros do mercado de ações, conversão de moedas e inflação brasileira</td>
         <th><a href="https://github.com/Alissonsleal/brapi" target="_blank"><img alt="brapi" src="https://img.shields.io/github/stars/Alissonsleal/brapi?style=social" /></a></th>
     </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="ScienceQA" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-ScienceQA.jpg" /></td>
+        <td>Miscellaneous</td>
+        <td>Python</td>
+        <td><a href="https://github.com/lupantech/ScienceQA" target="_blank">ScienceQA</a></td>
+        <td>Data and code for NeurIPS 2022 Paper "Learn to Explain: Multimodal Reasoning via Thought Chains for Science Question Answering".</td>
+        <th><a href="https://github.com/lupantech/ScienceQA" target="_blank"><img alt="ScienceQA" src="https://img.shields.io/github/stars/lupantech/ScienceQA?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="doticons" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-doticons.jpg" /></td>
+        <td>Miscellaneous</td>
+        <td>undefined</td>
+        <td><a href="https://github.com/eduardconstantin/doticons" target="_blank">doticons</a></td>
+        <td>doticons is a collection of versatile and visually appealing dot icons in SVG format.</td>
+        <th><a href="https://github.com/eduardconstantin/doticons" target="_blank"><img alt="doticons" src="https://img.shields.io/github/stars/eduardconstantin/doticons?style=social" /></a></th>
+    </tr>
 
 </table>
 
@@ -1902,6 +1918,14 @@
         <th><a href="https://github.com/Liberty-liu/Everright-formEditor" target="_blank"><img alt="Everright-formEditor" src="https://img.shields.io/github/stars/Liberty-liu/Everright-formEditor?style=social" /></a></th>
     </tr>
     <tr>
+        <td nowrap="nowrap"><img width="33" alt="Hackertab.dev" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-hackertab.dev_.jpg" /></td>
+        <td>Productivity</td>
+        <td>TypeScript</td>
+        <td><a href="https://hackertab.dev" target="_blank">Hackertab.dev</a></td>
+        <td>A Chrome <g-emoji class="g-emoji" alias="globe_with_meridians" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f310.png">?</g-emoji> &amp; Firefox <g-emoji class="g-emoji" alias="fox_face" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f98a.png">?</g-emoji> extension to discover the best developer news and tools in one tab!</td>
+        <th><a href="https://github.com/medyo/hackertab.dev" target="_blank"><img alt="Hackertab.dev" src="https://img.shields.io/github/stars/medyo/hackertab.dev?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="boyka-framework" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-boyka-framework.png" /></td>
         <td>Productivity</td>
         <td>Java</td>
@@ -1916,14 +1940,6 @@
         <td><a href="https://prim.doseofted.me" target="_blank">Prim+RPC</a></td>
         <td>Easy-to-understand, type-safe, transport-agnostic RPC/IPC for JavaScript, supporting callbacks, batching, file uploads, custom serialization, and more.</td>
         <th><a href="https://github.com/doseofted/prim-rpc" target="_blank"><img alt="Prim+RPC" src="https://img.shields.io/github/stars/doseofted/prim-rpc?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Hackertab.dev" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-hackertab.dev_.jpg" /></td>
-        <td>Productivity</td>
-        <td>TypeScript</td>
-        <td><a href="https://hackertab.dev" target="_blank">Hackertab.dev</a></td>
-        <td>A Chrome <g-emoji class="g-emoji" alias="globe_with_meridians" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f310.png">?</g-emoji> &amp; Firefox <g-emoji class="g-emoji" alias="fox_face" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f98a.png">?</g-emoji> extension to discover the best developer news and tools in one tab!</td>
-        <th><a href="https://github.com/medyo/hackertab.dev" target="_blank"><img alt="Hackertab.dev" src="https://img.shields.io/github/stars/medyo/hackertab.dev?style=social" /></a></th>
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="Mirage JS" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-miragejs.png" /></td>
@@ -2052,6 +2068,14 @@
         <td><a href="https://demo-erp-crm.idurarapp.com/" target="_blank">IDURAR ERP CRM</a></td>
         <td>ERP / CRM Open Source (Invoice / Inventory / Accounting / HR) Based on Node.js / React.js alternative to erpnext,salesforce and odoo</td>
         <th><a href="https://github.com/idurar/idurar-erp-crm" target="_blank"><img alt="IDURAR ERP CRM" src="https://img.shields.io/github/stars/idurar/idurar-erp-crm?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="areg engine" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-areg-sdk.jpg" /></td>
+        <td>Productivity</td>
+        <td>C++</td>
+        <td><a href="https://www.aregtech.com" target="_blank">areg engine</a></td>
+        <td>AREG is an RPC framework, but Object RPC (ORPC), that asynchronously triggers methods of the remote objects called services.</td>
+        <th><a href="https://github.com/aregtech/areg-sdk" target="_blank"><img alt="areg engine" src="https://img.shields.io/github/stars/aregtech/areg-sdk?style=social" /></a></th>
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="VS Code Docs" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-vscode-docs.png" /></td>
@@ -3004,14 +3028,6 @@
         <td><a href="https://packagist.org/packages/jfcherng/php-diff" target="_blank">php-diff</a></td>
         <td>A comprehensive library for generating differences between two strings in multiple formats (unified, side by side HTML etc).</td>
         <th><a href="https://github.com/jfcherng/php-diff" target="_blank"><img alt="php-diff" src="https://img.shields.io/github/stars/jfcherng/php-diff?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="areg engine" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-areg-sdk.jpg" /></td>
-        <td>Productivity</td>
-        <td>C++</td>
-        <td><a href="https://www.aregtech.com" target="_blank">areg engine</a></td>
-        <td>AREG is an RPC framework, but Object RPC (ORPC), that asynchronously triggers methods of the remote objects called services.</td>
-        <th><a href="https://github.com/aregtech/areg-sdk" target="_blank"><img alt="areg engine" src="https://img.shields.io/github/stars/aregtech/areg-sdk?style=social" /></a></th>
     </tr>
 
 </table>
@@ -5017,6 +5033,14 @@
         <th><a href="https://github.com/phasehq/console" target="_blank"><img alt="Phase Console" src="https://img.shields.io/github/stars/phasehq/console?style=social" /></a></th>
     </tr>
     <tr>
+        <td nowrap="nowrap"><img width="33" alt="Hackertab.dev" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-hackertab.dev_.jpg" /></td>
+        <td>Productivity</td>
+        <td>TypeScript</td>
+        <td><a href="https://hackertab.dev" target="_blank">Hackertab.dev</a></td>
+        <td>A Chrome <g-emoji class="g-emoji" alias="globe_with_meridians" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f310.png">?</g-emoji> &amp; Firefox <g-emoji class="g-emoji" alias="fox_face" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f98a.png">?</g-emoji> extension to discover the best developer news and tools in one tab!</td>
+        <th><a href="https://github.com/medyo/hackertab.dev" target="_blank"><img alt="Hackertab.dev" src="https://img.shields.io/github/stars/medyo/hackertab.dev?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="OpenStatus" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-openstatus.png" /></td>
         <td>Miscellaneous</td>
         <td>TypeScript</td>
@@ -5055,14 +5079,6 @@
         <td><a href="https://prim.doseofted.me" target="_blank">Prim+RPC</a></td>
         <td>Easy-to-understand, type-safe, transport-agnostic RPC/IPC for JavaScript, supporting callbacks, batching, file uploads, custom serialization, and more.</td>
         <th><a href="https://github.com/doseofted/prim-rpc" target="_blank"><img alt="Prim+RPC" src="https://img.shields.io/github/stars/doseofted/prim-rpc?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Hackertab.dev" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-hackertab.dev_.jpg" /></td>
-        <td>Productivity</td>
-        <td>TypeScript</td>
-        <td><a href="https://hackertab.dev" target="_blank">Hackertab.dev</a></td>
-        <td>A Chrome <g-emoji class="g-emoji" alias="globe_with_meridians" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f310.png">?</g-emoji> &amp; Firefox <g-emoji class="g-emoji" alias="fox_face" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f98a.png">?</g-emoji> extension to discover the best developer news and tools in one tab!</td>
-        <th><a href="https://github.com/medyo/hackertab.dev" target="_blank"><img alt="Hackertab.dev" src="https://img.shields.io/github/stars/medyo/hackertab.dev?style=social" /></a></th>
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="NativeScript-Vue" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-nativescript-vue-1.png" /></td>
@@ -7712,6 +7728,14 @@
         <td>A Light Event-Driven Algorithmic Trading Engine</td>
         <th><a href="https://github.com/josephchenhk/qtrader" target="_blank"><img alt="qtrader" src="https://img.shields.io/github/stars/josephchenhk/qtrader?style=social" /></a></th>
     </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="ScienceQA" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-ScienceQA.jpg" /></td>
+        <td>Miscellaneous</td>
+        <td>Python</td>
+        <td><a href="https://github.com/lupantech/ScienceQA" target="_blank">ScienceQA</a></td>
+        <td>Data and code for NeurIPS 2022 Paper "Learn to Explain: Multimodal Reasoning via Thought Chains for Science Question Answering".</td>
+        <th><a href="https://github.com/lupantech/ScienceQA" target="_blank"><img alt="ScienceQA" src="https://img.shields.io/github/stars/lupantech/ScienceQA?style=social" /></a></th>
+    </tr>
 
 </table>
 
@@ -8053,6 +8077,14 @@
         <th><a href="https://github.com/Loki-Astari/ThorsSerializer" target="_blank"><img alt="ThorsSerializer" src="https://img.shields.io/github/stars/Loki-Astari/ThorsSerializer?style=social" /></a></th>
     </tr>
     <tr>
+        <td nowrap="nowrap"><img width="33" alt="areg engine" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-areg-sdk.jpg" /></td>
+        <td>Productivity</td>
+        <td>C++</td>
+        <td><a href="https://www.aregtech.com" target="_blank">areg engine</a></td>
+        <td>AREG is an RPC framework, but Object RPC (ORPC), that asynchronously triggers methods of the remote objects called services.</td>
+        <th><a href="https://github.com/aregtech/areg-sdk" target="_blank"><img alt="areg engine" src="https://img.shields.io/github/stars/aregtech/areg-sdk?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="OneFlow" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-oneflow.png" /></td>
         <td>Analytics</td>
         <td>C++</td>
@@ -8235,14 +8267,6 @@
         <td><a href="https://zigrazor.github.io/CXXGraph/" target="_blank">CXXGraph</a></td>
         <td>Header-Only C++ Library for Graph Representation and Algorithms</td>
         <th><a href="https://github.com/ZigRazor/CXXGraph" target="_blank"><img alt="CXXGraph" src="https://img.shields.io/github/stars/ZigRazor/CXXGraph?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="areg engine" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-areg-sdk.jpg" /></td>
-        <td>Productivity</td>
-        <td>C++</td>
-        <td><a href="https://www.aregtech.com" target="_blank">areg engine</a></td>
-        <td>AREG is an RPC framework, but Object RPC (ORPC), that asynchronously triggers methods of the remote objects called services.</td>
-        <th><a href="https://github.com/aregtech/areg-sdk" target="_blank"><img alt="areg engine" src="https://img.shields.io/github/stars/aregtech/areg-sdk?style=social" /></a></th>
     </tr>
 
 </table>
