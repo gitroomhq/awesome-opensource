@@ -164,6 +164,30 @@
         <th><a href="https://github.com/eduardconstantin/doticons" target="_blank"><img alt="doticons" src="https://img.shields.io/github/stars/eduardconstantin/doticons?style=social" /></a></th>
     </tr>
     <tr>
+        <td nowrap="nowrap"><img width="33" alt="texpress" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-t-express.jpg" /></td>
+        <td>Infrastructure</td>
+        <td>TypeScript</td>
+        <td><a href="https://sonish777.github.io/t-express/" target="_blank">texpress</a></td>
+        <td>Texpress is a project setup for using ExpressJS with Typescript. It includes a monorepo architecture and uses turborepo for managing the codebase. Live Site: https://texpress.onrender.com/auth/logi…</td>
+        <th><a href="https://github.com/sonish777/t-express" target="_blank"><img alt="texpress" src="https://img.shields.io/github/stars/sonish777/t-express?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="simdjson : Parsing gigabytes of JSON per second" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-simdjson.png" /></td>
+        <td>Infrastructure</td>
+        <td>C++</td>
+        <td><a href="https://simdjson.org" target="_blank">simdjson : Parsing gigabytes of JSON per second</a></td>
+        <td>Parsing gigabytes of JSON per second </td>
+        <th><a href="https://github.com/simdjson/simdjson" target="_blank"><img alt="simdjson : Parsing gigabytes of JSON per second" src="https://img.shields.io/github/stars/simdjson/simdjson?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="brapi" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-brapi.jpg" /></td>
+        <td>Miscellaneous</td>
+        <td>TypeScript</td>
+        <td><a href="https://brapi.dev" target="_blank">brapi</a></td>
+        <td>A poderosa API open source para dados financeiros do mercado de ações, conversão de moedas e inflação brasileira</td>
+        <th><a href="https://github.com/Alissonsleal/brapi" target="_blank"><img alt="brapi" src="https://img.shields.io/github/stars/Alissonsleal/brapi?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="TCET Linux" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-tcet-linux.png" /></td>
         <td>Infrastructure</td>
         <td>Shell</td>
@@ -202,14 +226,6 @@
         <td><a href="https://packagist.org/packages/jfcherng/php-diff" target="_blank">php-diff</a></td>
         <td>A comprehensive library for generating differences between two strings in multiple formats (unified, side by side HTML etc).</td>
         <th><a href="https://github.com/jfcherng/php-diff" target="_blank"><img alt="php-diff" src="https://img.shields.io/github/stars/jfcherng/php-diff?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="brapi" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-brapi.jpg" /></td>
-        <td>Miscellaneous</td>
-        <td>TypeScript</td>
-        <td><a href="https://brapi.dev" target="_blank">brapi</a></td>
-        <td>A poderosa API open source para dados financeiros do mercado de ações, conversão de moedas e inflação brasileira</td>
-        <th><a href="https://github.com/Alissonsleal/brapi" target="_blank"><img alt="brapi" src="https://img.shields.io/github/stars/Alissonsleal/brapi?style=social" /></a></th>
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="nvidia_gpu_exporter" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-nvidia_gpu_exporter.jpg" /></td>
@@ -290,22 +306,6 @@
         <td><a href="https://boxtransform.hyperdesigned.dev" target="_blank">Box Transform</a></td>
         <td>A library for advanced resizing of rect in UI.</td>
         <th><a href="https://github.com/hyper-designed/box_transform" target="_blank"><img alt="Box Transform" src="https://img.shields.io/github/stars/hyper-designed/box_transform?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Undercover" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-undercover.jpg" /></td>
-        <td>Miscellaneous</td>
-        <td>Ruby</td>
-        <td><a href="https://undercover-ci.com" target="_blank">Undercover</a></td>
-        <td>Actionable code coverage - detects untested code blocks in recent changes</td>
-        <th><a href="https://github.com/grodowski/undercover" target="_blank"><img alt="Undercover" src="https://img.shields.io/github/stars/grodowski/undercover?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="SwitchFeat" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-switchfeat.png" /></td>
-        <td>Miscellaneous</td>
-        <td>TypeScript</td>
-        <td><a href="https://switchfeat.com" target="_blank">SwitchFeat</a></td>
-        <td>Feature flags and A/B testing framework.</td>
-        <th><a href="https://github.com/switchfeat-com/switchfeat" target="_blank"><img alt="SwitchFeat" src="https://img.shields.io/github/stars/switchfeat-com/switchfeat?style=social" /></a></th>
     </tr>
 
 </table>
@@ -449,6 +449,14 @@
         <td><a href="https://devtron.ai" target="_blank">Devtron</a></td>
         <td>Tool integration platform for Kubernetes</td>
         <th><a href="https://github.com/devtron-labs/devtron" target="_blank"><img alt="Devtron" src="https://img.shields.io/github/stars/devtron-labs/devtron?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="brapi" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-brapi.jpg" /></td>
+        <td>Miscellaneous</td>
+        <td>TypeScript</td>
+        <td><a href="https://brapi.dev" target="_blank">brapi</a></td>
+        <td>A poderosa API open source para dados financeiros do mercado de ações, conversão de moedas e inflação brasileira</td>
+        <th><a href="https://github.com/Alissonsleal/brapi" target="_blank"><img alt="brapi" src="https://img.shields.io/github/stars/Alissonsleal/brapi?style=social" /></a></th>
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="awesome window manager" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-awesome.png" /></td>
@@ -1114,14 +1122,6 @@
         <td>OneFlow is a deep learning framework designed to be user-friendly, scalable and efficient.</td>
         <th><a href="https://github.com/Oneflow-Inc/oneflow" target="_blank"><img alt="OneFlow" src="https://img.shields.io/github/stars/Oneflow-Inc/oneflow?style=social" /></a></th>
     </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="phpseclib" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-phpseclib.png" /></td>
-        <td>Security</td>
-        <td>PHP</td>
-        <td><a href="http://phpseclib.com/" target="_blank">phpseclib</a></td>
-        <td>PHP Secure Communications Library</td>
-        <th><a href="https://github.com/phpseclib/phpseclib" target="_blank"><img alt="phpseclib" src="https://img.shields.io/github/stars/phpseclib/phpseclib?style=social" /></a></th>
-    </tr>
 
 </table>
 
@@ -1144,6 +1144,14 @@
         <td><a href="https://github.com/AmosHuKe/Mood-Example" target="_blank">Mood-Example</a></td>
         <td><g-emoji class="g-emoji" alias="bird" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f426.png">?</g-emoji> Flutter 3 心情记录 样例工程 - 国际化 i18n、uni 小程序、深色模式、多主题、本地数据管理、路由管理、状态管理、无障碍（Semantics）、异步 FFI、集成测试、图表统计、Excel 导入导出、游戏…</td>
         <th><a href="https://github.com/AmosHuKe/Mood-Example" target="_blank"><img alt="Mood-Example" src="https://img.shields.io/github/stars/AmosHuKe/Mood-Example?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="brapi" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-brapi.jpg" /></td>
+        <td>Miscellaneous</td>
+        <td>TypeScript</td>
+        <td><a href="https://brapi.dev" target="_blank">brapi</a></td>
+        <td>A poderosa API open source para dados financeiros do mercado de ações, conversão de moedas e inflação brasileira</td>
+        <th><a href="https://github.com/Alissonsleal/brapi" target="_blank"><img alt="brapi" src="https://img.shields.io/github/stars/Alissonsleal/brapi?style=social" /></a></th>
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="awesome window manager" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-awesome.png" /></td>
@@ -1608,14 +1616,6 @@
         <td><a href="https://featurevisor.com" target="_blank">Featurevisor</a></td>
         <td>Git-based feature flags, experiments &amp; remote config management for developers</td>
         <th><a href="https://github.com/fahad19/featurevisor" target="_blank"><img alt="Featurevisor" src="https://img.shields.io/github/stars/fahad19/featurevisor?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="brapi" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-brapi.jpg" /></td>
-        <td>Miscellaneous</td>
-        <td>TypeScript</td>
-        <td><a href="https://brapi.dev" target="_blank">brapi</a></td>
-        <td>A poderosa API open source para dados financeiros do mercado de ações, conversão de moedas e inflação brasileira</td>
-        <th><a href="https://github.com/Alissonsleal/brapi" target="_blank"><img alt="brapi" src="https://img.shields.io/github/stars/Alissonsleal/brapi?style=social" /></a></th>
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="ScienceQA" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-ScienceQA.jpg" /></td>
@@ -4945,6 +4945,22 @@
         <td>Architecture decision record (ADR) examples for software planning, IT leadership, and template documentation</td>
         <th><a href="https://github.com/joelparkerhenderson/architecture-decision-record" target="_blank"><img alt="Architecture Decision Record" src="https://img.shields.io/github/stars/joelparkerhenderson/architecture-decision-record?style=social" /></a></th>
     </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="texpress" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-t-express.jpg" /></td>
+        <td>Infrastructure</td>
+        <td>TypeScript</td>
+        <td><a href="https://sonish777.github.io/t-express/" target="_blank">texpress</a></td>
+        <td>Texpress is a project setup for using ExpressJS with Typescript. It includes a monorepo architecture and uses turborepo for managing the codebase. Live Site: https://texpress.onrender.com/auth/logi…</td>
+        <th><a href="https://github.com/sonish777/t-express" target="_blank"><img alt="texpress" src="https://img.shields.io/github/stars/sonish777/t-express?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="simdjson : Parsing gigabytes of JSON per second" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-simdjson.png" /></td>
+        <td>Infrastructure</td>
+        <td>C++</td>
+        <td><a href="https://simdjson.org" target="_blank">simdjson : Parsing gigabytes of JSON per second</a></td>
+        <td>Parsing gigabytes of JSON per second </td>
+        <th><a href="https://github.com/simdjson/simdjson" target="_blank"><img alt="simdjson : Parsing gigabytes of JSON per second" src="https://img.shields.io/github/stars/simdjson/simdjson?style=social" /></a></th>
+    </tr>
 
 </table>
 
@@ -5015,6 +5031,14 @@
         <td><a href="https://bitwarden.com" target="_blank">Bitwarden</a></td>
         <td>Bitwarden client applications (web, browser extension, desktop, and cli)</td>
         <th><a href="https://github.com/bitwarden/clients" target="_blank"><img alt="Bitwarden" src="https://img.shields.io/github/stars/bitwarden/clients?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="brapi" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-brapi.jpg" /></td>
+        <td>Miscellaneous</td>
+        <td>TypeScript</td>
+        <td><a href="https://brapi.dev" target="_blank">brapi</a></td>
+        <td>A poderosa API open source para dados financeiros do mercado de ações, conversão de moedas e inflação brasileira</td>
+        <th><a href="https://github.com/Alissonsleal/brapi" target="_blank"><img alt="brapi" src="https://img.shields.io/github/stars/Alissonsleal/brapi?style=social" /></a></th>
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="ZenStack" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-zenstack.png" /></td>
@@ -5785,12 +5809,12 @@
         <th><a href="https://github.com/hoppscotch/hoppscotch" target="_blank"><img alt="Hoppscotch" src="https://img.shields.io/github/stars/hoppscotch/hoppscotch?style=social" /></a></th>
     </tr>
     <tr>
-        <td nowrap="nowrap"><img width="33" alt="brapi" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-brapi.jpg" /></td>
-        <td>Miscellaneous</td>
+        <td nowrap="nowrap"><img width="33" alt="texpress" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-t-express.jpg" /></td>
+        <td>Infrastructure</td>
         <td>TypeScript</td>
-        <td><a href="https://brapi.dev" target="_blank">brapi</a></td>
-        <td>A poderosa API open source para dados financeiros do mercado de ações, conversão de moedas e inflação brasileira</td>
-        <th><a href="https://github.com/Alissonsleal/brapi" target="_blank"><img alt="brapi" src="https://img.shields.io/github/stars/Alissonsleal/brapi?style=social" /></a></th>
+        <td><a href="https://sonish777.github.io/t-express/" target="_blank">texpress</a></td>
+        <td>Texpress is a project setup for using ExpressJS with Typescript. It includes a monorepo architecture and uses turborepo for managing the codebase. Live Site: https://texpress.onrender.com/auth/logi…</td>
+        <th><a href="https://github.com/sonish777/t-express" target="_blank"><img alt="texpress" src="https://img.shields.io/github/stars/sonish777/t-express?style=social" /></a></th>
     </tr>
 
 </table>
@@ -8267,6 +8291,14 @@
         <td><a href="https://zigrazor.github.io/CXXGraph/" target="_blank">CXXGraph</a></td>
         <td>Header-Only C++ Library for Graph Representation and Algorithms</td>
         <th><a href="https://github.com/ZigRazor/CXXGraph" target="_blank"><img alt="CXXGraph" src="https://img.shields.io/github/stars/ZigRazor/CXXGraph?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="simdjson : Parsing gigabytes of JSON per second" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-simdjson.png" /></td>
+        <td>Infrastructure</td>
+        <td>C++</td>
+        <td><a href="https://simdjson.org" target="_blank">simdjson : Parsing gigabytes of JSON per second</a></td>
+        <td>Parsing gigabytes of JSON per second </td>
+        <th><a href="https://github.com/simdjson/simdjson" target="_blank"><img alt="simdjson : Parsing gigabytes of JSON per second" src="https://img.shields.io/github/stars/simdjson/simdjson?style=social" /></a></th>
     </tr>
 
 </table>
