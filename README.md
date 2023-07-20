@@ -148,20 +148,20 @@
         <th>Stargazers</th>
     </tr>
         <tr>
-        <td nowrap="nowrap"><img width="33" alt="ScienceQA" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-ScienceQA.jpg" /></td>
-        <td>Miscellaneous</td>
-        <td>Python</td>
-        <td><a href="https://github.com/lupantech/ScienceQA" target="_blank">ScienceQA</a></td>
-        <td>Data and code for NeurIPS 2022 Paper "Learn to Explain: Multimodal Reasoning via Thought Chains for Science Question Answering".</td>
-        <th><a href="https://github.com/lupantech/ScienceQA" target="_blank"><img alt="ScienceQA" src="https://img.shields.io/github/stars/lupantech/ScienceQA?style=social" /></a></th>
-    </tr>
-    <tr>
         <td nowrap="nowrap"><img width="33" alt="doticons" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-doticons.jpg" /></td>
         <td>Miscellaneous</td>
         <td>undefined</td>
         <td><a href="https://github.com/eduardconstantin/doticons" target="_blank">doticons</a></td>
         <td>doticons is a collection of versatile and visually appealing dot icons in SVG format.</td>
         <th><a href="https://github.com/eduardconstantin/doticons" target="_blank"><img alt="doticons" src="https://img.shields.io/github/stars/eduardconstantin/doticons?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="ScienceQA" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-ScienceQA.jpg" /></td>
+        <td>Miscellaneous</td>
+        <td>Python</td>
+        <td><a href="https://github.com/lupantech/ScienceQA" target="_blank">ScienceQA</a></td>
+        <td>Data and code for NeurIPS 2022 Paper "Learn to Explain: Multimodal Reasoning via Thought Chains for Science Question Answering".</td>
+        <th><a href="https://github.com/lupantech/ScienceQA" target="_blank"><img alt="ScienceQA" src="https://img.shields.io/github/stars/lupantech/ScienceQA?style=social" /></a></th>
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="texpress" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-t-express.jpg" /></td>
@@ -178,6 +178,14 @@
         <td><a href="https://simdjson.org" target="_blank">simdjson : Parsing gigabytes of JSON per second</a></td>
         <td>Parsing gigabytes of JSON per second </td>
         <th><a href="https://github.com/simdjson/simdjson" target="_blank"><img alt="simdjson : Parsing gigabytes of JSON per second" src="https://img.shields.io/github/stars/simdjson/simdjson?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Azure Fundamentals Quiz" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-azure-fundamentals.jpg" /></td>
+        <td>Miscellaneous</td>
+        <td>TypeScript</td>
+        <td><a href="https://nice-sky-0509a9903.2.azurestaticapps.net" target="_blank">Azure Fundamentals Quiz</a></td>
+        <td>Azure Fundamentals AZ-900 Exam Questions</td>
+        <th><a href="https://github.com/eduardconstantin/azure-fundamentals" target="_blank"><img alt="Azure Fundamentals Quiz" src="https://img.shields.io/github/stars/eduardconstantin/azure-fundamentals?style=social" /></a></th>
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="brapi" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-brapi.jpg" /></td>
@@ -298,14 +306,6 @@
         <td><a href="https://birjuvachhani.github.io/pluto" target="_blank">Pluto</a></td>
         <td>A minimal new tab for Chrome/Edge.</td>
         <th><a href="https://github.com/BirjuVachhani/pluto" target="_blank"><img alt="Pluto" src="https://img.shields.io/github/stars/BirjuVachhani/pluto?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Box Transform" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-box_transform.png" /></td>
-        <td>Productivity</td>
-        <td>Dart</td>
-        <td><a href="https://boxtransform.hyperdesigned.dev" target="_blank">Box Transform</a></td>
-        <td>A library for advanced resizing of rect in UI.</td>
-        <th><a href="https://github.com/hyper-designed/box_transform" target="_blank"><img alt="Box Transform" src="https://img.shields.io/github/stars/hyper-designed/box_transform?style=social" /></a></th>
     </tr>
 
 </table>
@@ -1075,6 +1075,14 @@
         <th><a href="https://github.com/aregtech/areg-sdk" target="_blank"><img alt="areg engine" src="https://img.shields.io/github/stars/aregtech/areg-sdk?style=social" /></a></th>
     </tr>
     <tr>
+        <td nowrap="nowrap"><img width="33" alt="doticons" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-doticons.jpg" /></td>
+        <td>Miscellaneous</td>
+        <td>undefined</td>
+        <td><a href="https://github.com/eduardconstantin/doticons" target="_blank">doticons</a></td>
+        <td>doticons is a collection of versatile and visually appealing dot icons in SVG format.</td>
+        <th><a href="https://github.com/eduardconstantin/doticons" target="_blank"><img alt="doticons" src="https://img.shields.io/github/stars/eduardconstantin/doticons?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="ClusterFuzz" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-clusterfuzz.png" /></td>
         <td>Infrastructure</td>
         <td>Python</td>
@@ -1113,14 +1121,6 @@
         <td><a href="https://soundnode.github.io/soundnode-website/" target="_blank">Soundnode</a></td>
         <td>Soundnode App is the Soundcloud for desktop. Built with Electron, Angular.js and Soundcloud API.</td>
         <th><a href="https://github.com/Soundnode/soundnode-app" target="_blank"><img alt="Soundnode" src="https://img.shields.io/github/stars/Soundnode/soundnode-app?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="OneFlow" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-oneflow.png" /></td>
-        <td>Analytics</td>
-        <td>C++</td>
-        <td><a href="http://www.oneflow.org" target="_blank">OneFlow</a></td>
-        <td>OneFlow is a deep learning framework designed to be user-friendly, scalable and efficient.</td>
-        <th><a href="https://github.com/Oneflow-Inc/oneflow" target="_blank"><img alt="OneFlow" src="https://img.shields.io/github/stars/Oneflow-Inc/oneflow?style=social" /></a></th>
     </tr>
 
 </table>
@@ -1272,6 +1272,14 @@
         <td><a href="https://watchakorn-18k.github.io/Fenv/" target="_blank">Fenv</a></td>
         <td><g-emoji class="g-emoji" alias="fast_forward" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/23e9.png">⏩</g-emoji> Module for Generate a folder, establish a virtual environment with a single command. </td>
         <th><a href="https://github.com/watchakorn-18k/Fenv" target="_blank"><img alt="Fenv" src="https://img.shields.io/github/stars/watchakorn-18k/Fenv?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="doticons" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-doticons.jpg" /></td>
+        <td>Miscellaneous</td>
+        <td>undefined</td>
+        <td><a href="https://github.com/eduardconstantin/doticons" target="_blank">doticons</a></td>
+        <td>doticons is a collection of versatile and visually appealing dot icons in SVG format.</td>
+        <th><a href="https://github.com/eduardconstantin/doticons" target="_blank"><img alt="doticons" src="https://img.shields.io/github/stars/eduardconstantin/doticons?style=social" /></a></th>
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="Cemu Emulator" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-Cemu.png" /></td>
@@ -1626,12 +1634,12 @@
         <th><a href="https://github.com/lupantech/ScienceQA" target="_blank"><img alt="ScienceQA" src="https://img.shields.io/github/stars/lupantech/ScienceQA?style=social" /></a></th>
     </tr>
     <tr>
-        <td nowrap="nowrap"><img width="33" alt="doticons" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-doticons.jpg" /></td>
+        <td nowrap="nowrap"><img width="33" alt="Azure Fundamentals Quiz" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-azure-fundamentals.jpg" /></td>
         <td>Miscellaneous</td>
-        <td>undefined</td>
-        <td><a href="https://github.com/eduardconstantin/doticons" target="_blank">doticons</a></td>
-        <td>doticons is a collection of versatile and visually appealing dot icons in SVG format.</td>
-        <th><a href="https://github.com/eduardconstantin/doticons" target="_blank"><img alt="doticons" src="https://img.shields.io/github/stars/eduardconstantin/doticons?style=social" /></a></th>
+        <td>TypeScript</td>
+        <td><a href="https://nice-sky-0509a9903.2.azurestaticapps.net" target="_blank">Azure Fundamentals Quiz</a></td>
+        <td>Azure Fundamentals AZ-900 Exam Questions</td>
+        <th><a href="https://github.com/eduardconstantin/azure-fundamentals" target="_blank"><img alt="Azure Fundamentals Quiz" src="https://img.shields.io/github/stars/eduardconstantin/azure-fundamentals?style=social" /></a></th>
     </tr>
 
 </table>
@@ -5815,6 +5823,14 @@
         <td><a href="https://sonish777.github.io/t-express/" target="_blank">texpress</a></td>
         <td>Texpress is a project setup for using ExpressJS with Typescript. It includes a monorepo architecture and uses turborepo for managing the codebase. Live Site: https://texpress.onrender.com/auth/logi…</td>
         <th><a href="https://github.com/sonish777/t-express" target="_blank"><img alt="texpress" src="https://img.shields.io/github/stars/sonish777/t-express?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Azure Fundamentals Quiz" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-azure-fundamentals.jpg" /></td>
+        <td>Miscellaneous</td>
+        <td>TypeScript</td>
+        <td><a href="https://nice-sky-0509a9903.2.azurestaticapps.net" target="_blank">Azure Fundamentals Quiz</a></td>
+        <td>Azure Fundamentals AZ-900 Exam Questions</td>
+        <th><a href="https://github.com/eduardconstantin/azure-fundamentals" target="_blank"><img alt="Azure Fundamentals Quiz" src="https://img.shields.io/github/stars/eduardconstantin/azure-fundamentals?style=social" /></a></th>
     </tr>
 
 </table>
