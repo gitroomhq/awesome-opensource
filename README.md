@@ -387,20 +387,20 @@
         <th><a href="https://github.com/Frezyx/talker" target="_blank"><img alt="Talker" src="https://img.shields.io/github/stars/Frezyx/talker?style=social" /></a></th>
     </tr>
     <tr>
-        <td nowrap="nowrap"><img width="33" alt="dyrector.io" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-dyrectorio.jpg" /></td>
-        <td>Productivity</td>
-        <td>TypeScript</td>
-        <td><a href="https://dyrectorio.com" target="_blank">dyrector.io</a></td>
-        <td>dyrector.io is a self-hosted container management and delivery platform.</td>
-        <th><a href="https://github.com/dyrector-io/dyrectorio" target="_blank"><img alt="dyrector.io" src="https://img.shields.io/github/stars/dyrector-io/dyrectorio?style=social" /></a></th>
-    </tr>
-    <tr>
         <td nowrap="nowrap"><img width="33" alt="Github 20k" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-super-star-1.png" /></td>
         <td>Productivity</td>
         <td>TypeScript</td>
         <td><a href="https://github20k.com" target="_blank">Github 20k</a></td>
         <td>The open-source course landing page <g-emoji class="g-emoji" alias="rocket" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f680.png">?</g-emoji><g-emoji class="g-emoji" alias="rocket" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f680.png">?</g-emoji><g-emoji class="g-emoji" alias="rocket" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f680.png">?</g-emoji></td>
         <th><a href="https://github.com/github-20k/super-star" target="_blank"><img alt="Github 20k" src="https://img.shields.io/github/stars/github-20k/super-star?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="dyrector.io" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-dyrectorio.jpg" /></td>
+        <td>Productivity</td>
+        <td>TypeScript</td>
+        <td><a href="https://dyrectorio.com" target="_blank">dyrector.io</a></td>
+        <td>dyrector.io is a self-hosted container management and delivery platform.</td>
+        <th><a href="https://github.com/dyrector-io/dyrectorio" target="_blank"><img alt="dyrector.io" src="https://img.shields.io/github/stars/dyrector-io/dyrectorio?style=social" /></a></th>
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="Appwrite" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-appwrite.png" /></td>
@@ -1870,20 +1870,20 @@
         <th><a href="https://github.com/fleetbase/fleetbase" target="_blank"><img alt="Fleetbase" src="https://img.shields.io/github/stars/fleetbase/fleetbase?style=social" /></a></th>
     </tr>
     <tr>
-        <td nowrap="nowrap"><img width="33" alt="dyrector.io" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-dyrectorio.jpg" /></td>
-        <td>Productivity</td>
-        <td>TypeScript</td>
-        <td><a href="https://dyrectorio.com" target="_blank">dyrector.io</a></td>
-        <td>dyrector.io is a self-hosted container management and delivery platform.</td>
-        <th><a href="https://github.com/dyrector-io/dyrectorio" target="_blank"><img alt="dyrector.io" src="https://img.shields.io/github/stars/dyrector-io/dyrectorio?style=social" /></a></th>
-    </tr>
-    <tr>
         <td nowrap="nowrap"><img width="33" alt="Github 20k" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-super-star-1.png" /></td>
         <td>Productivity</td>
         <td>TypeScript</td>
         <td><a href="https://github20k.com" target="_blank">Github 20k</a></td>
         <td>The open-source course landing page <g-emoji class="g-emoji" alias="rocket" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f680.png">?</g-emoji><g-emoji class="g-emoji" alias="rocket" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f680.png">?</g-emoji><g-emoji class="g-emoji" alias="rocket" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f680.png">?</g-emoji></td>
         <th><a href="https://github.com/github-20k/super-star" target="_blank"><img alt="Github 20k" src="https://img.shields.io/github/stars/github-20k/super-star?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="dyrector.io" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-dyrectorio.jpg" /></td>
+        <td>Productivity</td>
+        <td>TypeScript</td>
+        <td><a href="https://dyrectorio.com" target="_blank">dyrector.io</a></td>
+        <td>dyrector.io is a self-hosted container management and delivery platform.</td>
+        <th><a href="https://github.com/dyrector-io/dyrectorio" target="_blank"><img alt="dyrector.io" src="https://img.shields.io/github/stars/dyrector-io/dyrectorio?style=social" /></a></th>
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="auto-dop" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-auto-dop.jpg" /></td>
@@ -4969,20 +4969,20 @@
         <th><a href="https://github.com/novuhq/novu" target="_blank"><img alt="Novu" src="https://img.shields.io/github/stars/novuhq/novu?style=social" /></a></th>
     </tr>
     <tr>
-        <td nowrap="nowrap"><img width="33" alt="dyrector.io" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-dyrectorio.jpg" /></td>
-        <td>Productivity</td>
-        <td>TypeScript</td>
-        <td><a href="https://dyrectorio.com" target="_blank">dyrector.io</a></td>
-        <td>dyrector.io is a self-hosted container management and delivery platform.</td>
-        <th><a href="https://github.com/dyrector-io/dyrectorio" target="_blank"><img alt="dyrector.io" src="https://img.shields.io/github/stars/dyrector-io/dyrectorio?style=social" /></a></th>
-    </tr>
-    <tr>
         <td nowrap="nowrap"><img width="33" alt="Github 20k" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-super-star-1.png" /></td>
         <td>Productivity</td>
         <td>TypeScript</td>
         <td><a href="https://github20k.com" target="_blank">Github 20k</a></td>
         <td>The open-source course landing page <g-emoji class="g-emoji" alias="rocket" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f680.png">?</g-emoji><g-emoji class="g-emoji" alias="rocket" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f680.png">?</g-emoji><g-emoji class="g-emoji" alias="rocket" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f680.png">?</g-emoji></td>
         <th><a href="https://github.com/github-20k/super-star" target="_blank"><img alt="Github 20k" src="https://img.shields.io/github/stars/github-20k/super-star?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="dyrector.io" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-dyrectorio.jpg" /></td>
+        <td>Productivity</td>
+        <td>TypeScript</td>
+        <td><a href="https://dyrectorio.com" target="_blank">dyrector.io</a></td>
+        <td>dyrector.io is a self-hosted container management and delivery platform.</td>
+        <th><a href="https://github.com/dyrector-io/dyrectorio" target="_blank"><img alt="dyrector.io" src="https://img.shields.io/github/stars/dyrector-io/dyrectorio?style=social" /></a></th>
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="Appwrite" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-appwrite.png" /></td>
