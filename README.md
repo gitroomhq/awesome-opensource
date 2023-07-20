@@ -66,6 +66,8 @@
              </li>          <li>
                 <a href="#ruby">Top 20 Ruby libraries</a>
              </li>          <li>
+                <a href="#shell">Top 20 Shell libraries</a>
+             </li>          <li>
                 <a href="#rust">Top 20 Rust libraries</a>
              </li>          <li>
                 <a href="#jsonnet">Top 20 Jsonnet libraries</a>
@@ -101,8 +103,6 @@
                 <a href="#tex">Top 20 TeX libraries</a>
              </li>          <li>
                 <a href="#emacs-lisp">Top 20 Emacs Lisp libraries</a>
-             </li>          <li>
-                <a href="#shell">Top 20 Shell libraries</a>
              </li>          <li>
                 <a href="#ocaml">Top 20 OCaml libraries</a>
              </li>          <li>
@@ -148,6 +148,14 @@
         <th>Stargazers</th>
     </tr>
         <tr>
+        <td nowrap="nowrap"><img width="33" alt="TCET Linux" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-tcet-linux.png" /></td>
+        <td>Infrastructure</td>
+        <td>Shell</td>
+        <td><a href="https://github.com/tcet-opensource/tcet-linux" target="_blank">TCET Linux</a></td>
+        <td>ISO profile &amp; scripts to build TCET Linux</td>
+        <th><a href="https://github.com/tcet-opensource/tcet-linux" target="_blank"><img alt="TCET Linux" src="https://img.shields.io/github/stars/tcet-opensource/tcet-linux?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="qtrader" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-qtrader.jpg" /></td>
         <td>Analytics</td>
         <td>Python</td>
@@ -186,14 +194,6 @@
         <td><a href="https://brapi.dev" target="_blank">brapi</a></td>
         <td>A poderosa API open source para dados financeiros do mercado de ações, conversão de moedas e inflação brasileira</td>
         <th><a href="https://github.com/Alissonsleal/brapi" target="_blank"><img alt="brapi" src="https://img.shields.io/github/stars/Alissonsleal/brapi?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="TCET Linux" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-tcet-linux.png" /></td>
-        <td>Infrastructure</td>
-        <td>Shell</td>
-        <td><a href="https://github.com/tcet-opensource/tcet-linux" target="_blank">TCET Linux</a></td>
-        <td>ISO profile &amp; scripts to build TCET Linux</td>
-        <th><a href="https://github.com/tcet-opensource/tcet-linux" target="_blank"><img alt="TCET Linux" src="https://img.shields.io/github/stars/tcet-opensource/tcet-linux?style=social" /></a></th>
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="nvidia_gpu_exporter" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-nvidia_gpu_exporter.jpg" /></td>
@@ -625,6 +625,14 @@
         <td><a href="https://hackertab.dev" target="_blank">Hackertab.dev</a></td>
         <td>A Chrome <g-emoji class="g-emoji" alias="globe_with_meridians" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f310.png">?</g-emoji> &amp; Firefox <g-emoji class="g-emoji" alias="fox_face" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f98a.png">?</g-emoji> extension to discover the best developer news and tools in one tab!</td>
         <th><a href="https://github.com/medyo/hackertab.dev" target="_blank"><img alt="Hackertab.dev" src="https://img.shields.io/github/stars/medyo/hackertab.dev?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="TCET Linux" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-tcet-linux.png" /></td>
+        <td>Infrastructure</td>
+        <td>Shell</td>
+        <td><a href="https://github.com/tcet-opensource/tcet-linux" target="_blank">TCET Linux</a></td>
+        <td>ISO profile &amp; scripts to build TCET Linux</td>
+        <th><a href="https://github.com/tcet-opensource/tcet-linux" target="_blank"><img alt="TCET Linux" src="https://img.shields.io/github/stars/tcet-opensource/tcet-linux?style=social" /></a></th>
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="Mirage JS" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-miragejs.png" /></td>
@@ -1113,14 +1121,6 @@
         <td><a href="https://elv.sh/" target="_blank">Elvish Shell</a></td>
         <td>Elvish = Expressive Programming Language + Versatile Interactive Shell</td>
         <th><a href="https://github.com/elves/elvish" target="_blank"><img alt="Elvish Shell" src="https://img.shields.io/github/stars/elves/elvish?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Setup Falcon SQL Client" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-falcon.png" /></td>
-        <td>Databases</td>
-        <td>JavaScript</td>
-        <td><a href="https://plot.ly/free-sql-client-download/" target="_blank">Setup Falcon SQL Client</a></td>
-        <td>Free, open-source SQL client for Windows and Mac <g-emoji class="g-emoji" alias="eagle" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f985.png">?</g-emoji></td>
-        <th><a href="https://github.com/plotly/falcon" target="_blank"><img alt="Setup Falcon SQL Client" src="https://img.shields.io/github/stars/plotly/falcon?style=social" /></a></th>
     </tr>
 
 </table>
@@ -4074,6 +4074,14 @@
         <th><a href="https://github.com/uripeled2/llm-client-sdk" target="_blank"><img alt="llm-client" src="https://img.shields.io/github/stars/uripeled2/llm-client-sdk?style=social" /></a></th>
     </tr>
     <tr>
+        <td nowrap="nowrap"><img width="33" alt="TCET Linux" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-tcet-linux.png" /></td>
+        <td>Infrastructure</td>
+        <td>Shell</td>
+        <td><a href="https://github.com/tcet-opensource/tcet-linux" target="_blank">TCET Linux</a></td>
+        <td>ISO profile &amp; scripts to build TCET Linux</td>
+        <th><a href="https://github.com/tcet-opensource/tcet-linux" target="_blank"><img alt="TCET Linux" src="https://img.shields.io/github/stars/tcet-opensource/tcet-linux?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="Hyperf" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-hyperf.jpg" /></td>
         <td>Infrastructure</td>
         <td>PHP</td>
@@ -4920,14 +4928,6 @@
         <td><a href="https://github.com/joelparkerhenderson/architecture-decision-record" target="_blank">Architecture Decision Record</a></td>
         <td>Architecture decision record (ADR) examples for software planning, IT leadership, and template documentation</td>
         <th><a href="https://github.com/joelparkerhenderson/architecture-decision-record" target="_blank"><img alt="Architecture Decision Record" src="https://img.shields.io/github/stars/joelparkerhenderson/architecture-decision-record?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="TCET Linux" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-tcet-linux.png" /></td>
-        <td>Infrastructure</td>
-        <td>Shell</td>
-        <td><a href="https://github.com/tcet-opensource/tcet-linux" target="_blank">TCET Linux</a></td>
-        <td>ISO profile &amp; scripts to build TCET Linux</td>
-        <th><a href="https://github.com/tcet-opensource/tcet-linux" target="_blank"><img alt="TCET Linux" src="https://img.shields.io/github/stars/tcet-opensource/tcet-linux?style=social" /></a></th>
     </tr>
 
 </table>
@@ -7786,6 +7786,52 @@
 </table>
 
 <br /><br />
+<h2 id="shell">Top 20 Shell libraries</h2>
+<table>
+    <tr>
+        <th>Icon</th>
+        <th>Category</th>
+        <th>Language</th>
+        <th>Name</th>
+        <th>Description</th>
+        <th>Stargazers</th>
+    </tr>
+        <tr>
+        <td nowrap="nowrap"><img width="33" alt="TCET Linux" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-tcet-linux.png" /></td>
+        <td>Infrastructure</td>
+        <td>Shell</td>
+        <td><a href="https://github.com/tcet-opensource/tcet-linux" target="_blank">TCET Linux</a></td>
+        <td>ISO profile &amp; scripts to build TCET Linux</td>
+        <th><a href="https://github.com/tcet-opensource/tcet-linux" target="_blank"><img alt="TCET Linux" src="https://img.shields.io/github/stars/tcet-opensource/tcet-linux?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="PIVPN" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-pivpn.png" /></td>
+        <td>Infrastructure</td>
+        <td>Shell</td>
+        <td><a href="https://pivpn.io" target="_blank">PIVPN</a></td>
+        <td>The Simplest VPN installer, designed for Raspberry Pi</td>
+        <th><a href="https://github.com/pivpn/pivpn" target="_blank"><img alt="PIVPN" src="https://img.shields.io/github/stars/pivpn/pivpn?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Todotxt" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-todo.txt-cli-2.png" /></td>
+        <td>Productivity</td>
+        <td>Shell</td>
+        <td><a href="http://todotxt.org" target="_blank">Todotxt</a></td>
+        <td><g-emoji class="g-emoji" alias="ballot_box_with_check" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2611.png">☑️</g-emoji> A simple and extensible shell script for managing your todo.txt file.</td>
+        <th><a href="https://github.com/todotxt/todo.txt-cli" target="_blank"><img alt="Todotxt" src="https://img.shields.io/github/stars/todotxt/todo.txt-cli?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Dockerized Salt Master" src="https://libraries.github20k.com/images/uploads/2023/06/newshot-docker-salt-master.jpg" /></td>
+        <td>Infrastructure</td>
+        <td>Shell</td>
+        <td><a href="https://docs.saltproject.io" target="_blank">Dockerized Salt Master</a></td>
+        <td><g-emoji class="g-emoji" alias="whale" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f433.png">?</g-emoji><g-emoji class="g-emoji" alias="salt" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f9c2.png">?</g-emoji> Dockerized Salt Master</td>
+        <th><a href="https://github.com/cdalvaro/docker-salt-master" target="_blank"><img alt="Dockerized Salt Master" src="https://img.shields.io/github/stars/cdalvaro/docker-salt-master?style=social" /></a></th>
+    </tr>
+
+</table>
+
+<br /><br />
 <h2 id="rust">Top 20 Rust libraries</h2>
 <table>
     <tr>
@@ -8809,52 +8855,6 @@
         <td><a href="https://www.orgroam.com" target="_blank">Org-roam</a></td>
         <td>Rudimentary Roam replica with Org-mode</td>
         <th><a href="https://github.com/org-roam/org-roam" target="_blank"><img alt="Org-roam" src="https://img.shields.io/github/stars/org-roam/org-roam?style=social" /></a></th>
-    </tr>
-
-</table>
-
-<br /><br />
-<h2 id="shell">Top 20 Shell libraries</h2>
-<table>
-    <tr>
-        <th>Icon</th>
-        <th>Category</th>
-        <th>Language</th>
-        <th>Name</th>
-        <th>Description</th>
-        <th>Stargazers</th>
-    </tr>
-        <tr>
-        <td nowrap="nowrap"><img width="33" alt="PIVPN" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-pivpn.png" /></td>
-        <td>Infrastructure</td>
-        <td>Shell</td>
-        <td><a href="https://pivpn.io" target="_blank">PIVPN</a></td>
-        <td>The Simplest VPN installer, designed for Raspberry Pi</td>
-        <th><a href="https://github.com/pivpn/pivpn" target="_blank"><img alt="PIVPN" src="https://img.shields.io/github/stars/pivpn/pivpn?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Todotxt" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-todo.txt-cli-2.png" /></td>
-        <td>Productivity</td>
-        <td>Shell</td>
-        <td><a href="http://todotxt.org" target="_blank">Todotxt</a></td>
-        <td><g-emoji class="g-emoji" alias="ballot_box_with_check" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2611.png">☑️</g-emoji> A simple and extensible shell script for managing your todo.txt file.</td>
-        <th><a href="https://github.com/todotxt/todo.txt-cli" target="_blank"><img alt="Todotxt" src="https://img.shields.io/github/stars/todotxt/todo.txt-cli?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Dockerized Salt Master" src="https://libraries.github20k.com/images/uploads/2023/06/newshot-docker-salt-master.jpg" /></td>
-        <td>Infrastructure</td>
-        <td>Shell</td>
-        <td><a href="https://docs.saltproject.io" target="_blank">Dockerized Salt Master</a></td>
-        <td><g-emoji class="g-emoji" alias="whale" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f433.png">?</g-emoji><g-emoji class="g-emoji" alias="salt" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f9c2.png">?</g-emoji> Dockerized Salt Master</td>
-        <th><a href="https://github.com/cdalvaro/docker-salt-master" target="_blank"><img alt="Dockerized Salt Master" src="https://img.shields.io/github/stars/cdalvaro/docker-salt-master?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="TCET Linux" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-tcet-linux.png" /></td>
-        <td>Infrastructure</td>
-        <td>Shell</td>
-        <td><a href="https://github.com/tcet-opensource/tcet-linux" target="_blank">TCET Linux</a></td>
-        <td>ISO profile &amp; scripts to build TCET Linux</td>
-        <th><a href="https://github.com/tcet-opensource/tcet-linux" target="_blank"><img alt="TCET Linux" src="https://img.shields.io/github/stars/tcet-opensource/tcet-linux?style=social" /></a></th>
     </tr>
 
 </table>
