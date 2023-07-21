@@ -172,6 +172,54 @@
         <th><a href="https://github.com/sighingnow/jekyll-gitbook" target="_blank"><img alt="jekyll-gitbook" src="https://img.shields.io/github/stars/sighingnow/jekyll-gitbook?style=social" /></a></th>
     </tr>
     <tr>
+        <td nowrap="nowrap"><img width="33" alt="Bancos Brasileiros" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-BancosBrasileiros.jpg" /></td>
+        <td>Miscellaneous</td>
+        <td>Java</td>
+        <td><a href="https://guibranco.github.io/BancosBrasileiros/" target="_blank">Bancos Brasileiros</a></td>
+        <td><g-emoji class="g-emoji" alias="brazil" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f1e7-1f1f7.png">??</g-emoji> <g-emoji class="g-emoji" alias="bank" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f3e6.png">?</g-emoji> <g-emoji class="g-emoji" alias="clipboard" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4cb.png">?</g-emoji> Brazilian banks list</td>
+        <th><a href="https://github.com/guibranco/BancosBrasileiros" target="_blank"><img alt="Bancos Brasileiros" src="https://img.shields.io/github/stars/guibranco/BancosBrasileiros?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Crispy Waffle" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-CrispyWaffle.jpg" /></td>
+        <td>Productivity</td>
+        <td>C#</td>
+        <td><a href="https://guibranco.github.io/CrispyWaffle/" target="_blank">Crispy Waffle</a></td>
+        <td><g-emoji class="g-emoji" alias="toolbox" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f9f0.png">?</g-emoji> <g-emoji class="g-emoji" alias="hammer_and_wrench" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f6e0.png">?️</g-emoji> Crispy Waffle project - toolkit for .NET projects</td>
+        <th><a href="https://github.com/guibranco/CrispyWaffle" target="_blank"><img alt="Crispy Waffle" src="https://img.shields.io/github/stars/guibranco/CrispyWaffle?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Via CEP" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-ViaCEP.jpg" /></td>
+        <td>Miscellaneous</td>
+        <td>C#</td>
+        <td><a href="https://guibranco.github.io/ViaCEP/" target="_blank">Via CEP</a></td>
+        <td><g-emoji class="g-emoji" alias="brazil" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f1e7-1f1f7.png">??</g-emoji> <g-emoji class="g-emoji" alias="round_pushpin" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4cd.png">?</g-emoji> ViaCEP client wrapper for .NET projects</td>
+        <th><a href="https://github.com/guibranco/ViaCEP" target="_blank"><img alt="Via CEP" src="https://img.shields.io/github/stars/guibranco/ViaCEP?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="CEP Aberto" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-CEPAberto.jpg" /></td>
+        <td>Miscellaneous</td>
+        <td>C#</td>
+        <td><a href="https://guibranco.github.io/CEPAberto/" target="_blank">CEP Aberto</a></td>
+        <td><g-emoji class="g-emoji" alias="brazil" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f1e7-1f1f7.png">??</g-emoji> <g-emoji class="g-emoji" alias="round_pushpin" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4cd.png">?</g-emoji> CEPAberto API client wrapper for .NET projects</td>
+        <th><a href="https://github.com/guibranco/CEPAberto" target="_blank"><img alt="CEP Aberto" src="https://img.shields.io/github/stars/guibranco/CEPAberto?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="VTEX SDK .NET" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-VTEX-SDK-dotnet-1.jpg" /></td>
+        <td>Miscellaneous</td>
+        <td>C#</td>
+        <td><a href="https://guibranco.github.io/VTEX-SDK-dotnet/" target="_blank">VTEX SDK .NET</a></td>
+        <td><g-emoji class="g-emoji" alias="shopping_cart" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f6d2.png">?</g-emoji> <g-emoji class="g-emoji" alias="gear" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2699.png">⚙️</g-emoji> VTEX platform .NET SDK</td>
+        <th><a href="https://github.com/guibranco/VTEX-SDK-dotnet" target="_blank"><img alt="VTEX SDK .NET" src="https://img.shields.io/github/stars/guibranco/VTEX-SDK-dotnet?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="GuiStracini SDK Builder" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-GuiStracini.SDKBuilder.jpg" /></td>
+        <td>Productivity</td>
+        <td>C#</td>
+        <td><a href="https://guibranco.github.io/GuiStracini.SDKBuilder/" target="_blank">GuiStracini SDK Builder</a></td>
+        <td><g-emoji class="g-emoji" alias="construction" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f6a7.png">?</g-emoji> <g-emoji class="g-emoji" alias="gear" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2699.png">⚙️</g-emoji> A SDK framework that helps create a .NET SDK project for API wrappers/clients</td>
+        <th><a href="https://github.com/guibranco/GuiStracini.SDKBuilder" target="_blank"><img alt="GuiStracini SDK Builder" src="https://img.shields.io/github/stars/guibranco/GuiStracini.SDKBuilder?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="doticons" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-doticons.jpg" /></td>
         <td>Miscellaneous</td>
         <td>undefined</td>
@@ -258,54 +306,6 @@
         <td><a href="https://packagist.org/packages/jfcherng/php-diff" target="_blank">php-diff</a></td>
         <td>A comprehensive library for generating differences between two strings in multiple formats (unified, side by side HTML etc).</td>
         <th><a href="https://github.com/jfcherng/php-diff" target="_blank"><img alt="php-diff" src="https://img.shields.io/github/stars/jfcherng/php-diff?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="nvidia_gpu_exporter" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-nvidia_gpu_exporter.jpg" /></td>
-        <td>Observability</td>
-        <td>Go</td>
-        <td><a href="https://github.com/utkuozdemir/nvidia_gpu_exporter" target="_blank">nvidia_gpu_exporter</a></td>
-        <td>Nvidia GPU exporter for prometheus using nvidia-smi binary</td>
-        <th><a href="https://github.com/utkuozdemir/nvidia_gpu_exporter" target="_blank"><img alt="nvidia_gpu_exporter" src="https://img.shields.io/github/stars/utkuozdemir/nvidia_gpu_exporter?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="IDURAR ERP CRM" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-idurar-erp-crm.png" /></td>
-        <td>Productivity</td>
-        <td>JavaScript</td>
-        <td><a href="https://demo-erp-crm.idurarapp.com/" target="_blank">IDURAR ERP CRM</a></td>
-        <td>ERP / CRM Open Source (Invoice / Inventory / Accounting / HR) Based on Node.js / React.js alternative to erpnext,salesforce and odoo</td>
-        <th><a href="https://github.com/idurar/idurar-erp-crm" target="_blank"><img alt="IDURAR ERP CRM" src="https://img.shields.io/github/stars/idurar/idurar-erp-crm?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="React loading indicators" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-react-loading-indicator.png" /></td>
-        <td>Miscellaneous</td>
-        <td>TypeScript</td>
-        <td><a href="https://www.npmjs.com/package/react-loading-indicators" target="_blank">React loading indicators</a></td>
-        <td>Cool loading indicators for your react project</td>
-        <th><a href="https://github.com/hane-smitter/react-loading-indicator" target="_blank"><img alt="React loading indicators" src="https://img.shields.io/github/stars/hane-smitter/react-loading-indicator?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Featurevisor" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-featurevisor.jpg" /></td>
-        <td>Miscellaneous</td>
-        <td>TypeScript</td>
-        <td><a href="https://featurevisor.com" target="_blank">Featurevisor</a></td>
-        <td>Git-based feature flags, experiments &amp; remote config management for developers</td>
-        <th><a href="https://github.com/fahad19/featurevisor" target="_blank"><img alt="Featurevisor" src="https://img.shields.io/github/stars/fahad19/featurevisor?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Snapify" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-snapify.png" /></td>
-        <td>Collaboration</td>
-        <td>TypeScript</td>
-        <td><a href="https://snapify.it" target="_blank">Snapify</a></td>
-        <td>Screen recording sharing for absolutely everyone.</td>
-        <th><a href="https://github.com/MarconLP/snapify" target="_blank"><img alt="Snapify" src="https://img.shields.io/github/stars/MarconLP/snapify?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Bob" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-bob.jpg" /></td>
-        <td>Databases</td>
-        <td>Go</td>
-        <td><a href="https://bob.stephenafamo.com" target="_blank">Bob</a></td>
-        <td>SQL query builder and ORM/Factory generator for Go with support for PostgreSQL, MySQL and SQLite</td>
-        <th><a href="https://github.com/stephenafamo/bob" target="_blank"><img alt="Bob" src="https://img.shields.io/github/stars/stephenafamo/bob?style=social" /></a></th>
     </tr>
 
 </table>
@@ -1656,6 +1656,38 @@
         <td><a href="https://sighingnow.github.io/jekyll-gitbook" target="_blank">jekyll-gitbook</a></td>
         <td>Build Jekyll site with GitBook style!</td>
         <th><a href="https://github.com/sighingnow/jekyll-gitbook" target="_blank"><img alt="jekyll-gitbook" src="https://img.shields.io/github/stars/sighingnow/jekyll-gitbook?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Bancos Brasileiros" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-BancosBrasileiros.jpg" /></td>
+        <td>Miscellaneous</td>
+        <td>Java</td>
+        <td><a href="https://guibranco.github.io/BancosBrasileiros/" target="_blank">Bancos Brasileiros</a></td>
+        <td><g-emoji class="g-emoji" alias="brazil" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f1e7-1f1f7.png">??</g-emoji> <g-emoji class="g-emoji" alias="bank" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f3e6.png">?</g-emoji> <g-emoji class="g-emoji" alias="clipboard" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4cb.png">?</g-emoji> Brazilian banks list</td>
+        <th><a href="https://github.com/guibranco/BancosBrasileiros" target="_blank"><img alt="Bancos Brasileiros" src="https://img.shields.io/github/stars/guibranco/BancosBrasileiros?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Via CEP" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-ViaCEP.jpg" /></td>
+        <td>Miscellaneous</td>
+        <td>C#</td>
+        <td><a href="https://guibranco.github.io/ViaCEP/" target="_blank">Via CEP</a></td>
+        <td><g-emoji class="g-emoji" alias="brazil" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f1e7-1f1f7.png">??</g-emoji> <g-emoji class="g-emoji" alias="round_pushpin" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4cd.png">?</g-emoji> ViaCEP client wrapper for .NET projects</td>
+        <th><a href="https://github.com/guibranco/ViaCEP" target="_blank"><img alt="Via CEP" src="https://img.shields.io/github/stars/guibranco/ViaCEP?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="CEP Aberto" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-CEPAberto.jpg" /></td>
+        <td>Miscellaneous</td>
+        <td>C#</td>
+        <td><a href="https://guibranco.github.io/CEPAberto/" target="_blank">CEP Aberto</a></td>
+        <td><g-emoji class="g-emoji" alias="brazil" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f1e7-1f1f7.png">??</g-emoji> <g-emoji class="g-emoji" alias="round_pushpin" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4cd.png">?</g-emoji> CEPAberto API client wrapper for .NET projects</td>
+        <th><a href="https://github.com/guibranco/CEPAberto" target="_blank"><img alt="CEP Aberto" src="https://img.shields.io/github/stars/guibranco/CEPAberto?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="VTEX SDK .NET" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-VTEX-SDK-dotnet-1.jpg" /></td>
+        <td>Miscellaneous</td>
+        <td>C#</td>
+        <td><a href="https://guibranco.github.io/VTEX-SDK-dotnet/" target="_blank">VTEX SDK .NET</a></td>
+        <td><g-emoji class="g-emoji" alias="shopping_cart" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f6d2.png">?</g-emoji> <g-emoji class="g-emoji" alias="gear" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2699.png">⚙️</g-emoji> VTEX platform .NET SDK</td>
+        <th><a href="https://github.com/guibranco/VTEX-SDK-dotnet" target="_blank"><img alt="VTEX SDK .NET" src="https://img.shields.io/github/stars/guibranco/VTEX-SDK-dotnet?style=social" /></a></th>
     </tr>
 
 </table>
@@ -3052,6 +3084,22 @@
         <td><a href="https://packagist.org/packages/jfcherng/php-diff" target="_blank">php-diff</a></td>
         <td>A comprehensive library for generating differences between two strings in multiple formats (unified, side by side HTML etc).</td>
         <th><a href="https://github.com/jfcherng/php-diff" target="_blank"><img alt="php-diff" src="https://img.shields.io/github/stars/jfcherng/php-diff?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Crispy Waffle" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-CrispyWaffle.jpg" /></td>
+        <td>Productivity</td>
+        <td>C#</td>
+        <td><a href="https://guibranco.github.io/CrispyWaffle/" target="_blank">Crispy Waffle</a></td>
+        <td><g-emoji class="g-emoji" alias="toolbox" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f9f0.png">?</g-emoji> <g-emoji class="g-emoji" alias="hammer_and_wrench" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f6e0.png">?️</g-emoji> Crispy Waffle project - toolkit for .NET projects</td>
+        <th><a href="https://github.com/guibranco/CrispyWaffle" target="_blank"><img alt="Crispy Waffle" src="https://img.shields.io/github/stars/guibranco/CrispyWaffle?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="GuiStracini SDK Builder" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-GuiStracini.SDKBuilder.jpg" /></td>
+        <td>Productivity</td>
+        <td>C#</td>
+        <td><a href="https://guibranco.github.io/GuiStracini.SDKBuilder/" target="_blank">GuiStracini SDK Builder</a></td>
+        <td><g-emoji class="g-emoji" alias="construction" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f6a7.png">?</g-emoji> <g-emoji class="g-emoji" alias="gear" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2699.png">⚙️</g-emoji> A SDK framework that helps create a .NET SDK project for API wrappers/clients</td>
+        <th><a href="https://github.com/guibranco/GuiStracini.SDKBuilder" target="_blank"><img alt="GuiStracini SDK Builder" src="https://img.shields.io/github/stars/guibranco/GuiStracini.SDKBuilder?style=social" /></a></th>
     </tr>
 
 </table>
@@ -7302,6 +7350,14 @@
         <td>Web UI to viewing logs</td>
         <th><a href="https://github.com/sevdokimov/log-viewer" target="_blank"><img alt="Log Viewer" src="https://img.shields.io/github/stars/sevdokimov/log-viewer?style=social" /></a></th>
     </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Bancos Brasileiros" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-BancosBrasileiros.jpg" /></td>
+        <td>Miscellaneous</td>
+        <td>Java</td>
+        <td><a href="https://guibranco.github.io/BancosBrasileiros/" target="_blank">Bancos Brasileiros</a></td>
+        <td><g-emoji class="g-emoji" alias="brazil" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f1e7-1f1f7.png">??</g-emoji> <g-emoji class="g-emoji" alias="bank" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f3e6.png">?</g-emoji> <g-emoji class="g-emoji" alias="clipboard" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4cb.png">?</g-emoji> Brazilian banks list</td>
+        <th><a href="https://github.com/guibranco/BancosBrasileiros" target="_blank"><img alt="Bancos Brasileiros" src="https://img.shields.io/github/stars/guibranco/BancosBrasileiros?style=social" /></a></th>
+    </tr>
 
 </table>
 
@@ -7419,6 +7475,46 @@
         <td><a href="https://github.com/JimmyPun610/BarcodeScanner.Mobile" target="_blank">BarcodeScanner.Mobile</a></td>
         <td>Barcode Scanner using GoogleVision API for Xamarin Form, Maui</td>
         <th><a href="https://github.com/JimmyPun610/BarcodeScanner.Mobile" target="_blank"><img alt="BarcodeScanner.Mobile" src="https://img.shields.io/github/stars/JimmyPun610/BarcodeScanner.Mobile?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Crispy Waffle" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-CrispyWaffle.jpg" /></td>
+        <td>Productivity</td>
+        <td>C#</td>
+        <td><a href="https://guibranco.github.io/CrispyWaffle/" target="_blank">Crispy Waffle</a></td>
+        <td><g-emoji class="g-emoji" alias="toolbox" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f9f0.png">?</g-emoji> <g-emoji class="g-emoji" alias="hammer_and_wrench" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f6e0.png">?️</g-emoji> Crispy Waffle project - toolkit for .NET projects</td>
+        <th><a href="https://github.com/guibranco/CrispyWaffle" target="_blank"><img alt="Crispy Waffle" src="https://img.shields.io/github/stars/guibranco/CrispyWaffle?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Via CEP" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-ViaCEP.jpg" /></td>
+        <td>Miscellaneous</td>
+        <td>C#</td>
+        <td><a href="https://guibranco.github.io/ViaCEP/" target="_blank">Via CEP</a></td>
+        <td><g-emoji class="g-emoji" alias="brazil" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f1e7-1f1f7.png">??</g-emoji> <g-emoji class="g-emoji" alias="round_pushpin" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4cd.png">?</g-emoji> ViaCEP client wrapper for .NET projects</td>
+        <th><a href="https://github.com/guibranco/ViaCEP" target="_blank"><img alt="Via CEP" src="https://img.shields.io/github/stars/guibranco/ViaCEP?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="CEP Aberto" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-CEPAberto.jpg" /></td>
+        <td>Miscellaneous</td>
+        <td>C#</td>
+        <td><a href="https://guibranco.github.io/CEPAberto/" target="_blank">CEP Aberto</a></td>
+        <td><g-emoji class="g-emoji" alias="brazil" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f1e7-1f1f7.png">??</g-emoji> <g-emoji class="g-emoji" alias="round_pushpin" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4cd.png">?</g-emoji> CEPAberto API client wrapper for .NET projects</td>
+        <th><a href="https://github.com/guibranco/CEPAberto" target="_blank"><img alt="CEP Aberto" src="https://img.shields.io/github/stars/guibranco/CEPAberto?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="VTEX SDK .NET" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-VTEX-SDK-dotnet-1.jpg" /></td>
+        <td>Miscellaneous</td>
+        <td>C#</td>
+        <td><a href="https://guibranco.github.io/VTEX-SDK-dotnet/" target="_blank">VTEX SDK .NET</a></td>
+        <td><g-emoji class="g-emoji" alias="shopping_cart" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f6d2.png">?</g-emoji> <g-emoji class="g-emoji" alias="gear" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2699.png">⚙️</g-emoji> VTEX platform .NET SDK</td>
+        <th><a href="https://github.com/guibranco/VTEX-SDK-dotnet" target="_blank"><img alt="VTEX SDK .NET" src="https://img.shields.io/github/stars/guibranco/VTEX-SDK-dotnet?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="GuiStracini SDK Builder" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-GuiStracini.SDKBuilder.jpg" /></td>
+        <td>Productivity</td>
+        <td>C#</td>
+        <td><a href="https://guibranco.github.io/GuiStracini.SDKBuilder/" target="_blank">GuiStracini SDK Builder</a></td>
+        <td><g-emoji class="g-emoji" alias="construction" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f6a7.png">?</g-emoji> <g-emoji class="g-emoji" alias="gear" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2699.png">⚙️</g-emoji> A SDK framework that helps create a .NET SDK project for API wrappers/clients</td>
+        <th><a href="https://github.com/guibranco/GuiStracini.SDKBuilder" target="_blank"><img alt="GuiStracini SDK Builder" src="https://img.shields.io/github/stars/guibranco/GuiStracini.SDKBuilder?style=social" /></a></th>
     </tr>
 
 </table>
