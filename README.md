@@ -148,6 +148,22 @@
         <th>Stargazers</th>
     </tr>
         <tr>
+        <td nowrap="nowrap"><img width="33" alt="Tiny Python Scripts" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-tiny-python-scripts.jpg" /></td>
+        <td>Security</td>
+        <td>Python</td>
+        <td><a href="https://twitter.com/geeknik" target="_blank">Tiny Python Scripts</a></td>
+        <td>Tiny Python Scripts for Everyday Automation</td>
+        <th><a href="https://github.com/geeknik/tiny-python-scripts" target="_blank"><img alt="Tiny Python Scripts" src="https://img.shields.io/github/stars/geeknik/tiny-python-scripts?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="jekyll-gitbook" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-jekyll-gitbook.png" /></td>
+        <td>Miscellaneous</td>
+        <td>CSS</td>
+        <td><a href="https://sighingnow.github.io/jekyll-gitbook" target="_blank">jekyll-gitbook</a></td>
+        <td>Build Jekyll site with GitBook style!</td>
+        <th><a href="https://github.com/sighingnow/jekyll-gitbook" target="_blank"><img alt="jekyll-gitbook" src="https://img.shields.io/github/stars/sighingnow/jekyll-gitbook?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="doticons" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-doticons.jpg" /></td>
         <td>Miscellaneous</td>
         <td>undefined</td>
@@ -290,22 +306,6 @@
         <td><a href="https://axios-cache-interceptor.js.org" target="_blank">Axios Cache Interceptor</a></td>
         <td><g-emoji class="g-emoji" alias="mailbox_with_mail" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4ec.png">?</g-emoji> Small and efficient cache interceptor for axios. Etag, Cache-Control, TTL, HTTP headers and more!</td>
         <th><a href="https://github.com/arthurfiorette/axios-cache-interceptor" target="_blank"><img alt="Axios Cache Interceptor" src="https://img.shields.io/github/stars/arthurfiorette/axios-cache-interceptor?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Spider" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-spider.jpg" /></td>
-        <td>Productivity</td>
-        <td>Dart</td>
-        <td><a href="https://spider.birju.dev/" target="_blank">Spider</a></td>
-        <td>A small dart library to generate Assets dart code from assets folder.</td>
-        <th><a href="https://github.com/BirjuVachhani/spider" target="_blank"><img alt="Spider" src="https://img.shields.io/github/stars/BirjuVachhani/spider?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Pluto" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-pluto.jpg" /></td>
-        <td>Miscellaneous</td>
-        <td>Dart</td>
-        <td><a href="https://birjuvachhani.github.io/pluto" target="_blank">Pluto</a></td>
-        <td>A minimal new tab for Chrome/Edge.</td>
-        <th><a href="https://github.com/BirjuVachhani/pluto" target="_blank"><img alt="Pluto" src="https://img.shields.io/github/stars/BirjuVachhani/pluto?style=social" /></a></th>
     </tr>
 
 </table>
@@ -1640,6 +1640,14 @@
         <td><a href="https://nice-sky-0509a9903.2.azurestaticapps.net" target="_blank">Azure Fundamentals Quiz</a></td>
         <td>Azure Fundamentals AZ-900 Exam Questions</td>
         <th><a href="https://github.com/eduardconstantin/azure-fundamentals" target="_blank"><img alt="Azure Fundamentals Quiz" src="https://img.shields.io/github/stars/eduardconstantin/azure-fundamentals?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="jekyll-gitbook" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-jekyll-gitbook.png" /></td>
+        <td>Miscellaneous</td>
+        <td>CSS</td>
+        <td><a href="https://sighingnow.github.io/jekyll-gitbook" target="_blank">jekyll-gitbook</a></td>
+        <td>Build Jekyll site with GitBook style!</td>
+        <th><a href="https://github.com/sighingnow/jekyll-gitbook" target="_blank"><img alt="jekyll-gitbook" src="https://img.shields.io/github/stars/sighingnow/jekyll-gitbook?style=social" /></a></th>
     </tr>
 
 </table>
@@ -3552,6 +3560,14 @@
         <td><a href="https://github.com/utoni/PastDSE" target="_blank">PastDSE</a></td>
         <td>DSE bypass using a leaked cert and adjusting the current clock.</td>
         <th><a href="https://github.com/utoni/PastDSE" target="_blank"><img alt="PastDSE" src="https://img.shields.io/github/stars/utoni/PastDSE?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Tiny Python Scripts" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-tiny-python-scripts.jpg" /></td>
+        <td>Security</td>
+        <td>Python</td>
+        <td><a href="https://twitter.com/geeknik" target="_blank">Tiny Python Scripts</a></td>
+        <td>Tiny Python Scripts for Everyday Automation</td>
+        <th><a href="https://github.com/geeknik/tiny-python-scripts" target="_blank"><img alt="Tiny Python Scripts" src="https://img.shields.io/github/stars/geeknik/tiny-python-scripts?style=social" /></a></th>
     </tr>
 
 </table>
@@ -7776,6 +7792,14 @@
         <td>Data and code for NeurIPS 2022 Paper "Learn to Explain: Multimodal Reasoning via Thought Chains for Science Question Answering".</td>
         <th><a href="https://github.com/lupantech/ScienceQA" target="_blank"><img alt="ScienceQA" src="https://img.shields.io/github/stars/lupantech/ScienceQA?style=social" /></a></th>
     </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Tiny Python Scripts" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-tiny-python-scripts.jpg" /></td>
+        <td>Security</td>
+        <td>Python</td>
+        <td><a href="https://twitter.com/geeknik" target="_blank">Tiny Python Scripts</a></td>
+        <td>Tiny Python Scripts for Everyday Automation</td>
+        <th><a href="https://github.com/geeknik/tiny-python-scripts" target="_blank"><img alt="Tiny Python Scripts" src="https://img.shields.io/github/stars/geeknik/tiny-python-scripts?style=social" /></a></th>
+    </tr>
 
 </table>
 
@@ -8423,6 +8447,14 @@
         <td><a href="https://cssanimation.io/" target="_blank">cssanimation.io</a></td>
         <td>CSS Animation Library for Developers and Ninjas</td>
         <th><a href="https://github.com/yesiamrocks/cssanimation.io" target="_blank"><img alt="cssanimation.io" src="https://img.shields.io/github/stars/yesiamrocks/cssanimation.io?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="jekyll-gitbook" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-jekyll-gitbook.png" /></td>
+        <td>Miscellaneous</td>
+        <td>CSS</td>
+        <td><a href="https://sighingnow.github.io/jekyll-gitbook" target="_blank">jekyll-gitbook</a></td>
+        <td>Build Jekyll site with GitBook style!</td>
+        <th><a href="https://github.com/sighingnow/jekyll-gitbook" target="_blank"><img alt="jekyll-gitbook" src="https://img.shields.io/github/stars/sighingnow/jekyll-gitbook?style=social" /></a></th>
     </tr>
 
 </table>
