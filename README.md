@@ -164,148 +164,148 @@
         <th><a href="https://github.com/caronc/apprise-api" target="_blank"><img alt="Apprise API" src="https://img.shields.io/github/stars/caronc/apprise-api?style=social" /></a></th>
     </tr>
     <tr>
+        <td nowrap="nowrap"><img width="33" alt="LwESP" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-lwesp.jpg" /></td>
+        <td>Productivity</td>
+        <td>C</td>
+        <td><a href="https://majerle.eu/projects/lwesp-lightweight-esp-at-parser-library-for-embedded-systems" target="_blank">LwESP</a></td>
+        <td>Lightweight and versatile AT parser library for ESP8266 and ESP32 devices.</td>
+        <th><a href="https://github.com/MaJerle/lwesp" target="_blank"><img alt="LwESP" src="https://img.shields.io/github/stars/MaJerle/lwesp?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="LwCELL" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-lwcell.jpg" /></td>
+        <td>Miscellaneous</td>
+        <td>C</td>
+        <td><a href="https://majerle.eu/projects/lwgsm-lightweight-gsm-at-parser-library-for-embedded-systems" target="_blank">LwCELL</a></td>
+        <td>Lightweight cellular modem host AT library</td>
+        <th><a href="https://github.com/MaJerle/lwcell" target="_blank"><img alt="LwCELL" src="https://img.shields.io/github/stars/MaJerle/lwcell?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="LwWDG" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-lwwdg.jpg" /></td>
+        <td>Miscellaneous</td>
+        <td>C</td>
+        <td><a href="https://github.com/MaJerle/lwwdg" target="_blank">LwWDG</a></td>
+        <td>Lightweight watchdog for RTOS and embedded systems</td>
+        <th><a href="https://github.com/MaJerle/lwwdg" target="_blank"><img alt="LwWDG" src="https://img.shields.io/github/stars/MaJerle/lwwdg?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="LwUTIL" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-lwutil.jpg" /></td>
+        <td>Productivity</td>
+        <td>C</td>
+        <td><a href="https://github.com/MaJerle/lwutil" target="_blank">LwUTIL</a></td>
+        <td>Versatile and easy to use C language utility library with functions and macros commonly used in various applications</td>
+        <th><a href="https://github.com/MaJerle/lwutil" target="_blank"><img alt="LwUTIL" src="https://img.shields.io/github/stars/MaJerle/lwutil?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="LwSHELL" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-lwshell-1.jpg" /></td>
+        <td>Miscellaneous</td>
+        <td>C</td>
+        <td><a href="https://github.com/MaJerle/lwshell" target="_blank">LwSHELL</a></td>
+        <td>Lightweight shell implementation for embedded systems</td>
+        <th><a href="https://github.com/MaJerle/lwshell" target="_blank"><img alt="LwSHELL" src="https://img.shields.io/github/stars/MaJerle/lwshell?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="LwRB" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-lwrb.jpg" /></td>
+        <td>Productivity</td>
+        <td>C</td>
+        <td><a href="https://majerle.eu/projects/lwrb-lightweight-ring-buff" target="_blank">LwRB</a></td>
+        <td>Lightweight generic ring buffer manager library</td>
+        <th><a href="https://github.com/MaJerle/lwrb" target="_blank"><img alt="LwRB" src="https://img.shields.io/github/stars/MaJerle/lwrb?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="LwPRINTF" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-lwprintf.jpg" /></td>
+        <td>Miscellaneous</td>
+        <td>C</td>
+        <td><a href="https://majerle.eu/projects/lwprintf-lightweight-stdio-manager-printf-snprintf-vprintf-vsnprintf-sprintf" target="_blank">LwPRINTF</a></td>
+        <td>Lightweight printf library optimized for embedded systems</td>
+        <th><a href="https://github.com/MaJerle/lwprintf" target="_blank"><img alt="LwPRINTF" src="https://img.shields.io/github/stars/MaJerle/lwprintf?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="LwPKT" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-lwpkt.jpg" /></td>
+        <td>Productivity</td>
+        <td>C</td>
+        <td><a href="https://majerle.eu/projects/lwpkt-lightweight-packet-protocol-manager" target="_blank">LwPKT</a></td>
+        <td>Lightweight packet protocol structure for multi-device communication focused on RS-485</td>
+        <th><a href="https://github.com/MaJerle/lwpkt" target="_blank"><img alt="LwPKT" src="https://img.shields.io/github/stars/MaJerle/lwpkt?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="LwOW" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-lwow.jpg" /></td>
+        <td>Miscellaneous</td>
+        <td>C</td>
+        <td><a href="https://majerle.eu/projects/lwow-one-wire-uart-communication" target="_blank">LwOW</a></td>
+        <td>Lightweight onewire protocol library optimized for UART hardware on embedded systems</td>
+        <th><a href="https://github.com/MaJerle/lwow" target="_blank"><img alt="LwOW" src="https://img.shields.io/github/stars/MaJerle/lwow?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="LwMEM" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-lwmem.jpg" /></td>
+        <td>Miscellaneous</td>
+        <td>C</td>
+        <td><a href="https://majerle.eu/projects/lwmem-lightweight-dynamic-memory-manager" target="_blank">LwMEM</a></td>
+        <td>Lightweight dynamic memory manager library for embedded systems with memory constraints. It implements malloc, calloc, realloc and free functions</td>
+        <th><a href="https://github.com/MaJerle/lwmem" target="_blank"><img alt="LwMEM" src="https://img.shields.io/github/stars/MaJerle/lwmem?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="LwJSON" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-lwjson.jpg" /></td>
+        <td>Miscellaneous</td>
+        <td>C</td>
+        <td><a href="https://majerle.eu/projects/lwjson-lightweight-json-parser" target="_blank">LwJSON</a></td>
+        <td>Lightweight JSON parser for embedded systems</td>
+        <th><a href="https://github.com/MaJerle/lwjson" target="_blank"><img alt="LwJSON" src="https://img.shields.io/github/stars/MaJerle/lwjson?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="LwGPS" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-lwgps-1.jpg" /></td>
+        <td>Productivity</td>
+        <td>C</td>
+        <td><a href="https://github.com/MaJerle/lwgps" target="_blank">LwGPS</a></td>
+        <td>Lightweight GPS NMEA parser for embedded systems</td>
+        <th><a href="https://github.com/MaJerle/lwgps" target="_blank"><img alt="LwGPS" src="https://img.shields.io/github/stars/MaJerle/lwgps?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="LwEVT" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-lwevt-1.jpg" /></td>
+        <td>Productivity</td>
+        <td>C</td>
+        <td><a href="https://github.com/MaJerle/lwevt" target="_blank">LwEVT</a></td>
+        <td>Lightweight event management system for embedded systems</td>
+        <th><a href="https://github.com/MaJerle/lwevt" target="_blank"><img alt="LwEVT" src="https://img.shields.io/github/stars/MaJerle/lwevt?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="LwDTC" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-lwdtc-1.jpg" /></td>
+        <td>Miscellaneous</td>
+        <td>C</td>
+        <td><a href="https://docs.majerle.eu/projects/lwdtc/en/latest/" target="_blank">LwDTC</a></td>
+        <td>Lightweight date, time &amp; cron utilities for embedded systems</td>
+        <th><a href="https://github.com/MaJerle/lwdtc" target="_blank"><img alt="LwDTC" src="https://img.shields.io/github/stars/MaJerle/lwdtc?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="LwBTN" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-lwbtn.jpg" /></td>
+        <td>Miscellaneous</td>
+        <td>C</td>
+        <td><a href="https://github.com/MaJerle/lwbtn" target="_blank">LwBTN</a></td>
+        <td>Lightweight button handler for embedded systems</td>
+        <th><a href="https://github.com/MaJerle/lwbtn" target="_blank"><img alt="LwBTN" src="https://img.shields.io/github/stars/MaJerle/lwbtn?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="C code style" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-c-code-style.jpg" /></td>
+        <td>Productivity</td>
+        <td>Python</td>
+        <td><a href="http://majerle.eu" target="_blank">C code style</a></td>
+        <td>Recommended C code style and coding rules for standard C99 or later</td>
+        <th><a href="https://github.com/MaJerle/c-code-style" target="_blank"><img alt="C code style" src="https://img.shields.io/github/stars/MaJerle/c-code-style?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="STM32 CMake and vscode" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-stm32-cube-cmake-vscode.jpg" /></td>
+        <td>Productivity</td>
+        <td>C</td>
+        <td><a href="https://github.com/MaJerle/stm32-cube-cmake-vscode" target="_blank">STM32 CMake and vscode</a></td>
+        <td>STM32, VSCode and CMake detailed tutorial</td>
+        <th><a href="https://github.com/MaJerle/stm32-cube-cmake-vscode" target="_blank"><img alt="STM32 CMake and vscode" src="https://img.shields.io/github/stars/MaJerle/stm32-cube-cmake-vscode?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="Twenty CRM" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-twenty.png" /></td>
         <td>Miscellaneous</td>
         <td>TypeScript</td>
         <td><a href="https://twenty.com" target="_blank">Twenty CRM</a></td>
         <td>Building a modern alternative to Salesforce. <g-emoji class="g-emoji" alias="star2" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f31f.png">?</g-emoji> You can star to support our work!</td>
         <th><a href="https://github.com/twentyhq/twenty" target="_blank"><img alt="Twenty CRM" src="https://img.shields.io/github/stars/twentyhq/twenty?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Tiny Python Scripts" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-tiny-python-scripts.jpg" /></td>
-        <td>Security</td>
-        <td>Python</td>
-        <td><a href="https://twitter.com/geeknik" target="_blank">Tiny Python Scripts</a></td>
-        <td>Tiny Python Scripts for Everyday Automation</td>
-        <th><a href="https://github.com/geeknik/tiny-python-scripts" target="_blank"><img alt="Tiny Python Scripts" src="https://img.shields.io/github/stars/geeknik/tiny-python-scripts?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="jekyll-gitbook" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-jekyll-gitbook.png" /></td>
-        <td>Miscellaneous</td>
-        <td>CSS</td>
-        <td><a href="https://sighingnow.github.io/jekyll-gitbook" target="_blank">jekyll-gitbook</a></td>
-        <td>Build Jekyll site with GitBook style!</td>
-        <th><a href="https://github.com/sighingnow/jekyll-gitbook" target="_blank"><img alt="jekyll-gitbook" src="https://img.shields.io/github/stars/sighingnow/jekyll-gitbook?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Bancos Brasileiros" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-BancosBrasileiros.jpg" /></td>
-        <td>Miscellaneous</td>
-        <td>Java</td>
-        <td><a href="https://guibranco.github.io/BancosBrasileiros/" target="_blank">Bancos Brasileiros</a></td>
-        <td><g-emoji class="g-emoji" alias="brazil" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f1e7-1f1f7.png">??</g-emoji> <g-emoji class="g-emoji" alias="bank" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f3e6.png">?</g-emoji> <g-emoji class="g-emoji" alias="clipboard" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4cb.png">?</g-emoji> Brazilian banks list</td>
-        <th><a href="https://github.com/guibranco/BancosBrasileiros" target="_blank"><img alt="Bancos Brasileiros" src="https://img.shields.io/github/stars/guibranco/BancosBrasileiros?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Crispy Waffle" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-CrispyWaffle.jpg" /></td>
-        <td>Productivity</td>
-        <td>C#</td>
-        <td><a href="https://guibranco.github.io/CrispyWaffle/" target="_blank">Crispy Waffle</a></td>
-        <td><g-emoji class="g-emoji" alias="toolbox" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f9f0.png">?</g-emoji> <g-emoji class="g-emoji" alias="hammer_and_wrench" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f6e0.png">?️</g-emoji> Crispy Waffle project - toolkit for .NET projects</td>
-        <th><a href="https://github.com/guibranco/CrispyWaffle" target="_blank"><img alt="Crispy Waffle" src="https://img.shields.io/github/stars/guibranco/CrispyWaffle?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Via CEP" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-ViaCEP.jpg" /></td>
-        <td>Miscellaneous</td>
-        <td>C#</td>
-        <td><a href="https://guibranco.github.io/ViaCEP/" target="_blank">Via CEP</a></td>
-        <td><g-emoji class="g-emoji" alias="brazil" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f1e7-1f1f7.png">??</g-emoji> <g-emoji class="g-emoji" alias="round_pushpin" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4cd.png">?</g-emoji> ViaCEP client wrapper for .NET projects</td>
-        <th><a href="https://github.com/guibranco/ViaCEP" target="_blank"><img alt="Via CEP" src="https://img.shields.io/github/stars/guibranco/ViaCEP?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="CEP Aberto" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-CEPAberto.jpg" /></td>
-        <td>Miscellaneous</td>
-        <td>C#</td>
-        <td><a href="https://guibranco.github.io/CEPAberto/" target="_blank">CEP Aberto</a></td>
-        <td><g-emoji class="g-emoji" alias="brazil" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f1e7-1f1f7.png">??</g-emoji> <g-emoji class="g-emoji" alias="round_pushpin" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4cd.png">?</g-emoji> CEPAberto API client wrapper for .NET projects</td>
-        <th><a href="https://github.com/guibranco/CEPAberto" target="_blank"><img alt="CEP Aberto" src="https://img.shields.io/github/stars/guibranco/CEPAberto?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="VTEX SDK .NET" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-VTEX-SDK-dotnet-1.jpg" /></td>
-        <td>Miscellaneous</td>
-        <td>C#</td>
-        <td><a href="https://guibranco.github.io/VTEX-SDK-dotnet/" target="_blank">VTEX SDK .NET</a></td>
-        <td><g-emoji class="g-emoji" alias="shopping_cart" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f6d2.png">?</g-emoji> <g-emoji class="g-emoji" alias="gear" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2699.png">⚙️</g-emoji> VTEX platform .NET SDK</td>
-        <th><a href="https://github.com/guibranco/VTEX-SDK-dotnet" target="_blank"><img alt="VTEX SDK .NET" src="https://img.shields.io/github/stars/guibranco/VTEX-SDK-dotnet?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="GuiStracini SDK Builder" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-GuiStracini.SDKBuilder.jpg" /></td>
-        <td>Productivity</td>
-        <td>C#</td>
-        <td><a href="https://guibranco.github.io/GuiStracini.SDKBuilder/" target="_blank">GuiStracini SDK Builder</a></td>
-        <td><g-emoji class="g-emoji" alias="construction" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f6a7.png">?</g-emoji> <g-emoji class="g-emoji" alias="gear" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2699.png">⚙️</g-emoji> A SDK framework that helps create a .NET SDK project for API wrappers/clients</td>
-        <th><a href="https://github.com/guibranco/GuiStracini.SDKBuilder" target="_blank"><img alt="GuiStracini SDK Builder" src="https://img.shields.io/github/stars/guibranco/GuiStracini.SDKBuilder?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Plugin.LocalNotification" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-Plugin.LocalNotification.jpg" /></td>
-        <td>Notifications</td>
-        <td>C#</td>
-        <td><a href="https://github.com/thudugala/Plugin.LocalNotification" target="_blank">Plugin.LocalNotification</a></td>
-        <td>The local notification plugin provides a way to show local notifications from .Net MAUI and Xamarin Forms apps .</td>
-        <th><a href="https://github.com/thudugala/Plugin.LocalNotification" target="_blank"><img alt="Plugin.LocalNotification" src="https://img.shields.io/github/stars/thudugala/Plugin.LocalNotification?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="doticons" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-doticons.jpg" /></td>
-        <td>Miscellaneous</td>
-        <td>undefined</td>
-        <td><a href="https://github.com/eduardconstantin/doticons" target="_blank">doticons</a></td>
-        <td>doticons is a collection of versatile and visually appealing dot icons in SVG format.</td>
-        <th><a href="https://github.com/eduardconstantin/doticons" target="_blank"><img alt="doticons" src="https://img.shields.io/github/stars/eduardconstantin/doticons?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="ScienceQA" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-ScienceQA.jpg" /></td>
-        <td>Miscellaneous</td>
-        <td>Python</td>
-        <td><a href="https://github.com/lupantech/ScienceQA" target="_blank">ScienceQA</a></td>
-        <td>Data and code for NeurIPS 2022 Paper "Learn to Explain: Multimodal Reasoning via Thought Chains for Science Question Answering".</td>
-        <th><a href="https://github.com/lupantech/ScienceQA" target="_blank"><img alt="ScienceQA" src="https://img.shields.io/github/stars/lupantech/ScienceQA?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="texpress" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-t-express.jpg" /></td>
-        <td>Infrastructure</td>
-        <td>TypeScript</td>
-        <td><a href="https://sonish777.github.io/t-express/" target="_blank">texpress</a></td>
-        <td>Texpress is a project setup for using ExpressJS with Typescript. It includes a monorepo architecture and uses turborepo for managing the codebase. Live Site: https://texpress.onrender.com/auth/logi…</td>
-        <th><a href="https://github.com/sonish777/t-express" target="_blank"><img alt="texpress" src="https://img.shields.io/github/stars/sonish777/t-express?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="simdjson : Parsing gigabytes of JSON per second" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-simdjson.png" /></td>
-        <td>Infrastructure</td>
-        <td>C++</td>
-        <td><a href="https://simdjson.org" target="_blank">simdjson : Parsing gigabytes of JSON per second</a></td>
-        <td>Parsing gigabytes of JSON per second </td>
-        <th><a href="https://github.com/simdjson/simdjson" target="_blank"><img alt="simdjson : Parsing gigabytes of JSON per second" src="https://img.shields.io/github/stars/simdjson/simdjson?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Azure Fundamentals Quiz" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-azure-fundamentals.jpg" /></td>
-        <td>Miscellaneous</td>
-        <td>TypeScript</td>
-        <td><a href="https://nice-sky-0509a9903.2.azurestaticapps.net" target="_blank">Azure Fundamentals Quiz</a></td>
-        <td>Azure Fundamentals AZ-900 Exam Questions</td>
-        <th><a href="https://github.com/eduardconstantin/azure-fundamentals" target="_blank"><img alt="Azure Fundamentals Quiz" src="https://img.shields.io/github/stars/eduardconstantin/azure-fundamentals?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="brapi" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-brapi.jpg" /></td>
-        <td>Miscellaneous</td>
-        <td>TypeScript</td>
-        <td><a href="https://brapi.dev" target="_blank">brapi</a></td>
-        <td>A poderosa API open source para dados financeiros do mercado de ações, conversão de moedas e inflação brasileira</td>
-        <th><a href="https://github.com/Alissonsleal/brapi" target="_blank"><img alt="brapi" src="https://img.shields.io/github/stars/Alissonsleal/brapi?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="TCET Linux" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-tcet-linux.png" /></td>
-        <td>Infrastructure</td>
-        <td>Shell</td>
-        <td><a href="https://github.com/tcet-opensource/tcet-linux" target="_blank">TCET Linux</a></td>
-        <td>ISO profile &amp; scripts to build TCET Linux</td>
-        <th><a href="https://github.com/tcet-opensource/tcet-linux" target="_blank"><img alt="TCET Linux" src="https://img.shields.io/github/stars/tcet-opensource/tcet-linux?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="areg engine" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-areg-sdk.jpg" /></td>
-        <td>Productivity</td>
-        <td>C++</td>
-        <td><a href="https://www.aregtech.com" target="_blank">areg engine</a></td>
-        <td>AREG is an RPC framework, but Object RPC (ORPC), that asynchronously triggers methods of the remote objects called services.</td>
-        <th><a href="https://github.com/aregtech/areg-sdk" target="_blank"><img alt="areg engine" src="https://img.shields.io/github/stars/aregtech/areg-sdk?style=social" /></a></th>
     </tr>
 
 </table>
@@ -1688,6 +1688,78 @@
         <td><a href="https://guibranco.github.io/VTEX-SDK-dotnet/" target="_blank">VTEX SDK .NET</a></td>
         <td><g-emoji class="g-emoji" alias="shopping_cart" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f6d2.png">?</g-emoji> <g-emoji class="g-emoji" alias="gear" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2699.png">⚙️</g-emoji> VTEX platform .NET SDK</td>
         <th><a href="https://github.com/guibranco/VTEX-SDK-dotnet" target="_blank"><img alt="VTEX SDK .NET" src="https://img.shields.io/github/stars/guibranco/VTEX-SDK-dotnet?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="LwCELL" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-lwcell.jpg" /></td>
+        <td>Miscellaneous</td>
+        <td>C</td>
+        <td><a href="https://majerle.eu/projects/lwgsm-lightweight-gsm-at-parser-library-for-embedded-systems" target="_blank">LwCELL</a></td>
+        <td>Lightweight cellular modem host AT library</td>
+        <th><a href="https://github.com/MaJerle/lwcell" target="_blank"><img alt="LwCELL" src="https://img.shields.io/github/stars/MaJerle/lwcell?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="LwWDG" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-lwwdg.jpg" /></td>
+        <td>Miscellaneous</td>
+        <td>C</td>
+        <td><a href="https://github.com/MaJerle/lwwdg" target="_blank">LwWDG</a></td>
+        <td>Lightweight watchdog for RTOS and embedded systems</td>
+        <th><a href="https://github.com/MaJerle/lwwdg" target="_blank"><img alt="LwWDG" src="https://img.shields.io/github/stars/MaJerle/lwwdg?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="LwSHELL" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-lwshell-1.jpg" /></td>
+        <td>Miscellaneous</td>
+        <td>C</td>
+        <td><a href="https://github.com/MaJerle/lwshell" target="_blank">LwSHELL</a></td>
+        <td>Lightweight shell implementation for embedded systems</td>
+        <th><a href="https://github.com/MaJerle/lwshell" target="_blank"><img alt="LwSHELL" src="https://img.shields.io/github/stars/MaJerle/lwshell?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="LwPRINTF" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-lwprintf.jpg" /></td>
+        <td>Miscellaneous</td>
+        <td>C</td>
+        <td><a href="https://majerle.eu/projects/lwprintf-lightweight-stdio-manager-printf-snprintf-vprintf-vsnprintf-sprintf" target="_blank">LwPRINTF</a></td>
+        <td>Lightweight printf library optimized for embedded systems</td>
+        <th><a href="https://github.com/MaJerle/lwprintf" target="_blank"><img alt="LwPRINTF" src="https://img.shields.io/github/stars/MaJerle/lwprintf?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="LwOW" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-lwow.jpg" /></td>
+        <td>Miscellaneous</td>
+        <td>C</td>
+        <td><a href="https://majerle.eu/projects/lwow-one-wire-uart-communication" target="_blank">LwOW</a></td>
+        <td>Lightweight onewire protocol library optimized for UART hardware on embedded systems</td>
+        <th><a href="https://github.com/MaJerle/lwow" target="_blank"><img alt="LwOW" src="https://img.shields.io/github/stars/MaJerle/lwow?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="LwMEM" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-lwmem.jpg" /></td>
+        <td>Miscellaneous</td>
+        <td>C</td>
+        <td><a href="https://majerle.eu/projects/lwmem-lightweight-dynamic-memory-manager" target="_blank">LwMEM</a></td>
+        <td>Lightweight dynamic memory manager library for embedded systems with memory constraints. It implements malloc, calloc, realloc and free functions</td>
+        <th><a href="https://github.com/MaJerle/lwmem" target="_blank"><img alt="LwMEM" src="https://img.shields.io/github/stars/MaJerle/lwmem?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="LwJSON" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-lwjson.jpg" /></td>
+        <td>Miscellaneous</td>
+        <td>C</td>
+        <td><a href="https://majerle.eu/projects/lwjson-lightweight-json-parser" target="_blank">LwJSON</a></td>
+        <td>Lightweight JSON parser for embedded systems</td>
+        <th><a href="https://github.com/MaJerle/lwjson" target="_blank"><img alt="LwJSON" src="https://img.shields.io/github/stars/MaJerle/lwjson?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="LwDTC" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-lwdtc-1.jpg" /></td>
+        <td>Miscellaneous</td>
+        <td>C</td>
+        <td><a href="https://docs.majerle.eu/projects/lwdtc/en/latest/" target="_blank">LwDTC</a></td>
+        <td>Lightweight date, time &amp; cron utilities for embedded systems</td>
+        <th><a href="https://github.com/MaJerle/lwdtc" target="_blank"><img alt="LwDTC" src="https://img.shields.io/github/stars/MaJerle/lwdtc?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="LwBTN" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-lwbtn.jpg" /></td>
+        <td>Miscellaneous</td>
+        <td>C</td>
+        <td><a href="https://github.com/MaJerle/lwbtn" target="_blank">LwBTN</a></td>
+        <td>Lightweight button handler for embedded systems</td>
+        <th><a href="https://github.com/MaJerle/lwbtn" target="_blank"><img alt="LwBTN" src="https://img.shields.io/github/stars/MaJerle/lwbtn?style=social" /></a></th>
     </tr>
 
 </table>
@@ -3116,6 +3188,70 @@
         <td><a href="https://hub.docker.com/r/caronc/apprise" target="_blank">Apprise API</a></td>
         <td>A lightweight REST framework that wraps the Apprise Notification Library</td>
         <th><a href="https://github.com/caronc/apprise-api" target="_blank"><img alt="Apprise API" src="https://img.shields.io/github/stars/caronc/apprise-api?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="LwESP" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-lwesp.jpg" /></td>
+        <td>Productivity</td>
+        <td>C</td>
+        <td><a href="https://majerle.eu/projects/lwesp-lightweight-esp-at-parser-library-for-embedded-systems" target="_blank">LwESP</a></td>
+        <td>Lightweight and versatile AT parser library for ESP8266 and ESP32 devices.</td>
+        <th><a href="https://github.com/MaJerle/lwesp" target="_blank"><img alt="LwESP" src="https://img.shields.io/github/stars/MaJerle/lwesp?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="LwUTIL" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-lwutil.jpg" /></td>
+        <td>Productivity</td>
+        <td>C</td>
+        <td><a href="https://github.com/MaJerle/lwutil" target="_blank">LwUTIL</a></td>
+        <td>Versatile and easy to use C language utility library with functions and macros commonly used in various applications</td>
+        <th><a href="https://github.com/MaJerle/lwutil" target="_blank"><img alt="LwUTIL" src="https://img.shields.io/github/stars/MaJerle/lwutil?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="LwRB" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-lwrb.jpg" /></td>
+        <td>Productivity</td>
+        <td>C</td>
+        <td><a href="https://majerle.eu/projects/lwrb-lightweight-ring-buff" target="_blank">LwRB</a></td>
+        <td>Lightweight generic ring buffer manager library</td>
+        <th><a href="https://github.com/MaJerle/lwrb" target="_blank"><img alt="LwRB" src="https://img.shields.io/github/stars/MaJerle/lwrb?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="LwPKT" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-lwpkt.jpg" /></td>
+        <td>Productivity</td>
+        <td>C</td>
+        <td><a href="https://majerle.eu/projects/lwpkt-lightweight-packet-protocol-manager" target="_blank">LwPKT</a></td>
+        <td>Lightweight packet protocol structure for multi-device communication focused on RS-485</td>
+        <th><a href="https://github.com/MaJerle/lwpkt" target="_blank"><img alt="LwPKT" src="https://img.shields.io/github/stars/MaJerle/lwpkt?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="LwGPS" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-lwgps-1.jpg" /></td>
+        <td>Productivity</td>
+        <td>C</td>
+        <td><a href="https://github.com/MaJerle/lwgps" target="_blank">LwGPS</a></td>
+        <td>Lightweight GPS NMEA parser for embedded systems</td>
+        <th><a href="https://github.com/MaJerle/lwgps" target="_blank"><img alt="LwGPS" src="https://img.shields.io/github/stars/MaJerle/lwgps?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="LwEVT" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-lwevt-1.jpg" /></td>
+        <td>Productivity</td>
+        <td>C</td>
+        <td><a href="https://github.com/MaJerle/lwevt" target="_blank">LwEVT</a></td>
+        <td>Lightweight event management system for embedded systems</td>
+        <th><a href="https://github.com/MaJerle/lwevt" target="_blank"><img alt="LwEVT" src="https://img.shields.io/github/stars/MaJerle/lwevt?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="C code style" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-c-code-style.jpg" /></td>
+        <td>Productivity</td>
+        <td>Python</td>
+        <td><a href="http://majerle.eu" target="_blank">C code style</a></td>
+        <td>Recommended C code style and coding rules for standard C99 or later</td>
+        <th><a href="https://github.com/MaJerle/c-code-style" target="_blank"><img alt="C code style" src="https://img.shields.io/github/stars/MaJerle/c-code-style?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="STM32 CMake and vscode" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-stm32-cube-cmake-vscode.jpg" /></td>
+        <td>Productivity</td>
+        <td>C</td>
+        <td><a href="https://github.com/MaJerle/stm32-cube-cmake-vscode" target="_blank">STM32 CMake and vscode</a></td>
+        <td>STM32, VSCode and CMake detailed tutorial</td>
+        <th><a href="https://github.com/MaJerle/stm32-cube-cmake-vscode" target="_blank"><img alt="STM32 CMake and vscode" src="https://img.shields.io/github/stars/MaJerle/stm32-cube-cmake-vscode?style=social" /></a></th>
     </tr>
 
 </table>
@@ -7960,6 +8096,14 @@
         <td>A lightweight REST framework that wraps the Apprise Notification Library</td>
         <th><a href="https://github.com/caronc/apprise-api" target="_blank"><img alt="Apprise API" src="https://img.shields.io/github/stars/caronc/apprise-api?style=social" /></a></th>
     </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="C code style" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-c-code-style.jpg" /></td>
+        <td>Productivity</td>
+        <td>Python</td>
+        <td><a href="http://majerle.eu" target="_blank">C code style</a></td>
+        <td>Recommended C code style and coding rules for standard C99 or later</td>
+        <th><a href="https://github.com/MaJerle/c-code-style" target="_blank"><img alt="C code style" src="https://img.shields.io/github/stars/MaJerle/c-code-style?style=social" /></a></th>
+    </tr>
 
 </table>
 
@@ -8849,6 +8993,134 @@
         <td><a href="http://blog.dpull.com/post/2015-11-08-skynet_mingw" target="_blank">skynet-mingw</a></td>
         <td>对skynet无任何改动的windows版</td>
         <th><a href="https://github.com/dpull/skynet-mingw" target="_blank"><img alt="skynet-mingw" src="https://img.shields.io/github/stars/dpull/skynet-mingw?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="LwESP" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-lwesp.jpg" /></td>
+        <td>Productivity</td>
+        <td>C</td>
+        <td><a href="https://majerle.eu/projects/lwesp-lightweight-esp-at-parser-library-for-embedded-systems" target="_blank">LwESP</a></td>
+        <td>Lightweight and versatile AT parser library for ESP8266 and ESP32 devices.</td>
+        <th><a href="https://github.com/MaJerle/lwesp" target="_blank"><img alt="LwESP" src="https://img.shields.io/github/stars/MaJerle/lwesp?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="LwCELL" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-lwcell.jpg" /></td>
+        <td>Miscellaneous</td>
+        <td>C</td>
+        <td><a href="https://majerle.eu/projects/lwgsm-lightweight-gsm-at-parser-library-for-embedded-systems" target="_blank">LwCELL</a></td>
+        <td>Lightweight cellular modem host AT library</td>
+        <th><a href="https://github.com/MaJerle/lwcell" target="_blank"><img alt="LwCELL" src="https://img.shields.io/github/stars/MaJerle/lwcell?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="LwWDG" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-lwwdg.jpg" /></td>
+        <td>Miscellaneous</td>
+        <td>C</td>
+        <td><a href="https://github.com/MaJerle/lwwdg" target="_blank">LwWDG</a></td>
+        <td>Lightweight watchdog for RTOS and embedded systems</td>
+        <th><a href="https://github.com/MaJerle/lwwdg" target="_blank"><img alt="LwWDG" src="https://img.shields.io/github/stars/MaJerle/lwwdg?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="LwUTIL" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-lwutil.jpg" /></td>
+        <td>Productivity</td>
+        <td>C</td>
+        <td><a href="https://github.com/MaJerle/lwutil" target="_blank">LwUTIL</a></td>
+        <td>Versatile and easy to use C language utility library with functions and macros commonly used in various applications</td>
+        <th><a href="https://github.com/MaJerle/lwutil" target="_blank"><img alt="LwUTIL" src="https://img.shields.io/github/stars/MaJerle/lwutil?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="LwSHELL" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-lwshell-1.jpg" /></td>
+        <td>Miscellaneous</td>
+        <td>C</td>
+        <td><a href="https://github.com/MaJerle/lwshell" target="_blank">LwSHELL</a></td>
+        <td>Lightweight shell implementation for embedded systems</td>
+        <th><a href="https://github.com/MaJerle/lwshell" target="_blank"><img alt="LwSHELL" src="https://img.shields.io/github/stars/MaJerle/lwshell?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="LwRB" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-lwrb.jpg" /></td>
+        <td>Productivity</td>
+        <td>C</td>
+        <td><a href="https://majerle.eu/projects/lwrb-lightweight-ring-buff" target="_blank">LwRB</a></td>
+        <td>Lightweight generic ring buffer manager library</td>
+        <th><a href="https://github.com/MaJerle/lwrb" target="_blank"><img alt="LwRB" src="https://img.shields.io/github/stars/MaJerle/lwrb?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="LwPRINTF" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-lwprintf.jpg" /></td>
+        <td>Miscellaneous</td>
+        <td>C</td>
+        <td><a href="https://majerle.eu/projects/lwprintf-lightweight-stdio-manager-printf-snprintf-vprintf-vsnprintf-sprintf" target="_blank">LwPRINTF</a></td>
+        <td>Lightweight printf library optimized for embedded systems</td>
+        <th><a href="https://github.com/MaJerle/lwprintf" target="_blank"><img alt="LwPRINTF" src="https://img.shields.io/github/stars/MaJerle/lwprintf?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="LwPKT" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-lwpkt.jpg" /></td>
+        <td>Productivity</td>
+        <td>C</td>
+        <td><a href="https://majerle.eu/projects/lwpkt-lightweight-packet-protocol-manager" target="_blank">LwPKT</a></td>
+        <td>Lightweight packet protocol structure for multi-device communication focused on RS-485</td>
+        <th><a href="https://github.com/MaJerle/lwpkt" target="_blank"><img alt="LwPKT" src="https://img.shields.io/github/stars/MaJerle/lwpkt?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="LwOW" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-lwow.jpg" /></td>
+        <td>Miscellaneous</td>
+        <td>C</td>
+        <td><a href="https://majerle.eu/projects/lwow-one-wire-uart-communication" target="_blank">LwOW</a></td>
+        <td>Lightweight onewire protocol library optimized for UART hardware on embedded systems</td>
+        <th><a href="https://github.com/MaJerle/lwow" target="_blank"><img alt="LwOW" src="https://img.shields.io/github/stars/MaJerle/lwow?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="LwMEM" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-lwmem.jpg" /></td>
+        <td>Miscellaneous</td>
+        <td>C</td>
+        <td><a href="https://majerle.eu/projects/lwmem-lightweight-dynamic-memory-manager" target="_blank">LwMEM</a></td>
+        <td>Lightweight dynamic memory manager library for embedded systems with memory constraints. It implements malloc, calloc, realloc and free functions</td>
+        <th><a href="https://github.com/MaJerle/lwmem" target="_blank"><img alt="LwMEM" src="https://img.shields.io/github/stars/MaJerle/lwmem?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="LwJSON" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-lwjson.jpg" /></td>
+        <td>Miscellaneous</td>
+        <td>C</td>
+        <td><a href="https://majerle.eu/projects/lwjson-lightweight-json-parser" target="_blank">LwJSON</a></td>
+        <td>Lightweight JSON parser for embedded systems</td>
+        <th><a href="https://github.com/MaJerle/lwjson" target="_blank"><img alt="LwJSON" src="https://img.shields.io/github/stars/MaJerle/lwjson?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="LwGPS" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-lwgps-1.jpg" /></td>
+        <td>Productivity</td>
+        <td>C</td>
+        <td><a href="https://github.com/MaJerle/lwgps" target="_blank">LwGPS</a></td>
+        <td>Lightweight GPS NMEA parser for embedded systems</td>
+        <th><a href="https://github.com/MaJerle/lwgps" target="_blank"><img alt="LwGPS" src="https://img.shields.io/github/stars/MaJerle/lwgps?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="LwEVT" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-lwevt-1.jpg" /></td>
+        <td>Productivity</td>
+        <td>C</td>
+        <td><a href="https://github.com/MaJerle/lwevt" target="_blank">LwEVT</a></td>
+        <td>Lightweight event management system for embedded systems</td>
+        <th><a href="https://github.com/MaJerle/lwevt" target="_blank"><img alt="LwEVT" src="https://img.shields.io/github/stars/MaJerle/lwevt?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="LwDTC" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-lwdtc-1.jpg" /></td>
+        <td>Miscellaneous</td>
+        <td>C</td>
+        <td><a href="https://docs.majerle.eu/projects/lwdtc/en/latest/" target="_blank">LwDTC</a></td>
+        <td>Lightweight date, time &amp; cron utilities for embedded systems</td>
+        <th><a href="https://github.com/MaJerle/lwdtc" target="_blank"><img alt="LwDTC" src="https://img.shields.io/github/stars/MaJerle/lwdtc?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="LwBTN" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-lwbtn.jpg" /></td>
+        <td>Miscellaneous</td>
+        <td>C</td>
+        <td><a href="https://github.com/MaJerle/lwbtn" target="_blank">LwBTN</a></td>
+        <td>Lightweight button handler for embedded systems</td>
+        <th><a href="https://github.com/MaJerle/lwbtn" target="_blank"><img alt="LwBTN" src="https://img.shields.io/github/stars/MaJerle/lwbtn?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="STM32 CMake and vscode" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-stm32-cube-cmake-vscode.jpg" /></td>
+        <td>Productivity</td>
+        <td>C</td>
+        <td><a href="https://github.com/MaJerle/stm32-cube-cmake-vscode" target="_blank">STM32 CMake and vscode</a></td>
+        <td>STM32, VSCode and CMake detailed tutorial</td>
+        <th><a href="https://github.com/MaJerle/stm32-cube-cmake-vscode" target="_blank"><img alt="STM32 CMake and vscode" src="https://img.shields.io/github/stars/MaJerle/stm32-cube-cmake-vscode?style=social" /></a></th>
     </tr>
 
 </table>
