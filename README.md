@@ -148,6 +148,22 @@
         <th>Stargazers</th>
     </tr>
         <tr>
+        <td nowrap="nowrap"><img width="33" alt="Apprise API" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-apprise-api.png" /></td>
+        <td>Productivity</td>
+        <td>Python</td>
+        <td><a href="https://hub.docker.com/r/caronc/apprise" target="_blank">Apprise API</a></td>
+        <td>A lightweight REST framework that wraps the Apprise Notification Library</td>
+        <th><a href="https://github.com/caronc/apprise-api" target="_blank"><img alt="Apprise API" src="https://img.shields.io/github/stars/caronc/apprise-api?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="flutter_tilt" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-flutter_tilt.png" /></td>
+        <td>Productivity</td>
+        <td>Dart</td>
+        <td><a href="https://pub.dev/packages/flutter_tilt" target="_blank">flutter_tilt</a></td>
+        <td><g-emoji class="g-emoji" alias="eyes" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f440.png">?</g-emoji> Easily apply tilt parallax hover effects on Flutter! | 在 Flutter 上轻松创建倾斜视差悬停效果！</td>
+        <th><a href="https://github.com/AmosHuKe/flutter_tilt" target="_blank"><img alt="flutter_tilt" src="https://img.shields.io/github/stars/AmosHuKe/flutter_tilt?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="Twenty CRM" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-twenty.png" /></td>
         <td>Miscellaneous</td>
         <td>TypeScript</td>
@@ -290,22 +306,6 @@
         <td><a href="https://www.aregtech.com" target="_blank">areg engine</a></td>
         <td>AREG is an RPC framework, but Object RPC (ORPC), that asynchronously triggers methods of the remote objects called services.</td>
         <th><a href="https://github.com/aregtech/areg-sdk" target="_blank"><img alt="areg engine" src="https://img.shields.io/github/stars/aregtech/areg-sdk?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="qtrader" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-qtrader.jpg" /></td>
-        <td>Analytics</td>
-        <td>Python</td>
-        <td><a href="https://github.com/josephchenhk/qtrader" target="_blank">qtrader</a></td>
-        <td>A Light Event-Driven Algorithmic Trading Engine</td>
-        <th><a href="https://github.com/josephchenhk/qtrader" target="_blank"><img alt="qtrader" src="https://img.shields.io/github/stars/josephchenhk/qtrader?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Hoppscotch" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-hoppscotch.png" /></td>
-        <td>Productivity</td>
-        <td>TypeScript</td>
-        <td><a href="https://hoppscotch.io" target="_blank">Hoppscotch</a></td>
-        <td><g-emoji class="g-emoji" alias="alien" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f47d.png">?</g-emoji> Open source API development ecosystem - https://hoppscotch.io</td>
-        <th><a href="https://github.com/hoppscotch/hoppscotch" target="_blank"><img alt="Hoppscotch" src="https://img.shields.io/github/stars/hoppscotch/hoppscotch?style=social" /></a></th>
     </tr>
 
 </table>
@@ -3100,6 +3100,22 @@
         <td><a href="https://guibranco.github.io/GuiStracini.SDKBuilder/" target="_blank">GuiStracini SDK Builder</a></td>
         <td><g-emoji class="g-emoji" alias="construction" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f6a7.png">?</g-emoji> <g-emoji class="g-emoji" alias="gear" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2699.png">⚙️</g-emoji> A SDK framework that helps create a .NET SDK project for API wrappers/clients</td>
         <th><a href="https://github.com/guibranco/GuiStracini.SDKBuilder" target="_blank"><img alt="GuiStracini SDK Builder" src="https://img.shields.io/github/stars/guibranco/GuiStracini.SDKBuilder?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Apprise API" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-apprise-api.png" /></td>
+        <td>Productivity</td>
+        <td>Python</td>
+        <td><a href="https://hub.docker.com/r/caronc/apprise" target="_blank">Apprise API</a></td>
+        <td>A lightweight REST framework that wraps the Apprise Notification Library</td>
+        <th><a href="https://github.com/caronc/apprise-api" target="_blank"><img alt="Apprise API" src="https://img.shields.io/github/stars/caronc/apprise-api?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="flutter_tilt" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-flutter_tilt.png" /></td>
+        <td>Productivity</td>
+        <td>Dart</td>
+        <td><a href="https://pub.dev/packages/flutter_tilt" target="_blank">flutter_tilt</a></td>
+        <td><g-emoji class="g-emoji" alias="eyes" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f440.png">?</g-emoji> Easily apply tilt parallax hover effects on Flutter! | 在 Flutter 上轻松创建倾斜视差悬停效果！</td>
+        <th><a href="https://github.com/AmosHuKe/flutter_tilt" target="_blank"><img alt="flutter_tilt" src="https://img.shields.io/github/stars/AmosHuKe/flutter_tilt?style=social" /></a></th>
     </tr>
 
 </table>
@@ -6366,6 +6382,14 @@
         <td>A library for advanced resizing of rect in UI.</td>
         <th><a href="https://github.com/hyper-designed/box_transform" target="_blank"><img alt="Box Transform" src="https://img.shields.io/github/stars/hyper-designed/box_transform?style=social" /></a></th>
     </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="flutter_tilt" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-flutter_tilt.png" /></td>
+        <td>Productivity</td>
+        <td>Dart</td>
+        <td><a href="https://pub.dev/packages/flutter_tilt" target="_blank">flutter_tilt</a></td>
+        <td><g-emoji class="g-emoji" alias="eyes" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f440.png">?</g-emoji> Easily apply tilt parallax hover effects on Flutter! | 在 Flutter 上轻松创建倾斜视差悬停效果！</td>
+        <th><a href="https://github.com/AmosHuKe/flutter_tilt" target="_blank"><img alt="flutter_tilt" src="https://img.shields.io/github/stars/AmosHuKe/flutter_tilt?style=social" /></a></th>
+    </tr>
 
 </table>
 
@@ -7927,6 +7951,14 @@
         <td><a href="https://github.com/lupantech/ScienceQA" target="_blank">ScienceQA</a></td>
         <td>Data and code for NeurIPS 2022 Paper "Learn to Explain: Multimodal Reasoning via Thought Chains for Science Question Answering".</td>
         <th><a href="https://github.com/lupantech/ScienceQA" target="_blank"><img alt="ScienceQA" src="https://img.shields.io/github/stars/lupantech/ScienceQA?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Apprise API" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-apprise-api.png" /></td>
+        <td>Productivity</td>
+        <td>Python</td>
+        <td><a href="https://hub.docker.com/r/caronc/apprise" target="_blank">Apprise API</a></td>
+        <td>A lightweight REST framework that wraps the Apprise Notification Library</td>
+        <th><a href="https://github.com/caronc/apprise-api" target="_blank"><img alt="Apprise API" src="https://img.shields.io/github/stars/caronc/apprise-api?style=social" /></a></th>
     </tr>
 
 </table>
