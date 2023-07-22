@@ -220,6 +220,14 @@
         <th><a href="https://github.com/guibranco/GuiStracini.SDKBuilder" target="_blank"><img alt="GuiStracini SDK Builder" src="https://img.shields.io/github/stars/guibranco/GuiStracini.SDKBuilder?style=social" /></a></th>
     </tr>
     <tr>
+        <td nowrap="nowrap"><img width="33" alt="Plugin.LocalNotification" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-Plugin.LocalNotification.jpg" /></td>
+        <td>Notifications</td>
+        <td>C#</td>
+        <td><a href="https://github.com/thudugala/Plugin.LocalNotification" target="_blank">Plugin.LocalNotification</a></td>
+        <td>The local notification plugin provides a way to show local notifications from .Net MAUI and Xamarin Forms apps .</td>
+        <th><a href="https://github.com/thudugala/Plugin.LocalNotification" target="_blank"><img alt="Plugin.LocalNotification" src="https://img.shields.io/github/stars/thudugala/Plugin.LocalNotification?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="doticons" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-doticons.jpg" /></td>
         <td>Miscellaneous</td>
         <td>undefined</td>
@@ -298,14 +306,6 @@
         <td><a href="https://hoppscotch.io" target="_blank">Hoppscotch</a></td>
         <td><g-emoji class="g-emoji" alias="alien" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f47d.png">?</g-emoji> Open source API development ecosystem - https://hoppscotch.io</td>
         <th><a href="https://github.com/hoppscotch/hoppscotch" target="_blank"><img alt="Hoppscotch" src="https://img.shields.io/github/stars/hoppscotch/hoppscotch?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="php-diff" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-php-diff.jpg" /></td>
-        <td>Productivity</td>
-        <td>PHP</td>
-        <td><a href="https://packagist.org/packages/jfcherng/php-diff" target="_blank">php-diff</a></td>
-        <td>A comprehensive library for generating differences between two strings in multiple formats (unified, side by side HTML etc).</td>
-        <th><a href="https://github.com/jfcherng/php-diff" target="_blank"><img alt="php-diff" src="https://img.shields.io/github/stars/jfcherng/php-diff?style=social" /></a></th>
     </tr>
 
 </table>
@@ -3908,6 +3908,14 @@
         <td><a href="https://github.com/NivEz/telenode" target="_blank">Telenode</a></td>
         <td>Lightweight Telegram API framework for Node.js</td>
         <th><a href="https://github.com/NivEz/telenode" target="_blank"><img alt="Telenode" src="https://img.shields.io/github/stars/NivEz/telenode?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Plugin.LocalNotification" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-Plugin.LocalNotification.jpg" /></td>
+        <td>Notifications</td>
+        <td>C#</td>
+        <td><a href="https://github.com/thudugala/Plugin.LocalNotification" target="_blank">Plugin.LocalNotification</a></td>
+        <td>The local notification plugin provides a way to show local notifications from .Net MAUI and Xamarin Forms apps .</td>
+        <th><a href="https://github.com/thudugala/Plugin.LocalNotification" target="_blank"><img alt="Plugin.LocalNotification" src="https://img.shields.io/github/stars/thudugala/Plugin.LocalNotification?style=social" /></a></th>
     </tr>
 
 </table>
@@ -7515,6 +7523,14 @@
         <td><a href="https://guibranco.github.io/GuiStracini.SDKBuilder/" target="_blank">GuiStracini SDK Builder</a></td>
         <td><g-emoji class="g-emoji" alias="construction" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f6a7.png">?</g-emoji> <g-emoji class="g-emoji" alias="gear" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2699.png">⚙️</g-emoji> A SDK framework that helps create a .NET SDK project for API wrappers/clients</td>
         <th><a href="https://github.com/guibranco/GuiStracini.SDKBuilder" target="_blank"><img alt="GuiStracini SDK Builder" src="https://img.shields.io/github/stars/guibranco/GuiStracini.SDKBuilder?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Plugin.LocalNotification" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-Plugin.LocalNotification.jpg" /></td>
+        <td>Notifications</td>
+        <td>C#</td>
+        <td><a href="https://github.com/thudugala/Plugin.LocalNotification" target="_blank">Plugin.LocalNotification</a></td>
+        <td>The local notification plugin provides a way to show local notifications from .Net MAUI and Xamarin Forms apps .</td>
+        <th><a href="https://github.com/thudugala/Plugin.LocalNotification" target="_blank"><img alt="Plugin.LocalNotification" src="https://img.shields.io/github/stars/thudugala/Plugin.LocalNotification?style=social" /></a></th>
     </tr>
 
 </table>
