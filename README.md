@@ -300,12 +300,12 @@
         <th><a href="https://github.com/MaJerle/stm32-cube-cmake-vscode" target="_blank"><img alt="STM32 CMake and vscode" src="https://img.shields.io/github/stars/MaJerle/stm32-cube-cmake-vscode?style=social" /></a></th>
     </tr>
     <tr>
-        <td nowrap="nowrap"><img width="33" alt="Twenty CRM" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-twenty.png" /></td>
-        <td>Miscellaneous</td>
-        <td>TypeScript</td>
-        <td><a href="https://twenty.com" target="_blank">Twenty CRM</a></td>
-        <td>Building a modern alternative to Salesforce. <g-emoji class="g-emoji" alias="star2" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f31f.png">?</g-emoji> You can star to support our work!</td>
-        <th><a href="https://github.com/twentyhq/twenty" target="_blank"><img alt="Twenty CRM" src="https://img.shields.io/github/stars/twentyhq/twenty?style=social" /></a></th>
+        <td nowrap="nowrap"><img width="33" alt="Cirrus" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-Cirrus.png" /></td>
+        <td>Productivity</td>
+        <td>SCSS</td>
+        <td><a href="https://www.cirrus-ui.com/" target="_blank">Cirrus</a></td>
+        <td><g-emoji class="g-emoji" alias="cloud" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2601.png">☁️</g-emoji> The SCSS framework for the modern web.</td>
+        <th><a href="https://github.com/Spiderpig86/Cirrus" target="_blank"><img alt="Cirrus" src="https://img.shields.io/github/stars/Spiderpig86/Cirrus?style=social" /></a></th>
     </tr>
 
 </table>
@@ -3253,6 +3253,30 @@
         <td>STM32, VSCode and CMake detailed tutorial</td>
         <th><a href="https://github.com/MaJerle/stm32-cube-cmake-vscode" target="_blank"><img alt="STM32 CMake and vscode" src="https://img.shields.io/github/stars/MaJerle/stm32-cube-cmake-vscode?style=social" /></a></th>
     </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Cirrus" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-Cirrus.png" /></td>
+        <td>Productivity</td>
+        <td>SCSS</td>
+        <td><a href="https://www.cirrus-ui.com/" target="_blank">Cirrus</a></td>
+        <td><g-emoji class="g-emoji" alias="cloud" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2601.png">☁️</g-emoji> The SCSS framework for the modern web.</td>
+        <th><a href="https://github.com/Spiderpig86/Cirrus" target="_blank"><img alt="Cirrus" src="https://img.shields.io/github/stars/Spiderpig86/Cirrus?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Cirrus Start" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-Cirrus-Start-1.png" /></td>
+        <td>Productivity</td>
+        <td>JavaScript</td>
+        <td><a href="https://github.com/Cirrus-UI/Cirrus-Start" target="_blank">Cirrus Start</a></td>
+        <td><g-emoji class="g-emoji" alias="zap" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/26a1.png">⚡</g-emoji> The fastest way to build, develop, and deploy your next project with Cirrus.</td>
+        <th><a href="https://github.com/Cirrus-UI/Cirrus-Start" target="_blank"><img alt="Cirrus Start" src="https://img.shields.io/github/stars/Cirrus-UI/Cirrus-Start?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Cirrus Intellisense" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-Cirrus-Intellisense.png" /></td>
+        <td>Productivity</td>
+        <td>TypeScript</td>
+        <td><a href="https://github.com/Cirrus-UI/Cirrus-Intellisense" target="_blank">Cirrus Intellisense</a></td>
+        <td><g-emoji class="g-emoji" alias="star2" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f31f.png">?</g-emoji> Next generation auto-complete for Cirrus CSS classes.</td>
+        <th><a href="https://github.com/Cirrus-UI/Cirrus-Intellisense" target="_blank"><img alt="Cirrus Intellisense" src="https://img.shields.io/github/stars/Cirrus-UI/Cirrus-Intellisense?style=social" /></a></th>
+    </tr>
 
 </table>
 
@@ -6072,6 +6096,14 @@
         <td>Azure Fundamentals AZ-900 Exam Questions</td>
         <th><a href="https://github.com/eduardconstantin/azure-fundamentals" target="_blank"><img alt="Azure Fundamentals Quiz" src="https://img.shields.io/github/stars/eduardconstantin/azure-fundamentals?style=social" /></a></th>
     </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Cirrus Intellisense" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-Cirrus-Intellisense.png" /></td>
+        <td>Productivity</td>
+        <td>TypeScript</td>
+        <td><a href="https://github.com/Cirrus-UI/Cirrus-Intellisense" target="_blank">Cirrus Intellisense</a></td>
+        <td><g-emoji class="g-emoji" alias="star2" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f31f.png">?</g-emoji> Next generation auto-complete for Cirrus CSS classes.</td>
+        <th><a href="https://github.com/Cirrus-UI/Cirrus-Intellisense" target="_blank"><img alt="Cirrus Intellisense" src="https://img.shields.io/github/stars/Cirrus-UI/Cirrus-Intellisense?style=social" /></a></th>
+    </tr>
 
 </table>
 
@@ -6907,6 +6939,14 @@
         <td><a href="https://floatui.com/" target="_blank">Float UI</a></td>
         <td>Beautiful and responsive UI components and templates for React and Vue (soon) with Tailwind CSS.</td>
         <th><a href="https://github.com/MarsX-dev/floatui" target="_blank"><img alt="Float UI" src="https://img.shields.io/github/stars/MarsX-dev/floatui?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Cirrus Start" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-Cirrus-Start-1.png" /></td>
+        <td>Productivity</td>
+        <td>JavaScript</td>
+        <td><a href="https://github.com/Cirrus-UI/Cirrus-Start" target="_blank">Cirrus Start</a></td>
+        <td><g-emoji class="g-emoji" alias="zap" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/26a1.png">⚡</g-emoji> The fastest way to build, develop, and deploy your next project with Cirrus.</td>
+        <th><a href="https://github.com/Cirrus-UI/Cirrus-Start" target="_blank"><img alt="Cirrus Start" src="https://img.shields.io/github/stars/Cirrus-UI/Cirrus-Start?style=social" /></a></th>
     </tr>
 
 </table>
@@ -8843,6 +8883,14 @@
         <td><a href="https://aquacss.netlify.com/" target="_blank">aqua.css</a></td>
         <td>An elegant CSS Framework.</td>
         <th><a href="https://github.com/alphardex/aqua.css" target="_blank"><img alt="aqua.css" src="https://img.shields.io/github/stars/alphardex/aqua.css?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Cirrus" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-Cirrus.png" /></td>
+        <td>Productivity</td>
+        <td>SCSS</td>
+        <td><a href="https://www.cirrus-ui.com/" target="_blank">Cirrus</a></td>
+        <td><g-emoji class="g-emoji" alias="cloud" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2601.png">☁️</g-emoji> The SCSS framework for the modern web.</td>
+        <th><a href="https://github.com/Spiderpig86/Cirrus" target="_blank"><img alt="Cirrus" src="https://img.shields.io/github/stars/Spiderpig86/Cirrus?style=social" /></a></th>
     </tr>
 
 </table>
