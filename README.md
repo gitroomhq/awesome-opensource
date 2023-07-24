@@ -164,6 +164,102 @@
         <th><a href="https://github.com/moigagoo/norm" target="_blank"><img alt="Norm" src="https://img.shields.io/github/stars/moigagoo/norm?style=social" /></a></th>
     </tr>
     <tr>
+        <td nowrap="nowrap"><img width="33" alt="django-admin-interface" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-django-admin-interface.jpg" /></td>
+        <td>Miscellaneous</td>
+        <td>CSS</td>
+        <td><a href="https://github.com/fabiocaccamo/django-admin-interface" target="_blank">django-admin-interface</a></td>
+        <td><g-emoji class="g-emoji" alias="superhero" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f9b8.png">?</g-emoji> <g-emoji class="g-emoji" alias="zap" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/26a1.png">⚡</g-emoji> django's default admin interface with superpowers - customizable themes, popup windows replaced by modals and many other features.</td>
+        <th><a href="https://github.com/fabiocaccamo/django-admin-interface" target="_blank"><img alt="django-admin-interface" src="https://img.shields.io/github/stars/fabiocaccamo/django-admin-interface?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="python-benedict" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-python-benedict.jpg" /></td>
+        <td>Miscellaneous</td>
+        <td>Python</td>
+        <td><a href="https://github.com/fabiocaccamo/python-benedict" target="_blank">python-benedict</a></td>
+        <td><g-emoji class="g-emoji" alias="blue_book" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4d8.png">?</g-emoji> dict subclass with keylist/keypath support, built-in I/O operations (base64, csv, ini, json, pickle, plist, query-string, toml, xls, xml, yaml), s3 support and many utilities.</td>
+        <th><a href="https://github.com/fabiocaccamo/python-benedict" target="_blank"><img alt="python-benedict" src="https://img.shields.io/github/stars/fabiocaccamo/python-benedict?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="django-colorfield" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-django-colorfield-1.jpg" /></td>
+        <td>Miscellaneous</td>
+        <td>Python</td>
+        <td><a href="https://github.com/fabiocaccamo/django-colorfield" target="_blank">django-colorfield</a></td>
+        <td><g-emoji class="g-emoji" alias="art" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f3a8.png">?</g-emoji> color field for django models with a nice color-picker in the admin.</td>
+        <th><a href="https://github.com/fabiocaccamo/django-colorfield" target="_blank"><img alt="django-colorfield" src="https://img.shields.io/github/stars/fabiocaccamo/django-colorfield?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="django-treenode" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-django-treenode.jpg" /></td>
+        <td>Miscellaneous</td>
+        <td>Python</td>
+        <td><a href="https://github.com/fabiocaccamo/django-treenode" target="_blank">django-treenode</a></td>
+        <td><g-emoji class="g-emoji" alias="deciduous_tree" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f333.png">?</g-emoji> probably the best abstract model/admin for your tree based stuff.</td>
+        <th><a href="https://github.com/fabiocaccamo/django-treenode" target="_blank"><img alt="django-treenode" src="https://img.shields.io/github/stars/fabiocaccamo/django-treenode?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="django-maintenance-mode" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-django-maintenance-mode.jpg" /></td>
+        <td>Miscellaneous</td>
+        <td>Python</td>
+        <td><a href="https://github.com/fabiocaccamo/django-maintenance-mode" target="_blank">django-maintenance-mode</a></td>
+        <td><g-emoji class="g-emoji" alias="construction" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f6a7.png">?</g-emoji> <g-emoji class="g-emoji" alias="hammer_and_wrench" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f6e0.png">?️</g-emoji> shows a 503 error page when maintenance-mode is on.</td>
+        <th><a href="https://github.com/fabiocaccamo/django-maintenance-mode" target="_blank"><img alt="django-maintenance-mode" src="https://img.shields.io/github/stars/fabiocaccamo/django-maintenance-mode?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="django-extra-settings" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-django-extra-settings-1.jpg" /></td>
+        <td>Miscellaneous</td>
+        <td>Python</td>
+        <td><a href="https://github.com/fabiocaccamo/django-extra-settings" target="_blank">django-extra-settings</a></td>
+        <td><g-emoji class="g-emoji" alias="gear" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2699.png">⚙️</g-emoji> config and manage typed extra settings using just the django admin.</td>
+        <th><a href="https://github.com/fabiocaccamo/django-extra-settings" target="_blank"><img alt="django-extra-settings" src="https://img.shields.io/github/stars/fabiocaccamo/django-extra-settings?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="python-fsutil" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-python-fsutil.jpg" /></td>
+        <td>Miscellaneous</td>
+        <td>Python</td>
+        <td><a href="https://github.com/fabiocaccamo/python-fsutil" target="_blank">python-fsutil</a></td>
+        <td><g-emoji class="g-emoji" alias="computer" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4bb.png">?</g-emoji> <g-emoji class="g-emoji" alias="wrench" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f527.png">?</g-emoji> high-level file-system operations for lazy devs.</td>
+        <th><a href="https://github.com/fabiocaccamo/python-fsutil" target="_blank"><img alt="python-fsutil" src="https://img.shields.io/github/stars/fabiocaccamo/python-fsutil?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="django-freeze" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-django-freeze.jpg" /></td>
+        <td>Miscellaneous</td>
+        <td>Python</td>
+        <td><a href="https://github.com/fabiocaccamo/django-freeze" target="_blank">django-freeze</a></td>
+        <td><g-emoji class="g-emoji" alias="ice_cube" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f9ca.png">?</g-emoji> convert your dynamic django site to a static one with one line of code.</td>
+        <th><a href="https://github.com/fabiocaccamo/django-freeze" target="_blank"><img alt="django-freeze" src="https://img.shields.io/github/stars/fabiocaccamo/django-freeze?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="python-codicefiscale" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-python-codicefiscale.jpg" /></td>
+        <td>Miscellaneous</td>
+        <td>Python</td>
+        <td><a href="https://github.com/fabiocaccamo/python-codicefiscale" target="_blank">python-codicefiscale</a></td>
+        <td><g-emoji class="g-emoji" alias="it" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f1ee-1f1f9.png">??</g-emoji> <g-emoji class="g-emoji" alias="credit_card" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4b3.png">?</g-emoji> italian fiscal codes encoding, decoding and validation - codifica, decodifica e validazione del Codice Fiscale italiano.</td>
+        <th><a href="https://github.com/fabiocaccamo/python-codicefiscale" target="_blank"><img alt="python-codicefiscale" src="https://img.shields.io/github/stars/fabiocaccamo/python-codicefiscale?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="django-redirects" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-django-redirects.jpg" /></td>
+        <td>Miscellaneous</td>
+        <td>Python</td>
+        <td><a href="https://github.com/fabiocaccamo/django-redirects" target="_blank">django-redirects</a></td>
+        <td> <g-emoji class="g-emoji" alias="arrow_right_hook" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/21aa.png">↪️</g-emoji> <g-emoji class="g-emoji" alias="white_check_mark" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2705.png">✅</g-emoji> redirects as they should be, with full control.</td>
+        <th><a href="https://github.com/fabiocaccamo/django-redirects" target="_blank"><img alt="django-redirects" src="https://img.shields.io/github/stars/fabiocaccamo/django-redirects?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="utils.js" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-utils.js.jpg" /></td>
+        <td>Miscellaneous</td>
+        <td>JavaScript</td>
+        <td><a href="https://github.com/fabiocaccamo/utils.js" target="_blank">utils.js</a></td>
+        <td><g-emoji class="g-emoji" alias="construction_worker" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f477.png">?</g-emoji> <g-emoji class="g-emoji" alias="wrench" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f527.png">?</g-emoji> zero dependencies vanilla JavaScript utils.</td>
+        <th><a href="https://github.com/fabiocaccamo/utils.js" target="_blank"><img alt="utils.js" src="https://img.shields.io/github/stars/fabiocaccamo/utils.js?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="FCUUID" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-FCUUID.jpg" /></td>
+        <td>Miscellaneous</td>
+        <td>Objective-C</td>
+        <td><a href="https://github.com/fabiocaccamo/FCUUID" target="_blank">FCUUID</a></td>
+        <td><g-emoji class="g-emoji" alias="iphone" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4f1.png">?</g-emoji> <g-emoji class="g-emoji" alias="id" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f194.png">?</g-emoji> iOS UUID / Universally Unique Identifiers library as alternative to UDID and identifierForVendor.</td>
+        <th><a href="https://github.com/fabiocaccamo/FCUUID" target="_blank"><img alt="FCUUID" src="https://img.shields.io/github/stars/fabiocaccamo/FCUUID?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="flutter_tilt" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-flutter_tilt.png" /></td>
         <td>Productivity</td>
         <td>Dart</td>
@@ -210,102 +306,6 @@
         <td><a href="https://github.com/MaJerle/lwutil" target="_blank">LwUTIL</a></td>
         <td>Versatile and easy to use C language utility library with functions and macros commonly used in various applications</td>
         <th><a href="https://github.com/MaJerle/lwutil" target="_blank"><img alt="LwUTIL" src="https://img.shields.io/github/stars/MaJerle/lwutil?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="LwSHELL" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-lwshell-1.jpg" /></td>
-        <td>Miscellaneous</td>
-        <td>C</td>
-        <td><a href="https://github.com/MaJerle/lwshell" target="_blank">LwSHELL</a></td>
-        <td>Lightweight shell implementation for embedded systems</td>
-        <th><a href="https://github.com/MaJerle/lwshell" target="_blank"><img alt="LwSHELL" src="https://img.shields.io/github/stars/MaJerle/lwshell?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="LwRB" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-lwrb.jpg" /></td>
-        <td>Productivity</td>
-        <td>C</td>
-        <td><a href="https://majerle.eu/projects/lwrb-lightweight-ring-buff" target="_blank">LwRB</a></td>
-        <td>Lightweight generic ring buffer manager library</td>
-        <th><a href="https://github.com/MaJerle/lwrb" target="_blank"><img alt="LwRB" src="https://img.shields.io/github/stars/MaJerle/lwrb?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="LwPRINTF" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-lwprintf.jpg" /></td>
-        <td>Miscellaneous</td>
-        <td>C</td>
-        <td><a href="https://majerle.eu/projects/lwprintf-lightweight-stdio-manager-printf-snprintf-vprintf-vsnprintf-sprintf" target="_blank">LwPRINTF</a></td>
-        <td>Lightweight printf library optimized for embedded systems</td>
-        <th><a href="https://github.com/MaJerle/lwprintf" target="_blank"><img alt="LwPRINTF" src="https://img.shields.io/github/stars/MaJerle/lwprintf?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="LwPKT" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-lwpkt.jpg" /></td>
-        <td>Productivity</td>
-        <td>C</td>
-        <td><a href="https://majerle.eu/projects/lwpkt-lightweight-packet-protocol-manager" target="_blank">LwPKT</a></td>
-        <td>Lightweight packet protocol structure for multi-device communication focused on RS-485</td>
-        <th><a href="https://github.com/MaJerle/lwpkt" target="_blank"><img alt="LwPKT" src="https://img.shields.io/github/stars/MaJerle/lwpkt?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="LwOW" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-lwow.jpg" /></td>
-        <td>Miscellaneous</td>
-        <td>C</td>
-        <td><a href="https://majerle.eu/projects/lwow-one-wire-uart-communication" target="_blank">LwOW</a></td>
-        <td>Lightweight onewire protocol library optimized for UART hardware on embedded systems</td>
-        <th><a href="https://github.com/MaJerle/lwow" target="_blank"><img alt="LwOW" src="https://img.shields.io/github/stars/MaJerle/lwow?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="LwMEM" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-lwmem.jpg" /></td>
-        <td>Miscellaneous</td>
-        <td>C</td>
-        <td><a href="https://majerle.eu/projects/lwmem-lightweight-dynamic-memory-manager" target="_blank">LwMEM</a></td>
-        <td>Lightweight dynamic memory manager library for embedded systems with memory constraints. It implements malloc, calloc, realloc and free functions</td>
-        <th><a href="https://github.com/MaJerle/lwmem" target="_blank"><img alt="LwMEM" src="https://img.shields.io/github/stars/MaJerle/lwmem?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="LwJSON" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-lwjson.jpg" /></td>
-        <td>Miscellaneous</td>
-        <td>C</td>
-        <td><a href="https://majerle.eu/projects/lwjson-lightweight-json-parser" target="_blank">LwJSON</a></td>
-        <td>Lightweight JSON parser for embedded systems</td>
-        <th><a href="https://github.com/MaJerle/lwjson" target="_blank"><img alt="LwJSON" src="https://img.shields.io/github/stars/MaJerle/lwjson?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="LwGPS" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-lwgps-1.jpg" /></td>
-        <td>Productivity</td>
-        <td>C</td>
-        <td><a href="https://github.com/MaJerle/lwgps" target="_blank">LwGPS</a></td>
-        <td>Lightweight GPS NMEA parser for embedded systems</td>
-        <th><a href="https://github.com/MaJerle/lwgps" target="_blank"><img alt="LwGPS" src="https://img.shields.io/github/stars/MaJerle/lwgps?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="LwEVT" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-lwevt-1.jpg" /></td>
-        <td>Productivity</td>
-        <td>C</td>
-        <td><a href="https://github.com/MaJerle/lwevt" target="_blank">LwEVT</a></td>
-        <td>Lightweight event management system for embedded systems</td>
-        <th><a href="https://github.com/MaJerle/lwevt" target="_blank"><img alt="LwEVT" src="https://img.shields.io/github/stars/MaJerle/lwevt?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="LwDTC" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-lwdtc-1.jpg" /></td>
-        <td>Miscellaneous</td>
-        <td>C</td>
-        <td><a href="https://docs.majerle.eu/projects/lwdtc/en/latest/" target="_blank">LwDTC</a></td>
-        <td>Lightweight date, time &amp; cron utilities for embedded systems</td>
-        <th><a href="https://github.com/MaJerle/lwdtc" target="_blank"><img alt="LwDTC" src="https://img.shields.io/github/stars/MaJerle/lwdtc?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="LwBTN" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-lwbtn.jpg" /></td>
-        <td>Miscellaneous</td>
-        <td>C</td>
-        <td><a href="https://github.com/MaJerle/lwbtn" target="_blank">LwBTN</a></td>
-        <td>Lightweight button handler for embedded systems</td>
-        <th><a href="https://github.com/MaJerle/lwbtn" target="_blank"><img alt="LwBTN" src="https://img.shields.io/github/stars/MaJerle/lwbtn?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="C code style" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-c-code-style.jpg" /></td>
-        <td>Productivity</td>
-        <td>Python</td>
-        <td><a href="http://majerle.eu" target="_blank">C code style</a></td>
-        <td>Recommended C code style and coding rules for standard C99 or later</td>
-        <th><a href="https://github.com/MaJerle/c-code-style" target="_blank"><img alt="C code style" src="https://img.shields.io/github/stars/MaJerle/c-code-style?style=social" /></a></th>
     </tr>
 
 </table>
@@ -1760,6 +1760,102 @@
         <td><a href="https://github.com/MaJerle/lwbtn" target="_blank">LwBTN</a></td>
         <td>Lightweight button handler for embedded systems</td>
         <th><a href="https://github.com/MaJerle/lwbtn" target="_blank"><img alt="LwBTN" src="https://img.shields.io/github/stars/MaJerle/lwbtn?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="django-admin-interface" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-django-admin-interface.jpg" /></td>
+        <td>Miscellaneous</td>
+        <td>CSS</td>
+        <td><a href="https://github.com/fabiocaccamo/django-admin-interface" target="_blank">django-admin-interface</a></td>
+        <td><g-emoji class="g-emoji" alias="superhero" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f9b8.png">?</g-emoji> <g-emoji class="g-emoji" alias="zap" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/26a1.png">⚡</g-emoji> django's default admin interface with superpowers - customizable themes, popup windows replaced by modals and many other features.</td>
+        <th><a href="https://github.com/fabiocaccamo/django-admin-interface" target="_blank"><img alt="django-admin-interface" src="https://img.shields.io/github/stars/fabiocaccamo/django-admin-interface?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="python-benedict" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-python-benedict.jpg" /></td>
+        <td>Miscellaneous</td>
+        <td>Python</td>
+        <td><a href="https://github.com/fabiocaccamo/python-benedict" target="_blank">python-benedict</a></td>
+        <td><g-emoji class="g-emoji" alias="blue_book" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4d8.png">?</g-emoji> dict subclass with keylist/keypath support, built-in I/O operations (base64, csv, ini, json, pickle, plist, query-string, toml, xls, xml, yaml), s3 support and many utilities.</td>
+        <th><a href="https://github.com/fabiocaccamo/python-benedict" target="_blank"><img alt="python-benedict" src="https://img.shields.io/github/stars/fabiocaccamo/python-benedict?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="django-colorfield" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-django-colorfield-1.jpg" /></td>
+        <td>Miscellaneous</td>
+        <td>Python</td>
+        <td><a href="https://github.com/fabiocaccamo/django-colorfield" target="_blank">django-colorfield</a></td>
+        <td><g-emoji class="g-emoji" alias="art" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f3a8.png">?</g-emoji> color field for django models with a nice color-picker in the admin.</td>
+        <th><a href="https://github.com/fabiocaccamo/django-colorfield" target="_blank"><img alt="django-colorfield" src="https://img.shields.io/github/stars/fabiocaccamo/django-colorfield?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="django-treenode" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-django-treenode.jpg" /></td>
+        <td>Miscellaneous</td>
+        <td>Python</td>
+        <td><a href="https://github.com/fabiocaccamo/django-treenode" target="_blank">django-treenode</a></td>
+        <td><g-emoji class="g-emoji" alias="deciduous_tree" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f333.png">?</g-emoji> probably the best abstract model/admin for your tree based stuff.</td>
+        <th><a href="https://github.com/fabiocaccamo/django-treenode" target="_blank"><img alt="django-treenode" src="https://img.shields.io/github/stars/fabiocaccamo/django-treenode?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="django-maintenance-mode" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-django-maintenance-mode.jpg" /></td>
+        <td>Miscellaneous</td>
+        <td>Python</td>
+        <td><a href="https://github.com/fabiocaccamo/django-maintenance-mode" target="_blank">django-maintenance-mode</a></td>
+        <td><g-emoji class="g-emoji" alias="construction" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f6a7.png">?</g-emoji> <g-emoji class="g-emoji" alias="hammer_and_wrench" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f6e0.png">?️</g-emoji> shows a 503 error page when maintenance-mode is on.</td>
+        <th><a href="https://github.com/fabiocaccamo/django-maintenance-mode" target="_blank"><img alt="django-maintenance-mode" src="https://img.shields.io/github/stars/fabiocaccamo/django-maintenance-mode?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="django-extra-settings" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-django-extra-settings-1.jpg" /></td>
+        <td>Miscellaneous</td>
+        <td>Python</td>
+        <td><a href="https://github.com/fabiocaccamo/django-extra-settings" target="_blank">django-extra-settings</a></td>
+        <td><g-emoji class="g-emoji" alias="gear" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2699.png">⚙️</g-emoji> config and manage typed extra settings using just the django admin.</td>
+        <th><a href="https://github.com/fabiocaccamo/django-extra-settings" target="_blank"><img alt="django-extra-settings" src="https://img.shields.io/github/stars/fabiocaccamo/django-extra-settings?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="python-fsutil" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-python-fsutil.jpg" /></td>
+        <td>Miscellaneous</td>
+        <td>Python</td>
+        <td><a href="https://github.com/fabiocaccamo/python-fsutil" target="_blank">python-fsutil</a></td>
+        <td><g-emoji class="g-emoji" alias="computer" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4bb.png">?</g-emoji> <g-emoji class="g-emoji" alias="wrench" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f527.png">?</g-emoji> high-level file-system operations for lazy devs.</td>
+        <th><a href="https://github.com/fabiocaccamo/python-fsutil" target="_blank"><img alt="python-fsutil" src="https://img.shields.io/github/stars/fabiocaccamo/python-fsutil?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="django-freeze" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-django-freeze.jpg" /></td>
+        <td>Miscellaneous</td>
+        <td>Python</td>
+        <td><a href="https://github.com/fabiocaccamo/django-freeze" target="_blank">django-freeze</a></td>
+        <td><g-emoji class="g-emoji" alias="ice_cube" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f9ca.png">?</g-emoji> convert your dynamic django site to a static one with one line of code.</td>
+        <th><a href="https://github.com/fabiocaccamo/django-freeze" target="_blank"><img alt="django-freeze" src="https://img.shields.io/github/stars/fabiocaccamo/django-freeze?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="python-codicefiscale" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-python-codicefiscale.jpg" /></td>
+        <td>Miscellaneous</td>
+        <td>Python</td>
+        <td><a href="https://github.com/fabiocaccamo/python-codicefiscale" target="_blank">python-codicefiscale</a></td>
+        <td><g-emoji class="g-emoji" alias="it" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f1ee-1f1f9.png">??</g-emoji> <g-emoji class="g-emoji" alias="credit_card" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4b3.png">?</g-emoji> italian fiscal codes encoding, decoding and validation - codifica, decodifica e validazione del Codice Fiscale italiano.</td>
+        <th><a href="https://github.com/fabiocaccamo/python-codicefiscale" target="_blank"><img alt="python-codicefiscale" src="https://img.shields.io/github/stars/fabiocaccamo/python-codicefiscale?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="django-redirects" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-django-redirects.jpg" /></td>
+        <td>Miscellaneous</td>
+        <td>Python</td>
+        <td><a href="https://github.com/fabiocaccamo/django-redirects" target="_blank">django-redirects</a></td>
+        <td> <g-emoji class="g-emoji" alias="arrow_right_hook" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/21aa.png">↪️</g-emoji> <g-emoji class="g-emoji" alias="white_check_mark" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2705.png">✅</g-emoji> redirects as they should be, with full control.</td>
+        <th><a href="https://github.com/fabiocaccamo/django-redirects" target="_blank"><img alt="django-redirects" src="https://img.shields.io/github/stars/fabiocaccamo/django-redirects?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="utils.js" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-utils.js.jpg" /></td>
+        <td>Miscellaneous</td>
+        <td>JavaScript</td>
+        <td><a href="https://github.com/fabiocaccamo/utils.js" target="_blank">utils.js</a></td>
+        <td><g-emoji class="g-emoji" alias="construction_worker" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f477.png">?</g-emoji> <g-emoji class="g-emoji" alias="wrench" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f527.png">?</g-emoji> zero dependencies vanilla JavaScript utils.</td>
+        <th><a href="https://github.com/fabiocaccamo/utils.js" target="_blank"><img alt="utils.js" src="https://img.shields.io/github/stars/fabiocaccamo/utils.js?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="FCUUID" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-FCUUID.jpg" /></td>
+        <td>Miscellaneous</td>
+        <td>Objective-C</td>
+        <td><a href="https://github.com/fabiocaccamo/FCUUID" target="_blank">FCUUID</a></td>
+        <td><g-emoji class="g-emoji" alias="iphone" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4f1.png">?</g-emoji> <g-emoji class="g-emoji" alias="id" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f194.png">?</g-emoji> iOS UUID / Universally Unique Identifiers library as alternative to UDID and identifierForVendor.</td>
+        <th><a href="https://github.com/fabiocaccamo/FCUUID" target="_blank"><img alt="FCUUID" src="https://img.shields.io/github/stars/fabiocaccamo/FCUUID?style=social" /></a></th>
     </tr>
 
 </table>
@@ -6964,6 +7060,14 @@
         <td><g-emoji class="g-emoji" alias="zap" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/26a1.png">⚡</g-emoji> The fastest way to build, develop, and deploy your next project with Cirrus.</td>
         <th><a href="https://github.com/Cirrus-UI/Cirrus-Start" target="_blank"><img alt="Cirrus Start" src="https://img.shields.io/github/stars/Cirrus-UI/Cirrus-Start?style=social" /></a></th>
     </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="utils.js" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-utils.js.jpg" /></td>
+        <td>Miscellaneous</td>
+        <td>JavaScript</td>
+        <td><a href="https://github.com/fabiocaccamo/utils.js" target="_blank">utils.js</a></td>
+        <td><g-emoji class="g-emoji" alias="construction_worker" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f477.png">?</g-emoji> <g-emoji class="g-emoji" alias="wrench" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f527.png">?</g-emoji> zero dependencies vanilla JavaScript utils.</td>
+        <th><a href="https://github.com/fabiocaccamo/utils.js" target="_blank"><img alt="utils.js" src="https://img.shields.io/github/stars/fabiocaccamo/utils.js?style=social" /></a></th>
+    </tr>
 
 </table>
 
@@ -8168,6 +8272,78 @@
         <td>Recommended C code style and coding rules for standard C99 or later</td>
         <th><a href="https://github.com/MaJerle/c-code-style" target="_blank"><img alt="C code style" src="https://img.shields.io/github/stars/MaJerle/c-code-style?style=social" /></a></th>
     </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="python-benedict" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-python-benedict.jpg" /></td>
+        <td>Miscellaneous</td>
+        <td>Python</td>
+        <td><a href="https://github.com/fabiocaccamo/python-benedict" target="_blank">python-benedict</a></td>
+        <td><g-emoji class="g-emoji" alias="blue_book" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4d8.png">?</g-emoji> dict subclass with keylist/keypath support, built-in I/O operations (base64, csv, ini, json, pickle, plist, query-string, toml, xls, xml, yaml), s3 support and many utilities.</td>
+        <th><a href="https://github.com/fabiocaccamo/python-benedict" target="_blank"><img alt="python-benedict" src="https://img.shields.io/github/stars/fabiocaccamo/python-benedict?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="django-colorfield" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-django-colorfield-1.jpg" /></td>
+        <td>Miscellaneous</td>
+        <td>Python</td>
+        <td><a href="https://github.com/fabiocaccamo/django-colorfield" target="_blank">django-colorfield</a></td>
+        <td><g-emoji class="g-emoji" alias="art" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f3a8.png">?</g-emoji> color field for django models with a nice color-picker in the admin.</td>
+        <th><a href="https://github.com/fabiocaccamo/django-colorfield" target="_blank"><img alt="django-colorfield" src="https://img.shields.io/github/stars/fabiocaccamo/django-colorfield?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="django-treenode" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-django-treenode.jpg" /></td>
+        <td>Miscellaneous</td>
+        <td>Python</td>
+        <td><a href="https://github.com/fabiocaccamo/django-treenode" target="_blank">django-treenode</a></td>
+        <td><g-emoji class="g-emoji" alias="deciduous_tree" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f333.png">?</g-emoji> probably the best abstract model/admin for your tree based stuff.</td>
+        <th><a href="https://github.com/fabiocaccamo/django-treenode" target="_blank"><img alt="django-treenode" src="https://img.shields.io/github/stars/fabiocaccamo/django-treenode?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="django-maintenance-mode" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-django-maintenance-mode.jpg" /></td>
+        <td>Miscellaneous</td>
+        <td>Python</td>
+        <td><a href="https://github.com/fabiocaccamo/django-maintenance-mode" target="_blank">django-maintenance-mode</a></td>
+        <td><g-emoji class="g-emoji" alias="construction" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f6a7.png">?</g-emoji> <g-emoji class="g-emoji" alias="hammer_and_wrench" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f6e0.png">?️</g-emoji> shows a 503 error page when maintenance-mode is on.</td>
+        <th><a href="https://github.com/fabiocaccamo/django-maintenance-mode" target="_blank"><img alt="django-maintenance-mode" src="https://img.shields.io/github/stars/fabiocaccamo/django-maintenance-mode?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="django-extra-settings" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-django-extra-settings-1.jpg" /></td>
+        <td>Miscellaneous</td>
+        <td>Python</td>
+        <td><a href="https://github.com/fabiocaccamo/django-extra-settings" target="_blank">django-extra-settings</a></td>
+        <td><g-emoji class="g-emoji" alias="gear" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2699.png">⚙️</g-emoji> config and manage typed extra settings using just the django admin.</td>
+        <th><a href="https://github.com/fabiocaccamo/django-extra-settings" target="_blank"><img alt="django-extra-settings" src="https://img.shields.io/github/stars/fabiocaccamo/django-extra-settings?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="python-fsutil" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-python-fsutil.jpg" /></td>
+        <td>Miscellaneous</td>
+        <td>Python</td>
+        <td><a href="https://github.com/fabiocaccamo/python-fsutil" target="_blank">python-fsutil</a></td>
+        <td><g-emoji class="g-emoji" alias="computer" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4bb.png">?</g-emoji> <g-emoji class="g-emoji" alias="wrench" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f527.png">?</g-emoji> high-level file-system operations for lazy devs.</td>
+        <th><a href="https://github.com/fabiocaccamo/python-fsutil" target="_blank"><img alt="python-fsutil" src="https://img.shields.io/github/stars/fabiocaccamo/python-fsutil?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="django-freeze" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-django-freeze.jpg" /></td>
+        <td>Miscellaneous</td>
+        <td>Python</td>
+        <td><a href="https://github.com/fabiocaccamo/django-freeze" target="_blank">django-freeze</a></td>
+        <td><g-emoji class="g-emoji" alias="ice_cube" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f9ca.png">?</g-emoji> convert your dynamic django site to a static one with one line of code.</td>
+        <th><a href="https://github.com/fabiocaccamo/django-freeze" target="_blank"><img alt="django-freeze" src="https://img.shields.io/github/stars/fabiocaccamo/django-freeze?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="python-codicefiscale" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-python-codicefiscale.jpg" /></td>
+        <td>Miscellaneous</td>
+        <td>Python</td>
+        <td><a href="https://github.com/fabiocaccamo/python-codicefiscale" target="_blank">python-codicefiscale</a></td>
+        <td><g-emoji class="g-emoji" alias="it" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f1ee-1f1f9.png">??</g-emoji> <g-emoji class="g-emoji" alias="credit_card" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4b3.png">?</g-emoji> italian fiscal codes encoding, decoding and validation - codifica, decodifica e validazione del Codice Fiscale italiano.</td>
+        <th><a href="https://github.com/fabiocaccamo/python-codicefiscale" target="_blank"><img alt="python-codicefiscale" src="https://img.shields.io/github/stars/fabiocaccamo/python-codicefiscale?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="django-redirects" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-django-redirects.jpg" /></td>
+        <td>Miscellaneous</td>
+        <td>Python</td>
+        <td><a href="https://github.com/fabiocaccamo/django-redirects" target="_blank">django-redirects</a></td>
+        <td> <g-emoji class="g-emoji" alias="arrow_right_hook" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/21aa.png">↪️</g-emoji> <g-emoji class="g-emoji" alias="white_check_mark" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2705.png">✅</g-emoji> redirects as they should be, with full control.</td>
+        <th><a href="https://github.com/fabiocaccamo/django-redirects" target="_blank"><img alt="django-redirects" src="https://img.shields.io/github/stars/fabiocaccamo/django-redirects?style=social" /></a></th>
+    </tr>
 
 </table>
 
@@ -8823,6 +8999,14 @@
         <td><a href="https://sighingnow.github.io/jekyll-gitbook" target="_blank">jekyll-gitbook</a></td>
         <td>Build Jekyll site with GitBook style!</td>
         <th><a href="https://github.com/sighingnow/jekyll-gitbook" target="_blank"><img alt="jekyll-gitbook" src="https://img.shields.io/github/stars/sighingnow/jekyll-gitbook?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="django-admin-interface" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-django-admin-interface.jpg" /></td>
+        <td>Miscellaneous</td>
+        <td>CSS</td>
+        <td><a href="https://github.com/fabiocaccamo/django-admin-interface" target="_blank">django-admin-interface</a></td>
+        <td><g-emoji class="g-emoji" alias="superhero" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f9b8.png">?</g-emoji> <g-emoji class="g-emoji" alias="zap" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/26a1.png">⚡</g-emoji> django's default admin interface with superpowers - customizable themes, popup windows replaced by modals and many other features.</td>
+        <th><a href="https://github.com/fabiocaccamo/django-admin-interface" target="_blank"><img alt="django-admin-interface" src="https://img.shields.io/github/stars/fabiocaccamo/django-admin-interface?style=social" /></a></th>
     </tr>
 
 </table>
@@ -9559,6 +9743,14 @@
         <td><a href="http://google.github.io/EarlGrey/" target="_blank">EarlGrey Reference</a></td>
         <td><g-emoji class="g-emoji" alias="tea" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f375.png">?</g-emoji> iOS UI Automation Test Framework</td>
         <th><a href="https://github.com/google/EarlGrey" target="_blank"><img alt="EarlGrey Reference" src="https://img.shields.io/github/stars/google/EarlGrey?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="FCUUID" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-FCUUID.jpg" /></td>
+        <td>Miscellaneous</td>
+        <td>Objective-C</td>
+        <td><a href="https://github.com/fabiocaccamo/FCUUID" target="_blank">FCUUID</a></td>
+        <td><g-emoji class="g-emoji" alias="iphone" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4f1.png">?</g-emoji> <g-emoji class="g-emoji" alias="id" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f194.png">?</g-emoji> iOS UUID / Universally Unique Identifiers library as alternative to UDID and identifierForVendor.</td>
+        <th><a href="https://github.com/fabiocaccamo/FCUUID" target="_blank"><img alt="FCUUID" src="https://img.shields.io/github/stars/fabiocaccamo/FCUUID?style=social" /></a></th>
     </tr>
 
 </table>
