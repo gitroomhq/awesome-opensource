@@ -148,6 +148,14 @@
         <th>Stargazers</th>
     </tr>
         <tr>
+        <td nowrap="nowrap"><img width="33" alt="Bard Shell" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-Bard-Shell.jpg" /></td>
+        <td>Productivity</td>
+        <td>Python</td>
+        <td><a href="https://github.com/kshitijaucharmal/Bard-Shell" target="_blank">Bard Shell</a></td>
+        <td>Bard-Shell is a utility that allows you to use google's Bard ai in the linux terminal</td>
+        <th><a href="https://github.com/kshitijaucharmal/Bard-Shell" target="_blank"><img alt="Bard Shell" src="https://img.shields.io/github/stars/kshitijaucharmal/Bard-Shell?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="flutter_tilt" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-flutter_tilt.png" /></td>
         <td>Productivity</td>
         <td>Dart</td>
@@ -298,14 +306,6 @@
         <td><a href="https://github.com/MaJerle/stm32-cube-cmake-vscode" target="_blank">STM32 CMake and vscode</a></td>
         <td>STM32, VSCode and CMake detailed tutorial</td>
         <th><a href="https://github.com/MaJerle/stm32-cube-cmake-vscode" target="_blank"><img alt="STM32 CMake and vscode" src="https://img.shields.io/github/stars/MaJerle/stm32-cube-cmake-vscode?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Cirrus" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-Cirrus.png" /></td>
-        <td>Productivity</td>
-        <td>SCSS</td>
-        <td><a href="https://www.cirrus-ui.com/" target="_blank">Cirrus</a></td>
-        <td><g-emoji class="g-emoji" alias="cloud" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2601.png">☁️</g-emoji> The SCSS framework for the modern web.</td>
-        <th><a href="https://github.com/Spiderpig86/Cirrus" target="_blank"><img alt="Cirrus" src="https://img.shields.io/github/stars/Spiderpig86/Cirrus?style=social" /></a></th>
     </tr>
 
 </table>
@@ -3276,6 +3276,14 @@
         <td><a href="https://github.com/Cirrus-UI/Cirrus-Intellisense" target="_blank">Cirrus Intellisense</a></td>
         <td><g-emoji class="g-emoji" alias="star2" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f31f.png">?</g-emoji> Next generation auto-complete for Cirrus CSS classes.</td>
         <th><a href="https://github.com/Cirrus-UI/Cirrus-Intellisense" target="_blank"><img alt="Cirrus Intellisense" src="https://img.shields.io/github/stars/Cirrus-UI/Cirrus-Intellisense?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Bard Shell" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-Bard-Shell.jpg" /></td>
+        <td>Productivity</td>
+        <td>Python</td>
+        <td><a href="https://github.com/kshitijaucharmal/Bard-Shell" target="_blank">Bard Shell</a></td>
+        <td>Bard-Shell is a utility that allows you to use google's Bard ai in the linux terminal</td>
+        <th><a href="https://github.com/kshitijaucharmal/Bard-Shell" target="_blank"><img alt="Bard Shell" src="https://img.shields.io/github/stars/kshitijaucharmal/Bard-Shell?style=social" /></a></th>
     </tr>
 
 </table>
@@ -8143,6 +8151,14 @@
         <td><a href="http://majerle.eu" target="_blank">C code style</a></td>
         <td>Recommended C code style and coding rules for standard C99 or later</td>
         <th><a href="https://github.com/MaJerle/c-code-style" target="_blank"><img alt="C code style" src="https://img.shields.io/github/stars/MaJerle/c-code-style?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Bard Shell" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-Bard-Shell.jpg" /></td>
+        <td>Productivity</td>
+        <td>Python</td>
+        <td><a href="https://github.com/kshitijaucharmal/Bard-Shell" target="_blank">Bard Shell</a></td>
+        <td>Bard-Shell is a utility that allows you to use google's Bard ai in the linux terminal</td>
+        <th><a href="https://github.com/kshitijaucharmal/Bard-Shell" target="_blank"><img alt="Bard Shell" src="https://img.shields.io/github/stars/kshitijaucharmal/Bard-Shell?style=social" /></a></th>
     </tr>
 
 </table>
