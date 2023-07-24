@@ -156,6 +156,14 @@
         <th><a href="https://github.com/kshitijaucharmal/Bard-Shell" target="_blank"><img alt="Bard Shell" src="https://img.shields.io/github/stars/kshitijaucharmal/Bard-Shell?style=social" /></a></th>
     </tr>
     <tr>
+        <td nowrap="nowrap"><img width="33" alt="Norm" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-norm.jpg" /></td>
+        <td>Databases</td>
+        <td>Nim</td>
+        <td><a href="https://norm.nim.town" target="_blank">Norm</a></td>
+        <td>A Nim ORM for SQLite and Postgres</td>
+        <th><a href="https://github.com/moigagoo/norm" target="_blank"><img alt="Norm" src="https://img.shields.io/github/stars/moigagoo/norm?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="flutter_tilt" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-flutter_tilt.png" /></td>
         <td>Productivity</td>
         <td>Dart</td>
@@ -298,14 +306,6 @@
         <td><a href="http://majerle.eu" target="_blank">C code style</a></td>
         <td>Recommended C code style and coding rules for standard C99 or later</td>
         <th><a href="https://github.com/MaJerle/c-code-style" target="_blank"><img alt="C code style" src="https://img.shields.io/github/stars/MaJerle/c-code-style?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="STM32 CMake and vscode" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-stm32-cube-cmake-vscode.jpg" /></td>
-        <td>Productivity</td>
-        <td>C</td>
-        <td><a href="https://github.com/MaJerle/stm32-cube-cmake-vscode" target="_blank">STM32 CMake and vscode</a></td>
-        <td>STM32, VSCode and CMake detailed tutorial</td>
-        <th><a href="https://github.com/MaJerle/stm32-cube-cmake-vscode" target="_blank"><img alt="STM32 CMake and vscode" src="https://img.shields.io/github/stars/MaJerle/stm32-cube-cmake-vscode?style=social" /></a></th>
     </tr>
 
 </table>
@@ -1107,20 +1107,20 @@
         <th><a href="https://github.com/geeknik/tiny-python-scripts" target="_blank"><img alt="Tiny Python Scripts" src="https://img.shields.io/github/stars/geeknik/tiny-python-scripts?style=social" /></a></th>
     </tr>
     <tr>
+        <td nowrap="nowrap"><img width="33" alt="Bard Shell" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-Bard-Shell.jpg" /></td>
+        <td>Productivity</td>
+        <td>Python</td>
+        <td><a href="https://github.com/kshitijaucharmal/Bard-Shell" target="_blank">Bard Shell</a></td>
+        <td>Bard-Shell is a utility that allows you to use google's Bard ai in the linux terminal</td>
+        <th><a href="https://github.com/kshitijaucharmal/Bard-Shell" target="_blank"><img alt="Bard Shell" src="https://img.shields.io/github/stars/kshitijaucharmal/Bard-Shell?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="ClusterFuzz" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-clusterfuzz.png" /></td>
         <td>Infrastructure</td>
         <td>Python</td>
         <td><a href="https://google.github.io/clusterfuzz" target="_blank">ClusterFuzz</a></td>
         <td>Scalable fuzzing infrastructure.</td>
         <th><a href="https://github.com/google/clusterfuzz" target="_blank"><img alt="ClusterFuzz" src="https://img.shields.io/github/stars/google/clusterfuzz?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="VS Code Docs" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-vscode-docs.png" /></td>
-        <td>Productivity</td>
-        <td>CSS</td>
-        <td><a href="http://code.visualstudio.com/docs" target="_blank">VS Code Docs</a></td>
-        <td>Public documentation for Visual Studio Code</td>
-        <th><a href="https://github.com/microsoft/vscode-docs" target="_blank"><img alt="VS Code Docs" src="https://img.shields.io/github/stars/microsoft/vscode-docs?style=social" /></a></th>
     </tr>
 
 </table>
@@ -2214,6 +2214,14 @@
         <th><a href="https://github.com/aregtech/areg-sdk" target="_blank"><img alt="areg engine" src="https://img.shields.io/github/stars/aregtech/areg-sdk?style=social" /></a></th>
     </tr>
     <tr>
+        <td nowrap="nowrap"><img width="33" alt="Bard Shell" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-Bard-Shell.jpg" /></td>
+        <td>Productivity</td>
+        <td>Python</td>
+        <td><a href="https://github.com/kshitijaucharmal/Bard-Shell" target="_blank">Bard Shell</a></td>
+        <td>Bard-Shell is a utility that allows you to use google's Bard ai in the linux terminal</td>
+        <th><a href="https://github.com/kshitijaucharmal/Bard-Shell" target="_blank"><img alt="Bard Shell" src="https://img.shields.io/github/stars/kshitijaucharmal/Bard-Shell?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="VS Code Docs" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-vscode-docs.png" /></td>
         <td>Productivity</td>
         <td>CSS</td>
@@ -3277,14 +3285,6 @@
         <td><g-emoji class="g-emoji" alias="star2" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f31f.png">?</g-emoji> Next generation auto-complete for Cirrus CSS classes.</td>
         <th><a href="https://github.com/Cirrus-UI/Cirrus-Intellisense" target="_blank"><img alt="Cirrus Intellisense" src="https://img.shields.io/github/stars/Cirrus-UI/Cirrus-Intellisense?style=social" /></a></th>
     </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Bard Shell" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-Bard-Shell.jpg" /></td>
-        <td>Productivity</td>
-        <td>Python</td>
-        <td><a href="https://github.com/kshitijaucharmal/Bard-Shell" target="_blank">Bard Shell</a></td>
-        <td>Bard-Shell is a utility that allows you to use google's Bard ai in the linux terminal</td>
-        <th><a href="https://github.com/kshitijaucharmal/Bard-Shell" target="_blank"><img alt="Bard Shell" src="https://img.shields.io/github/stars/kshitijaucharmal/Bard-Shell?style=social" /></a></th>
-    </tr>
 
 </table>
 
@@ -4282,6 +4282,14 @@
         <td><a href="https://bob.stephenafamo.com" target="_blank">Bob</a></td>
         <td>SQL query builder and ORM/Factory generator for Go with support for PostgreSQL, MySQL and SQLite</td>
         <th><a href="https://github.com/stephenafamo/bob" target="_blank"><img alt="Bob" src="https://img.shields.io/github/stars/stephenafamo/bob?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Norm" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-norm.jpg" /></td>
+        <td>Databases</td>
+        <td>Nim</td>
+        <td><a href="https://norm.nim.town" target="_blank">Norm</a></td>
+        <td>A Nim ORM for SQLite and Postgres</td>
+        <th><a href="https://github.com/moigagoo/norm" target="_blank"><img alt="Norm" src="https://img.shields.io/github/stars/moigagoo/norm?style=social" /></a></th>
     </tr>
 
 </table>
@@ -7833,6 +7841,14 @@
         <th><a href="https://github.com/geeknik/tiny-python-scripts" target="_blank"><img alt="Tiny Python Scripts" src="https://img.shields.io/github/stars/geeknik/tiny-python-scripts?style=social" /></a></th>
     </tr>
     <tr>
+        <td nowrap="nowrap"><img width="33" alt="Bard Shell" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-Bard-Shell.jpg" /></td>
+        <td>Productivity</td>
+        <td>Python</td>
+        <td><a href="https://github.com/kshitijaucharmal/Bard-Shell" target="_blank">Bard Shell</a></td>
+        <td>Bard-Shell is a utility that allows you to use google's Bard ai in the linux terminal</td>
+        <th><a href="https://github.com/kshitijaucharmal/Bard-Shell" target="_blank"><img alt="Bard Shell" src="https://img.shields.io/github/stars/kshitijaucharmal/Bard-Shell?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="ClusterFuzz" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-clusterfuzz.png" /></td>
         <td>Infrastructure</td>
         <td>Python</td>
@@ -8151,14 +8167,6 @@
         <td><a href="http://majerle.eu" target="_blank">C code style</a></td>
         <td>Recommended C code style and coding rules for standard C99 or later</td>
         <th><a href="https://github.com/MaJerle/c-code-style" target="_blank"><img alt="C code style" src="https://img.shields.io/github/stars/MaJerle/c-code-style?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Bard Shell" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-Bard-Shell.jpg" /></td>
-        <td>Productivity</td>
-        <td>Python</td>
-        <td><a href="https://github.com/kshitijaucharmal/Bard-Shell" target="_blank">Bard Shell</a></td>
-        <td>Bard-Shell is a utility that allows you to use google's Bard ai in the linux terminal</td>
-        <th><a href="https://github.com/kshitijaucharmal/Bard-Shell" target="_blank"><img alt="Bard Shell" src="https://img.shields.io/github/stars/kshitijaucharmal/Bard-Shell?style=social" /></a></th>
     </tr>
 
 </table>
@@ -9787,6 +9795,14 @@
         <td><a href="https://github.com/avahe-kellenberger/nimdow" target="_blank">Nimdow</a></td>
         <td>A window manager written in Nim (In Development)</td>
         <th><a href="https://github.com/avahe-kellenberger/nimdow" target="_blank"><img alt="Nimdow" src="https://img.shields.io/github/stars/avahe-kellenberger/nimdow?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Norm" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-norm.jpg" /></td>
+        <td>Databases</td>
+        <td>Nim</td>
+        <td><a href="https://norm.nim.town" target="_blank">Norm</a></td>
+        <td>A Nim ORM for SQLite and Postgres</td>
+        <th><a href="https://github.com/moigagoo/norm" target="_blank"><img alt="Norm" src="https://img.shields.io/github/stars/moigagoo/norm?style=social" /></a></th>
     </tr>
 
 </table>
