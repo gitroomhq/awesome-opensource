@@ -56,6 +56,8 @@
              </li>          <li>
                 <a href="#lua">Top 20 Lua libraries</a>
              </li>          <li>
+                <a href="#shell">Top 20 Shell libraries</a>
+             </li>          <li>
                 <a href="#java">Top 20 Java libraries</a>
              </li>          <li>
                 <a href="#c">Top 20 C# libraries</a>
@@ -65,8 +67,6 @@
                 <a href="#python">Top 20 Python libraries</a>
              </li>          <li>
                 <a href="#ruby">Top 20 Ruby libraries</a>
-             </li>          <li>
-                <a href="#shell">Top 20 Shell libraries</a>
              </li>          <li>
                 <a href="#rust">Top 20 Rust libraries</a>
              </li>          <li>
@@ -539,6 +539,14 @@
         <th><a href="https://github.com/openstatusHQ/openstatus" target="_blank"><img alt="OpenStatus" src="https://img.shields.io/github/stars/openstatusHQ/openstatus?style=social" /></a></th>
     </tr>
     <tr>
+        <td nowrap="nowrap"><img width="33" alt="TCET Linux" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-tcet-linux.png" /></td>
+        <td>Infrastructure</td>
+        <td>Shell</td>
+        <td><a href="https://github.com/tcet-opensource/tcet-linux" target="_blank">TCET Linux</a></td>
+        <td>ISO profile &amp; scripts to build TCET Linux</td>
+        <th><a href="https://github.com/tcet-opensource/tcet-linux" target="_blank"><img alt="TCET Linux" src="https://img.shields.io/github/stars/tcet-opensource/tcet-linux?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="GitHub Support" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-dmca.png" /></td>
         <td>Miscellaneous</td>
         <td>undefined</td>
@@ -641,14 +649,6 @@
         <td><a href="https://prim.doseofted.me" target="_blank">Prim+RPC</a></td>
         <td>Easy-to-understand, type-safe, transport-agnostic RPC/IPC for JavaScript, supporting callbacks, batching, file uploads, custom serialization, and more.</td>
         <th><a href="https://github.com/doseofted/prim-rpc" target="_blank"><img alt="Prim+RPC" src="https://img.shields.io/github/stars/doseofted/prim-rpc?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="TCET Linux" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-tcet-linux.png" /></td>
-        <td>Infrastructure</td>
-        <td>Shell</td>
-        <td><a href="https://github.com/tcet-opensource/tcet-linux" target="_blank">TCET Linux</a></td>
-        <td>ISO profile &amp; scripts to build TCET Linux</td>
-        <th><a href="https://github.com/tcet-opensource/tcet-linux" target="_blank"><img alt="TCET Linux" src="https://img.shields.io/github/stars/tcet-opensource/tcet-linux?style=social" /></a></th>
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="flutter_tilt" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-flutter_tilt.png" /></td>
@@ -4450,6 +4450,14 @@
         <th><a href="https://github.com/shipsaas/laravel-priority-queue" target="_blank"><img alt="Laravel Priority Queue driver" src="https://img.shields.io/github/stars/shipsaas/laravel-priority-queue?style=social" /></a></th>
     </tr>
     <tr>
+        <td nowrap="nowrap"><img width="33" alt="TCET Linux" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-tcet-linux.png" /></td>
+        <td>Infrastructure</td>
+        <td>Shell</td>
+        <td><a href="https://github.com/tcet-opensource/tcet-linux" target="_blank">TCET Linux</a></td>
+        <td>ISO profile &amp; scripts to build TCET Linux</td>
+        <th><a href="https://github.com/tcet-opensource/tcet-linux" target="_blank"><img alt="TCET Linux" src="https://img.shields.io/github/stars/tcet-opensource/tcet-linux?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="JUnitorg." src="https://libraries.github20k.com/images/uploads/2023/05/newshot-junit5.png" /></td>
         <td>Infrastructure</td>
         <td>Java</td>
@@ -4464,14 +4472,6 @@
         <td><a href="https://github.com/uripeled2/llm-client-sdk" target="_blank">llm-client</a></td>
         <td>SDK for using LLM</td>
         <th><a href="https://github.com/uripeled2/llm-client-sdk" target="_blank"><img alt="llm-client" src="https://img.shields.io/github/stars/uripeled2/llm-client-sdk?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="TCET Linux" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-tcet-linux.png" /></td>
-        <td>Infrastructure</td>
-        <td>Shell</td>
-        <td><a href="https://github.com/tcet-opensource/tcet-linux" target="_blank">TCET Linux</a></td>
-        <td>ISO profile &amp; scripts to build TCET Linux</td>
-        <th><a href="https://github.com/tcet-opensource/tcet-linux" target="_blank"><img alt="TCET Linux" src="https://img.shields.io/github/stars/tcet-opensource/tcet-linux?style=social" /></a></th>
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="Hyperf" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-hyperf.jpg" /></td>
@@ -7468,6 +7468,52 @@
 </table>
 
 <br /><br />
+<h2 id="shell">Top 20 Shell libraries</h2>
+<table>
+    <tr>
+        <th>Icon</th>
+        <th>Category</th>
+        <th>Language</th>
+        <th>Name</th>
+        <th>Description</th>
+        <th>Stargazers</th>
+    </tr>
+        <tr>
+        <td nowrap="nowrap"><img width="33" alt="TCET Linux" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-tcet-linux.png" /></td>
+        <td>Infrastructure</td>
+        <td>Shell</td>
+        <td><a href="https://github.com/tcet-opensource/tcet-linux" target="_blank">TCET Linux</a></td>
+        <td>ISO profile &amp; scripts to build TCET Linux</td>
+        <th><a href="https://github.com/tcet-opensource/tcet-linux" target="_blank"><img alt="TCET Linux" src="https://img.shields.io/github/stars/tcet-opensource/tcet-linux?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="PIVPN" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-pivpn.png" /></td>
+        <td>Infrastructure</td>
+        <td>Shell</td>
+        <td><a href="https://pivpn.io" target="_blank">PIVPN</a></td>
+        <td>The Simplest VPN installer, designed for Raspberry Pi</td>
+        <th><a href="https://github.com/pivpn/pivpn" target="_blank"><img alt="PIVPN" src="https://img.shields.io/github/stars/pivpn/pivpn?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Todotxt" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-todo.txt-cli-2.png" /></td>
+        <td>Productivity</td>
+        <td>Shell</td>
+        <td><a href="http://todotxt.org" target="_blank">Todotxt</a></td>
+        <td><g-emoji class="g-emoji" alias="ballot_box_with_check" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2611.png">☑️</g-emoji> A simple and extensible shell script for managing your todo.txt file.</td>
+        <th><a href="https://github.com/todotxt/todo.txt-cli" target="_blank"><img alt="Todotxt" src="https://img.shields.io/github/stars/todotxt/todo.txt-cli?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Dockerized Salt Master" src="https://libraries.github20k.com/images/uploads/2023/06/newshot-docker-salt-master.jpg" /></td>
+        <td>Infrastructure</td>
+        <td>Shell</td>
+        <td><a href="https://docs.saltproject.io" target="_blank">Dockerized Salt Master</a></td>
+        <td><g-emoji class="g-emoji" alias="whale" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f433.png">?</g-emoji><g-emoji class="g-emoji" alias="salt" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f9c2.png">?</g-emoji> Dockerized Salt Master</td>
+        <th><a href="https://github.com/cdalvaro/docker-salt-master" target="_blank"><img alt="Dockerized Salt Master" src="https://img.shields.io/github/stars/cdalvaro/docker-salt-master?style=social" /></a></th>
+    </tr>
+
+</table>
+
+<br /><br />
 <h2 id="java">Top 20 Java libraries</h2>
 <table>
     <tr>
@@ -8413,52 +8459,6 @@
         <td><a href="https://undercover-ci.com" target="_blank">Undercover</a></td>
         <td>Actionable code coverage - detects untested code blocks in recent changes</td>
         <th><a href="https://github.com/grodowski/undercover" target="_blank"><img alt="Undercover" src="https://img.shields.io/github/stars/grodowski/undercover?style=social" /></a></th>
-    </tr>
-
-</table>
-
-<br /><br />
-<h2 id="shell">Top 20 Shell libraries</h2>
-<table>
-    <tr>
-        <th>Icon</th>
-        <th>Category</th>
-        <th>Language</th>
-        <th>Name</th>
-        <th>Description</th>
-        <th>Stargazers</th>
-    </tr>
-        <tr>
-        <td nowrap="nowrap"><img width="33" alt="TCET Linux" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-tcet-linux.png" /></td>
-        <td>Infrastructure</td>
-        <td>Shell</td>
-        <td><a href="https://github.com/tcet-opensource/tcet-linux" target="_blank">TCET Linux</a></td>
-        <td>ISO profile &amp; scripts to build TCET Linux</td>
-        <th><a href="https://github.com/tcet-opensource/tcet-linux" target="_blank"><img alt="TCET Linux" src="https://img.shields.io/github/stars/tcet-opensource/tcet-linux?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="PIVPN" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-pivpn.png" /></td>
-        <td>Infrastructure</td>
-        <td>Shell</td>
-        <td><a href="https://pivpn.io" target="_blank">PIVPN</a></td>
-        <td>The Simplest VPN installer, designed for Raspberry Pi</td>
-        <th><a href="https://github.com/pivpn/pivpn" target="_blank"><img alt="PIVPN" src="https://img.shields.io/github/stars/pivpn/pivpn?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Todotxt" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-todo.txt-cli-2.png" /></td>
-        <td>Productivity</td>
-        <td>Shell</td>
-        <td><a href="http://todotxt.org" target="_blank">Todotxt</a></td>
-        <td><g-emoji class="g-emoji" alias="ballot_box_with_check" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2611.png">☑️</g-emoji> A simple and extensible shell script for managing your todo.txt file.</td>
-        <th><a href="https://github.com/todotxt/todo.txt-cli" target="_blank"><img alt="Todotxt" src="https://img.shields.io/github/stars/todotxt/todo.txt-cli?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Dockerized Salt Master" src="https://libraries.github20k.com/images/uploads/2023/06/newshot-docker-salt-master.jpg" /></td>
-        <td>Infrastructure</td>
-        <td>Shell</td>
-        <td><a href="https://docs.saltproject.io" target="_blank">Dockerized Salt Master</a></td>
-        <td><g-emoji class="g-emoji" alias="whale" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f433.png">?</g-emoji><g-emoji class="g-emoji" alias="salt" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f9c2.png">?</g-emoji> Dockerized Salt Master</td>
-        <th><a href="https://github.com/cdalvaro/docker-salt-master" target="_blank"><img alt="Dockerized Salt Master" src="https://img.shields.io/github/stars/cdalvaro/docker-salt-master?style=social" /></a></th>
     </tr>
 
 </table>
