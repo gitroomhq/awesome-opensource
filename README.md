@@ -212,6 +212,22 @@
         <th><a href="https://github.com/swuecho/chat" target="_blank"><img alt="chat" src="https://img.shields.io/github/stars/swuecho/chat?style=social" /></a></th>
     </tr>
     <tr>
+        <td nowrap="nowrap"><img width="33" alt="Data Monitor" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-DataMonitor.png" /></td>
+        <td>Observability</td>
+        <td>Java</td>
+        <td><a href="https://github.com/itsdrnoob/DataMonitor" target="_blank">Data Monitor</a></td>
+        <td>Data usage monitoring app for android.</td>
+        <th><a href="https://github.com/itsdrnoob/DataMonitor" target="_blank"><img alt="Data Monitor" src="https://img.shields.io/github/stars/itsdrnoob/DataMonitor?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Magento 2 Message Queue Retry" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-magento2-message-queue-retry.png" /></td>
+        <td>Infrastructure</td>
+        <td>PHP</td>
+        <td><a href="https://www.run-as-root.sh" target="_blank">Magento 2 Message Queue Retry</a></td>
+        <td>Magento 2 RabbitMQ message queue retry module</td>
+        <th><a href="https://github.com/run-as-root/magento2-message-queue-retry" target="_blank"><img alt="Magento 2 Message Queue Retry" src="https://img.shields.io/github/stars/run-as-root/magento2-message-queue-retry?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="Bard Shell" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-Bard-Shell.jpg" /></td>
         <td>Productivity</td>
         <td>Python</td>
@@ -290,22 +306,6 @@
         <td><a href="https://github.com/fabiocaccamo/django-freeze" target="_blank">django-freeze</a></td>
         <td><g-emoji class="g-emoji" alias="ice_cube" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f9ca.png">?</g-emoji> convert your dynamic django site to a static one with one line of code.</td>
         <th><a href="https://github.com/fabiocaccamo/django-freeze" target="_blank"><img alt="django-freeze" src="https://img.shields.io/github/stars/fabiocaccamo/django-freeze?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="python-codicefiscale" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-python-codicefiscale.jpg" /></td>
-        <td>Miscellaneous</td>
-        <td>Python</td>
-        <td><a href="https://github.com/fabiocaccamo/python-codicefiscale" target="_blank">python-codicefiscale</a></td>
-        <td><g-emoji class="g-emoji" alias="it" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f1ee-1f1f9.png">??</g-emoji> <g-emoji class="g-emoji" alias="credit_card" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4b3.png">?</g-emoji> italian fiscal codes encoding, decoding and validation - codifica, decodifica e validazione del Codice Fiscale italiano.</td>
-        <th><a href="https://github.com/fabiocaccamo/python-codicefiscale" target="_blank"><img alt="python-codicefiscale" src="https://img.shields.io/github/stars/fabiocaccamo/python-codicefiscale?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="django-redirects" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-django-redirects.jpg" /></td>
-        <td>Miscellaneous</td>
-        <td>Python</td>
-        <td><a href="https://github.com/fabiocaccamo/django-redirects" target="_blank">django-redirects</a></td>
-        <td> <g-emoji class="g-emoji" alias="arrow_right_hook" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/21aa.png">↪️</g-emoji> <g-emoji class="g-emoji" alias="white_check_mark" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2705.png">✅</g-emoji> redirects as they should be, with full control.</td>
-        <th><a href="https://github.com/fabiocaccamo/django-redirects" target="_blank"><img alt="django-redirects" src="https://img.shields.io/github/stars/fabiocaccamo/django-redirects?style=social" /></a></th>
     </tr>
 
 </table>
@@ -2102,6 +2102,14 @@
         <td><a href="https://discordpackage.com/" target="_blank">Discord Package</a></td>
         <td>A detailed discord data package explorer inspired by ddpe.androz2091.fr made to help discord users visualize the data used by Discord.</td>
         <th><a href="https://github.com/peterhanania/Discord-Package" target="_blank"><img alt="Discord Package" src="https://img.shields.io/github/stars/peterhanania/Discord-Package?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Data Monitor" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-DataMonitor.png" /></td>
+        <td>Observability</td>
+        <td>Java</td>
+        <td><a href="https://github.com/itsdrnoob/DataMonitor" target="_blank">Data Monitor</a></td>
+        <td>Data usage monitoring app for android.</td>
+        <th><a href="https://github.com/itsdrnoob/DataMonitor" target="_blank"><img alt="Data Monitor" src="https://img.shields.io/github/stars/itsdrnoob/DataMonitor?style=social" /></a></th>
     </tr>
 
 </table>
@@ -5401,6 +5409,14 @@
         <td>Parsing gigabytes of JSON per second </td>
         <th><a href="https://github.com/simdjson/simdjson" target="_blank"><img alt="simdjson : Parsing gigabytes of JSON per second" src="https://img.shields.io/github/stars/simdjson/simdjson?style=social" /></a></th>
     </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Magento 2 Message Queue Retry" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-magento2-message-queue-retry.png" /></td>
+        <td>Infrastructure</td>
+        <td>PHP</td>
+        <td><a href="https://www.run-as-root.sh" target="_blank">Magento 2 Message Queue Retry</a></td>
+        <td>Magento 2 RabbitMQ message queue retry module</td>
+        <th><a href="https://github.com/run-as-root/magento2-message-queue-retry" target="_blank"><img alt="Magento 2 Message Queue Retry" src="https://img.shields.io/github/stars/run-as-root/magento2-message-queue-retry?style=social" /></a></th>
+    </tr>
 
 </table>
 
@@ -6475,6 +6491,14 @@
         <td><a href="https://packagist.org/packages/jfcherng/php-diff" target="_blank">php-diff</a></td>
         <td>A comprehensive library for generating differences between two strings in multiple formats (unified, side by side HTML etc).</td>
         <th><a href="https://github.com/jfcherng/php-diff" target="_blank"><img alt="php-diff" src="https://img.shields.io/github/stars/jfcherng/php-diff?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Magento 2 Message Queue Retry" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-magento2-message-queue-retry.png" /></td>
+        <td>Infrastructure</td>
+        <td>PHP</td>
+        <td><a href="https://www.run-as-root.sh" target="_blank">Magento 2 Message Queue Retry</a></td>
+        <td>Magento 2 RabbitMQ message queue retry module</td>
+        <th><a href="https://github.com/run-as-root/magento2-message-queue-retry" target="_blank"><img alt="Magento 2 Message Queue Retry" src="https://img.shields.io/github/stars/run-as-root/magento2-message-queue-retry?style=social" /></a></th>
     </tr>
 
 </table>
@@ -7827,6 +7851,14 @@
         <td><a href="https://www.gd32-dmx.org/bootloader.html" target="_blank">GD32F Firmware Update UI</a></td>
         <td>GD32F Firmware Update UI</td>
         <th><a href="https://github.com/vanvught/GD32F-Firmware-Update-UI" target="_blank"><img alt="GD32F Firmware Update UI" src="https://img.shields.io/github/stars/vanvught/GD32F-Firmware-Update-UI?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Data Monitor" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-DataMonitor.png" /></td>
+        <td>Observability</td>
+        <td>Java</td>
+        <td><a href="https://github.com/itsdrnoob/DataMonitor" target="_blank">Data Monitor</a></td>
+        <td>Data usage monitoring app for android.</td>
+        <th><a href="https://github.com/itsdrnoob/DataMonitor" target="_blank"><img alt="Data Monitor" src="https://img.shields.io/github/stars/itsdrnoob/DataMonitor?style=social" /></a></th>
     </tr>
 
 </table>
