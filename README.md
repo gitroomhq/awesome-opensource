@@ -228,6 +228,14 @@
         <th><a href="https://github.com/run-as-root/magento2-message-queue-retry" target="_blank"><img alt="Magento 2 Message Queue Retry" src="https://img.shields.io/github/stars/run-as-root/magento2-message-queue-retry?style=social" /></a></th>
     </tr>
     <tr>
+        <td nowrap="nowrap"><img width="33" alt="Movex" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-movex.png" /></td>
+        <td>Miscellaneous</td>
+        <td>TypeScript</td>
+        <td><a href="https://github.com/movesthatmatter/movex" target="_blank">Movex</a></td>
+        <td>State Syncing Strategy for Multiplayers</td>
+        <th><a href="https://github.com/movesthatmatter/movex" target="_blank"><img alt="Movex" src="https://img.shields.io/github/stars/movesthatmatter/movex?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="Bard Shell" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-Bard-Shell.jpg" /></td>
         <td>Productivity</td>
         <td>Python</td>
@@ -298,14 +306,6 @@
         <td><a href="https://github.com/fabiocaccamo/python-fsutil" target="_blank">python-fsutil</a></td>
         <td><g-emoji class="g-emoji" alias="computer" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4bb.png">?</g-emoji> <g-emoji class="g-emoji" alias="wrench" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f527.png">?</g-emoji> high-level file-system operations for lazy devs.</td>
         <th><a href="https://github.com/fabiocaccamo/python-fsutil" target="_blank"><img alt="python-fsutil" src="https://img.shields.io/github/stars/fabiocaccamo/python-fsutil?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="django-freeze" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-django-freeze.jpg" /></td>
-        <td>Miscellaneous</td>
-        <td>Python</td>
-        <td><a href="https://github.com/fabiocaccamo/django-freeze" target="_blank">django-freeze</a></td>
-        <td><g-emoji class="g-emoji" alias="ice_cube" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f9ca.png">?</g-emoji> convert your dynamic django site to a static one with one line of code.</td>
-        <th><a href="https://github.com/fabiocaccamo/django-freeze" target="_blank"><img alt="django-freeze" src="https://img.shields.io/github/stars/fabiocaccamo/django-freeze?style=social" /></a></th>
     </tr>
 
 </table>
@@ -451,6 +451,14 @@
         <th><a href="https://github.com/bitwarden/clients" target="_blank"><img alt="Bitwarden" src="https://img.shields.io/github/stars/bitwarden/clients?style=social" /></a></th>
     </tr>
     <tr>
+        <td nowrap="nowrap"><img width="33" alt="Laravel Priority Queue driver" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-laravel-priority-queue.png" /></td>
+        <td>Infrastructure</td>
+        <td>PHP</td>
+        <td><a href="https://github.com/shipsaas/laravel-priority-queue" target="_blank">Laravel Priority Queue driver</a></td>
+        <td>Priority Queues driver implementation for Laravel. Utilizing DB Driver.</td>
+        <th><a href="https://github.com/shipsaas/laravel-priority-queue" target="_blank"><img alt="Laravel Priority Queue driver" src="https://img.shields.io/github/stars/shipsaas/laravel-priority-queue?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="Devtron" src="https://libraries.github20k.com/images/uploads/2023/06/newshot-devtron.png" /></td>
         <td>Infrastructure</td>
         <td>Go</td>
@@ -505,14 +513,6 @@
         <td><a href="https://zenstack.dev" target="_blank">ZenStack</a></td>
         <td>Supercharges Prisma ORM with a powerful access control layer and unlocks its full potential for web development.</td>
         <th><a href="https://github.com/zenstackhq/zenstack" target="_blank"><img alt="ZenStack" src="https://img.shields.io/github/stars/zenstackhq/zenstack?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Laravel Priority Queue driver" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-laravel-priority-queue.png" /></td>
-        <td>Infrastructure</td>
-        <td>PHP</td>
-        <td><a href="https://github.com/shipsaas/laravel-priority-queue" target="_blank">Laravel Priority Queue driver</a></td>
-        <td>Priority Queues driver implementation for Laravel. Utilizing DB Driver.</td>
-        <th><a href="https://github.com/shipsaas/laravel-priority-queue" target="_blank"><img alt="Laravel Priority Queue driver" src="https://img.shields.io/github/stars/shipsaas/laravel-priority-queue?style=social" /></a></th>
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="Phase Console" src="https://libraries.github20k.com/images/uploads/2023/06/newshot-console.png" /></td>
@@ -777,6 +777,14 @@
         <td><a href="https://docusaurus.io" target="_blank">Docusaurus</a></td>
         <td>Easy to maintain open source documentation websites.</td>
         <th><a href="https://github.com/facebook/docusaurus" target="_blank"><img alt="Docusaurus" src="https://img.shields.io/github/stars/facebook/docusaurus?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Docsify" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-docsify.png" /></td>
+        <td>Productivity</td>
+        <td>JavaScript</td>
+        <td><a href="https://docsify.js.org" target="_blank">Docsify</a></td>
+        <td><g-emoji class="g-emoji" alias="black_joker" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f0cf.png">?</g-emoji> A magical documentation site generator.</td>
+        <th><a href="https://github.com/docsifyjs/docsify" target="_blank"><img alt="Docsify" src="https://img.shields.io/github/stars/docsifyjs/docsify?style=social" /></a></th>
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="PHP Collections" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-map.png" /></td>
@@ -1113,14 +1121,6 @@
         <td><a href="https://github.com/kshitijaucharmal/Bard-Shell" target="_blank">Bard Shell</a></td>
         <td>Bard-Shell is a utility that allows you to use google's Bard ai in the linux terminal</td>
         <th><a href="https://github.com/kshitijaucharmal/Bard-Shell" target="_blank"><img alt="Bard Shell" src="https://img.shields.io/github/stars/kshitijaucharmal/Bard-Shell?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="TextRL" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-TextRL.png" /></td>
-        <td>Productivity</td>
-        <td>Python</td>
-        <td><a href="https://github.com/voidful/TextRL" target="_blank">TextRL</a></td>
-        <td>Implementation of ChatGPT RLHF (Reinforcement Learning with Human Feedback) on any generation model in huggingface's transformer (blommz-176B/bloom/gpt/bart/T5/MetaICL)</td>
-        <th><a href="https://github.com/voidful/TextRL" target="_blank"><img alt="TextRL" src="https://img.shields.io/github/stars/voidful/TextRL?style=social" /></a></th>
     </tr>
 
 </table>
@@ -1881,6 +1881,14 @@
         <td>GD32F450 Pixel DMX512</td>
         <th><a href="https://github.com/vanvught/GD32F450-Pixel-DMX512" target="_blank"><img alt="GD32F450 Pixel DMX512" src="https://img.shields.io/github/stars/vanvught/GD32F450-Pixel-DMX512?style=social" /></a></th>
     </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Movex" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-movex.png" /></td>
+        <td>Miscellaneous</td>
+        <td>TypeScript</td>
+        <td><a href="https://github.com/movesthatmatter/movex" target="_blank">Movex</a></td>
+        <td>State Syncing Strategy for Multiplayers</td>
+        <th><a href="https://github.com/movesthatmatter/movex" target="_blank"><img alt="Movex" src="https://img.shields.io/github/stars/movesthatmatter/movex?style=social" /></a></th>
+    </tr>
 
 </table>
 
@@ -2236,6 +2244,14 @@
         <td><a href="https://docusaurus.io" target="_blank">Docusaurus</a></td>
         <td>Easy to maintain open source documentation websites.</td>
         <th><a href="https://github.com/facebook/docusaurus" target="_blank"><img alt="Docusaurus" src="https://img.shields.io/github/stars/facebook/docusaurus?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Docsify" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-docsify.png" /></td>
+        <td>Productivity</td>
+        <td>JavaScript</td>
+        <td><a href="https://docsify.js.org" target="_blank">Docsify</a></td>
+        <td><g-emoji class="g-emoji" alias="black_joker" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f0cf.png">?</g-emoji> A magical documentation site generator.</td>
+        <th><a href="https://github.com/docsifyjs/docsify" target="_blank"><img alt="Docsify" src="https://img.shields.io/github/stars/docsifyjs/docsify?style=social" /></a></th>
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="Hyperswitch" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-hyperswitch.png" /></td>
@@ -2956,14 +2972,6 @@
         <td><a href="https://www.mkdocs.org" target="_blank">MkDocs</a></td>
         <td>Project documentation with Markdown.</td>
         <th><a href="https://github.com/mkdocs/mkdocs" target="_blank"><img alt="MkDocs" src="https://img.shields.io/github/stars/mkdocs/mkdocs?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Docsify" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-docsify.png" /></td>
-        <td>Productivity</td>
-        <td>JavaScript</td>
-        <td><a href="https://docsify.js.org" target="_blank">Docsify</a></td>
-        <td><g-emoji class="g-emoji" alias="black_joker" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f0cf.png">?</g-emoji> A magical documentation site generator.</td>
-        <th><a href="https://github.com/docsifyjs/docsify" target="_blank"><img alt="Docsify" src="https://img.shields.io/github/stars/docsifyjs/docsify?style=social" /></a></th>
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="WunderGraph" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-wundergraph.jpg" /></td>
@@ -4482,6 +4490,14 @@
         <th><a href="https://github.com/wasp-lang/wasp" target="_blank"><img alt="Wasp" src="https://img.shields.io/github/stars/wasp-lang/wasp?style=social" /></a></th>
     </tr>
     <tr>
+        <td nowrap="nowrap"><img width="33" alt="Laravel Priority Queue driver" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-laravel-priority-queue.png" /></td>
+        <td>Infrastructure</td>
+        <td>PHP</td>
+        <td><a href="https://github.com/shipsaas/laravel-priority-queue" target="_blank">Laravel Priority Queue driver</a></td>
+        <td>Priority Queues driver implementation for Laravel. Utilizing DB Driver.</td>
+        <th><a href="https://github.com/shipsaas/laravel-priority-queue" target="_blank"><img alt="Laravel Priority Queue driver" src="https://img.shields.io/github/stars/shipsaas/laravel-priority-queue?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="Devtron" src="https://libraries.github20k.com/images/uploads/2023/06/newshot-devtron.png" /></td>
         <td>Infrastructure</td>
         <td>Go</td>
@@ -4512,14 +4528,6 @@
         <td><a href="https://zenstack.dev" target="_blank">ZenStack</a></td>
         <td>Supercharges Prisma ORM with a powerful access control layer and unlocks its full potential for web development.</td>
         <th><a href="https://github.com/zenstackhq/zenstack" target="_blank"><img alt="ZenStack" src="https://img.shields.io/github/stars/zenstackhq/zenstack?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Laravel Priority Queue driver" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-laravel-priority-queue.png" /></td>
-        <td>Infrastructure</td>
-        <td>PHP</td>
-        <td><a href="https://github.com/shipsaas/laravel-priority-queue" target="_blank">Laravel Priority Queue driver</a></td>
-        <td>Priority Queues driver implementation for Laravel. Utilizing DB Driver.</td>
-        <th><a href="https://github.com/shipsaas/laravel-priority-queue" target="_blank"><img alt="Laravel Priority Queue driver" src="https://img.shields.io/github/stars/shipsaas/laravel-priority-queue?style=social" /></a></th>
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="TCET Linux" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-tcet-linux.png" /></td>
@@ -6296,6 +6304,14 @@
         <td><g-emoji class="g-emoji" alias="star2" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f31f.png">?</g-emoji> Next generation auto-complete for Cirrus CSS classes.</td>
         <th><a href="https://github.com/Cirrus-UI/Cirrus-Intellisense" target="_blank"><img alt="Cirrus Intellisense" src="https://img.shields.io/github/stars/Cirrus-UI/Cirrus-Intellisense?style=social" /></a></th>
     </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Movex" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-movex.png" /></td>
+        <td>Miscellaneous</td>
+        <td>TypeScript</td>
+        <td><a href="https://github.com/movesthatmatter/movex" target="_blank">Movex</a></td>
+        <td>State Syncing Strategy for Multiplayers</td>
+        <th><a href="https://github.com/movesthatmatter/movex" target="_blank"><img alt="Movex" src="https://img.shields.io/github/stars/movesthatmatter/movex?style=social" /></a></th>
+    </tr>
 
 </table>
 
@@ -6797,6 +6813,14 @@
         <th><a href="https://github.com/miragejs/miragejs" target="_blank"><img alt="Mirage JS" src="https://img.shields.io/github/stars/miragejs/miragejs?style=social" /></a></th>
     </tr>
     <tr>
+        <td nowrap="nowrap"><img width="33" alt="Docsify" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-docsify.png" /></td>
+        <td>Productivity</td>
+        <td>JavaScript</td>
+        <td><a href="https://docsify.js.org" target="_blank">Docsify</a></td>
+        <td><g-emoji class="g-emoji" alias="black_joker" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f0cf.png">?</g-emoji> A magical documentation site generator.</td>
+        <th><a href="https://github.com/docsifyjs/docsify" target="_blank"><img alt="Docsify" src="https://img.shields.io/github/stars/docsifyjs/docsify?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="lambda-perf" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-lambda-perf-17.jpg" /></td>
         <td>Observability</td>
         <td>JavaScript</td>
@@ -7059,14 +7083,6 @@
         <td><a href="https://github.com/depapp/pusakatest" target="_blank">Pusakatest</a></td>
         <td>pusakatest is an automation testing tool based on pactumjs using bdd (cucumber) style with localization</td>
         <th><a href="https://github.com/depapp/pusakatest" target="_blank"><img alt="Pusakatest" src="https://img.shields.io/github/stars/depapp/pusakatest?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Docsify" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-docsify.png" /></td>
-        <td>Productivity</td>
-        <td>JavaScript</td>
-        <td><a href="https://docsify.js.org" target="_blank">Docsify</a></td>
-        <td><g-emoji class="g-emoji" alias="black_joker" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f0cf.png">?</g-emoji> A magical documentation site generator.</td>
-        <th><a href="https://github.com/docsifyjs/docsify" target="_blank"><img alt="Docsify" src="https://img.shields.io/github/stars/docsifyjs/docsify?style=social" /></a></th>
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="Action Discord Alerts" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-action-discord-alerts.jpg" /></td>
