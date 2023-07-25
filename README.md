@@ -148,6 +148,70 @@
         <th>Stargazers</th>
     </tr>
         <tr>
+        <td nowrap="nowrap"><img width="33" alt="TextRL" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-TextRL.png" /></td>
+        <td>Productivity</td>
+        <td>Python</td>
+        <td><a href="https://github.com/voidful/TextRL" target="_blank">TextRL</a></td>
+        <td>Implementation of ChatGPT RLHF (Reinforcement Learning with Human Feedback) on any generation model in huggingface's transformer (blommz-176B/bloom/gpt/bart/T5/MetaICL)</td>
+        <th><a href="https://github.com/voidful/TextRL" target="_blank"><img alt="TextRL" src="https://img.shields.io/github/stars/voidful/TextRL?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Detect it Easy" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-Detect-It-Easy.png" /></td>
+        <td>Security</td>
+        <td>JavaScript</td>
+        <td><a href="http://ntinfo.biz" target="_blank">Detect it Easy</a></td>
+        <td>Program for determining types of files for Windows, Linux and MacOS.</td>
+        <th><a href="https://github.com/horsicq/Detect-It-Easy" target="_blank"><img alt="Detect it Easy" src="https://img.shields.io/github/stars/horsicq/Detect-It-Easy?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Orange Pi DMX512 / RDM / MIDI / OSC / Art-Net / WS28xx / L6470 / Stepper / TLC59711 / PCA9685 / Servo / PWM / TCNet / SMPTE / RDMNet / LLRP / GD32 / GigaDevice" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-rpidmx512.jpg" /></td>
+        <td>Miscellaneous</td>
+        <td>C++</td>
+        <td><a href="http://www.orangepi-dmx.org/" target="_blank">Orange Pi DMX512 / RDM / MIDI / OSC / Art-Net / WS28xx / L6470 / Stepper / TLC59711 / PCA9685 / Servo / PWM / TCNet / SMPTE / RDMNet / LLRP / GD32 / GigaDevice</a></td>
+        <td>Orange Pi DMX512 / RDM / MIDI / OSC / Art-Net / WS28xx / L6470 / Stepper / TLC59711 / PCA9685 / Servo / PWM / TCNet / SMPTE / RDMNet / LLRP / GD32 / GigaDevice / Raspberry Pi</td>
+        <th><a href="https://github.com/vanvught/rpidmx512" target="_blank"><img alt="Orange Pi DMX512 / RDM / MIDI / OSC / Art-Net / WS28xx / L6470 / Stepper / TLC59711 / PCA9685 / Servo / PWM / TCNet / SMPTE / RDMNet / LLRP / GD32 / GigaDevice" src="https://img.shields.io/github/stars/vanvught/rpidmx512?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="GD32F103R GD32F107R GD32F207R GD32F303R GD32F407R development board" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-GD32FxxxR-dev-board.jpg" /></td>
+        <td>Miscellaneous</td>
+        <td>undefined</td>
+        <td><a href="https://www.gd32-dmx.org" target="_blank">GD32F103R GD32F107R GD32F207R GD32F303R GD32F407R development board</a></td>
+        <td>GD32F103R GD32F107R GD32F207R GD32F303R GD32F407R development board</td>
+        <th><a href="https://github.com/vanvught/GD32FxxxR-dev-board" target="_blank"><img alt="GD32F103R GD32F107R GD32F207R GD32F303R GD32F407R development board" src="https://img.shields.io/github/stars/vanvught/GD32FxxxR-dev-board?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="GD32F450 Pixel DMX512" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-GD32F450-Pixel-DMX512.jpg" /></td>
+        <td>Miscellaneous</td>
+        <td>undefined</td>
+        <td><a href="https://www.gd32-dmx.org/pixel.html" target="_blank">GD32F450 Pixel DMX512</a></td>
+        <td>GD32F450 Pixel DMX512</td>
+        <th><a href="https://github.com/vanvught/GD32F450-Pixel-DMX512" target="_blank"><img alt="GD32F450 Pixel DMX512" src="https://img.shields.io/github/stars/vanvught/GD32F450-Pixel-DMX512?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Remote Configuration UI" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-Remote-Config-UI.jpg" /></td>
+        <td>Productivity</td>
+        <td>Java</td>
+        <td><a href="https://www.orangepi-dmx.org" target="_blank">Remote Configuration UI</a></td>
+        <td>Remote Configuration UI</td>
+        <th><a href="https://github.com/vanvught/Remote-Config-UI" target="_blank"><img alt="Remote Configuration UI" src="https://img.shields.io/github/stars/vanvught/Remote-Config-UI?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="GD32F Firmware Update UI" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-GD32F-Firmware-Update-UI.jpg" /></td>
+        <td>Productivity</td>
+        <td>Java</td>
+        <td><a href="https://www.gd32-dmx.org/bootloader.html" target="_blank">GD32F Firmware Update UI</a></td>
+        <td>GD32F Firmware Update UI</td>
+        <th><a href="https://github.com/vanvught/GD32F-Firmware-Update-UI" target="_blank"><img alt="GD32F Firmware Update UI" src="https://img.shields.io/github/stars/vanvught/GD32F-Firmware-Update-UI?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="chat" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-chat.jpg" /></td>
+        <td>Productivity</td>
+        <td>Go</td>
+        <td><a href="https://github.com/swuecho/chat" target="_blank">chat</a></td>
+        <td>chat web app for teams, sass with user management and ratelimit, support chatgpt(openai &amp; azure), claude or custom model</td>
+        <th><a href="https://github.com/swuecho/chat" target="_blank"><img alt="chat" src="https://img.shields.io/github/stars/swuecho/chat?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="Bard Shell" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-Bard-Shell.jpg" /></td>
         <td>Productivity</td>
         <td>Python</td>
@@ -242,70 +306,6 @@
         <td><a href="https://github.com/fabiocaccamo/django-redirects" target="_blank">django-redirects</a></td>
         <td> <g-emoji class="g-emoji" alias="arrow_right_hook" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/21aa.png">↪️</g-emoji> <g-emoji class="g-emoji" alias="white_check_mark" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2705.png">✅</g-emoji> redirects as they should be, with full control.</td>
         <th><a href="https://github.com/fabiocaccamo/django-redirects" target="_blank"><img alt="django-redirects" src="https://img.shields.io/github/stars/fabiocaccamo/django-redirects?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="utils.js" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-utils.js.jpg" /></td>
-        <td>Miscellaneous</td>
-        <td>JavaScript</td>
-        <td><a href="https://github.com/fabiocaccamo/utils.js" target="_blank">utils.js</a></td>
-        <td><g-emoji class="g-emoji" alias="construction_worker" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f477.png">?</g-emoji> <g-emoji class="g-emoji" alias="wrench" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f527.png">?</g-emoji> zero dependencies vanilla JavaScript utils.</td>
-        <th><a href="https://github.com/fabiocaccamo/utils.js" target="_blank"><img alt="utils.js" src="https://img.shields.io/github/stars/fabiocaccamo/utils.js?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="FCUUID" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-FCUUID.jpg" /></td>
-        <td>Miscellaneous</td>
-        <td>Objective-C</td>
-        <td><a href="https://github.com/fabiocaccamo/FCUUID" target="_blank">FCUUID</a></td>
-        <td><g-emoji class="g-emoji" alias="iphone" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4f1.png">?</g-emoji> <g-emoji class="g-emoji" alias="id" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f194.png">?</g-emoji> iOS UUID / Universally Unique Identifiers library as alternative to UDID and identifierForVendor.</td>
-        <th><a href="https://github.com/fabiocaccamo/FCUUID" target="_blank"><img alt="FCUUID" src="https://img.shields.io/github/stars/fabiocaccamo/FCUUID?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="flutter_tilt" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-flutter_tilt.png" /></td>
-        <td>Productivity</td>
-        <td>Dart</td>
-        <td><a href="https://pub.dev/packages/flutter_tilt" target="_blank">flutter_tilt</a></td>
-        <td><g-emoji class="g-emoji" alias="eyes" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f440.png">?</g-emoji> Easily apply tilt parallax hover effects on Flutter! | 在 Flutter 上轻松创建倾斜视差悬停效果！</td>
-        <th><a href="https://github.com/AmosHuKe/flutter_tilt" target="_blank"><img alt="flutter_tilt" src="https://img.shields.io/github/stars/AmosHuKe/flutter_tilt?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Apprise API" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-apprise-api.png" /></td>
-        <td>Productivity</td>
-        <td>Python</td>
-        <td><a href="https://hub.docker.com/r/caronc/apprise" target="_blank">Apprise API</a></td>
-        <td>A lightweight REST framework that wraps the Apprise Notification Library</td>
-        <th><a href="https://github.com/caronc/apprise-api" target="_blank"><img alt="Apprise API" src="https://img.shields.io/github/stars/caronc/apprise-api?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="LwESP" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-lwesp.jpg" /></td>
-        <td>Productivity</td>
-        <td>C</td>
-        <td><a href="https://majerle.eu/projects/lwesp-lightweight-esp-at-parser-library-for-embedded-systems" target="_blank">LwESP</a></td>
-        <td>Lightweight and versatile AT parser library for ESP8266 and ESP32 devices.</td>
-        <th><a href="https://github.com/MaJerle/lwesp" target="_blank"><img alt="LwESP" src="https://img.shields.io/github/stars/MaJerle/lwesp?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="LwCELL" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-lwcell.jpg" /></td>
-        <td>Miscellaneous</td>
-        <td>C</td>
-        <td><a href="https://majerle.eu/projects/lwgsm-lightweight-gsm-at-parser-library-for-embedded-systems" target="_blank">LwCELL</a></td>
-        <td>Lightweight cellular modem host AT library</td>
-        <th><a href="https://github.com/MaJerle/lwcell" target="_blank"><img alt="LwCELL" src="https://img.shields.io/github/stars/MaJerle/lwcell?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="LwWDG" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-lwwdg.jpg" /></td>
-        <td>Miscellaneous</td>
-        <td>C</td>
-        <td><a href="https://github.com/MaJerle/lwwdg" target="_blank">LwWDG</a></td>
-        <td>Lightweight watchdog for RTOS and embedded systems</td>
-        <th><a href="https://github.com/MaJerle/lwwdg" target="_blank"><img alt="LwWDG" src="https://img.shields.io/github/stars/MaJerle/lwwdg?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="LwUTIL" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-lwutil.jpg" /></td>
-        <td>Productivity</td>
-        <td>C</td>
-        <td><a href="https://github.com/MaJerle/lwutil" target="_blank">LwUTIL</a></td>
-        <td>Versatile and easy to use C language utility library with functions and macros commonly used in various applications</td>
-        <th><a href="https://github.com/MaJerle/lwutil" target="_blank"><img alt="LwUTIL" src="https://img.shields.io/github/stars/MaJerle/lwutil?style=social" /></a></th>
     </tr>
 
 </table>
@@ -1115,12 +1115,12 @@
         <th><a href="https://github.com/kshitijaucharmal/Bard-Shell" target="_blank"><img alt="Bard Shell" src="https://img.shields.io/github/stars/kshitijaucharmal/Bard-Shell?style=social" /></a></th>
     </tr>
     <tr>
-        <td nowrap="nowrap"><img width="33" alt="ClusterFuzz" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-clusterfuzz.png" /></td>
-        <td>Infrastructure</td>
+        <td nowrap="nowrap"><img width="33" alt="TextRL" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-TextRL.png" /></td>
+        <td>Productivity</td>
         <td>Python</td>
-        <td><a href="https://google.github.io/clusterfuzz" target="_blank">ClusterFuzz</a></td>
-        <td>Scalable fuzzing infrastructure.</td>
-        <th><a href="https://github.com/google/clusterfuzz" target="_blank"><img alt="ClusterFuzz" src="https://img.shields.io/github/stars/google/clusterfuzz?style=social" /></a></th>
+        <td><a href="https://github.com/voidful/TextRL" target="_blank">TextRL</a></td>
+        <td>Implementation of ChatGPT RLHF (Reinforcement Learning with Human Feedback) on any generation model in huggingface's transformer (blommz-176B/bloom/gpt/bart/T5/MetaICL)</td>
+        <th><a href="https://github.com/voidful/TextRL" target="_blank"><img alt="TextRL" src="https://img.shields.io/github/stars/voidful/TextRL?style=social" /></a></th>
     </tr>
 
 </table>
@@ -1857,6 +1857,30 @@
         <td><g-emoji class="g-emoji" alias="iphone" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4f1.png">?</g-emoji> <g-emoji class="g-emoji" alias="id" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f194.png">?</g-emoji> iOS UUID / Universally Unique Identifiers library as alternative to UDID and identifierForVendor.</td>
         <th><a href="https://github.com/fabiocaccamo/FCUUID" target="_blank"><img alt="FCUUID" src="https://img.shields.io/github/stars/fabiocaccamo/FCUUID?style=social" /></a></th>
     </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Orange Pi DMX512 / RDM / MIDI / OSC / Art-Net / WS28xx / L6470 / Stepper / TLC59711 / PCA9685 / Servo / PWM / TCNet / SMPTE / RDMNet / LLRP / GD32 / GigaDevice" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-rpidmx512.jpg" /></td>
+        <td>Miscellaneous</td>
+        <td>C++</td>
+        <td><a href="http://www.orangepi-dmx.org/" target="_blank">Orange Pi DMX512 / RDM / MIDI / OSC / Art-Net / WS28xx / L6470 / Stepper / TLC59711 / PCA9685 / Servo / PWM / TCNet / SMPTE / RDMNet / LLRP / GD32 / GigaDevice</a></td>
+        <td>Orange Pi DMX512 / RDM / MIDI / OSC / Art-Net / WS28xx / L6470 / Stepper / TLC59711 / PCA9685 / Servo / PWM / TCNet / SMPTE / RDMNet / LLRP / GD32 / GigaDevice / Raspberry Pi</td>
+        <th><a href="https://github.com/vanvught/rpidmx512" target="_blank"><img alt="Orange Pi DMX512 / RDM / MIDI / OSC / Art-Net / WS28xx / L6470 / Stepper / TLC59711 / PCA9685 / Servo / PWM / TCNet / SMPTE / RDMNet / LLRP / GD32 / GigaDevice" src="https://img.shields.io/github/stars/vanvught/rpidmx512?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="GD32F103R GD32F107R GD32F207R GD32F303R GD32F407R development board" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-GD32FxxxR-dev-board.jpg" /></td>
+        <td>Miscellaneous</td>
+        <td>undefined</td>
+        <td><a href="https://www.gd32-dmx.org" target="_blank">GD32F103R GD32F107R GD32F207R GD32F303R GD32F407R development board</a></td>
+        <td>GD32F103R GD32F107R GD32F207R GD32F303R GD32F407R development board</td>
+        <th><a href="https://github.com/vanvught/GD32FxxxR-dev-board" target="_blank"><img alt="GD32F103R GD32F107R GD32F207R GD32F303R GD32F407R development board" src="https://img.shields.io/github/stars/vanvught/GD32FxxxR-dev-board?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="GD32F450 Pixel DMX512" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-GD32F450-Pixel-DMX512.jpg" /></td>
+        <td>Miscellaneous</td>
+        <td>undefined</td>
+        <td><a href="https://www.gd32-dmx.org/pixel.html" target="_blank">GD32F450 Pixel DMX512</a></td>
+        <td>GD32F450 Pixel DMX512</td>
+        <th><a href="https://github.com/vanvught/GD32F450-Pixel-DMX512" target="_blank"><img alt="GD32F450 Pixel DMX512" src="https://img.shields.io/github/stars/vanvught/GD32F450-Pixel-DMX512?style=social" /></a></th>
+    </tr>
 
 </table>
 
@@ -2316,6 +2340,14 @@
         <td><a href="https://github.com/kshitijaucharmal/Bard-Shell" target="_blank">Bard Shell</a></td>
         <td>Bard-Shell is a utility that allows you to use google's Bard ai in the linux terminal</td>
         <th><a href="https://github.com/kshitijaucharmal/Bard-Shell" target="_blank"><img alt="Bard Shell" src="https://img.shields.io/github/stars/kshitijaucharmal/Bard-Shell?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="TextRL" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-TextRL.png" /></td>
+        <td>Productivity</td>
+        <td>Python</td>
+        <td><a href="https://github.com/voidful/TextRL" target="_blank">TextRL</a></td>
+        <td>Implementation of ChatGPT RLHF (Reinforcement Learning with Human Feedback) on any generation model in huggingface's transformer (blommz-176B/bloom/gpt/bart/T5/MetaICL)</td>
+        <th><a href="https://github.com/voidful/TextRL" target="_blank"><img alt="TextRL" src="https://img.shields.io/github/stars/voidful/TextRL?style=social" /></a></th>
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="VS Code Docs" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-vscode-docs.png" /></td>
@@ -3381,6 +3413,30 @@
         <td><g-emoji class="g-emoji" alias="star2" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f31f.png">?</g-emoji> Next generation auto-complete for Cirrus CSS classes.</td>
         <th><a href="https://github.com/Cirrus-UI/Cirrus-Intellisense" target="_blank"><img alt="Cirrus Intellisense" src="https://img.shields.io/github/stars/Cirrus-UI/Cirrus-Intellisense?style=social" /></a></th>
     </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Remote Configuration UI" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-Remote-Config-UI.jpg" /></td>
+        <td>Productivity</td>
+        <td>Java</td>
+        <td><a href="https://www.orangepi-dmx.org" target="_blank">Remote Configuration UI</a></td>
+        <td>Remote Configuration UI</td>
+        <th><a href="https://github.com/vanvught/Remote-Config-UI" target="_blank"><img alt="Remote Configuration UI" src="https://img.shields.io/github/stars/vanvught/Remote-Config-UI?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="GD32F Firmware Update UI" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-GD32F-Firmware-Update-UI.jpg" /></td>
+        <td>Productivity</td>
+        <td>Java</td>
+        <td><a href="https://www.gd32-dmx.org/bootloader.html" target="_blank">GD32F Firmware Update UI</a></td>
+        <td>GD32F Firmware Update UI</td>
+        <th><a href="https://github.com/vanvught/GD32F-Firmware-Update-UI" target="_blank"><img alt="GD32F Firmware Update UI" src="https://img.shields.io/github/stars/vanvught/GD32F-Firmware-Update-UI?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="chat" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-chat.jpg" /></td>
+        <td>Productivity</td>
+        <td>Go</td>
+        <td><a href="https://github.com/swuecho/chat" target="_blank">chat</a></td>
+        <td>chat web app for teams, sass with user management and ratelimit, support chatgpt(openai &amp; azure), claude or custom model</td>
+        <th><a href="https://github.com/swuecho/chat" target="_blank"><img alt="chat" src="https://img.shields.io/github/stars/swuecho/chat?style=social" /></a></th>
+    </tr>
 
 </table>
 
@@ -3904,6 +3960,14 @@
         <td><a href="https://github.com/utoni/PastDSE" target="_blank">PastDSE</a></td>
         <td>DSE bypass using a leaked cert and adjusting the current clock.</td>
         <th><a href="https://github.com/utoni/PastDSE" target="_blank"><img alt="PastDSE" src="https://img.shields.io/github/stars/utoni/PastDSE?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Detect it Easy" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-Detect-It-Easy.png" /></td>
+        <td>Security</td>
+        <td>JavaScript</td>
+        <td><a href="http://ntinfo.biz" target="_blank">Detect it Easy</a></td>
+        <td>Program for determining types of files for Windows, Linux and MacOS.</td>
+        <th><a href="https://github.com/horsicq/Detect-It-Easy" target="_blank"><img alt="Detect it Easy" src="https://img.shields.io/github/stars/horsicq/Detect-It-Easy?style=social" /></a></th>
     </tr>
 
 </table>
@@ -7068,6 +7132,14 @@
         <td><g-emoji class="g-emoji" alias="construction_worker" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f477.png">?</g-emoji> <g-emoji class="g-emoji" alias="wrench" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f527.png">?</g-emoji> zero dependencies vanilla JavaScript utils.</td>
         <th><a href="https://github.com/fabiocaccamo/utils.js" target="_blank"><img alt="utils.js" src="https://img.shields.io/github/stars/fabiocaccamo/utils.js?style=social" /></a></th>
     </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Detect it Easy" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-Detect-It-Easy.png" /></td>
+        <td>Security</td>
+        <td>JavaScript</td>
+        <td><a href="http://ntinfo.biz" target="_blank">Detect it Easy</a></td>
+        <td>Program for determining types of files for Windows, Linux and MacOS.</td>
+        <th><a href="https://github.com/horsicq/Detect-It-Easy" target="_blank"><img alt="Detect it Easy" src="https://img.shields.io/github/stars/horsicq/Detect-It-Easy?style=social" /></a></th>
+    </tr>
 
 </table>
 
@@ -7426,6 +7498,14 @@
         <td>SQL query builder and ORM/Factory generator for Go with support for PostgreSQL, MySQL and SQLite</td>
         <th><a href="https://github.com/stephenafamo/bob" target="_blank"><img alt="Bob" src="https://img.shields.io/github/stars/stephenafamo/bob?style=social" /></a></th>
     </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="chat" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-chat.jpg" /></td>
+        <td>Productivity</td>
+        <td>Go</td>
+        <td><a href="https://github.com/swuecho/chat" target="_blank">chat</a></td>
+        <td>chat web app for teams, sass with user management and ratelimit, support chatgpt(openai &amp; azure), claude or custom model</td>
+        <th><a href="https://github.com/swuecho/chat" target="_blank"><img alt="chat" src="https://img.shields.io/github/stars/swuecho/chat?style=social" /></a></th>
+    </tr>
 
 </table>
 
@@ -7732,6 +7812,22 @@
         <td><g-emoji class="g-emoji" alias="brazil" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f1e7-1f1f7.png">??</g-emoji> <g-emoji class="g-emoji" alias="bank" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f3e6.png">?</g-emoji> <g-emoji class="g-emoji" alias="clipboard" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4cb.png">?</g-emoji> Brazilian banks list</td>
         <th><a href="https://github.com/guibranco/BancosBrasileiros" target="_blank"><img alt="Bancos Brasileiros" src="https://img.shields.io/github/stars/guibranco/BancosBrasileiros?style=social" /></a></th>
     </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Remote Configuration UI" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-Remote-Config-UI.jpg" /></td>
+        <td>Productivity</td>
+        <td>Java</td>
+        <td><a href="https://www.orangepi-dmx.org" target="_blank">Remote Configuration UI</a></td>
+        <td>Remote Configuration UI</td>
+        <th><a href="https://github.com/vanvught/Remote-Config-UI" target="_blank"><img alt="Remote Configuration UI" src="https://img.shields.io/github/stars/vanvught/Remote-Config-UI?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="GD32F Firmware Update UI" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-GD32F-Firmware-Update-UI.jpg" /></td>
+        <td>Productivity</td>
+        <td>Java</td>
+        <td><a href="https://www.gd32-dmx.org/bootloader.html" target="_blank">GD32F Firmware Update UI</a></td>
+        <td>GD32F Firmware Update UI</td>
+        <th><a href="https://github.com/vanvught/GD32F-Firmware-Update-UI" target="_blank"><img alt="GD32F Firmware Update UI" src="https://img.shields.io/github/stars/vanvught/GD32F-Firmware-Update-UI?style=social" /></a></th>
+    </tr>
 
 </table>
 
@@ -7997,6 +8093,14 @@
         <td><a href="https://github.com/kshitijaucharmal/Bard-Shell" target="_blank">Bard Shell</a></td>
         <td>Bard-Shell is a utility that allows you to use google's Bard ai in the linux terminal</td>
         <th><a href="https://github.com/kshitijaucharmal/Bard-Shell" target="_blank"><img alt="Bard Shell" src="https://img.shields.io/github/stars/kshitijaucharmal/Bard-Shell?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="TextRL" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-TextRL.png" /></td>
+        <td>Productivity</td>
+        <td>Python</td>
+        <td><a href="https://github.com/voidful/TextRL" target="_blank">TextRL</a></td>
+        <td>Implementation of ChatGPT RLHF (Reinforcement Learning with Human Feedback) on any generation model in huggingface's transformer (blommz-176B/bloom/gpt/bart/T5/MetaICL)</td>
+        <th><a href="https://github.com/voidful/TextRL" target="_blank"><img alt="TextRL" src="https://img.shields.io/github/stars/voidful/TextRL?style=social" /></a></th>
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="ClusterFuzz" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-clusterfuzz.png" /></td>
@@ -8883,6 +8987,14 @@
         <td><a href="https://simdjson.org" target="_blank">simdjson : Parsing gigabytes of JSON per second</a></td>
         <td>Parsing gigabytes of JSON per second </td>
         <th><a href="https://github.com/simdjson/simdjson" target="_blank"><img alt="simdjson : Parsing gigabytes of JSON per second" src="https://img.shields.io/github/stars/simdjson/simdjson?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Orange Pi DMX512 / RDM / MIDI / OSC / Art-Net / WS28xx / L6470 / Stepper / TLC59711 / PCA9685 / Servo / PWM / TCNet / SMPTE / RDMNet / LLRP / GD32 / GigaDevice" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-rpidmx512.jpg" /></td>
+        <td>Miscellaneous</td>
+        <td>C++</td>
+        <td><a href="http://www.orangepi-dmx.org/" target="_blank">Orange Pi DMX512 / RDM / MIDI / OSC / Art-Net / WS28xx / L6470 / Stepper / TLC59711 / PCA9685 / Servo / PWM / TCNet / SMPTE / RDMNet / LLRP / GD32 / GigaDevice</a></td>
+        <td>Orange Pi DMX512 / RDM / MIDI / OSC / Art-Net / WS28xx / L6470 / Stepper / TLC59711 / PCA9685 / Servo / PWM / TCNet / SMPTE / RDMNet / LLRP / GD32 / GigaDevice / Raspberry Pi</td>
+        <th><a href="https://github.com/vanvught/rpidmx512" target="_blank"><img alt="Orange Pi DMX512 / RDM / MIDI / OSC / Art-Net / WS28xx / L6470 / Stepper / TLC59711 / PCA9685 / Servo / PWM / TCNet / SMPTE / RDMNet / LLRP / GD32 / GigaDevice" src="https://img.shields.io/github/stars/vanvught/rpidmx512?style=social" /></a></th>
     </tr>
 
 </table>
