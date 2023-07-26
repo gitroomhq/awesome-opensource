@@ -148,6 +148,14 @@
         <th>Stargazers</th>
     </tr>
         <tr>
+        <td nowrap="nowrap"><img width="33" alt="Next.js Routes" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-nextjs-routes.jpg" /></td>
+        <td>Productivity</td>
+        <td>TypeScript</td>
+        <td><a href="https://github.com/tatethurston/nextjs-routes" target="_blank">Next.js Routes</a></td>
+        <td>Type safe routing for Next.js</td>
+        <th><a href="https://github.com/tatethurston/nextjs-routes" target="_blank"><img alt="Next.js Routes" src="https://img.shields.io/github/stars/tatethurston/nextjs-routes?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="TextRL" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-TextRL.png" /></td>
         <td>Productivity</td>
         <td>Python</td>
@@ -298,14 +306,6 @@
         <td><a href="https://github.com/fabiocaccamo/django-extra-settings" target="_blank">django-extra-settings</a></td>
         <td><g-emoji class="g-emoji" alias="gear" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2699.png">⚙️</g-emoji> config and manage typed extra settings using just the django admin.</td>
         <th><a href="https://github.com/fabiocaccamo/django-extra-settings" target="_blank"><img alt="django-extra-settings" src="https://img.shields.io/github/stars/fabiocaccamo/django-extra-settings?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="python-fsutil" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-python-fsutil.jpg" /></td>
-        <td>Miscellaneous</td>
-        <td>Python</td>
-        <td><a href="https://github.com/fabiocaccamo/python-fsutil" target="_blank">python-fsutil</a></td>
-        <td><g-emoji class="g-emoji" alias="computer" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4bb.png">?</g-emoji> <g-emoji class="g-emoji" alias="wrench" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f527.png">?</g-emoji> high-level file-system operations for lazy devs.</td>
-        <th><a href="https://github.com/fabiocaccamo/python-fsutil" target="_blank"><img alt="python-fsutil" src="https://img.shields.io/github/stars/fabiocaccamo/python-fsutil?style=social" /></a></th>
     </tr>
 
 </table>
@@ -3453,6 +3453,14 @@
         <td>chat web app for teams, sass with user management and ratelimit, support chatgpt(openai &amp; azure), claude or custom model</td>
         <th><a href="https://github.com/swuecho/chat" target="_blank"><img alt="chat" src="https://img.shields.io/github/stars/swuecho/chat?style=social" /></a></th>
     </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Next.js Routes" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-nextjs-routes.jpg" /></td>
+        <td>Productivity</td>
+        <td>TypeScript</td>
+        <td><a href="https://github.com/tatethurston/nextjs-routes" target="_blank">Next.js Routes</a></td>
+        <td>Type safe routing for Next.js</td>
+        <th><a href="https://github.com/tatethurston/nextjs-routes" target="_blank"><img alt="Next.js Routes" src="https://img.shields.io/github/stars/tatethurston/nextjs-routes?style=social" /></a></th>
+    </tr>
 
 </table>
 
@@ -6311,6 +6319,14 @@
         <td><a href="https://github.com/movesthatmatter/movex" target="_blank">Movex</a></td>
         <td>State Syncing Strategy for Multiplayers</td>
         <th><a href="https://github.com/movesthatmatter/movex" target="_blank"><img alt="Movex" src="https://img.shields.io/github/stars/movesthatmatter/movex?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Next.js Routes" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-nextjs-routes.jpg" /></td>
+        <td>Productivity</td>
+        <td>TypeScript</td>
+        <td><a href="https://github.com/tatethurston/nextjs-routes" target="_blank">Next.js Routes</a></td>
+        <td>Type safe routing for Next.js</td>
+        <th><a href="https://github.com/tatethurston/nextjs-routes" target="_blank"><img alt="Next.js Routes" src="https://img.shields.io/github/stars/tatethurston/nextjs-routes?style=social" /></a></th>
     </tr>
 
 </table>
