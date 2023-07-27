@@ -148,6 +148,14 @@
         <th>Stargazers</th>
     </tr>
         <tr>
+        <td nowrap="nowrap"><img width="33" alt="Prism" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-prism.png" /></td>
+        <td>Analytics</td>
+        <td>Python</td>
+        <td><a href="https://runprism.com" target="_blank">Prism</a></td>
+        <td>Prism is the easiest way to develop, orchestrate, and execute data pipelines in Python.</td>
+        <th><a href="https://github.com/runprism/prism" target="_blank"><img alt="Prism" src="https://img.shields.io/github/stars/runprism/prism?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="Next.js Routes" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-nextjs-routes.jpg" /></td>
         <td>Productivity</td>
         <td>TypeScript</td>
@@ -298,14 +306,6 @@
         <td><a href="https://github.com/fabiocaccamo/django-maintenance-mode" target="_blank">django-maintenance-mode</a></td>
         <td><g-emoji class="g-emoji" alias="construction" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f6a7.png">?</g-emoji> <g-emoji class="g-emoji" alias="hammer_and_wrench" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f6e0.png">?️</g-emoji> shows a 503 error page when maintenance-mode is on.</td>
         <th><a href="https://github.com/fabiocaccamo/django-maintenance-mode" target="_blank"><img alt="django-maintenance-mode" src="https://img.shields.io/github/stars/fabiocaccamo/django-maintenance-mode?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="django-extra-settings" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-django-extra-settings-1.jpg" /></td>
-        <td>Miscellaneous</td>
-        <td>Python</td>
-        <td><a href="https://github.com/fabiocaccamo/django-extra-settings" target="_blank">django-extra-settings</a></td>
-        <td><g-emoji class="g-emoji" alias="gear" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2699.png">⚙️</g-emoji> config and manage typed extra settings using just the django admin.</td>
-        <th><a href="https://github.com/fabiocaccamo/django-extra-settings" target="_blank"><img alt="django-extra-settings" src="https://img.shields.io/github/stars/fabiocaccamo/django-extra-settings?style=social" /></a></th>
     </tr>
 
 </table>
@@ -3514,6 +3514,14 @@
         <td><a href="https://railtrack.ch" target="_blank">Railtrack</a></td>
         <td>Next.js and Supabase app to track your train journeys in Europe</td>
         <th><a href="https://github.com/noahflk/railtrack" target="_blank"><img alt="Railtrack" src="https://img.shields.io/github/stars/noahflk/railtrack?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Prism" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-prism.png" /></td>
+        <td>Analytics</td>
+        <td>Python</td>
+        <td><a href="https://runprism.com" target="_blank">Prism</a></td>
+        <td>Prism is the easiest way to develop, orchestrate, and execute data pipelines in Python.</td>
+        <th><a href="https://github.com/runprism/prism" target="_blank"><img alt="Prism" src="https://img.shields.io/github/stars/runprism/prism?style=social" /></a></th>
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="OneFlow" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-oneflow.png" /></td>
@@ -8165,6 +8173,14 @@
         <td><a href="https://github.com/voidful/TextRL" target="_blank">TextRL</a></td>
         <td>Implementation of ChatGPT RLHF (Reinforcement Learning with Human Feedback) on any generation model in huggingface's transformer (blommz-176B/bloom/gpt/bart/T5/MetaICL)</td>
         <th><a href="https://github.com/voidful/TextRL" target="_blank"><img alt="TextRL" src="https://img.shields.io/github/stars/voidful/TextRL?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Prism" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-prism.png" /></td>
+        <td>Analytics</td>
+        <td>Python</td>
+        <td><a href="https://runprism.com" target="_blank">Prism</a></td>
+        <td>Prism is the easiest way to develop, orchestrate, and execute data pipelines in Python.</td>
+        <th><a href="https://github.com/runprism/prism" target="_blank"><img alt="Prism" src="https://img.shields.io/github/stars/runprism/prism?style=social" /></a></th>
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="ClusterFuzz" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-clusterfuzz.png" /></td>
