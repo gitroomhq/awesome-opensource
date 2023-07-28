@@ -148,6 +148,46 @@
         <th>Stargazers</th>
     </tr>
         <tr>
+        <td nowrap="nowrap"><img width="33" alt="gameboy" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-gameboy.jpg" /></td>
+        <td>Productivity</td>
+        <td>Rust</td>
+        <td><a href="https://github.com/mohanson/gameboy" target="_blank">gameboy</a></td>
+        <td>Full featured Cross-platform GameBoy emulator by Rust. Forever boys!.</td>
+        <th><a href="https://github.com/mohanson/gameboy" target="_blank"><img alt="gameboy" src="https://img.shields.io/github/stars/mohanson/gameboy?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="langchain-visualizer" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-langchain-visualizer.jpg" /></td>
+        <td>Observability</td>
+        <td>Python</td>
+        <td><a href="https://github.com/amosjyng/langchain-visualizer" target="_blank">langchain-visualizer</a></td>
+        <td>Visualization and debugging tool for LangChain workflows</td>
+        <th><a href="https://github.com/amosjyng/langchain-visualizer" target="_blank"><img alt="langchain-visualizer" src="https://img.shields.io/github/stars/amosjyng/langchain-visualizer?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="CTF Archives" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-ctf-archives.jpg" /></td>
+        <td>Security</td>
+        <td>Python</td>
+        <td><a href="https://twitter.com/sajjadium" target="_blank">CTF Archives</a></td>
+        <td> CTF Archives: Collection of CTF Challenges.</td>
+        <th><a href="https://github.com/sajjadium/ctf-archives" target="_blank"><img alt="CTF Archives" src="https://img.shields.io/github/stars/sajjadium/ctf-archives?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="CTF Writeups" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-ctf-writeups.jpg" /></td>
+        <td>Security</td>
+        <td>C++</td>
+        <td><a href="https://twitter.com/sajjadium" target="_blank">CTF Writeups</a></td>
+        <td>CTF Writeups: Collection of CTF "technical" writeups by PersianCats.</td>
+        <th><a href="https://github.com/sajjadium/ctf-writeups" target="_blank"><img alt="CTF Writeups" src="https://img.shields.io/github/stars/sajjadium/ctf-writeups?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="DeepCrawling" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-DeepCrawling.jpg" /></td>
+        <td>Security</td>
+        <td>Python</td>
+        <td><a href="https://twitter.com/sajjadium" target="_blank">DeepCrawling</a></td>
+        <td>Crawlium (DeepCrawling): A crawling platform based on Chrome (Chromium) browser to get a deeper look into the ecosystem of content inclusion on the Web.</td>
+        <th><a href="https://github.com/sajjadium/DeepCrawling" target="_blank"><img alt="DeepCrawling" src="https://img.shields.io/github/stars/sajjadium/DeepCrawling?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="Blender Toolbox" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-BlenderToolbox.jpg" /></td>
         <td>Productivity</td>
         <td>Python</td>
@@ -266,46 +306,6 @@
         <td><a href="https://github.com/kshitijaucharmal/Bard-Shell" target="_blank">Bard Shell</a></td>
         <td>Bard-Shell is a utility that allows you to use google's Bard ai in the linux terminal</td>
         <th><a href="https://github.com/kshitijaucharmal/Bard-Shell" target="_blank"><img alt="Bard Shell" src="https://img.shields.io/github/stars/kshitijaucharmal/Bard-Shell?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Norm" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-norm.jpg" /></td>
-        <td>Databases</td>
-        <td>Nim</td>
-        <td><a href="https://norm.nim.town" target="_blank">Norm</a></td>
-        <td>A Nim ORM for SQLite and Postgres</td>
-        <th><a href="https://github.com/moigagoo/norm" target="_blank"><img alt="Norm" src="https://img.shields.io/github/stars/moigagoo/norm?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="django-admin-interface" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-django-admin-interface.jpg" /></td>
-        <td>Miscellaneous</td>
-        <td>CSS</td>
-        <td><a href="https://github.com/fabiocaccamo/django-admin-interface" target="_blank">django-admin-interface</a></td>
-        <td><g-emoji class="g-emoji" alias="superhero" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f9b8.png">?</g-emoji> <g-emoji class="g-emoji" alias="zap" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/26a1.png">⚡</g-emoji> django's default admin interface with superpowers - customizable themes, popup windows replaced by modals and many other features.</td>
-        <th><a href="https://github.com/fabiocaccamo/django-admin-interface" target="_blank"><img alt="django-admin-interface" src="https://img.shields.io/github/stars/fabiocaccamo/django-admin-interface?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="python-benedict" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-python-benedict.jpg" /></td>
-        <td>Miscellaneous</td>
-        <td>Python</td>
-        <td><a href="https://github.com/fabiocaccamo/python-benedict" target="_blank">python-benedict</a></td>
-        <td><g-emoji class="g-emoji" alias="blue_book" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4d8.png">?</g-emoji> dict subclass with keylist/keypath support, built-in I/O operations (base64, csv, ini, json, pickle, plist, query-string, toml, xls, xml, yaml), s3 support and many utilities.</td>
-        <th><a href="https://github.com/fabiocaccamo/python-benedict" target="_blank"><img alt="python-benedict" src="https://img.shields.io/github/stars/fabiocaccamo/python-benedict?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="django-colorfield" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-django-colorfield-1.jpg" /></td>
-        <td>Miscellaneous</td>
-        <td>Python</td>
-        <td><a href="https://github.com/fabiocaccamo/django-colorfield" target="_blank">django-colorfield</a></td>
-        <td><g-emoji class="g-emoji" alias="art" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f3a8.png">?</g-emoji> color field for django models with a nice color-picker in the admin.</td>
-        <th><a href="https://github.com/fabiocaccamo/django-colorfield" target="_blank"><img alt="django-colorfield" src="https://img.shields.io/github/stars/fabiocaccamo/django-colorfield?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="django-treenode" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-django-treenode.jpg" /></td>
-        <td>Miscellaneous</td>
-        <td>Python</td>
-        <td><a href="https://github.com/fabiocaccamo/django-treenode" target="_blank">django-treenode</a></td>
-        <td><g-emoji class="g-emoji" alias="deciduous_tree" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f333.png">?</g-emoji> probably the best abstract model/admin for your tree based stuff.</td>
-        <th><a href="https://github.com/fabiocaccamo/django-treenode" target="_blank"><img alt="django-treenode" src="https://img.shields.io/github/stars/fabiocaccamo/django-treenode?style=social" /></a></th>
     </tr>
 
 </table>
@@ -2119,6 +2119,14 @@
         <td>Data usage monitoring app for android.</td>
         <th><a href="https://github.com/itsdrnoob/DataMonitor" target="_blank"><img alt="Data Monitor" src="https://img.shields.io/github/stars/itsdrnoob/DataMonitor?style=social" /></a></th>
     </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="langchain-visualizer" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-langchain-visualizer.jpg" /></td>
+        <td>Observability</td>
+        <td>Python</td>
+        <td><a href="https://github.com/amosjyng/langchain-visualizer" target="_blank">langchain-visualizer</a></td>
+        <td>Visualization and debugging tool for LangChain workflows</td>
+        <th><a href="https://github.com/amosjyng/langchain-visualizer" target="_blank"><img alt="langchain-visualizer" src="https://img.shields.io/github/stars/amosjyng/langchain-visualizer?style=social" /></a></th>
+    </tr>
 
 </table>
 
@@ -3469,6 +3477,14 @@
         <td>Some simple Blender scripts for rendering paper figures</td>
         <th><a href="https://github.com/HTDerekLiu/BlenderToolbox" target="_blank"><img alt="Blender Toolbox" src="https://img.shields.io/github/stars/HTDerekLiu/BlenderToolbox?style=social" /></a></th>
     </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="gameboy" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-gameboy.jpg" /></td>
+        <td>Productivity</td>
+        <td>Rust</td>
+        <td><a href="https://github.com/mohanson/gameboy" target="_blank">gameboy</a></td>
+        <td>Full featured Cross-platform GameBoy emulator by Rust. Forever boys!.</td>
+        <th><a href="https://github.com/mohanson/gameboy" target="_blank"><img alt="gameboy" src="https://img.shields.io/github/stars/mohanson/gameboy?style=social" /></a></th>
+    </tr>
 
 </table>
 
@@ -4008,6 +4024,30 @@
         <td><a href="http://ntinfo.biz" target="_blank">Detect it Easy</a></td>
         <td>Program for determining types of files for Windows, Linux and MacOS.</td>
         <th><a href="https://github.com/horsicq/Detect-It-Easy" target="_blank"><img alt="Detect it Easy" src="https://img.shields.io/github/stars/horsicq/Detect-It-Easy?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="CTF Archives" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-ctf-archives.jpg" /></td>
+        <td>Security</td>
+        <td>Python</td>
+        <td><a href="https://twitter.com/sajjadium" target="_blank">CTF Archives</a></td>
+        <td> CTF Archives: Collection of CTF Challenges.</td>
+        <th><a href="https://github.com/sajjadium/ctf-archives" target="_blank"><img alt="CTF Archives" src="https://img.shields.io/github/stars/sajjadium/ctf-archives?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="CTF Writeups" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-ctf-writeups.jpg" /></td>
+        <td>Security</td>
+        <td>C++</td>
+        <td><a href="https://twitter.com/sajjadium" target="_blank">CTF Writeups</a></td>
+        <td>CTF Writeups: Collection of CTF "technical" writeups by PersianCats.</td>
+        <th><a href="https://github.com/sajjadium/ctf-writeups" target="_blank"><img alt="CTF Writeups" src="https://img.shields.io/github/stars/sajjadium/ctf-writeups?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="DeepCrawling" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-DeepCrawling.jpg" /></td>
+        <td>Security</td>
+        <td>Python</td>
+        <td><a href="https://twitter.com/sajjadium" target="_blank">DeepCrawling</a></td>
+        <td>Crawlium (DeepCrawling): A crawling platform based on Chrome (Chromium) browser to get a deeper look into the ecosystem of content inclusion on the Web.</td>
+        <th><a href="https://github.com/sajjadium/DeepCrawling" target="_blank"><img alt="DeepCrawling" src="https://img.shields.io/github/stars/sajjadium/DeepCrawling?style=social" /></a></th>
     </tr>
 
 </table>
@@ -8590,6 +8630,30 @@
         <td>Some simple Blender scripts for rendering paper figures</td>
         <th><a href="https://github.com/HTDerekLiu/BlenderToolbox" target="_blank"><img alt="Blender Toolbox" src="https://img.shields.io/github/stars/HTDerekLiu/BlenderToolbox?style=social" /></a></th>
     </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="langchain-visualizer" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-langchain-visualizer.jpg" /></td>
+        <td>Observability</td>
+        <td>Python</td>
+        <td><a href="https://github.com/amosjyng/langchain-visualizer" target="_blank">langchain-visualizer</a></td>
+        <td>Visualization and debugging tool for LangChain workflows</td>
+        <th><a href="https://github.com/amosjyng/langchain-visualizer" target="_blank"><img alt="langchain-visualizer" src="https://img.shields.io/github/stars/amosjyng/langchain-visualizer?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="CTF Archives" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-ctf-archives.jpg" /></td>
+        <td>Security</td>
+        <td>Python</td>
+        <td><a href="https://twitter.com/sajjadium" target="_blank">CTF Archives</a></td>
+        <td> CTF Archives: Collection of CTF Challenges.</td>
+        <th><a href="https://github.com/sajjadium/ctf-archives" target="_blank"><img alt="CTF Archives" src="https://img.shields.io/github/stars/sajjadium/ctf-archives?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="DeepCrawling" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-DeepCrawling.jpg" /></td>
+        <td>Security</td>
+        <td>Python</td>
+        <td><a href="https://twitter.com/sajjadium" target="_blank">DeepCrawling</a></td>
+        <td>Crawlium (DeepCrawling): A crawling platform based on Chrome (Chromium) browser to get a deeper look into the ecosystem of content inclusion on the Web.</td>
+        <th><a href="https://github.com/sajjadium/DeepCrawling" target="_blank"><img alt="DeepCrawling" src="https://img.shields.io/github/stars/sajjadium/DeepCrawling?style=social" /></a></th>
+    </tr>
 
 </table>
 
@@ -8801,6 +8865,14 @@
         <td><a href="https://boytacean.joao.me" target="_blank">Boytacean</a></td>
         <td>A GB emulator that is written in Rust <g-emoji class="g-emoji" alias="crab" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f980.png">?</g-emoji>!</td>
         <th><a href="https://github.com/joamag/boytacean" target="_blank"><img alt="Boytacean" src="https://img.shields.io/github/stars/joamag/boytacean?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="gameboy" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-gameboy.jpg" /></td>
+        <td>Productivity</td>
+        <td>Rust</td>
+        <td><a href="https://github.com/mohanson/gameboy" target="_blank">gameboy</a></td>
+        <td>Full featured Cross-platform GameBoy emulator by Rust. Forever boys!.</td>
+        <th><a href="https://github.com/mohanson/gameboy" target="_blank"><img alt="gameboy" src="https://img.shields.io/github/stars/mohanson/gameboy?style=social" /></a></th>
     </tr>
 
 </table>
@@ -9091,6 +9163,14 @@
         <td><a href="http://www.orangepi-dmx.org/" target="_blank">Orange Pi DMX512 / RDM / MIDI / OSC / Art-Net / WS28xx / L6470 / Stepper / TLC59711 / PCA9685 / Servo / PWM / TCNet / SMPTE / RDMNet / LLRP / GD32 / GigaDevice</a></td>
         <td>Orange Pi DMX512 / RDM / MIDI / OSC / Art-Net / WS28xx / L6470 / Stepper / TLC59711 / PCA9685 / Servo / PWM / TCNet / SMPTE / RDMNet / LLRP / GD32 / GigaDevice / Raspberry Pi</td>
         <th><a href="https://github.com/vanvught/rpidmx512" target="_blank"><img alt="Orange Pi DMX512 / RDM / MIDI / OSC / Art-Net / WS28xx / L6470 / Stepper / TLC59711 / PCA9685 / Servo / PWM / TCNet / SMPTE / RDMNet / LLRP / GD32 / GigaDevice" src="https://img.shields.io/github/stars/vanvught/rpidmx512?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="CTF Writeups" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-ctf-writeups.jpg" /></td>
+        <td>Security</td>
+        <td>C++</td>
+        <td><a href="https://twitter.com/sajjadium" target="_blank">CTF Writeups</a></td>
+        <td>CTF Writeups: Collection of CTF "technical" writeups by PersianCats.</td>
+        <th><a href="https://github.com/sajjadium/ctf-writeups" target="_blank"><img alt="CTF Writeups" src="https://img.shields.io/github/stars/sajjadium/ctf-writeups?style=social" /></a></th>
     </tr>
 
 </table>
