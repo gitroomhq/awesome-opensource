@@ -148,6 +148,14 @@
         <th>Stargazers</th>
     </tr>
         <tr>
+        <td nowrap="nowrap"><img width="33" alt="Blender Toolbox" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-BlenderToolbox.jpg" /></td>
+        <td>Productivity</td>
+        <td>Python</td>
+        <td><a href="https://github.com/HTDerekLiu/BlenderToolbox" target="_blank">Blender Toolbox</a></td>
+        <td>Some simple Blender scripts for rendering paper figures</td>
+        <th><a href="https://github.com/HTDerekLiu/BlenderToolbox" target="_blank"><img alt="Blender Toolbox" src="https://img.shields.io/github/stars/HTDerekLiu/BlenderToolbox?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="Prism" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-prism.png" /></td>
         <td>Analytics</td>
         <td>Python</td>
@@ -298,14 +306,6 @@
         <td><a href="https://github.com/fabiocaccamo/django-treenode" target="_blank">django-treenode</a></td>
         <td><g-emoji class="g-emoji" alias="deciduous_tree" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f333.png">?</g-emoji> probably the best abstract model/admin for your tree based stuff.</td>
         <th><a href="https://github.com/fabiocaccamo/django-treenode" target="_blank"><img alt="django-treenode" src="https://img.shields.io/github/stars/fabiocaccamo/django-treenode?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="django-maintenance-mode" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-django-maintenance-mode.jpg" /></td>
-        <td>Miscellaneous</td>
-        <td>Python</td>
-        <td><a href="https://github.com/fabiocaccamo/django-maintenance-mode" target="_blank">django-maintenance-mode</a></td>
-        <td><g-emoji class="g-emoji" alias="construction" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f6a7.png">?</g-emoji> <g-emoji class="g-emoji" alias="hammer_and_wrench" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f6e0.png">?️</g-emoji> shows a 503 error page when maintenance-mode is on.</td>
-        <th><a href="https://github.com/fabiocaccamo/django-maintenance-mode" target="_blank"><img alt="django-maintenance-mode" src="https://img.shields.io/github/stars/fabiocaccamo/django-maintenance-mode?style=social" /></a></th>
     </tr>
 
 </table>
@@ -3460,6 +3460,14 @@
         <td><a href="https://github.com/tatethurston/nextjs-routes" target="_blank">Next.js Routes</a></td>
         <td>Type safe routing for Next.js</td>
         <th><a href="https://github.com/tatethurston/nextjs-routes" target="_blank"><img alt="Next.js Routes" src="https://img.shields.io/github/stars/tatethurston/nextjs-routes?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Blender Toolbox" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-BlenderToolbox.jpg" /></td>
+        <td>Productivity</td>
+        <td>Python</td>
+        <td><a href="https://github.com/HTDerekLiu/BlenderToolbox" target="_blank">Blender Toolbox</a></td>
+        <td>Some simple Blender scripts for rendering paper figures</td>
+        <th><a href="https://github.com/HTDerekLiu/BlenderToolbox" target="_blank"><img alt="Blender Toolbox" src="https://img.shields.io/github/stars/HTDerekLiu/BlenderToolbox?style=social" /></a></th>
     </tr>
 
 </table>
@@ -8573,6 +8581,14 @@
         <td><a href="https://github.com/fabiocaccamo/django-redirects" target="_blank">django-redirects</a></td>
         <td> <g-emoji class="g-emoji" alias="arrow_right_hook" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/21aa.png">↪️</g-emoji> <g-emoji class="g-emoji" alias="white_check_mark" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2705.png">✅</g-emoji> redirects as they should be, with full control.</td>
         <th><a href="https://github.com/fabiocaccamo/django-redirects" target="_blank"><img alt="django-redirects" src="https://img.shields.io/github/stars/fabiocaccamo/django-redirects?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Blender Toolbox" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-BlenderToolbox.jpg" /></td>
+        <td>Productivity</td>
+        <td>Python</td>
+        <td><a href="https://github.com/HTDerekLiu/BlenderToolbox" target="_blank">Blender Toolbox</a></td>
+        <td>Some simple Blender scripts for rendering paper figures</td>
+        <th><a href="https://github.com/HTDerekLiu/BlenderToolbox" target="_blank"><img alt="Blender Toolbox" src="https://img.shields.io/github/stars/HTDerekLiu/BlenderToolbox?style=social" /></a></th>
     </tr>
 
 </table>
