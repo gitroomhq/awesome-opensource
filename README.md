@@ -148,6 +148,14 @@
         <th>Stargazers</th>
     </tr>
         <tr>
+        <td nowrap="nowrap"><img width="33" alt="Animation" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-Animation.jpg" /></td>
+        <td>Miscellaneous</td>
+        <td>Kotlin</td>
+        <td><a href="https://github.com/kongpf8848/Animation" target="_blank">Animation</a></td>
+        <td>Android各种动画效果合集，项目包含了丰富的动画实例(逐帧动画，补间动画，Lottie动画，GIF动画，SVGA动画)，体验动画之美，让Android动起来???</td>
+        <th><a href="https://github.com/kongpf8848/Animation" target="_blank"><img alt="Animation" src="https://img.shields.io/github/stars/kongpf8848/Animation?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="gameboy" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-gameboy.jpg" /></td>
         <td>Productivity</td>
         <td>Rust</td>
@@ -298,14 +306,6 @@
         <td><a href="https://github.com/movesthatmatter/movex" target="_blank">Movex</a></td>
         <td>State Syncing Strategy for Multiplayers</td>
         <th><a href="https://github.com/movesthatmatter/movex" target="_blank"><img alt="Movex" src="https://img.shields.io/github/stars/movesthatmatter/movex?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Bard Shell" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-Bard-Shell.jpg" /></td>
-        <td>Productivity</td>
-        <td>Python</td>
-        <td><a href="https://github.com/kshitijaucharmal/Bard-Shell" target="_blank">Bard Shell</a></td>
-        <td>Bard-Shell is a utility that allows you to use google's Bard ai in the linux terminal</td>
-        <th><a href="https://github.com/kshitijaucharmal/Bard-Shell" target="_blank"><img alt="Bard Shell" src="https://img.shields.io/github/stars/kshitijaucharmal/Bard-Shell?style=social" /></a></th>
     </tr>
 
 </table>
@@ -1888,6 +1888,14 @@
         <td><a href="https://github.com/movesthatmatter/movex" target="_blank">Movex</a></td>
         <td>State Syncing Strategy for Multiplayers</td>
         <th><a href="https://github.com/movesthatmatter/movex" target="_blank"><img alt="Movex" src="https://img.shields.io/github/stars/movesthatmatter/movex?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Animation" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-Animation.jpg" /></td>
+        <td>Miscellaneous</td>
+        <td>Kotlin</td>
+        <td><a href="https://github.com/kongpf8848/Animation" target="_blank">Animation</a></td>
+        <td>Android各种动画效果合集，项目包含了丰富的动画实例(逐帧动画，补间动画，Lottie动画，GIF动画，SVGA动画)，体验动画之美，让Android动起来???</td>
+        <th><a href="https://github.com/kongpf8848/Animation" target="_blank"><img alt="Animation" src="https://img.shields.io/github/stars/kongpf8848/Animation?style=social" /></a></th>
     </tr>
 
 </table>
@@ -6759,6 +6767,14 @@
         <td><a href="https://www.acra.ch" target="_blank">ACRA</a></td>
         <td>Application Crash Reports for Android</td>
         <th><a href="https://github.com/ACRA/acra" target="_blank"><img alt="ACRA" src="https://img.shields.io/github/stars/ACRA/acra?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Animation" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-Animation.jpg" /></td>
+        <td>Miscellaneous</td>
+        <td>Kotlin</td>
+        <td><a href="https://github.com/kongpf8848/Animation" target="_blank">Animation</a></td>
+        <td>Android各种动画效果合集，项目包含了丰富的动画实例(逐帧动画，补间动画，Lottie动画，GIF动画，SVGA动画)，体验动画之美，让Android动起来???</td>
+        <th><a href="https://github.com/kongpf8848/Animation" target="_blank"><img alt="Animation" src="https://img.shields.io/github/stars/kongpf8848/Animation?style=social" /></a></th>
     </tr>
 
 </table>
