@@ -156,6 +156,54 @@
         <th><a href="https://github.com/kongpf8848/Animation" target="_blank"><img alt="Animation" src="https://img.shields.io/github/stars/kongpf8848/Animation?style=social" /></a></th>
     </tr>
     <tr>
+        <td nowrap="nowrap"><img width="33" alt="Documenso" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-documenso.png" /></td>
+        <td>Collaboration</td>
+        <td>TypeScript</td>
+        <td><a href="https://documenso.com" target="_blank">Documenso</a></td>
+        <td>The Open Source DocuSign Alternative.</td>
+        <th><a href="https://github.com/documenso/documenso" target="_blank"><img alt="Documenso" src="https://img.shields.io/github/stars/documenso/documenso?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="xdg" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-xdg.jpg" /></td>
+        <td>Miscellaneous</td>
+        <td>Go</td>
+        <td><a href="https://pkg.go.dev/github.com/adrg/xdg" target="_blank">xdg</a></td>
+        <td>Go implementation of the XDG Base Directory Specification and XDG user directories</td>
+        <th><a href="https://github.com/adrg/xdg" target="_blank"><img alt="xdg" src="https://img.shields.io/github/stars/adrg/xdg?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="libvlc-go" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-libvlc-go.jpg" /></td>
+        <td>Miscellaneous</td>
+        <td>Go</td>
+        <td><a href="https://pkg.go.dev/github.com/adrg/libvlc-go/v3" target="_blank">libvlc-go</a></td>
+        <td>Go bindings for libVLC and high-level media player interface</td>
+        <th><a href="https://github.com/adrg/libvlc-go" target="_blank"><img alt="libvlc-go" src="https://img.shields.io/github/stars/adrg/libvlc-go?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="strutil" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-strutil-1.jpg" /></td>
+        <td>Miscellaneous</td>
+        <td>Go</td>
+        <td><a href="https://pkg.go.dev/github.com/adrg/strutil" target="_blank">strutil</a></td>
+        <td>Golang metrics for calculating string similarity and other string utility functions</td>
+        <th><a href="https://github.com/adrg/strutil" target="_blank"><img alt="strutil" src="https://img.shields.io/github/stars/adrg/strutil?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="go-wkhtmltopdf" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-go-wkhtmltopdf.jpg" /></td>
+        <td>Miscellaneous</td>
+        <td>Go</td>
+        <td><a href="https://pkg.go.dev/github.com/adrg/go-wkhtmltopdf" target="_blank">go-wkhtmltopdf</a></td>
+        <td>Go bindings for wkhtmltopdf and high-level HTML to PDF conversion interface</td>
+        <th><a href="https://github.com/adrg/go-wkhtmltopdf" target="_blank"><img alt="go-wkhtmltopdf" src="https://img.shields.io/github/stars/adrg/go-wkhtmltopdf?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="frontmatter" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-frontmatter.jpg" /></td>
+        <td>Miscellaneous</td>
+        <td>Go</td>
+        <td><a href="https://pkg.go.dev/github.com/adrg/frontmatter" target="_blank">frontmatter</a></td>
+        <td>Go library for detecting and decoding various content front matter formats</td>
+        <th><a href="https://github.com/adrg/frontmatter" target="_blank"><img alt="frontmatter" src="https://img.shields.io/github/stars/adrg/frontmatter?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="gameboy" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-gameboy.jpg" /></td>
         <td>Productivity</td>
         <td>Rust</td>
@@ -258,54 +306,6 @@
         <td><a href="https://www.gd32-dmx.org/pixel.html" target="_blank">GD32F450 Pixel DMX512</a></td>
         <td>GD32F450 Pixel DMX512</td>
         <th><a href="https://github.com/vanvught/GD32F450-Pixel-DMX512" target="_blank"><img alt="GD32F450 Pixel DMX512" src="https://img.shields.io/github/stars/vanvught/GD32F450-Pixel-DMX512?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Remote Configuration UI" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-Remote-Config-UI.jpg" /></td>
-        <td>Productivity</td>
-        <td>Java</td>
-        <td><a href="https://www.orangepi-dmx.org" target="_blank">Remote Configuration UI</a></td>
-        <td>Remote Configuration UI</td>
-        <th><a href="https://github.com/vanvught/Remote-Config-UI" target="_blank"><img alt="Remote Configuration UI" src="https://img.shields.io/github/stars/vanvught/Remote-Config-UI?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="GD32F Firmware Update UI" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-GD32F-Firmware-Update-UI.jpg" /></td>
-        <td>Productivity</td>
-        <td>Java</td>
-        <td><a href="https://www.gd32-dmx.org/bootloader.html" target="_blank">GD32F Firmware Update UI</a></td>
-        <td>GD32F Firmware Update UI</td>
-        <th><a href="https://github.com/vanvught/GD32F-Firmware-Update-UI" target="_blank"><img alt="GD32F Firmware Update UI" src="https://img.shields.io/github/stars/vanvught/GD32F-Firmware-Update-UI?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="chat" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-chat.jpg" /></td>
-        <td>Productivity</td>
-        <td>Go</td>
-        <td><a href="https://github.com/swuecho/chat" target="_blank">chat</a></td>
-        <td>chat web app for teams, sass with user management and ratelimit, support chatgpt(openai &amp; azure), claude or custom model</td>
-        <th><a href="https://github.com/swuecho/chat" target="_blank"><img alt="chat" src="https://img.shields.io/github/stars/swuecho/chat?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Data Monitor" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-DataMonitor.png" /></td>
-        <td>Observability</td>
-        <td>Java</td>
-        <td><a href="https://github.com/itsdrnoob/DataMonitor" target="_blank">Data Monitor</a></td>
-        <td>Data usage monitoring app for android.</td>
-        <th><a href="https://github.com/itsdrnoob/DataMonitor" target="_blank"><img alt="Data Monitor" src="https://img.shields.io/github/stars/itsdrnoob/DataMonitor?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Magento 2 Message Queue Retry" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-magento2-message-queue-retry.png" /></td>
-        <td>Infrastructure</td>
-        <td>PHP</td>
-        <td><a href="https://www.run-as-root.sh" target="_blank">Magento 2 Message Queue Retry</a></td>
-        <td>Magento 2 RabbitMQ message queue retry module</td>
-        <th><a href="https://github.com/run-as-root/magento2-message-queue-retry" target="_blank"><img alt="Magento 2 Message Queue Retry" src="https://img.shields.io/github/stars/run-as-root/magento2-message-queue-retry?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Movex" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-movex.png" /></td>
-        <td>Miscellaneous</td>
-        <td>TypeScript</td>
-        <td><a href="https://github.com/movesthatmatter/movex" target="_blank">Movex</a></td>
-        <td>State Syncing Strategy for Multiplayers</td>
-        <th><a href="https://github.com/movesthatmatter/movex" target="_blank"><img alt="Movex" src="https://img.shields.io/github/stars/movesthatmatter/movex?style=social" /></a></th>
     </tr>
 
 </table>
@@ -1896,6 +1896,46 @@
         <td><a href="https://github.com/kongpf8848/Animation" target="_blank">Animation</a></td>
         <td>Android各种动画效果合集，项目包含了丰富的动画实例(逐帧动画，补间动画，Lottie动画，GIF动画，SVGA动画)，体验动画之美，让Android动起来???</td>
         <th><a href="https://github.com/kongpf8848/Animation" target="_blank"><img alt="Animation" src="https://img.shields.io/github/stars/kongpf8848/Animation?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="xdg" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-xdg.jpg" /></td>
+        <td>Miscellaneous</td>
+        <td>Go</td>
+        <td><a href="https://pkg.go.dev/github.com/adrg/xdg" target="_blank">xdg</a></td>
+        <td>Go implementation of the XDG Base Directory Specification and XDG user directories</td>
+        <th><a href="https://github.com/adrg/xdg" target="_blank"><img alt="xdg" src="https://img.shields.io/github/stars/adrg/xdg?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="libvlc-go" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-libvlc-go.jpg" /></td>
+        <td>Miscellaneous</td>
+        <td>Go</td>
+        <td><a href="https://pkg.go.dev/github.com/adrg/libvlc-go/v3" target="_blank">libvlc-go</a></td>
+        <td>Go bindings for libVLC and high-level media player interface</td>
+        <th><a href="https://github.com/adrg/libvlc-go" target="_blank"><img alt="libvlc-go" src="https://img.shields.io/github/stars/adrg/libvlc-go?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="strutil" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-strutil-1.jpg" /></td>
+        <td>Miscellaneous</td>
+        <td>Go</td>
+        <td><a href="https://pkg.go.dev/github.com/adrg/strutil" target="_blank">strutil</a></td>
+        <td>Golang metrics for calculating string similarity and other string utility functions</td>
+        <th><a href="https://github.com/adrg/strutil" target="_blank"><img alt="strutil" src="https://img.shields.io/github/stars/adrg/strutil?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="go-wkhtmltopdf" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-go-wkhtmltopdf.jpg" /></td>
+        <td>Miscellaneous</td>
+        <td>Go</td>
+        <td><a href="https://pkg.go.dev/github.com/adrg/go-wkhtmltopdf" target="_blank">go-wkhtmltopdf</a></td>
+        <td>Go bindings for wkhtmltopdf and high-level HTML to PDF conversion interface</td>
+        <th><a href="https://github.com/adrg/go-wkhtmltopdf" target="_blank"><img alt="go-wkhtmltopdf" src="https://img.shields.io/github/stars/adrg/go-wkhtmltopdf?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="frontmatter" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-frontmatter.jpg" /></td>
+        <td>Miscellaneous</td>
+        <td>Go</td>
+        <td><a href="https://pkg.go.dev/github.com/adrg/frontmatter" target="_blank">frontmatter</a></td>
+        <td>Go library for detecting and decoding various content front matter formats</td>
+        <th><a href="https://github.com/adrg/frontmatter" target="_blank"><img alt="frontmatter" src="https://img.shields.io/github/stars/adrg/frontmatter?style=social" /></a></th>
     </tr>
 
 </table>
@@ -4295,6 +4335,14 @@
         <td>Dynamic SLAM, Life-long SLAM Research(Lidar, Visual, Sensor Fusion etc.) </td>
         <th><a href="https://github.com/zhuhu00/Awesome_Dynamic_SLAM" target="_blank"><img alt="Awesome_Dynamic_SLAM" src="https://img.shields.io/github/stars/zhuhu00/Awesome_Dynamic_SLAM?style=social" /></a></th>
     </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Documenso" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-documenso.png" /></td>
+        <td>Collaboration</td>
+        <td>TypeScript</td>
+        <td><a href="https://documenso.com" target="_blank">Documenso</a></td>
+        <td>The Open Source DocuSign Alternative.</td>
+        <th><a href="https://github.com/documenso/documenso" target="_blank"><img alt="Documenso" src="https://img.shields.io/github/stars/documenso/documenso?style=social" /></a></th>
+    </tr>
 
 </table>
 
@@ -6392,6 +6440,14 @@
         <td>Type safe routing for Next.js</td>
         <th><a href="https://github.com/tatethurston/nextjs-routes" target="_blank"><img alt="Next.js Routes" src="https://img.shields.io/github/stars/tatethurston/nextjs-routes?style=social" /></a></th>
     </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Documenso" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-documenso.png" /></td>
+        <td>Collaboration</td>
+        <td>TypeScript</td>
+        <td><a href="https://documenso.com" target="_blank">Documenso</a></td>
+        <td>The Open Source DocuSign Alternative.</td>
+        <th><a href="https://github.com/documenso/documenso" target="_blank"><img alt="Documenso" src="https://img.shields.io/github/stars/documenso/documenso?style=social" /></a></th>
+    </tr>
 
 </table>
 
@@ -7633,6 +7689,46 @@
         <td><a href="https://github.com/swuecho/chat" target="_blank">chat</a></td>
         <td>chat web app for teams, sass with user management and ratelimit, support chatgpt(openai &amp; azure), claude or custom model</td>
         <th><a href="https://github.com/swuecho/chat" target="_blank"><img alt="chat" src="https://img.shields.io/github/stars/swuecho/chat?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="xdg" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-xdg.jpg" /></td>
+        <td>Miscellaneous</td>
+        <td>Go</td>
+        <td><a href="https://pkg.go.dev/github.com/adrg/xdg" target="_blank">xdg</a></td>
+        <td>Go implementation of the XDG Base Directory Specification and XDG user directories</td>
+        <th><a href="https://github.com/adrg/xdg" target="_blank"><img alt="xdg" src="https://img.shields.io/github/stars/adrg/xdg?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="libvlc-go" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-libvlc-go.jpg" /></td>
+        <td>Miscellaneous</td>
+        <td>Go</td>
+        <td><a href="https://pkg.go.dev/github.com/adrg/libvlc-go/v3" target="_blank">libvlc-go</a></td>
+        <td>Go bindings for libVLC and high-level media player interface</td>
+        <th><a href="https://github.com/adrg/libvlc-go" target="_blank"><img alt="libvlc-go" src="https://img.shields.io/github/stars/adrg/libvlc-go?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="strutil" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-strutil-1.jpg" /></td>
+        <td>Miscellaneous</td>
+        <td>Go</td>
+        <td><a href="https://pkg.go.dev/github.com/adrg/strutil" target="_blank">strutil</a></td>
+        <td>Golang metrics for calculating string similarity and other string utility functions</td>
+        <th><a href="https://github.com/adrg/strutil" target="_blank"><img alt="strutil" src="https://img.shields.io/github/stars/adrg/strutil?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="go-wkhtmltopdf" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-go-wkhtmltopdf.jpg" /></td>
+        <td>Miscellaneous</td>
+        <td>Go</td>
+        <td><a href="https://pkg.go.dev/github.com/adrg/go-wkhtmltopdf" target="_blank">go-wkhtmltopdf</a></td>
+        <td>Go bindings for wkhtmltopdf and high-level HTML to PDF conversion interface</td>
+        <th><a href="https://github.com/adrg/go-wkhtmltopdf" target="_blank"><img alt="go-wkhtmltopdf" src="https://img.shields.io/github/stars/adrg/go-wkhtmltopdf?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="frontmatter" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-frontmatter.jpg" /></td>
+        <td>Miscellaneous</td>
+        <td>Go</td>
+        <td><a href="https://pkg.go.dev/github.com/adrg/frontmatter" target="_blank">frontmatter</a></td>
+        <td>Go library for detecting and decoding various content front matter formats</td>
+        <th><a href="https://github.com/adrg/frontmatter" target="_blank"><img alt="frontmatter" src="https://img.shields.io/github/stars/adrg/frontmatter?style=social" /></a></th>
     </tr>
 
 </table>
