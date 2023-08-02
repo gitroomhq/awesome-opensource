@@ -131,6 +131,8 @@
                 <a href="#pascal">Top 20 Pascal libraries</a>
              </li>          <li>
                 <a href="#nim">Top 20 Nim libraries</a>
+             </li>          <li>
+                <a href="#mustache">Top 20 Mustache libraries</a>
              </li>        
         </ul>
     </li>
@@ -162,6 +164,14 @@
         <td><a href="https://github.com/Shashank02051997/VegetableOrderUI-Android" target="_blank">VegetableOrderUI-Android</a></td>
         <td>Check out the new style for App Design aims for the Vegetable Order Service using jetpack compose...<g-emoji class="g-emoji" alias="wink" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f609.png">?</g-emoji><g-emoji class="g-emoji" alias="grinning" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f600.png">?</g-emoji><g-emoji class="g-emoji" alias="grin" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f601.png">?</g-emoji><g-emoji class="g-emoji" alias="sunglasses" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f60e.png">?</g-emoji></td>
         <th><a href="https://github.com/Shashank02051997/VegetableOrderUI-Android" target="_blank"><img alt="VegetableOrderUI-Android" src="https://img.shields.io/github/stars/Shashank02051997/VegetableOrderUI-Android?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="GIthub Readme" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-thmsgbrt.jpg" /></td>
+        <td>Miscellaneous</td>
+        <td>Mustache</td>
+        <td><a href="https://github.com/thmsgbrt/thmsgbrt" target="_blank">GIthub Readme</a></td>
+        <td>My awesome README.md</td>
+        <th><a href="https://github.com/thmsgbrt/thmsgbrt" target="_blank"><img alt="GIthub Readme" src="https://img.shields.io/github/stars/thmsgbrt/thmsgbrt?style=social" /></a></th>
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="Animation" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-Animation.jpg" /></td>
@@ -298,14 +308,6 @@
         <td><a href="http://ntinfo.biz" target="_blank">Detect it Easy</a></td>
         <td>Program for determining types of files for Windows, Linux and MacOS.</td>
         <th><a href="https://github.com/horsicq/Detect-It-Easy" target="_blank"><img alt="Detect it Easy" src="https://img.shields.io/github/stars/horsicq/Detect-It-Easy?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Orange Pi DMX512 / RDM / MIDI / OSC / Art-Net / WS28xx / L6470 / Stepper / TLC59711 / PCA9685 / Servo / PWM / TCNet / SMPTE / RDMNet / LLRP / GD32 / GigaDevice" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-rpidmx512.jpg" /></td>
-        <td>Miscellaneous</td>
-        <td>C++</td>
-        <td><a href="http://www.orangepi-dmx.org/" target="_blank">Orange Pi DMX512 / RDM / MIDI / OSC / Art-Net / WS28xx / L6470 / Stepper / TLC59711 / PCA9685 / Servo / PWM / TCNet / SMPTE / RDMNet / LLRP / GD32 / GigaDevice</a></td>
-        <td>Orange Pi DMX512 / RDM / MIDI / OSC / Art-Net / WS28xx / L6470 / Stepper / TLC59711 / PCA9685 / Servo / PWM / TCNet / SMPTE / RDMNet / LLRP / GD32 / GigaDevice / Raspberry Pi</td>
-        <th><a href="https://github.com/vanvught/rpidmx512" target="_blank"><img alt="Orange Pi DMX512 / RDM / MIDI / OSC / Art-Net / WS28xx / L6470 / Stepper / TLC59711 / PCA9685 / Servo / PWM / TCNet / SMPTE / RDMNet / LLRP / GD32 / GigaDevice" src="https://img.shields.io/github/stars/vanvught/rpidmx512?style=social" /></a></th>
     </tr>
 
 </table>
@@ -1936,6 +1938,14 @@
         <td><a href="https://pkg.go.dev/github.com/adrg/frontmatter" target="_blank">frontmatter</a></td>
         <td>Go library for detecting and decoding various content front matter formats</td>
         <th><a href="https://github.com/adrg/frontmatter" target="_blank"><img alt="frontmatter" src="https://img.shields.io/github/stars/adrg/frontmatter?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="GIthub Readme" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-thmsgbrt.jpg" /></td>
+        <td>Miscellaneous</td>
+        <td>Mustache</td>
+        <td><a href="https://github.com/thmsgbrt/thmsgbrt" target="_blank">GIthub Readme</a></td>
+        <td>My awesome README.md</td>
+        <th><a href="https://github.com/thmsgbrt/thmsgbrt" target="_blank"><img alt="GIthub Readme" src="https://img.shields.io/github/stars/thmsgbrt/thmsgbrt?style=social" /></a></th>
     </tr>
 
 </table>
@@ -10427,6 +10437,28 @@
         <td><a href="https://norm.nim.town" target="_blank">Norm</a></td>
         <td>A Nim ORM for SQLite and Postgres</td>
         <th><a href="https://github.com/moigagoo/norm" target="_blank"><img alt="Norm" src="https://img.shields.io/github/stars/moigagoo/norm?style=social" /></a></th>
+    </tr>
+
+</table>
+
+<br /><br />
+<h2 id="mustache">Top 20 Mustache libraries</h2>
+<table>
+    <tr>
+        <th>Icon</th>
+        <th>Category</th>
+        <th>Language</th>
+        <th>Name</th>
+        <th>Description</th>
+        <th>Stargazers</th>
+    </tr>
+        <tr>
+        <td nowrap="nowrap"><img width="33" alt="GIthub Readme" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-thmsgbrt.jpg" /></td>
+        <td>Miscellaneous</td>
+        <td>Mustache</td>
+        <td><a href="https://github.com/thmsgbrt/thmsgbrt" target="_blank">GIthub Readme</a></td>
+        <td>My awesome README.md</td>
+        <th><a href="https://github.com/thmsgbrt/thmsgbrt" target="_blank"><img alt="GIthub Readme" src="https://img.shields.io/github/stars/thmsgbrt/thmsgbrt?style=social" /></a></th>
     </tr>
 
 </table>
