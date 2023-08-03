@@ -84,6 +84,8 @@
              </li>          <li>
                 <a href="#scss">Top 20 SCSS libraries</a>
              </li>          <li>
+                <a href="#tex">Top 20 TeX libraries</a>
+             </li>          <li>
                 <a href="#c">Top 20 C libraries</a>
              </li>          <li>
                 <a href="#markdown">Top 20 Markdown libraries</a>
@@ -99,8 +101,6 @@
                 <a href="#rich-text-format">Top 20 Rich Text Format libraries</a>
              </li>          <li>
                 <a href="#elixir">Top 20 Elixir libraries</a>
-             </li>          <li>
-                <a href="#tex">Top 20 TeX libraries</a>
              </li>          <li>
                 <a href="#emacs-lisp">Top 20 Emacs Lisp libraries</a>
              </li>          <li>
@@ -158,28 +158,36 @@
         <th><a href="https://github.com/AnsGoo/openDataV" target="_blank"><img alt="OpenDataV" src="https://img.shields.io/github/stars/AnsGoo/openDataV?style=social" /></a></th>
     </tr>
     <tr>
+        <td nowrap="nowrap"><img width="33" alt="LLM-in-Vision" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-LLM-in-Vision.jpg" /></td>
+        <td>Miscellaneous</td>
+        <td>undefined</td>
+        <td><a href="https://github.com/DirtyHarryLYL/LLM-in-Vision" target="_blank">LLM-in-Vision</a></td>
+        <td>Recent LLM-based CV and related works. Welcome to comment/contribute!</td>
+        <th><a href="https://github.com/DirtyHarryLYL/LLM-in-Vision" target="_blank"><img alt="LLM-in-Vision" src="https://img.shields.io/github/stars/DirtyHarryLYL/LLM-in-Vision?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="HOI-Learning-List" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-HOI-Learning-List.jpg" /></td>
+        <td>Miscellaneous</td>
+        <td>undefined</td>
+        <td><a href="https://github.com/DirtyHarryLYL/HOI-Learning-List" target="_blank">HOI-Learning-List</a></td>
+        <td>A list of Human-Object Interaction Learning.</td>
+        <th><a href="https://github.com/DirtyHarryLYL/HOI-Learning-List" target="_blank"><img alt="HOI-Learning-List" src="https://img.shields.io/github/stars/DirtyHarryLYL/HOI-Learning-List?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Resume Matcher" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-Resume-Matcher.jpg" /></td>
+        <td>Productivity</td>
+        <td>Python</td>
+        <td><a href="https://www.resumematcher.fyi/" target="_blank">Resume Matcher</a></td>
+        <td>Open Source Free ATS Tool to compare Resumes with Job Descriptions and create a score to rank them.</td>
+        <th><a href="https://github.com/srbhr/Resume-Matcher" target="_blank"><img alt="Resume Matcher" src="https://img.shields.io/github/stars/srbhr/Resume-Matcher?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="Kubescape" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-kubescape.png" /></td>
         <td>Security</td>
         <td>Go</td>
         <td><a href="https://github.com/kubescape/kubescape" target="_blank">Kubescape</a></td>
         <td>Kubescape is an open-source Kubernetes security platform for your IDE, CI/CD pipelines, and clusters. It includes risk analysis, security, compliance, and misconfiguration scanning, saving Kubernet…</td>
         <th><a href="https://github.com/kubescape/kubescape" target="_blank"><img alt="Kubescape" src="https://img.shields.io/github/stars/kubescape/kubescape?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="VegetableOrderUI-Android" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-VegetableOrderUI-Android.jpg" /></td>
-        <td>Productivity</td>
-        <td>Kotlin</td>
-        <td><a href="https://github.com/Shashank02051997/VegetableOrderUI-Android" target="_blank">VegetableOrderUI-Android</a></td>
-        <td>Check out the new style for App Design aims for the Vegetable Order Service using jetpack compose...<g-emoji class="g-emoji" alias="wink" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f609.png">?</g-emoji><g-emoji class="g-emoji" alias="grinning" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f600.png">?</g-emoji><g-emoji class="g-emoji" alias="grin" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f601.png">?</g-emoji><g-emoji class="g-emoji" alias="sunglasses" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f60e.png">?</g-emoji></td>
-        <th><a href="https://github.com/Shashank02051997/VegetableOrderUI-Android" target="_blank"><img alt="VegetableOrderUI-Android" src="https://img.shields.io/github/stars/Shashank02051997/VegetableOrderUI-Android?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="GIthub Readme" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-thmsgbrt.jpg" /></td>
-        <td>Miscellaneous</td>
-        <td>Mustache</td>
-        <td><a href="https://github.com/thmsgbrt/thmsgbrt" target="_blank">GIthub Readme</a></td>
-        <td>My awesome README.md</td>
-        <th><a href="https://github.com/thmsgbrt/thmsgbrt" target="_blank"><img alt="GIthub Readme" src="https://img.shields.io/github/stars/thmsgbrt/thmsgbrt?style=social" /></a></th>
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="@node-oauth/oauth2-server" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-node-oauth2-server.png" /></td>
@@ -212,6 +220,22 @@
         <td><a href="https://github.com/jankapunkt/meteor-react-native-starter" target="_blank">Meteor + React Native Starter Template</a></td>
         <td>The code repo for our workshop</td>
         <th><a href="https://github.com/jankapunkt/meteor-react-native-starter" target="_blank"><img alt="Meteor + React Native Starter Template" src="https://img.shields.io/github/stars/jankapunkt/meteor-react-native-starter?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="VegetableOrderUI-Android" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-VegetableOrderUI-Android.jpg" /></td>
+        <td>Productivity</td>
+        <td>Kotlin</td>
+        <td><a href="https://github.com/Shashank02051997/VegetableOrderUI-Android" target="_blank">VegetableOrderUI-Android</a></td>
+        <td>Check out the new style for App Design aims for the Vegetable Order Service using jetpack compose...<g-emoji class="g-emoji" alias="wink" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f609.png">?</g-emoji><g-emoji class="g-emoji" alias="grinning" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f600.png">?</g-emoji><g-emoji class="g-emoji" alias="grin" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f601.png">?</g-emoji><g-emoji class="g-emoji" alias="sunglasses" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f60e.png">?</g-emoji></td>
+        <th><a href="https://github.com/Shashank02051997/VegetableOrderUI-Android" target="_blank"><img alt="VegetableOrderUI-Android" src="https://img.shields.io/github/stars/Shashank02051997/VegetableOrderUI-Android?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="GIthub Readme" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-thmsgbrt.jpg" /></td>
+        <td>Miscellaneous</td>
+        <td>Mustache</td>
+        <td><a href="https://github.com/thmsgbrt/thmsgbrt" target="_blank">GIthub Readme</a></td>
+        <td>My awesome README.md</td>
+        <th><a href="https://github.com/thmsgbrt/thmsgbrt" target="_blank"><img alt="GIthub Readme" src="https://img.shields.io/github/stars/thmsgbrt/thmsgbrt?style=social" /></a></th>
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="Hook0" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-hook0.png" /></td>
@@ -284,30 +308,6 @@
         <td><a href="https://github.com/mohanson/gameboy" target="_blank">gameboy</a></td>
         <td>Full featured Cross-platform GameBoy emulator by Rust. Forever boys!.</td>
         <th><a href="https://github.com/mohanson/gameboy" target="_blank"><img alt="gameboy" src="https://img.shields.io/github/stars/mohanson/gameboy?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="langchain-visualizer" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-langchain-visualizer.jpg" /></td>
-        <td>Observability</td>
-        <td>Python</td>
-        <td><a href="https://github.com/amosjyng/langchain-visualizer" target="_blank">langchain-visualizer</a></td>
-        <td>Visualization and debugging tool for LangChain workflows</td>
-        <th><a href="https://github.com/amosjyng/langchain-visualizer" target="_blank"><img alt="langchain-visualizer" src="https://img.shields.io/github/stars/amosjyng/langchain-visualizer?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="CTF Archives" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-ctf-archives.jpg" /></td>
-        <td>Security</td>
-        <td>Python</td>
-        <td><a href="https://twitter.com/sajjadium" target="_blank">CTF Archives</a></td>
-        <td> CTF Archives: Collection of CTF Challenges.</td>
-        <th><a href="https://github.com/sajjadium/ctf-archives" target="_blank"><img alt="CTF Archives" src="https://img.shields.io/github/stars/sajjadium/ctf-archives?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="CTF Writeups" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-ctf-writeups.jpg" /></td>
-        <td>Security</td>
-        <td>C++</td>
-        <td><a href="https://twitter.com/sajjadium" target="_blank">CTF Writeups</a></td>
-        <td>CTF Writeups: Collection of CTF "technical" writeups by PersianCats.</td>
-        <th><a href="https://github.com/sajjadium/ctf-writeups" target="_blank"><img alt="CTF Writeups" src="https://img.shields.io/github/stars/sajjadium/ctf-writeups?style=social" /></a></th>
     </tr>
 
 </table>
@@ -1292,6 +1292,22 @@
         <th><a href="https://github.com/eduardconstantin/doticons" target="_blank"><img alt="doticons" src="https://img.shields.io/github/stars/eduardconstantin/doticons?style=social" /></a></th>
     </tr>
     <tr>
+        <td nowrap="nowrap"><img width="33" alt="Easy Speech" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-easy-speech.jpg" /></td>
+        <td>Miscellaneous</td>
+        <td>JavaScript</td>
+        <td><a href="https://jankapunkt.github.io/easy-speech/" target="_blank">Easy Speech</a></td>
+        <td>Cross browser Speech Synthesis also known as Text to speech or TTS; no dependencies; uses Web Speech API</td>
+        <th><a href="https://github.com/jankapunkt/easy-speech" target="_blank"><img alt="Easy Speech" src="https://img.shields.io/github/stars/jankapunkt/easy-speech?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="LLM-in-Vision" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-LLM-in-Vision.jpg" /></td>
+        <td>Miscellaneous</td>
+        <td>undefined</td>
+        <td><a href="https://github.com/DirtyHarryLYL/LLM-in-Vision" target="_blank">LLM-in-Vision</a></td>
+        <td>Recent LLM-based CV and related works. Welcome to comment/contribute!</td>
+        <th><a href="https://github.com/DirtyHarryLYL/LLM-in-Vision" target="_blank"><img alt="LLM-in-Vision" src="https://img.shields.io/github/stars/DirtyHarryLYL/LLM-in-Vision?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="Cemu Emulator" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-Cemu.png" /></td>
         <td>Miscellaneous</td>
         <td>C++</td>
@@ -1948,12 +1964,12 @@
         <th><a href="https://github.com/thmsgbrt/thmsgbrt" target="_blank"><img alt="GIthub Readme" src="https://img.shields.io/github/stars/thmsgbrt/thmsgbrt?style=social" /></a></th>
     </tr>
     <tr>
-        <td nowrap="nowrap"><img width="33" alt="Easy Speech" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-easy-speech.jpg" /></td>
+        <td nowrap="nowrap"><img width="33" alt="HOI-Learning-List" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-HOI-Learning-List.jpg" /></td>
         <td>Miscellaneous</td>
-        <td>JavaScript</td>
-        <td><a href="https://jankapunkt.github.io/easy-speech/" target="_blank">Easy Speech</a></td>
-        <td>Cross browser Speech Synthesis also known as Text to speech or TTS; no dependencies; uses Web Speech API</td>
-        <th><a href="https://github.com/jankapunkt/easy-speech" target="_blank"><img alt="Easy Speech" src="https://img.shields.io/github/stars/jankapunkt/easy-speech?style=social" /></a></th>
+        <td>undefined</td>
+        <td><a href="https://github.com/DirtyHarryLYL/HOI-Learning-List" target="_blank">HOI-Learning-List</a></td>
+        <td>A list of Human-Object Interaction Learning.</td>
+        <th><a href="https://github.com/DirtyHarryLYL/HOI-Learning-List" target="_blank"><img alt="HOI-Learning-List" src="https://img.shields.io/github/stars/DirtyHarryLYL/HOI-Learning-List?style=social" /></a></th>
     </tr>
 
 </table>
@@ -2446,6 +2462,30 @@
         <td><a href="https://github.com/voidful/TextRL" target="_blank">TextRL</a></td>
         <td>Implementation of ChatGPT RLHF (Reinforcement Learning with Human Feedback) on any generation model in huggingface's transformer (blommz-176B/bloom/gpt/bart/T5/MetaICL)</td>
         <th><a href="https://github.com/voidful/TextRL" target="_blank"><img alt="TextRL" src="https://img.shields.io/github/stars/voidful/TextRL?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="LatexCV" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-latexcv.jpg" /></td>
+        <td>Productivity</td>
+        <td>TeX</td>
+        <td><a href="https://github.com/jankapunkt/latexcv" target="_blank">LatexCV</a></td>
+        <td><g-emoji class="g-emoji" alias="necktie" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f454.png">?</g-emoji> A collection of cv and resume templates written in LaTeX. Leave an issue if your language is not supported!</td>
+        <th><a href="https://github.com/jankapunkt/latexcv" target="_blank"><img alt="LatexCV" src="https://img.shields.io/github/stars/jankapunkt/latexcv?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Meteor + React Native Starter Template" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-meteor-react-native-starter.jpg" /></td>
+        <td>Productivity</td>
+        <td>JavaScript</td>
+        <td><a href="https://github.com/jankapunkt/meteor-react-native-starter" target="_blank">Meteor + React Native Starter Template</a></td>
+        <td>The code repo for our workshop</td>
+        <th><a href="https://github.com/jankapunkt/meteor-react-native-starter" target="_blank"><img alt="Meteor + React Native Starter Template" src="https://img.shields.io/github/stars/jankapunkt/meteor-react-native-starter?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="OpenDataV" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-openDataV.jpg" /></td>
+        <td>Productivity</td>
+        <td>TypeScript</td>
+        <td><a href="http://datav.byteportrait.com" target="_blank">OpenDataV</a></td>
+        <td>OpenDataV 是一个纯前端的拖拽式、可视化、低代码数据可视化?开发平台，你可以用它自由的拼接成各种✨炫酷的大屏，同时支持用户方便的开发自己的组件并接入平台。</td>
+        <th><a href="https://github.com/AnsGoo/openDataV" target="_blank"><img alt="OpenDataV" src="https://img.shields.io/github/stars/AnsGoo/openDataV?style=social" /></a></th>
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="VS Code Docs" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-vscode-docs.png" /></td>
@@ -3560,28 +3600,12 @@
         <th><a href="https://github.com/Shashank02051997/VegetableOrderUI-Android" target="_blank"><img alt="VegetableOrderUI-Android" src="https://img.shields.io/github/stars/Shashank02051997/VegetableOrderUI-Android?style=social" /></a></th>
     </tr>
     <tr>
-        <td nowrap="nowrap"><img width="33" alt="LatexCV" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-latexcv.jpg" /></td>
+        <td nowrap="nowrap"><img width="33" alt="Resume Matcher" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-Resume-Matcher.jpg" /></td>
         <td>Productivity</td>
-        <td>TeX</td>
-        <td><a href="https://github.com/jankapunkt/latexcv" target="_blank">LatexCV</a></td>
-        <td><g-emoji class="g-emoji" alias="necktie" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f454.png">?</g-emoji> A collection of cv and resume templates written in LaTeX. Leave an issue if your language is not supported!</td>
-        <th><a href="https://github.com/jankapunkt/latexcv" target="_blank"><img alt="LatexCV" src="https://img.shields.io/github/stars/jankapunkt/latexcv?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Meteor + React Native Starter Template" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-meteor-react-native-starter.jpg" /></td>
-        <td>Productivity</td>
-        <td>JavaScript</td>
-        <td><a href="https://github.com/jankapunkt/meteor-react-native-starter" target="_blank">Meteor + React Native Starter Template</a></td>
-        <td>The code repo for our workshop</td>
-        <th><a href="https://github.com/jankapunkt/meteor-react-native-starter" target="_blank"><img alt="Meteor + React Native Starter Template" src="https://img.shields.io/github/stars/jankapunkt/meteor-react-native-starter?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="OpenDataV" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-openDataV.jpg" /></td>
-        <td>Productivity</td>
-        <td>TypeScript</td>
-        <td><a href="http://datav.byteportrait.com" target="_blank">OpenDataV</a></td>
-        <td>OpenDataV 是一个纯前端的拖拽式、可视化、低代码数据可视化?开发平台，你可以用它自由的拼接成各种✨炫酷的大屏，同时支持用户方便的开发自己的组件并接入平台。</td>
-        <th><a href="https://github.com/AnsGoo/openDataV" target="_blank"><img alt="OpenDataV" src="https://img.shields.io/github/stars/AnsGoo/openDataV?style=social" /></a></th>
+        <td>Python</td>
+        <td><a href="https://www.resumematcher.fyi/" target="_blank">Resume Matcher</a></td>
+        <td>Open Source Free ATS Tool to compare Resumes with Job Descriptions and create a score to rank them.</td>
+        <th><a href="https://github.com/srbhr/Resume-Matcher" target="_blank"><img alt="Resume Matcher" src="https://img.shields.io/github/stars/srbhr/Resume-Matcher?style=social" /></a></th>
     </tr>
 
 </table>
@@ -3916,6 +3940,14 @@
         <th><a href="https://github.com/geeknik/tiny-python-scripts" target="_blank"><img alt="Tiny Python Scripts" src="https://img.shields.io/github/stars/geeknik/tiny-python-scripts?style=social" /></a></th>
     </tr>
     <tr>
+        <td nowrap="nowrap"><img width="33" alt="@node-oauth/oauth2-server" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-node-oauth2-server.png" /></td>
+        <td>Security</td>
+        <td>JavaScript</td>
+        <td><a href="https://www.npmjs.com/package/@node-oauth/oauth2-server" target="_blank">@node-oauth/oauth2-server</a></td>
+        <td>The unofficial successor to oauthjs/oauth2-server. Complete, compliant, maintained and well tested OAuth2 Server for node.js. Includes native async await and PKCE.</td>
+        <th><a href="https://github.com/node-oauth/node-oauth2-server" target="_blank"><img alt="@node-oauth/oauth2-server" src="https://img.shields.io/github/stars/node-oauth/node-oauth2-server?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="PrivateBin" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-PrivateBin.png" /></td>
         <td>Security</td>
         <td>PHP</td>
@@ -4154,14 +4186,6 @@
         <td><a href="https://twitter.com/sajjadium" target="_blank">DeepCrawling</a></td>
         <td>Crawlium (DeepCrawling): A crawling platform based on Chrome (Chromium) browser to get a deeper look into the ecosystem of content inclusion on the Web.</td>
         <th><a href="https://github.com/sajjadium/DeepCrawling" target="_blank"><img alt="DeepCrawling" src="https://img.shields.io/github/stars/sajjadium/DeepCrawling?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="@node-oauth/oauth2-server" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-node-oauth2-server.png" /></td>
-        <td>Security</td>
-        <td>JavaScript</td>
-        <td><a href="https://www.npmjs.com/package/@node-oauth/oauth2-server" target="_blank">@node-oauth/oauth2-server</a></td>
-        <td>The unofficial successor to oauthjs/oauth2-server. Complete, compliant, maintained and well tested OAuth2 Server for node.js. Includes native async await and PKCE.</td>
-        <th><a href="https://github.com/node-oauth/node-oauth2-server" target="_blank"><img alt="@node-oauth/oauth2-server" src="https://img.shields.io/github/stars/node-oauth/node-oauth2-server?style=social" /></a></th>
     </tr>
 
 </table>
@@ -5883,6 +5907,14 @@
         <th><a href="https://github.com/MarconLP/snapify" target="_blank"><img alt="Snapify" src="https://img.shields.io/github/stars/MarconLP/snapify?style=social" /></a></th>
     </tr>
     <tr>
+        <td nowrap="nowrap"><img width="33" alt="OpenDataV" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-openDataV.jpg" /></td>
+        <td>Productivity</td>
+        <td>TypeScript</td>
+        <td><a href="http://datav.byteportrait.com" target="_blank">OpenDataV</a></td>
+        <td>OpenDataV 是一个纯前端的拖拽式、可视化、低代码数据可视化?开发平台，你可以用它自由的拼接成各种✨炫酷的大屏，同时支持用户方便的开发自己的组件并接入平台。</td>
+        <th><a href="https://github.com/AnsGoo/openDataV" target="_blank"><img alt="OpenDataV" src="https://img.shields.io/github/stars/AnsGoo/openDataV?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="The Lounge" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-thelounge.png" /></td>
         <td>Collaboration</td>
         <td>TypeScript</td>
@@ -6521,14 +6553,6 @@
         <td><a href="https://documenso.com" target="_blank">Documenso</a></td>
         <td>The Open Source DocuSign Alternative.</td>
         <th><a href="https://github.com/documenso/documenso" target="_blank"><img alt="Documenso" src="https://img.shields.io/github/stars/documenso/documenso?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="OpenDataV" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-openDataV.jpg" /></td>
-        <td>Productivity</td>
-        <td>TypeScript</td>
-        <td><a href="http://datav.byteportrait.com" target="_blank">OpenDataV</a></td>
-        <td>OpenDataV 是一个纯前端的拖拽式、可视化、低代码数据可视化?开发平台，你可以用它自由的拼接成各种✨炫酷的大屏，同时支持用户方便的开发自己的组件并接入平台。</td>
-        <th><a href="https://github.com/AnsGoo/openDataV" target="_blank"><img alt="OpenDataV" src="https://img.shields.io/github/stars/AnsGoo/openDataV?style=social" /></a></th>
     </tr>
 
 </table>
@@ -7533,6 +7557,30 @@
         <th><a href="https://github.com/idurar/idurar-erp-crm" target="_blank"><img alt="IDURAR ERP CRM" src="https://img.shields.io/github/stars/idurar/idurar-erp-crm?style=social" /></a></th>
     </tr>
     <tr>
+        <td nowrap="nowrap"><img width="33" alt="@node-oauth/oauth2-server" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-node-oauth2-server.png" /></td>
+        <td>Security</td>
+        <td>JavaScript</td>
+        <td><a href="https://www.npmjs.com/package/@node-oauth/oauth2-server" target="_blank">@node-oauth/oauth2-server</a></td>
+        <td>The unofficial successor to oauthjs/oauth2-server. Complete, compliant, maintained and well tested OAuth2 Server for node.js. Includes native async await and PKCE.</td>
+        <th><a href="https://github.com/node-oauth/node-oauth2-server" target="_blank"><img alt="@node-oauth/oauth2-server" src="https://img.shields.io/github/stars/node-oauth/node-oauth2-server?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Easy Speech" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-easy-speech.jpg" /></td>
+        <td>Miscellaneous</td>
+        <td>JavaScript</td>
+        <td><a href="https://jankapunkt.github.io/easy-speech/" target="_blank">Easy Speech</a></td>
+        <td>Cross browser Speech Synthesis also known as Text to speech or TTS; no dependencies; uses Web Speech API</td>
+        <th><a href="https://github.com/jankapunkt/easy-speech" target="_blank"><img alt="Easy Speech" src="https://img.shields.io/github/stars/jankapunkt/easy-speech?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Meteor + React Native Starter Template" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-meteor-react-native-starter.jpg" /></td>
+        <td>Productivity</td>
+        <td>JavaScript</td>
+        <td><a href="https://github.com/jankapunkt/meteor-react-native-starter" target="_blank">Meteor + React Native Starter Template</a></td>
+        <td>The code repo for our workshop</td>
+        <th><a href="https://github.com/jankapunkt/meteor-react-native-starter" target="_blank"><img alt="Meteor + React Native Starter Template" src="https://img.shields.io/github/stars/jankapunkt/meteor-react-native-starter?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="Soundnode" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-soundnode-app.png" /></td>
         <td>Productivity</td>
         <td>JavaScript</td>
@@ -7827,30 +7875,6 @@
         <td><a href="http://ntinfo.biz" target="_blank">Detect it Easy</a></td>
         <td>Program for determining types of files for Windows, Linux and MacOS.</td>
         <th><a href="https://github.com/horsicq/Detect-It-Easy" target="_blank"><img alt="Detect it Easy" src="https://img.shields.io/github/stars/horsicq/Detect-It-Easy?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="@node-oauth/oauth2-server" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-node-oauth2-server.png" /></td>
-        <td>Security</td>
-        <td>JavaScript</td>
-        <td><a href="https://www.npmjs.com/package/@node-oauth/oauth2-server" target="_blank">@node-oauth/oauth2-server</a></td>
-        <td>The unofficial successor to oauthjs/oauth2-server. Complete, compliant, maintained and well tested OAuth2 Server for node.js. Includes native async await and PKCE.</td>
-        <th><a href="https://github.com/node-oauth/node-oauth2-server" target="_blank"><img alt="@node-oauth/oauth2-server" src="https://img.shields.io/github/stars/node-oauth/node-oauth2-server?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Easy Speech" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-easy-speech.jpg" /></td>
-        <td>Miscellaneous</td>
-        <td>JavaScript</td>
-        <td><a href="https://jankapunkt.github.io/easy-speech/" target="_blank">Easy Speech</a></td>
-        <td>Cross browser Speech Synthesis also known as Text to speech or TTS; no dependencies; uses Web Speech API</td>
-        <th><a href="https://github.com/jankapunkt/easy-speech" target="_blank"><img alt="Easy Speech" src="https://img.shields.io/github/stars/jankapunkt/easy-speech?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Meteor + React Native Starter Template" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-meteor-react-native-starter.jpg" /></td>
-        <td>Productivity</td>
-        <td>JavaScript</td>
-        <td><a href="https://github.com/jankapunkt/meteor-react-native-starter" target="_blank">Meteor + React Native Starter Template</a></td>
-        <td>The code repo for our workshop</td>
-        <th><a href="https://github.com/jankapunkt/meteor-react-native-starter" target="_blank"><img alt="Meteor + React Native Starter Template" src="https://img.shields.io/github/stars/jankapunkt/meteor-react-native-starter?style=social" /></a></th>
     </tr>
 
 </table>
@@ -8888,6 +8912,14 @@
         <td>Crawlium (DeepCrawling): A crawling platform based on Chrome (Chromium) browser to get a deeper look into the ecosystem of content inclusion on the Web.</td>
         <th><a href="https://github.com/sajjadium/DeepCrawling" target="_blank"><img alt="DeepCrawling" src="https://img.shields.io/github/stars/sajjadium/DeepCrawling?style=social" /></a></th>
     </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Resume Matcher" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-Resume-Matcher.jpg" /></td>
+        <td>Productivity</td>
+        <td>Python</td>
+        <td><a href="https://www.resumematcher.fyi/" target="_blank">Resume Matcher</a></td>
+        <td>Open Source Free ATS Tool to compare Resumes with Job Descriptions and create a score to rank them.</td>
+        <th><a href="https://github.com/srbhr/Resume-Matcher" target="_blank"><img alt="Resume Matcher" src="https://img.shields.io/github/stars/srbhr/Resume-Matcher?style=social" /></a></th>
+    </tr>
 
 </table>
 
@@ -9634,6 +9666,44 @@
 </table>
 
 <br /><br />
+<h2 id="tex">Top 20 TeX libraries</h2>
+<table>
+    <tr>
+        <th>Icon</th>
+        <th>Category</th>
+        <th>Language</th>
+        <th>Name</th>
+        <th>Description</th>
+        <th>Stargazers</th>
+    </tr>
+        <tr>
+        <td nowrap="nowrap"><img width="33" alt="LatexCV" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-latexcv.jpg" /></td>
+        <td>Productivity</td>
+        <td>TeX</td>
+        <td><a href="https://github.com/jankapunkt/latexcv" target="_blank">LatexCV</a></td>
+        <td><g-emoji class="g-emoji" alias="necktie" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f454.png">?</g-emoji> A collection of cv and resume templates written in LaTeX. Leave an issue if your language is not supported!</td>
+        <th><a href="https://github.com/jankapunkt/latexcv" target="_blank"><img alt="LatexCV" src="https://img.shields.io/github/stars/jankapunkt/latexcv?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Linux Kernel Guide" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-lkmpg.jpg" /></td>
+        <td>Productivity</td>
+        <td>TeX</td>
+        <td><a href="https://sysprog21.github.io/lkmpg/" target="_blank">Linux Kernel Guide</a></td>
+        <td>The Linux Kernel Module Programming Guide (updated for 5.x kernels)</td>
+        <th><a href="https://github.com/sysprog21/lkmpg" target="_blank"><img alt="Linux Kernel Guide" src="https://img.shields.io/github/stars/sysprog21/lkmpg?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Thesis Template" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-Yet-Another-LaTeX-Template-for-NPU-Thesis.png" /></td>
+        <td>Miscellaneous</td>
+        <td>TeX</td>
+        <td><a href="https://nwpumetaphysicsoffice.github.io/Yet-Another-LaTeX-Template-for-NPU-Thesis/" target="_blank">Thesis Template</a></td>
+        <td>西北工业大学硕博学位论文模版 | Yet Another Thesis Template for Northwestern Polytechnical University</td>
+        <th><a href="https://github.com/NWPUMetaphysicsOffice/Yet-Another-LaTeX-Template-for-NPU-Thesis" target="_blank"><img alt="Thesis Template" src="https://img.shields.io/github/stars/NWPUMetaphysicsOffice/Yet-Another-LaTeX-Template-for-NPU-Thesis?style=social" /></a></th>
+    </tr>
+
+</table>
+
+<br /><br />
 <h2 id="c">Top 20 C libraries</h2>
 <table>
     <tr>
@@ -10117,44 +10187,6 @@
         <td><a href="https://supabase.com/realtime" target="_blank">Supabase</a></td>
         <td>Broadcast, Presence, and Postgres Changes via WebSockets</td>
         <th><a href="https://github.com/supabase/realtime" target="_blank"><img alt="Supabase" src="https://img.shields.io/github/stars/supabase/realtime?style=social" /></a></th>
-    </tr>
-
-</table>
-
-<br /><br />
-<h2 id="tex">Top 20 TeX libraries</h2>
-<table>
-    <tr>
-        <th>Icon</th>
-        <th>Category</th>
-        <th>Language</th>
-        <th>Name</th>
-        <th>Description</th>
-        <th>Stargazers</th>
-    </tr>
-        <tr>
-        <td nowrap="nowrap"><img width="33" alt="Linux Kernel Guide" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-lkmpg.jpg" /></td>
-        <td>Productivity</td>
-        <td>TeX</td>
-        <td><a href="https://sysprog21.github.io/lkmpg/" target="_blank">Linux Kernel Guide</a></td>
-        <td>The Linux Kernel Module Programming Guide (updated for 5.x kernels)</td>
-        <th><a href="https://github.com/sysprog21/lkmpg" target="_blank"><img alt="Linux Kernel Guide" src="https://img.shields.io/github/stars/sysprog21/lkmpg?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Thesis Template" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-Yet-Another-LaTeX-Template-for-NPU-Thesis.png" /></td>
-        <td>Miscellaneous</td>
-        <td>TeX</td>
-        <td><a href="https://nwpumetaphysicsoffice.github.io/Yet-Another-LaTeX-Template-for-NPU-Thesis/" target="_blank">Thesis Template</a></td>
-        <td>西北工业大学硕博学位论文模版 | Yet Another Thesis Template for Northwestern Polytechnical University</td>
-        <th><a href="https://github.com/NWPUMetaphysicsOffice/Yet-Another-LaTeX-Template-for-NPU-Thesis" target="_blank"><img alt="Thesis Template" src="https://img.shields.io/github/stars/NWPUMetaphysicsOffice/Yet-Another-LaTeX-Template-for-NPU-Thesis?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="LatexCV" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-latexcv.jpg" /></td>
-        <td>Productivity</td>
-        <td>TeX</td>
-        <td><a href="https://github.com/jankapunkt/latexcv" target="_blank">LatexCV</a></td>
-        <td><g-emoji class="g-emoji" alias="necktie" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f454.png">?</g-emoji> A collection of cv and resume templates written in LaTeX. Leave an issue if your language is not supported!</td>
-        <th><a href="https://github.com/jankapunkt/latexcv" target="_blank"><img alt="LatexCV" src="https://img.shields.io/github/stars/jankapunkt/latexcv?style=social" /></a></th>
     </tr>
 
 </table>
