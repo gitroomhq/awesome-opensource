@@ -166,6 +166,14 @@
         <th><a href="https://github.com/DirtyHarryLYL/LLM-in-Vision" target="_blank"><img alt="LLM-in-Vision" src="https://img.shields.io/github/stars/DirtyHarryLYL/LLM-in-Vision?style=social" /></a></th>
     </tr>
     <tr>
+        <td nowrap="nowrap"><img width="33" alt="SmartImage" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-SmartImage.png" /></td>
+        <td>Productivity</td>
+        <td>C#</td>
+        <td><a href="https://github.com/Decimation/SmartImage" target="_blank">SmartImage</a></td>
+        <td>Reverse image search tool (SauceNao, IQDB, Ascii2D, trace.moe, and more)</td>
+        <th><a href="https://github.com/Decimation/SmartImage" target="_blank"><img alt="SmartImage" src="https://img.shields.io/github/stars/Decimation/SmartImage?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="HOI-Learning-List" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-HOI-Learning-List.jpg" /></td>
         <td>Miscellaneous</td>
         <td>undefined</td>
@@ -300,14 +308,6 @@
         <td><a href="https://pkg.go.dev/github.com/adrg/frontmatter" target="_blank">frontmatter</a></td>
         <td>Go library for detecting and decoding various content front matter formats</td>
         <th><a href="https://github.com/adrg/frontmatter" target="_blank"><img alt="frontmatter" src="https://img.shields.io/github/stars/adrg/frontmatter?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="gameboy" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-gameboy.jpg" /></td>
-        <td>Productivity</td>
-        <td>Rust</td>
-        <td><a href="https://github.com/mohanson/gameboy" target="_blank">gameboy</a></td>
-        <td>Full featured Cross-platform GameBoy emulator by Rust. Forever boys!.</td>
-        <th><a href="https://github.com/mohanson/gameboy" target="_blank"><img alt="gameboy" src="https://img.shields.io/github/stars/mohanson/gameboy?style=social" /></a></th>
     </tr>
 
 </table>
@@ -2486,6 +2486,14 @@
         <td><a href="http://datav.byteportrait.com" target="_blank">OpenDataV</a></td>
         <td>OpenDataV 是一个纯前端的拖拽式、可视化、低代码数据可视化?开发平台，你可以用它自由的拼接成各种✨炫酷的大屏，同时支持用户方便的开发自己的组件并接入平台。</td>
         <th><a href="https://github.com/AnsGoo/openDataV" target="_blank"><img alt="OpenDataV" src="https://img.shields.io/github/stars/AnsGoo/openDataV?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="SmartImage" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-SmartImage.png" /></td>
+        <td>Productivity</td>
+        <td>C#</td>
+        <td><a href="https://github.com/Decimation/SmartImage" target="_blank">SmartImage</a></td>
+        <td>Reverse image search tool (SauceNao, IQDB, Ascii2D, trace.moe, and more)</td>
+        <th><a href="https://github.com/Decimation/SmartImage" target="_blank"><img alt="SmartImage" src="https://img.shields.io/github/stars/Decimation/SmartImage?style=social" /></a></th>
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="VS Code Docs" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-vscode-docs.png" /></td>
@@ -8251,6 +8259,14 @@
         <td><a href="https://github.com/AntonioFalcaoJr/EventualShop/blob/release/README.md#bulb-about" target="_blank">Eventual Shop</a></td>
         <td>A state-of-the-art distributed system using Reactive DDD as uncertainty modeling, Event Storming as subdomain decomposition, Event Sourcing as an eventual persistence mechanism, CQRS, Async Project…</td>
         <th><a href="https://github.com/AntonioFalcaoJr/EventualShop" target="_blank"><img alt="Eventual Shop" src="https://img.shields.io/github/stars/AntonioFalcaoJr/EventualShop?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="SmartImage" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-SmartImage.png" /></td>
+        <td>Productivity</td>
+        <td>C#</td>
+        <td><a href="https://github.com/Decimation/SmartImage" target="_blank">SmartImage</a></td>
+        <td>Reverse image search tool (SauceNao, IQDB, Ascii2D, trace.moe, and more)</td>
+        <th><a href="https://github.com/Decimation/SmartImage" target="_blank"><img alt="SmartImage" src="https://img.shields.io/github/stars/Decimation/SmartImage?style=social" /></a></th>
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="MudBlazor" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-MudBlazor.png" /></td>
