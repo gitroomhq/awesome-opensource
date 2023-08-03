@@ -150,6 +150,14 @@
         <th>Stargazers</th>
     </tr>
         <tr>
+        <td nowrap="nowrap"><img width="33" alt="OpenDataV" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-openDataV.jpg" /></td>
+        <td>Productivity</td>
+        <td>TypeScript</td>
+        <td><a href="http://datav.byteportrait.com" target="_blank">OpenDataV</a></td>
+        <td>OpenDataV 是一个纯前端的拖拽式、可视化、低代码数据可视化?开发平台，你可以用它自由的拼接成各种✨炫酷的大屏，同时支持用户方便的开发自己的组件并接入平台。</td>
+        <th><a href="https://github.com/AnsGoo/openDataV" target="_blank"><img alt="OpenDataV" src="https://img.shields.io/github/stars/AnsGoo/openDataV?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="Kubescape" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-kubescape.png" /></td>
         <td>Security</td>
         <td>Go</td>
@@ -300,14 +308,6 @@
         <td><a href="https://twitter.com/sajjadium" target="_blank">CTF Writeups</a></td>
         <td>CTF Writeups: Collection of CTF "technical" writeups by PersianCats.</td>
         <th><a href="https://github.com/sajjadium/ctf-writeups" target="_blank"><img alt="CTF Writeups" src="https://img.shields.io/github/stars/sajjadium/ctf-writeups?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="DeepCrawling" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-DeepCrawling.jpg" /></td>
-        <td>Security</td>
-        <td>Python</td>
-        <td><a href="https://twitter.com/sajjadium" target="_blank">DeepCrawling</a></td>
-        <td>Crawlium (DeepCrawling): A crawling platform based on Chrome (Chromium) browser to get a deeper look into the ecosystem of content inclusion on the Web.</td>
-        <th><a href="https://github.com/sajjadium/DeepCrawling" target="_blank"><img alt="DeepCrawling" src="https://img.shields.io/github/stars/sajjadium/DeepCrawling?style=social" /></a></th>
     </tr>
 
 </table>
@@ -3575,6 +3575,14 @@
         <td>The code repo for our workshop</td>
         <th><a href="https://github.com/jankapunkt/meteor-react-native-starter" target="_blank"><img alt="Meteor + React Native Starter Template" src="https://img.shields.io/github/stars/jankapunkt/meteor-react-native-starter?style=social" /></a></th>
     </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="OpenDataV" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-openDataV.jpg" /></td>
+        <td>Productivity</td>
+        <td>TypeScript</td>
+        <td><a href="http://datav.byteportrait.com" target="_blank">OpenDataV</a></td>
+        <td>OpenDataV 是一个纯前端的拖拽式、可视化、低代码数据可视化?开发平台，你可以用它自由的拼接成各种✨炫酷的大屏，同时支持用户方便的开发自己的组件并接入平台。</td>
+        <th><a href="https://github.com/AnsGoo/openDataV" target="_blank"><img alt="OpenDataV" src="https://img.shields.io/github/stars/AnsGoo/openDataV?style=social" /></a></th>
+    </tr>
 
 </table>
 
@@ -6513,6 +6521,14 @@
         <td><a href="https://documenso.com" target="_blank">Documenso</a></td>
         <td>The Open Source DocuSign Alternative.</td>
         <th><a href="https://github.com/documenso/documenso" target="_blank"><img alt="Documenso" src="https://img.shields.io/github/stars/documenso/documenso?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="OpenDataV" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-openDataV.jpg" /></td>
+        <td>Productivity</td>
+        <td>TypeScript</td>
+        <td><a href="http://datav.byteportrait.com" target="_blank">OpenDataV</a></td>
+        <td>OpenDataV 是一个纯前端的拖拽式、可视化、低代码数据可视化?开发平台，你可以用它自由的拼接成各种✨炫酷的大屏，同时支持用户方便的开发自己的组件并接入平台。</td>
+        <th><a href="https://github.com/AnsGoo/openDataV" target="_blank"><img alt="OpenDataV" src="https://img.shields.io/github/stars/AnsGoo/openDataV?style=social" /></a></th>
     </tr>
 
 </table>
