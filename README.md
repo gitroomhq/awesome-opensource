@@ -150,6 +150,14 @@
         <th>Stargazers</th>
     </tr>
         <tr>
+        <td nowrap="nowrap"><img width="33" alt="Web Activity Time Tracker" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-web-activity-time-tracker.jpg" /></td>
+        <td>Productivity</td>
+        <td>Vue</td>
+        <td><a href="https://chrome.google.com/webstore/detail/web-activity-time-tracker/hhfnghjdeddcfegfekjeihfmbjenlomm" target="_blank">Web Activity Time Tracker</a></td>
+        <td>Chrome Extension that tracks and limits time you spent on sites</td>
+        <th><a href="https://github.com/Stigmatoz/web-activity-time-tracker" target="_blank"><img alt="Web Activity Time Tracker" src="https://img.shields.io/github/stars/Stigmatoz/web-activity-time-tracker?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="ftpserverlib" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-ftpserverlib.jpg" /></td>
         <td>Infrastructure</td>
         <td>Go</td>
@@ -164,6 +172,14 @@
         <td><a href="https://github.com/Yoh0xFF/java-spring-security-example" target="_blank">Spring Security Example</a></td>
         <td>Spring Security Sample Project</td>
         <th><a href="https://github.com/Yoh0xFF/java-spring-security-example" target="_blank"><img alt="Spring Security Example" src="https://img.shields.io/github/stars/Yoh0xFF/java-spring-security-example?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Botflix" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-Botflix.jpg" /></td>
+        <td>Analytics</td>
+        <td>Python</td>
+        <td><a href="https://github.com/kaboussi/Botflix" target="_blank">Botflix</a></td>
+        <td>? Stream your favorite movie from the terminal!</td>
+        <th><a href="https://github.com/kaboussi/Botflix" target="_blank"><img alt="Botflix" src="https://img.shields.io/github/stars/kaboussi/Botflix?style=social" /></a></th>
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="OpenDataV" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-openDataV.jpg" /></td>
@@ -292,22 +308,6 @@
         <td><a href="https://pkg.go.dev/github.com/adrg/xdg" target="_blank">xdg</a></td>
         <td>Go implementation of the XDG Base Directory Specification and XDG user directories</td>
         <th><a href="https://github.com/adrg/xdg" target="_blank"><img alt="xdg" src="https://img.shields.io/github/stars/adrg/xdg?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="libvlc-go" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-libvlc-go.jpg" /></td>
-        <td>Miscellaneous</td>
-        <td>Go</td>
-        <td><a href="https://pkg.go.dev/github.com/adrg/libvlc-go/v3" target="_blank">libvlc-go</a></td>
-        <td>Go bindings for libVLC and high-level media player interface</td>
-        <th><a href="https://github.com/adrg/libvlc-go" target="_blank"><img alt="libvlc-go" src="https://img.shields.io/github/stars/adrg/libvlc-go?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="strutil" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-strutil-1.jpg" /></td>
-        <td>Miscellaneous</td>
-        <td>Go</td>
-        <td><a href="https://pkg.go.dev/github.com/adrg/strutil" target="_blank">strutil</a></td>
-        <td>Golang metrics for calculating string similarity and other string utility functions</td>
-        <th><a href="https://github.com/adrg/strutil" target="_blank"><img alt="strutil" src="https://img.shields.io/github/stars/adrg/strutil?style=social" /></a></th>
     </tr>
 
 </table>
@@ -675,6 +675,14 @@
         <td><a href="https://prim.doseofted.me" target="_blank">Prim+RPC</a></td>
         <td>Easy-to-understand, type-safe, transport-agnostic RPC/IPC for JavaScript, supporting callbacks, batching, file uploads, custom serialization, and more.</td>
         <th><a href="https://github.com/doseofted/prim-rpc" target="_blank"><img alt="Prim+RPC" src="https://img.shields.io/github/stars/doseofted/prim-rpc?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="IDURAR ERP CRM" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-idurar-erp-crm.png" /></td>
+        <td>Productivity</td>
+        <td>JavaScript</td>
+        <td><a href="https://demo-erp-crm.idurarapp.com/" target="_blank">IDURAR ERP CRM</a></td>
+        <td>ERP / CRM Open Source (Invoice / Inventory / Accounting / HR) Based on Node.js / React.js alternative to erpnext,salesforce and odoo</td>
+        <th><a href="https://github.com/idurar/idurar-erp-crm" target="_blank"><img alt="IDURAR ERP CRM" src="https://img.shields.io/github/stars/idurar/idurar-erp-crm?style=social" /></a></th>
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="@node-oauth/oauth2-server" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-node-oauth2-server.png" /></td>
@@ -1115,14 +1123,6 @@
         <td><a href="https://rei3.de" target="_blank">REI3</a></td>
         <td>REI3 - Free and open low code</td>
         <th><a href="https://github.com/r3-team/r3" target="_blank"><img alt="REI3" src="https://img.shields.io/github/stars/r3-team/r3?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Snapify" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-snapify.png" /></td>
-        <td>Collaboration</td>
-        <td>TypeScript</td>
-        <td><a href="https://snapify.it" target="_blank">Snapify</a></td>
-        <td>Screen recording sharing for absolutely everyone.</td>
-        <th><a href="https://github.com/MarconLP/snapify" target="_blank"><img alt="Snapify" src="https://img.shields.io/github/stars/MarconLP/snapify?style=social" /></a></th>
     </tr>
 
 </table>
@@ -2312,6 +2312,14 @@
         <th><a href="https://github.com/doseofted/prim-rpc" target="_blank"><img alt="Prim+RPC" src="https://img.shields.io/github/stars/doseofted/prim-rpc?style=social" /></a></th>
     </tr>
     <tr>
+        <td nowrap="nowrap"><img width="33" alt="IDURAR ERP CRM" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-idurar-erp-crm.png" /></td>
+        <td>Productivity</td>
+        <td>JavaScript</td>
+        <td><a href="https://demo-erp-crm.idurarapp.com/" target="_blank">IDURAR ERP CRM</a></td>
+        <td>ERP / CRM Open Source (Invoice / Inventory / Accounting / HR) Based on Node.js / React.js alternative to erpnext,salesforce and odoo</td>
+        <th><a href="https://github.com/idurar/idurar-erp-crm" target="_blank"><img alt="IDURAR ERP CRM" src="https://img.shields.io/github/stars/idurar/idurar-erp-crm?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="LatexCV" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-latexcv.jpg" /></td>
         <td>Productivity</td>
         <td>TeX</td>
@@ -2456,14 +2464,6 @@
         <th><a href="https://github.com/r3-team/r3" target="_blank"><img alt="REI3" src="https://img.shields.io/github/stars/r3-team/r3?style=social" /></a></th>
     </tr>
     <tr>
-        <td nowrap="nowrap"><img width="33" alt="IDURAR ERP CRM" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-idurar-erp-crm.png" /></td>
-        <td>Productivity</td>
-        <td>JavaScript</td>
-        <td><a href="https://demo-erp-crm.idurarapp.com/" target="_blank">IDURAR ERP CRM</a></td>
-        <td>ERP / CRM Open Source (Invoice / Inventory / Accounting / HR) Based on Node.js / React.js alternative to erpnext,salesforce and odoo</td>
-        <th><a href="https://github.com/idurar/idurar-erp-crm" target="_blank"><img alt="IDURAR ERP CRM" src="https://img.shields.io/github/stars/idurar/idurar-erp-crm?style=social" /></a></th>
-    </tr>
-    <tr>
         <td nowrap="nowrap"><img width="33" alt="areg engine" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-areg-sdk.jpg" /></td>
         <td>Productivity</td>
         <td>C++</td>
@@ -2502,6 +2502,14 @@
         <td><a href="https://github.com/Decimation/SmartImage" target="_blank">SmartImage</a></td>
         <td>Reverse image search tool (SauceNao, IQDB, Ascii2D, trace.moe, and more)</td>
         <th><a href="https://github.com/Decimation/SmartImage" target="_blank"><img alt="SmartImage" src="https://img.shields.io/github/stars/Decimation/SmartImage?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Web Activity Time Tracker" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-web-activity-time-tracker.jpg" /></td>
+        <td>Productivity</td>
+        <td>Vue</td>
+        <td><a href="https://chrome.google.com/webstore/detail/web-activity-time-tracker/hhfnghjdeddcfegfekjeihfmbjenlomm" target="_blank">Web Activity Time Tracker</a></td>
+        <td>Chrome Extension that tracks and limits time you spent on sites</td>
+        <th><a href="https://github.com/Stigmatoz/web-activity-time-tracker" target="_blank"><img alt="Web Activity Time Tracker" src="https://img.shields.io/github/stars/Stigmatoz/web-activity-time-tracker?style=social" /></a></th>
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="VS Code Docs" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-vscode-docs.png" /></td>
@@ -3860,6 +3868,14 @@
         <td><a href="https://github.com/josephchenhk/qtrader" target="_blank">qtrader</a></td>
         <td>A Light Event-Driven Algorithmic Trading Engine</td>
         <th><a href="https://github.com/josephchenhk/qtrader" target="_blank"><img alt="qtrader" src="https://img.shields.io/github/stars/josephchenhk/qtrader?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Botflix" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-Botflix.jpg" /></td>
+        <td>Analytics</td>
+        <td>Python</td>
+        <td><a href="https://github.com/kaboussi/Botflix" target="_blank">Botflix</a></td>
+        <td>? Stream your favorite movie from the terminal!</td>
+        <th><a href="https://github.com/kaboussi/Botflix" target="_blank"><img alt="Botflix" src="https://img.shields.io/github/stars/kaboussi/Botflix?style=social" /></a></th>
     </tr>
 
 </table>
@@ -7667,6 +7683,14 @@
         <th><a href="https://github.com/Liberty-liu/Everright-formEditor" target="_blank"><img alt="Everright-formEditor" src="https://img.shields.io/github/stars/Liberty-liu/Everright-formEditor?style=social" /></a></th>
     </tr>
     <tr>
+        <td nowrap="nowrap"><img width="33" alt="IDURAR ERP CRM" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-idurar-erp-crm.png" /></td>
+        <td>Productivity</td>
+        <td>JavaScript</td>
+        <td><a href="https://demo-erp-crm.idurarapp.com/" target="_blank">IDURAR ERP CRM</a></td>
+        <td>ERP / CRM Open Source (Invoice / Inventory / Accounting / HR) Based on Node.js / React.js alternative to erpnext,salesforce and odoo</td>
+        <th><a href="https://github.com/idurar/idurar-erp-crm" target="_blank"><img alt="IDURAR ERP CRM" src="https://img.shields.io/github/stars/idurar/idurar-erp-crm?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="@node-oauth/oauth2-server" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-node-oauth2-server.png" /></td>
         <td>Security</td>
         <td>JavaScript</td>
@@ -7761,14 +7785,6 @@
         <td><a href="https://rei3.de" target="_blank">REI3</a></td>
         <td>REI3 - Free and open low code</td>
         <th><a href="https://github.com/r3-team/r3" target="_blank"><img alt="REI3" src="https://img.shields.io/github/stars/r3-team/r3?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="IDURAR ERP CRM" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-idurar-erp-crm.png" /></td>
-        <td>Productivity</td>
-        <td>JavaScript</td>
-        <td><a href="https://demo-erp-crm.idurarapp.com/" target="_blank">IDURAR ERP CRM</a></td>
-        <td>ERP / CRM Open Source (Invoice / Inventory / Accounting / HR) Based on Node.js / React.js alternative to erpnext,salesforce and odoo</td>
-        <th><a href="https://github.com/idurar/idurar-erp-crm" target="_blank"><img alt="IDURAR ERP CRM" src="https://img.shields.io/github/stars/idurar/idurar-erp-crm?style=social" /></a></th>
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="Soundnode" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-soundnode-app.png" /></td>
@@ -8601,6 +8617,14 @@
         <th><a href="https://github.com/Liberty-liu/Everright-filter" target="_blank"><img alt="Everright-filter" src="https://img.shields.io/github/stars/Liberty-liu/Everright-filter?style=social" /></a></th>
     </tr>
     <tr>
+        <td nowrap="nowrap"><img width="33" alt="Web Activity Time Tracker" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-web-activity-time-tracker.jpg" /></td>
+        <td>Productivity</td>
+        <td>Vue</td>
+        <td><a href="https://chrome.google.com/webstore/detail/web-activity-time-tracker/hhfnghjdeddcfegfekjeihfmbjenlomm" target="_blank">Web Activity Time Tracker</a></td>
+        <td>Chrome Extension that tracks and limits time you spent on sites</td>
+        <th><a href="https://github.com/Stigmatoz/web-activity-time-tracker" target="_blank"><img alt="Web Activity Time Tracker" src="https://img.shields.io/github/stars/Stigmatoz/web-activity-time-tracker?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="WooNuxt" src="https://libraries.github20k.com/images/uploads/2023/06/newshot-woonuxt.png" /></td>
         <td>Miscellaneous</td>
         <td>Vue</td>
@@ -9125,6 +9149,14 @@
         <td><a href="https://www.resumematcher.fyi/" target="_blank">Resume Matcher</a></td>
         <td>Open Source Free ATS Tool to compare Resumes with Job Descriptions and create a score to rank them.</td>
         <th><a href="https://github.com/srbhr/Resume-Matcher" target="_blank"><img alt="Resume Matcher" src="https://img.shields.io/github/stars/srbhr/Resume-Matcher?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Botflix" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-Botflix.jpg" /></td>
+        <td>Analytics</td>
+        <td>Python</td>
+        <td><a href="https://github.com/kaboussi/Botflix" target="_blank">Botflix</a></td>
+        <td>? Stream your favorite movie from the terminal!</td>
+        <th><a href="https://github.com/kaboussi/Botflix" target="_blank"><img alt="Botflix" src="https://img.shields.io/github/stars/kaboussi/Botflix?style=social" /></a></th>
     </tr>
 
 </table>
