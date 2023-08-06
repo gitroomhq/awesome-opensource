@@ -150,6 +150,22 @@
         <th>Stargazers</th>
     </tr>
         <tr>
+        <td nowrap="nowrap"><img width="33" alt="Rewind-UI" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-rewindui.png" /></td>
+        <td>Miscellaneous</td>
+        <td>TypeScript</td>
+        <td><a href="https://rewind-ui.dev" target="_blank">Rewind-UI</a></td>
+        <td>A React component library for building modern web applications using Tailwind CSS.</td>
+        <th><a href="https://github.com/rewindui/rewindui" target="_blank"><img alt="Rewind-UI" src="https://img.shields.io/github/stars/rewindui/rewindui?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Kubero" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-kubero.png" /></td>
+        <td>Infrastructure</td>
+        <td>TypeScript</td>
+        <td><a href="https://demo.kubero.dev" target="_blank">Kubero</a></td>
+        <td>A free and self-hosted Heroku PaaS alternative for Kubernetes that implements GitOps</td>
+        <th><a href="https://github.com/kubero-dev/kubero" target="_blank"><img alt="Kubero" src="https://img.shields.io/github/stars/kubero-dev/kubero?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="Web Activity Time Tracker" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-web-activity-time-tracker.jpg" /></td>
         <td>Productivity</td>
         <td>Vue</td>
@@ -292,22 +308,6 @@
         <td><a href="https://github.com/kongpf8848/Animation" target="_blank">Animation</a></td>
         <td>Android各种动画效果合集，项目包含了丰富的动画实例(逐帧动画，补间动画，Lottie动画，GIF动画，SVGA动画)，体验动画之美，让Android动起来???</td>
         <th><a href="https://github.com/kongpf8848/Animation" target="_blank"><img alt="Animation" src="https://img.shields.io/github/stars/kongpf8848/Animation?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Documenso" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-documenso.png" /></td>
-        <td>Collaboration</td>
-        <td>TypeScript</td>
-        <td><a href="https://documenso.com" target="_blank">Documenso</a></td>
-        <td>The Open Source DocuSign Alternative.</td>
-        <th><a href="https://github.com/documenso/documenso" target="_blank"><img alt="Documenso" src="https://img.shields.io/github/stars/documenso/documenso?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="xdg" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-xdg.jpg" /></td>
-        <td>Miscellaneous</td>
-        <td>Go</td>
-        <td><a href="https://pkg.go.dev/github.com/adrg/xdg" target="_blank">xdg</a></td>
-        <td>Go implementation of the XDG Base Directory Specification and XDG user directories</td>
-        <th><a href="https://github.com/adrg/xdg" target="_blank"><img alt="xdg" src="https://img.shields.io/github/stars/adrg/xdg?style=social" /></a></th>
     </tr>
 
 </table>
@@ -1306,6 +1306,14 @@
         <td><a href="https://github.com/DirtyHarryLYL/LLM-in-Vision" target="_blank">LLM-in-Vision</a></td>
         <td>Recent LLM-based CV and related works. Welcome to comment/contribute!</td>
         <th><a href="https://github.com/DirtyHarryLYL/LLM-in-Vision" target="_blank"><img alt="LLM-in-Vision" src="https://img.shields.io/github/stars/DirtyHarryLYL/LLM-in-Vision?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Rewind-UI" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-rewindui.png" /></td>
+        <td>Miscellaneous</td>
+        <td>TypeScript</td>
+        <td><a href="https://rewind-ui.dev" target="_blank">Rewind-UI</a></td>
+        <td>A React component library for building modern web applications using Tailwind CSS.</td>
+        <th><a href="https://github.com/rewindui/rewindui" target="_blank"><img alt="Rewind-UI" src="https://img.shields.io/github/stars/rewindui/rewindui?style=social" /></a></th>
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="Cemu Emulator" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-Cemu.png" /></td>
@@ -5683,6 +5691,14 @@
         <td>golang ftp server library</td>
         <th><a href="https://github.com/fclairamb/ftpserverlib" target="_blank"><img alt="ftpserverlib" src="https://img.shields.io/github/stars/fclairamb/ftpserverlib?style=social" /></a></th>
     </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Kubero" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-kubero.png" /></td>
+        <td>Infrastructure</td>
+        <td>TypeScript</td>
+        <td><a href="https://demo.kubero.dev" target="_blank">Kubero</a></td>
+        <td>A free and self-hosted Heroku PaaS alternative for Kubernetes that implements GitOps</td>
+        <th><a href="https://github.com/kubero-dev/kubero" target="_blank"><img alt="Kubero" src="https://img.shields.io/github/stars/kubero-dev/kubero?style=social" /></a></th>
+    </tr>
 
 </table>
 
@@ -5953,6 +5969,14 @@
         <td><a href="http://datav.byteportrait.com" target="_blank">OpenDataV</a></td>
         <td>OpenDataV 是一个纯前端的拖拽式、可视化、低代码数据可视化?开发平台，你可以用它自由的拼接成各种✨炫酷的大屏，同时支持用户方便的开发自己的组件并接入平台。</td>
         <th><a href="https://github.com/AnsGoo/openDataV" target="_blank"><img alt="OpenDataV" src="https://img.shields.io/github/stars/AnsGoo/openDataV?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Rewind-UI" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-rewindui.png" /></td>
+        <td>Miscellaneous</td>
+        <td>TypeScript</td>
+        <td><a href="https://rewind-ui.dev" target="_blank">Rewind-UI</a></td>
+        <td>A React component library for building modern web applications using Tailwind CSS.</td>
+        <th><a href="https://github.com/rewindui/rewindui" target="_blank"><img alt="Rewind-UI" src="https://img.shields.io/github/stars/rewindui/rewindui?style=social" /></a></th>
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="The Lounge" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-thelounge.png" /></td>
@@ -6593,6 +6617,14 @@
         <td><a href="https://documenso.com" target="_blank">Documenso</a></td>
         <td>The Open Source DocuSign Alternative.</td>
         <th><a href="https://github.com/documenso/documenso" target="_blank"><img alt="Documenso" src="https://img.shields.io/github/stars/documenso/documenso?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Kubero" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-kubero.png" /></td>
+        <td>Infrastructure</td>
+        <td>TypeScript</td>
+        <td><a href="https://demo.kubero.dev" target="_blank">Kubero</a></td>
+        <td>A free and self-hosted Heroku PaaS alternative for Kubernetes that implements GitOps</td>
+        <th><a href="https://github.com/kubero-dev/kubero" target="_blank"><img alt="Kubero" src="https://img.shields.io/github/stars/kubero-dev/kubero?style=social" /></a></th>
     </tr>
 
 </table>
