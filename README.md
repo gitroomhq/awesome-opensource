@@ -150,12 +150,28 @@
         <th>Stargazers</th>
     </tr>
         <tr>
+        <td nowrap="nowrap"><img width="33" alt="NotionCMS" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-notion-cms.png" /></td>
+        <td>Productivity</td>
+        <td>TypeScript</td>
+        <td><a href="https://www.agencykit.so/notion-cms/guide/" target="_blank">NotionCMS</a></td>
+        <td>Add super powers to Notion by making it your full-fledged headless CMS.</td>
+        <th><a href="https://github.com/agency-kit/notion-cms" target="_blank"><img alt="NotionCMS" src="https://img.shields.io/github/stars/agency-kit/notion-cms?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="afc163" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-ant-design.png" /></td>
         <td>Infrastructure</td>
         <td>TypeScript</td>
         <td><a href="https://ant.design" target="_blank">afc163</a></td>
         <td>An enterprise-class UI design language and React UI library</td>
         <th><a href="https://github.com/ant-design/ant-design" target="_blank"><img alt="afc163" src="https://img.shields.io/github/stars/ant-design/ant-design?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Are We Rust Yet?" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-AreWeRustYet.jpg" /></td>
+        <td>Miscellaneous</td>
+        <td>undefined</td>
+        <td><a href="https://github.com/UgurcanAkkok/AreWeRustYet" target="_blank">Are We Rust Yet?</a></td>
+        <td>Awesome list of "Are We *thing* Yet" for Rust</td>
+        <th><a href="https://github.com/UgurcanAkkok/AreWeRustYet" target="_blank"><img alt="Are We Rust Yet?" src="https://img.shields.io/github/stars/UgurcanAkkok/AreWeRustYet?style=social" /></a></th>
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="Rewind-UI" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-rewindui.png" /></td>
@@ -292,22 +308,6 @@
         <td><a href="https://github.com/jankapunkt/meteor-react-native-starter" target="_blank">Meteor + React Native Starter Template</a></td>
         <td>The code repo for our workshop</td>
         <th><a href="https://github.com/jankapunkt/meteor-react-native-starter" target="_blank"><img alt="Meteor + React Native Starter Template" src="https://img.shields.io/github/stars/jankapunkt/meteor-react-native-starter?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="VegetableOrderUI-Android" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-VegetableOrderUI-Android.jpg" /></td>
-        <td>Productivity</td>
-        <td>Kotlin</td>
-        <td><a href="https://github.com/Shashank02051997/VegetableOrderUI-Android" target="_blank">VegetableOrderUI-Android</a></td>
-        <td>Check out the new style for App Design aims for the Vegetable Order Service using jetpack compose...<g-emoji class="g-emoji" alias="wink" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f609.png">?</g-emoji><g-emoji class="g-emoji" alias="grinning" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f600.png">?</g-emoji><g-emoji class="g-emoji" alias="grin" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f601.png">?</g-emoji><g-emoji class="g-emoji" alias="sunglasses" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f60e.png">?</g-emoji></td>
-        <th><a href="https://github.com/Shashank02051997/VegetableOrderUI-Android" target="_blank"><img alt="VegetableOrderUI-Android" src="https://img.shields.io/github/stars/Shashank02051997/VegetableOrderUI-Android?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="GIthub Readme" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-thmsgbrt.jpg" /></td>
-        <td>Miscellaneous</td>
-        <td>Mustache</td>
-        <td><a href="https://github.com/thmsgbrt/thmsgbrt" target="_blank">GIthub Readme</a></td>
-        <td>My awesome README.md</td>
-        <th><a href="https://github.com/thmsgbrt/thmsgbrt" target="_blank"><img alt="GIthub Readme" src="https://img.shields.io/github/stars/thmsgbrt/thmsgbrt?style=social" /></a></th>
     </tr>
 
 </table>
@@ -579,6 +579,14 @@
         <td><a href="https://www.npmjs.com/package/@node-oauth/oauth2-server" target="_blank">@node-oauth/oauth2-server</a></td>
         <td>The unofficial successor to oauthjs/oauth2-server. Complete, compliant, maintained and well tested OAuth2 Server for node.js. Includes native async await and PKCE.</td>
         <th><a href="https://github.com/node-oauth/node-oauth2-server" target="_blank"><img alt="@node-oauth/oauth2-server" src="https://img.shields.io/github/stars/node-oauth/node-oauth2-server?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="NotionCMS" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-notion-cms.png" /></td>
+        <td>Productivity</td>
+        <td>TypeScript</td>
+        <td><a href="https://www.agencykit.so/notion-cms/guide/" target="_blank">NotionCMS</a></td>
+        <td>Add super powers to Notion by making it your full-fledged headless CMS.</td>
+        <th><a href="https://github.com/agency-kit/notion-cms" target="_blank"><img alt="NotionCMS" src="https://img.shields.io/github/stars/agency-kit/notion-cms?style=social" /></a></th>
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="GitHub Support" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-dmca.png" /></td>
@@ -1115,14 +1123,6 @@
         <td><a href="https://watchakorn-18k.github.io/Fenv/" target="_blank">Fenv</a></td>
         <td><g-emoji class="g-emoji" alias="fast_forward" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/23e9.png">⏩</g-emoji> Module for Generate a folder, establish a virtual environment with a single command. </td>
         <th><a href="https://github.com/watchakorn-18k/Fenv" target="_blank"><img alt="Fenv" src="https://img.shields.io/github/stars/watchakorn-18k/Fenv?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="REI3" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-r3.png" /></td>
-        <td>Productivity</td>
-        <td>JavaScript</td>
-        <td><a href="https://rei3.de" target="_blank">REI3</a></td>
-        <td>REI3 - Free and open low code</td>
-        <th><a href="https://github.com/r3-team/r3" target="_blank"><img alt="REI3" src="https://img.shields.io/github/stars/r3-team/r3?style=social" /></a></th>
     </tr>
 
 </table>
@@ -1987,6 +1987,14 @@
         <td>Spring Security Sample Project</td>
         <th><a href="https://github.com/Yoh0xFF/java-spring-security-example" target="_blank"><img alt="Spring Security Example" src="https://img.shields.io/github/stars/Yoh0xFF/java-spring-security-example?style=social" /></a></th>
     </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Are We Rust Yet?" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-AreWeRustYet.jpg" /></td>
+        <td>Miscellaneous</td>
+        <td>undefined</td>
+        <td><a href="https://github.com/UgurcanAkkok/AreWeRustYet" target="_blank">Are We Rust Yet?</a></td>
+        <td>Awesome list of "Are We *thing* Yet" for Rust</td>
+        <th><a href="https://github.com/UgurcanAkkok/AreWeRustYet" target="_blank"><img alt="Are We Rust Yet?" src="https://img.shields.io/github/stars/UgurcanAkkok/AreWeRustYet?style=social" /></a></th>
+    </tr>
 
 </table>
 
@@ -2302,6 +2310,14 @@
         <td><a href="https://hackertab.dev" target="_blank">Hackertab.dev</a></td>
         <td>A Chrome <g-emoji class="g-emoji" alias="globe_with_meridians" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f310.png">?</g-emoji> &amp; Firefox <g-emoji class="g-emoji" alias="fox_face" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f98a.png">?</g-emoji> extension to discover the best developer news and tools in one tab!</td>
         <th><a href="https://github.com/medyo/hackertab.dev" target="_blank"><img alt="Hackertab.dev" src="https://img.shields.io/github/stars/medyo/hackertab.dev?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="NotionCMS" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-notion-cms.png" /></td>
+        <td>Productivity</td>
+        <td>TypeScript</td>
+        <td><a href="https://www.agencykit.so/notion-cms/guide/" target="_blank">NotionCMS</a></td>
+        <td>Add super powers to Notion by making it your full-fledged headless CMS.</td>
+        <th><a href="https://github.com/agency-kit/notion-cms" target="_blank"><img alt="NotionCMS" src="https://img.shields.io/github/stars/agency-kit/notion-cms?style=social" /></a></th>
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="boyka-framework" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-boyka-framework.png" /></td>
@@ -5833,6 +5849,14 @@
         <td><a href="https://openstatus.dev" target="_blank">OpenStatus</a></td>
         <td>The open-source status page</td>
         <th><a href="https://github.com/openstatusHQ/openstatus" target="_blank"><img alt="OpenStatus" src="https://img.shields.io/github/stars/openstatusHQ/openstatus?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="NotionCMS" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-notion-cms.png" /></td>
+        <td>Productivity</td>
+        <td>TypeScript</td>
+        <td><a href="https://www.agencykit.so/notion-cms/guide/" target="_blank">NotionCMS</a></td>
+        <td>Add super powers to Notion by making it your full-fledged headless CMS.</td>
+        <th><a href="https://github.com/agency-kit/notion-cms" target="_blank"><img alt="NotionCMS" src="https://img.shields.io/github/stars/agency-kit/notion-cms?style=social" /></a></th>
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="Medusa" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-medusa.jpg" /></td>
