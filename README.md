@@ -174,6 +174,54 @@
         <th><a href="https://github.com/UgurcanAkkok/AreWeRustYet" target="_blank"><img alt="Are We Rust Yet?" src="https://img.shields.io/github/stars/UgurcanAkkok/AreWeRustYet?style=social" /></a></th>
     </tr>
     <tr>
+        <td nowrap="nowrap"><img width="33" alt="slate-yjs" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-slate-yjs.jpg" /></td>
+        <td>Collaboration</td>
+        <td>TypeScript</td>
+        <td><a href="https://docs.slate-yjs.dev" target="_blank">slate-yjs</a></td>
+        <td>Yjs binding for Slate</td>
+        <th><a href="https://github.com/BitPhinix/slate-yjs" target="_blank"><img alt="slate-yjs" src="https://img.shields.io/github/stars/BitPhinix/slate-yjs?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="UAC (Unix-like Artifacts Collector)" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-uac.png" /></td>
+        <td>Security</td>
+        <td>Shell</td>
+        <td><a href="https://tclahr.github.io/uac-docs" target="_blank">UAC (Unix-like Artifacts Collector)</a></td>
+        <td>UAC is a Live Response collection script for Incident Response that makes use of native binaries and tools to automate the collection of AIX, Android, ESXi, FreeBSD, Linux, macOS, NetBSD, NetScaler…</td>
+        <th><a href="https://github.com/tclahr/uac" target="_blank"><img alt="UAC (Unix-like Artifacts Collector)" src="https://img.shields.io/github/stars/tclahr/uac?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="MyTimer" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-mytimer.png" /></td>
+        <td>Miscellaneous</td>
+        <td>Python</td>
+        <td><a href="https://github.com/sepandhaghighi/mytimer" target="_blank">MyTimer</a></td>
+        <td>A Geeky Timer for Terminal Enthusiasts</td>
+        <th><a href="https://github.com/sepandhaghighi/mytimer" target="_blank"><img alt="MyTimer" src="https://img.shields.io/github/stars/sepandhaghighi/mytimer?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="PyRGG" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-pyrgg.png" /></td>
+        <td>Miscellaneous</td>
+        <td>Python</td>
+        <td><a href="https://www.pyrgg.ir" target="_blank">PyRGG</a></td>
+        <td><g-emoji class="g-emoji" alias="wrench" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f527.png">?</g-emoji> Python Random Graph Generator</td>
+        <th><a href="https://github.com/sepandhaghighi/pyrgg" target="_blank"><img alt="PyRGG" src="https://img.shields.io/github/stars/sepandhaghighi/pyrgg?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="OPEM" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-opem.png" /></td>
+        <td>Miscellaneous</td>
+        <td>Python</td>
+        <td><a href="http://opem.ecsim.ir" target="_blank">OPEM</a></td>
+        <td>OPEM (Open Source PEM Fuel Cell Simulation Tool)</td>
+        <th><a href="https://github.com/ECSIM/opem" target="_blank"><img alt="OPEM" src="https://img.shields.io/github/stars/ECSIM/opem?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Samila" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-samila.png" /></td>
+        <td>Miscellaneous</td>
+        <td>Python</td>
+        <td><a href="https://www.samila.site" target="_blank">Samila</a></td>
+        <td>Generative Art Generator</td>
+        <th><a href="https://github.com/sepandhaghighi/samila" target="_blank"><img alt="Samila" src="https://img.shields.io/github/stars/sepandhaghighi/samila?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="Rewind-UI" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-rewindui.png" /></td>
         <td>Miscellaneous</td>
         <td>TypeScript</td>
@@ -260,54 +308,6 @@
         <td><a href="https://www.resumematcher.fyi/" target="_blank">Resume Matcher</a></td>
         <td>Open Source Free ATS Tool to compare Resumes with Job Descriptions and create a score to rank them.</td>
         <th><a href="https://github.com/srbhr/Resume-Matcher" target="_blank"><img alt="Resume Matcher" src="https://img.shields.io/github/stars/srbhr/Resume-Matcher?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Kubescape" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-kubescape.png" /></td>
-        <td>Security</td>
-        <td>Go</td>
-        <td><a href="https://github.com/kubescape/kubescape" target="_blank">Kubescape</a></td>
-        <td>Kubescape is an open-source Kubernetes security platform for your IDE, CI/CD pipelines, and clusters. It includes risk analysis, security, compliance, and misconfiguration scanning, saving Kubernet…</td>
-        <th><a href="https://github.com/kubescape/kubescape" target="_blank"><img alt="Kubescape" src="https://img.shields.io/github/stars/kubescape/kubescape?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Hook0" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-hook0.png" /></td>
-        <td>Notifications</td>
-        <td>Rust</td>
-        <td><a href="https://www.hook0.com/" target="_blank">Hook0</a></td>
-        <td>Hook0 is a SaaS that helps you provide webhooks to your users. It handles for you a great amount of features that are usually tedious to (re)implement.</td>
-        <th><a href="https://github.com/hook0/hook0" target="_blank"><img alt="Hook0" src="https://img.shields.io/github/stars/hook0/hook0?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="@node-oauth/oauth2-server" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-node-oauth2-server.png" /></td>
-        <td>Security</td>
-        <td>JavaScript</td>
-        <td><a href="https://www.npmjs.com/package/@node-oauth/oauth2-server" target="_blank">@node-oauth/oauth2-server</a></td>
-        <td>The unofficial successor to oauthjs/oauth2-server. Complete, compliant, maintained and well tested OAuth2 Server for node.js. Includes native async await and PKCE.</td>
-        <th><a href="https://github.com/node-oauth/node-oauth2-server" target="_blank"><img alt="@node-oauth/oauth2-server" src="https://img.shields.io/github/stars/node-oauth/node-oauth2-server?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Easy Speech" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-easy-speech.jpg" /></td>
-        <td>Miscellaneous</td>
-        <td>JavaScript</td>
-        <td><a href="https://jankapunkt.github.io/easy-speech/" target="_blank">Easy Speech</a></td>
-        <td>Cross browser Speech Synthesis also known as Text to speech or TTS; no dependencies; uses Web Speech API</td>
-        <th><a href="https://github.com/jankapunkt/easy-speech" target="_blank"><img alt="Easy Speech" src="https://img.shields.io/github/stars/jankapunkt/easy-speech?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="LatexCV" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-latexcv.jpg" /></td>
-        <td>Productivity</td>
-        <td>TeX</td>
-        <td><a href="https://github.com/jankapunkt/latexcv" target="_blank">LatexCV</a></td>
-        <td><g-emoji class="g-emoji" alias="necktie" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f454.png">?</g-emoji> A collection of cv and resume templates written in LaTeX. Leave an issue if your language is not supported!</td>
-        <th><a href="https://github.com/jankapunkt/latexcv" target="_blank"><img alt="LatexCV" src="https://img.shields.io/github/stars/jankapunkt/latexcv?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Meteor + React Native Starter Template" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-meteor-react-native-starter.jpg" /></td>
-        <td>Productivity</td>
-        <td>JavaScript</td>
-        <td><a href="https://github.com/jankapunkt/meteor-react-native-starter" target="_blank">Meteor + React Native Starter Template</a></td>
-        <td>The code repo for our workshop</td>
-        <th><a href="https://github.com/jankapunkt/meteor-react-native-starter" target="_blank"><img alt="Meteor + React Native Starter Template" src="https://img.shields.io/github/stars/jankapunkt/meteor-react-native-starter?style=social" /></a></th>
     </tr>
 
 </table>
@@ -1292,6 +1292,22 @@
         <th><a href="https://github.com/watchakorn-18k/Fenv" target="_blank"><img alt="Fenv" src="https://img.shields.io/github/stars/watchakorn-18k/Fenv?style=social" /></a></th>
     </tr>
     <tr>
+        <td nowrap="nowrap"><img width="33" alt="PyCM" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-pycm.png" /></td>
+        <td>Miscellaneous</td>
+        <td>Python</td>
+        <td><a href="http://pycm.io" target="_blank">PyCM</a></td>
+        <td>Multi-class confusion matrix library in Python</td>
+        <th><a href="https://github.com/sepandhaghighi/pycm" target="_blank"><img alt="PyCM" src="https://img.shields.io/github/stars/sepandhaghighi/pycm?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Art" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-art.png" /></td>
+        <td>Miscellaneous</td>
+        <td>Python</td>
+        <td><a href="https://www.ascii-art.site" target="_blank">Art</a></td>
+        <td><g-emoji class="g-emoji" alias="art" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f3a8.png">?</g-emoji> ASCII art library for Python</td>
+        <th><a href="https://github.com/sepandhaghighi/art" target="_blank"><img alt="Art" src="https://img.shields.io/github/stars/sepandhaghighi/art?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="doticons" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-doticons.jpg" /></td>
         <td>Miscellaneous</td>
         <td>undefined</td>
@@ -1594,22 +1610,6 @@
         <td><a href="https://getunleash.io" target="_blank">Unleash</a></td>
         <td>Open-source feature management solution built for developers.</td>
         <th><a href="https://github.com/Unleash/unleash" target="_blank"><img alt="Unleash" src="https://img.shields.io/github/stars/Unleash/unleash?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="PyCM" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-pycm.png" /></td>
-        <td>Miscellaneous</td>
-        <td>Python</td>
-        <td><a href="http://pycm.io" target="_blank">PyCM</a></td>
-        <td>Multi-class confusion matrix library in Python</td>
-        <th><a href="https://github.com/sepandhaghighi/pycm" target="_blank"><img alt="PyCM" src="https://img.shields.io/github/stars/sepandhaghighi/pycm?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Art" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-art.png" /></td>
-        <td>Miscellaneous</td>
-        <td>Python</td>
-        <td><a href="https://www.ascii-art.site" target="_blank">Art</a></td>
-        <td><g-emoji class="g-emoji" alias="art" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f3a8.png">?</g-emoji> ASCII art library for Python</td>
-        <th><a href="https://github.com/sepandhaghighi/art" target="_blank"><img alt="Art" src="https://img.shields.io/github/stars/sepandhaghighi/art?style=social" /></a></th>
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="Axios Cache Interceptor" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-axios-cache-interceptor.jpg" /></td>
@@ -1994,6 +1994,38 @@
         <td><a href="https://github.com/UgurcanAkkok/AreWeRustYet" target="_blank">Are We Rust Yet?</a></td>
         <td>Awesome list of "Are We *thing* Yet" for Rust</td>
         <th><a href="https://github.com/UgurcanAkkok/AreWeRustYet" target="_blank"><img alt="Are We Rust Yet?" src="https://img.shields.io/github/stars/UgurcanAkkok/AreWeRustYet?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="MyTimer" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-mytimer.png" /></td>
+        <td>Miscellaneous</td>
+        <td>Python</td>
+        <td><a href="https://github.com/sepandhaghighi/mytimer" target="_blank">MyTimer</a></td>
+        <td>A Geeky Timer for Terminal Enthusiasts</td>
+        <th><a href="https://github.com/sepandhaghighi/mytimer" target="_blank"><img alt="MyTimer" src="https://img.shields.io/github/stars/sepandhaghighi/mytimer?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="PyRGG" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-pyrgg.png" /></td>
+        <td>Miscellaneous</td>
+        <td>Python</td>
+        <td><a href="https://www.pyrgg.ir" target="_blank">PyRGG</a></td>
+        <td><g-emoji class="g-emoji" alias="wrench" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f527.png">?</g-emoji> Python Random Graph Generator</td>
+        <th><a href="https://github.com/sepandhaghighi/pyrgg" target="_blank"><img alt="PyRGG" src="https://img.shields.io/github/stars/sepandhaghighi/pyrgg?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="OPEM" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-opem.png" /></td>
+        <td>Miscellaneous</td>
+        <td>Python</td>
+        <td><a href="http://opem.ecsim.ir" target="_blank">OPEM</a></td>
+        <td>OPEM (Open Source PEM Fuel Cell Simulation Tool)</td>
+        <th><a href="https://github.com/ECSIM/opem" target="_blank"><img alt="OPEM" src="https://img.shields.io/github/stars/ECSIM/opem?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Samila" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-samila.png" /></td>
+        <td>Miscellaneous</td>
+        <td>Python</td>
+        <td><a href="https://www.samila.site" target="_blank">Samila</a></td>
+        <td>Generative Art Generator</td>
+        <th><a href="https://github.com/sepandhaghighi/samila" target="_blank"><img alt="Samila" src="https://img.shields.io/github/stars/sepandhaghighi/samila?style=social" /></a></th>
     </tr>
 
 </table>
@@ -4243,6 +4275,14 @@
         <td>Crawlium (DeepCrawling): A crawling platform based on Chrome (Chromium) browser to get a deeper look into the ecosystem of content inclusion on the Web.</td>
         <th><a href="https://github.com/sajjadium/DeepCrawling" target="_blank"><img alt="DeepCrawling" src="https://img.shields.io/github/stars/sajjadium/DeepCrawling?style=social" /></a></th>
     </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="UAC (Unix-like Artifacts Collector)" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-uac.png" /></td>
+        <td>Security</td>
+        <td>Shell</td>
+        <td><a href="https://tclahr.github.io/uac-docs" target="_blank">UAC (Unix-like Artifacts Collector)</a></td>
+        <td>UAC is a Live Response collection script for Incident Response that makes use of native binaries and tools to automate the collection of AIX, Android, ESXi, FreeBSD, Linux, macOS, NetBSD, NetScaler…</td>
+        <th><a href="https://github.com/tclahr/uac" target="_blank"><img alt="UAC (Unix-like Artifacts Collector)" src="https://img.shields.io/github/stars/tclahr/uac?style=social" /></a></th>
+    </tr>
 
 </table>
 
@@ -4488,6 +4528,14 @@
         <td><a href="https://documenso.com" target="_blank">Documenso</a></td>
         <td>The Open Source DocuSign Alternative.</td>
         <th><a href="https://github.com/documenso/documenso" target="_blank"><img alt="Documenso" src="https://img.shields.io/github/stars/documenso/documenso?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="slate-yjs" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-slate-yjs.jpg" /></td>
+        <td>Collaboration</td>
+        <td>TypeScript</td>
+        <td><a href="https://docs.slate-yjs.dev" target="_blank">slate-yjs</a></td>
+        <td>Yjs binding for Slate</td>
+        <th><a href="https://github.com/BitPhinix/slate-yjs" target="_blank"><img alt="slate-yjs" src="https://img.shields.io/github/stars/BitPhinix/slate-yjs?style=social" /></a></th>
     </tr>
 
 </table>
@@ -6666,6 +6714,14 @@
         <td>An enterprise-class UI design language and React UI library</td>
         <th><a href="https://github.com/ant-design/ant-design" target="_blank"><img alt="afc163" src="https://img.shields.io/github/stars/ant-design/ant-design?style=social" /></a></th>
     </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="slate-yjs" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-slate-yjs.jpg" /></td>
+        <td>Collaboration</td>
+        <td>TypeScript</td>
+        <td><a href="https://docs.slate-yjs.dev" target="_blank">slate-yjs</a></td>
+        <td>Yjs binding for Slate</td>
+        <th><a href="https://github.com/BitPhinix/slate-yjs" target="_blank"><img alt="slate-yjs" src="https://img.shields.io/github/stars/BitPhinix/slate-yjs?style=social" /></a></th>
+    </tr>
 
 </table>
 
@@ -8238,6 +8294,14 @@
         <td><g-emoji class="g-emoji" alias="whale" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f433.png">?</g-emoji><g-emoji class="g-emoji" alias="salt" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f9c2.png">?</g-emoji> Dockerized Salt Master</td>
         <th><a href="https://github.com/cdalvaro/docker-salt-master" target="_blank"><img alt="Dockerized Salt Master" src="https://img.shields.io/github/stars/cdalvaro/docker-salt-master?style=social" /></a></th>
     </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="UAC (Unix-like Artifacts Collector)" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-uac.png" /></td>
+        <td>Security</td>
+        <td>Shell</td>
+        <td><a href="https://tclahr.github.io/uac-docs" target="_blank">UAC (Unix-like Artifacts Collector)</a></td>
+        <td>UAC is a Live Response collection script for Incident Response that makes use of native binaries and tools to automate the collection of AIX, Android, ESXi, FreeBSD, Linux, macOS, NetBSD, NetScaler…</td>
+        <th><a href="https://github.com/tclahr/uac" target="_blank"><img alt="UAC (Unix-like Artifacts Collector)" src="https://img.shields.io/github/stars/tclahr/uac?style=social" /></a></th>
+    </tr>
 
 </table>
 
@@ -8759,6 +8823,22 @@
         <th><a href="https://github.com/watchakorn-18k/Fenv" target="_blank"><img alt="Fenv" src="https://img.shields.io/github/stars/watchakorn-18k/Fenv?style=social" /></a></th>
     </tr>
     <tr>
+        <td nowrap="nowrap"><img width="33" alt="PyCM" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-pycm.png" /></td>
+        <td>Miscellaneous</td>
+        <td>Python</td>
+        <td><a href="http://pycm.io" target="_blank">PyCM</a></td>
+        <td>Multi-class confusion matrix library in Python</td>
+        <th><a href="https://github.com/sepandhaghighi/pycm" target="_blank"><img alt="PyCM" src="https://img.shields.io/github/stars/sepandhaghighi/pycm?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Art" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-art.png" /></td>
+        <td>Miscellaneous</td>
+        <td>Python</td>
+        <td><a href="https://www.ascii-art.site" target="_blank">Art</a></td>
+        <td><g-emoji class="g-emoji" alias="art" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f3a8.png">?</g-emoji> ASCII art library for Python</td>
+        <th><a href="https://github.com/sepandhaghighi/art" target="_blank"><img alt="Art" src="https://img.shields.io/github/stars/sepandhaghighi/art?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="Tiny Python Scripts" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-tiny-python-scripts.jpg" /></td>
         <td>Security</td>
         <td>Python</td>
@@ -9063,22 +9143,6 @@
         <th><a href="https://github.com/WenjieDu/PyPOTS" target="_blank"><img alt="PyPOTS" src="https://img.shields.io/github/stars/WenjieDu/PyPOTS?style=social" /></a></th>
     </tr>
     <tr>
-        <td nowrap="nowrap"><img width="33" alt="PyCM" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-pycm.png" /></td>
-        <td>Miscellaneous</td>
-        <td>Python</td>
-        <td><a href="http://pycm.io" target="_blank">PyCM</a></td>
-        <td>Multi-class confusion matrix library in Python</td>
-        <th><a href="https://github.com/sepandhaghighi/pycm" target="_blank"><img alt="PyCM" src="https://img.shields.io/github/stars/sepandhaghighi/pycm?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Art" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-art.png" /></td>
-        <td>Miscellaneous</td>
-        <td>Python</td>
-        <td><a href="https://www.ascii-art.site" target="_blank">Art</a></td>
-        <td><g-emoji class="g-emoji" alias="art" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f3a8.png">?</g-emoji> ASCII art library for Python</td>
-        <th><a href="https://github.com/sepandhaghighi/art" target="_blank"><img alt="Art" src="https://img.shields.io/github/stars/sepandhaghighi/art?style=social" /></a></th>
-    </tr>
-    <tr>
         <td nowrap="nowrap"><img width="33" alt="qtrader" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-qtrader.jpg" /></td>
         <td>Analytics</td>
         <td>Python</td>
@@ -9229,6 +9293,38 @@
         <td><a href="https://github.com/kaboussi/Botflix" target="_blank">Botflix</a></td>
         <td>? Stream your favorite movie from the terminal!</td>
         <th><a href="https://github.com/kaboussi/Botflix" target="_blank"><img alt="Botflix" src="https://img.shields.io/github/stars/kaboussi/Botflix?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="MyTimer" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-mytimer.png" /></td>
+        <td>Miscellaneous</td>
+        <td>Python</td>
+        <td><a href="https://github.com/sepandhaghighi/mytimer" target="_blank">MyTimer</a></td>
+        <td>A Geeky Timer for Terminal Enthusiasts</td>
+        <th><a href="https://github.com/sepandhaghighi/mytimer" target="_blank"><img alt="MyTimer" src="https://img.shields.io/github/stars/sepandhaghighi/mytimer?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="PyRGG" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-pyrgg.png" /></td>
+        <td>Miscellaneous</td>
+        <td>Python</td>
+        <td><a href="https://www.pyrgg.ir" target="_blank">PyRGG</a></td>
+        <td><g-emoji class="g-emoji" alias="wrench" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f527.png">?</g-emoji> Python Random Graph Generator</td>
+        <th><a href="https://github.com/sepandhaghighi/pyrgg" target="_blank"><img alt="PyRGG" src="https://img.shields.io/github/stars/sepandhaghighi/pyrgg?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="OPEM" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-opem.png" /></td>
+        <td>Miscellaneous</td>
+        <td>Python</td>
+        <td><a href="http://opem.ecsim.ir" target="_blank">OPEM</a></td>
+        <td>OPEM (Open Source PEM Fuel Cell Simulation Tool)</td>
+        <th><a href="https://github.com/ECSIM/opem" target="_blank"><img alt="OPEM" src="https://img.shields.io/github/stars/ECSIM/opem?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Samila" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-samila.png" /></td>
+        <td>Miscellaneous</td>
+        <td>Python</td>
+        <td><a href="https://www.samila.site" target="_blank">Samila</a></td>
+        <td>Generative Art Generator</td>
+        <th><a href="https://github.com/sepandhaghighi/samila" target="_blank"><img alt="Samila" src="https://img.shields.io/github/stars/sepandhaghighi/samila?style=social" /></a></th>
     </tr>
 
 </table>
