@@ -174,6 +174,38 @@
         <th><a href="https://github.com/enisn/UraniumUI" target="_blank"><img alt="UraniumUI" src="https://img.shields.io/github/stars/enisn/UraniumUI?style=social" /></a></th>
     </tr>
     <tr>
+        <td nowrap="nowrap"><img width="33" alt="TorchSemiSeg" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-TorchSemiSeg.jpg" /></td>
+        <td>Productivity</td>
+        <td>Python</td>
+        <td><a href="https://github.com/charlesCXK/TorchSemiSeg" target="_blank">TorchSemiSeg</a></td>
+        <td>[CVPR 2021] Semi-Supervised Semantic Segmentation with Cross Pseudo Supervision</td>
+        <th><a href="https://github.com/charlesCXK/TorchSemiSeg" target="_blank"><img alt="TorchSemiSeg" src="https://img.shields.io/github/stars/charlesCXK/TorchSemiSeg?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="ConditionalDETR" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-ConditionalDETR.png" /></td>
+        <td>Productivity</td>
+        <td>Python</td>
+        <td><a href="https://github.com/Atten4Vis/ConditionalDETR" target="_blank">ConditionalDETR</a></td>
+        <td>This repository is an official implementation of the ICCV 2021 paper "Conditional DETR for Fast Training Convergence". (https://arxiv.org/abs/2108.06152)</td>
+        <th><a href="https://github.com/Atten4Vis/ConditionalDETR" target="_blank"><img alt="ConditionalDETR" src="https://img.shields.io/github/stars/Atten4Vis/ConditionalDETR?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="CAE" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-CAE.png" /></td>
+        <td>Productivity</td>
+        <td>Python</td>
+        <td><a href="https://github.com/Atten4Vis/CAE" target="_blank">CAE</a></td>
+        <td>This is a PyTorch implementation of “Context AutoEncoder for Self-Supervised Representation Learning"</td>
+        <th><a href="https://github.com/Atten4Vis/CAE" target="_blank"><img alt="CAE" src="https://img.shields.io/github/stars/Atten4Vis/CAE?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Progressively" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-progressively.png" /></td>
+        <td>Productivity</td>
+        <td>TypeScript</td>
+        <td><a href="https://progressively.app" target="_blank">Progressively</a></td>
+        <td>Very simple feature flagging solution</td>
+        <th><a href="https://github.com/progressively-crew/progressively" target="_blank"><img alt="Progressively" src="https://img.shields.io/github/stars/progressively-crew/progressively?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="NotionCMS" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-notion-cms.png" /></td>
         <td>Productivity</td>
         <td>TypeScript</td>
@@ -276,38 +308,6 @@
         <td><a href="https://github.com/fclairamb/ftpserverlib" target="_blank">ftpserverlib</a></td>
         <td>golang ftp server library</td>
         <th><a href="https://github.com/fclairamb/ftpserverlib" target="_blank"><img alt="ftpserverlib" src="https://img.shields.io/github/stars/fclairamb/ftpserverlib?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Spring Security Example" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-java-spring-security-example.jpg" /></td>
-        <td>Miscellaneous</td>
-        <td>Java</td>
-        <td><a href="https://github.com/Yoh0xFF/java-spring-security-example" target="_blank">Spring Security Example</a></td>
-        <td>Spring Security Sample Project</td>
-        <th><a href="https://github.com/Yoh0xFF/java-spring-security-example" target="_blank"><img alt="Spring Security Example" src="https://img.shields.io/github/stars/Yoh0xFF/java-spring-security-example?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Botflix" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-Botflix.jpg" /></td>
-        <td>Analytics</td>
-        <td>Python</td>
-        <td><a href="https://github.com/kaboussi/Botflix" target="_blank">Botflix</a></td>
-        <td>? Stream your favorite movie from the terminal!</td>
-        <th><a href="https://github.com/kaboussi/Botflix" target="_blank"><img alt="Botflix" src="https://img.shields.io/github/stars/kaboussi/Botflix?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="OpenDataV" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-openDataV.jpg" /></td>
-        <td>Productivity</td>
-        <td>TypeScript</td>
-        <td><a href="http://datav.byteportrait.com" target="_blank">OpenDataV</a></td>
-        <td>OpenDataV 是一个纯前端的拖拽式、可视化、低代码数据可视化?开发平台，你可以用它自由的拼接成各种✨炫酷的大屏，同时支持用户方便的开发自己的组件并接入平台。</td>
-        <th><a href="https://github.com/AnsGoo/openDataV" target="_blank"><img alt="OpenDataV" src="https://img.shields.io/github/stars/AnsGoo/openDataV?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="LLM-in-Vision" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-LLM-in-Vision.jpg" /></td>
-        <td>Miscellaneous</td>
-        <td>undefined</td>
-        <td><a href="https://github.com/DirtyHarryLYL/LLM-in-Vision" target="_blank">LLM-in-Vision</a></td>
-        <td>Recent LLM-based CV and related works. Welcome to comment/contribute!</td>
-        <th><a href="https://github.com/DirtyHarryLYL/LLM-in-Vision" target="_blank"><img alt="LLM-in-Vision" src="https://img.shields.io/github/stars/DirtyHarryLYL/LLM-in-Vision?style=social" /></a></th>
     </tr>
 
 </table>
@@ -3687,6 +3687,38 @@
         <td>Open Source Free ATS Tool to compare Resumes with Job Descriptions and create a score to rank them.</td>
         <th><a href="https://github.com/srbhr/Resume-Matcher" target="_blank"><img alt="Resume Matcher" src="https://img.shields.io/github/stars/srbhr/Resume-Matcher?style=social" /></a></th>
     </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="TorchSemiSeg" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-TorchSemiSeg.jpg" /></td>
+        <td>Productivity</td>
+        <td>Python</td>
+        <td><a href="https://github.com/charlesCXK/TorchSemiSeg" target="_blank">TorchSemiSeg</a></td>
+        <td>[CVPR 2021] Semi-Supervised Semantic Segmentation with Cross Pseudo Supervision</td>
+        <th><a href="https://github.com/charlesCXK/TorchSemiSeg" target="_blank"><img alt="TorchSemiSeg" src="https://img.shields.io/github/stars/charlesCXK/TorchSemiSeg?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="ConditionalDETR" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-ConditionalDETR.png" /></td>
+        <td>Productivity</td>
+        <td>Python</td>
+        <td><a href="https://github.com/Atten4Vis/ConditionalDETR" target="_blank">ConditionalDETR</a></td>
+        <td>This repository is an official implementation of the ICCV 2021 paper "Conditional DETR for Fast Training Convergence". (https://arxiv.org/abs/2108.06152)</td>
+        <th><a href="https://github.com/Atten4Vis/ConditionalDETR" target="_blank"><img alt="ConditionalDETR" src="https://img.shields.io/github/stars/Atten4Vis/ConditionalDETR?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="CAE" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-CAE.png" /></td>
+        <td>Productivity</td>
+        <td>Python</td>
+        <td><a href="https://github.com/Atten4Vis/CAE" target="_blank">CAE</a></td>
+        <td>This is a PyTorch implementation of “Context AutoEncoder for Self-Supervised Representation Learning"</td>
+        <th><a href="https://github.com/Atten4Vis/CAE" target="_blank"><img alt="CAE" src="https://img.shields.io/github/stars/Atten4Vis/CAE?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Progressively" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-progressively.png" /></td>
+        <td>Productivity</td>
+        <td>TypeScript</td>
+        <td><a href="https://progressively.app" target="_blank">Progressively</a></td>
+        <td>Very simple feature flagging solution</td>
+        <th><a href="https://github.com/progressively-crew/progressively" target="_blank"><img alt="Progressively" src="https://img.shields.io/github/stars/progressively-crew/progressively?style=social" /></a></th>
+    </tr>
 
 </table>
 
@@ -6746,6 +6778,14 @@
         <td>Yjs binding for Slate</td>
         <th><a href="https://github.com/BitPhinix/slate-yjs" target="_blank"><img alt="slate-yjs" src="https://img.shields.io/github/stars/BitPhinix/slate-yjs?style=social" /></a></th>
     </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Progressively" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-progressively.png" /></td>
+        <td>Productivity</td>
+        <td>TypeScript</td>
+        <td><a href="https://progressively.app" target="_blank">Progressively</a></td>
+        <td>Very simple feature flagging solution</td>
+        <th><a href="https://github.com/progressively-crew/progressively" target="_blank"><img alt="Progressively" src="https://img.shields.io/github/stars/progressively-crew/progressively?style=social" /></a></th>
+    </tr>
 
 </table>
 
@@ -9373,6 +9413,30 @@
         <td><a href="https://www.samila.site" target="_blank">Samila</a></td>
         <td>Generative Art Generator</td>
         <th><a href="https://github.com/sepandhaghighi/samila" target="_blank"><img alt="Samila" src="https://img.shields.io/github/stars/sepandhaghighi/samila?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="TorchSemiSeg" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-TorchSemiSeg.jpg" /></td>
+        <td>Productivity</td>
+        <td>Python</td>
+        <td><a href="https://github.com/charlesCXK/TorchSemiSeg" target="_blank">TorchSemiSeg</a></td>
+        <td>[CVPR 2021] Semi-Supervised Semantic Segmentation with Cross Pseudo Supervision</td>
+        <th><a href="https://github.com/charlesCXK/TorchSemiSeg" target="_blank"><img alt="TorchSemiSeg" src="https://img.shields.io/github/stars/charlesCXK/TorchSemiSeg?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="ConditionalDETR" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-ConditionalDETR.png" /></td>
+        <td>Productivity</td>
+        <td>Python</td>
+        <td><a href="https://github.com/Atten4Vis/ConditionalDETR" target="_blank">ConditionalDETR</a></td>
+        <td>This repository is an official implementation of the ICCV 2021 paper "Conditional DETR for Fast Training Convergence". (https://arxiv.org/abs/2108.06152)</td>
+        <th><a href="https://github.com/Atten4Vis/ConditionalDETR" target="_blank"><img alt="ConditionalDETR" src="https://img.shields.io/github/stars/Atten4Vis/ConditionalDETR?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="CAE" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-CAE.png" /></td>
+        <td>Productivity</td>
+        <td>Python</td>
+        <td><a href="https://github.com/Atten4Vis/CAE" target="_blank">CAE</a></td>
+        <td>This is a PyTorch implementation of “Context AutoEncoder for Self-Supervised Representation Learning"</td>
+        <th><a href="https://github.com/Atten4Vis/CAE" target="_blank"><img alt="CAE" src="https://img.shields.io/github/stars/Atten4Vis/CAE?style=social" /></a></th>
     </tr>
 
 </table>
