@@ -86,6 +86,8 @@
              </li>          <li>
                 <a href="#scss">Top 20 SCSS libraries</a>
              </li>          <li>
+                <a href="#tsql">Top 20 TSQL libraries</a>
+             </li>          <li>
                 <a href="#c">Top 20 C libraries</a>
              </li>          <li>
                 <a href="#markdown">Top 20 Markdown libraries</a>
@@ -158,6 +160,14 @@
         <th><a href="https://github.com/enisn/AutoFilterer" target="_blank"><img alt="AutoFilterer" src="https://img.shields.io/github/stars/enisn/AutoFilterer?style=social" /></a></th>
     </tr>
     <tr>
+        <td nowrap="nowrap"><img width="33" alt="Payroll Engine" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-PayrollEngine.png" /></td>
+        <td>Productivity</td>
+        <td>TSQL</td>
+        <td><a href="https://payrollengine.org/" target="_blank">Payroll Engine</a></td>
+        <td>The payroll automation framework.</td>
+        <th><a href="https://github.com/Payroll-Engine/PayrollEngine" target="_blank"><img alt="Payroll Engine" src="https://img.shields.io/github/stars/Payroll-Engine/PayrollEngine?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="InputKit" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-Xamarin.Forms_.InputKit.png" /></td>
         <td>Infrastructure</td>
         <td>C#</td>
@@ -204,6 +214,14 @@
         <td><a href="https://progressively.app" target="_blank">Progressively</a></td>
         <td>Very simple feature flagging solution</td>
         <th><a href="https://github.com/progressively-crew/progressively" target="_blank"><img alt="Progressively" src="https://img.shields.io/github/stars/progressively-crew/progressively?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Moar" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-moar.jpg" /></td>
+        <td>Miscellaneous</td>
+        <td>Go</td>
+        <td><a href="https://github.com/walles/moar" target="_blank">Moar</a></td>
+        <td>Moar is a pager. It's designed to just do the right thing without any configuration.</td>
+        <th><a href="https://github.com/walles/moar" target="_blank"><img alt="Moar" src="https://img.shields.io/github/stars/walles/moar?style=social" /></a></th>
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="NotionCMS" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-notion-cms.png" /></td>
@@ -293,22 +311,6 @@
         <td>A free and self-hosted Heroku PaaS alternative for Kubernetes that implements GitOps</td>
         <th><a href="https://github.com/kubero-dev/kubero" target="_blank"><img alt="Kubero" src="https://img.shields.io/github/stars/kubero-dev/kubero?style=social" /></a></th>
     </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Web Activity Time Tracker" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-web-activity-time-tracker.jpg" /></td>
-        <td>Productivity</td>
-        <td>Vue</td>
-        <td><a href="https://chrome.google.com/webstore/detail/web-activity-time-tracker/hhfnghjdeddcfegfekjeihfmbjenlomm" target="_blank">Web Activity Time Tracker</a></td>
-        <td>Chrome Extension that tracks and limits time you spent on sites</td>
-        <th><a href="https://github.com/Stigmatoz/web-activity-time-tracker" target="_blank"><img alt="Web Activity Time Tracker" src="https://img.shields.io/github/stars/Stigmatoz/web-activity-time-tracker?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="ftpserverlib" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-ftpserverlib.jpg" /></td>
-        <td>Infrastructure</td>
-        <td>Go</td>
-        <td><a href="https://github.com/fclairamb/ftpserverlib" target="_blank">ftpserverlib</a></td>
-        <td>golang ftp server library</td>
-        <th><a href="https://github.com/fclairamb/ftpserverlib" target="_blank"><img alt="ftpserverlib" src="https://img.shields.io/github/stars/fclairamb/ftpserverlib?style=social" /></a></th>
-    </tr>
 
 </table>
 
@@ -333,20 +335,20 @@
         <th><a href="https://github.com/CrowdDotDev/crowd.dev" target="_blank"><img alt="crowddev" src="https://img.shields.io/github/stars/CrowdDotDev/crowd.dev?style=social" /></a></th>
     </tr>
     <tr>
-        <td nowrap="nowrap"><img width="33" alt="Preevy" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-preevy.png" /></td>
-        <td>Productivity</td>
-        <td>TypeScript</td>
-        <td><a href="https://preevy.dev" target="_blank">Preevy</a></td>
-        <td>Quickly deploy preview environments to the cloud!</td>
-        <th><a href="https://github.com/livecycle/preevy" target="_blank"><img alt="Preevy" src="https://img.shields.io/github/stars/livecycle/preevy?style=social" /></a></th>
-    </tr>
-    <tr>
         <td nowrap="nowrap"><img width="33" alt="Wasp" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-wasp.png" /></td>
         <td>Infrastructure</td>
         <td>Haskell</td>
         <td><a href="https://wasp-lang.dev" target="_blank">Wasp</a></td>
         <td>The fastest way to develop full-stack web apps with React &amp; Node.js. </td>
         <th><a href="https://github.com/wasp-lang/wasp" target="_blank"><img alt="Wasp" src="https://img.shields.io/github/stars/wasp-lang/wasp?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Preevy" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-preevy.png" /></td>
+        <td>Productivity</td>
+        <td>TypeScript</td>
+        <td><a href="https://preevy.dev" target="_blank">Preevy</a></td>
+        <td>Quickly deploy preview environments to the cloud!</td>
+        <th><a href="https://github.com/livecycle/preevy" target="_blank"><img alt="Preevy" src="https://img.shields.io/github/stars/livecycle/preevy?style=social" /></a></th>
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="Novu" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-novu-2.png" /></td>
@@ -397,6 +399,14 @@
         <th><a href="https://github.com/github-20k/super-star" target="_blank"><img alt="Github 20k" src="https://img.shields.io/github/stars/github-20k/super-star?style=social" /></a></th>
     </tr>
     <tr>
+        <td nowrap="nowrap"><img width="33" alt="Mood-Example" src="https://libraries.github20k.com/images/uploads/2023/06/newshot-Mood-Example.png" /></td>
+        <td>Miscellaneous</td>
+        <td>Dart</td>
+        <td><a href="https://github.com/AmosHuKe/Mood-Example" target="_blank">Mood-Example</a></td>
+        <td><g-emoji class="g-emoji" alias="bird" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f426.png">?</g-emoji> Flutter 3 心情记录 样例工程 - 国际化 i18n、uni 小程序、深色模式、多主题、本地数据管理、路由管理、状态管理、无障碍（Semantics）、异步 FFI、集成测试、图表统计、Excel 导入导出、游戏…</td>
+        <th><a href="https://github.com/AmosHuKe/Mood-Example" target="_blank"><img alt="Mood-Example" src="https://img.shields.io/github/stars/AmosHuKe/Mood-Example?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="dyrector.io" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-dyrectorio.jpg" /></td>
         <td>Productivity</td>
         <td>TypeScript</td>
@@ -411,14 +421,6 @@
         <td><a href="https://twenty.com" target="_blank">Twenty CRM</a></td>
         <td>Building a modern alternative to Salesforce. <g-emoji class="g-emoji" alias="star2" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f31f.png">?</g-emoji> You can star to support our work!</td>
         <th><a href="https://github.com/twentyhq/twenty" target="_blank"><img alt="Twenty CRM" src="https://img.shields.io/github/stars/twentyhq/twenty?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Mood-Example" src="https://libraries.github20k.com/images/uploads/2023/06/newshot-Mood-Example.png" /></td>
-        <td>Miscellaneous</td>
-        <td>Dart</td>
-        <td><a href="https://github.com/AmosHuKe/Mood-Example" target="_blank">Mood-Example</a></td>
-        <td><g-emoji class="g-emoji" alias="bird" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f426.png">?</g-emoji> Flutter 3 心情记录 样例工程 - 国际化 i18n、uni 小程序、深色模式、多主题、本地数据管理、路由管理、状态管理、无障碍（Semantics）、异步 FFI、集成测试、图表统计、Excel 导入导出、游戏…</td>
-        <th><a href="https://github.com/AmosHuKe/Mood-Example" target="_blank"><img alt="Mood-Example" src="https://img.shields.io/github/stars/AmosHuKe/Mood-Example?style=social" /></a></th>
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="Kubescape" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-kubescape.png" /></td>
@@ -461,6 +463,14 @@
         <th><a href="https://github.com/Liberty-liu/Everright-formEditor" target="_blank"><img alt="Everright-formEditor" src="https://img.shields.io/github/stars/Liberty-liu/Everright-formEditor?style=social" /></a></th>
     </tr>
     <tr>
+        <td nowrap="nowrap"><img width="33" alt="flutter_tilt" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-flutter_tilt.png" /></td>
+        <td>Productivity</td>
+        <td>Dart</td>
+        <td><a href="https://pub.dev/packages/flutter_tilt" target="_blank">flutter_tilt</a></td>
+        <td><g-emoji class="g-emoji" alias="eyes" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f440.png">?</g-emoji> Easily apply tilt parallax hover effects on Flutter! | 在 Flutter 上轻松创建倾斜视差悬停效果！</td>
+        <th><a href="https://github.com/AmosHuKe/flutter_tilt" target="_blank"><img alt="flutter_tilt" src="https://img.shields.io/github/stars/AmosHuKe/flutter_tilt?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="Bitwarden" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-clients-1.png" /></td>
         <td>Security</td>
         <td>TypeScript</td>
@@ -491,14 +501,6 @@
         <td><a href="https://brapi.dev" target="_blank">brapi</a></td>
         <td>A poderosa API open source para dados financeiros do mercado de ações, conversão de moedas e inflação brasileira</td>
         <th><a href="https://github.com/Alissonsleal/brapi" target="_blank"><img alt="brapi" src="https://img.shields.io/github/stars/Alissonsleal/brapi?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="flutter_tilt" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-flutter_tilt.png" /></td>
-        <td>Productivity</td>
-        <td>Dart</td>
-        <td><a href="https://pub.dev/packages/flutter_tilt" target="_blank">flutter_tilt</a></td>
-        <td><g-emoji class="g-emoji" alias="eyes" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f440.png">?</g-emoji> Easily apply tilt parallax hover effects on Flutter! | 在 Flutter 上轻松创建倾斜视差悬停效果！</td>
-        <th><a href="https://github.com/AmosHuKe/flutter_tilt" target="_blank"><img alt="flutter_tilt" src="https://img.shields.io/github/stars/AmosHuKe/flutter_tilt?style=social" /></a></th>
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="awesome window manager" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-awesome.png" /></td>
@@ -1140,20 +1142,20 @@
         <th>Stargazers</th>
     </tr>
         <tr>
-        <td nowrap="nowrap"><img width="33" alt="Twenty CRM" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-twenty.png" /></td>
-        <td>Miscellaneous</td>
-        <td>TypeScript</td>
-        <td><a href="https://twenty.com" target="_blank">Twenty CRM</a></td>
-        <td>Building a modern alternative to Salesforce. <g-emoji class="g-emoji" alias="star2" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f31f.png">?</g-emoji> You can star to support our work!</td>
-        <th><a href="https://github.com/twentyhq/twenty" target="_blank"><img alt="Twenty CRM" src="https://img.shields.io/github/stars/twentyhq/twenty?style=social" /></a></th>
-    </tr>
-    <tr>
         <td nowrap="nowrap"><img width="33" alt="Mood-Example" src="https://libraries.github20k.com/images/uploads/2023/06/newshot-Mood-Example.png" /></td>
         <td>Miscellaneous</td>
         <td>Dart</td>
         <td><a href="https://github.com/AmosHuKe/Mood-Example" target="_blank">Mood-Example</a></td>
         <td><g-emoji class="g-emoji" alias="bird" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f426.png">?</g-emoji> Flutter 3 心情记录 样例工程 - 国际化 i18n、uni 小程序、深色模式、多主题、本地数据管理、路由管理、状态管理、无障碍（Semantics）、异步 FFI、集成测试、图表统计、Excel 导入导出、游戏…</td>
         <th><a href="https://github.com/AmosHuKe/Mood-Example" target="_blank"><img alt="Mood-Example" src="https://img.shields.io/github/stars/AmosHuKe/Mood-Example?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Twenty CRM" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-twenty.png" /></td>
+        <td>Miscellaneous</td>
+        <td>TypeScript</td>
+        <td><a href="https://twenty.com" target="_blank">Twenty CRM</a></td>
+        <td>Building a modern alternative to Salesforce. <g-emoji class="g-emoji" alias="star2" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f31f.png">?</g-emoji> You can star to support our work!</td>
+        <th><a href="https://github.com/twentyhq/twenty" target="_blank"><img alt="Twenty CRM" src="https://img.shields.io/github/stars/twentyhq/twenty?style=social" /></a></th>
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="brapi" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-brapi.jpg" /></td>
@@ -2027,6 +2029,14 @@
         <td>Generative Art Generator</td>
         <th><a href="https://github.com/sepandhaghighi/samila" target="_blank"><img alt="Samila" src="https://img.shields.io/github/stars/sepandhaghighi/samila?style=social" /></a></th>
     </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Moar" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-moar.jpg" /></td>
+        <td>Miscellaneous</td>
+        <td>Go</td>
+        <td><a href="https://github.com/walles/moar" target="_blank">Moar</a></td>
+        <td>Moar is a pager. It's designed to just do the right thing without any configuration.</td>
+        <th><a href="https://github.com/walles/moar" target="_blank"><img alt="Moar" src="https://img.shields.io/github/stars/walles/moar?style=social" /></a></th>
+    </tr>
 
 </table>
 
@@ -2566,6 +2576,14 @@
         <td><a href="https://chrome.google.com/webstore/detail/web-activity-time-tracker/hhfnghjdeddcfegfekjeihfmbjenlomm" target="_blank">Web Activity Time Tracker</a></td>
         <td>Chrome Extension that tracks and limits time you spent on sites</td>
         <th><a href="https://github.com/Stigmatoz/web-activity-time-tracker" target="_blank"><img alt="Web Activity Time Tracker" src="https://img.shields.io/github/stars/Stigmatoz/web-activity-time-tracker?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Payroll Engine" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-PayrollEngine.png" /></td>
+        <td>Productivity</td>
+        <td>TSQL</td>
+        <td><a href="https://payrollengine.org/" target="_blank">Payroll Engine</a></td>
+        <td>The payroll automation framework.</td>
+        <th><a href="https://github.com/Payroll-Engine/PayrollEngine" target="_blank"><img alt="Payroll Engine" src="https://img.shields.io/github/stars/Payroll-Engine/PayrollEngine?style=social" /></a></th>
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="VS Code Docs" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-vscode-docs.png" /></td>
@@ -7686,6 +7704,14 @@
         <td>golang ftp server library</td>
         <th><a href="https://github.com/fclairamb/ftpserverlib" target="_blank"><img alt="ftpserverlib" src="https://img.shields.io/github/stars/fclairamb/ftpserverlib?style=social" /></a></th>
     </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Moar" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-moar.jpg" /></td>
+        <td>Miscellaneous</td>
+        <td>Go</td>
+        <td><a href="https://github.com/walles/moar" target="_blank">Moar</a></td>
+        <td>Moar is a pager. It's designed to just do the right thing without any configuration.</td>
+        <th><a href="https://github.com/walles/moar" target="_blank"><img alt="Moar" src="https://img.shields.io/github/stars/walles/moar?style=social" /></a></th>
+    </tr>
 
 </table>
 
@@ -10059,6 +10085,28 @@
         <td><a href="https://www.cirrus-ui.com/" target="_blank">Cirrus</a></td>
         <td><g-emoji class="g-emoji" alias="cloud" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2601.png">☁️</g-emoji> The SCSS framework for the modern web.</td>
         <th><a href="https://github.com/Spiderpig86/Cirrus" target="_blank"><img alt="Cirrus" src="https://img.shields.io/github/stars/Spiderpig86/Cirrus?style=social" /></a></th>
+    </tr>
+
+</table>
+
+<br /><br />
+<h2 id="tsql">Top 20 TSQL libraries</h2>
+<table>
+    <tr>
+        <th>Icon</th>
+        <th>Category</th>
+        <th>Language</th>
+        <th>Name</th>
+        <th>Description</th>
+        <th>Stargazers</th>
+    </tr>
+        <tr>
+        <td nowrap="nowrap"><img width="33" alt="Payroll Engine" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-PayrollEngine.png" /></td>
+        <td>Productivity</td>
+        <td>TSQL</td>
+        <td><a href="https://payrollengine.org/" target="_blank">Payroll Engine</a></td>
+        <td>The payroll automation framework.</td>
+        <th><a href="https://github.com/Payroll-Engine/PayrollEngine" target="_blank"><img alt="Payroll Engine" src="https://img.shields.io/github/stars/Payroll-Engine/PayrollEngine?style=social" /></a></th>
     </tr>
 
 </table>
