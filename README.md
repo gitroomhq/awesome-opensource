@@ -150,6 +150,30 @@
         <th>Stargazers</th>
     </tr>
         <tr>
+        <td nowrap="nowrap"><img width="33" alt="AutoFilterer" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-AutoFilterer.png" /></td>
+        <td>Infrastructure</td>
+        <td>C#</td>
+        <td><a href="https://github.com/enisn/AutoFilterer" target="_blank">AutoFilterer</a></td>
+        <td>AutoFilterer is a mini filtering framework library for dotnet. The main purpose of the library is to generate LINQ expressions for Entities over DTOs automatically. The first aim is to be compatibl…</td>
+        <th><a href="https://github.com/enisn/AutoFilterer" target="_blank"><img alt="AutoFilterer" src="https://img.shields.io/github/stars/enisn/AutoFilterer?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="InputKit" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-Xamarin.Forms_.InputKit.png" /></td>
+        <td>Infrastructure</td>
+        <td>C#</td>
+        <td><a href="https://github.com/enisn/Xamarin.Forms.InputKit" target="_blank">InputKit</a></td>
+        <td>CheckBox, Radio Button, Labeled Slider, Dropdowns etc. </td>
+        <th><a href="https://github.com/enisn/Xamarin.Forms.InputKit" target="_blank"><img alt="InputKit" src="https://img.shields.io/github/stars/enisn/Xamarin.Forms.InputKit?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="UraniumUI" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-UraniumUI.png" /></td>
+        <td>Infrastructure</td>
+        <td>C#</td>
+        <td><a href="https://github.com/enisn/UraniumUI" target="_blank">UraniumUI</a></td>
+        <td>Uranium is a Free &amp; Open-Source UI Kit for MAUI.</td>
+        <th><a href="https://github.com/enisn/UraniumUI" target="_blank"><img alt="UraniumUI" src="https://img.shields.io/github/stars/enisn/UraniumUI?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="NotionCMS" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-notion-cms.png" /></td>
         <td>Productivity</td>
         <td>TypeScript</td>
@@ -284,30 +308,6 @@
         <td><a href="https://github.com/DirtyHarryLYL/LLM-in-Vision" target="_blank">LLM-in-Vision</a></td>
         <td>Recent LLM-based CV and related works. Welcome to comment/contribute!</td>
         <th><a href="https://github.com/DirtyHarryLYL/LLM-in-Vision" target="_blank"><img alt="LLM-in-Vision" src="https://img.shields.io/github/stars/DirtyHarryLYL/LLM-in-Vision?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="SmartImage" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-SmartImage.png" /></td>
-        <td>Productivity</td>
-        <td>C#</td>
-        <td><a href="https://github.com/Decimation/SmartImage" target="_blank">SmartImage</a></td>
-        <td>Reverse image search tool (SauceNao, IQDB, Ascii2D, trace.moe, and more)</td>
-        <th><a href="https://github.com/Decimation/SmartImage" target="_blank"><img alt="SmartImage" src="https://img.shields.io/github/stars/Decimation/SmartImage?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="HOI-Learning-List" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-HOI-Learning-List.jpg" /></td>
-        <td>Miscellaneous</td>
-        <td>undefined</td>
-        <td><a href="https://github.com/DirtyHarryLYL/HOI-Learning-List" target="_blank">HOI-Learning-List</a></td>
-        <td>A list of Human-Object Interaction Learning.</td>
-        <th><a href="https://github.com/DirtyHarryLYL/HOI-Learning-List" target="_blank"><img alt="HOI-Learning-List" src="https://img.shields.io/github/stars/DirtyHarryLYL/HOI-Learning-List?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Resume Matcher" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-Resume-Matcher.jpg" /></td>
-        <td>Productivity</td>
-        <td>Python</td>
-        <td><a href="https://www.resumematcher.fyi/" target="_blank">Resume Matcher</a></td>
-        <td>Open Source Free ATS Tool to compare Resumes with Job Descriptions and create a score to rank them.</td>
-        <th><a href="https://github.com/srbhr/Resume-Matcher" target="_blank"><img alt="Resume Matcher" src="https://img.shields.io/github/stars/srbhr/Resume-Matcher?style=social" /></a></th>
     </tr>
 
 </table>
@@ -4980,6 +4980,14 @@
         <th><a href="https://github.com/Loki-Astari/ThorsSerializer" target="_blank"><img alt="ThorsSerializer" src="https://img.shields.io/github/stars/Loki-Astari/ThorsSerializer?style=social" /></a></th>
     </tr>
     <tr>
+        <td nowrap="nowrap"><img width="33" alt="AutoFilterer" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-AutoFilterer.png" /></td>
+        <td>Infrastructure</td>
+        <td>C#</td>
+        <td><a href="https://github.com/enisn/AutoFilterer" target="_blank">AutoFilterer</a></td>
+        <td>AutoFilterer is a mini filtering framework library for dotnet. The main purpose of the library is to generate LINQ expressions for Entities over DTOs automatically. The first aim is to be compatibl…</td>
+        <th><a href="https://github.com/enisn/AutoFilterer" target="_blank"><img alt="AutoFilterer" src="https://img.shields.io/github/stars/enisn/AutoFilterer?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="ClusterFuzz" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-clusterfuzz.png" /></td>
         <td>Infrastructure</td>
         <td>Python</td>
@@ -5770,6 +5778,22 @@
         <td><a href="https://ant.design" target="_blank">afc163</a></td>
         <td>An enterprise-class UI design language and React UI library</td>
         <th><a href="https://github.com/ant-design/ant-design" target="_blank"><img alt="afc163" src="https://img.shields.io/github/stars/ant-design/ant-design?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="InputKit" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-Xamarin.Forms_.InputKit.png" /></td>
+        <td>Infrastructure</td>
+        <td>C#</td>
+        <td><a href="https://github.com/enisn/Xamarin.Forms.InputKit" target="_blank">InputKit</a></td>
+        <td>CheckBox, Radio Button, Labeled Slider, Dropdowns etc. </td>
+        <th><a href="https://github.com/enisn/Xamarin.Forms.InputKit" target="_blank"><img alt="InputKit" src="https://img.shields.io/github/stars/enisn/Xamarin.Forms.InputKit?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="UraniumUI" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-UraniumUI.png" /></td>
+        <td>Infrastructure</td>
+        <td>C#</td>
+        <td><a href="https://github.com/enisn/UraniumUI" target="_blank">UraniumUI</a></td>
+        <td>Uranium is a Free &amp; Open-Source UI Kit for MAUI.</td>
+        <th><a href="https://github.com/enisn/UraniumUI" target="_blank"><img alt="UraniumUI" src="https://img.shields.io/github/stars/enisn/UraniumUI?style=social" /></a></th>
     </tr>
 
 </table>
@@ -8611,6 +8635,14 @@
         <th><a href="https://github.com/Decimation/SmartImage" target="_blank"><img alt="SmartImage" src="https://img.shields.io/github/stars/Decimation/SmartImage?style=social" /></a></th>
     </tr>
     <tr>
+        <td nowrap="nowrap"><img width="33" alt="AutoFilterer" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-AutoFilterer.png" /></td>
+        <td>Infrastructure</td>
+        <td>C#</td>
+        <td><a href="https://github.com/enisn/AutoFilterer" target="_blank">AutoFilterer</a></td>
+        <td>AutoFilterer is a mini filtering framework library for dotnet. The main purpose of the library is to generate LINQ expressions for Entities over DTOs automatically. The first aim is to be compatibl…</td>
+        <th><a href="https://github.com/enisn/AutoFilterer" target="_blank"><img alt="AutoFilterer" src="https://img.shields.io/github/stars/enisn/AutoFilterer?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="MudBlazor" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-MudBlazor.png" /></td>
         <td>Infrastructure</td>
         <td>C#</td>
@@ -8729,6 +8761,22 @@
         <td><a href="https://github.com/thudugala/Plugin.LocalNotification" target="_blank">Plugin.LocalNotification</a></td>
         <td>The local notification plugin provides a way to show local notifications from .Net MAUI and Xamarin Forms apps .</td>
         <th><a href="https://github.com/thudugala/Plugin.LocalNotification" target="_blank"><img alt="Plugin.LocalNotification" src="https://img.shields.io/github/stars/thudugala/Plugin.LocalNotification?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="InputKit" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-Xamarin.Forms_.InputKit.png" /></td>
+        <td>Infrastructure</td>
+        <td>C#</td>
+        <td><a href="https://github.com/enisn/Xamarin.Forms.InputKit" target="_blank">InputKit</a></td>
+        <td>CheckBox, Radio Button, Labeled Slider, Dropdowns etc. </td>
+        <th><a href="https://github.com/enisn/Xamarin.Forms.InputKit" target="_blank"><img alt="InputKit" src="https://img.shields.io/github/stars/enisn/Xamarin.Forms.InputKit?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="UraniumUI" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-UraniumUI.png" /></td>
+        <td>Infrastructure</td>
+        <td>C#</td>
+        <td><a href="https://github.com/enisn/UraniumUI" target="_blank">UraniumUI</a></td>
+        <td>Uranium is a Free &amp; Open-Source UI Kit for MAUI.</td>
+        <th><a href="https://github.com/enisn/UraniumUI" target="_blank"><img alt="UraniumUI" src="https://img.shields.io/github/stars/enisn/UraniumUI?style=social" /></a></th>
     </tr>
 
 </table>
