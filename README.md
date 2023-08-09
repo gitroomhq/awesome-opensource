@@ -152,6 +152,14 @@
         <th>Stargazers</th>
     </tr>
         <tr>
+        <td nowrap="nowrap"><img width="33" alt="Meerkat" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-Meerkat.png" /></td>
+        <td>Security</td>
+        <td>PowerShell</td>
+        <td><a href="https://github.com/TonyPhipps/Meerkat" target="_blank">Meerkat</a></td>
+        <td>A collection of PowerShell modules designed for artifact gathering and reconnaisance of Windows-based endpoints.</td>
+        <th><a href="https://github.com/TonyPhipps/Meerkat" target="_blank"><img alt="Meerkat" src="https://img.shields.io/github/stars/TonyPhipps/Meerkat?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="AutoFilterer" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-AutoFilterer.png" /></td>
         <td>Infrastructure</td>
         <td>C#</td>
@@ -303,14 +311,6 @@
         <td>A React component library for building modern web applications using Tailwind CSS.</td>
         <th><a href="https://github.com/rewindui/rewindui" target="_blank"><img alt="Rewind-UI" src="https://img.shields.io/github/stars/rewindui/rewindui?style=social" /></a></th>
     </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Kubero" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-kubero.png" /></td>
-        <td>Infrastructure</td>
-        <td>TypeScript</td>
-        <td><a href="https://demo.kubero.dev" target="_blank">Kubero</a></td>
-        <td>A free and self-hosted Heroku PaaS alternative for Kubernetes that implements GitOps</td>
-        <th><a href="https://github.com/kubero-dev/kubero" target="_blank"><img alt="Kubero" src="https://img.shields.io/github/stars/kubero-dev/kubero?style=social" /></a></th>
-    </tr>
 
 </table>
 
@@ -335,20 +335,20 @@
         <th><a href="https://github.com/CrowdDotDev/crowd.dev" target="_blank"><img alt="crowddev" src="https://img.shields.io/github/stars/CrowdDotDev/crowd.dev?style=social" /></a></th>
     </tr>
     <tr>
-        <td nowrap="nowrap"><img width="33" alt="Wasp" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-wasp.png" /></td>
-        <td>Infrastructure</td>
-        <td>Haskell</td>
-        <td><a href="https://wasp-lang.dev" target="_blank">Wasp</a></td>
-        <td>The fastest way to develop full-stack web apps with React &amp; Node.js. </td>
-        <th><a href="https://github.com/wasp-lang/wasp" target="_blank"><img alt="Wasp" src="https://img.shields.io/github/stars/wasp-lang/wasp?style=social" /></a></th>
-    </tr>
-    <tr>
         <td nowrap="nowrap"><img width="33" alt="Preevy" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-preevy.png" /></td>
         <td>Productivity</td>
         <td>TypeScript</td>
         <td><a href="https://preevy.dev" target="_blank">Preevy</a></td>
         <td>Quickly deploy preview environments to the cloud!</td>
         <th><a href="https://github.com/livecycle/preevy" target="_blank"><img alt="Preevy" src="https://img.shields.io/github/stars/livecycle/preevy?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Wasp" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-wasp.png" /></td>
+        <td>Infrastructure</td>
+        <td>Haskell</td>
+        <td><a href="https://wasp-lang.dev" target="_blank">Wasp</a></td>
+        <td>The fastest way to develop full-stack web apps with React &amp; Node.js. </td>
+        <th><a href="https://github.com/wasp-lang/wasp" target="_blank"><img alt="Wasp" src="https://img.shields.io/github/stars/wasp-lang/wasp?style=social" /></a></th>
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="Novu" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-novu-2.png" /></td>
@@ -4332,6 +4332,14 @@
         <td><a href="https://twitter.com/sajjadium" target="_blank">DeepCrawling</a></td>
         <td>Crawlium (DeepCrawling): A crawling platform based on Chrome (Chromium) browser to get a deeper look into the ecosystem of content inclusion on the Web.</td>
         <th><a href="https://github.com/sajjadium/DeepCrawling" target="_blank"><img alt="DeepCrawling" src="https://img.shields.io/github/stars/sajjadium/DeepCrawling?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Meerkat" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-Meerkat.png" /></td>
+        <td>Security</td>
+        <td>PowerShell</td>
+        <td><a href="https://github.com/TonyPhipps/Meerkat" target="_blank">Meerkat</a></td>
+        <td>A collection of PowerShell modules designed for artifact gathering and reconnaisance of Windows-based endpoints.</td>
+        <th><a href="https://github.com/TonyPhipps/Meerkat" target="_blank"><img alt="Meerkat" src="https://img.shields.io/github/stars/TonyPhipps/Meerkat?style=social" /></a></th>
     </tr>
 
 </table>
@@ -10751,6 +10759,14 @@
         <td><a href="https://www.mandiant.com/resources/blog/commando-vm-windows-offensive-distribution" target="_blank">Mandiant</a></td>
         <td>Complete Mandiant Offensive VM (Commando VM), a fully customizable Windows-based pentesting virtual machine distribution. commandovm@mandiant.com</td>
         <th><a href="https://github.com/mandiant/commando-vm" target="_blank"><img alt="Mandiant" src="https://img.shields.io/github/stars/mandiant/commando-vm?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Meerkat" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-Meerkat.png" /></td>
+        <td>Security</td>
+        <td>PowerShell</td>
+        <td><a href="https://github.com/TonyPhipps/Meerkat" target="_blank">Meerkat</a></td>
+        <td>A collection of PowerShell modules designed for artifact gathering and reconnaisance of Windows-based endpoints.</td>
+        <th><a href="https://github.com/TonyPhipps/Meerkat" target="_blank"><img alt="Meerkat" src="https://img.shields.io/github/stars/TonyPhipps/Meerkat?style=social" /></a></th>
     </tr>
 
 </table>
