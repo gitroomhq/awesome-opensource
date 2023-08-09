@@ -160,6 +160,22 @@
         <th><a href="https://github.com/TonyPhipps/Meerkat" target="_blank"><img alt="Meerkat" src="https://img.shields.io/github/stars/TonyPhipps/Meerkat?style=social" /></a></th>
     </tr>
     <tr>
+        <td nowrap="nowrap"><img width="33" alt="Stegano" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-Stegano.jpg" /></td>
+        <td>Security</td>
+        <td>Python</td>
+        <td><a href="https://sr.ht/~cedric/stegano" target="_blank">Stegano</a></td>
+        <td>A pure Python steganography module.</td>
+        <th><a href="https://github.com/cedricbonhomme/Stegano" target="_blank"><img alt="Stegano" src="https://img.shields.io/github/stars/cedricbonhomme/Stegano?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="ma-gym" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-ma-gym.png" /></td>
+        <td>Miscellaneous</td>
+        <td>Python</td>
+        <td><a href="https://github.com/koulanurag/ma-gym/wiki" target="_blank">ma-gym</a></td>
+        <td>A collection of multi agent environments based on OpenAI gym.</td>
+        <th><a href="https://github.com/koulanurag/ma-gym" target="_blank"><img alt="ma-gym" src="https://img.shields.io/github/stars/koulanurag/ma-gym?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="AutoFilterer" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-AutoFilterer.png" /></td>
         <td>Infrastructure</td>
         <td>C#</td>
@@ -294,22 +310,6 @@
         <td><a href="http://opem.ecsim.ir" target="_blank">OPEM</a></td>
         <td>OPEM (Open Source PEM Fuel Cell Simulation Tool)</td>
         <th><a href="https://github.com/ECSIM/opem" target="_blank"><img alt="OPEM" src="https://img.shields.io/github/stars/ECSIM/opem?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Samila" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-samila.png" /></td>
-        <td>Miscellaneous</td>
-        <td>Python</td>
-        <td><a href="https://www.samila.site" target="_blank">Samila</a></td>
-        <td>Generative Art Generator</td>
-        <th><a href="https://github.com/sepandhaghighi/samila" target="_blank"><img alt="Samila" src="https://img.shields.io/github/stars/sepandhaghighi/samila?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Rewind-UI" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-rewindui.png" /></td>
-        <td>Miscellaneous</td>
-        <td>TypeScript</td>
-        <td><a href="https://rewind-ui.dev" target="_blank">Rewind-UI</a></td>
-        <td>A React component library for building modern web applications using Tailwind CSS.</td>
-        <th><a href="https://github.com/rewindui/rewindui" target="_blank"><img alt="Rewind-UI" src="https://img.shields.io/github/stars/rewindui/rewindui?style=social" /></a></th>
     </tr>
 
 </table>
@@ -2036,6 +2036,14 @@
         <td><a href="https://github.com/walles/moar" target="_blank">Moar</a></td>
         <td>Moar is a pager. It's designed to just do the right thing without any configuration.</td>
         <th><a href="https://github.com/walles/moar" target="_blank"><img alt="Moar" src="https://img.shields.io/github/stars/walles/moar?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="ma-gym" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-ma-gym.png" /></td>
+        <td>Miscellaneous</td>
+        <td>Python</td>
+        <td><a href="https://github.com/koulanurag/ma-gym/wiki" target="_blank">ma-gym</a></td>
+        <td>A collection of multi agent environments based on OpenAI gym.</td>
+        <th><a href="https://github.com/koulanurag/ma-gym" target="_blank"><img alt="ma-gym" src="https://img.shields.io/github/stars/koulanurag/ma-gym?style=social" /></a></th>
     </tr>
 
 </table>
@@ -4340,6 +4348,14 @@
         <td><a href="https://github.com/TonyPhipps/Meerkat" target="_blank">Meerkat</a></td>
         <td>A collection of PowerShell modules designed for artifact gathering and reconnaisance of Windows-based endpoints.</td>
         <th><a href="https://github.com/TonyPhipps/Meerkat" target="_blank"><img alt="Meerkat" src="https://img.shields.io/github/stars/TonyPhipps/Meerkat?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Stegano" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-Stegano.jpg" /></td>
+        <td>Security</td>
+        <td>Python</td>
+        <td><a href="https://sr.ht/~cedric/stegano" target="_blank">Stegano</a></td>
+        <td>A pure Python steganography module.</td>
+        <th><a href="https://github.com/cedricbonhomme/Stegano" target="_blank"><img alt="Stegano" src="https://img.shields.io/github/stars/cedricbonhomme/Stegano?style=social" /></a></th>
     </tr>
 
 </table>
@@ -9471,6 +9487,22 @@
         <td><a href="https://github.com/Atten4Vis/CAE" target="_blank">CAE</a></td>
         <td>This is a PyTorch implementation of “Context AutoEncoder for Self-Supervised Representation Learning"</td>
         <th><a href="https://github.com/Atten4Vis/CAE" target="_blank"><img alt="CAE" src="https://img.shields.io/github/stars/Atten4Vis/CAE?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Stegano" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-Stegano.jpg" /></td>
+        <td>Security</td>
+        <td>Python</td>
+        <td><a href="https://sr.ht/~cedric/stegano" target="_blank">Stegano</a></td>
+        <td>A pure Python steganography module.</td>
+        <th><a href="https://github.com/cedricbonhomme/Stegano" target="_blank"><img alt="Stegano" src="https://img.shields.io/github/stars/cedricbonhomme/Stegano?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="ma-gym" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-ma-gym.png" /></td>
+        <td>Miscellaneous</td>
+        <td>Python</td>
+        <td><a href="https://github.com/koulanurag/ma-gym/wiki" target="_blank">ma-gym</a></td>
+        <td>A collection of multi agent environments based on OpenAI gym.</td>
+        <th><a href="https://github.com/koulanurag/ma-gym" target="_blank"><img alt="ma-gym" src="https://img.shields.io/github/stars/koulanurag/ma-gym?style=social" /></a></th>
     </tr>
 
 </table>
