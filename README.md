@@ -335,20 +335,20 @@
         <th><a href="https://github.com/CrowdDotDev/crowd.dev" target="_blank"><img alt="crowddev" src="https://img.shields.io/github/stars/CrowdDotDev/crowd.dev?style=social" /></a></th>
     </tr>
     <tr>
-        <td nowrap="nowrap"><img width="33" alt="Preevy" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-preevy.png" /></td>
-        <td>Productivity</td>
-        <td>TypeScript</td>
-        <td><a href="https://preevy.dev" target="_blank">Preevy</a></td>
-        <td>Quickly deploy preview environments to the cloud!</td>
-        <th><a href="https://github.com/livecycle/preevy" target="_blank"><img alt="Preevy" src="https://img.shields.io/github/stars/livecycle/preevy?style=social" /></a></th>
-    </tr>
-    <tr>
         <td nowrap="nowrap"><img width="33" alt="Wasp" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-wasp.png" /></td>
         <td>Infrastructure</td>
         <td>Haskell</td>
         <td><a href="https://wasp-lang.dev" target="_blank">Wasp</a></td>
         <td>The fastest way to develop full-stack web apps with React &amp; Node.js. </td>
         <th><a href="https://github.com/wasp-lang/wasp" target="_blank"><img alt="Wasp" src="https://img.shields.io/github/stars/wasp-lang/wasp?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Preevy" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-preevy.png" /></td>
+        <td>Productivity</td>
+        <td>TypeScript</td>
+        <td><a href="https://preevy.dev" target="_blank">Preevy</a></td>
+        <td>Quickly deploy preview environments to the cloud!</td>
+        <th><a href="https://github.com/livecycle/preevy" target="_blank"><img alt="Preevy" src="https://img.shields.io/github/stars/livecycle/preevy?style=social" /></a></th>
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="Novu" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-novu-2.png" /></td>
