@@ -168,6 +168,14 @@
         <th><a href="https://github.com/ritikbanger/react18-input-otp" target="_blank"><img alt="React18-input-otp" src="https://img.shields.io/github/stars/ritikbanger/react18-input-otp?style=social" /></a></th>
     </tr>
     <tr>
+        <td nowrap="nowrap"><img width="33" alt="Laravel Validated DTO" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-laravel-validated-dto.jpg" /></td>
+        <td>Miscellaneous</td>
+        <td>PHP</td>
+        <td><a href="https://wendell-adriel.gitbook.io/laravel-validated-dto/" target="_blank">Laravel Validated DTO</a></td>
+        <td>Data Transfer Objects with validation for Laravel applications</td>
+        <th><a href="https://github.com/WendellAdriel/laravel-validated-dto" target="_blank"><img alt="Laravel Validated DTO" src="https://img.shields.io/github/stars/WendellAdriel/laravel-validated-dto?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="Meerkat" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-Meerkat.png" /></td>
         <td>Security</td>
         <td>PowerShell</td>
@@ -302,14 +310,6 @@
         <td><a href="https://tclahr.github.io/uac-docs" target="_blank">UAC (Unix-like Artifacts Collector)</a></td>
         <td>UAC is a Live Response collection script for Incident Response that makes use of native binaries and tools to automate the collection of AIX, Android, ESXi, FreeBSD, Linux, macOS, NetBSD, NetScaler…</td>
         <th><a href="https://github.com/tclahr/uac" target="_blank"><img alt="UAC (Unix-like Artifacts Collector)" src="https://img.shields.io/github/stars/tclahr/uac?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="afc163" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-ant-design.png" /></td>
-        <td>Infrastructure</td>
-        <td>TypeScript</td>
-        <td><a href="https://ant.design" target="_blank">afc163</a></td>
-        <td>An enterprise-class UI design language and React UI library</td>
-        <th><a href="https://github.com/ant-design/ant-design" target="_blank"><img alt="afc163" src="https://img.shields.io/github/stars/ant-design/ant-design?style=social" /></a></th>
     </tr>
 
 </table>
@@ -2060,6 +2060,14 @@
         <td><a href="https://github.com/ritikbanger/react18-input-otp" target="_blank">React18-input-otp</a></td>
         <td>A fully customizable, one-time password (OTP) and phone number with separator input component for the web built with React.</td>
         <th><a href="https://github.com/ritikbanger/react18-input-otp" target="_blank"><img alt="React18-input-otp" src="https://img.shields.io/github/stars/ritikbanger/react18-input-otp?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Laravel Validated DTO" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-laravel-validated-dto.jpg" /></td>
+        <td>Miscellaneous</td>
+        <td>PHP</td>
+        <td><a href="https://wendell-adriel.gitbook.io/laravel-validated-dto/" target="_blank">Laravel Validated DTO</a></td>
+        <td>Data Transfer Objects with validation for Laravel applications</td>
+        <th><a href="https://github.com/WendellAdriel/laravel-validated-dto" target="_blank"><img alt="Laravel Validated DTO" src="https://img.shields.io/github/stars/WendellAdriel/laravel-validated-dto?style=social" /></a></th>
     </tr>
 
 </table>
@@ -7071,6 +7079,14 @@
         <td><a href="https://www.run-as-root.sh" target="_blank">Magento 2 Message Queue Retry</a></td>
         <td>Magento 2 RabbitMQ message queue retry module</td>
         <th><a href="https://github.com/run-as-root/magento2-message-queue-retry" target="_blank"><img alt="Magento 2 Message Queue Retry" src="https://img.shields.io/github/stars/run-as-root/magento2-message-queue-retry?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Laravel Validated DTO" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-laravel-validated-dto.jpg" /></td>
+        <td>Miscellaneous</td>
+        <td>PHP</td>
+        <td><a href="https://wendell-adriel.gitbook.io/laravel-validated-dto/" target="_blank">Laravel Validated DTO</a></td>
+        <td>Data Transfer Objects with validation for Laravel applications</td>
+        <th><a href="https://github.com/WendellAdriel/laravel-validated-dto" target="_blank"><img alt="Laravel Validated DTO" src="https://img.shields.io/github/stars/WendellAdriel/laravel-validated-dto?style=social" /></a></th>
     </tr>
 
 </table>
