@@ -152,6 +152,22 @@
         <th>Stargazers</th>
     </tr>
         <tr>
+        <td nowrap="nowrap"><img width="33" alt="Betterscan CE" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-betterscan-ce.png" /></td>
+        <td>Security</td>
+        <td>Python</td>
+        <td><a href="https://www.betterscan.io" target="_blank">Betterscan CE</a></td>
+        <td>Code Scanning/SAST/Static Analysis/Linting using many tools/Scanners + OpenAI GPT with One Report (Code, IaC) - Betterscan Community Edition (CE)</td>
+        <th><a href="https://github.com/marcinguy/betterscan-ce" target="_blank"><img alt="Betterscan CE" src="https://img.shields.io/github/stars/marcinguy/betterscan-ce?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="React18-input-otp" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-react18-input-otp.jpg" /></td>
+        <td>Miscellaneous</td>
+        <td>JavaScript</td>
+        <td><a href="https://github.com/ritikbanger/react18-input-otp" target="_blank">React18-input-otp</a></td>
+        <td>A fully customizable, one-time password (OTP) and phone number with separator input component for the web built with React.</td>
+        <th><a href="https://github.com/ritikbanger/react18-input-otp" target="_blank"><img alt="React18-input-otp" src="https://img.shields.io/github/stars/ritikbanger/react18-input-otp?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="Meerkat" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-Meerkat.png" /></td>
         <td>Security</td>
         <td>PowerShell</td>
@@ -294,22 +310,6 @@
         <td><a href="https://ant.design" target="_blank">afc163</a></td>
         <td>An enterprise-class UI design language and React UI library</td>
         <th><a href="https://github.com/ant-design/ant-design" target="_blank"><img alt="afc163" src="https://img.shields.io/github/stars/ant-design/ant-design?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Are We Rust Yet?" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-AreWeRustYet.jpg" /></td>
-        <td>Miscellaneous</td>
-        <td>undefined</td>
-        <td><a href="https://github.com/UgurcanAkkok/AreWeRustYet" target="_blank">Are We Rust Yet?</a></td>
-        <td>Awesome list of "Are We *thing* Yet" for Rust</td>
-        <th><a href="https://github.com/UgurcanAkkok/AreWeRustYet" target="_blank"><img alt="Are We Rust Yet?" src="https://img.shields.io/github/stars/UgurcanAkkok/AreWeRustYet?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="slate-yjs" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-slate-yjs.jpg" /></td>
-        <td>Collaboration</td>
-        <td>TypeScript</td>
-        <td><a href="https://docs.slate-yjs.dev" target="_blank">slate-yjs</a></td>
-        <td>Yjs binding for Slate</td>
-        <th><a href="https://github.com/BitPhinix/slate-yjs" target="_blank"><img alt="slate-yjs" src="https://img.shields.io/github/stars/BitPhinix/slate-yjs?style=social" /></a></th>
     </tr>
 
 </table>
@@ -2052,6 +2052,14 @@
         <td><a href="https://github.com/SwiftLand/AdsRepo" target="_blank">AdsRepo</a></td>
         <td>AdsRepo is a Swift base library for managing and loading different ad units simultaneously and controlling all of them under repository options and functions. the repository will load ads and keep …</td>
         <th><a href="https://github.com/SwiftLand/AdsRepo" target="_blank"><img alt="AdsRepo" src="https://img.shields.io/github/stars/SwiftLand/AdsRepo?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="React18-input-otp" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-react18-input-otp.jpg" /></td>
+        <td>Miscellaneous</td>
+        <td>JavaScript</td>
+        <td><a href="https://github.com/ritikbanger/react18-input-otp" target="_blank">React18-input-otp</a></td>
+        <td>A fully customizable, one-time password (OTP) and phone number with separator input component for the web built with React.</td>
+        <th><a href="https://github.com/ritikbanger/react18-input-otp" target="_blank"><img alt="React18-input-otp" src="https://img.shields.io/github/stars/ritikbanger/react18-input-otp?style=social" /></a></th>
     </tr>
 
 </table>
@@ -4380,6 +4388,14 @@
         <td><a href="https://sr.ht/~cedric/stegano" target="_blank">Stegano</a></td>
         <td>A pure Python steganography module.</td>
         <th><a href="https://github.com/cedricbonhomme/Stegano" target="_blank"><img alt="Stegano" src="https://img.shields.io/github/stars/cedricbonhomme/Stegano?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Betterscan CE" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-betterscan-ce.png" /></td>
+        <td>Security</td>
+        <td>Python</td>
+        <td><a href="https://www.betterscan.io" target="_blank">Betterscan CE</a></td>
+        <td>Code Scanning/SAST/Static Analysis/Linting using many tools/Scanners + OpenAI GPT with One Report (Code, IaC) - Betterscan Community Edition (CE)</td>
+        <th><a href="https://github.com/marcinguy/betterscan-ce" target="_blank"><img alt="Betterscan CE" src="https://img.shields.io/github/stars/marcinguy/betterscan-ce?style=social" /></a></th>
     </tr>
 
 </table>
@@ -8348,6 +8364,14 @@
         <td>Program for determining types of files for Windows, Linux and MacOS.</td>
         <th><a href="https://github.com/horsicq/Detect-It-Easy" target="_blank"><img alt="Detect it Easy" src="https://img.shields.io/github/stars/horsicq/Detect-It-Easy?style=social" /></a></th>
     </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="React18-input-otp" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-react18-input-otp.jpg" /></td>
+        <td>Miscellaneous</td>
+        <td>JavaScript</td>
+        <td><a href="https://github.com/ritikbanger/react18-input-otp" target="_blank">React18-input-otp</a></td>
+        <td>A fully customizable, one-time password (OTP) and phone number with separator input component for the web built with React.</td>
+        <th><a href="https://github.com/ritikbanger/react18-input-otp" target="_blank"><img alt="React18-input-otp" src="https://img.shields.io/github/stars/ritikbanger/react18-input-otp?style=social" /></a></th>
+    </tr>
 
 </table>
 
@@ -9535,6 +9559,14 @@
         <td><a href="https://github.com/koulanurag/ma-gym/wiki" target="_blank">ma-gym</a></td>
         <td>A collection of multi agent environments based on OpenAI gym.</td>
         <th><a href="https://github.com/koulanurag/ma-gym" target="_blank"><img alt="ma-gym" src="https://img.shields.io/github/stars/koulanurag/ma-gym?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Betterscan CE" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-betterscan-ce.png" /></td>
+        <td>Security</td>
+        <td>Python</td>
+        <td><a href="https://www.betterscan.io" target="_blank">Betterscan CE</a></td>
+        <td>Code Scanning/SAST/Static Analysis/Linting using many tools/Scanners + OpenAI GPT with One Report (Code, IaC) - Betterscan Community Edition (CE)</td>
+        <th><a href="https://github.com/marcinguy/betterscan-ce" target="_blank"><img alt="Betterscan CE" src="https://img.shields.io/github/stars/marcinguy/betterscan-ce?style=social" /></a></th>
     </tr>
 
 </table>
