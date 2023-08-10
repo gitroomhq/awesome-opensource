@@ -176,6 +176,14 @@
         <th><a href="https://github.com/WendellAdriel/laravel-validated-dto" target="_blank"><img alt="Laravel Validated DTO" src="https://img.shields.io/github/stars/WendellAdriel/laravel-validated-dto?style=social" /></a></th>
     </tr>
     <tr>
+        <td nowrap="nowrap"><img width="33" alt="Svelte Sound" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-svelte-sound.png" /></td>
+        <td>Miscellaneous</td>
+        <td>TypeScript</td>
+        <td><a href="https://github.com/Rajaniraiyn/svelte-sound" target="_blank">Svelte Sound</a></td>
+        <td>sound interactions made easy</td>
+        <th><a href="https://github.com/Rajaniraiyn/svelte-sound" target="_blank"><img alt="Svelte Sound" src="https://img.shields.io/github/stars/Rajaniraiyn/svelte-sound?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="Meerkat" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-Meerkat.png" /></td>
         <td>Security</td>
         <td>PowerShell</td>
@@ -302,14 +310,6 @@
         <td><a href="https://www.agencykit.so/notion-cms/guide/" target="_blank">NotionCMS</a></td>
         <td>Add super powers to Notion by making it your full-fledged headless CMS.</td>
         <th><a href="https://github.com/agency-kit/notion-cms" target="_blank"><img alt="NotionCMS" src="https://img.shields.io/github/stars/agency-kit/notion-cms?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="UAC (Unix-like Artifacts Collector)" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-uac.png" /></td>
-        <td>Security</td>
-        <td>Shell</td>
-        <td><a href="https://tclahr.github.io/uac-docs" target="_blank">UAC (Unix-like Artifacts Collector)</a></td>
-        <td>UAC is a Live Response collection script for Incident Response that makes use of native binaries and tools to automate the collection of AIX, Android, ESXi, FreeBSD, Linux, macOS, NetBSD, NetScaler…</td>
-        <th><a href="https://github.com/tclahr/uac" target="_blank"><img alt="UAC (Unix-like Artifacts Collector)" src="https://img.shields.io/github/stars/tclahr/uac?style=social" /></a></th>
     </tr>
 
 </table>
@@ -2068,6 +2068,14 @@
         <td><a href="https://wendell-adriel.gitbook.io/laravel-validated-dto/" target="_blank">Laravel Validated DTO</a></td>
         <td>Data Transfer Objects with validation for Laravel applications</td>
         <th><a href="https://github.com/WendellAdriel/laravel-validated-dto" target="_blank"><img alt="Laravel Validated DTO" src="https://img.shields.io/github/stars/WendellAdriel/laravel-validated-dto?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Svelte Sound" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-svelte-sound.png" /></td>
+        <td>Miscellaneous</td>
+        <td>TypeScript</td>
+        <td><a href="https://github.com/Rajaniraiyn/svelte-sound" target="_blank">Svelte Sound</a></td>
+        <td>sound interactions made easy</td>
+        <th><a href="https://github.com/Rajaniraiyn/svelte-sound" target="_blank"><img alt="Svelte Sound" src="https://img.shields.io/github/stars/Rajaniraiyn/svelte-sound?style=social" /></a></th>
     </tr>
 
 </table>
@@ -6875,6 +6883,14 @@
         <td><a href="https://progressively.app" target="_blank">Progressively</a></td>
         <td>Very simple feature flagging solution</td>
         <th><a href="https://github.com/progressively-crew/progressively" target="_blank"><img alt="Progressively" src="https://img.shields.io/github/stars/progressively-crew/progressively?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Svelte Sound" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-svelte-sound.png" /></td>
+        <td>Miscellaneous</td>
+        <td>TypeScript</td>
+        <td><a href="https://github.com/Rajaniraiyn/svelte-sound" target="_blank">Svelte Sound</a></td>
+        <td>sound interactions made easy</td>
+        <th><a href="https://github.com/Rajaniraiyn/svelte-sound" target="_blank"><img alt="Svelte Sound" src="https://img.shields.io/github/stars/Rajaniraiyn/svelte-sound?style=social" /></a></th>
     </tr>
 
 </table>
