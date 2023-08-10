@@ -192,6 +192,14 @@
         <th><a href="https://github.com/SwiftLand/AdsRepo" target="_blank"><img alt="AdsRepo" src="https://img.shields.io/github/stars/SwiftLand/AdsRepo?style=social" /></a></th>
     </tr>
     <tr>
+        <td nowrap="nowrap"><img width="33" alt="Uno Platform" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-uno.png" /></td>
+        <td>Productivity</td>
+        <td>C#</td>
+        <td><a href="https://platform.uno/" target="_blank">Uno Platform</a></td>
+        <td>Build Mobile, Desktop and WebAssembly apps with C# and XAML. Today. Open source and professionally supported.</td>
+        <th><a href="https://github.com/unoplatform/uno" target="_blank"><img alt="Uno Platform" src="https://img.shields.io/github/stars/unoplatform/uno?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="AutoFilterer" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-AutoFilterer.png" /></td>
         <td>Infrastructure</td>
         <td>C#</td>
@@ -302,14 +310,6 @@
         <td><a href="https://docs.slate-yjs.dev" target="_blank">slate-yjs</a></td>
         <td>Yjs binding for Slate</td>
         <th><a href="https://github.com/BitPhinix/slate-yjs" target="_blank"><img alt="slate-yjs" src="https://img.shields.io/github/stars/BitPhinix/slate-yjs?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="MyTimer" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-mytimer.png" /></td>
-        <td>Miscellaneous</td>
-        <td>Python</td>
-        <td><a href="https://github.com/sepandhaghighi/mytimer" target="_blank">MyTimer</a></td>
-        <td>A Geeky Timer for Terminal Enthusiasts</td>
-        <th><a href="https://github.com/sepandhaghighi/mytimer" target="_blank"><img alt="MyTimer" src="https://img.shields.io/github/stars/sepandhaghighi/mytimer?style=social" /></a></th>
     </tr>
 
 </table>
@@ -3760,6 +3760,14 @@
         <td><a href="https://github.com/SwiftLand/VimeoPlayer" target="_blank">Vimeo Player</a></td>
         <td>VimeoPlayer is a simple project for showing Vimeo videos that was developed with both UIKit and SwiftUI.</td>
         <th><a href="https://github.com/SwiftLand/VimeoPlayer" target="_blank"><img alt="Vimeo Player" src="https://img.shields.io/github/stars/SwiftLand/VimeoPlayer?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Uno Platform" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-uno.png" /></td>
+        <td>Productivity</td>
+        <td>C#</td>
+        <td><a href="https://platform.uno/" target="_blank">Uno Platform</a></td>
+        <td>Build Mobile, Desktop and WebAssembly apps with C# and XAML. Today. Open source and professionally supported.</td>
+        <th><a href="https://github.com/unoplatform/uno" target="_blank"><img alt="Uno Platform" src="https://img.shields.io/github/stars/unoplatform/uno?style=social" /></a></th>
     </tr>
 
 </table>
@@ -8883,6 +8891,14 @@
         <td><a href="https://github.com/enisn/UraniumUI" target="_blank">UraniumUI</a></td>
         <td>Uranium is a Free &amp; Open-Source UI Kit for MAUI.</td>
         <th><a href="https://github.com/enisn/UraniumUI" target="_blank"><img alt="UraniumUI" src="https://img.shields.io/github/stars/enisn/UraniumUI?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Uno Platform" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-uno.png" /></td>
+        <td>Productivity</td>
+        <td>C#</td>
+        <td><a href="https://platform.uno/" target="_blank">Uno Platform</a></td>
+        <td>Build Mobile, Desktop and WebAssembly apps with C# and XAML. Today. Open source and professionally supported.</td>
+        <th><a href="https://github.com/unoplatform/uno" target="_blank"><img alt="Uno Platform" src="https://img.shields.io/github/stars/unoplatform/uno?style=social" /></a></th>
     </tr>
 
 </table>
