@@ -168,6 +168,14 @@
         <th><a href="https://github.com/DNedic/lockfree" target="_blank"><img alt="lockfree" src="https://img.shields.io/github/stars/DNedic/lockfree?style=social" /></a></th>
     </tr>
     <tr>
+        <td nowrap="nowrap"><img width="33" alt="What Script Run" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-what-script-run.jpg" /></td>
+        <td>Productivity</td>
+        <td>JavaScript</td>
+        <td><a href="https://github.com/ronaldohoch/what-script-run" target="_blank">What Script Run</a></td>
+        <td>Small helper to choose which npm script run.</td>
+        <th><a href="https://github.com/ronaldohoch/what-script-run" target="_blank"><img alt="What Script Run" src="https://img.shields.io/github/stars/ronaldohoch/what-script-run?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="Betterscan CE" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-betterscan-ce.png" /></td>
         <td>Security</td>
         <td>Python</td>
@@ -302,14 +310,6 @@
         <td><a href="https://github.com/Atten4Vis/CAE" target="_blank">CAE</a></td>
         <td>This is a PyTorch implementation of “Context AutoEncoder for Self-Supervised Representation Learning"</td>
         <th><a href="https://github.com/Atten4Vis/CAE" target="_blank"><img alt="CAE" src="https://img.shields.io/github/stars/Atten4Vis/CAE?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Progressively" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-progressively.png" /></td>
-        <td>Productivity</td>
-        <td>TypeScript</td>
-        <td><a href="https://progressively.app" target="_blank">Progressively</a></td>
-        <td>Very simple feature flagging solution</td>
-        <th><a href="https://github.com/progressively-crew/progressively" target="_blank"><img alt="Progressively" src="https://img.shields.io/github/stars/progressively-crew/progressively?style=social" /></a></th>
     </tr>
 
 </table>
@@ -3808,6 +3808,14 @@
         <td><a href="https://platform.uno/" target="_blank">Uno Platform</a></td>
         <td>Build Mobile, Desktop and WebAssembly apps with C# and XAML. Today. Open source and professionally supported.</td>
         <th><a href="https://github.com/unoplatform/uno" target="_blank"><img alt="Uno Platform" src="https://img.shields.io/github/stars/unoplatform/uno?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="What Script Run" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-what-script-run.jpg" /></td>
+        <td>Productivity</td>
+        <td>JavaScript</td>
+        <td><a href="https://github.com/ronaldohoch/what-script-run" target="_blank">What Script Run</a></td>
+        <td>Small helper to choose which npm script run.</td>
+        <th><a href="https://github.com/ronaldohoch/what-script-run" target="_blank"><img alt="What Script Run" src="https://img.shields.io/github/stars/ronaldohoch/what-script-run?style=social" /></a></th>
     </tr>
 
 </table>
@@ -8419,6 +8427,14 @@
         <td><a href="https://github.com/ritikbanger/react18-input-otp" target="_blank">React18-input-otp</a></td>
         <td>A fully customizable, one-time password (OTP) and phone number with separator input component for the web built with React.</td>
         <th><a href="https://github.com/ritikbanger/react18-input-otp" target="_blank"><img alt="React18-input-otp" src="https://img.shields.io/github/stars/ritikbanger/react18-input-otp?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="What Script Run" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-what-script-run.jpg" /></td>
+        <td>Productivity</td>
+        <td>JavaScript</td>
+        <td><a href="https://github.com/ronaldohoch/what-script-run" target="_blank">What Script Run</a></td>
+        <td>Small helper to choose which npm script run.</td>
+        <th><a href="https://github.com/ronaldohoch/what-script-run" target="_blank"><img alt="What Script Run" src="https://img.shields.io/github/stars/ronaldohoch/what-script-run?style=social" /></a></th>
     </tr>
 
 </table>
