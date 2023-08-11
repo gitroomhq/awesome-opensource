@@ -160,6 +160,14 @@
         <th><a href="https://github.com/GoodCoder666/GoogleTranslate_IPFinder" target="_blank"><img alt="GoogleTranslate_IPFinder" src="https://img.shields.io/github/stars/GoodCoder666/GoogleTranslate_IPFinder?style=social" /></a></th>
     </tr>
     <tr>
+        <td nowrap="nowrap"><img width="33" alt="lockfree" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-lockfree.jpg" /></td>
+        <td>Miscellaneous</td>
+        <td>C++</td>
+        <td><a href="https://github.com/DNedic/lockfree" target="_blank">lockfree</a></td>
+        <td>A collection of lock-free data structures written in standard C++11</td>
+        <th><a href="https://github.com/DNedic/lockfree" target="_blank"><img alt="lockfree" src="https://img.shields.io/github/stars/DNedic/lockfree?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="Betterscan CE" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-betterscan-ce.png" /></td>
         <td>Security</td>
         <td>Python</td>
@@ -302,14 +310,6 @@
         <td><a href="https://progressively.app" target="_blank">Progressively</a></td>
         <td>Very simple feature flagging solution</td>
         <th><a href="https://github.com/progressively-crew/progressively" target="_blank"><img alt="Progressively" src="https://img.shields.io/github/stars/progressively-crew/progressively?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Moar" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-moar.jpg" /></td>
-        <td>Miscellaneous</td>
-        <td>Go</td>
-        <td><a href="https://github.com/walles/moar" target="_blank">Moar</a></td>
-        <td>Moar is a pager. It's designed to just do the right thing without any configuration.</td>
-        <th><a href="https://github.com/walles/moar" target="_blank"><img alt="Moar" src="https://img.shields.io/github/stars/walles/moar?style=social" /></a></th>
     </tr>
 
 </table>
@@ -1332,6 +1332,14 @@
         <td><a href="https://rewind-ui.dev" target="_blank">Rewind-UI</a></td>
         <td>A React component library for building modern web applications using Tailwind CSS.</td>
         <th><a href="https://github.com/rewindui/rewindui" target="_blank"><img alt="Rewind-UI" src="https://img.shields.io/github/stars/rewindui/rewindui?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="lockfree" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-lockfree.jpg" /></td>
+        <td>Miscellaneous</td>
+        <td>C++</td>
+        <td><a href="https://github.com/DNedic/lockfree" target="_blank">lockfree</a></td>
+        <td>A collection of lock-free data structures written in standard C++11</td>
+        <th><a href="https://github.com/DNedic/lockfree" target="_blank"><img alt="lockfree" src="https://img.shields.io/github/stars/DNedic/lockfree?style=social" /></a></th>
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="Cemu Emulator" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-Cemu.png" /></td>
@@ -9813,6 +9821,14 @@
         <td><a href="https://www.aregtech.com" target="_blank">areg engine</a></td>
         <td>AREG is an RPC framework, but Object RPC (ORPC), that asynchronously triggers methods of the remote objects called services.</td>
         <th><a href="https://github.com/aregtech/areg-sdk" target="_blank"><img alt="areg engine" src="https://img.shields.io/github/stars/aregtech/areg-sdk?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="lockfree" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-lockfree.jpg" /></td>
+        <td>Miscellaneous</td>
+        <td>C++</td>
+        <td><a href="https://github.com/DNedic/lockfree" target="_blank">lockfree</a></td>
+        <td>A collection of lock-free data structures written in standard C++11</td>
+        <th><a href="https://github.com/DNedic/lockfree" target="_blank"><img alt="lockfree" src="https://img.shields.io/github/stars/DNedic/lockfree?style=social" /></a></th>
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="OneFlow" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-oneflow.png" /></td>
