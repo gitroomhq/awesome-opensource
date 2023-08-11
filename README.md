@@ -152,6 +152,14 @@
         <th>Stargazers</th>
     </tr>
         <tr>
+        <td nowrap="nowrap"><img width="33" alt="GoogleTranslate_IPFinder" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-GoogleTranslate_IPFinder.png" /></td>
+        <td>Productivity</td>
+        <td>Python</td>
+        <td><a href="https://github.com/GoodCoder666/GoogleTranslate_IPFinder" target="_blank">GoogleTranslate_IPFinder</a></td>
+        <td>谷歌翻译服务器在中国大陆的IP地址扫描、测速工具，支持GUI图形界面。</td>
+        <th><a href="https://github.com/GoodCoder666/GoogleTranslate_IPFinder" target="_blank"><img alt="GoogleTranslate_IPFinder" src="https://img.shields.io/github/stars/GoodCoder666/GoogleTranslate_IPFinder?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="Betterscan CE" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-betterscan-ce.png" /></td>
         <td>Security</td>
         <td>Python</td>
@@ -302,14 +310,6 @@
         <td><a href="https://github.com/walles/moar" target="_blank">Moar</a></td>
         <td>Moar is a pager. It's designed to just do the right thing without any configuration.</td>
         <th><a href="https://github.com/walles/moar" target="_blank"><img alt="Moar" src="https://img.shields.io/github/stars/walles/moar?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="NotionCMS" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-notion-cms.png" /></td>
-        <td>Productivity</td>
-        <td>TypeScript</td>
-        <td><a href="https://www.agencykit.so/notion-cms/guide/" target="_blank">NotionCMS</a></td>
-        <td>Add super powers to Notion by making it your full-fledged headless CMS.</td>
-        <th><a href="https://github.com/agency-kit/notion-cms" target="_blank"><img alt="NotionCMS" src="https://img.shields.io/github/stars/agency-kit/notion-cms?style=social" /></a></th>
     </tr>
 
 </table>
@@ -2624,6 +2624,14 @@
         <td><a href="https://payrollengine.org/" target="_blank">Payroll Engine</a></td>
         <td>The payroll automation framework.</td>
         <th><a href="https://github.com/Payroll-Engine/PayrollEngine" target="_blank"><img alt="Payroll Engine" src="https://img.shields.io/github/stars/Payroll-Engine/PayrollEngine?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="GoogleTranslate_IPFinder" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-GoogleTranslate_IPFinder.png" /></td>
+        <td>Productivity</td>
+        <td>Python</td>
+        <td><a href="https://github.com/GoodCoder666/GoogleTranslate_IPFinder" target="_blank">GoogleTranslate_IPFinder</a></td>
+        <td>谷歌翻译服务器在中国大陆的IP地址扫描、测速工具，支持GUI图形界面。</td>
+        <th><a href="https://github.com/GoodCoder666/GoogleTranslate_IPFinder" target="_blank"><img alt="GoogleTranslate_IPFinder" src="https://img.shields.io/github/stars/GoodCoder666/GoogleTranslate_IPFinder?style=social" /></a></th>
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="VS Code Docs" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-vscode-docs.png" /></td>
@@ -9095,6 +9103,14 @@
         <td><a href="https://runprism.com" target="_blank">Prism</a></td>
         <td>Prism is the easiest way to develop, orchestrate, and execute data pipelines in Python.</td>
         <th><a href="https://github.com/runprism/prism" target="_blank"><img alt="Prism" src="https://img.shields.io/github/stars/runprism/prism?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="GoogleTranslate_IPFinder" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-GoogleTranslate_IPFinder.png" /></td>
+        <td>Productivity</td>
+        <td>Python</td>
+        <td><a href="https://github.com/GoodCoder666/GoogleTranslate_IPFinder" target="_blank">GoogleTranslate_IPFinder</a></td>
+        <td>谷歌翻译服务器在中国大陆的IP地址扫描、测速工具，支持GUI图形界面。</td>
+        <th><a href="https://github.com/GoodCoder666/GoogleTranslate_IPFinder" target="_blank"><img alt="GoogleTranslate_IPFinder" src="https://img.shields.io/github/stars/GoodCoder666/GoogleTranslate_IPFinder?style=social" /></a></th>
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="ClusterFuzz" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-clusterfuzz.png" /></td>
