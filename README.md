@@ -168,6 +168,30 @@
         <th><a href="https://github.com/pavandeore/search-ray" target="_blank"><img alt="Search Ray" src="https://img.shields.io/github/stars/pavandeore/search-ray?style=social" /></a></th>
     </tr>
     <tr>
+        <td nowrap="nowrap"><img width="33" alt="AIAS" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-AIAS.jpg" /></td>
+        <td>Infrastructure</td>
+        <td>Java</td>
+        <td><a href="https://github.com/mymagicpower/AIAS" target="_blank">AIAS</a></td>
+        <td>AIAS (AI Acceleration Suite) - 人工智能加速器套件。提供: 包括SDK，平台引擎，场景套件在内，合计超过100个项目组成的项目集。</td>
+        <th><a href="https://github.com/mymagicpower/AIAS" target="_blank"><img alt="AIAS" src="https://img.shields.io/github/stars/mymagicpower/AIAS?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="AIAS" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-AIAS-1.jpg" /></td>
+        <td>Infrastructure</td>
+        <td>Java</td>
+        <td><a href="https://github.com/mymagicpower/AIAS" target="_blank">AIAS</a></td>
+        <td>AIAS (AI Acceleration Suite) - 人工智能加速器套件。提供: 包括SDK，平台引擎，场景套件在内，合计超过100个项目组成的项目集。</td>
+        <th><a href="https://github.com/mymagicpower/AIAS" target="_blank"><img alt="AIAS" src="https://img.shields.io/github/stars/mymagicpower/AIAS?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="AIAS" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-AIAS-2.jpg" /></td>
+        <td>Infrastructure</td>
+        <td>Java</td>
+        <td><a href="https://github.com/mymagicpower/AIAS" target="_blank">AIAS</a></td>
+        <td>AIAS (AI Acceleration Suite) - 人工智能加速器套件。提供: 包括SDK，平台引擎，场景套件在内，合计超过100个项目组成的项目集。</td>
+        <th><a href="https://github.com/mymagicpower/AIAS" target="_blank"><img alt="AIAS" src="https://img.shields.io/github/stars/mymagicpower/AIAS?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="GoogleTranslate_IPFinder" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-GoogleTranslate_IPFinder.png" /></td>
         <td>Productivity</td>
         <td>Python</td>
@@ -286,30 +310,6 @@
         <td><a href="https://payrollengine.org/" target="_blank">Payroll Engine</a></td>
         <td>The payroll automation framework.</td>
         <th><a href="https://github.com/Payroll-Engine/PayrollEngine" target="_blank"><img alt="Payroll Engine" src="https://img.shields.io/github/stars/Payroll-Engine/PayrollEngine?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="InputKit" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-Xamarin.Forms_.InputKit.png" /></td>
-        <td>Infrastructure</td>
-        <td>C#</td>
-        <td><a href="https://github.com/enisn/Xamarin.Forms.InputKit" target="_blank">InputKit</a></td>
-        <td>CheckBox, Radio Button, Labeled Slider, Dropdowns etc. </td>
-        <th><a href="https://github.com/enisn/Xamarin.Forms.InputKit" target="_blank"><img alt="InputKit" src="https://img.shields.io/github/stars/enisn/Xamarin.Forms.InputKit?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="UraniumUI" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-UraniumUI.png" /></td>
-        <td>Infrastructure</td>
-        <td>C#</td>
-        <td><a href="https://github.com/enisn/UraniumUI" target="_blank">UraniumUI</a></td>
-        <td>Uranium is a Free &amp; Open-Source UI Kit for MAUI.</td>
-        <th><a href="https://github.com/enisn/UraniumUI" target="_blank"><img alt="UraniumUI" src="https://img.shields.io/github/stars/enisn/UraniumUI?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="TorchSemiSeg" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-TorchSemiSeg.jpg" /></td>
-        <td>Productivity</td>
-        <td>Python</td>
-        <td><a href="https://github.com/charlesCXK/TorchSemiSeg" target="_blank">TorchSemiSeg</a></td>
-        <td>[CVPR 2021] Semi-Supervised Semantic Segmentation with Cross Pseudo Supervision</td>
-        <th><a href="https://github.com/charlesCXK/TorchSemiSeg" target="_blank"><img alt="TorchSemiSeg" src="https://img.shields.io/github/stars/charlesCXK/TorchSemiSeg?style=social" /></a></th>
     </tr>
 
 </table>
@@ -5965,6 +5965,30 @@
         <td>Uranium is a Free &amp; Open-Source UI Kit for MAUI.</td>
         <th><a href="https://github.com/enisn/UraniumUI" target="_blank"><img alt="UraniumUI" src="https://img.shields.io/github/stars/enisn/UraniumUI?style=social" /></a></th>
     </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="AIAS" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-AIAS.jpg" /></td>
+        <td>Infrastructure</td>
+        <td>Java</td>
+        <td><a href="https://github.com/mymagicpower/AIAS" target="_blank">AIAS</a></td>
+        <td>AIAS (AI Acceleration Suite) - 人工智能加速器套件。提供: 包括SDK，平台引擎，场景套件在内，合计超过100个项目组成的项目集。</td>
+        <th><a href="https://github.com/mymagicpower/AIAS" target="_blank"><img alt="AIAS" src="https://img.shields.io/github/stars/mymagicpower/AIAS?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="AIAS" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-AIAS-1.jpg" /></td>
+        <td>Infrastructure</td>
+        <td>Java</td>
+        <td><a href="https://github.com/mymagicpower/AIAS" target="_blank">AIAS</a></td>
+        <td>AIAS (AI Acceleration Suite) - 人工智能加速器套件。提供: 包括SDK，平台引擎，场景套件在内，合计超过100个项目组成的项目集。</td>
+        <th><a href="https://github.com/mymagicpower/AIAS" target="_blank"><img alt="AIAS" src="https://img.shields.io/github/stars/mymagicpower/AIAS?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="AIAS" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-AIAS-2.jpg" /></td>
+        <td>Infrastructure</td>
+        <td>Java</td>
+        <td><a href="https://github.com/mymagicpower/AIAS" target="_blank">AIAS</a></td>
+        <td>AIAS (AI Acceleration Suite) - 人工智能加速器套件。提供: 包括SDK，平台引擎，场景套件在内，合计超过100个项目组成的项目集。</td>
+        <th><a href="https://github.com/mymagicpower/AIAS" target="_blank"><img alt="AIAS" src="https://img.shields.io/github/stars/mymagicpower/AIAS?style=social" /></a></th>
+    </tr>
 
 </table>
 
@@ -8813,6 +8837,30 @@
         <td><a href="https://github.com/Yoh0xFF/java-spring-security-example" target="_blank">Spring Security Example</a></td>
         <td>Spring Security Sample Project</td>
         <th><a href="https://github.com/Yoh0xFF/java-spring-security-example" target="_blank"><img alt="Spring Security Example" src="https://img.shields.io/github/stars/Yoh0xFF/java-spring-security-example?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="AIAS" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-AIAS.jpg" /></td>
+        <td>Infrastructure</td>
+        <td>Java</td>
+        <td><a href="https://github.com/mymagicpower/AIAS" target="_blank">AIAS</a></td>
+        <td>AIAS (AI Acceleration Suite) - 人工智能加速器套件。提供: 包括SDK，平台引擎，场景套件在内，合计超过100个项目组成的项目集。</td>
+        <th><a href="https://github.com/mymagicpower/AIAS" target="_blank"><img alt="AIAS" src="https://img.shields.io/github/stars/mymagicpower/AIAS?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="AIAS" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-AIAS-1.jpg" /></td>
+        <td>Infrastructure</td>
+        <td>Java</td>
+        <td><a href="https://github.com/mymagicpower/AIAS" target="_blank">AIAS</a></td>
+        <td>AIAS (AI Acceleration Suite) - 人工智能加速器套件。提供: 包括SDK，平台引擎，场景套件在内，合计超过100个项目组成的项目集。</td>
+        <th><a href="https://github.com/mymagicpower/AIAS" target="_blank"><img alt="AIAS" src="https://img.shields.io/github/stars/mymagicpower/AIAS?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="AIAS" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-AIAS-2.jpg" /></td>
+        <td>Infrastructure</td>
+        <td>Java</td>
+        <td><a href="https://github.com/mymagicpower/AIAS" target="_blank">AIAS</a></td>
+        <td>AIAS (AI Acceleration Suite) - 人工智能加速器套件。提供: 包括SDK，平台引擎，场景套件在内，合计超过100个项目组成的项目集。</td>
+        <th><a href="https://github.com/mymagicpower/AIAS" target="_blank"><img alt="AIAS" src="https://img.shields.io/github/stars/mymagicpower/AIAS?style=social" /></a></th>
     </tr>
 
 </table>
