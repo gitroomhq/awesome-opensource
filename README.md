@@ -152,6 +152,22 @@
         <th>Stargazers</th>
     </tr>
         <tr>
+        <td nowrap="nowrap"><img width="33" alt="React Hooks Notes" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-react-hooks-notes.jpg" /></td>
+        <td>Productivity</td>
+        <td>JavaScript</td>
+        <td><a href="https://github.com/pavandeore/react-hooks-notes" target="_blank">React Hooks Notes</a></td>
+        <td>react hooks notes</td>
+        <th><a href="https://github.com/pavandeore/react-hooks-notes" target="_blank"><img alt="React Hooks Notes" src="https://img.shields.io/github/stars/pavandeore/react-hooks-notes?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Search Ray" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-search-ray.jpg" /></td>
+        <td>Productivity</td>
+        <td>JavaScript</td>
+        <td><a href="https://github.com/pavandeore/search-ray" target="_blank">Search Ray</a></td>
+        <td>search-ray is javascript library to search for item in array and it will return index of the found element using Linear and Binary search</td>
+        <th><a href="https://github.com/pavandeore/search-ray" target="_blank"><img alt="Search Ray" src="https://img.shields.io/github/stars/pavandeore/search-ray?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="GoogleTranslate_IPFinder" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-GoogleTranslate_IPFinder.png" /></td>
         <td>Productivity</td>
         <td>Python</td>
@@ -294,22 +310,6 @@
         <td><a href="https://github.com/charlesCXK/TorchSemiSeg" target="_blank">TorchSemiSeg</a></td>
         <td>[CVPR 2021] Semi-Supervised Semantic Segmentation with Cross Pseudo Supervision</td>
         <th><a href="https://github.com/charlesCXK/TorchSemiSeg" target="_blank"><img alt="TorchSemiSeg" src="https://img.shields.io/github/stars/charlesCXK/TorchSemiSeg?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="ConditionalDETR" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-ConditionalDETR.png" /></td>
-        <td>Productivity</td>
-        <td>Python</td>
-        <td><a href="https://github.com/Atten4Vis/ConditionalDETR" target="_blank">ConditionalDETR</a></td>
-        <td>This repository is an official implementation of the ICCV 2021 paper "Conditional DETR for Fast Training Convergence". (https://arxiv.org/abs/2108.06152)</td>
-        <th><a href="https://github.com/Atten4Vis/ConditionalDETR" target="_blank"><img alt="ConditionalDETR" src="https://img.shields.io/github/stars/Atten4Vis/ConditionalDETR?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="CAE" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-CAE.png" /></td>
-        <td>Productivity</td>
-        <td>Python</td>
-        <td><a href="https://github.com/Atten4Vis/CAE" target="_blank">CAE</a></td>
-        <td>This is a PyTorch implementation of “Context AutoEncoder for Self-Supervised Representation Learning"</td>
-        <th><a href="https://github.com/Atten4Vis/CAE" target="_blank"><img alt="CAE" src="https://img.shields.io/github/stars/Atten4Vis/CAE?style=social" /></a></th>
     </tr>
 
 </table>
@@ -463,20 +463,20 @@
         <th><a href="https://github.com/Liberty-liu/Everright-formEditor" target="_blank"><img alt="Everright-formEditor" src="https://img.shields.io/github/stars/Liberty-liu/Everright-formEditor?style=social" /></a></th>
     </tr>
     <tr>
-        <td nowrap="nowrap"><img width="33" alt="flutter_tilt" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-flutter_tilt.png" /></td>
-        <td>Productivity</td>
-        <td>Dart</td>
-        <td><a href="https://pub.dev/packages/flutter_tilt" target="_blank">flutter_tilt</a></td>
-        <td><g-emoji class="g-emoji" alias="eyes" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f440.png">?</g-emoji> Easily apply tilt parallax hover effects on Flutter! | 在 Flutter 上轻松创建倾斜视差悬停效果！</td>
-        <th><a href="https://github.com/AmosHuKe/flutter_tilt" target="_blank"><img alt="flutter_tilt" src="https://img.shields.io/github/stars/AmosHuKe/flutter_tilt?style=social" /></a></th>
-    </tr>
-    <tr>
         <td nowrap="nowrap"><img width="33" alt="NotionCMS" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-notion-cms.png" /></td>
         <td>Productivity</td>
         <td>TypeScript</td>
         <td><a href="https://www.agencykit.so/notion-cms/guide/" target="_blank">NotionCMS</a></td>
         <td>Add super powers to Notion by making it your full-fledged headless CMS.</td>
         <th><a href="https://github.com/agency-kit/notion-cms" target="_blank"><img alt="NotionCMS" src="https://img.shields.io/github/stars/agency-kit/notion-cms?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="flutter_tilt" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-flutter_tilt.png" /></td>
+        <td>Productivity</td>
+        <td>Dart</td>
+        <td><a href="https://pub.dev/packages/flutter_tilt" target="_blank">flutter_tilt</a></td>
+        <td><g-emoji class="g-emoji" alias="eyes" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f440.png">?</g-emoji> Easily apply tilt parallax hover effects on Flutter! | 在 Flutter 上轻松创建倾斜视差悬停效果！</td>
+        <th><a href="https://github.com/AmosHuKe/flutter_tilt" target="_blank"><img alt="flutter_tilt" src="https://img.shields.io/github/stars/AmosHuKe/flutter_tilt?style=social" /></a></th>
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="Bitwarden" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-clients-1.png" /></td>
@@ -2386,20 +2386,20 @@
         <th><a href="https://github.com/Liberty-liu/Everright-formEditor" target="_blank"><img alt="Everright-formEditor" src="https://img.shields.io/github/stars/Liberty-liu/Everright-formEditor?style=social" /></a></th>
     </tr>
     <tr>
-        <td nowrap="nowrap"><img width="33" alt="flutter_tilt" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-flutter_tilt.png" /></td>
-        <td>Productivity</td>
-        <td>Dart</td>
-        <td><a href="https://pub.dev/packages/flutter_tilt" target="_blank">flutter_tilt</a></td>
-        <td><g-emoji class="g-emoji" alias="eyes" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f440.png">?</g-emoji> Easily apply tilt parallax hover effects on Flutter! | 在 Flutter 上轻松创建倾斜视差悬停效果！</td>
-        <th><a href="https://github.com/AmosHuKe/flutter_tilt" target="_blank"><img alt="flutter_tilt" src="https://img.shields.io/github/stars/AmosHuKe/flutter_tilt?style=social" /></a></th>
-    </tr>
-    <tr>
         <td nowrap="nowrap"><img width="33" alt="NotionCMS" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-notion-cms.png" /></td>
         <td>Productivity</td>
         <td>TypeScript</td>
         <td><a href="https://www.agencykit.so/notion-cms/guide/" target="_blank">NotionCMS</a></td>
         <td>Add super powers to Notion by making it your full-fledged headless CMS.</td>
         <th><a href="https://github.com/agency-kit/notion-cms" target="_blank"><img alt="NotionCMS" src="https://img.shields.io/github/stars/agency-kit/notion-cms?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="flutter_tilt" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-flutter_tilt.png" /></td>
+        <td>Productivity</td>
+        <td>Dart</td>
+        <td><a href="https://pub.dev/packages/flutter_tilt" target="_blank">flutter_tilt</a></td>
+        <td><g-emoji class="g-emoji" alias="eyes" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f440.png">?</g-emoji> Easily apply tilt parallax hover effects on Flutter! | 在 Flutter 上轻松创建倾斜视差悬停效果！</td>
+        <th><a href="https://github.com/AmosHuKe/flutter_tilt" target="_blank"><img alt="flutter_tilt" src="https://img.shields.io/github/stars/AmosHuKe/flutter_tilt?style=social" /></a></th>
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="Hackertab.dev" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-hackertab.dev_.jpg" /></td>
@@ -3816,6 +3816,22 @@
         <td><a href="https://github.com/ronaldohoch/what-script-run" target="_blank">What Script Run</a></td>
         <td>Small helper to choose which npm script run.</td>
         <th><a href="https://github.com/ronaldohoch/what-script-run" target="_blank"><img alt="What Script Run" src="https://img.shields.io/github/stars/ronaldohoch/what-script-run?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="React Hooks Notes" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-react-hooks-notes.jpg" /></td>
+        <td>Productivity</td>
+        <td>JavaScript</td>
+        <td><a href="https://github.com/pavandeore/react-hooks-notes" target="_blank">React Hooks Notes</a></td>
+        <td>react hooks notes</td>
+        <th><a href="https://github.com/pavandeore/react-hooks-notes" target="_blank"><img alt="React Hooks Notes" src="https://img.shields.io/github/stars/pavandeore/react-hooks-notes?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Search Ray" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-search-ray.jpg" /></td>
+        <td>Productivity</td>
+        <td>JavaScript</td>
+        <td><a href="https://github.com/pavandeore/search-ray" target="_blank">Search Ray</a></td>
+        <td>search-ray is javascript library to search for item in array and it will return index of the found element using Linear and Binary search</td>
+        <th><a href="https://github.com/pavandeore/search-ray" target="_blank"><img alt="Search Ray" src="https://img.shields.io/github/stars/pavandeore/search-ray?style=social" /></a></th>
     </tr>
 
 </table>
@@ -8435,6 +8451,22 @@
         <td><a href="https://github.com/ronaldohoch/what-script-run" target="_blank">What Script Run</a></td>
         <td>Small helper to choose which npm script run.</td>
         <th><a href="https://github.com/ronaldohoch/what-script-run" target="_blank"><img alt="What Script Run" src="https://img.shields.io/github/stars/ronaldohoch/what-script-run?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="React Hooks Notes" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-react-hooks-notes.jpg" /></td>
+        <td>Productivity</td>
+        <td>JavaScript</td>
+        <td><a href="https://github.com/pavandeore/react-hooks-notes" target="_blank">React Hooks Notes</a></td>
+        <td>react hooks notes</td>
+        <th><a href="https://github.com/pavandeore/react-hooks-notes" target="_blank"><img alt="React Hooks Notes" src="https://img.shields.io/github/stars/pavandeore/react-hooks-notes?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Search Ray" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-search-ray.jpg" /></td>
+        <td>Productivity</td>
+        <td>JavaScript</td>
+        <td><a href="https://github.com/pavandeore/search-ray" target="_blank">Search Ray</a></td>
+        <td>search-ray is javascript library to search for item in array and it will return index of the found element using Linear and Binary search</td>
+        <th><a href="https://github.com/pavandeore/search-ray" target="_blank"><img alt="Search Ray" src="https://img.shields.io/github/stars/pavandeore/search-ray?style=social" /></a></th>
     </tr>
 
 </table>
