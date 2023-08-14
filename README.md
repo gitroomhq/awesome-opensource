@@ -152,6 +152,46 @@
         <th>Stargazers</th>
     </tr>
         <tr>
+        <td nowrap="nowrap"><img width="33" alt="WatchDog" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-WatchDog.jpg" /></td>
+        <td>Observability</td>
+        <td>C#</td>
+        <td><a href="https://github.com/IzyPro/WatchDog" target="_blank">WatchDog</a></td>
+        <td>WatchDog is a Realtime Message, Event, HTTP (Request &amp; Response) and Exception logger and viewer for ASP.Net Core Web Apps and APIs. It allows developers log and view messages, events, http request…</td>
+        <th><a href="https://github.com/IzyPro/WatchDog" target="_blank"><img alt="WatchDog" src="https://img.shields.io/github/stars/IzyPro/WatchDog?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Trigger Dev" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-trigger.dev_.png" /></td>
+        <td>Infrastructure</td>
+        <td>TypeScript</td>
+        <td><a href="https://trigger.dev" target="_blank">Trigger Dev</a></td>
+        <td>✨ Trigger.dev is an open-source platform to create long-running jobs directly in your Next.js project, with features like API integrations, webhooks, scheduling and delays.</td>
+        <th><a href="https://github.com/triggerdotdev/trigger.dev" target="_blank"><img alt="Trigger Dev" src="https://img.shields.io/github/stars/triggerdotdev/trigger.dev?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Trigger Dev" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-trigger.dev_-1.png" /></td>
+        <td>Infrastructure</td>
+        <td>TypeScript</td>
+        <td><a href="https://trigger.dev" target="_blank">Trigger Dev</a></td>
+        <td>✨ Trigger.dev is an open-source platform to create long-running jobs directly in your Next.js project, with features like API integrations, webhooks, scheduling and delays.</td>
+        <th><a href="https://github.com/triggerdotdev/trigger.dev" target="_blank"><img alt="Trigger Dev" src="https://img.shields.io/github/stars/triggerdotdev/trigger.dev?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Trigger Dev" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-trigger.dev_-2.png" /></td>
+        <td>Infrastructure</td>
+        <td>TypeScript</td>
+        <td><a href="https://trigger.dev" target="_blank">Trigger Dev</a></td>
+        <td>✨ Trigger.dev is an open-source platform to create long-running jobs directly in your Next.js project, with features like API integrations, webhooks, scheduling and delays.</td>
+        <th><a href="https://github.com/triggerdotdev/trigger.dev" target="_blank"><img alt="Trigger Dev" src="https://img.shields.io/github/stars/triggerdotdev/trigger.dev?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Zero" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-zero.png" /></td>
+        <td>Productivity</td>
+        <td>Python</td>
+        <td><a href="https://github.com/Ananto30/zero" target="_blank">Zero</a></td>
+        <td>Zero: A simple and fast Python RPC framework</td>
+        <th><a href="https://github.com/Ananto30/zero" target="_blank"><img alt="Zero" src="https://img.shields.io/github/stars/Ananto30/zero?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="React Hooks Notes" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-react-hooks-notes.jpg" /></td>
         <td>Productivity</td>
         <td>JavaScript</td>
@@ -270,46 +310,6 @@
         <td><a href="https://sr.ht/~cedric/stegano" target="_blank">Stegano</a></td>
         <td>A pure Python steganography module.</td>
         <th><a href="https://github.com/cedricbonhomme/Stegano" target="_blank"><img alt="Stegano" src="https://img.shields.io/github/stars/cedricbonhomme/Stegano?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="ma-gym" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-ma-gym.png" /></td>
-        <td>Miscellaneous</td>
-        <td>Python</td>
-        <td><a href="https://github.com/koulanurag/ma-gym/wiki" target="_blank">ma-gym</a></td>
-        <td>A collection of multi agent environments based on OpenAI gym.</td>
-        <th><a href="https://github.com/koulanurag/ma-gym" target="_blank"><img alt="ma-gym" src="https://img.shields.io/github/stars/koulanurag/ma-gym?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Vimeo Player" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-VimeoPlayer.png" /></td>
-        <td>Productivity</td>
-        <td>Swift</td>
-        <td><a href="https://github.com/SwiftLand/VimeoPlayer" target="_blank">Vimeo Player</a></td>
-        <td>VimeoPlayer is a simple project for showing Vimeo videos that was developed with both UIKit and SwiftUI.</td>
-        <th><a href="https://github.com/SwiftLand/VimeoPlayer" target="_blank"><img alt="Vimeo Player" src="https://img.shields.io/github/stars/SwiftLand/VimeoPlayer?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="AdsRepo" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-AdsRepo.png" /></td>
-        <td>Miscellaneous</td>
-        <td>Swift</td>
-        <td><a href="https://github.com/SwiftLand/AdsRepo" target="_blank">AdsRepo</a></td>
-        <td>AdsRepo is a Swift base library for managing and loading different ad units simultaneously and controlling all of them under repository options and functions. the repository will load ads and keep …</td>
-        <th><a href="https://github.com/SwiftLand/AdsRepo" target="_blank"><img alt="AdsRepo" src="https://img.shields.io/github/stars/SwiftLand/AdsRepo?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Uno Platform" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-uno.png" /></td>
-        <td>Productivity</td>
-        <td>C#</td>
-        <td><a href="https://platform.uno/" target="_blank">Uno Platform</a></td>
-        <td>Build Mobile, Desktop and WebAssembly apps with C# and XAML. Today. Open source and professionally supported.</td>
-        <th><a href="https://github.com/unoplatform/uno" target="_blank"><img alt="Uno Platform" src="https://img.shields.io/github/stars/unoplatform/uno?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="AutoFilterer" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-AutoFilterer.png" /></td>
-        <td>Infrastructure</td>
-        <td>C#</td>
-        <td><a href="https://github.com/enisn/AutoFilterer" target="_blank">AutoFilterer</a></td>
-        <td>AutoFilterer is a mini filtering framework library for dotnet. The main purpose of the library is to generate LINQ expressions for Entities over DTOs automatically. The first aim is to be compatibl…</td>
-        <th><a href="https://github.com/enisn/AutoFilterer" target="_blank"><img alt="AutoFilterer" src="https://img.shields.io/github/stars/enisn/AutoFilterer?style=social" /></a></th>
     </tr>
 
 </table>
@@ -2331,6 +2331,14 @@
         <td>Visualization and debugging tool for LangChain workflows</td>
         <th><a href="https://github.com/amosjyng/langchain-visualizer" target="_blank"><img alt="langchain-visualizer" src="https://img.shields.io/github/stars/amosjyng/langchain-visualizer?style=social" /></a></th>
     </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="WatchDog" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-WatchDog.jpg" /></td>
+        <td>Observability</td>
+        <td>C#</td>
+        <td><a href="https://github.com/IzyPro/WatchDog" target="_blank">WatchDog</a></td>
+        <td>WatchDog is a Realtime Message, Event, HTTP (Request &amp; Response) and Exception logger and viewer for ASP.Net Core Web Apps and APIs. It allows developers log and view messages, events, http request…</td>
+        <th><a href="https://github.com/IzyPro/WatchDog" target="_blank"><img alt="WatchDog" src="https://img.shields.io/github/stars/IzyPro/WatchDog?style=social" /></a></th>
+    </tr>
 
 </table>
 
@@ -3840,6 +3848,14 @@
         <td><a href="https://github.com/pavandeore/search-ray" target="_blank">Search Ray</a></td>
         <td>search-ray is javascript library to search for item in array and it will return index of the found element using Linear and Binary search</td>
         <th><a href="https://github.com/pavandeore/search-ray" target="_blank"><img alt="Search Ray" src="https://img.shields.io/github/stars/pavandeore/search-ray?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Zero" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-zero.png" /></td>
+        <td>Productivity</td>
+        <td>Python</td>
+        <td><a href="https://github.com/Ananto30/zero" target="_blank">Zero</a></td>
+        <td>Zero: A simple and fast Python RPC framework</td>
+        <th><a href="https://github.com/Ananto30/zero" target="_blank"><img alt="Zero" src="https://img.shields.io/github/stars/Ananto30/zero?style=social" /></a></th>
     </tr>
 
 </table>
@@ -5997,6 +6013,30 @@
         <td>AIAS (AI Acceleration Suite) - 人工智能加速器套件。提供: 包括SDK，平台引擎，场景套件在内，合计超过100个项目组成的项目集。</td>
         <th><a href="https://github.com/mymagicpower/AIAS" target="_blank"><img alt="AIAS" src="https://img.shields.io/github/stars/mymagicpower/AIAS?style=social" /></a></th>
     </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Trigger Dev" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-trigger.dev_.png" /></td>
+        <td>Infrastructure</td>
+        <td>TypeScript</td>
+        <td><a href="https://trigger.dev" target="_blank">Trigger Dev</a></td>
+        <td>✨ Trigger.dev is an open-source platform to create long-running jobs directly in your Next.js project, with features like API integrations, webhooks, scheduling and delays.</td>
+        <th><a href="https://github.com/triggerdotdev/trigger.dev" target="_blank"><img alt="Trigger Dev" src="https://img.shields.io/github/stars/triggerdotdev/trigger.dev?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Trigger Dev" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-trigger.dev_-1.png" /></td>
+        <td>Infrastructure</td>
+        <td>TypeScript</td>
+        <td><a href="https://trigger.dev" target="_blank">Trigger Dev</a></td>
+        <td>✨ Trigger.dev is an open-source platform to create long-running jobs directly in your Next.js project, with features like API integrations, webhooks, scheduling and delays.</td>
+        <th><a href="https://github.com/triggerdotdev/trigger.dev" target="_blank"><img alt="Trigger Dev" src="https://img.shields.io/github/stars/triggerdotdev/trigger.dev?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Trigger Dev" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-trigger.dev_-2.png" /></td>
+        <td>Infrastructure</td>
+        <td>TypeScript</td>
+        <td><a href="https://trigger.dev" target="_blank">Trigger Dev</a></td>
+        <td>✨ Trigger.dev is an open-source platform to create long-running jobs directly in your Next.js project, with features like API integrations, webhooks, scheduling and delays.</td>
+        <th><a href="https://github.com/triggerdotdev/trigger.dev" target="_blank"><img alt="Trigger Dev" src="https://img.shields.io/github/stars/triggerdotdev/trigger.dev?style=social" /></a></th>
+    </tr>
 
 </table>
 
@@ -6971,6 +7011,30 @@
         <td><a href="https://pushinjs.com/" target="_blank">PushIn</a></td>
         <td>Attach a "dolly" or "push in" effect to a div element when user scrolls.</td>
         <th><a href="https://github.com/nateplusplus/pushin" target="_blank"><img alt="PushIn" src="https://img.shields.io/github/stars/nateplusplus/pushin?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Trigger Dev" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-trigger.dev_.png" /></td>
+        <td>Infrastructure</td>
+        <td>TypeScript</td>
+        <td><a href="https://trigger.dev" target="_blank">Trigger Dev</a></td>
+        <td>✨ Trigger.dev is an open-source platform to create long-running jobs directly in your Next.js project, with features like API integrations, webhooks, scheduling and delays.</td>
+        <th><a href="https://github.com/triggerdotdev/trigger.dev" target="_blank"><img alt="Trigger Dev" src="https://img.shields.io/github/stars/triggerdotdev/trigger.dev?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Trigger Dev" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-trigger.dev_-1.png" /></td>
+        <td>Infrastructure</td>
+        <td>TypeScript</td>
+        <td><a href="https://trigger.dev" target="_blank">Trigger Dev</a></td>
+        <td>✨ Trigger.dev is an open-source platform to create long-running jobs directly in your Next.js project, with features like API integrations, webhooks, scheduling and delays.</td>
+        <th><a href="https://github.com/triggerdotdev/trigger.dev" target="_blank"><img alt="Trigger Dev" src="https://img.shields.io/github/stars/triggerdotdev/trigger.dev?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Trigger Dev" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-trigger.dev_-2.png" /></td>
+        <td>Infrastructure</td>
+        <td>TypeScript</td>
+        <td><a href="https://trigger.dev" target="_blank">Trigger Dev</a></td>
+        <td>✨ Trigger.dev is an open-source platform to create long-running jobs directly in your Next.js project, with features like API integrations, webhooks, scheduling and delays.</td>
+        <th><a href="https://github.com/triggerdotdev/trigger.dev" target="_blank"><img alt="Trigger Dev" src="https://img.shields.io/github/stars/triggerdotdev/trigger.dev?style=social" /></a></th>
     </tr>
 
 </table>
@@ -9084,6 +9148,14 @@
         <td>Build Mobile, Desktop and WebAssembly apps with C# and XAML. Today. Open source and professionally supported.</td>
         <th><a href="https://github.com/unoplatform/uno" target="_blank"><img alt="Uno Platform" src="https://img.shields.io/github/stars/unoplatform/uno?style=social" /></a></th>
     </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="WatchDog" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-WatchDog.jpg" /></td>
+        <td>Observability</td>
+        <td>C#</td>
+        <td><a href="https://github.com/IzyPro/WatchDog" target="_blank">WatchDog</a></td>
+        <td>WatchDog is a Realtime Message, Event, HTTP (Request &amp; Response) and Exception logger and viewer for ASP.Net Core Web Apps and APIs. It allows developers log and view messages, events, http request…</td>
+        <th><a href="https://github.com/IzyPro/WatchDog" target="_blank"><img alt="WatchDog" src="https://img.shields.io/github/stars/IzyPro/WatchDog?style=social" /></a></th>
+    </tr>
 
 </table>
 
@@ -9735,6 +9807,14 @@
         <td><a href="https://www.betterscan.io" target="_blank">Betterscan CE</a></td>
         <td>Code Scanning/SAST/Static Analysis/Linting using many tools/Scanners + OpenAI GPT with One Report (Code, IaC) - Betterscan Community Edition (CE)</td>
         <th><a href="https://github.com/marcinguy/betterscan-ce" target="_blank"><img alt="Betterscan CE" src="https://img.shields.io/github/stars/marcinguy/betterscan-ce?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Zero" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-zero.png" /></td>
+        <td>Productivity</td>
+        <td>Python</td>
+        <td><a href="https://github.com/Ananto30/zero" target="_blank">Zero</a></td>
+        <td>Zero: A simple and fast Python RPC framework</td>
+        <th><a href="https://github.com/Ananto30/zero" target="_blank"><img alt="Zero" src="https://img.shields.io/github/stars/Ananto30/zero?style=social" /></a></th>
     </tr>
 
 </table>
