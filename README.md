@@ -192,6 +192,22 @@
         <th><a href="https://github.com/Ananto30/zero" target="_blank"><img alt="Zero" src="https://img.shields.io/github/stars/Ananto30/zero?style=social" /></a></th>
     </tr>
     <tr>
+        <td nowrap="nowrap"><img width="33" alt="Hyperactive" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-Hyperactive.jpg" /></td>
+        <td>Productivity</td>
+        <td>Python</td>
+        <td><a href="https://simonblanke.github.io/hyperactive-documentation" target="_blank">Hyperactive</a></td>
+        <td>An optimization and data collection toolbox for convenient and fast prototyping of computationally expensive models.</td>
+        <th><a href="https://github.com/SimonBlanke/Hyperactive" target="_blank"><img alt="Hyperactive" src="https://img.shields.io/github/stars/SimonBlanke/Hyperactive?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Gradient-Free-Optimizers" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-Gradient-Free-Optimizers.jpg" /></td>
+        <td>Productivity</td>
+        <td>Python</td>
+        <td><a href="https://simonblanke.github.io/gradient-free-optimizers-documentation" target="_blank">Gradient-Free-Optimizers</a></td>
+        <td>Simple and reliable optimization with local, global, population-based and sequential techniques in numerical discrete search spaces.</td>
+        <th><a href="https://github.com/SimonBlanke/Gradient-Free-Optimizers" target="_blank"><img alt="Gradient-Free-Optimizers" src="https://img.shields.io/github/stars/SimonBlanke/Gradient-Free-Optimizers?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="React Hooks Notes" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-react-hooks-notes.jpg" /></td>
         <td>Productivity</td>
         <td>JavaScript</td>
@@ -294,22 +310,6 @@
         <td><a href="https://github.com/Rajaniraiyn/svelte-sound" target="_blank">Svelte Sound</a></td>
         <td>sound interactions made easy</td>
         <th><a href="https://github.com/Rajaniraiyn/svelte-sound" target="_blank"><img alt="Svelte Sound" src="https://img.shields.io/github/stars/Rajaniraiyn/svelte-sound?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Meerkat" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-Meerkat.png" /></td>
-        <td>Security</td>
-        <td>PowerShell</td>
-        <td><a href="https://github.com/TonyPhipps/Meerkat" target="_blank">Meerkat</a></td>
-        <td>A collection of PowerShell modules designed for artifact gathering and reconnaisance of Windows-based endpoints.</td>
-        <th><a href="https://github.com/TonyPhipps/Meerkat" target="_blank"><img alt="Meerkat" src="https://img.shields.io/github/stars/TonyPhipps/Meerkat?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Stegano" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-Stegano.jpg" /></td>
-        <td>Security</td>
-        <td>Python</td>
-        <td><a href="https://sr.ht/~cedric/stegano" target="_blank">Stegano</a></td>
-        <td>A pure Python steganography module.</td>
-        <th><a href="https://github.com/cedricbonhomme/Stegano" target="_blank"><img alt="Stegano" src="https://img.shields.io/github/stars/cedricbonhomme/Stegano?style=social" /></a></th>
     </tr>
 
 </table>
@@ -3856,6 +3856,22 @@
         <td><a href="https://github.com/Ananto30/zero" target="_blank">Zero</a></td>
         <td>Zero: A simple and fast Python RPC framework</td>
         <th><a href="https://github.com/Ananto30/zero" target="_blank"><img alt="Zero" src="https://img.shields.io/github/stars/Ananto30/zero?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Hyperactive" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-Hyperactive.jpg" /></td>
+        <td>Productivity</td>
+        <td>Python</td>
+        <td><a href="https://simonblanke.github.io/hyperactive-documentation" target="_blank">Hyperactive</a></td>
+        <td>An optimization and data collection toolbox for convenient and fast prototyping of computationally expensive models.</td>
+        <th><a href="https://github.com/SimonBlanke/Hyperactive" target="_blank"><img alt="Hyperactive" src="https://img.shields.io/github/stars/SimonBlanke/Hyperactive?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Gradient-Free-Optimizers" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-Gradient-Free-Optimizers.jpg" /></td>
+        <td>Productivity</td>
+        <td>Python</td>
+        <td><a href="https://simonblanke.github.io/gradient-free-optimizers-documentation" target="_blank">Gradient-Free-Optimizers</a></td>
+        <td>Simple and reliable optimization with local, global, population-based and sequential techniques in numerical discrete search spaces.</td>
+        <th><a href="https://github.com/SimonBlanke/Gradient-Free-Optimizers" target="_blank"><img alt="Gradient-Free-Optimizers" src="https://img.shields.io/github/stars/SimonBlanke/Gradient-Free-Optimizers?style=social" /></a></th>
     </tr>
 
 </table>
@@ -9815,6 +9831,22 @@
         <td><a href="https://github.com/Ananto30/zero" target="_blank">Zero</a></td>
         <td>Zero: A simple and fast Python RPC framework</td>
         <th><a href="https://github.com/Ananto30/zero" target="_blank"><img alt="Zero" src="https://img.shields.io/github/stars/Ananto30/zero?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Hyperactive" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-Hyperactive.jpg" /></td>
+        <td>Productivity</td>
+        <td>Python</td>
+        <td><a href="https://simonblanke.github.io/hyperactive-documentation" target="_blank">Hyperactive</a></td>
+        <td>An optimization and data collection toolbox for convenient and fast prototyping of computationally expensive models.</td>
+        <th><a href="https://github.com/SimonBlanke/Hyperactive" target="_blank"><img alt="Hyperactive" src="https://img.shields.io/github/stars/SimonBlanke/Hyperactive?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Gradient-Free-Optimizers" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-Gradient-Free-Optimizers.jpg" /></td>
+        <td>Productivity</td>
+        <td>Python</td>
+        <td><a href="https://simonblanke.github.io/gradient-free-optimizers-documentation" target="_blank">Gradient-Free-Optimizers</a></td>
+        <td>Simple and reliable optimization with local, global, population-based and sequential techniques in numerical discrete search spaces.</td>
+        <th><a href="https://github.com/SimonBlanke/Gradient-Free-Optimizers" target="_blank"><img alt="Gradient-Free-Optimizers" src="https://img.shields.io/github/stars/SimonBlanke/Gradient-Free-Optimizers?style=social" /></a></th>
     </tr>
 
 </table>
