@@ -208,6 +208,14 @@
         <th><a href="https://github.com/SimonBlanke/Gradient-Free-Optimizers" target="_blank"><img alt="Gradient-Free-Optimizers" src="https://img.shields.io/github/stars/SimonBlanke/Gradient-Free-Optimizers?style=social" /></a></th>
     </tr>
     <tr>
+        <td nowrap="nowrap"><img width="33" alt="SystemTrayMenu" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-SystemTrayMenu.jpg" /></td>
+        <td>Productivity</td>
+        <td>C#</td>
+        <td><a href="http://hofknecht.eu/systemtraymenu/" target="_blank">SystemTrayMenu</a></td>
+        <td>SystemTrayMenu - Browse and open your files easily</td>
+        <th><a href="https://github.com/Hofknecht/SystemTrayMenu" target="_blank"><img alt="SystemTrayMenu" src="https://img.shields.io/github/stars/Hofknecht/SystemTrayMenu?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="React Hooks Notes" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-react-hooks-notes.jpg" /></td>
         <td>Productivity</td>
         <td>JavaScript</td>
@@ -302,14 +310,6 @@
         <td><a href="https://wendell-adriel.gitbook.io/laravel-validated-dto/" target="_blank">Laravel Validated DTO</a></td>
         <td>Data Transfer Objects with validation for Laravel applications</td>
         <th><a href="https://github.com/WendellAdriel/laravel-validated-dto" target="_blank"><img alt="Laravel Validated DTO" src="https://img.shields.io/github/stars/WendellAdriel/laravel-validated-dto?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Svelte Sound" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-svelte-sound.png" /></td>
-        <td>Miscellaneous</td>
-        <td>TypeScript</td>
-        <td><a href="https://github.com/Rajaniraiyn/svelte-sound" target="_blank">Svelte Sound</a></td>
-        <td>sound interactions made easy</td>
-        <th><a href="https://github.com/Rajaniraiyn/svelte-sound" target="_blank"><img alt="Svelte Sound" src="https://img.shields.io/github/stars/Rajaniraiyn/svelte-sound?style=social" /></a></th>
     </tr>
 
 </table>
@@ -2148,6 +2148,14 @@
         <th><a href="https://github.com/utkuozdemir/nvidia_gpu_exporter" target="_blank"><img alt="nvidia_gpu_exporter" src="https://img.shields.io/github/stars/utkuozdemir/nvidia_gpu_exporter?style=social" /></a></th>
     </tr>
     <tr>
+        <td nowrap="nowrap"><img width="33" alt="WatchDog" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-WatchDog.jpg" /></td>
+        <td>Observability</td>
+        <td>C#</td>
+        <td><a href="https://github.com/IzyPro/WatchDog" target="_blank">WatchDog</a></td>
+        <td>WatchDog is a Realtime Message, Event, HTTP (Request &amp; Response) and Exception logger and viewer for ASP.Net Core Web Apps and APIs. It allows developers log and view messages, events, http request…</td>
+        <th><a href="https://github.com/IzyPro/WatchDog" target="_blank"><img alt="WatchDog" src="https://img.shields.io/github/stars/IzyPro/WatchDog?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="Konva.js - JavaScript 2d canvas library" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-react-konva.png" /></td>
         <td>Observability</td>
         <td>TypeScript</td>
@@ -2330,14 +2338,6 @@
         <td><a href="https://github.com/amosjyng/langchain-visualizer" target="_blank">langchain-visualizer</a></td>
         <td>Visualization and debugging tool for LangChain workflows</td>
         <th><a href="https://github.com/amosjyng/langchain-visualizer" target="_blank"><img alt="langchain-visualizer" src="https://img.shields.io/github/stars/amosjyng/langchain-visualizer?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="WatchDog" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-WatchDog.jpg" /></td>
-        <td>Observability</td>
-        <td>C#</td>
-        <td><a href="https://github.com/IzyPro/WatchDog" target="_blank">WatchDog</a></td>
-        <td>WatchDog is a Realtime Message, Event, HTTP (Request &amp; Response) and Exception logger and viewer for ASP.Net Core Web Apps and APIs. It allows developers log and view messages, events, http request…</td>
-        <th><a href="https://github.com/IzyPro/WatchDog" target="_blank"><img alt="WatchDog" src="https://img.shields.io/github/stars/IzyPro/WatchDog?style=social" /></a></th>
     </tr>
 
 </table>
@@ -3872,6 +3872,14 @@
         <td><a href="https://simonblanke.github.io/gradient-free-optimizers-documentation" target="_blank">Gradient-Free-Optimizers</a></td>
         <td>Simple and reliable optimization with local, global, population-based and sequential techniques in numerical discrete search spaces.</td>
         <th><a href="https://github.com/SimonBlanke/Gradient-Free-Optimizers" target="_blank"><img alt="Gradient-Free-Optimizers" src="https://img.shields.io/github/stars/SimonBlanke/Gradient-Free-Optimizers?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="SystemTrayMenu" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-SystemTrayMenu.jpg" /></td>
+        <td>Productivity</td>
+        <td>C#</td>
+        <td><a href="http://hofknecht.eu/systemtraymenu/" target="_blank">SystemTrayMenu</a></td>
+        <td>SystemTrayMenu - Browse and open your files easily</td>
+        <th><a href="https://github.com/Hofknecht/SystemTrayMenu" target="_blank"><img alt="SystemTrayMenu" src="https://img.shields.io/github/stars/Hofknecht/SystemTrayMenu?style=social" /></a></th>
     </tr>
 
 </table>
@@ -9021,6 +9029,14 @@
         <th><a href="https://github.com/enisn/AutoFilterer" target="_blank"><img alt="AutoFilterer" src="https://img.shields.io/github/stars/enisn/AutoFilterer?style=social" /></a></th>
     </tr>
     <tr>
+        <td nowrap="nowrap"><img width="33" alt="WatchDog" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-WatchDog.jpg" /></td>
+        <td>Observability</td>
+        <td>C#</td>
+        <td><a href="https://github.com/IzyPro/WatchDog" target="_blank">WatchDog</a></td>
+        <td>WatchDog is a Realtime Message, Event, HTTP (Request &amp; Response) and Exception logger and viewer for ASP.Net Core Web Apps and APIs. It allows developers log and view messages, events, http request…</td>
+        <th><a href="https://github.com/IzyPro/WatchDog" target="_blank"><img alt="WatchDog" src="https://img.shields.io/github/stars/IzyPro/WatchDog?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="MudBlazor" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-MudBlazor.png" /></td>
         <td>Infrastructure</td>
         <td>C#</td>
@@ -9165,12 +9181,12 @@
         <th><a href="https://github.com/unoplatform/uno" target="_blank"><img alt="Uno Platform" src="https://img.shields.io/github/stars/unoplatform/uno?style=social" /></a></th>
     </tr>
     <tr>
-        <td nowrap="nowrap"><img width="33" alt="WatchDog" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-WatchDog.jpg" /></td>
-        <td>Observability</td>
+        <td nowrap="nowrap"><img width="33" alt="SystemTrayMenu" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-SystemTrayMenu.jpg" /></td>
+        <td>Productivity</td>
         <td>C#</td>
-        <td><a href="https://github.com/IzyPro/WatchDog" target="_blank">WatchDog</a></td>
-        <td>WatchDog is a Realtime Message, Event, HTTP (Request &amp; Response) and Exception logger and viewer for ASP.Net Core Web Apps and APIs. It allows developers log and view messages, events, http request…</td>
-        <th><a href="https://github.com/IzyPro/WatchDog" target="_blank"><img alt="WatchDog" src="https://img.shields.io/github/stars/IzyPro/WatchDog?style=social" /></a></th>
+        <td><a href="http://hofknecht.eu/systemtraymenu/" target="_blank">SystemTrayMenu</a></td>
+        <td>SystemTrayMenu - Browse and open your files easily</td>
+        <th><a href="https://github.com/Hofknecht/SystemTrayMenu" target="_blank"><img alt="SystemTrayMenu" src="https://img.shields.io/github/stars/Hofknecht/SystemTrayMenu?style=social" /></a></th>
     </tr>
 
 </table>
