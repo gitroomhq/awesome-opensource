@@ -88,6 +88,8 @@
              </li>          <li>
                 <a href="#tsql">Top 20 TSQL libraries</a>
              </li>          <li>
+                <a href="#jupyter-notebook">Top 20 Jupyter Notebook libraries</a>
+             </li>          <li>
                 <a href="#c">Top 20 C libraries</a>
              </li>          <li>
                 <a href="#markdown">Top 20 Markdown libraries</a>
@@ -124,8 +126,6 @@
              </li>          <li>
                 <a href="#xslt">Top 20 XSLT libraries</a>
              </li>          <li>
-                <a href="#jupyter-notebook">Top 20 Jupyter Notebook libraries</a>
-             </li>          <li>
                 <a href="#cairo">Top 20 Cairo libraries</a>
              </li>          <li>
                 <a href="#solidity">Top 20 Solidity libraries</a>
@@ -135,6 +135,8 @@
                 <a href="#nim">Top 20 Nim libraries</a>
              </li>          <li>
                 <a href="#mustache">Top 20 Mustache libraries</a>
+             </li>          <li>
+                <a href="#svelte">Top 20 Svelte libraries</a>
              </li>        
         </ul>
     </li>
@@ -158,6 +160,14 @@
         <td><a href="https://github.com/jasonacox/tinytuya" target="_blank">TinyTuya</a></td>
         <td>Python API for Tuya WiFi smart devices using a direct local area network (LAN) connection or the cloud (TuyaCloud API).</td>
         <th><a href="https://github.com/jasonacox/tinytuya" target="_blank"><img alt="TinyTuya" src="https://img.shields.io/github/stars/jasonacox/tinytuya?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="OneClickRun" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-OneClickRun.png" /></td>
+        <td>Productivity</td>
+        <td>Jupyter Notebook</td>
+        <td><a href="https://colab.research.google.com/github/biplobsd/OneClickRun/blob/master/OneClickRun.ipynb" target="_blank">OneClickRun</a></td>
+        <td>Another colab notebook!</td>
+        <th><a href="https://github.com/biplobsd/OneClickRun" target="_blank"><img alt="OneClickRun" src="https://img.shields.io/github/stars/biplobsd/OneClickRun?style=social" /></a></th>
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="pyPowerwall" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-pypowerwall.jpg" /></td>
@@ -192,12 +202,92 @@
         <th><a href="https://github.com/jasonacox/Build-OpenSSL-cURL" target="_blank"><img alt="Build OpenSSL-cURL for iOS" src="https://img.shields.io/github/stars/jasonacox/Build-OpenSSL-cURL?style=social" /></a></th>
     </tr>
     <tr>
+        <td nowrap="nowrap"><img width="33" alt="Math.js" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-mathjs.jpg" /></td>
+        <td>Productivity</td>
+        <td>JavaScript</td>
+        <td><a href="https://mathjs.org" target="_blank">Math.js</a></td>
+        <td>An extensive math library for JavaScript and Node.js</td>
+        <th><a href="https://github.com/josdejong/mathjs" target="_blank"><img alt="Math.js" src="https://img.shields.io/github/stars/josdejong/mathjs?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="svelte-jsoneditor" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-svelte-jsoneditor.jpg" /></td>
+        <td>Productivity</td>
+        <td>TypeScript</td>
+        <td><a href="https://jsoneditoronline.org" target="_blank">svelte-jsoneditor</a></td>
+        <td>A web-based tool to view, edit, format, repair, query, transform, and validate JSON</td>
+        <th><a href="https://github.com/josdejong/svelte-jsoneditor" target="_blank"><img alt="svelte-jsoneditor" src="https://img.shields.io/github/stars/josdejong/svelte-jsoneditor?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="lossless-json" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-lossless-json.jpg" /></td>
+        <td>Productivity</td>
+        <td>TypeScript</td>
+        <td><a href="https://github.com/josdejong/lossless-json" target="_blank">lossless-json</a></td>
+        <td>Parse JSON without risk of losing numeric information</td>
+        <th><a href="https://github.com/josdejong/lossless-json" target="_blank"><img alt="lossless-json" src="https://img.shields.io/github/stars/josdejong/lossless-json?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Youtube Subscriptions Transfer" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-yst.png" /></td>
+        <td>Productivity</td>
+        <td>Svelte</td>
+        <td><a href="https://biplobsd.github.io/apps/view/yst.md" target="_blank">Youtube Subscriptions Transfer</a></td>
+        <td>Transfer/Move YouTube subscriptions from one account to another</td>
+        <th><a href="https://github.com/biplobsd/yst" target="_blank"><img alt="Youtube Subscriptions Transfer" src="https://img.shields.io/github/stars/biplobsd/yst?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Addition and Subtraction" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-as.png" /></td>
+        <td>Productivity</td>
+        <td>Svelte</td>
+        <td><a href="https://biplobsd.me/apps/view/as.md" target="_blank">Addition and Subtraction</a></td>
+        <td>Addition and Subtraction browser extension</td>
+        <th><a href="https://github.com/biplobsd/as" target="_blank"><img alt="Addition and Subtraction" src="https://img.shields.io/github/stars/biplobsd/as?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Epoch Readable" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-epochconverter.png" /></td>
+        <td>Productivity</td>
+        <td>Dart</td>
+        <td><a href="https://biplobsd.github.io/EpochConverterApp" target="_blank">Epoch Readable</a></td>
+        <td>It Just a simple epoch to human date format converter Flutter App</td>
+        <th><a href="https://github.com/biplobsd/epochconverter" target="_blank"><img alt="Epoch Readable" src="https://img.shields.io/github/stars/biplobsd/epochconverter?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="ProxySpeedTest" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-proxySpeedTest.png" /></td>
+        <td>Analytics</td>
+        <td>Python</td>
+        <td><a href="https://github.com/biplobsd/proxySpeedTest" target="_blank">ProxySpeedTest</a></td>
+        <td>Batch proxy server downloading speed test.</td>
+        <th><a href="https://github.com/biplobsd/proxySpeedTest" target="_blank"><img alt="ProxySpeedTest" src="https://img.shields.io/github/stars/biplobsd/proxySpeedTest?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Typeracer  - Selenium" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-typeracer.png" /></td>
+        <td>Miscellaneous</td>
+        <td>Python</td>
+        <td><a href="https://github.com/biplobsd/typeracer" target="_blank">Typeracer  - Selenium</a></td>
+        <td>Selenium play.typeracer bot</td>
+        <th><a href="https://github.com/biplobsd/typeracer" target="_blank"><img alt="Typeracer  - Selenium" src="https://img.shields.io/github/stars/biplobsd/typeracer?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="PNP - Portfolio NextJS Project" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-pnp.png" /></td>
+        <td>Productivity</td>
+        <td>TypeScript</td>
+        <td><a href="https://biplobsd.me/pricing" target="_blank">PNP - Portfolio NextJS Project</a></td>
+        <td>PNP is a free and open-source NextJS portfolio website. Get started at https://biplobsd.me/pricing</td>
+        <th><a href="https://github.com/SpeedOut-Source/pnp" target="_blank"><img alt="PNP - Portfolio NextJS Project" src="https://img.shields.io/github/stars/SpeedOut-Source/pnp?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="WatchDog" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-WatchDog.jpg" /></td>
         <td>Observability</td>
         <td>C#</td>
         <td><a href="https://github.com/IzyPro/WatchDog" target="_blank">WatchDog</a></td>
         <td>WatchDog is a Realtime Message, Event, HTTP (Request &amp; Response) and Exception logger and viewer for ASP.Net Core Web Apps and APIs. It allows developers log and view messages, events, http request…</td>
         <th><a href="https://github.com/IzyPro/WatchDog" target="_blank"><img alt="WatchDog" src="https://img.shields.io/github/stars/IzyPro/WatchDog?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="SystemTrayMenu" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-SystemTrayMenu.jpg" /></td>
+        <td>Productivity</td>
+        <td>C#</td>
+        <td><a href="http://hofknecht.eu/systemtraymenu/" target="_blank">SystemTrayMenu</a></td>
+        <td>SystemTrayMenu - Browse and open your files easily</td>
+        <th><a href="https://github.com/Hofknecht/SystemTrayMenu" target="_blank"><img alt="SystemTrayMenu" src="https://img.shields.io/github/stars/Hofknecht/SystemTrayMenu?style=social" /></a></th>
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="Trigger Dev" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-trigger.dev_.png" /></td>
@@ -222,94 +312,6 @@
         <td><a href="https://trigger.dev" target="_blank">Trigger Dev</a></td>
         <td>✨ Trigger.dev is an open-source platform to create long-running jobs directly in your Next.js project, with features like API integrations, webhooks, scheduling and delays.</td>
         <th><a href="https://github.com/triggerdotdev/trigger.dev" target="_blank"><img alt="Trigger Dev" src="https://img.shields.io/github/stars/triggerdotdev/trigger.dev?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Zero" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-zero.png" /></td>
-        <td>Productivity</td>
-        <td>Python</td>
-        <td><a href="https://github.com/Ananto30/zero" target="_blank">Zero</a></td>
-        <td>Zero: A simple and fast Python RPC framework</td>
-        <th><a href="https://github.com/Ananto30/zero" target="_blank"><img alt="Zero" src="https://img.shields.io/github/stars/Ananto30/zero?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Hyperactive" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-Hyperactive.jpg" /></td>
-        <td>Productivity</td>
-        <td>Python</td>
-        <td><a href="https://simonblanke.github.io/hyperactive-documentation" target="_blank">Hyperactive</a></td>
-        <td>An optimization and data collection toolbox for convenient and fast prototyping of computationally expensive models.</td>
-        <th><a href="https://github.com/SimonBlanke/Hyperactive" target="_blank"><img alt="Hyperactive" src="https://img.shields.io/github/stars/SimonBlanke/Hyperactive?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Gradient-Free-Optimizers" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-Gradient-Free-Optimizers.jpg" /></td>
-        <td>Productivity</td>
-        <td>Python</td>
-        <td><a href="https://simonblanke.github.io/gradient-free-optimizers-documentation" target="_blank">Gradient-Free-Optimizers</a></td>
-        <td>Simple and reliable optimization with local, global, population-based and sequential techniques in numerical discrete search spaces.</td>
-        <th><a href="https://github.com/SimonBlanke/Gradient-Free-Optimizers" target="_blank"><img alt="Gradient-Free-Optimizers" src="https://img.shields.io/github/stars/SimonBlanke/Gradient-Free-Optimizers?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="SystemTrayMenu" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-SystemTrayMenu.jpg" /></td>
-        <td>Productivity</td>
-        <td>C#</td>
-        <td><a href="http://hofknecht.eu/systemtraymenu/" target="_blank">SystemTrayMenu</a></td>
-        <td>SystemTrayMenu - Browse and open your files easily</td>
-        <th><a href="https://github.com/Hofknecht/SystemTrayMenu" target="_blank"><img alt="SystemTrayMenu" src="https://img.shields.io/github/stars/Hofknecht/SystemTrayMenu?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="React Hooks Notes" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-react-hooks-notes.jpg" /></td>
-        <td>Productivity</td>
-        <td>JavaScript</td>
-        <td><a href="https://github.com/pavandeore/react-hooks-notes" target="_blank">React Hooks Notes</a></td>
-        <td>react hooks notes</td>
-        <th><a href="https://github.com/pavandeore/react-hooks-notes" target="_blank"><img alt="React Hooks Notes" src="https://img.shields.io/github/stars/pavandeore/react-hooks-notes?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Search Ray" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-search-ray.jpg" /></td>
-        <td>Productivity</td>
-        <td>JavaScript</td>
-        <td><a href="https://github.com/pavandeore/search-ray" target="_blank">Search Ray</a></td>
-        <td>search-ray is javascript library to search for item in array and it will return index of the found element using Linear and Binary search</td>
-        <th><a href="https://github.com/pavandeore/search-ray" target="_blank"><img alt="Search Ray" src="https://img.shields.io/github/stars/pavandeore/search-ray?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="AIAS" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-AIAS.jpg" /></td>
-        <td>Infrastructure</td>
-        <td>Java</td>
-        <td><a href="https://github.com/mymagicpower/AIAS" target="_blank">AIAS</a></td>
-        <td>AIAS (AI Acceleration Suite) - 人工智能加速器套件。提供: 包括SDK，平台引擎，场景套件在内，合计超过100个项目组成的项目集。</td>
-        <th><a href="https://github.com/mymagicpower/AIAS" target="_blank"><img alt="AIAS" src="https://img.shields.io/github/stars/mymagicpower/AIAS?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="AIAS" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-AIAS-1.jpg" /></td>
-        <td>Infrastructure</td>
-        <td>Java</td>
-        <td><a href="https://github.com/mymagicpower/AIAS" target="_blank">AIAS</a></td>
-        <td>AIAS (AI Acceleration Suite) - 人工智能加速器套件。提供: 包括SDK，平台引擎，场景套件在内，合计超过100个项目组成的项目集。</td>
-        <th><a href="https://github.com/mymagicpower/AIAS" target="_blank"><img alt="AIAS" src="https://img.shields.io/github/stars/mymagicpower/AIAS?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="AIAS" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-AIAS-2.jpg" /></td>
-        <td>Infrastructure</td>
-        <td>Java</td>
-        <td><a href="https://github.com/mymagicpower/AIAS" target="_blank">AIAS</a></td>
-        <td>AIAS (AI Acceleration Suite) - 人工智能加速器套件。提供: 包括SDK，平台引擎，场景套件在内，合计超过100个项目组成的项目集。</td>
-        <th><a href="https://github.com/mymagicpower/AIAS" target="_blank"><img alt="AIAS" src="https://img.shields.io/github/stars/mymagicpower/AIAS?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="PushIn" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-pushin.jpg" /></td>
-        <td>Miscellaneous</td>
-        <td>TypeScript</td>
-        <td><a href="https://pushinjs.com/" target="_blank">PushIn</a></td>
-        <td>Attach a "dolly" or "push in" effect to a div element when user scrolls.</td>
-        <th><a href="https://github.com/nateplusplus/pushin" target="_blank"><img alt="PushIn" src="https://img.shields.io/github/stars/nateplusplus/pushin?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="GoogleTranslate_IPFinder" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-GoogleTranslate_IPFinder.png" /></td>
-        <td>Productivity</td>
-        <td>Python</td>
-        <td><a href="https://github.com/GoodCoder666/GoogleTranslate_IPFinder" target="_blank">GoogleTranslate_IPFinder</a></td>
-        <td>谷歌翻译服务器在中国大陆的IP地址扫描、测速工具，支持GUI图形界面。</td>
-        <th><a href="https://github.com/GoodCoder666/GoogleTranslate_IPFinder" target="_blank"><img alt="GoogleTranslate_IPFinder" src="https://img.shields.io/github/stars/GoodCoder666/GoogleTranslate_IPFinder?style=social" /></a></th>
     </tr>
 
 </table>
@@ -2109,6 +2111,14 @@
         <td>Scripts to build OpenSSL, HTTP/2 (nghttp2) and cURL (libcurl) for MacOS, iOS and tvOS devices (x86_64, armv7, armv7s, arm64, arm64e). Now Supporting Apple Silicon, OpenSSL 3.0.x with TLS 1.3 and Ma…</td>
         <th><a href="https://github.com/jasonacox/Build-OpenSSL-cURL" target="_blank"><img alt="Build OpenSSL-cURL for iOS" src="https://img.shields.io/github/stars/jasonacox/Build-OpenSSL-cURL?style=social" /></a></th>
     </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Typeracer  - Selenium" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-typeracer.png" /></td>
+        <td>Miscellaneous</td>
+        <td>Python</td>
+        <td><a href="https://github.com/biplobsd/typeracer" target="_blank">Typeracer  - Selenium</a></td>
+        <td>Selenium play.typeracer bot</td>
+        <th><a href="https://github.com/biplobsd/typeracer" target="_blank"><img alt="Typeracer  - Selenium" src="https://img.shields.io/github/stars/biplobsd/typeracer?style=social" /></a></th>
+    </tr>
 
 </table>
 
@@ -2680,6 +2690,22 @@
         <td><a href="https://github.com/GoodCoder666/GoogleTranslate_IPFinder" target="_blank">GoogleTranslate_IPFinder</a></td>
         <td>谷歌翻译服务器在中国大陆的IP地址扫描、测速工具，支持GUI图形界面。</td>
         <th><a href="https://github.com/GoodCoder666/GoogleTranslate_IPFinder" target="_blank"><img alt="GoogleTranslate_IPFinder" src="https://img.shields.io/github/stars/GoodCoder666/GoogleTranslate_IPFinder?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="SystemTrayMenu" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-SystemTrayMenu.jpg" /></td>
+        <td>Productivity</td>
+        <td>C#</td>
+        <td><a href="http://hofknecht.eu/systemtraymenu/" target="_blank">SystemTrayMenu</a></td>
+        <td>SystemTrayMenu - Browse and open your files easily</td>
+        <th><a href="https://github.com/Hofknecht/SystemTrayMenu" target="_blank"><img alt="SystemTrayMenu" src="https://img.shields.io/github/stars/Hofknecht/SystemTrayMenu?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="OneClickRun" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-OneClickRun.png" /></td>
+        <td>Productivity</td>
+        <td>Jupyter Notebook</td>
+        <td><a href="https://colab.research.google.com/github/biplobsd/OneClickRun/blob/master/OneClickRun.ipynb" target="_blank">OneClickRun</a></td>
+        <td>Another colab notebook!</td>
+        <th><a href="https://github.com/biplobsd/OneClickRun" target="_blank"><img alt="OneClickRun" src="https://img.shields.io/github/stars/biplobsd/OneClickRun?style=social" /></a></th>
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="VS Code Docs" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-vscode-docs.png" /></td>
@@ -3898,12 +3924,60 @@
         <th><a href="https://github.com/SimonBlanke/Gradient-Free-Optimizers" target="_blank"><img alt="Gradient-Free-Optimizers" src="https://img.shields.io/github/stars/SimonBlanke/Gradient-Free-Optimizers?style=social" /></a></th>
     </tr>
     <tr>
-        <td nowrap="nowrap"><img width="33" alt="SystemTrayMenu" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-SystemTrayMenu.jpg" /></td>
+        <td nowrap="nowrap"><img width="33" alt="Math.js" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-mathjs.jpg" /></td>
         <td>Productivity</td>
-        <td>C#</td>
-        <td><a href="http://hofknecht.eu/systemtraymenu/" target="_blank">SystemTrayMenu</a></td>
-        <td>SystemTrayMenu - Browse and open your files easily</td>
-        <th><a href="https://github.com/Hofknecht/SystemTrayMenu" target="_blank"><img alt="SystemTrayMenu" src="https://img.shields.io/github/stars/Hofknecht/SystemTrayMenu?style=social" /></a></th>
+        <td>JavaScript</td>
+        <td><a href="https://mathjs.org" target="_blank">Math.js</a></td>
+        <td>An extensive math library for JavaScript and Node.js</td>
+        <th><a href="https://github.com/josdejong/mathjs" target="_blank"><img alt="Math.js" src="https://img.shields.io/github/stars/josdejong/mathjs?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="svelte-jsoneditor" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-svelte-jsoneditor.jpg" /></td>
+        <td>Productivity</td>
+        <td>TypeScript</td>
+        <td><a href="https://jsoneditoronline.org" target="_blank">svelte-jsoneditor</a></td>
+        <td>A web-based tool to view, edit, format, repair, query, transform, and validate JSON</td>
+        <th><a href="https://github.com/josdejong/svelte-jsoneditor" target="_blank"><img alt="svelte-jsoneditor" src="https://img.shields.io/github/stars/josdejong/svelte-jsoneditor?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="lossless-json" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-lossless-json.jpg" /></td>
+        <td>Productivity</td>
+        <td>TypeScript</td>
+        <td><a href="https://github.com/josdejong/lossless-json" target="_blank">lossless-json</a></td>
+        <td>Parse JSON without risk of losing numeric information</td>
+        <th><a href="https://github.com/josdejong/lossless-json" target="_blank"><img alt="lossless-json" src="https://img.shields.io/github/stars/josdejong/lossless-json?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Youtube Subscriptions Transfer" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-yst.png" /></td>
+        <td>Productivity</td>
+        <td>Svelte</td>
+        <td><a href="https://biplobsd.github.io/apps/view/yst.md" target="_blank">Youtube Subscriptions Transfer</a></td>
+        <td>Transfer/Move YouTube subscriptions from one account to another</td>
+        <th><a href="https://github.com/biplobsd/yst" target="_blank"><img alt="Youtube Subscriptions Transfer" src="https://img.shields.io/github/stars/biplobsd/yst?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Addition and Subtraction" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-as.png" /></td>
+        <td>Productivity</td>
+        <td>Svelte</td>
+        <td><a href="https://biplobsd.me/apps/view/as.md" target="_blank">Addition and Subtraction</a></td>
+        <td>Addition and Subtraction browser extension</td>
+        <th><a href="https://github.com/biplobsd/as" target="_blank"><img alt="Addition and Subtraction" src="https://img.shields.io/github/stars/biplobsd/as?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Epoch Readable" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-epochconverter.png" /></td>
+        <td>Productivity</td>
+        <td>Dart</td>
+        <td><a href="https://biplobsd.github.io/EpochConverterApp" target="_blank">Epoch Readable</a></td>
+        <td>It Just a simple epoch to human date format converter Flutter App</td>
+        <th><a href="https://github.com/biplobsd/epochconverter" target="_blank"><img alt="Epoch Readable" src="https://img.shields.io/github/stars/biplobsd/epochconverter?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="PNP - Portfolio NextJS Project" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-pnp.png" /></td>
+        <td>Productivity</td>
+        <td>TypeScript</td>
+        <td><a href="https://biplobsd.me/pricing" target="_blank">PNP - Portfolio NextJS Project</a></td>
+        <td>PNP is a free and open-source NextJS portfolio website. Get started at https://biplobsd.me/pricing</td>
+        <th><a href="https://github.com/SpeedOut-Source/pnp" target="_blank"><img alt="PNP - Portfolio NextJS Project" src="https://img.shields.io/github/stars/SpeedOut-Source/pnp?style=social" /></a></th>
     </tr>
 
 </table>
@@ -4150,6 +4224,14 @@
         <td><a href="https://github.com/kaboussi/Botflix" target="_blank">Botflix</a></td>
         <td>? Stream your favorite movie from the terminal!</td>
         <th><a href="https://github.com/kaboussi/Botflix" target="_blank"><img alt="Botflix" src="https://img.shields.io/github/stars/kaboussi/Botflix?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="ProxySpeedTest" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-proxySpeedTest.png" /></td>
+        <td>Analytics</td>
+        <td>Python</td>
+        <td><a href="https://github.com/biplobsd/proxySpeedTest" target="_blank">ProxySpeedTest</a></td>
+        <td>Batch proxy server downloading speed test.</td>
+        <th><a href="https://github.com/biplobsd/proxySpeedTest" target="_blank"><img alt="ProxySpeedTest" src="https://img.shields.io/github/stars/biplobsd/proxySpeedTest?style=social" /></a></th>
     </tr>
 
 </table>
@@ -7100,6 +7182,30 @@
         <td>✨ Trigger.dev is an open-source platform to create long-running jobs directly in your Next.js project, with features like API integrations, webhooks, scheduling and delays.</td>
         <th><a href="https://github.com/triggerdotdev/trigger.dev" target="_blank"><img alt="Trigger Dev" src="https://img.shields.io/github/stars/triggerdotdev/trigger.dev?style=social" /></a></th>
     </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="svelte-jsoneditor" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-svelte-jsoneditor.jpg" /></td>
+        <td>Productivity</td>
+        <td>TypeScript</td>
+        <td><a href="https://jsoneditoronline.org" target="_blank">svelte-jsoneditor</a></td>
+        <td>A web-based tool to view, edit, format, repair, query, transform, and validate JSON</td>
+        <th><a href="https://github.com/josdejong/svelte-jsoneditor" target="_blank"><img alt="svelte-jsoneditor" src="https://img.shields.io/github/stars/josdejong/svelte-jsoneditor?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="lossless-json" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-lossless-json.jpg" /></td>
+        <td>Productivity</td>
+        <td>TypeScript</td>
+        <td><a href="https://github.com/josdejong/lossless-json" target="_blank">lossless-json</a></td>
+        <td>Parse JSON without risk of losing numeric information</td>
+        <th><a href="https://github.com/josdejong/lossless-json" target="_blank"><img alt="lossless-json" src="https://img.shields.io/github/stars/josdejong/lossless-json?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="PNP - Portfolio NextJS Project" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-pnp.png" /></td>
+        <td>Productivity</td>
+        <td>TypeScript</td>
+        <td><a href="https://biplobsd.me/pricing" target="_blank">PNP - Portfolio NextJS Project</a></td>
+        <td>PNP is a free and open-source NextJS portfolio website. Get started at https://biplobsd.me/pricing</td>
+        <th><a href="https://github.com/SpeedOut-Source/pnp" target="_blank"><img alt="PNP - Portfolio NextJS Project" src="https://img.shields.io/github/stars/SpeedOut-Source/pnp?style=social" /></a></th>
+    </tr>
 
 </table>
 
@@ -7585,6 +7691,14 @@
         <td><a href="https://boxtransform.hyperdesigned.dev" target="_blank">Box Transform</a></td>
         <td>A library for advanced resizing of rect in UI.</td>
         <th><a href="https://github.com/hyper-designed/box_transform" target="_blank"><img alt="Box Transform" src="https://img.shields.io/github/stars/hyper-designed/box_transform?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Epoch Readable" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-epochconverter.png" /></td>
+        <td>Productivity</td>
+        <td>Dart</td>
+        <td><a href="https://biplobsd.github.io/EpochConverterApp" target="_blank">Epoch Readable</a></td>
+        <td>It Just a simple epoch to human date format converter Flutter App</td>
+        <th><a href="https://github.com/biplobsd/epochconverter" target="_blank"><img alt="Epoch Readable" src="https://img.shields.io/github/stars/biplobsd/epochconverter?style=social" /></a></th>
     </tr>
 
 </table>
@@ -8636,6 +8750,14 @@
         <td>search-ray is javascript library to search for item in array and it will return index of the found element using Linear and Binary search</td>
         <th><a href="https://github.com/pavandeore/search-ray" target="_blank"><img alt="Search Ray" src="https://img.shields.io/github/stars/pavandeore/search-ray?style=social" /></a></th>
     </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Math.js" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-mathjs.jpg" /></td>
+        <td>Productivity</td>
+        <td>JavaScript</td>
+        <td><a href="https://mathjs.org" target="_blank">Math.js</a></td>
+        <td>An extensive math library for JavaScript and Node.js</td>
+        <th><a href="https://github.com/josdejong/mathjs" target="_blank"><img alt="Math.js" src="https://img.shields.io/github/stars/josdejong/mathjs?style=social" /></a></th>
+    </tr>
 
 </table>
 
@@ -9077,6 +9199,14 @@
         <th><a href="https://github.com/IzyPro/WatchDog" target="_blank"><img alt="WatchDog" src="https://img.shields.io/github/stars/IzyPro/WatchDog?style=social" /></a></th>
     </tr>
     <tr>
+        <td nowrap="nowrap"><img width="33" alt="SystemTrayMenu" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-SystemTrayMenu.jpg" /></td>
+        <td>Productivity</td>
+        <td>C#</td>
+        <td><a href="http://hofknecht.eu/systemtraymenu/" target="_blank">SystemTrayMenu</a></td>
+        <td>SystemTrayMenu - Browse and open your files easily</td>
+        <th><a href="https://github.com/Hofknecht/SystemTrayMenu" target="_blank"><img alt="SystemTrayMenu" src="https://img.shields.io/github/stars/Hofknecht/SystemTrayMenu?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="MudBlazor" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-MudBlazor.png" /></td>
         <td>Infrastructure</td>
         <td>C#</td>
@@ -9219,14 +9349,6 @@
         <td><a href="https://platform.uno/" target="_blank">Uno Platform</a></td>
         <td>Build Mobile, Desktop and WebAssembly apps with C# and XAML. Today. Open source and professionally supported.</td>
         <th><a href="https://github.com/unoplatform/uno" target="_blank"><img alt="Uno Platform" src="https://img.shields.io/github/stars/unoplatform/uno?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="SystemTrayMenu" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-SystemTrayMenu.jpg" /></td>
-        <td>Productivity</td>
-        <td>C#</td>
-        <td><a href="http://hofknecht.eu/systemtraymenu/" target="_blank">SystemTrayMenu</a></td>
-        <td>SystemTrayMenu - Browse and open your files easily</td>
-        <th><a href="https://github.com/Hofknecht/SystemTrayMenu" target="_blank"><img alt="SystemTrayMenu" src="https://img.shields.io/github/stars/Hofknecht/SystemTrayMenu?style=social" /></a></th>
     </tr>
 
 </table>
@@ -9928,6 +10050,22 @@
         <td>Grafana Dashboard for Tesla Powerwall</td>
         <th><a href="https://github.com/jasonacox/Powerwall-Dashboard" target="_blank"><img alt="Powerwall-Dashboard" src="https://img.shields.io/github/stars/jasonacox/Powerwall-Dashboard?style=social" /></a></th>
     </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="ProxySpeedTest" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-proxySpeedTest.png" /></td>
+        <td>Analytics</td>
+        <td>Python</td>
+        <td><a href="https://github.com/biplobsd/proxySpeedTest" target="_blank">ProxySpeedTest</a></td>
+        <td>Batch proxy server downloading speed test.</td>
+        <th><a href="https://github.com/biplobsd/proxySpeedTest" target="_blank"><img alt="ProxySpeedTest" src="https://img.shields.io/github/stars/biplobsd/proxySpeedTest?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Typeracer  - Selenium" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-typeracer.png" /></td>
+        <td>Miscellaneous</td>
+        <td>Python</td>
+        <td><a href="https://github.com/biplobsd/typeracer" target="_blank">Typeracer  - Selenium</a></td>
+        <td>Selenium play.typeracer bot</td>
+        <th><a href="https://github.com/biplobsd/typeracer" target="_blank"><img alt="Typeracer  - Selenium" src="https://img.shields.io/github/stars/biplobsd/typeracer?style=social" /></a></th>
+    </tr>
 
 </table>
 
@@ -10587,6 +10725,44 @@
         <td><a href="https://payrollengine.org/" target="_blank">Payroll Engine</a></td>
         <td>The payroll automation framework.</td>
         <th><a href="https://github.com/Payroll-Engine/PayrollEngine" target="_blank"><img alt="Payroll Engine" src="https://img.shields.io/github/stars/Payroll-Engine/PayrollEngine?style=social" /></a></th>
+    </tr>
+
+</table>
+
+<br /><br />
+<h2 id="jupyter-notebook">Top 20 Jupyter Notebook libraries</h2>
+<table>
+    <tr>
+        <th>Icon</th>
+        <th>Category</th>
+        <th>Language</th>
+        <th>Name</th>
+        <th>Description</th>
+        <th>Stargazers</th>
+    </tr>
+        <tr>
+        <td nowrap="nowrap"><img width="33" alt="OneClickRun" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-OneClickRun.png" /></td>
+        <td>Productivity</td>
+        <td>Jupyter Notebook</td>
+        <td><a href="https://colab.research.google.com/github/biplobsd/OneClickRun/blob/master/OneClickRun.ipynb" target="_blank">OneClickRun</a></td>
+        <td>Another colab notebook!</td>
+        <th><a href="https://github.com/biplobsd/OneClickRun" target="_blank"><img alt="OneClickRun" src="https://img.shields.io/github/stars/biplobsd/OneClickRun?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Adversarial ASR" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-ASRAdversarialAttacks.jpg" /></td>
+        <td>Security</td>
+        <td>Jupyter Notebook</td>
+        <td><a href="https://github.com/hammaad2002/ASRAdversarialAttacks" target="_blank">Adversarial ASR</a></td>
+        <td>An ASR (Automatic Speech Recognition) adversarial attack repository.</td>
+        <th><a href="https://github.com/hammaad2002/ASRAdversarialAttacks" target="_blank"><img alt="Adversarial ASR" src="https://img.shields.io/github/stars/hammaad2002/ASRAdversarialAttacks?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Multi Cloud Transfer Tool" src="https://libraries.github20k.com/images/uploads/2023/06/newshot-Multi-Cloud-Transfer-Tool.jpg" /></td>
+        <td>Productivity</td>
+        <td>Jupyter Notebook</td>
+        <td><a href="https://thecaduceus.eu.org/Multi-Cloud-Transfer-Tool" target="_blank">Multi Cloud Transfer Tool</a></td>
+        <td>The most advanced yet simple Jupyter Notebook to transfer/manage your data from/to any cloud remotely based on Rclone and other engines.<g-emoji class="g-emoji" alias="zap" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/26a1.png">⚡</g-emoji></td>
+        <th><a href="https://github.com/TheCaduceus/Multi-Cloud-Transfer-Tool" target="_blank"><img alt="Multi Cloud Transfer Tool" src="https://img.shields.io/github/stars/TheCaduceus/Multi-Cloud-Transfer-Tool?style=social" /></a></th>
     </tr>
 
 </table>
@@ -11356,36 +11532,6 @@
 </table>
 
 <br /><br />
-<h2 id="jupyter-notebook">Top 20 Jupyter Notebook libraries</h2>
-<table>
-    <tr>
-        <th>Icon</th>
-        <th>Category</th>
-        <th>Language</th>
-        <th>Name</th>
-        <th>Description</th>
-        <th>Stargazers</th>
-    </tr>
-        <tr>
-        <td nowrap="nowrap"><img width="33" alt="Adversarial ASR" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-ASRAdversarialAttacks.jpg" /></td>
-        <td>Security</td>
-        <td>Jupyter Notebook</td>
-        <td><a href="https://github.com/hammaad2002/ASRAdversarialAttacks" target="_blank">Adversarial ASR</a></td>
-        <td>An ASR (Automatic Speech Recognition) adversarial attack repository.</td>
-        <th><a href="https://github.com/hammaad2002/ASRAdversarialAttacks" target="_blank"><img alt="Adversarial ASR" src="https://img.shields.io/github/stars/hammaad2002/ASRAdversarialAttacks?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Multi Cloud Transfer Tool" src="https://libraries.github20k.com/images/uploads/2023/06/newshot-Multi-Cloud-Transfer-Tool.jpg" /></td>
-        <td>Productivity</td>
-        <td>Jupyter Notebook</td>
-        <td><a href="https://thecaduceus.eu.org/Multi-Cloud-Transfer-Tool" target="_blank">Multi Cloud Transfer Tool</a></td>
-        <td>The most advanced yet simple Jupyter Notebook to transfer/manage your data from/to any cloud remotely based on Rclone and other engines.<g-emoji class="g-emoji" alias="zap" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/26a1.png">⚡</g-emoji></td>
-        <th><a href="https://github.com/TheCaduceus/Multi-Cloud-Transfer-Tool" target="_blank"><img alt="Multi Cloud Transfer Tool" src="https://img.shields.io/github/stars/TheCaduceus/Multi-Cloud-Transfer-Tool?style=social" /></a></th>
-    </tr>
-
-</table>
-
-<br /><br />
 <h2 id="cairo">Top 20 Cairo libraries</h2>
 <table>
     <tr>
@@ -11507,6 +11653,36 @@
         <td><a href="https://github.com/thmsgbrt/thmsgbrt" target="_blank">GIthub Readme</a></td>
         <td>My awesome README.md</td>
         <th><a href="https://github.com/thmsgbrt/thmsgbrt" target="_blank"><img alt="GIthub Readme" src="https://img.shields.io/github/stars/thmsgbrt/thmsgbrt?style=social" /></a></th>
+    </tr>
+
+</table>
+
+<br /><br />
+<h2 id="svelte">Top 20 Svelte libraries</h2>
+<table>
+    <tr>
+        <th>Icon</th>
+        <th>Category</th>
+        <th>Language</th>
+        <th>Name</th>
+        <th>Description</th>
+        <th>Stargazers</th>
+    </tr>
+        <tr>
+        <td nowrap="nowrap"><img width="33" alt="Youtube Subscriptions Transfer" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-yst.png" /></td>
+        <td>Productivity</td>
+        <td>Svelte</td>
+        <td><a href="https://biplobsd.github.io/apps/view/yst.md" target="_blank">Youtube Subscriptions Transfer</a></td>
+        <td>Transfer/Move YouTube subscriptions from one account to another</td>
+        <th><a href="https://github.com/biplobsd/yst" target="_blank"><img alt="Youtube Subscriptions Transfer" src="https://img.shields.io/github/stars/biplobsd/yst?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Addition and Subtraction" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-as.png" /></td>
+        <td>Productivity</td>
+        <td>Svelte</td>
+        <td><a href="https://biplobsd.me/apps/view/as.md" target="_blank">Addition and Subtraction</a></td>
+        <td>Addition and Subtraction browser extension</td>
+        <th><a href="https://github.com/biplobsd/as" target="_blank"><img alt="Addition and Subtraction" src="https://img.shields.io/github/stars/biplobsd/as?style=social" /></a></th>
     </tr>
 
 </table>
