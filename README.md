@@ -152,6 +152,46 @@
         <th>Stargazers</th>
     </tr>
         <tr>
+        <td nowrap="nowrap"><img width="33" alt="TinyTuya" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-tinytuya.jpg" /></td>
+        <td>Infrastructure</td>
+        <td>Python</td>
+        <td><a href="https://github.com/jasonacox/tinytuya" target="_blank">TinyTuya</a></td>
+        <td>Python API for Tuya WiFi smart devices using a direct local area network (LAN) connection or the cloud (TuyaCloud API).</td>
+        <th><a href="https://github.com/jasonacox/tinytuya" target="_blank"><img alt="TinyTuya" src="https://img.shields.io/github/stars/jasonacox/tinytuya?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="pyPowerwall" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-pypowerwall.jpg" /></td>
+        <td>Infrastructure</td>
+        <td>Python</td>
+        <td><a href="https://github.com/jasonacox/pypowerwall" target="_blank">pyPowerwall</a></td>
+        <td>Python API for Tesla Powerwall and Solar Power Data</td>
+        <th><a href="https://github.com/jasonacox/pypowerwall" target="_blank"><img alt="pyPowerwall" src="https://img.shields.io/github/stars/jasonacox/pypowerwall?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Powerwall-Dashboard" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-Powerwall-Dashboard.jpg" /></td>
+        <td>Observability</td>
+        <td>Python</td>
+        <td><a href="https://github.com/jasonacox/Powerwall-Dashboard" target="_blank">Powerwall-Dashboard</a></td>
+        <td>Grafana Dashboard for Tesla Powerwall</td>
+        <th><a href="https://github.com/jasonacox/Powerwall-Dashboard" target="_blank"><img alt="Powerwall-Dashboard" src="https://img.shields.io/github/stars/jasonacox/Powerwall-Dashboard?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="TM1637TinyDisplay" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-TM1637TinyDisplay.jpg" /></td>
+        <td>Miscellaneous</td>
+        <td>C++</td>
+        <td><a href="https://github.com/jasonacox/TM1637TinyDisplay" target="_blank">TM1637TinyDisplay</a></td>
+        <td>Arduino library to display numbers and text on a 4 and 6 digit 7-segment TM1637 display modules.</td>
+        <th><a href="https://github.com/jasonacox/TM1637TinyDisplay" target="_blank"><img alt="TM1637TinyDisplay" src="https://img.shields.io/github/stars/jasonacox/TM1637TinyDisplay?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Build OpenSSL-cURL for iOS" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-Build-OpenSSL-cURL.jpg" /></td>
+        <td>Miscellaneous</td>
+        <td>C</td>
+        <td><a href="https://github.com/jasonacox/Build-OpenSSL-cURL" target="_blank">Build OpenSSL-cURL for iOS</a></td>
+        <td>Scripts to build OpenSSL, HTTP/2 (nghttp2) and cURL (libcurl) for MacOS, iOS and tvOS devices (x86_64, armv7, armv7s, arm64, arm64e). Now Supporting Apple Silicon, OpenSSL 3.0.x with TLS 1.3 and Ma…</td>
+        <th><a href="https://github.com/jasonacox/Build-OpenSSL-cURL" target="_blank"><img alt="Build OpenSSL-cURL for iOS" src="https://img.shields.io/github/stars/jasonacox/Build-OpenSSL-cURL?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="WatchDog" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-WatchDog.jpg" /></td>
         <td>Observability</td>
         <td>C#</td>
@@ -270,46 +310,6 @@
         <td><a href="https://github.com/GoodCoder666/GoogleTranslate_IPFinder" target="_blank">GoogleTranslate_IPFinder</a></td>
         <td>谷歌翻译服务器在中国大陆的IP地址扫描、测速工具，支持GUI图形界面。</td>
         <th><a href="https://github.com/GoodCoder666/GoogleTranslate_IPFinder" target="_blank"><img alt="GoogleTranslate_IPFinder" src="https://img.shields.io/github/stars/GoodCoder666/GoogleTranslate_IPFinder?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="lockfree" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-lockfree.jpg" /></td>
-        <td>Miscellaneous</td>
-        <td>C++</td>
-        <td><a href="https://github.com/DNedic/lockfree" target="_blank">lockfree</a></td>
-        <td>A collection of lock-free data structures written in standard C++11</td>
-        <th><a href="https://github.com/DNedic/lockfree" target="_blank"><img alt="lockfree" src="https://img.shields.io/github/stars/DNedic/lockfree?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="What Script Run" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-what-script-run.jpg" /></td>
-        <td>Productivity</td>
-        <td>JavaScript</td>
-        <td><a href="https://github.com/ronaldohoch/what-script-run" target="_blank">What Script Run</a></td>
-        <td>Small helper to choose which npm script run.</td>
-        <th><a href="https://github.com/ronaldohoch/what-script-run" target="_blank"><img alt="What Script Run" src="https://img.shields.io/github/stars/ronaldohoch/what-script-run?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Betterscan CE" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-betterscan-ce.png" /></td>
-        <td>Security</td>
-        <td>Python</td>
-        <td><a href="https://www.betterscan.io" target="_blank">Betterscan CE</a></td>
-        <td>Code Scanning/SAST/Static Analysis/Linting using many tools/Scanners + OpenAI GPT with One Report (Code, IaC) - Betterscan Community Edition (CE)</td>
-        <th><a href="https://github.com/marcinguy/betterscan-ce" target="_blank"><img alt="Betterscan CE" src="https://img.shields.io/github/stars/marcinguy/betterscan-ce?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="React18-input-otp" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-react18-input-otp.jpg" /></td>
-        <td>Miscellaneous</td>
-        <td>JavaScript</td>
-        <td><a href="https://github.com/ritikbanger/react18-input-otp" target="_blank">React18-input-otp</a></td>
-        <td>A fully customizable, one-time password (OTP) and phone number with separator input component for the web built with React.</td>
-        <th><a href="https://github.com/ritikbanger/react18-input-otp" target="_blank"><img alt="React18-input-otp" src="https://img.shields.io/github/stars/ritikbanger/react18-input-otp?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Laravel Validated DTO" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-laravel-validated-dto.jpg" /></td>
-        <td>Miscellaneous</td>
-        <td>PHP</td>
-        <td><a href="https://wendell-adriel.gitbook.io/laravel-validated-dto/" target="_blank">Laravel Validated DTO</a></td>
-        <td>Data Transfer Objects with validation for Laravel applications</td>
-        <th><a href="https://github.com/WendellAdriel/laravel-validated-dto" target="_blank"><img alt="Laravel Validated DTO" src="https://img.shields.io/github/stars/WendellAdriel/laravel-validated-dto?style=social" /></a></th>
     </tr>
 
 </table>
@@ -2093,6 +2093,22 @@
         <td>Attach a "dolly" or "push in" effect to a div element when user scrolls.</td>
         <th><a href="https://github.com/nateplusplus/pushin" target="_blank"><img alt="PushIn" src="https://img.shields.io/github/stars/nateplusplus/pushin?style=social" /></a></th>
     </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="TM1637TinyDisplay" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-TM1637TinyDisplay.jpg" /></td>
+        <td>Miscellaneous</td>
+        <td>C++</td>
+        <td><a href="https://github.com/jasonacox/TM1637TinyDisplay" target="_blank">TM1637TinyDisplay</a></td>
+        <td>Arduino library to display numbers and text on a 4 and 6 digit 7-segment TM1637 display modules.</td>
+        <th><a href="https://github.com/jasonacox/TM1637TinyDisplay" target="_blank"><img alt="TM1637TinyDisplay" src="https://img.shields.io/github/stars/jasonacox/TM1637TinyDisplay?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Build OpenSSL-cURL for iOS" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-Build-OpenSSL-cURL.jpg" /></td>
+        <td>Miscellaneous</td>
+        <td>C</td>
+        <td><a href="https://github.com/jasonacox/Build-OpenSSL-cURL" target="_blank">Build OpenSSL-cURL for iOS</a></td>
+        <td>Scripts to build OpenSSL, HTTP/2 (nghttp2) and cURL (libcurl) for MacOS, iOS and tvOS devices (x86_64, armv7, armv7s, arm64, arm64e). Now Supporting Apple Silicon, OpenSSL 3.0.x with TLS 1.3 and Ma…</td>
+        <th><a href="https://github.com/jasonacox/Build-OpenSSL-cURL" target="_blank"><img alt="Build OpenSSL-cURL for iOS" src="https://img.shields.io/github/stars/jasonacox/Build-OpenSSL-cURL?style=social" /></a></th>
+    </tr>
 
 </table>
 
@@ -2338,6 +2354,14 @@
         <td><a href="https://github.com/amosjyng/langchain-visualizer" target="_blank">langchain-visualizer</a></td>
         <td>Visualization and debugging tool for LangChain workflows</td>
         <th><a href="https://github.com/amosjyng/langchain-visualizer" target="_blank"><img alt="langchain-visualizer" src="https://img.shields.io/github/stars/amosjyng/langchain-visualizer?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Powerwall-Dashboard" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-Powerwall-Dashboard.jpg" /></td>
+        <td>Observability</td>
+        <td>Python</td>
+        <td><a href="https://github.com/jasonacox/Powerwall-Dashboard" target="_blank">Powerwall-Dashboard</a></td>
+        <td>Grafana Dashboard for Tesla Powerwall</td>
+        <th><a href="https://github.com/jasonacox/Powerwall-Dashboard" target="_blank"><img alt="Powerwall-Dashboard" src="https://img.shields.io/github/stars/jasonacox/Powerwall-Dashboard?style=social" /></a></th>
     </tr>
 
 </table>
@@ -5206,6 +5230,14 @@
         <th><a href="https://github.com/enisn/AutoFilterer" target="_blank"><img alt="AutoFilterer" src="https://img.shields.io/github/stars/enisn/AutoFilterer?style=social" /></a></th>
     </tr>
     <tr>
+        <td nowrap="nowrap"><img width="33" alt="TinyTuya" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-tinytuya.jpg" /></td>
+        <td>Infrastructure</td>
+        <td>Python</td>
+        <td><a href="https://github.com/jasonacox/tinytuya" target="_blank">TinyTuya</a></td>
+        <td>Python API for Tuya WiFi smart devices using a direct local area network (LAN) connection or the cloud (TuyaCloud API).</td>
+        <th><a href="https://github.com/jasonacox/tinytuya" target="_blank"><img alt="TinyTuya" src="https://img.shields.io/github/stars/jasonacox/tinytuya?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="ClusterFuzz" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-clusterfuzz.png" /></td>
         <td>Infrastructure</td>
         <td>Python</td>
@@ -6060,6 +6092,14 @@
         <td><a href="https://trigger.dev" target="_blank">Trigger Dev</a></td>
         <td>✨ Trigger.dev is an open-source platform to create long-running jobs directly in your Next.js project, with features like API integrations, webhooks, scheduling and delays.</td>
         <th><a href="https://github.com/triggerdotdev/trigger.dev" target="_blank"><img alt="Trigger Dev" src="https://img.shields.io/github/stars/triggerdotdev/trigger.dev?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="pyPowerwall" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-pypowerwall.jpg" /></td>
+        <td>Infrastructure</td>
+        <td>Python</td>
+        <td><a href="https://github.com/jasonacox/pypowerwall" target="_blank">pyPowerwall</a></td>
+        <td>Python API for Tesla Powerwall and Solar Power Data</td>
+        <th><a href="https://github.com/jasonacox/pypowerwall" target="_blank"><img alt="pyPowerwall" src="https://img.shields.io/github/stars/jasonacox/pypowerwall?style=social" /></a></th>
     </tr>
 
 </table>
@@ -9337,6 +9377,14 @@
         <th><a href="https://github.com/GoodCoder666/GoogleTranslate_IPFinder" target="_blank"><img alt="GoogleTranslate_IPFinder" src="https://img.shields.io/github/stars/GoodCoder666/GoogleTranslate_IPFinder?style=social" /></a></th>
     </tr>
     <tr>
+        <td nowrap="nowrap"><img width="33" alt="TinyTuya" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-tinytuya.jpg" /></td>
+        <td>Infrastructure</td>
+        <td>Python</td>
+        <td><a href="https://github.com/jasonacox/tinytuya" target="_blank">TinyTuya</a></td>
+        <td>Python API for Tuya WiFi smart devices using a direct local area network (LAN) connection or the cloud (TuyaCloud API).</td>
+        <th><a href="https://github.com/jasonacox/tinytuya" target="_blank"><img alt="TinyTuya" src="https://img.shields.io/github/stars/jasonacox/tinytuya?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="ClusterFuzz" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-clusterfuzz.png" /></td>
         <td>Infrastructure</td>
         <td>Python</td>
@@ -9864,6 +9912,22 @@
         <td>Simple and reliable optimization with local, global, population-based and sequential techniques in numerical discrete search spaces.</td>
         <th><a href="https://github.com/SimonBlanke/Gradient-Free-Optimizers" target="_blank"><img alt="Gradient-Free-Optimizers" src="https://img.shields.io/github/stars/SimonBlanke/Gradient-Free-Optimizers?style=social" /></a></th>
     </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="pyPowerwall" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-pypowerwall.jpg" /></td>
+        <td>Infrastructure</td>
+        <td>Python</td>
+        <td><a href="https://github.com/jasonacox/pypowerwall" target="_blank">pyPowerwall</a></td>
+        <td>Python API for Tesla Powerwall and Solar Power Data</td>
+        <th><a href="https://github.com/jasonacox/pypowerwall" target="_blank"><img alt="pyPowerwall" src="https://img.shields.io/github/stars/jasonacox/pypowerwall?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Powerwall-Dashboard" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-Powerwall-Dashboard.jpg" /></td>
+        <td>Observability</td>
+        <td>Python</td>
+        <td><a href="https://github.com/jasonacox/Powerwall-Dashboard" target="_blank">Powerwall-Dashboard</a></td>
+        <td>Grafana Dashboard for Tesla Powerwall</td>
+        <th><a href="https://github.com/jasonacox/Powerwall-Dashboard" target="_blank"><img alt="Powerwall-Dashboard" src="https://img.shields.io/github/stars/jasonacox/Powerwall-Dashboard?style=social" /></a></th>
+    </tr>
 
 </table>
 
@@ -10277,6 +10341,14 @@
         <td><a href="https://twitter.com/sajjadium" target="_blank">CTF Writeups</a></td>
         <td>CTF Writeups: Collection of CTF "technical" writeups by PersianCats.</td>
         <th><a href="https://github.com/sajjadium/ctf-writeups" target="_blank"><img alt="CTF Writeups" src="https://img.shields.io/github/stars/sajjadium/ctf-writeups?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="TM1637TinyDisplay" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-TM1637TinyDisplay.jpg" /></td>
+        <td>Miscellaneous</td>
+        <td>C++</td>
+        <td><a href="https://github.com/jasonacox/TM1637TinyDisplay" target="_blank">TM1637TinyDisplay</a></td>
+        <td>Arduino library to display numbers and text on a 4 and 6 digit 7-segment TM1637 display modules.</td>
+        <th><a href="https://github.com/jasonacox/TM1637TinyDisplay" target="_blank"><img alt="TM1637TinyDisplay" src="https://img.shields.io/github/stars/jasonacox/TM1637TinyDisplay?style=social" /></a></th>
     </tr>
 
 </table>
@@ -10793,6 +10865,14 @@
         <td><a href="https://github.com/MaJerle/stm32-cube-cmake-vscode" target="_blank">STM32 CMake and vscode</a></td>
         <td>STM32, VSCode and CMake detailed tutorial</td>
         <th><a href="https://github.com/MaJerle/stm32-cube-cmake-vscode" target="_blank"><img alt="STM32 CMake and vscode" src="https://img.shields.io/github/stars/MaJerle/stm32-cube-cmake-vscode?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Build OpenSSL-cURL for iOS" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-Build-OpenSSL-cURL.jpg" /></td>
+        <td>Miscellaneous</td>
+        <td>C</td>
+        <td><a href="https://github.com/jasonacox/Build-OpenSSL-cURL" target="_blank">Build OpenSSL-cURL for iOS</a></td>
+        <td>Scripts to build OpenSSL, HTTP/2 (nghttp2) and cURL (libcurl) for MacOS, iOS and tvOS devices (x86_64, armv7, armv7s, arm64, arm64e). Now Supporting Apple Silicon, OpenSSL 3.0.x with TLS 1.3 and Ma…</td>
+        <th><a href="https://github.com/jasonacox/Build-OpenSSL-cURL" target="_blank"><img alt="Build OpenSSL-cURL for iOS" src="https://img.shields.io/github/stars/jasonacox/Build-OpenSSL-cURL?style=social" /></a></th>
     </tr>
 
 </table>
