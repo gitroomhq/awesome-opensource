@@ -154,6 +154,14 @@
         <th>Stargazers</th>
     </tr>
         <tr>
+        <td nowrap="nowrap"><img width="33" alt="Hexagon Toolkit" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-hexagon.png" /></td>
+        <td>Productivity</td>
+        <td>Kotlin</td>
+        <td><a href="https://hexagonkt.com" target="_blank">Hexagon Toolkit</a></td>
+        <td>Hexagon is a microservices toolkit written in Kotlin. Its purpose is to ease the building of services (Web applications or APIs) that run inside a cloud platform.</td>
+        <th><a href="https://github.com/hexagonkt/hexagon" target="_blank"><img alt="Hexagon Toolkit" src="https://img.shields.io/github/stars/hexagonkt/hexagon?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="TinyTuya" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-tinytuya.jpg" /></td>
         <td>Infrastructure</td>
         <td>Python</td>
@@ -299,14 +307,6 @@
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="Trigger Dev" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-trigger.dev_-1.png" /></td>
-        <td>Infrastructure</td>
-        <td>TypeScript</td>
-        <td><a href="https://trigger.dev" target="_blank">Trigger Dev</a></td>
-        <td>✨ Trigger.dev is an open-source platform to create long-running jobs directly in your Next.js project, with features like API integrations, webhooks, scheduling and delays.</td>
-        <th><a href="https://github.com/triggerdotdev/trigger.dev" target="_blank"><img alt="Trigger Dev" src="https://img.shields.io/github/stars/triggerdotdev/trigger.dev?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Trigger Dev" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-trigger.dev_-2.png" /></td>
         <td>Infrastructure</td>
         <td>TypeScript</td>
         <td><a href="https://trigger.dev" target="_blank">Trigger Dev</a></td>
@@ -3979,6 +3979,14 @@
         <td>PNP is a free and open-source NextJS portfolio website. Get started at https://biplobsd.me/pricing</td>
         <th><a href="https://github.com/SpeedOut-Source/pnp" target="_blank"><img alt="PNP - Portfolio NextJS Project" src="https://img.shields.io/github/stars/SpeedOut-Source/pnp?style=social" /></a></th>
     </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Hexagon Toolkit" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-hexagon.png" /></td>
+        <td>Productivity</td>
+        <td>Kotlin</td>
+        <td><a href="https://hexagonkt.com" target="_blank">Hexagon Toolkit</a></td>
+        <td>Hexagon is a microservices toolkit written in Kotlin. Its purpose is to ease the building of services (Web applications or APIs) that run inside a cloud platform.</td>
+        <th><a href="https://github.com/hexagonkt/hexagon" target="_blank"><img alt="Hexagon Toolkit" src="https://img.shields.io/github/stars/hexagonkt/hexagon?style=social" /></a></th>
+    </tr>
 
 </table>
 
@@ -7605,6 +7613,14 @@
         <td><a href="https://github.com/Shashank02051997/VegetableOrderUI-Android" target="_blank">VegetableOrderUI-Android</a></td>
         <td>Check out the new style for App Design aims for the Vegetable Order Service using jetpack compose...<g-emoji class="g-emoji" alias="wink" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f609.png">?</g-emoji><g-emoji class="g-emoji" alias="grinning" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f600.png">?</g-emoji><g-emoji class="g-emoji" alias="grin" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f601.png">?</g-emoji><g-emoji class="g-emoji" alias="sunglasses" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f60e.png">?</g-emoji></td>
         <th><a href="https://github.com/Shashank02051997/VegetableOrderUI-Android" target="_blank"><img alt="VegetableOrderUI-Android" src="https://img.shields.io/github/stars/Shashank02051997/VegetableOrderUI-Android?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Hexagon Toolkit" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-hexagon.png" /></td>
+        <td>Productivity</td>
+        <td>Kotlin</td>
+        <td><a href="https://hexagonkt.com" target="_blank">Hexagon Toolkit</a></td>
+        <td>Hexagon is a microservices toolkit written in Kotlin. Its purpose is to ease the building of services (Web applications or APIs) that run inside a cloud platform.</td>
+        <th><a href="https://github.com/hexagonkt/hexagon" target="_blank"><img alt="Hexagon Toolkit" src="https://img.shields.io/github/stars/hexagonkt/hexagon?style=social" /></a></th>
     </tr>
 
 </table>
