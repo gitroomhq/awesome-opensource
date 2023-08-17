@@ -178,6 +178,22 @@
         <th><a href="https://github.com/jcubic/sysend.js" target="_blank"><img alt="Sysend" src="https://img.shields.io/github/stars/jcubic/sysend.js?style=social" /></a></th>
     </tr>
     <tr>
+        <td nowrap="nowrap"><img width="33" alt="GeniA" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-GeniA.jpg" /></td>
+        <td>Infrastructure</td>
+        <td>Python</td>
+        <td><a href="https://genia-dev.github.io/GeniA/" target="_blank">GeniA</a></td>
+        <td>Your Engineering Gen AI Team member ???</td>
+        <th><a href="https://github.com/genia-dev/GeniA" target="_blank"><img alt="GeniA" src="https://img.shields.io/github/stars/genia-dev/GeniA?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Refact AI" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-refact.png" /></td>
+        <td>Productivity</td>
+        <td>Python</td>
+        <td><a href="https://refact.ai" target="_blank">Refact AI</a></td>
+        <td>? Refact AI: Open-Source Coding Assistant with Fine-Tuning on codebase, autocompletion, code refactoring, code analysis, integrated chat and more! </td>
+        <th><a href="https://github.com/smallcloudai/refact" target="_blank"><img alt="Refact AI" src="https://img.shields.io/github/stars/smallcloudai/refact?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="Hexagon Toolkit" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-hexagon.png" /></td>
         <td>Productivity</td>
         <td>Kotlin</td>
@@ -296,22 +312,6 @@
         <td><a href="https://biplobsd.me/apps/view/as.md" target="_blank">Addition and Subtraction</a></td>
         <td>Addition and Subtraction browser extension</td>
         <th><a href="https://github.com/biplobsd/as" target="_blank"><img alt="Addition and Subtraction" src="https://img.shields.io/github/stars/biplobsd/as?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Epoch Readable" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-epochconverter.png" /></td>
-        <td>Productivity</td>
-        <td>Dart</td>
-        <td><a href="https://biplobsd.github.io/EpochConverterApp" target="_blank">Epoch Readable</a></td>
-        <td>It Just a simple epoch to human date format converter Flutter App</td>
-        <th><a href="https://github.com/biplobsd/epochconverter" target="_blank"><img alt="Epoch Readable" src="https://img.shields.io/github/stars/biplobsd/epochconverter?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="ProxySpeedTest" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-proxySpeedTest.png" /></td>
-        <td>Analytics</td>
-        <td>Python</td>
-        <td><a href="https://github.com/biplobsd/proxySpeedTest" target="_blank">ProxySpeedTest</a></td>
-        <td>Batch proxy server downloading speed test.</td>
-        <th><a href="https://github.com/biplobsd/proxySpeedTest" target="_blank"><img alt="ProxySpeedTest" src="https://img.shields.io/github/stars/biplobsd/proxySpeedTest?style=social" /></a></th>
     </tr>
 
 </table>
@@ -4011,6 +4011,14 @@
         <td>Hexagon is a microservices toolkit written in Kotlin. Its purpose is to ease the building of services (Web applications or APIs) that run inside a cloud platform.</td>
         <th><a href="https://github.com/hexagonkt/hexagon" target="_blank"><img alt="Hexagon Toolkit" src="https://img.shields.io/github/stars/hexagonkt/hexagon?style=social" /></a></th>
     </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Refact AI" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-refact.png" /></td>
+        <td>Productivity</td>
+        <td>Python</td>
+        <td><a href="https://refact.ai" target="_blank">Refact AI</a></td>
+        <td>? Refact AI: Open-Source Coding Assistant with Fine-Tuning on codebase, autocompletion, code refactoring, code analysis, integrated chat and more! </td>
+        <th><a href="https://github.com/smallcloudai/refact" target="_blank"><img alt="Refact AI" src="https://img.shields.io/github/stars/smallcloudai/refact?style=social" /></a></th>
+    </tr>
 
 </table>
 
@@ -6238,6 +6246,14 @@
         <td><a href="https://github.com/jcubic/sysend.js" target="_blank">Sysend</a></td>
         <td>Web application synchronization between different tabs</td>
         <th><a href="https://github.com/jcubic/sysend.js" target="_blank"><img alt="Sysend" src="https://img.shields.io/github/stars/jcubic/sysend.js?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="GeniA" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-GeniA.jpg" /></td>
+        <td>Infrastructure</td>
+        <td>Python</td>
+        <td><a href="https://genia-dev.github.io/GeniA/" target="_blank">GeniA</a></td>
+        <td>Your Engineering Gen AI Team member ???</td>
+        <th><a href="https://github.com/genia-dev/GeniA" target="_blank"><img alt="GeniA" src="https://img.shields.io/github/stars/genia-dev/GeniA?style=social" /></a></th>
     </tr>
 
 </table>
@@ -10177,6 +10193,22 @@
         <td><a href="https://github.com/biplobsd/typeracer" target="_blank">Typeracer  - Selenium</a></td>
         <td>Selenium play.typeracer bot</td>
         <th><a href="https://github.com/biplobsd/typeracer" target="_blank"><img alt="Typeracer  - Selenium" src="https://img.shields.io/github/stars/biplobsd/typeracer?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="GeniA" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-GeniA.jpg" /></td>
+        <td>Infrastructure</td>
+        <td>Python</td>
+        <td><a href="https://genia-dev.github.io/GeniA/" target="_blank">GeniA</a></td>
+        <td>Your Engineering Gen AI Team member ???</td>
+        <th><a href="https://github.com/genia-dev/GeniA" target="_blank"><img alt="GeniA" src="https://img.shields.io/github/stars/genia-dev/GeniA?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Refact AI" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-refact.png" /></td>
+        <td>Productivity</td>
+        <td>Python</td>
+        <td><a href="https://refact.ai" target="_blank">Refact AI</a></td>
+        <td>? Refact AI: Open-Source Coding Assistant with Fine-Tuning on codebase, autocompletion, code refactoring, code analysis, integrated chat and more! </td>
+        <th><a href="https://github.com/smallcloudai/refact" target="_blank"><img alt="Refact AI" src="https://img.shields.io/github/stars/smallcloudai/refact?style=social" /></a></th>
     </tr>
 
 </table>
