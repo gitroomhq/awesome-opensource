@@ -58,11 +58,11 @@
              </li>          <li>
                 <a href="#lua">Top 20 Lua libraries</a>
              </li>          <li>
+                <a href="#c">Top 20 C# libraries</a>
+             </li>          <li>
                 <a href="#shell">Top 20 Shell libraries</a>
              </li>          <li>
                 <a href="#java">Top 20 Java libraries</a>
-             </li>          <li>
-                <a href="#c">Top 20 C# libraries</a>
              </li>          <li>
                 <a href="#vue">Top 20 Vue libraries</a>
              </li>          <li>
@@ -154,6 +154,30 @@
         <th>Stargazers</th>
     </tr>
         <tr>
+        <td nowrap="nowrap"><img width="33" alt="inlang" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-inlang.png" /></td>
+        <td>Collaboration</td>
+        <td>TypeScript</td>
+        <td><a href="https://inlang.com" target="_blank">inlang</a></td>
+        <td>globalization infrastructure for software &amp;&amp; version control for apps</td>
+        <th><a href="https://github.com/inlang/inlang" target="_blank"><img alt="inlang" src="https://img.shields.io/github/stars/inlang/inlang?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Wayne" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-wayne.png" /></td>
+        <td>Infrastructure</td>
+        <td>JavaScript</td>
+        <td><a href="https://jcubic.github.io/wayne" target="_blank">Wayne</a></td>
+        <td>Service Worker Routing library for in browser HTTP requests</td>
+        <th><a href="https://github.com/jcubic/wayne" target="_blank"><img alt="Wayne" src="https://img.shields.io/github/stars/jcubic/wayne?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Sysend" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-sysend.js.png" /></td>
+        <td>Infrastructure</td>
+        <td>JavaScript</td>
+        <td><a href="https://github.com/jcubic/sysend.js" target="_blank">Sysend</a></td>
+        <td>Web application synchronization between different tabs</td>
+        <th><a href="https://github.com/jcubic/sysend.js" target="_blank"><img alt="Sysend" src="https://img.shields.io/github/stars/jcubic/sysend.js?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="Hexagon Toolkit" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-hexagon.png" /></td>
         <td>Productivity</td>
         <td>Kotlin</td>
@@ -288,30 +312,6 @@
         <td><a href="https://github.com/biplobsd/proxySpeedTest" target="_blank">ProxySpeedTest</a></td>
         <td>Batch proxy server downloading speed test.</td>
         <th><a href="https://github.com/biplobsd/proxySpeedTest" target="_blank"><img alt="ProxySpeedTest" src="https://img.shields.io/github/stars/biplobsd/proxySpeedTest?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Typeracer  - Selenium" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-typeracer.png" /></td>
-        <td>Miscellaneous</td>
-        <td>Python</td>
-        <td><a href="https://github.com/biplobsd/typeracer" target="_blank">Typeracer  - Selenium</a></td>
-        <td>Selenium play.typeracer bot</td>
-        <th><a href="https://github.com/biplobsd/typeracer" target="_blank"><img alt="Typeracer  - Selenium" src="https://img.shields.io/github/stars/biplobsd/typeracer?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="PNP - Portfolio NextJS Project" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-pnp.png" /></td>
-        <td>Productivity</td>
-        <td>TypeScript</td>
-        <td><a href="https://biplobsd.me/pricing" target="_blank">PNP - Portfolio NextJS Project</a></td>
-        <td>PNP is a free and open-source NextJS portfolio website. Get started at https://biplobsd.me/pricing</td>
-        <th><a href="https://github.com/SpeedOut-Source/pnp" target="_blank"><img alt="PNP - Portfolio NextJS Project" src="https://img.shields.io/github/stars/SpeedOut-Source/pnp?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="WatchDog" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-WatchDog.jpg" /></td>
-        <td>Observability</td>
-        <td>C#</td>
-        <td><a href="https://github.com/IzyPro/WatchDog" target="_blank">WatchDog</a></td>
-        <td>WatchDog is a Realtime Message, Event, HTTP (Request &amp; Response) and Exception logger and viewer for ASP.Net Core Web Apps and APIs. It allows developers log and view messages, events, http request…</td>
-        <th><a href="https://github.com/IzyPro/WatchDog" target="_blank"><img alt="WatchDog" src="https://img.shields.io/github/stars/IzyPro/WatchDog?style=social" /></a></th>
     </tr>
 
 </table>
@@ -521,6 +521,14 @@
         <th><a href="https://github.com/awesomeWM/awesome" target="_blank"><img alt="awesome window manager" src="https://img.shields.io/github/stars/awesomeWM/awesome?style=social" /></a></th>
     </tr>
     <tr>
+        <td nowrap="nowrap"><img width="33" alt="Unity" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-open-project-1-2.png" /></td>
+        <td>Collaboration</td>
+        <td>C#</td>
+        <td><a href="http://unity.com/open-projects" target="_blank">Unity</a></td>
+        <td>Unity Open Project #1: Chop Chop</td>
+        <th><a href="https://github.com/UnityTechnologies/open-project-1" target="_blank"><img alt="Unity" src="https://img.shields.io/github/stars/UnityTechnologies/open-project-1?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="Hanko" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-hanko.png" /></td>
         <td>Security</td>
         <td>TypeScript</td>
@@ -601,6 +609,14 @@
         <th><a href="https://github.com/node-oauth/node-oauth2-server" target="_blank"><img alt="@node-oauth/oauth2-server" src="https://img.shields.io/github/stars/node-oauth/node-oauth2-server?style=social" /></a></th>
     </tr>
     <tr>
+        <td nowrap="nowrap"><img width="33" alt="inlang" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-inlang.png" /></td>
+        <td>Collaboration</td>
+        <td>TypeScript</td>
+        <td><a href="https://inlang.com" target="_blank">inlang</a></td>
+        <td>globalization infrastructure for software &amp;&amp; version control for apps</td>
+        <th><a href="https://github.com/inlang/inlang" target="_blank"><img alt="inlang" src="https://img.shields.io/github/stars/inlang/inlang?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="GitHub Support" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-dmca.png" /></td>
         <td>Miscellaneous</td>
         <td>undefined</td>
@@ -615,14 +631,6 @@
         <td><a href="https://junit.org" target="_blank">JUnitorg.</a></td>
         <td><g-emoji class="g-emoji" alias="white_check_mark" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2705.png">✅</g-emoji> The 5th major version of the programmer-friendly testing framework for Java and the JVM</td>
         <th><a href="https://github.com/junit-team/junit5" target="_blank"><img alt="JUnitorg." src="https://img.shields.io/github/stars/junit-team/junit5?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Unity" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-open-project-1-2.png" /></td>
-        <td>Collaboration</td>
-        <td>C#</td>
-        <td><a href="http://unity.com/open-projects" target="_blank">Unity</a></td>
-        <td>Unity Open Project #1: Chop Chop</td>
-        <th><a href="https://github.com/UnityTechnologies/open-project-1" target="_blank"><img alt="Unity" src="https://img.shields.io/github/stars/UnityTechnologies/open-project-1?style=social" /></a></th>
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="Medusa" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-medusa.jpg" /></td>
@@ -1119,14 +1127,6 @@
         <td><a href="https://github.com/Loki-Astari/ThorsSerializer" target="_blank">ThorsSerializer</a></td>
         <td>C++ Serialization library for JSON</td>
         <th><a href="https://github.com/Loki-Astari/ThorsSerializer" target="_blank"><img alt="ThorsSerializer" src="https://img.shields.io/github/stars/Loki-Astari/ThorsSerializer?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Fenv" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-Fenv.png" /></td>
-        <td>Miscellaneous</td>
-        <td>Python</td>
-        <td><a href="https://watchakorn-18k.github.io/Fenv/" target="_blank">Fenv</a></td>
-        <td><g-emoji class="g-emoji" alias="fast_forward" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/23e9.png">⏩</g-emoji> Module for Generate a folder, establish a virtual environment with a single command. </td>
-        <th><a href="https://github.com/watchakorn-18k/Fenv" target="_blank"><img alt="Fenv" src="https://img.shields.io/github/stars/watchakorn-18k/Fenv?style=social" /></a></th>
     </tr>
 
 </table>
@@ -4670,6 +4670,14 @@
         <th><a href="https://github.com/UnityTechnologies/open-project-1" target="_blank"><img alt="Unity" src="https://img.shields.io/github/stars/UnityTechnologies/open-project-1?style=social" /></a></th>
     </tr>
     <tr>
+        <td nowrap="nowrap"><img width="33" alt="inlang" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-inlang.png" /></td>
+        <td>Collaboration</td>
+        <td>TypeScript</td>
+        <td><a href="https://inlang.com" target="_blank">inlang</a></td>
+        <td>globalization infrastructure for software &amp;&amp; version control for apps</td>
+        <th><a href="https://github.com/inlang/inlang" target="_blank"><img alt="inlang" src="https://img.shields.io/github/stars/inlang/inlang?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="Danger" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-danger.png" /></td>
         <td>Collaboration</td>
         <td>Ruby</td>
@@ -6215,6 +6223,22 @@
         <td>Python API for Tesla Powerwall and Solar Power Data</td>
         <th><a href="https://github.com/jasonacox/pypowerwall" target="_blank"><img alt="pyPowerwall" src="https://img.shields.io/github/stars/jasonacox/pypowerwall?style=social" /></a></th>
     </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Wayne" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-wayne.png" /></td>
+        <td>Infrastructure</td>
+        <td>JavaScript</td>
+        <td><a href="https://jcubic.github.io/wayne" target="_blank">Wayne</a></td>
+        <td>Service Worker Routing library for in browser HTTP requests</td>
+        <th><a href="https://github.com/jcubic/wayne" target="_blank"><img alt="Wayne" src="https://img.shields.io/github/stars/jcubic/wayne?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Sysend" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-sysend.js.png" /></td>
+        <td>Infrastructure</td>
+        <td>JavaScript</td>
+        <td><a href="https://github.com/jcubic/sysend.js" target="_blank">Sysend</a></td>
+        <td>Web application synchronization between different tabs</td>
+        <th><a href="https://github.com/jcubic/sysend.js" target="_blank"><img alt="Sysend" src="https://img.shields.io/github/stars/jcubic/sysend.js?style=social" /></a></th>
+    </tr>
 
 </table>
 
@@ -6349,6 +6373,14 @@
         <td><a href="https://openstatus.dev" target="_blank">OpenStatus</a></td>
         <td>The open-source status page</td>
         <th><a href="https://github.com/openstatusHQ/openstatus" target="_blank"><img alt="OpenStatus" src="https://img.shields.io/github/stars/openstatusHQ/openstatus?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="inlang" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-inlang.png" /></td>
+        <td>Collaboration</td>
+        <td>TypeScript</td>
+        <td><a href="https://inlang.com" target="_blank">inlang</a></td>
+        <td>globalization infrastructure for software &amp;&amp; version control for apps</td>
+        <th><a href="https://github.com/inlang/inlang" target="_blank"><img alt="inlang" src="https://img.shields.io/github/stars/inlang/inlang?style=social" /></a></th>
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="Medusa" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-medusa.jpg" /></td>
@@ -8798,6 +8830,22 @@
         <td>An extensive math library for JavaScript and Node.js</td>
         <th><a href="https://github.com/josdejong/mathjs" target="_blank"><img alt="Math.js" src="https://img.shields.io/github/stars/josdejong/mathjs?style=social" /></a></th>
     </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Wayne" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-wayne.png" /></td>
+        <td>Infrastructure</td>
+        <td>JavaScript</td>
+        <td><a href="https://jcubic.github.io/wayne" target="_blank">Wayne</a></td>
+        <td>Service Worker Routing library for in browser HTTP requests</td>
+        <th><a href="https://github.com/jcubic/wayne" target="_blank"><img alt="Wayne" src="https://img.shields.io/github/stars/jcubic/wayne?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Sysend" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-sysend.js.png" /></td>
+        <td>Infrastructure</td>
+        <td>JavaScript</td>
+        <td><a href="https://github.com/jcubic/sysend.js" target="_blank">Sysend</a></td>
+        <td>Web application synchronization between different tabs</td>
+        <th><a href="https://github.com/jcubic/sysend.js" target="_blank"><img alt="Sysend" src="https://img.shields.io/github/stars/jcubic/sysend.js?style=social" /></a></th>
+    </tr>
 
 </table>
 
@@ -8835,6 +8883,228 @@
         <td><a href="http://www.ntop.org" target="_blank">ntop</a></td>
         <td>Web-based Traffic and Security Network Traffic Monitoring</td>
         <th><a href="https://github.com/ntop/ntopng" target="_blank"><img alt="ntop" src="https://img.shields.io/github/stars/ntop/ntopng?style=social" /></a></th>
+    </tr>
+
+</table>
+
+<br /><br />
+<h2 id="c">Top 20 C# libraries</h2>
+<table>
+    <tr>
+        <th>Icon</th>
+        <th>Category</th>
+        <th>Language</th>
+        <th>Name</th>
+        <th>Description</th>
+        <th>Stargazers</th>
+    </tr>
+        <tr>
+        <td nowrap="nowrap"><img width="33" alt="Unity" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-open-project-1-2.png" /></td>
+        <td>Collaboration</td>
+        <td>C#</td>
+        <td><a href="http://unity.com/open-projects" target="_blank">Unity</a></td>
+        <td>Unity Open Project #1: Chop Chop</td>
+        <th><a href="https://github.com/UnityTechnologies/open-project-1" target="_blank"><img alt="Unity" src="https://img.shields.io/github/stars/UnityTechnologies/open-project-1?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="MoZhiMusicPlayer" src="https://libraries.github20k.com/images/uploads/2023/06/newshot-MoZhiMusicPlayer.jpg" /></td>
+        <td>Analytics</td>
+        <td>C#</td>
+        <td><a href="https://github.com/Super-Badmen-Viper/MoZhiMusicPlayer" target="_blank">MoZhiMusicPlayer</a></td>
+        <td>MusicPlayer，基于dotNET_ C#_ WPF的开源音乐软件</td>
+        <th><a href="https://github.com/Super-Badmen-Viper/MoZhiMusicPlayer" target="_blank"><img alt="MoZhiMusicPlayer" src="https://img.shields.io/github/stars/Super-Badmen-Viper/MoZhiMusicPlayer?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="StackExchange.Redis" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-StackExchange.Redis_.png" /></td>
+        <td>Databases</td>
+        <td>C#</td>
+        <td><a href="https://stackexchange.github.io/StackExchange.Redis/" target="_blank">StackExchange.Redis</a></td>
+        <td>General purpose redis client</td>
+        <th><a href="https://github.com/StackExchange/StackExchange.Redis" target="_blank"><img alt="StackExchange.Redis" src="https://img.shields.io/github/stars/StackExchange/StackExchange.Redis?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Eventual Shop" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-EventualShop.jpg" /></td>
+        <td>Miscellaneous</td>
+        <td>C#</td>
+        <td><a href="https://github.com/AntonioFalcaoJr/EventualShop/blob/release/README.md#bulb-about" target="_blank">Eventual Shop</a></td>
+        <td>A state-of-the-art distributed system using Reactive DDD as uncertainty modeling, Event Storming as subdomain decomposition, Event Sourcing as an eventual persistence mechanism, CQRS, Async Project…</td>
+        <th><a href="https://github.com/AntonioFalcaoJr/EventualShop" target="_blank"><img alt="Eventual Shop" src="https://img.shields.io/github/stars/AntonioFalcaoJr/EventualShop?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="SmartImage" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-SmartImage.png" /></td>
+        <td>Productivity</td>
+        <td>C#</td>
+        <td><a href="https://github.com/Decimation/SmartImage" target="_blank">SmartImage</a></td>
+        <td>Reverse image search tool (SauceNao, IQDB, Ascii2D, trace.moe, and more)</td>
+        <th><a href="https://github.com/Decimation/SmartImage" target="_blank"><img alt="SmartImage" src="https://img.shields.io/github/stars/Decimation/SmartImage?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="AutoFilterer" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-AutoFilterer.png" /></td>
+        <td>Infrastructure</td>
+        <td>C#</td>
+        <td><a href="https://github.com/enisn/AutoFilterer" target="_blank">AutoFilterer</a></td>
+        <td>AutoFilterer is a mini filtering framework library for dotnet. The main purpose of the library is to generate LINQ expressions for Entities over DTOs automatically. The first aim is to be compatibl…</td>
+        <th><a href="https://github.com/enisn/AutoFilterer" target="_blank"><img alt="AutoFilterer" src="https://img.shields.io/github/stars/enisn/AutoFilterer?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="WatchDog" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-WatchDog.jpg" /></td>
+        <td>Observability</td>
+        <td>C#</td>
+        <td><a href="https://github.com/IzyPro/WatchDog" target="_blank">WatchDog</a></td>
+        <td>WatchDog is a Realtime Message, Event, HTTP (Request &amp; Response) and Exception logger and viewer for ASP.Net Core Web Apps and APIs. It allows developers log and view messages, events, http request…</td>
+        <th><a href="https://github.com/IzyPro/WatchDog" target="_blank"><img alt="WatchDog" src="https://img.shields.io/github/stars/IzyPro/WatchDog?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="SystemTrayMenu" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-SystemTrayMenu.jpg" /></td>
+        <td>Productivity</td>
+        <td>C#</td>
+        <td><a href="http://hofknecht.eu/systemtraymenu/" target="_blank">SystemTrayMenu</a></td>
+        <td>SystemTrayMenu - Browse and open your files easily</td>
+        <th><a href="https://github.com/Hofknecht/SystemTrayMenu" target="_blank"><img alt="SystemTrayMenu" src="https://img.shields.io/github/stars/Hofknecht/SystemTrayMenu?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="MudBlazor" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-MudBlazor.png" /></td>
+        <td>Infrastructure</td>
+        <td>C#</td>
+        <td><a href="http://mudblazor.com" target="_blank">MudBlazor</a></td>
+        <td>Blazor Component Library based on Material design with an emphasis on ease of use. Mainly written in C# with Javascript kept to a bare minimum it empowers .NET developers to easily debug it if needed.</td>
+        <th><a href="https://github.com/MudBlazor/MudBlazor" target="_blank"><img alt="MudBlazor" src="https://img.shields.io/github/stars/MudBlazor/MudBlazor?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="MassTransit" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-MassTransit.png" /></td>
+        <td>Infrastructure</td>
+        <td>C#</td>
+        <td><a href="https://masstransit.io/" target="_blank">MassTransit</a></td>
+        <td>Distributed Application Framework for .NET</td>
+        <th><a href="https://github.com/MassTransit/MassTransit" target="_blank"><img alt="MassTransit" src="https://img.shields.io/github/stars/MassTransit/MassTransit?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="QuartzNET" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-quartznet.png" /></td>
+        <td>Infrastructure</td>
+        <td>C#</td>
+        <td><a href="http://www.quartz-scheduler.net/" target="_blank">QuartzNET</a></td>
+        <td>Quartz Enterprise Scheduler .NET</td>
+        <th><a href="https://github.com/quartznet/quartznet" target="_blank"><img alt="QuartzNET" src="https://img.shields.io/github/stars/quartznet/quartznet?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="NLog/NLog" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-NLog-1.png" /></td>
+        <td>Observability</td>
+        <td>C#</td>
+        <td><a href="https://nlog-project.org" target="_blank">NLog/NLog</a></td>
+        <td>NLog - Advanced and Structured Logging for Various .NET Platforms</td>
+        <th><a href="https://github.com/NLog/NLog" target="_blank"><img alt="NLog/NLog" src="https://img.shields.io/github/stars/NLog/NLog?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="dotnetcore/CAP" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-CAP-1.png" /></td>
+        <td>Infrastructure</td>
+        <td>C#</td>
+        <td><a href="http://cap.dotnetcore.xyz" target="_blank">dotnetcore/CAP</a></td>
+        <td>Distributed transaction solution in micro-service base on eventually consistency, also an eventbus with Outbox pattern</td>
+        <th><a href="https://github.com/dotnetcore/CAP" target="_blank"><img alt="dotnetcore/CAP" src="https://img.shields.io/github/stars/dotnetcore/CAP?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="FASTER" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-FASTER-1.png" /></td>
+        <td>Databases</td>
+        <td>C#</td>
+        <td><a href="https://aka.ms/FASTER" target="_blank">FASTER</a></td>
+        <td>Fast persistent recoverable log and key-value store + cache, in C# and C++.</td>
+        <th><a href="https://github.com/microsoft/FASTER" target="_blank"><img alt="FASTER" src="https://img.shields.io/github/stars/microsoft/FASTER?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Blazorise" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-Blazorise.png" /></td>
+        <td>Infrastructure</td>
+        <td>C#</td>
+        <td><a href="https://blazorise.com/" target="_blank">Blazorise</a></td>
+        <td>Blazorise is a component library built on top of Blazor with support for CSS frameworks like Bootstrap, Bulma, AntDesign, and Material.</td>
+        <th><a href="https://github.com/Megabit/Blazorise" target="_blank"><img alt="Blazorise" src="https://img.shields.io/github/stars/Megabit/Blazorise?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="LegendsOfHeroes" src="https://libraries.github20k.com/images/uploads/2023/06/newshot-Legends-Of-Heroes.png" /></td>
+        <td>Productivity</td>
+        <td>C#</td>
+        <td><a href="https://github.com/FlameskyDexive/Legends-Of-Heroes" target="_blank">LegendsOfHeroes</a></td>
+        <td>A battle of balls game, lol style. 基于ET 7.2的双端C#(.net7 + Unity3d)多人在线英雄联盟风格的球球大作战。</td>
+        <th><a href="https://github.com/FlameskyDexive/Legends-Of-Heroes" target="_blank"><img alt="LegendsOfHeroes" src="https://img.shields.io/github/stars/FlameskyDexive/Legends-Of-Heroes?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="BarcodeScanner.Mobile" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-BarcodeScanner.Mobile.png" /></td>
+        <td>Productivity</td>
+        <td>C#</td>
+        <td><a href="https://github.com/JimmyPun610/BarcodeScanner.Mobile" target="_blank">BarcodeScanner.Mobile</a></td>
+        <td>Barcode Scanner using GoogleVision API for Xamarin Form, Maui</td>
+        <th><a href="https://github.com/JimmyPun610/BarcodeScanner.Mobile" target="_blank"><img alt="BarcodeScanner.Mobile" src="https://img.shields.io/github/stars/JimmyPun610/BarcodeScanner.Mobile?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Crispy Waffle" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-CrispyWaffle.jpg" /></td>
+        <td>Productivity</td>
+        <td>C#</td>
+        <td><a href="https://guibranco.github.io/CrispyWaffle/" target="_blank">Crispy Waffle</a></td>
+        <td><g-emoji class="g-emoji" alias="toolbox" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f9f0.png">?</g-emoji> <g-emoji class="g-emoji" alias="hammer_and_wrench" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f6e0.png">?️</g-emoji> Crispy Waffle project - toolkit for .NET projects</td>
+        <th><a href="https://github.com/guibranco/CrispyWaffle" target="_blank"><img alt="Crispy Waffle" src="https://img.shields.io/github/stars/guibranco/CrispyWaffle?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Via CEP" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-ViaCEP.jpg" /></td>
+        <td>Miscellaneous</td>
+        <td>C#</td>
+        <td><a href="https://guibranco.github.io/ViaCEP/" target="_blank">Via CEP</a></td>
+        <td><g-emoji class="g-emoji" alias="brazil" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f1e7-1f1f7.png">??</g-emoji> <g-emoji class="g-emoji" alias="round_pushpin" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4cd.png">?</g-emoji> ViaCEP client wrapper for .NET projects</td>
+        <th><a href="https://github.com/guibranco/ViaCEP" target="_blank"><img alt="Via CEP" src="https://img.shields.io/github/stars/guibranco/ViaCEP?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="CEP Aberto" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-CEPAberto.jpg" /></td>
+        <td>Miscellaneous</td>
+        <td>C#</td>
+        <td><a href="https://guibranco.github.io/CEPAberto/" target="_blank">CEP Aberto</a></td>
+        <td><g-emoji class="g-emoji" alias="brazil" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f1e7-1f1f7.png">??</g-emoji> <g-emoji class="g-emoji" alias="round_pushpin" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4cd.png">?</g-emoji> CEPAberto API client wrapper for .NET projects</td>
+        <th><a href="https://github.com/guibranco/CEPAberto" target="_blank"><img alt="CEP Aberto" src="https://img.shields.io/github/stars/guibranco/CEPAberto?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="VTEX SDK .NET" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-VTEX-SDK-dotnet-1.jpg" /></td>
+        <td>Miscellaneous</td>
+        <td>C#</td>
+        <td><a href="https://guibranco.github.io/VTEX-SDK-dotnet/" target="_blank">VTEX SDK .NET</a></td>
+        <td><g-emoji class="g-emoji" alias="shopping_cart" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f6d2.png">?</g-emoji> <g-emoji class="g-emoji" alias="gear" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2699.png">⚙️</g-emoji> VTEX platform .NET SDK</td>
+        <th><a href="https://github.com/guibranco/VTEX-SDK-dotnet" target="_blank"><img alt="VTEX SDK .NET" src="https://img.shields.io/github/stars/guibranco/VTEX-SDK-dotnet?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="GuiStracini SDK Builder" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-GuiStracini.SDKBuilder.jpg" /></td>
+        <td>Productivity</td>
+        <td>C#</td>
+        <td><a href="https://guibranco.github.io/GuiStracini.SDKBuilder/" target="_blank">GuiStracini SDK Builder</a></td>
+        <td><g-emoji class="g-emoji" alias="construction" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f6a7.png">?</g-emoji> <g-emoji class="g-emoji" alias="gear" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2699.png">⚙️</g-emoji> A SDK framework that helps create a .NET SDK project for API wrappers/clients</td>
+        <th><a href="https://github.com/guibranco/GuiStracini.SDKBuilder" target="_blank"><img alt="GuiStracini SDK Builder" src="https://img.shields.io/github/stars/guibranco/GuiStracini.SDKBuilder?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Plugin.LocalNotification" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-Plugin.LocalNotification.jpg" /></td>
+        <td>Notifications</td>
+        <td>C#</td>
+        <td><a href="https://github.com/thudugala/Plugin.LocalNotification" target="_blank">Plugin.LocalNotification</a></td>
+        <td>The local notification plugin provides a way to show local notifications from .Net MAUI and Xamarin Forms apps .</td>
+        <th><a href="https://github.com/thudugala/Plugin.LocalNotification" target="_blank"><img alt="Plugin.LocalNotification" src="https://img.shields.io/github/stars/thudugala/Plugin.LocalNotification?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="InputKit" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-Xamarin.Forms_.InputKit.png" /></td>
+        <td>Infrastructure</td>
+        <td>C#</td>
+        <td><a href="https://github.com/enisn/Xamarin.Forms.InputKit" target="_blank">InputKit</a></td>
+        <td>CheckBox, Radio Button, Labeled Slider, Dropdowns etc. </td>
+        <th><a href="https://github.com/enisn/Xamarin.Forms.InputKit" target="_blank"><img alt="InputKit" src="https://img.shields.io/github/stars/enisn/Xamarin.Forms.InputKit?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="UraniumUI" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-UraniumUI.png" /></td>
+        <td>Infrastructure</td>
+        <td>C#</td>
+        <td><a href="https://github.com/enisn/UraniumUI" target="_blank">UraniumUI</a></td>
+        <td>Uranium is a Free &amp; Open-Source UI Kit for MAUI.</td>
+        <th><a href="https://github.com/enisn/UraniumUI" target="_blank"><img alt="UraniumUI" src="https://img.shields.io/github/stars/enisn/UraniumUI?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Uno Platform" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-uno.png" /></td>
+        <td>Productivity</td>
+        <td>C#</td>
+        <td><a href="https://platform.uno/" target="_blank">Uno Platform</a></td>
+        <td>Build Mobile, Desktop and WebAssembly apps with C# and XAML. Today. Open source and professionally supported.</td>
+        <th><a href="https://github.com/unoplatform/uno" target="_blank"><img alt="Uno Platform" src="https://img.shields.io/github/stars/unoplatform/uno?style=social" /></a></th>
     </tr>
 
 </table>
@@ -9191,228 +9461,6 @@
         <td><a href="https://rho-mu.cicirello.org" target="_blank">ρμ</a></td>
         <td>ρμ - a Java library of Randomization enHancements and Other Math Utilities</td>
         <th><a href="https://github.com/cicirello/rho-mu" target="_blank"><img alt="ρμ" src="https://img.shields.io/github/stars/cicirello/rho-mu?style=social" /></a></th>
-    </tr>
-
-</table>
-
-<br /><br />
-<h2 id="c">Top 20 C# libraries</h2>
-<table>
-    <tr>
-        <th>Icon</th>
-        <th>Category</th>
-        <th>Language</th>
-        <th>Name</th>
-        <th>Description</th>
-        <th>Stargazers</th>
-    </tr>
-        <tr>
-        <td nowrap="nowrap"><img width="33" alt="Unity" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-open-project-1-2.png" /></td>
-        <td>Collaboration</td>
-        <td>C#</td>
-        <td><a href="http://unity.com/open-projects" target="_blank">Unity</a></td>
-        <td>Unity Open Project #1: Chop Chop</td>
-        <th><a href="https://github.com/UnityTechnologies/open-project-1" target="_blank"><img alt="Unity" src="https://img.shields.io/github/stars/UnityTechnologies/open-project-1?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="MoZhiMusicPlayer" src="https://libraries.github20k.com/images/uploads/2023/06/newshot-MoZhiMusicPlayer.jpg" /></td>
-        <td>Analytics</td>
-        <td>C#</td>
-        <td><a href="https://github.com/Super-Badmen-Viper/MoZhiMusicPlayer" target="_blank">MoZhiMusicPlayer</a></td>
-        <td>MusicPlayer，基于dotNET_ C#_ WPF的开源音乐软件</td>
-        <th><a href="https://github.com/Super-Badmen-Viper/MoZhiMusicPlayer" target="_blank"><img alt="MoZhiMusicPlayer" src="https://img.shields.io/github/stars/Super-Badmen-Viper/MoZhiMusicPlayer?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="StackExchange.Redis" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-StackExchange.Redis_.png" /></td>
-        <td>Databases</td>
-        <td>C#</td>
-        <td><a href="https://stackexchange.github.io/StackExchange.Redis/" target="_blank">StackExchange.Redis</a></td>
-        <td>General purpose redis client</td>
-        <th><a href="https://github.com/StackExchange/StackExchange.Redis" target="_blank"><img alt="StackExchange.Redis" src="https://img.shields.io/github/stars/StackExchange/StackExchange.Redis?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Eventual Shop" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-EventualShop.jpg" /></td>
-        <td>Miscellaneous</td>
-        <td>C#</td>
-        <td><a href="https://github.com/AntonioFalcaoJr/EventualShop/blob/release/README.md#bulb-about" target="_blank">Eventual Shop</a></td>
-        <td>A state-of-the-art distributed system using Reactive DDD as uncertainty modeling, Event Storming as subdomain decomposition, Event Sourcing as an eventual persistence mechanism, CQRS, Async Project…</td>
-        <th><a href="https://github.com/AntonioFalcaoJr/EventualShop" target="_blank"><img alt="Eventual Shop" src="https://img.shields.io/github/stars/AntonioFalcaoJr/EventualShop?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="SmartImage" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-SmartImage.png" /></td>
-        <td>Productivity</td>
-        <td>C#</td>
-        <td><a href="https://github.com/Decimation/SmartImage" target="_blank">SmartImage</a></td>
-        <td>Reverse image search tool (SauceNao, IQDB, Ascii2D, trace.moe, and more)</td>
-        <th><a href="https://github.com/Decimation/SmartImage" target="_blank"><img alt="SmartImage" src="https://img.shields.io/github/stars/Decimation/SmartImage?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="AutoFilterer" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-AutoFilterer.png" /></td>
-        <td>Infrastructure</td>
-        <td>C#</td>
-        <td><a href="https://github.com/enisn/AutoFilterer" target="_blank">AutoFilterer</a></td>
-        <td>AutoFilterer is a mini filtering framework library for dotnet. The main purpose of the library is to generate LINQ expressions for Entities over DTOs automatically. The first aim is to be compatibl…</td>
-        <th><a href="https://github.com/enisn/AutoFilterer" target="_blank"><img alt="AutoFilterer" src="https://img.shields.io/github/stars/enisn/AutoFilterer?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="WatchDog" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-WatchDog.jpg" /></td>
-        <td>Observability</td>
-        <td>C#</td>
-        <td><a href="https://github.com/IzyPro/WatchDog" target="_blank">WatchDog</a></td>
-        <td>WatchDog is a Realtime Message, Event, HTTP (Request &amp; Response) and Exception logger and viewer for ASP.Net Core Web Apps and APIs. It allows developers log and view messages, events, http request…</td>
-        <th><a href="https://github.com/IzyPro/WatchDog" target="_blank"><img alt="WatchDog" src="https://img.shields.io/github/stars/IzyPro/WatchDog?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="SystemTrayMenu" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-SystemTrayMenu.jpg" /></td>
-        <td>Productivity</td>
-        <td>C#</td>
-        <td><a href="http://hofknecht.eu/systemtraymenu/" target="_blank">SystemTrayMenu</a></td>
-        <td>SystemTrayMenu - Browse and open your files easily</td>
-        <th><a href="https://github.com/Hofknecht/SystemTrayMenu" target="_blank"><img alt="SystemTrayMenu" src="https://img.shields.io/github/stars/Hofknecht/SystemTrayMenu?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="MudBlazor" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-MudBlazor.png" /></td>
-        <td>Infrastructure</td>
-        <td>C#</td>
-        <td><a href="http://mudblazor.com" target="_blank">MudBlazor</a></td>
-        <td>Blazor Component Library based on Material design with an emphasis on ease of use. Mainly written in C# with Javascript kept to a bare minimum it empowers .NET developers to easily debug it if needed.</td>
-        <th><a href="https://github.com/MudBlazor/MudBlazor" target="_blank"><img alt="MudBlazor" src="https://img.shields.io/github/stars/MudBlazor/MudBlazor?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="MassTransit" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-MassTransit.png" /></td>
-        <td>Infrastructure</td>
-        <td>C#</td>
-        <td><a href="https://masstransit.io/" target="_blank">MassTransit</a></td>
-        <td>Distributed Application Framework for .NET</td>
-        <th><a href="https://github.com/MassTransit/MassTransit" target="_blank"><img alt="MassTransit" src="https://img.shields.io/github/stars/MassTransit/MassTransit?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="QuartzNET" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-quartznet.png" /></td>
-        <td>Infrastructure</td>
-        <td>C#</td>
-        <td><a href="http://www.quartz-scheduler.net/" target="_blank">QuartzNET</a></td>
-        <td>Quartz Enterprise Scheduler .NET</td>
-        <th><a href="https://github.com/quartznet/quartznet" target="_blank"><img alt="QuartzNET" src="https://img.shields.io/github/stars/quartznet/quartznet?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="NLog/NLog" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-NLog-1.png" /></td>
-        <td>Observability</td>
-        <td>C#</td>
-        <td><a href="https://nlog-project.org" target="_blank">NLog/NLog</a></td>
-        <td>NLog - Advanced and Structured Logging for Various .NET Platforms</td>
-        <th><a href="https://github.com/NLog/NLog" target="_blank"><img alt="NLog/NLog" src="https://img.shields.io/github/stars/NLog/NLog?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="dotnetcore/CAP" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-CAP-1.png" /></td>
-        <td>Infrastructure</td>
-        <td>C#</td>
-        <td><a href="http://cap.dotnetcore.xyz" target="_blank">dotnetcore/CAP</a></td>
-        <td>Distributed transaction solution in micro-service base on eventually consistency, also an eventbus with Outbox pattern</td>
-        <th><a href="https://github.com/dotnetcore/CAP" target="_blank"><img alt="dotnetcore/CAP" src="https://img.shields.io/github/stars/dotnetcore/CAP?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="FASTER" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-FASTER-1.png" /></td>
-        <td>Databases</td>
-        <td>C#</td>
-        <td><a href="https://aka.ms/FASTER" target="_blank">FASTER</a></td>
-        <td>Fast persistent recoverable log and key-value store + cache, in C# and C++.</td>
-        <th><a href="https://github.com/microsoft/FASTER" target="_blank"><img alt="FASTER" src="https://img.shields.io/github/stars/microsoft/FASTER?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Blazorise" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-Blazorise.png" /></td>
-        <td>Infrastructure</td>
-        <td>C#</td>
-        <td><a href="https://blazorise.com/" target="_blank">Blazorise</a></td>
-        <td>Blazorise is a component library built on top of Blazor with support for CSS frameworks like Bootstrap, Bulma, AntDesign, and Material.</td>
-        <th><a href="https://github.com/Megabit/Blazorise" target="_blank"><img alt="Blazorise" src="https://img.shields.io/github/stars/Megabit/Blazorise?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="LegendsOfHeroes" src="https://libraries.github20k.com/images/uploads/2023/06/newshot-Legends-Of-Heroes.png" /></td>
-        <td>Productivity</td>
-        <td>C#</td>
-        <td><a href="https://github.com/FlameskyDexive/Legends-Of-Heroes" target="_blank">LegendsOfHeroes</a></td>
-        <td>A battle of balls game, lol style. 基于ET 7.2的双端C#(.net7 + Unity3d)多人在线英雄联盟风格的球球大作战。</td>
-        <th><a href="https://github.com/FlameskyDexive/Legends-Of-Heroes" target="_blank"><img alt="LegendsOfHeroes" src="https://img.shields.io/github/stars/FlameskyDexive/Legends-Of-Heroes?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="BarcodeScanner.Mobile" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-BarcodeScanner.Mobile.png" /></td>
-        <td>Productivity</td>
-        <td>C#</td>
-        <td><a href="https://github.com/JimmyPun610/BarcodeScanner.Mobile" target="_blank">BarcodeScanner.Mobile</a></td>
-        <td>Barcode Scanner using GoogleVision API for Xamarin Form, Maui</td>
-        <th><a href="https://github.com/JimmyPun610/BarcodeScanner.Mobile" target="_blank"><img alt="BarcodeScanner.Mobile" src="https://img.shields.io/github/stars/JimmyPun610/BarcodeScanner.Mobile?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Crispy Waffle" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-CrispyWaffle.jpg" /></td>
-        <td>Productivity</td>
-        <td>C#</td>
-        <td><a href="https://guibranco.github.io/CrispyWaffle/" target="_blank">Crispy Waffle</a></td>
-        <td><g-emoji class="g-emoji" alias="toolbox" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f9f0.png">?</g-emoji> <g-emoji class="g-emoji" alias="hammer_and_wrench" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f6e0.png">?️</g-emoji> Crispy Waffle project - toolkit for .NET projects</td>
-        <th><a href="https://github.com/guibranco/CrispyWaffle" target="_blank"><img alt="Crispy Waffle" src="https://img.shields.io/github/stars/guibranco/CrispyWaffle?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Via CEP" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-ViaCEP.jpg" /></td>
-        <td>Miscellaneous</td>
-        <td>C#</td>
-        <td><a href="https://guibranco.github.io/ViaCEP/" target="_blank">Via CEP</a></td>
-        <td><g-emoji class="g-emoji" alias="brazil" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f1e7-1f1f7.png">??</g-emoji> <g-emoji class="g-emoji" alias="round_pushpin" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4cd.png">?</g-emoji> ViaCEP client wrapper for .NET projects</td>
-        <th><a href="https://github.com/guibranco/ViaCEP" target="_blank"><img alt="Via CEP" src="https://img.shields.io/github/stars/guibranco/ViaCEP?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="CEP Aberto" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-CEPAberto.jpg" /></td>
-        <td>Miscellaneous</td>
-        <td>C#</td>
-        <td><a href="https://guibranco.github.io/CEPAberto/" target="_blank">CEP Aberto</a></td>
-        <td><g-emoji class="g-emoji" alias="brazil" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f1e7-1f1f7.png">??</g-emoji> <g-emoji class="g-emoji" alias="round_pushpin" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4cd.png">?</g-emoji> CEPAberto API client wrapper for .NET projects</td>
-        <th><a href="https://github.com/guibranco/CEPAberto" target="_blank"><img alt="CEP Aberto" src="https://img.shields.io/github/stars/guibranco/CEPAberto?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="VTEX SDK .NET" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-VTEX-SDK-dotnet-1.jpg" /></td>
-        <td>Miscellaneous</td>
-        <td>C#</td>
-        <td><a href="https://guibranco.github.io/VTEX-SDK-dotnet/" target="_blank">VTEX SDK .NET</a></td>
-        <td><g-emoji class="g-emoji" alias="shopping_cart" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f6d2.png">?</g-emoji> <g-emoji class="g-emoji" alias="gear" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2699.png">⚙️</g-emoji> VTEX platform .NET SDK</td>
-        <th><a href="https://github.com/guibranco/VTEX-SDK-dotnet" target="_blank"><img alt="VTEX SDK .NET" src="https://img.shields.io/github/stars/guibranco/VTEX-SDK-dotnet?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="GuiStracini SDK Builder" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-GuiStracini.SDKBuilder.jpg" /></td>
-        <td>Productivity</td>
-        <td>C#</td>
-        <td><a href="https://guibranco.github.io/GuiStracini.SDKBuilder/" target="_blank">GuiStracini SDK Builder</a></td>
-        <td><g-emoji class="g-emoji" alias="construction" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f6a7.png">?</g-emoji> <g-emoji class="g-emoji" alias="gear" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2699.png">⚙️</g-emoji> A SDK framework that helps create a .NET SDK project for API wrappers/clients</td>
-        <th><a href="https://github.com/guibranco/GuiStracini.SDKBuilder" target="_blank"><img alt="GuiStracini SDK Builder" src="https://img.shields.io/github/stars/guibranco/GuiStracini.SDKBuilder?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Plugin.LocalNotification" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-Plugin.LocalNotification.jpg" /></td>
-        <td>Notifications</td>
-        <td>C#</td>
-        <td><a href="https://github.com/thudugala/Plugin.LocalNotification" target="_blank">Plugin.LocalNotification</a></td>
-        <td>The local notification plugin provides a way to show local notifications from .Net MAUI and Xamarin Forms apps .</td>
-        <th><a href="https://github.com/thudugala/Plugin.LocalNotification" target="_blank"><img alt="Plugin.LocalNotification" src="https://img.shields.io/github/stars/thudugala/Plugin.LocalNotification?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="InputKit" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-Xamarin.Forms_.InputKit.png" /></td>
-        <td>Infrastructure</td>
-        <td>C#</td>
-        <td><a href="https://github.com/enisn/Xamarin.Forms.InputKit" target="_blank">InputKit</a></td>
-        <td>CheckBox, Radio Button, Labeled Slider, Dropdowns etc. </td>
-        <th><a href="https://github.com/enisn/Xamarin.Forms.InputKit" target="_blank"><img alt="InputKit" src="https://img.shields.io/github/stars/enisn/Xamarin.Forms.InputKit?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="UraniumUI" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-UraniumUI.png" /></td>
-        <td>Infrastructure</td>
-        <td>C#</td>
-        <td><a href="https://github.com/enisn/UraniumUI" target="_blank">UraniumUI</a></td>
-        <td>Uranium is a Free &amp; Open-Source UI Kit for MAUI.</td>
-        <th><a href="https://github.com/enisn/UraniumUI" target="_blank"><img alt="UraniumUI" src="https://img.shields.io/github/stars/enisn/UraniumUI?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Uno Platform" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-uno.png" /></td>
-        <td>Productivity</td>
-        <td>C#</td>
-        <td><a href="https://platform.uno/" target="_blank">Uno Platform</a></td>
-        <td>Build Mobile, Desktop and WebAssembly apps with C# and XAML. Today. Open source and professionally supported.</td>
-        <th><a href="https://github.com/unoplatform/uno" target="_blank"><img alt="Uno Platform" src="https://img.shields.io/github/stars/unoplatform/uno?style=social" /></a></th>
     </tr>
 
 </table>
