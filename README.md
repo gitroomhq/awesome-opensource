@@ -657,6 +657,14 @@
         <th><a href="https://github.com/BoykaFramework/boyka-framework" target="_blank"><img alt="boyka-framework" src="https://img.shields.io/github/stars/BoykaFramework/boyka-framework?style=social" /></a></th>
     </tr>
     <tr>
+        <td nowrap="nowrap"><img width="33" alt="Chat Analytics" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-chat-analytics.jpg" /></td>
+        <td>Analytics</td>
+        <td>TypeScript</td>
+        <td><a href="https://chatanalytics.app" target="_blank">Chat Analytics</a></td>
+        <td>Generate interactive, beautiful and insightful chat analysis reports</td>
+        <th><a href="https://github.com/mlomb/chat-analytics" target="_blank"><img alt="Chat Analytics" src="https://img.shields.io/github/stars/mlomb/chat-analytics?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="llm-client" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-llm-client-sdk.jpg" /></td>
         <td>Infrastructure</td>
         <td>Python</td>
@@ -967,14 +975,6 @@
         <td><a href="https://github.com/WasiqB/multiple-cucumber-html-reporter/blob/main/README.md" target="_blank">multiple-cucumber-html-reporter</a></td>
         <td>Generate beautiful Cucumber HTML reports</td>
         <th><a href="https://github.com/WasiqB/multiple-cucumber-html-reporter" target="_blank"><img alt="multiple-cucumber-html-reporter" src="https://img.shields.io/github/stars/WasiqB/multiple-cucumber-html-reporter?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Chat Analytics" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-chat-analytics.jpg" /></td>
-        <td>Analytics</td>
-        <td>TypeScript</td>
-        <td><a href="https://chatanalytics.app" target="_blank">Chat Analytics</a></td>
-        <td>Generate interactive, beautiful and insightful chat analysis reports</td>
-        <th><a href="https://github.com/mlomb/chat-analytics" target="_blank"><img alt="Chat Analytics" src="https://img.shields.io/github/stars/mlomb/chat-analytics?style=social" /></a></th>
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="@origranot/ts-logger" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-ts-logger.png" /></td>
@@ -4042,6 +4042,14 @@
         <th><a href="https://github.com/CrowdDotDev/crowd.dev" target="_blank"><img alt="crowddev" src="https://img.shields.io/github/stars/CrowdDotDev/crowd.dev?style=social" /></a></th>
     </tr>
     <tr>
+        <td nowrap="nowrap"><img width="33" alt="Chat Analytics" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-chat-analytics.jpg" /></td>
+        <td>Analytics</td>
+        <td>TypeScript</td>
+        <td><a href="https://chatanalytics.app" target="_blank">Chat Analytics</a></td>
+        <td>Generate interactive, beautiful and insightful chat analysis reports</td>
+        <th><a href="https://github.com/mlomb/chat-analytics" target="_blank"><img alt="Chat Analytics" src="https://img.shields.io/github/stars/mlomb/chat-analytics?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="Aptabase" src="https://libraries.github20k.com/images/uploads/2023/06/newshot-aptabase.png" /></td>
         <td>Analytics</td>
         <td>TypeScript</td>
@@ -4056,14 +4064,6 @@
         <td><a href="https://github.com/Super-Badmen-Viper/MoZhiMusicPlayer" target="_blank">MoZhiMusicPlayer</a></td>
         <td>MusicPlayer，基于dotNET_ C#_ WPF的开源音乐软件</td>
         <th><a href="https://github.com/Super-Badmen-Viper/MoZhiMusicPlayer" target="_blank"><img alt="MoZhiMusicPlayer" src="https://img.shields.io/github/stars/Super-Badmen-Viper/MoZhiMusicPlayer?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Chat Analytics" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-chat-analytics.jpg" /></td>
-        <td>Analytics</td>
-        <td>TypeScript</td>
-        <td><a href="https://chatanalytics.app" target="_blank">Chat Analytics</a></td>
-        <td>Generate interactive, beautiful and insightful chat analysis reports</td>
-        <th><a href="https://github.com/mlomb/chat-analytics" target="_blank"><img alt="Chat Analytics" src="https://img.shields.io/github/stars/mlomb/chat-analytics?style=social" /></a></th>
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="Railtrack" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-railtrack.png" /></td>
@@ -6407,6 +6407,14 @@
         <th><a href="https://github.com/medusajs/medusa" target="_blank"><img alt="Medusa" src="https://img.shields.io/github/stars/medusajs/medusa?style=social" /></a></th>
     </tr>
     <tr>
+        <td nowrap="nowrap"><img width="33" alt="Chat Analytics" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-chat-analytics.jpg" /></td>
+        <td>Analytics</td>
+        <td>TypeScript</td>
+        <td><a href="https://chatanalytics.app" target="_blank">Chat Analytics</a></td>
+        <td>Generate interactive, beautiful and insightful chat analysis reports</td>
+        <th><a href="https://github.com/mlomb/chat-analytics" target="_blank"><img alt="Chat Analytics" src="https://img.shields.io/github/stars/mlomb/chat-analytics?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="Aptabase" src="https://libraries.github20k.com/images/uploads/2023/06/newshot-aptabase.png" /></td>
         <td>Analytics</td>
         <td>TypeScript</td>
@@ -6477,14 +6485,6 @@
         <td><a href="https://infisical.com" target="_blank">Infisical</a></td>
         <td><g-emoji class="g-emoji" alias="infinity" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/267e.png">♾</g-emoji> Infisical is an open-source, end-to-end encrypted platform for secret management: sync secrets across your team/infrastructure and prevent secret leaks.</td>
         <th><a href="https://github.com/Infisical/infisical" target="_blank"><img alt="Infisical" src="https://img.shields.io/github/stars/Infisical/infisical?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Chat Analytics" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-chat-analytics.jpg" /></td>
-        <td>Analytics</td>
-        <td>TypeScript</td>
-        <td><a href="https://chatanalytics.app" target="_blank">Chat Analytics</a></td>
-        <td>Generate interactive, beautiful and insightful chat analysis reports</td>
-        <th><a href="https://github.com/mlomb/chat-analytics" target="_blank"><img alt="Chat Analytics" src="https://img.shields.io/github/stars/mlomb/chat-analytics?style=social" /></a></th>
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="@origranot/ts-logger" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-ts-logger.png" /></td>
