@@ -1352,6 +1352,14 @@
         <th><a href="https://github.com/DNedic/lockfree" target="_blank"><img alt="lockfree" src="https://img.shields.io/github/stars/DNedic/lockfree?style=social" /></a></th>
     </tr>
     <tr>
+        <td nowrap="nowrap"><img width="33" alt="Time Period Library for .NET" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-TimePeriodLibrary.png" /></td>
+        <td>Miscellaneous</td>
+        <td>C#</td>
+        <td><a href="https://github.com/Giannoudis/TimePeriodLibrary" target="_blank">Time Period Library for .NET</a></td>
+        <td>Extensive time period calculations and individual calendar periods.</td>
+        <th><a href="https://github.com/Giannoudis/TimePeriodLibrary" target="_blank"><img alt="Time Period Library for .NET" src="https://img.shields.io/github/stars/Giannoudis/TimePeriodLibrary?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="Cemu Emulator" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-Cemu.png" /></td>
         <td>Miscellaneous</td>
         <td>C++</td>
@@ -2142,14 +2150,6 @@
         <td><a href="https://rho-mu.cicirello.org" target="_blank">ρμ</a></td>
         <td>ρμ - a Java library of Randomization enHancements and Other Math Utilities</td>
         <th><a href="https://github.com/cicirello/rho-mu" target="_blank"><img alt="ρμ" src="https://img.shields.io/github/stars/cicirello/rho-mu?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Time Period Library for .NET" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-TimePeriodLibrary.png" /></td>
-        <td>Miscellaneous</td>
-        <td>C#</td>
-        <td><a href="https://github.com/Giannoudis/TimePeriodLibrary" target="_blank">Time Period Library for .NET</a></td>
-        <td>Extensive time period calculations and individual calendar periods.</td>
-        <th><a href="https://github.com/Giannoudis/TimePeriodLibrary" target="_blank"><img alt="Time Period Library for .NET" src="https://img.shields.io/github/stars/Giannoudis/TimePeriodLibrary?style=social" /></a></th>
     </tr>
 
 </table>
@@ -8987,6 +8987,14 @@
         <th><a href="https://github.com/Hofknecht/SystemTrayMenu" target="_blank"><img alt="SystemTrayMenu" src="https://img.shields.io/github/stars/Hofknecht/SystemTrayMenu?style=social" /></a></th>
     </tr>
     <tr>
+        <td nowrap="nowrap"><img width="33" alt="Time Period Library for .NET" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-TimePeriodLibrary.png" /></td>
+        <td>Miscellaneous</td>
+        <td>C#</td>
+        <td><a href="https://github.com/Giannoudis/TimePeriodLibrary" target="_blank">Time Period Library for .NET</a></td>
+        <td>Extensive time period calculations and individual calendar periods.</td>
+        <th><a href="https://github.com/Giannoudis/TimePeriodLibrary" target="_blank"><img alt="Time Period Library for .NET" src="https://img.shields.io/github/stars/Giannoudis/TimePeriodLibrary?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="MudBlazor" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-MudBlazor.png" /></td>
         <td>Infrastructure</td>
         <td>C#</td>
@@ -9129,14 +9137,6 @@
         <td><a href="https://platform.uno/" target="_blank">Uno Platform</a></td>
         <td>Build Mobile, Desktop and WebAssembly apps with C# and XAML. Today. Open source and professionally supported.</td>
         <th><a href="https://github.com/unoplatform/uno" target="_blank"><img alt="Uno Platform" src="https://img.shields.io/github/stars/unoplatform/uno?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Time Period Library for .NET" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-TimePeriodLibrary.png" /></td>
-        <td>Miscellaneous</td>
-        <td>C#</td>
-        <td><a href="https://github.com/Giannoudis/TimePeriodLibrary" target="_blank">Time Period Library for .NET</a></td>
-        <td>Extensive time period calculations and individual calendar periods.</td>
-        <th><a href="https://github.com/Giannoudis/TimePeriodLibrary" target="_blank"><img alt="Time Period Library for .NET" src="https://img.shields.io/github/stars/Giannoudis/TimePeriodLibrary?style=social" /></a></th>
     </tr>
 
 </table>
