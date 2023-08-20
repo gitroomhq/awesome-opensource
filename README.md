@@ -154,6 +154,14 @@
         <th>Stargazers</th>
     </tr>
         <tr>
+        <td nowrap="nowrap"><img width="33" alt="mirrord" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-mirrord.jpg" /></td>
+        <td>Productivity</td>
+        <td>Rust</td>
+        <td><a href="https://mirrord.dev" target="_blank">mirrord</a></td>
+        <td>Connect your local process and your cloud environment, and run local code in cloud conditions.</td>
+        <th><a href="https://github.com/metalbear-co/mirrord" target="_blank"><img alt="mirrord" src="https://img.shields.io/github/stars/metalbear-co/mirrord?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="ilihub" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-ilihub.png" /></td>
         <td>Miscellaneous</td>
         <td>TypeScript</td>
@@ -304,14 +312,6 @@
         <td><a href="https://mathjs.org" target="_blank">Math.js</a></td>
         <td>An extensive math library for JavaScript and Node.js</td>
         <th><a href="https://github.com/josdejong/mathjs" target="_blank"><img alt="Math.js" src="https://img.shields.io/github/stars/josdejong/mathjs?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="svelte-jsoneditor" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-svelte-jsoneditor.jpg" /></td>
-        <td>Productivity</td>
-        <td>TypeScript</td>
-        <td><a href="https://jsoneditoronline.org" target="_blank">svelte-jsoneditor</a></td>
-        <td>A web-based tool to view, edit, format, repair, query, transform, and validate JSON</td>
-        <th><a href="https://github.com/josdejong/svelte-jsoneditor" target="_blank"><img alt="svelte-jsoneditor" src="https://img.shields.io/github/stars/josdejong/svelte-jsoneditor?style=social" /></a></th>
     </tr>
 
 </table>
@@ -2754,6 +2754,14 @@
         <td><a href="https://colab.research.google.com/github/biplobsd/OneClickRun/blob/master/OneClickRun.ipynb" target="_blank">OneClickRun</a></td>
         <td>Another colab notebook!</td>
         <th><a href="https://github.com/biplobsd/OneClickRun" target="_blank"><img alt="OneClickRun" src="https://img.shields.io/github/stars/biplobsd/OneClickRun?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="mirrord" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-mirrord.jpg" /></td>
+        <td>Productivity</td>
+        <td>Rust</td>
+        <td><a href="https://mirrord.dev" target="_blank">mirrord</a></td>
+        <td>Connect your local process and your cloud environment, and run local code in cloud conditions.</td>
+        <th><a href="https://github.com/metalbear-co/mirrord" target="_blank"><img alt="mirrord" src="https://img.shields.io/github/stars/metalbear-co/mirrord?style=social" /></a></th>
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="VS Code Docs" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-vscode-docs.png" /></td>
@@ -8311,6 +8319,14 @@
         <td><a href="https://www.blstsecurity.com/cherrybomb" target="_blank">Cherrybomb</a></td>
         <td>Stop half-done APIs! Cherrybomb is a CLI tool that helps you avoid undefined user behaviour by auditing your API specifications, validating them and running API security tests.</td>
         <th><a href="https://github.com/blst-security/cherrybomb" target="_blank"><img alt="Cherrybomb" src="https://img.shields.io/github/stars/blst-security/cherrybomb?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="mirrord" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-mirrord.jpg" /></td>
+        <td>Productivity</td>
+        <td>Rust</td>
+        <td><a href="https://mirrord.dev" target="_blank">mirrord</a></td>
+        <td>Connect your local process and your cloud environment, and run local code in cloud conditions.</td>
+        <th><a href="https://github.com/metalbear-co/mirrord" target="_blank"><img alt="mirrord" src="https://img.shields.io/github/stars/metalbear-co/mirrord?style=social" /></a></th>
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="wasm-pack" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-wasm-pack.png" /></td>
