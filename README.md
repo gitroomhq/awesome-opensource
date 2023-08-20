@@ -162,6 +162,14 @@
         <th><a href="https://github.com/metalbear-co/mirrord" target="_blank"><img alt="mirrord" src="https://img.shields.io/github/stars/metalbear-co/mirrord?style=social" /></a></th>
     </tr>
     <tr>
+        <td nowrap="nowrap"><img width="33" alt="Agency" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-agency.jpg" /></td>
+        <td>Miscellaneous</td>
+        <td>Python</td>
+        <td><a href="https://createwith.agency" target="_blank">Agency</a></td>
+        <td>A fast and minimal framework for building agent-integrated systems</td>
+        <th><a href="https://github.com/operand/agency" target="_blank"><img alt="Agency" src="https://img.shields.io/github/stars/operand/agency?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="ilihub" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-ilihub.png" /></td>
         <td>Miscellaneous</td>
         <td>TypeScript</td>
@@ -304,14 +312,6 @@
         <td><a href="https://github.com/jasonacox/Build-OpenSSL-cURL" target="_blank">Build OpenSSL-cURL for iOS</a></td>
         <td>Scripts to build OpenSSL, HTTP/2 (nghttp2) and cURL (libcurl) for MacOS, iOS and tvOS devices (x86_64, armv7, armv7s, arm64, arm64e). Now Supporting Apple Silicon, OpenSSL 3.0.x with TLS 1.3 and Ma…</td>
         <th><a href="https://github.com/jasonacox/Build-OpenSSL-cURL" target="_blank"><img alt="Build OpenSSL-cURL for iOS" src="https://img.shields.io/github/stars/jasonacox/Build-OpenSSL-cURL?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Math.js" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-mathjs.jpg" /></td>
-        <td>Productivity</td>
-        <td>JavaScript</td>
-        <td><a href="https://mathjs.org" target="_blank">Math.js</a></td>
-        <td>An extensive math library for JavaScript and Node.js</td>
-        <th><a href="https://github.com/josdejong/mathjs" target="_blank"><img alt="Math.js" src="https://img.shields.io/github/stars/josdejong/mathjs?style=social" /></a></th>
     </tr>
 
 </table>
@@ -2166,6 +2166,14 @@
         <td><a href="https://todo-list-eosin-theta.vercel.app" target="_blank">Todo List Vite</a></td>
         <td>A user-friendly and responsive Todo List web application developed using React and Vite.</td>
         <th><a href="https://github.com/tuanductran/todo-list-vite" target="_blank"><img alt="Todo List Vite" src="https://img.shields.io/github/stars/tuanductran/todo-list-vite?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Agency" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-agency.jpg" /></td>
+        <td>Miscellaneous</td>
+        <td>Python</td>
+        <td><a href="https://createwith.agency" target="_blank">Agency</a></td>
+        <td>A fast and minimal framework for building agent-integrated systems</td>
+        <th><a href="https://github.com/operand/agency" target="_blank"><img alt="Agency" src="https://img.shields.io/github/stars/operand/agency?style=social" /></a></th>
     </tr>
 
 </table>
@@ -10273,6 +10281,14 @@
         <td><a href="https://refact.ai" target="_blank">Refact AI</a></td>
         <td>? Refact AI: Open-Source Coding Assistant with Fine-Tuning on codebase, autocompletion, code refactoring, code analysis, integrated chat and more! </td>
         <th><a href="https://github.com/smallcloudai/refact" target="_blank"><img alt="Refact AI" src="https://img.shields.io/github/stars/smallcloudai/refact?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Agency" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-agency.jpg" /></td>
+        <td>Miscellaneous</td>
+        <td>Python</td>
+        <td><a href="https://createwith.agency" target="_blank">Agency</a></td>
+        <td>A fast and minimal framework for building agent-integrated systems</td>
+        <th><a href="https://github.com/operand/agency" target="_blank"><img alt="Agency" src="https://img.shields.io/github/stars/operand/agency?style=social" /></a></th>
     </tr>
 
 </table>
