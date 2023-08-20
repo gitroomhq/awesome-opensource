@@ -489,6 +489,14 @@
         <th><a href="https://github.com/bitwarden/clients" target="_blank"><img alt="Bitwarden" src="https://img.shields.io/github/stars/bitwarden/clients?style=social" /></a></th>
     </tr>
     <tr>
+        <td nowrap="nowrap"><img width="33" alt="Hanko" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-hanko.png" /></td>
+        <td>Security</td>
+        <td>TypeScript</td>
+        <td><a href="https://hanko.io" target="_blank">Hanko</a></td>
+        <td>Authentication and user management for the passkey era.</td>
+        <th><a href="https://github.com/teamhanko/hanko" target="_blank"><img alt="Hanko" src="https://img.shields.io/github/stars/teamhanko/hanko?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="Laravel Priority Queue driver" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-laravel-priority-queue.png" /></td>
         <td>Infrastructure</td>
         <td>PHP</td>
@@ -527,14 +535,6 @@
         <td><a href="http://unity.com/open-projects" target="_blank">Unity</a></td>
         <td>Unity Open Project #1: Chop Chop</td>
         <th><a href="https://github.com/UnityTechnologies/open-project-1" target="_blank"><img alt="Unity" src="https://img.shields.io/github/stars/UnityTechnologies/open-project-1?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Hanko" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-hanko.png" /></td>
-        <td>Security</td>
-        <td>TypeScript</td>
-        <td><a href="https://hanko.io" target="_blank">Hanko</a></td>
-        <td>Authentication and user management for the passkey era.</td>
-        <th><a href="https://github.com/teamhanko/hanko" target="_blank"><img alt="Hanko" src="https://img.shields.io/github/stars/teamhanko/hanko?style=social" /></a></th>
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="KeyPass" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-KeyPass.jpg" /></td>
@@ -6367,20 +6367,20 @@
         <th><a href="https://github.com/bitwarden/clients" target="_blank"><img alt="Bitwarden" src="https://img.shields.io/github/stars/bitwarden/clients?style=social" /></a></th>
     </tr>
     <tr>
-        <td nowrap="nowrap"><img width="33" alt="brapi" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-brapi.jpg" /></td>
-        <td>Miscellaneous</td>
-        <td>TypeScript</td>
-        <td><a href="https://brapi.dev" target="_blank">brapi</a></td>
-        <td>A poderosa API open source para dados financeiros do mercado de ações, conversão de moedas e inflação brasileira</td>
-        <th><a href="https://github.com/Alissonsleal/brapi" target="_blank"><img alt="brapi" src="https://img.shields.io/github/stars/Alissonsleal/brapi?style=social" /></a></th>
-    </tr>
-    <tr>
         <td nowrap="nowrap"><img width="33" alt="Hanko" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-hanko.png" /></td>
         <td>Security</td>
         <td>TypeScript</td>
         <td><a href="https://hanko.io" target="_blank">Hanko</a></td>
         <td>Authentication and user management for the passkey era.</td>
         <th><a href="https://github.com/teamhanko/hanko" target="_blank"><img alt="Hanko" src="https://img.shields.io/github/stars/teamhanko/hanko?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="brapi" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-brapi.jpg" /></td>
+        <td>Miscellaneous</td>
+        <td>TypeScript</td>
+        <td><a href="https://brapi.dev" target="_blank">brapi</a></td>
+        <td>A poderosa API open source para dados financeiros do mercado de ações, conversão de moedas e inflação brasileira</td>
+        <th><a href="https://github.com/Alissonsleal/brapi" target="_blank"><img alt="brapi" src="https://img.shields.io/github/stars/Alissonsleal/brapi?style=social" /></a></th>
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="ZenStack" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-zenstack.png" /></td>
