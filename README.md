@@ -186,6 +186,14 @@
         <th><a href="https://github.com/TsingZ0/PFL-Non-IID" target="_blank"><img alt="PFL-Non-IID" src="https://img.shields.io/github/stars/TsingZ0/PFL-Non-IID?style=social" /></a></th>
     </tr>
     <tr>
+        <td nowrap="nowrap"><img width="33" alt="termii_sdk" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-termii_sdk.jpg" /></td>
+        <td>Productivity</td>
+        <td>Python</td>
+        <td><a href="https://github.com/prmpsmart/termii_sdk" target="_blank">termii_sdk</a></td>
+        <td>The `termii_sdk` is a Python package that facilitates seamless integration with the Termii API, empowering developers to send SMS, voice, and email messages within their applications.</td>
+        <th><a href="https://github.com/prmpsmart/termii_sdk" target="_blank"><img alt="termii_sdk" src="https://img.shields.io/github/stars/prmpsmart/termii_sdk?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="mirrord" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-mirrord.jpg" /></td>
         <td>Productivity</td>
         <td>Rust</td>
@@ -305,14 +313,6 @@
         <td>ρμ - a Java library of Randomization enHancements and Other Math Utilities</td>
         <th><a href="https://github.com/cicirello/rho-mu" target="_blank"><img alt="ρμ" src="https://img.shields.io/github/stars/cicirello/rho-mu?style=social" /></a></th>
     </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="TinyTuya" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-tinytuya.jpg" /></td>
-        <td>Infrastructure</td>
-        <td>Python</td>
-        <td><a href="https://github.com/jasonacox/tinytuya" target="_blank">TinyTuya</a></td>
-        <td>Python API for Tuya WiFi smart devices using a direct local area network (LAN) connection or the cloud (TuyaCloud API).</td>
-        <th><a href="https://github.com/jasonacox/tinytuya" target="_blank"><img alt="TinyTuya" src="https://img.shields.io/github/stars/jasonacox/tinytuya?style=social" /></a></th>
-    </tr>
 
 </table>
 
@@ -337,20 +337,20 @@
         <th><a href="https://github.com/CrowdDotDev/crowd.dev" target="_blank"><img alt="crowddev" src="https://img.shields.io/github/stars/CrowdDotDev/crowd.dev?style=social" /></a></th>
     </tr>
     <tr>
-        <td nowrap="nowrap"><img width="33" alt="Wasp" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-wasp.png" /></td>
-        <td>Infrastructure</td>
-        <td>Haskell</td>
-        <td><a href="https://wasp-lang.dev" target="_blank">Wasp</a></td>
-        <td>The fastest way to develop full-stack web apps with React &amp; Node.js. </td>
-        <th><a href="https://github.com/wasp-lang/wasp" target="_blank"><img alt="Wasp" src="https://img.shields.io/github/stars/wasp-lang/wasp?style=social" /></a></th>
-    </tr>
-    <tr>
         <td nowrap="nowrap"><img width="33" alt="Preevy" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-preevy.png" /></td>
         <td>Productivity</td>
         <td>TypeScript</td>
         <td><a href="https://preevy.dev" target="_blank">Preevy</a></td>
         <td>Quickly deploy preview environments to the cloud!</td>
         <th><a href="https://github.com/livecycle/preevy" target="_blank"><img alt="Preevy" src="https://img.shields.io/github/stars/livecycle/preevy?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Wasp" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-wasp.png" /></td>
+        <td>Infrastructure</td>
+        <td>Haskell</td>
+        <td><a href="https://wasp-lang.dev" target="_blank">Wasp</a></td>
+        <td>The fastest way to develop full-stack web apps with React &amp; Node.js. </td>
+        <th><a href="https://github.com/wasp-lang/wasp" target="_blank"><img alt="Wasp" src="https://img.shields.io/github/stars/wasp-lang/wasp?style=social" /></a></th>
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="Novu" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-novu-2.png" /></td>
@@ -4082,6 +4082,14 @@
         <td><a href="https://refact.ai" target="_blank">Refact AI</a></td>
         <td>? Refact AI: Open-Source Coding Assistant with Fine-Tuning on codebase, autocompletion, code refactoring, code analysis, integrated chat and more! </td>
         <th><a href="https://github.com/smallcloudai/refact" target="_blank"><img alt="Refact AI" src="https://img.shields.io/github/stars/smallcloudai/refact?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="termii_sdk" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-termii_sdk.jpg" /></td>
+        <td>Productivity</td>
+        <td>Python</td>
+        <td><a href="https://github.com/prmpsmart/termii_sdk" target="_blank">termii_sdk</a></td>
+        <td>The `termii_sdk` is a Python package that facilitates seamless integration with the Termii API, empowering developers to send SMS, voice, and email messages within their applications.</td>
+        <th><a href="https://github.com/prmpsmart/termii_sdk" target="_blank"><img alt="termii_sdk" src="https://img.shields.io/github/stars/prmpsmart/termii_sdk?style=social" /></a></th>
     </tr>
 
 </table>
@@ -10369,6 +10377,14 @@
         <td><a href="https://github.com/TsingZ0/PFL-Non-IID" target="_blank">PFL-Non-IID</a></td>
         <td>Personalized federated learning simulation platform with non-IID and unbalanced dataset</td>
         <th><a href="https://github.com/TsingZ0/PFL-Non-IID" target="_blank"><img alt="PFL-Non-IID" src="https://img.shields.io/github/stars/TsingZ0/PFL-Non-IID?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="termii_sdk" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-termii_sdk.jpg" /></td>
+        <td>Productivity</td>
+        <td>Python</td>
+        <td><a href="https://github.com/prmpsmart/termii_sdk" target="_blank">termii_sdk</a></td>
+        <td>The `termii_sdk` is a Python package that facilitates seamless integration with the Termii API, empowering developers to send SMS, voice, and email messages within their applications.</td>
+        <th><a href="https://github.com/prmpsmart/termii_sdk" target="_blank"><img alt="termii_sdk" src="https://img.shields.io/github/stars/prmpsmart/termii_sdk?style=social" /></a></th>
     </tr>
 
 </table>
