@@ -88,6 +88,8 @@
              </li>          <li>
                 <a href="#tsql">Top 20 TSQL libraries</a>
              </li>          <li>
+                <a href="#powershell">Top 20 PowerShell libraries</a>
+             </li>          <li>
                 <a href="#jupyter-notebook">Top 20 Jupyter Notebook libraries</a>
              </li>          <li>
                 <a href="#c">Top 20 C libraries</a>
@@ -115,8 +117,6 @@
                 <a href="#erlang">Top 20 Erlang libraries</a>
              </li>          <li>
                 <a href="#objective-c">Top 20 Objective-C libraries</a>
-             </li>          <li>
-                <a href="#powershell">Top 20 PowerShell libraries</a>
              </li>          <li>
                 <a href="#haxe">Top 20 Haxe libraries</a>
              </li>          <li>
@@ -154,6 +154,22 @@
         <th>Stargazers</th>
     </tr>
         <tr>
+        <td nowrap="nowrap"><img width="33" alt="Stack-chan" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-stack-chan-1.jpg" /></td>
+        <td>Miscellaneous</td>
+        <td>TypeScript</td>
+        <td><a href="https://github.com/meganetaaan/stack-chan" target="_blank">Stack-chan</a></td>
+        <td>A JavaScript-driven M5Stack-embedded super-kawaii robot.</td>
+        <th><a href="https://github.com/meganetaaan/stack-chan" target="_blank"><img alt="Stack-chan" src="https://img.shields.io/github/stars/meganetaaan/stack-chan?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Stack-chan" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-stack-chan.jpg" /></td>
+        <td>Miscellaneous</td>
+        <td>TypeScript</td>
+        <td><a href="https://github.com/meganetaaan/stack-chan" target="_blank">Stack-chan</a></td>
+        <td>A JavaScript-driven M5Stack-embedded super-kawaii robot.</td>
+        <th><a href="https://github.com/meganetaaan/stack-chan" target="_blank"><img alt="Stack-chan" src="https://img.shields.io/github/stars/meganetaaan/stack-chan?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="mirrord" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-mirrord.jpg" /></td>
         <td>Productivity</td>
         <td>Rust</td>
@@ -296,22 +312,6 @@
         <td><a href="https://github.com/jasonacox/pypowerwall" target="_blank">pyPowerwall</a></td>
         <td>Python API for Tesla Powerwall and Solar Power Data</td>
         <th><a href="https://github.com/jasonacox/pypowerwall" target="_blank"><img alt="pyPowerwall" src="https://img.shields.io/github/stars/jasonacox/pypowerwall?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Powerwall-Dashboard" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-Powerwall-Dashboard.jpg" /></td>
-        <td>Observability</td>
-        <td>Python</td>
-        <td><a href="https://github.com/jasonacox/Powerwall-Dashboard" target="_blank">Powerwall-Dashboard</a></td>
-        <td>Grafana Dashboard for Tesla Powerwall</td>
-        <th><a href="https://github.com/jasonacox/Powerwall-Dashboard" target="_blank"><img alt="Powerwall-Dashboard" src="https://img.shields.io/github/stars/jasonacox/Powerwall-Dashboard?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="TM1637TinyDisplay" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-TM1637TinyDisplay.jpg" /></td>
-        <td>Miscellaneous</td>
-        <td>C++</td>
-        <td><a href="https://github.com/jasonacox/TM1637TinyDisplay" target="_blank">TM1637TinyDisplay</a></td>
-        <td>Arduino library to display numbers and text on a 4 and 6 digit 7-segment TM1637 display modules.</td>
-        <th><a href="https://github.com/jasonacox/TM1637TinyDisplay" target="_blank"><img alt="TM1637TinyDisplay" src="https://img.shields.io/github/stars/jasonacox/TM1637TinyDisplay?style=social" /></a></th>
     </tr>
 
 </table>
@@ -1360,6 +1360,14 @@
         <th><a href="https://github.com/Giannoudis/TimePeriodLibrary" target="_blank"><img alt="Time Period Library for .NET" src="https://img.shields.io/github/stars/Giannoudis/TimePeriodLibrary?style=social" /></a></th>
     </tr>
     <tr>
+        <td nowrap="nowrap"><img width="33" alt="Stack-chan" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-stack-chan-1.jpg" /></td>
+        <td>Miscellaneous</td>
+        <td>TypeScript</td>
+        <td><a href="https://github.com/meganetaaan/stack-chan" target="_blank">Stack-chan</a></td>
+        <td>A JavaScript-driven M5Stack-embedded super-kawaii robot.</td>
+        <th><a href="https://github.com/meganetaaan/stack-chan" target="_blank"><img alt="Stack-chan" src="https://img.shields.io/github/stars/meganetaaan/stack-chan?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="Cemu Emulator" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-Cemu.png" /></td>
         <td>Miscellaneous</td>
         <td>C++</td>
@@ -2182,6 +2190,14 @@
         <td><a href="https://github.com/enhance-dev/enhance-ssr" target="_blank">Enhance</a></td>
         <td>Server side render for custom elements.</td>
         <th><a href="https://github.com/enhance-dev/enhance-ssr" target="_blank"><img alt="Enhance" src="https://img.shields.io/github/stars/enhance-dev/enhance-ssr?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Stack-chan" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-stack-chan.jpg" /></td>
+        <td>Miscellaneous</td>
+        <td>TypeScript</td>
+        <td><a href="https://github.com/meganetaaan/stack-chan" target="_blank">Stack-chan</a></td>
+        <td>A JavaScript-driven M5Stack-embedded super-kawaii robot.</td>
+        <th><a href="https://github.com/meganetaaan/stack-chan" target="_blank"><img alt="Stack-chan" src="https://img.shields.io/github/stars/meganetaaan/stack-chan?style=social" /></a></th>
     </tr>
 
 </table>
@@ -4432,6 +4448,14 @@
         <th><a href="https://github.com/tclahr/uac" target="_blank"><img alt="UAC (Unix-like Artifacts Collector)" src="https://img.shields.io/github/stars/tclahr/uac?style=social" /></a></th>
     </tr>
     <tr>
+        <td nowrap="nowrap"><img width="33" alt="Meerkat" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-Meerkat.png" /></td>
+        <td>Security</td>
+        <td>PowerShell</td>
+        <td><a href="https://github.com/TonyPhipps/Meerkat" target="_blank">Meerkat</a></td>
+        <td>A collection of PowerShell modules designed for artifact gathering and reconnaisance of Windows-based endpoints.</td>
+        <th><a href="https://github.com/TonyPhipps/Meerkat" target="_blank"><img alt="Meerkat" src="https://img.shields.io/github/stars/TonyPhipps/Meerkat?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="PrivateBin" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-PrivateBin.png" /></td>
         <td>Security</td>
         <td>PHP</td>
@@ -4670,14 +4694,6 @@
         <td><a href="https://twitter.com/sajjadium" target="_blank">DeepCrawling</a></td>
         <td>Crawlium (DeepCrawling): A crawling platform based on Chrome (Chromium) browser to get a deeper look into the ecosystem of content inclusion on the Web.</td>
         <th><a href="https://github.com/sajjadium/DeepCrawling" target="_blank"><img alt="DeepCrawling" src="https://img.shields.io/github/stars/sajjadium/DeepCrawling?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Meerkat" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-Meerkat.png" /></td>
-        <td>Security</td>
-        <td>PowerShell</td>
-        <td><a href="https://github.com/TonyPhipps/Meerkat" target="_blank">Meerkat</a></td>
-        <td>A collection of PowerShell modules designed for artifact gathering and reconnaisance of Windows-based endpoints.</td>
-        <th><a href="https://github.com/TonyPhipps/Meerkat" target="_blank"><img alt="Meerkat" src="https://img.shields.io/github/stars/TonyPhipps/Meerkat?style=social" /></a></th>
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="Stegano" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-Stegano.jpg" /></td>
@@ -6607,6 +6623,14 @@
         <th><a href="https://github.com/rewindui/rewindui" target="_blank"><img alt="Rewind-UI" src="https://img.shields.io/github/stars/rewindui/rewindui?style=social" /></a></th>
     </tr>
     <tr>
+        <td nowrap="nowrap"><img width="33" alt="Stack-chan" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-stack-chan-1.jpg" /></td>
+        <td>Miscellaneous</td>
+        <td>TypeScript</td>
+        <td><a href="https://github.com/meganetaaan/stack-chan" target="_blank">Stack-chan</a></td>
+        <td>A JavaScript-driven M5Stack-embedded super-kawaii robot.</td>
+        <th><a href="https://github.com/meganetaaan/stack-chan" target="_blank"><img alt="Stack-chan" src="https://img.shields.io/github/stars/meganetaaan/stack-chan?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="The Lounge" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-thelounge.png" /></td>
         <td>Collaboration</td>
         <td>TypeScript</td>
@@ -7349,6 +7373,14 @@
         <td><a href="https://todo-list-eosin-theta.vercel.app" target="_blank">Todo List Vite</a></td>
         <td>A user-friendly and responsive Todo List web application developed using React and Vite.</td>
         <th><a href="https://github.com/tuanductran/todo-list-vite" target="_blank"><img alt="Todo List Vite" src="https://img.shields.io/github/stars/tuanductran/todo-list-vite?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Stack-chan" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-stack-chan.jpg" /></td>
+        <td>Miscellaneous</td>
+        <td>TypeScript</td>
+        <td><a href="https://github.com/meganetaaan/stack-chan" target="_blank">Stack-chan</a></td>
+        <td>A JavaScript-driven M5Stack-embedded super-kawaii robot.</td>
+        <th><a href="https://github.com/meganetaaan/stack-chan" target="_blank"><img alt="Stack-chan" src="https://img.shields.io/github/stars/meganetaaan/stack-chan?style=social" /></a></th>
     </tr>
 
 </table>
@@ -10970,6 +11002,36 @@
 </table>
 
 <br /><br />
+<h2 id="powershell">Top 20 PowerShell libraries</h2>
+<table>
+    <tr>
+        <th>Icon</th>
+        <th>Category</th>
+        <th>Language</th>
+        <th>Name</th>
+        <th>Description</th>
+        <th>Stargazers</th>
+    </tr>
+        <tr>
+        <td nowrap="nowrap"><img width="33" alt="Meerkat" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-Meerkat.png" /></td>
+        <td>Security</td>
+        <td>PowerShell</td>
+        <td><a href="https://github.com/TonyPhipps/Meerkat" target="_blank">Meerkat</a></td>
+        <td>A collection of PowerShell modules designed for artifact gathering and reconnaisance of Windows-based endpoints.</td>
+        <th><a href="https://github.com/TonyPhipps/Meerkat" target="_blank"><img alt="Meerkat" src="https://img.shields.io/github/stars/TonyPhipps/Meerkat?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Mandiant" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-commando-vm-1.png" /></td>
+        <td>Security</td>
+        <td>PowerShell</td>
+        <td><a href="https://www.mandiant.com/resources/blog/commando-vm-windows-offensive-distribution" target="_blank">Mandiant</a></td>
+        <td>Complete Mandiant Offensive VM (Commando VM), a fully customizable Windows-based pentesting virtual machine distribution. commandovm@mandiant.com</td>
+        <th><a href="https://github.com/mandiant/commando-vm" target="_blank"><img alt="Mandiant" src="https://img.shields.io/github/stars/mandiant/commando-vm?style=social" /></a></th>
+    </tr>
+
+</table>
+
+<br /><br />
 <h2 id="jupyter-notebook">Top 20 Jupyter Notebook libraries</h2>
 <table>
     <tr>
@@ -11649,36 +11711,6 @@
         <td><a href="https://github.com/fabiocaccamo/FCUUID" target="_blank">FCUUID</a></td>
         <td><g-emoji class="g-emoji" alias="iphone" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4f1.png">?</g-emoji> <g-emoji class="g-emoji" alias="id" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f194.png">?</g-emoji> iOS UUID / Universally Unique Identifiers library as alternative to UDID and identifierForVendor.</td>
         <th><a href="https://github.com/fabiocaccamo/FCUUID" target="_blank"><img alt="FCUUID" src="https://img.shields.io/github/stars/fabiocaccamo/FCUUID?style=social" /></a></th>
-    </tr>
-
-</table>
-
-<br /><br />
-<h2 id="powershell">Top 20 PowerShell libraries</h2>
-<table>
-    <tr>
-        <th>Icon</th>
-        <th>Category</th>
-        <th>Language</th>
-        <th>Name</th>
-        <th>Description</th>
-        <th>Stargazers</th>
-    </tr>
-        <tr>
-        <td nowrap="nowrap"><img width="33" alt="Mandiant" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-commando-vm-1.png" /></td>
-        <td>Security</td>
-        <td>PowerShell</td>
-        <td><a href="https://www.mandiant.com/resources/blog/commando-vm-windows-offensive-distribution" target="_blank">Mandiant</a></td>
-        <td>Complete Mandiant Offensive VM (Commando VM), a fully customizable Windows-based pentesting virtual machine distribution. commandovm@mandiant.com</td>
-        <th><a href="https://github.com/mandiant/commando-vm" target="_blank"><img alt="Mandiant" src="https://img.shields.io/github/stars/mandiant/commando-vm?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Meerkat" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-Meerkat.png" /></td>
-        <td>Security</td>
-        <td>PowerShell</td>
-        <td><a href="https://github.com/TonyPhipps/Meerkat" target="_blank">Meerkat</a></td>
-        <td>A collection of PowerShell modules designed for artifact gathering and reconnaisance of Windows-based endpoints.</td>
-        <th><a href="https://github.com/TonyPhipps/Meerkat" target="_blank"><img alt="Meerkat" src="https://img.shields.io/github/stars/TonyPhipps/Meerkat?style=social" /></a></th>
     </tr>
 
 </table>
