@@ -170,6 +170,14 @@
         <th><a href="https://github.com/operand/agency" target="_blank"><img alt="Agency" src="https://img.shields.io/github/stars/operand/agency?style=social" /></a></th>
     </tr>
     <tr>
+        <td nowrap="nowrap"><img width="33" alt="Enhance" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-enhance-ssr.png" /></td>
+        <td>Miscellaneous</td>
+        <td>JavaScript</td>
+        <td><a href="https://github.com/enhance-dev/enhance-ssr" target="_blank">Enhance</a></td>
+        <td>Server side render for custom elements.</td>
+        <th><a href="https://github.com/enhance-dev/enhance-ssr" target="_blank"><img alt="Enhance" src="https://img.shields.io/github/stars/enhance-dev/enhance-ssr?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="ilihub" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-ilihub.png" /></td>
         <td>Miscellaneous</td>
         <td>TypeScript</td>
@@ -304,14 +312,6 @@
         <td><a href="https://github.com/jasonacox/TM1637TinyDisplay" target="_blank">TM1637TinyDisplay</a></td>
         <td>Arduino library to display numbers and text on a 4 and 6 digit 7-segment TM1637 display modules.</td>
         <th><a href="https://github.com/jasonacox/TM1637TinyDisplay" target="_blank"><img alt="TM1637TinyDisplay" src="https://img.shields.io/github/stars/jasonacox/TM1637TinyDisplay?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Build OpenSSL-cURL for iOS" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-Build-OpenSSL-cURL.jpg" /></td>
-        <td>Miscellaneous</td>
-        <td>C</td>
-        <td><a href="https://github.com/jasonacox/Build-OpenSSL-cURL" target="_blank">Build OpenSSL-cURL for iOS</a></td>
-        <td>Scripts to build OpenSSL, HTTP/2 (nghttp2) and cURL (libcurl) for MacOS, iOS and tvOS devices (x86_64, armv7, armv7s, arm64, arm64e). Now Supporting Apple Silicon, OpenSSL 3.0.x with TLS 1.3 and Ma…</td>
-        <th><a href="https://github.com/jasonacox/Build-OpenSSL-cURL" target="_blank"><img alt="Build OpenSSL-cURL for iOS" src="https://img.shields.io/github/stars/jasonacox/Build-OpenSSL-cURL?style=social" /></a></th>
     </tr>
 
 </table>
@@ -2174,6 +2174,14 @@
         <td><a href="https://createwith.agency" target="_blank">Agency</a></td>
         <td>A fast and minimal framework for building agent-integrated systems</td>
         <th><a href="https://github.com/operand/agency" target="_blank"><img alt="Agency" src="https://img.shields.io/github/stars/operand/agency?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Enhance" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-enhance-ssr.png" /></td>
+        <td>Miscellaneous</td>
+        <td>JavaScript</td>
+        <td><a href="https://github.com/enhance-dev/enhance-ssr" target="_blank">Enhance</a></td>
+        <td>Server side render for custom elements.</td>
+        <th><a href="https://github.com/enhance-dev/enhance-ssr" target="_blank"><img alt="Enhance" src="https://img.shields.io/github/stars/enhance-dev/enhance-ssr?style=social" /></a></th>
     </tr>
 
 </table>
@@ -8925,6 +8933,14 @@
         <td><a href="https://github.com/jcubic/sysend.js" target="_blank">Sysend</a></td>
         <td>Web application synchronization between different tabs</td>
         <th><a href="https://github.com/jcubic/sysend.js" target="_blank"><img alt="Sysend" src="https://img.shields.io/github/stars/jcubic/sysend.js?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Enhance" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-enhance-ssr.png" /></td>
+        <td>Miscellaneous</td>
+        <td>JavaScript</td>
+        <td><a href="https://github.com/enhance-dev/enhance-ssr" target="_blank">Enhance</a></td>
+        <td>Server side render for custom elements.</td>
+        <th><a href="https://github.com/enhance-dev/enhance-ssr" target="_blank"><img alt="Enhance" src="https://img.shields.io/github/stars/enhance-dev/enhance-ssr?style=social" /></a></th>
     </tr>
 
 </table>
