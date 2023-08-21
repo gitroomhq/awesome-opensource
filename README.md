@@ -170,6 +170,22 @@
         <th><a href="https://github.com/meganetaaan/stack-chan" target="_blank"><img alt="Stack-chan" src="https://img.shields.io/github/stars/meganetaaan/stack-chan?style=social" /></a></th>
     </tr>
     <tr>
+        <td nowrap="nowrap"><img width="33" alt="Netgraph" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-netgraph.jpg" /></td>
+        <td>Analytics</td>
+        <td>Python</td>
+        <td><a href="https://github.com/paulbrodersen/netgraph" target="_blank">Netgraph</a></td>
+        <td>Publication-quality network visualisations in python</td>
+        <th><a href="https://github.com/paulbrodersen/netgraph" target="_blank"><img alt="Netgraph" src="https://img.shields.io/github/stars/paulbrodersen/netgraph?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="PFL-Non-IID" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-PFL-Non-IID.jpg" /></td>
+        <td>Infrastructure</td>
+        <td>Python</td>
+        <td><a href="https://github.com/TsingZ0/PFL-Non-IID" target="_blank">PFL-Non-IID</a></td>
+        <td>Personalized federated learning simulation platform with non-IID and unbalanced dataset</td>
+        <th><a href="https://github.com/TsingZ0/PFL-Non-IID" target="_blank"><img alt="PFL-Non-IID" src="https://img.shields.io/github/stars/TsingZ0/PFL-Non-IID?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="mirrord" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-mirrord.jpg" /></td>
         <td>Productivity</td>
         <td>Rust</td>
@@ -296,22 +312,6 @@
         <td><a href="https://github.com/jasonacox/tinytuya" target="_blank">TinyTuya</a></td>
         <td>Python API for Tuya WiFi smart devices using a direct local area network (LAN) connection or the cloud (TuyaCloud API).</td>
         <th><a href="https://github.com/jasonacox/tinytuya" target="_blank"><img alt="TinyTuya" src="https://img.shields.io/github/stars/jasonacox/tinytuya?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="OneClickRun" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-OneClickRun.png" /></td>
-        <td>Productivity</td>
-        <td>Jupyter Notebook</td>
-        <td><a href="https://colab.research.google.com/github/biplobsd/OneClickRun/blob/master/OneClickRun.ipynb" target="_blank">OneClickRun</a></td>
-        <td>Another colab notebook!</td>
-        <th><a href="https://github.com/biplobsd/OneClickRun" target="_blank"><img alt="OneClickRun" src="https://img.shields.io/github/stars/biplobsd/OneClickRun?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="pyPowerwall" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-pypowerwall.jpg" /></td>
-        <td>Infrastructure</td>
-        <td>Python</td>
-        <td><a href="https://github.com/jasonacox/pypowerwall" target="_blank">pyPowerwall</a></td>
-        <td>Python API for Tesla Powerwall and Solar Power Data</td>
-        <th><a href="https://github.com/jasonacox/pypowerwall" target="_blank"><img alt="pyPowerwall" src="https://img.shields.io/github/stars/jasonacox/pypowerwall?style=social" /></a></th>
     </tr>
 
 </table>
@@ -4337,6 +4337,14 @@
         <td>Batch proxy server downloading speed test.</td>
         <th><a href="https://github.com/biplobsd/proxySpeedTest" target="_blank"><img alt="ProxySpeedTest" src="https://img.shields.io/github/stars/biplobsd/proxySpeedTest?style=social" /></a></th>
     </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Netgraph" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-netgraph.jpg" /></td>
+        <td>Analytics</td>
+        <td>Python</td>
+        <td><a href="https://github.com/paulbrodersen/netgraph" target="_blank">Netgraph</a></td>
+        <td>Publication-quality network visualisations in python</td>
+        <th><a href="https://github.com/paulbrodersen/netgraph" target="_blank"><img alt="Netgraph" src="https://img.shields.io/github/stars/paulbrodersen/netgraph?style=social" /></a></th>
+    </tr>
 
 </table>
 
@@ -6318,6 +6326,14 @@
         <td><a href="https://genia-dev.github.io/GeniA/" target="_blank">GeniA</a></td>
         <td>Your Engineering Gen AI Team member ???</td>
         <th><a href="https://github.com/genia-dev/GeniA" target="_blank"><img alt="GeniA" src="https://img.shields.io/github/stars/genia-dev/GeniA?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="PFL-Non-IID" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-PFL-Non-IID.jpg" /></td>
+        <td>Infrastructure</td>
+        <td>Python</td>
+        <td><a href="https://github.com/TsingZ0/PFL-Non-IID" target="_blank">PFL-Non-IID</a></td>
+        <td>Personalized federated learning simulation platform with non-IID and unbalanced dataset</td>
+        <th><a href="https://github.com/TsingZ0/PFL-Non-IID" target="_blank"><img alt="PFL-Non-IID" src="https://img.shields.io/github/stars/TsingZ0/PFL-Non-IID?style=social" /></a></th>
     </tr>
 
 </table>
@@ -10337,6 +10353,22 @@
         <td><a href="https://createwith.agency" target="_blank">Agency</a></td>
         <td>A fast and minimal framework for building agent-integrated systems</td>
         <th><a href="https://github.com/operand/agency" target="_blank"><img alt="Agency" src="https://img.shields.io/github/stars/operand/agency?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Netgraph" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-netgraph.jpg" /></td>
+        <td>Analytics</td>
+        <td>Python</td>
+        <td><a href="https://github.com/paulbrodersen/netgraph" target="_blank">Netgraph</a></td>
+        <td>Publication-quality network visualisations in python</td>
+        <th><a href="https://github.com/paulbrodersen/netgraph" target="_blank"><img alt="Netgraph" src="https://img.shields.io/github/stars/paulbrodersen/netgraph?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="PFL-Non-IID" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-PFL-Non-IID.jpg" /></td>
+        <td>Infrastructure</td>
+        <td>Python</td>
+        <td><a href="https://github.com/TsingZ0/PFL-Non-IID" target="_blank">PFL-Non-IID</a></td>
+        <td>Personalized federated learning simulation platform with non-IID and unbalanced dataset</td>
+        <th><a href="https://github.com/TsingZ0/PFL-Non-IID" target="_blank"><img alt="PFL-Non-IID" src="https://img.shields.io/github/stars/TsingZ0/PFL-Non-IID?style=social" /></a></th>
     </tr>
 
 </table>
