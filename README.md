@@ -164,6 +164,46 @@
         <th><a href="https://github.com/coder-hxl/x-crawl" target="_blank"><img alt="x-crawl" src="https://img.shields.io/github/stars/coder-hxl/x-crawl?style=social" /></a></th>
     </tr>
     <tr>
+        <td nowrap="nowrap"><img width="33" alt="Gammasoft71" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-xtd.png" /></td>
+        <td>Infrastructure</td>
+        <td>C++</td>
+        <td><a href="https://gammasoft71.github.io/xtd" target="_blank">Gammasoft71</a></td>
+        <td>Free open-source modern C++17 / C++20 framework to create console, GUI (forms like WinForms) and unit test applications on Microsoft Windows, Apple macOS and Linux.</td>
+        <th><a href="https://github.com/gammasoft71/xtd" target="_blank"><img alt="Gammasoft71" src="https://img.shields.io/github/stars/gammasoft71/xtd?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Honeycomb" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-honeycomb.png" /></td>
+        <td>Miscellaneous</td>
+        <td>TypeScript</td>
+        <td><a href="https://abbekeultjes.nl/honeycomb" target="_blank">Honeycomb</a></td>
+        <td>Create hex grids easily, in node or the browser.</td>
+        <th><a href="https://github.com/flauwekeul/honeycomb" target="_blank"><img alt="Honeycomb" src="https://img.shields.io/github/stars/flauwekeul/honeycomb?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Delphi JWT Library" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-delphi-jose-jwt.jpg" /></td>
+        <td>Security</td>
+        <td>Pascal</td>
+        <td><a href="https://github.com/paolo-rossi/delphi-jose-jwt" target="_blank">Delphi JWT Library</a></td>
+        <td>Delphi implementation of JOSE (JSON Object Signing and Encryption) and JWT (JSON Web Token)</td>
+        <th><a href="https://github.com/paolo-rossi/delphi-jose-jwt" target="_blank"><img alt="Delphi JWT Library" src="https://img.shields.io/github/stars/paolo-rossi/delphi-jose-jwt?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Neon - JSON Serialization Library for Delphi" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-delphi-neon.jpg" /></td>
+        <td>Productivity</td>
+        <td>Pascal</td>
+        <td><a href="https://github.com/paolo-rossi/delphi-neon" target="_blank">Neon - JSON Serialization Library for Delphi</a></td>
+        <td>JSON Serialization library for Delphi</td>
+        <th><a href="https://github.com/paolo-rossi/delphi-neon" target="_blank"><img alt="Neon - JSON Serialization Library for Delphi" src="https://img.shields.io/github/stars/paolo-rossi/delphi-neon?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="GitHub Achievements" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-GitHub-Achievements.jpg" /></td>
+        <td>Miscellaneous</td>
+        <td>Markdown</td>
+        <td><a href="https://drknzz.github.io/GitHub-Achievements/" target="_blank">GitHub Achievements</a></td>
+        <td>? A Complete List of GitHub Profile Badges and Achievements ?</td>
+        <th><a href="https://github.com/drknzz/GitHub-Achievements" target="_blank"><img alt="GitHub Achievements" src="https://img.shields.io/github/stars/drknzz/GitHub-Achievements?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="Stack-chan" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-stack-chan-1.jpg" /></td>
         <td>Miscellaneous</td>
         <td>TypeScript</td>
@@ -274,46 +314,6 @@
         <td><a href="https://jcubic.github.io/wayne" target="_blank">Wayne</a></td>
         <td>Service Worker Routing library for in browser HTTP requests</td>
         <th><a href="https://github.com/jcubic/wayne" target="_blank"><img alt="Wayne" src="https://img.shields.io/github/stars/jcubic/wayne?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Sysend" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-sysend.js.png" /></td>
-        <td>Infrastructure</td>
-        <td>JavaScript</td>
-        <td><a href="https://github.com/jcubic/sysend.js" target="_blank">Sysend</a></td>
-        <td>Web application synchronization between different tabs</td>
-        <th><a href="https://github.com/jcubic/sysend.js" target="_blank"><img alt="Sysend" src="https://img.shields.io/github/stars/jcubic/sysend.js?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="GeniA" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-GeniA.jpg" /></td>
-        <td>Infrastructure</td>
-        <td>Python</td>
-        <td><a href="https://genia-dev.github.io/GeniA/" target="_blank">GeniA</a></td>
-        <td>Your Engineering Gen AI Team member ???</td>
-        <th><a href="https://github.com/genia-dev/GeniA" target="_blank"><img alt="GeniA" src="https://img.shields.io/github/stars/genia-dev/GeniA?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Refact AI" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-refact.png" /></td>
-        <td>Productivity</td>
-        <td>Python</td>
-        <td><a href="https://refact.ai" target="_blank">Refact AI</a></td>
-        <td>? Refact AI: Open-Source Coding Assistant with Fine-Tuning on codebase, autocompletion, code refactoring, code analysis, integrated chat and more! </td>
-        <th><a href="https://github.com/smallcloudai/refact" target="_blank"><img alt="Refact AI" src="https://img.shields.io/github/stars/smallcloudai/refact?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Hexagon Toolkit" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-hexagon.png" /></td>
-        <td>Productivity</td>
-        <td>Kotlin</td>
-        <td><a href="https://hexagonkt.com" target="_blank">Hexagon Toolkit</a></td>
-        <td>Hexagon is a microservices toolkit written in Kotlin. Its purpose is to ease the building of services (Web applications or APIs) that run inside a cloud platform.</td>
-        <th><a href="https://github.com/hexagonkt/hexagon" target="_blank"><img alt="Hexagon Toolkit" src="https://img.shields.io/github/stars/hexagonkt/hexagon?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Chips-n-Salsa" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-Chips-n-Salsa.jpg" /></td>
-        <td>Miscellaneous</td>
-        <td>Java</td>
-        <td><a href="https://chips-n-salsa.cicirello.org/" target="_blank">Chips-n-Salsa</a></td>
-        <td>A Java library of Customizable, Hybridizable, Iterative, Parallel, Stochastic, and Self-Adaptive Local Search Algorithms</td>
-        <th><a href="https://github.com/cicirello/Chips-n-Salsa" target="_blank"><img alt="Chips-n-Salsa" src="https://img.shields.io/github/stars/cicirello/Chips-n-Salsa?style=social" /></a></th>
     </tr>
 
 </table>
@@ -747,6 +747,14 @@
         <th><a href="https://github.com/jankapunkt/meteor-react-native-starter" target="_blank"><img alt="Meteor + React Native Starter Template" src="https://img.shields.io/github/stars/jankapunkt/meteor-react-native-starter?style=social" /></a></th>
     </tr>
     <tr>
+        <td nowrap="nowrap"><img width="33" alt="Stack-chan" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-stack-chan-1.jpg" /></td>
+        <td>Miscellaneous</td>
+        <td>TypeScript</td>
+        <td><a href="https://github.com/meganetaaan/stack-chan" target="_blank">Stack-chan</a></td>
+        <td>A JavaScript-driven M5Stack-embedded super-kawaii robot.</td>
+        <th><a href="https://github.com/meganetaaan/stack-chan" target="_blank"><img alt="Stack-chan" src="https://img.shields.io/github/stars/meganetaaan/stack-chan?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="Mirage JS" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-miragejs.png" /></td>
         <td>Productivity</td>
         <td>JavaScript</td>
@@ -1122,14 +1130,6 @@
         <td>An elegant CSS Framework.</td>
         <th><a href="https://github.com/alphardex/aqua.css" target="_blank"><img alt="aqua.css" src="https://img.shields.io/github/stars/alphardex/aqua.css?style=social" /></a></th>
     </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="ThorsSerializer" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-ThorsSerializer.jpg" /></td>
-        <td>Infrastructure</td>
-        <td>C++</td>
-        <td><a href="https://github.com/Loki-Astari/ThorsSerializer" target="_blank">ThorsSerializer</a></td>
-        <td>C++ Serialization library for JSON</td>
-        <th><a href="https://github.com/Loki-Astari/ThorsSerializer" target="_blank"><img alt="ThorsSerializer" src="https://img.shields.io/github/stars/Loki-Astari/ThorsSerializer?style=social" /></a></th>
-    </tr>
 
 </table>
 
@@ -1224,6 +1224,14 @@
         <td><a href="https://jankapunkt.github.io/easy-speech/" target="_blank">Easy Speech</a></td>
         <td>Cross browser Speech Synthesis also known as Text to speech or TTS; no dependencies; uses Web Speech API</td>
         <th><a href="https://github.com/jankapunkt/easy-speech" target="_blank"><img alt="Easy Speech" src="https://img.shields.io/github/stars/jankapunkt/easy-speech?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Stack-chan" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-stack-chan-1.jpg" /></td>
+        <td>Miscellaneous</td>
+        <td>TypeScript</td>
+        <td><a href="https://github.com/meganetaaan/stack-chan" target="_blank">Stack-chan</a></td>
+        <td>A JavaScript-driven M5Stack-embedded super-kawaii robot.</td>
+        <th><a href="https://github.com/meganetaaan/stack-chan" target="_blank"><img alt="Stack-chan" src="https://img.shields.io/github/stars/meganetaaan/stack-chan?style=social" /></a></th>
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="wirepig" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-wirepig.jpg" /></td>
@@ -1360,14 +1368,6 @@
         <td><a href="https://github.com/Giannoudis/TimePeriodLibrary" target="_blank">Time Period Library for .NET</a></td>
         <td>Extensive time period calculations and individual calendar periods.</td>
         <th><a href="https://github.com/Giannoudis/TimePeriodLibrary" target="_blank"><img alt="Time Period Library for .NET" src="https://img.shields.io/github/stars/Giannoudis/TimePeriodLibrary?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Stack-chan" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-stack-chan-1.jpg" /></td>
-        <td>Miscellaneous</td>
-        <td>TypeScript</td>
-        <td><a href="https://github.com/meganetaaan/stack-chan" target="_blank">Stack-chan</a></td>
-        <td>A JavaScript-driven M5Stack-embedded super-kawaii robot.</td>
-        <th><a href="https://github.com/meganetaaan/stack-chan" target="_blank"><img alt="Stack-chan" src="https://img.shields.io/github/stars/meganetaaan/stack-chan?style=social" /></a></th>
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="x-crawl" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-x-crawl.jpg" /></td>
@@ -2208,6 +2208,22 @@
         <td><a href="https://github.com/meganetaaan/stack-chan" target="_blank">Stack-chan</a></td>
         <td>A JavaScript-driven M5Stack-embedded super-kawaii robot.</td>
         <th><a href="https://github.com/meganetaaan/stack-chan" target="_blank"><img alt="Stack-chan" src="https://img.shields.io/github/stars/meganetaaan/stack-chan?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Honeycomb" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-honeycomb.png" /></td>
+        <td>Miscellaneous</td>
+        <td>TypeScript</td>
+        <td><a href="https://abbekeultjes.nl/honeycomb" target="_blank">Honeycomb</a></td>
+        <td>Create hex grids easily, in node or the browser.</td>
+        <th><a href="https://github.com/flauwekeul/honeycomb" target="_blank"><img alt="Honeycomb" src="https://img.shields.io/github/stars/flauwekeul/honeycomb?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="GitHub Achievements" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-GitHub-Achievements.jpg" /></td>
+        <td>Miscellaneous</td>
+        <td>Markdown</td>
+        <td><a href="https://drknzz.github.io/GitHub-Achievements/" target="_blank">GitHub Achievements</a></td>
+        <td>? A Complete List of GitHub Profile Badges and Achievements ?</td>
+        <th><a href="https://github.com/drknzz/GitHub-Achievements" target="_blank"><img alt="GitHub Achievements" src="https://img.shields.io/github/stars/drknzz/GitHub-Achievements?style=social" /></a></th>
     </tr>
 
 </table>
@@ -4101,6 +4117,14 @@
         <td>The `termii_sdk` is a Python package that facilitates seamless integration with the Termii API, empowering developers to send SMS, voice, and email messages within their applications.</td>
         <th><a href="https://github.com/prmpsmart/termii_sdk" target="_blank"><img alt="termii_sdk" src="https://img.shields.io/github/stars/prmpsmart/termii_sdk?style=social" /></a></th>
     </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Neon - JSON Serialization Library for Delphi" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-delphi-neon.jpg" /></td>
+        <td>Productivity</td>
+        <td>Pascal</td>
+        <td><a href="https://github.com/paolo-rossi/delphi-neon" target="_blank">Neon - JSON Serialization Library for Delphi</a></td>
+        <td>JSON Serialization library for Delphi</td>
+        <th><a href="https://github.com/paolo-rossi/delphi-neon" target="_blank"><img alt="Neon - JSON Serialization Library for Delphi" src="https://img.shields.io/github/stars/paolo-rossi/delphi-neon?style=social" /></a></th>
+    </tr>
 
 </table>
 
@@ -4744,6 +4768,14 @@
         <td><a href="https://www.betterscan.io" target="_blank">Betterscan CE</a></td>
         <td>Code Scanning/SAST/Static Analysis/Linting using many tools/Scanners + OpenAI GPT with One Report (Code, IaC) - Betterscan Community Edition (CE)</td>
         <th><a href="https://github.com/marcinguy/betterscan-ce" target="_blank"><img alt="Betterscan CE" src="https://img.shields.io/github/stars/marcinguy/betterscan-ce?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Delphi JWT Library" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-delphi-jose-jwt.jpg" /></td>
+        <td>Security</td>
+        <td>Pascal</td>
+        <td><a href="https://github.com/paolo-rossi/delphi-jose-jwt" target="_blank">Delphi JWT Library</a></td>
+        <td>Delphi implementation of JOSE (JSON Object Signing and Encryption) and JWT (JSON Web Token)</td>
+        <th><a href="https://github.com/paolo-rossi/delphi-jose-jwt" target="_blank"><img alt="Delphi JWT Library" src="https://img.shields.io/github/stars/paolo-rossi/delphi-jose-jwt?style=social" /></a></th>
     </tr>
 
 </table>
@@ -6361,6 +6393,14 @@
         <td>Your Engineering Gen AI Team member ???</td>
         <th><a href="https://github.com/genia-dev/GeniA" target="_blank"><img alt="GeniA" src="https://img.shields.io/github/stars/genia-dev/GeniA?style=social" /></a></th>
     </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Gammasoft71" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-xtd.png" /></td>
+        <td>Infrastructure</td>
+        <td>C++</td>
+        <td><a href="https://gammasoft71.github.io/xtd" target="_blank">Gammasoft71</a></td>
+        <td>Free open-source modern C++17 / C++20 framework to create console, GUI (forms like WinForms) and unit test applications on Microsoft Windows, Apple macOS and Linux.</td>
+        <th><a href="https://github.com/gammasoft71/xtd" target="_blank"><img alt="Gammasoft71" src="https://img.shields.io/github/stars/gammasoft71/xtd?style=social" /></a></th>
+    </tr>
 
 </table>
 
@@ -6537,6 +6577,14 @@
         <th><a href="https://github.com/doseofted/prim-rpc" target="_blank"><img alt="Prim+RPC" src="https://img.shields.io/github/stars/doseofted/prim-rpc?style=social" /></a></th>
     </tr>
     <tr>
+        <td nowrap="nowrap"><img width="33" alt="Stack-chan" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-stack-chan-1.jpg" /></td>
+        <td>Miscellaneous</td>
+        <td>TypeScript</td>
+        <td><a href="https://github.com/meganetaaan/stack-chan" target="_blank">Stack-chan</a></td>
+        <td>A JavaScript-driven M5Stack-embedded super-kawaii robot.</td>
+        <th><a href="https://github.com/meganetaaan/stack-chan" target="_blank"><img alt="Stack-chan" src="https://img.shields.io/github/stars/meganetaaan/stack-chan?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="NativeScript-Vue" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-nativescript-vue-1.png" /></td>
         <td>Infrastructure</td>
         <td>TypeScript</td>
@@ -6663,14 +6711,6 @@
         <td><a href="https://rewind-ui.dev" target="_blank">Rewind-UI</a></td>
         <td>A React component library for building modern web applications using Tailwind CSS.</td>
         <th><a href="https://github.com/rewindui/rewindui" target="_blank"><img alt="Rewind-UI" src="https://img.shields.io/github/stars/rewindui/rewindui?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Stack-chan" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-stack-chan-1.jpg" /></td>
-        <td>Miscellaneous</td>
-        <td>TypeScript</td>
-        <td><a href="https://github.com/meganetaaan/stack-chan" target="_blank">Stack-chan</a></td>
-        <td>A JavaScript-driven M5Stack-embedded super-kawaii robot.</td>
-        <th><a href="https://github.com/meganetaaan/stack-chan" target="_blank"><img alt="Stack-chan" src="https://img.shields.io/github/stars/meganetaaan/stack-chan?style=social" /></a></th>
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="x-crawl" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-x-crawl.jpg" /></td>
@@ -7431,6 +7471,14 @@
         <td><a href="https://github.com/meganetaaan/stack-chan" target="_blank">Stack-chan</a></td>
         <td>A JavaScript-driven M5Stack-embedded super-kawaii robot.</td>
         <th><a href="https://github.com/meganetaaan/stack-chan" target="_blank"><img alt="Stack-chan" src="https://img.shields.io/github/stars/meganetaaan/stack-chan?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Honeycomb" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-honeycomb.png" /></td>
+        <td>Miscellaneous</td>
+        <td>TypeScript</td>
+        <td><a href="https://abbekeultjes.nl/honeycomb" target="_blank">Honeycomb</a></td>
+        <td>Create hex grids easily, in node or the browser.</td>
+        <th><a href="https://github.com/flauwekeul/honeycomb" target="_blank"><img alt="Honeycomb" src="https://img.shields.io/github/stars/flauwekeul/honeycomb?style=social" /></a></th>
     </tr>
 
 </table>
@@ -10834,6 +10882,14 @@
         <td>Arduino library to display numbers and text on a 4 and 6 digit 7-segment TM1637 display modules.</td>
         <th><a href="https://github.com/jasonacox/TM1637TinyDisplay" target="_blank"><img alt="TM1637TinyDisplay" src="https://img.shields.io/github/stars/jasonacox/TM1637TinyDisplay?style=social" /></a></th>
     </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Gammasoft71" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-xtd.png" /></td>
+        <td>Infrastructure</td>
+        <td>C++</td>
+        <td><a href="https://gammasoft71.github.io/xtd" target="_blank">Gammasoft71</a></td>
+        <td>Free open-source modern C++17 / C++20 framework to create console, GUI (forms like WinForms) and unit test applications on Microsoft Windows, Apple macOS and Linux.</td>
+        <th><a href="https://github.com/gammasoft71/xtd" target="_blank"><img alt="Gammasoft71" src="https://img.shields.io/github/stars/gammasoft71/xtd?style=social" /></a></th>
+    </tr>
 
 </table>
 
@@ -11448,6 +11504,14 @@
         <td>Official Discord API Documentation</td>
         <th><a href="https://github.com/discord/discord-api-docs" target="_blank"><img alt="Discord Developer Portal" src="https://img.shields.io/github/stars/discord/discord-api-docs?style=social" /></a></th>
     </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="GitHub Achievements" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-GitHub-Achievements.jpg" /></td>
+        <td>Miscellaneous</td>
+        <td>Markdown</td>
+        <td><a href="https://drknzz.github.io/GitHub-Achievements/" target="_blank">GitHub Achievements</a></td>
+        <td>? A Complete List of GitHub Profile Badges and Achievements ?</td>
+        <th><a href="https://github.com/drknzz/GitHub-Achievements" target="_blank"><img alt="GitHub Achievements" src="https://img.shields.io/github/stars/drknzz/GitHub-Achievements?style=social" /></a></th>
+    </tr>
 
 </table>
 
@@ -11947,6 +12011,22 @@
         <td><a href="http://www.cnpack.org" target="_blank">CnPack Component Package</a></td>
         <td>CnPack VCL Components</td>
         <th><a href="https://github.com/cnpack/cnvcl" target="_blank"><img alt="CnPack Component Package" src="https://img.shields.io/github/stars/cnpack/cnvcl?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Delphi JWT Library" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-delphi-jose-jwt.jpg" /></td>
+        <td>Security</td>
+        <td>Pascal</td>
+        <td><a href="https://github.com/paolo-rossi/delphi-jose-jwt" target="_blank">Delphi JWT Library</a></td>
+        <td>Delphi implementation of JOSE (JSON Object Signing and Encryption) and JWT (JSON Web Token)</td>
+        <th><a href="https://github.com/paolo-rossi/delphi-jose-jwt" target="_blank"><img alt="Delphi JWT Library" src="https://img.shields.io/github/stars/paolo-rossi/delphi-jose-jwt?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Neon - JSON Serialization Library for Delphi" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-delphi-neon.jpg" /></td>
+        <td>Productivity</td>
+        <td>Pascal</td>
+        <td><a href="https://github.com/paolo-rossi/delphi-neon" target="_blank">Neon - JSON Serialization Library for Delphi</a></td>
+        <td>JSON Serialization library for Delphi</td>
+        <th><a href="https://github.com/paolo-rossi/delphi-neon" target="_blank"><img alt="Neon - JSON Serialization Library for Delphi" src="https://img.shields.io/github/stars/paolo-rossi/delphi-neon?style=social" /></a></th>
     </tr>
 
 </table>
