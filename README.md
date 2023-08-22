@@ -156,12 +156,28 @@
         <th>Stargazers</th>
     </tr>
         <tr>
+        <td nowrap="nowrap"><img width="33" alt="x-crawl" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-x-crawl.jpg" /></td>
+        <td>Miscellaneous</td>
+        <td>TypeScript</td>
+        <td><a href="https://github.com/coder-hxl/x-crawl" target="_blank">x-crawl</a></td>
+        <td>x-crawl is a flexible Node.js multifunctional crawler library. Flexible usage and numerous functions can help you quickly, safely, and stably crawl pages, interfaces, and files. ---------------- x-…</td>
+        <th><a href="https://github.com/coder-hxl/x-crawl" target="_blank"><img alt="x-crawl" src="https://img.shields.io/github/stars/coder-hxl/x-crawl?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="Stack-chan" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-stack-chan-1.jpg" /></td>
         <td>Miscellaneous</td>
         <td>TypeScript</td>
         <td><a href="https://github.com/meganetaaan/stack-chan" target="_blank">Stack-chan</a></td>
         <td>A JavaScript-driven M5Stack-embedded super-kawaii robot.</td>
         <th><a href="https://github.com/meganetaaan/stack-chan" target="_blank"><img alt="Stack-chan" src="https://img.shields.io/github/stars/meganetaaan/stack-chan?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="PFL-Non-IID" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-PFL-Non-IID.jpg" /></td>
+        <td>Infrastructure</td>
+        <td>Python</td>
+        <td><a href="https://github.com/TsingZ0/PFL-Non-IID" target="_blank">PFL-Non-IID</a></td>
+        <td>Personalized federated learning simulation platform with non-IID and unbalanced dataset</td>
+        <th><a href="https://github.com/TsingZ0/PFL-Non-IID" target="_blank"><img alt="PFL-Non-IID" src="https://img.shields.io/github/stars/TsingZ0/PFL-Non-IID?style=social" /></a></th>
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="Stack-chan" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-stack-chan.jpg" /></td>
@@ -178,14 +194,6 @@
         <td><a href="https://github.com/paulbrodersen/netgraph" target="_blank">Netgraph</a></td>
         <td>Publication-quality network visualisations in python</td>
         <th><a href="https://github.com/paulbrodersen/netgraph" target="_blank"><img alt="Netgraph" src="https://img.shields.io/github/stars/paulbrodersen/netgraph?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="PFL-Non-IID" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-PFL-Non-IID.jpg" /></td>
-        <td>Infrastructure</td>
-        <td>Python</td>
-        <td><a href="https://github.com/TsingZ0/PFL-Non-IID" target="_blank">PFL-Non-IID</a></td>
-        <td>Personalized federated learning simulation platform with non-IID and unbalanced dataset</td>
-        <th><a href="https://github.com/TsingZ0/PFL-Non-IID" target="_blank"><img alt="PFL-Non-IID" src="https://img.shields.io/github/stars/TsingZ0/PFL-Non-IID?style=social" /></a></th>
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="termii_sdk" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-termii_sdk.jpg" /></td>
@@ -306,14 +314,6 @@
         <td><a href="https://chips-n-salsa.cicirello.org/" target="_blank">Chips-n-Salsa</a></td>
         <td>A Java library of Customizable, Hybridizable, Iterative, Parallel, Stochastic, and Self-Adaptive Local Search Algorithms</td>
         <th><a href="https://github.com/cicirello/Chips-n-Salsa" target="_blank"><img alt="Chips-n-Salsa" src="https://img.shields.io/github/stars/cicirello/Chips-n-Salsa?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="JavaPermutationTools" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-JavaPermutationTools.jpg" /></td>
-        <td>Miscellaneous</td>
-        <td>Java</td>
-        <td><a href="https://jpt.cicirello.org/" target="_blank">JavaPermutationTools</a></td>
-        <td>A Java library for computation on permutations and sequences</td>
-        <th><a href="https://github.com/cicirello/JavaPermutationTools" target="_blank"><img alt="JavaPermutationTools" src="https://img.shields.io/github/stars/cicirello/JavaPermutationTools?style=social" /></a></th>
     </tr>
 
 </table>
@@ -1368,6 +1368,14 @@
         <td><a href="https://github.com/meganetaaan/stack-chan" target="_blank">Stack-chan</a></td>
         <td>A JavaScript-driven M5Stack-embedded super-kawaii robot.</td>
         <th><a href="https://github.com/meganetaaan/stack-chan" target="_blank"><img alt="Stack-chan" src="https://img.shields.io/github/stars/meganetaaan/stack-chan?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="x-crawl" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-x-crawl.jpg" /></td>
+        <td>Miscellaneous</td>
+        <td>TypeScript</td>
+        <td><a href="https://github.com/coder-hxl/x-crawl" target="_blank">x-crawl</a></td>
+        <td>x-crawl is a flexible Node.js multifunctional crawler library. Flexible usage and numerous functions can help you quickly, safely, and stably crawl pages, interfaces, and files. ---------------- x-…</td>
+        <th><a href="https://github.com/coder-hxl/x-crawl" target="_blank"><img alt="x-crawl" src="https://img.shields.io/github/stars/coder-hxl/x-crawl?style=social" /></a></th>
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="Cemu Emulator" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-Cemu.png" /></td>
@@ -5458,6 +5466,14 @@
         <th><a href="https://github.com/jasonacox/tinytuya" target="_blank"><img alt="TinyTuya" src="https://img.shields.io/github/stars/jasonacox/tinytuya?style=social" /></a></th>
     </tr>
     <tr>
+        <td nowrap="nowrap"><img width="33" alt="PFL-Non-IID" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-PFL-Non-IID.jpg" /></td>
+        <td>Infrastructure</td>
+        <td>Python</td>
+        <td><a href="https://github.com/TsingZ0/PFL-Non-IID" target="_blank">PFL-Non-IID</a></td>
+        <td>Personalized federated learning simulation platform with non-IID and unbalanced dataset</td>
+        <th><a href="https://github.com/TsingZ0/PFL-Non-IID" target="_blank"><img alt="PFL-Non-IID" src="https://img.shields.io/github/stars/TsingZ0/PFL-Non-IID?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="ClusterFuzz" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-clusterfuzz.png" /></td>
         <td>Infrastructure</td>
         <td>Python</td>
@@ -6345,14 +6361,6 @@
         <td>Your Engineering Gen AI Team member ???</td>
         <th><a href="https://github.com/genia-dev/GeniA" target="_blank"><img alt="GeniA" src="https://img.shields.io/github/stars/genia-dev/GeniA?style=social" /></a></th>
     </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="PFL-Non-IID" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-PFL-Non-IID.jpg" /></td>
-        <td>Infrastructure</td>
-        <td>Python</td>
-        <td><a href="https://github.com/TsingZ0/PFL-Non-IID" target="_blank">PFL-Non-IID</a></td>
-        <td>Personalized federated learning simulation platform with non-IID and unbalanced dataset</td>
-        <th><a href="https://github.com/TsingZ0/PFL-Non-IID" target="_blank"><img alt="PFL-Non-IID" src="https://img.shields.io/github/stars/TsingZ0/PFL-Non-IID?style=social" /></a></th>
-    </tr>
 
 </table>
 
@@ -6663,6 +6671,14 @@
         <td><a href="https://github.com/meganetaaan/stack-chan" target="_blank">Stack-chan</a></td>
         <td>A JavaScript-driven M5Stack-embedded super-kawaii robot.</td>
         <th><a href="https://github.com/meganetaaan/stack-chan" target="_blank"><img alt="Stack-chan" src="https://img.shields.io/github/stars/meganetaaan/stack-chan?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="x-crawl" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-x-crawl.jpg" /></td>
+        <td>Miscellaneous</td>
+        <td>TypeScript</td>
+        <td><a href="https://github.com/coder-hxl/x-crawl" target="_blank">x-crawl</a></td>
+        <td>x-crawl is a flexible Node.js multifunctional crawler library. Flexible usage and numerous functions can help you quickly, safely, and stably crawl pages, interfaces, and files. ---------------- x-…</td>
+        <th><a href="https://github.com/coder-hxl/x-crawl" target="_blank"><img alt="x-crawl" src="https://img.shields.io/github/stars/coder-hxl/x-crawl?style=social" /></a></th>
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="The Lounge" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-thelounge.png" /></td>
@@ -9789,6 +9805,14 @@
         <th><a href="https://github.com/jasonacox/tinytuya" target="_blank"><img alt="TinyTuya" src="https://img.shields.io/github/stars/jasonacox/tinytuya?style=social" /></a></th>
     </tr>
     <tr>
+        <td nowrap="nowrap"><img width="33" alt="PFL-Non-IID" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-PFL-Non-IID.jpg" /></td>
+        <td>Infrastructure</td>
+        <td>Python</td>
+        <td><a href="https://github.com/TsingZ0/PFL-Non-IID" target="_blank">PFL-Non-IID</a></td>
+        <td>Personalized federated learning simulation platform with non-IID and unbalanced dataset</td>
+        <th><a href="https://github.com/TsingZ0/PFL-Non-IID" target="_blank"><img alt="PFL-Non-IID" src="https://img.shields.io/github/stars/TsingZ0/PFL-Non-IID?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="ClusterFuzz" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-clusterfuzz.png" /></td>
         <td>Infrastructure</td>
         <td>Python</td>
@@ -10379,14 +10403,6 @@
         <td><a href="https://github.com/paulbrodersen/netgraph" target="_blank">Netgraph</a></td>
         <td>Publication-quality network visualisations in python</td>
         <th><a href="https://github.com/paulbrodersen/netgraph" target="_blank"><img alt="Netgraph" src="https://img.shields.io/github/stars/paulbrodersen/netgraph?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="PFL-Non-IID" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-PFL-Non-IID.jpg" /></td>
-        <td>Infrastructure</td>
-        <td>Python</td>
-        <td><a href="https://github.com/TsingZ0/PFL-Non-IID" target="_blank">PFL-Non-IID</a></td>
-        <td>Personalized federated learning simulation platform with non-IID and unbalanced dataset</td>
-        <th><a href="https://github.com/TsingZ0/PFL-Non-IID" target="_blank"><img alt="PFL-Non-IID" src="https://img.shields.io/github/stars/TsingZ0/PFL-Non-IID?style=social" /></a></th>
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="termii_sdk" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-termii_sdk.jpg" /></td>
