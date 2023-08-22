@@ -137,6 +137,8 @@
                 <a href="#mustache">Top 20 Mustache libraries</a>
              </li>          <li>
                 <a href="#svelte">Top 20 Svelte libraries</a>
+             </li>          <li>
+                <a href="#sql">Top 20 SQL libraries</a>
              </li>        
         </ul>
     </li>
@@ -192,6 +194,14 @@
         <td><a href="https://github.com/prmpsmart/termii_sdk" target="_blank">termii_sdk</a></td>
         <td>The `termii_sdk` is a Python package that facilitates seamless integration with the Termii API, empowering developers to send SMS, voice, and email messages within their applications.</td>
         <th><a href="https://github.com/prmpsmart/termii_sdk" target="_blank"><img alt="termii_sdk" src="https://img.shields.io/github/stars/prmpsmart/termii_sdk?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="HackerRank-SQL-Challenges-Solutions" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-HackerRank-SQL-Challenges-Solutions.jpg" /></td>
+        <td>Analytics</td>
+        <td>SQL</td>
+        <td><a href="https://github.com/Thomas-George-T/HackerRank-SQL-Challenges-Solutions" target="_blank">HackerRank-SQL-Challenges-Solutions</a></td>
+        <td>The solutions of all SQL hackerrank challenges using MySQL environment</td>
+        <th><a href="https://github.com/Thomas-George-T/HackerRank-SQL-Challenges-Solutions" target="_blank"><img alt="HackerRank-SQL-Challenges-Solutions" src="https://img.shields.io/github/stars/Thomas-George-T/HackerRank-SQL-Challenges-Solutions?style=social" /></a></th>
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="mirrord" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-mirrord.jpg" /></td>
@@ -304,14 +314,6 @@
         <td><a href="https://jpt.cicirello.org/" target="_blank">JavaPermutationTools</a></td>
         <td>A Java library for computation on permutations and sequences</td>
         <th><a href="https://github.com/cicirello/JavaPermutationTools" target="_blank"><img alt="JavaPermutationTools" src="https://img.shields.io/github/stars/cicirello/JavaPermutationTools?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="ρμ" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-rho-mu.jpg" /></td>
-        <td>Miscellaneous</td>
-        <td>Java</td>
-        <td><a href="https://rho-mu.cicirello.org" target="_blank">ρμ</a></td>
-        <td>ρμ - a Java library of Randomization enHancements and Other Math Utilities</td>
-        <th><a href="https://github.com/cicirello/rho-mu" target="_blank"><img alt="ρμ" src="https://img.shields.io/github/stars/cicirello/rho-mu?style=social" /></a></th>
     </tr>
 
 </table>
@@ -4352,6 +4354,14 @@
         <td><a href="https://github.com/paulbrodersen/netgraph" target="_blank">Netgraph</a></td>
         <td>Publication-quality network visualisations in python</td>
         <th><a href="https://github.com/paulbrodersen/netgraph" target="_blank"><img alt="Netgraph" src="https://img.shields.io/github/stars/paulbrodersen/netgraph?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="HackerRank-SQL-Challenges-Solutions" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-HackerRank-SQL-Challenges-Solutions.jpg" /></td>
+        <td>Analytics</td>
+        <td>SQL</td>
+        <td><a href="https://github.com/Thomas-George-T/HackerRank-SQL-Challenges-Solutions" target="_blank">HackerRank-SQL-Challenges-Solutions</a></td>
+        <td>The solutions of all SQL hackerrank challenges using MySQL environment</td>
+        <th><a href="https://github.com/Thomas-George-T/HackerRank-SQL-Challenges-Solutions" target="_blank"><img alt="HackerRank-SQL-Challenges-Solutions" src="https://img.shields.io/github/stars/Thomas-George-T/HackerRank-SQL-Challenges-Solutions?style=social" /></a></th>
     </tr>
 
 </table>
@@ -12003,6 +12013,28 @@
         <td><a href="https://biplobsd.me/apps/view/as.md" target="_blank">Addition and Subtraction</a></td>
         <td>Addition and Subtraction browser extension</td>
         <th><a href="https://github.com/biplobsd/as" target="_blank"><img alt="Addition and Subtraction" src="https://img.shields.io/github/stars/biplobsd/as?style=social" /></a></th>
+    </tr>
+
+</table>
+
+<br /><br />
+<h2 id="sql">Top 20 SQL libraries</h2>
+<table>
+    <tr>
+        <th>Icon</th>
+        <th>Category</th>
+        <th>Language</th>
+        <th>Name</th>
+        <th>Description</th>
+        <th>Stargazers</th>
+    </tr>
+        <tr>
+        <td nowrap="nowrap"><img width="33" alt="HackerRank-SQL-Challenges-Solutions" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-HackerRank-SQL-Challenges-Solutions.jpg" /></td>
+        <td>Analytics</td>
+        <td>SQL</td>
+        <td><a href="https://github.com/Thomas-George-T/HackerRank-SQL-Challenges-Solutions" target="_blank">HackerRank-SQL-Challenges-Solutions</a></td>
+        <td>The solutions of all SQL hackerrank challenges using MySQL environment</td>
+        <th><a href="https://github.com/Thomas-George-T/HackerRank-SQL-Challenges-Solutions" target="_blank"><img alt="HackerRank-SQL-Challenges-Solutions" src="https://img.shields.io/github/stars/Thomas-George-T/HackerRank-SQL-Challenges-Solutions?style=social" /></a></th>
     </tr>
 
 </table>
