@@ -92,9 +92,11 @@
              </li>          <li>
                 <a href="#jupyter-notebook">Top 20 Jupyter Notebook libraries</a>
              </li>          <li>
-                <a href="#c">Top 20 C libraries</a>
+                <a href="#pascal">Top 20 Pascal libraries</a>
              </li>          <li>
                 <a href="#markdown">Top 20 Markdown libraries</a>
+             </li>          <li>
+                <a href="#c">Top 20 C libraries</a>
              </li>          <li>
                 <a href="#less">Top 20 Less libraries</a>
              </li>          <li>
@@ -130,8 +132,6 @@
              </li>          <li>
                 <a href="#solidity">Top 20 Solidity libraries</a>
              </li>          <li>
-                <a href="#pascal">Top 20 Pascal libraries</a>
-             </li>          <li>
                 <a href="#nim">Top 20 Nim libraries</a>
              </li>          <li>
                 <a href="#mustache">Top 20 Mustache libraries</a>
@@ -164,6 +164,22 @@
         <th><a href="https://github.com/coder-hxl/x-crawl" target="_blank"><img alt="x-crawl" src="https://img.shields.io/github/stars/coder-hxl/x-crawl?style=social" /></a></th>
     </tr>
     <tr>
+        <td nowrap="nowrap"><img width="33" alt="Neon - JSON Serialization Library for Delphi" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-delphi-neon.jpg" /></td>
+        <td>Productivity</td>
+        <td>Pascal</td>
+        <td><a href="https://github.com/paolo-rossi/delphi-neon" target="_blank">Neon - JSON Serialization Library for Delphi</a></td>
+        <td>JSON Serialization library for Delphi</td>
+        <th><a href="https://github.com/paolo-rossi/delphi-neon" target="_blank"><img alt="Neon - JSON Serialization Library for Delphi" src="https://img.shields.io/github/stars/paolo-rossi/delphi-neon?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="GitHub Achievements" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-GitHub-Achievements.jpg" /></td>
+        <td>Miscellaneous</td>
+        <td>Markdown</td>
+        <td><a href="https://drknzz.github.io/GitHub-Achievements/" target="_blank">GitHub Achievements</a></td>
+        <td>? A Complete List of GitHub Profile Badges and Achievements ?</td>
+        <th><a href="https://github.com/drknzz/GitHub-Achievements" target="_blank"><img alt="GitHub Achievements" src="https://img.shields.io/github/stars/drknzz/GitHub-Achievements?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="Gammasoft71" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-xtd.png" /></td>
         <td>Infrastructure</td>
         <td>C++</td>
@@ -186,22 +202,6 @@
         <td><a href="https://github.com/paolo-rossi/delphi-jose-jwt" target="_blank">Delphi JWT Library</a></td>
         <td>Delphi implementation of JOSE (JSON Object Signing and Encryption) and JWT (JSON Web Token)</td>
         <th><a href="https://github.com/paolo-rossi/delphi-jose-jwt" target="_blank"><img alt="Delphi JWT Library" src="https://img.shields.io/github/stars/paolo-rossi/delphi-jose-jwt?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Neon - JSON Serialization Library for Delphi" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-delphi-neon.jpg" /></td>
-        <td>Productivity</td>
-        <td>Pascal</td>
-        <td><a href="https://github.com/paolo-rossi/delphi-neon" target="_blank">Neon - JSON Serialization Library for Delphi</a></td>
-        <td>JSON Serialization library for Delphi</td>
-        <th><a href="https://github.com/paolo-rossi/delphi-neon" target="_blank"><img alt="Neon - JSON Serialization Library for Delphi" src="https://img.shields.io/github/stars/paolo-rossi/delphi-neon?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="GitHub Achievements" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-GitHub-Achievements.jpg" /></td>
-        <td>Miscellaneous</td>
-        <td>Markdown</td>
-        <td><a href="https://drknzz.github.io/GitHub-Achievements/" target="_blank">GitHub Achievements</a></td>
-        <td>? A Complete List of GitHub Profile Badges and Achievements ?</td>
-        <th><a href="https://github.com/drknzz/GitHub-Achievements" target="_blank"><img alt="GitHub Achievements" src="https://img.shields.io/github/stars/drknzz/GitHub-Achievements?style=social" /></a></th>
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="Stack-chan" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-stack-chan-1.jpg" /></td>
@@ -1378,6 +1378,14 @@
         <th><a href="https://github.com/coder-hxl/x-crawl" target="_blank"><img alt="x-crawl" src="https://img.shields.io/github/stars/coder-hxl/x-crawl?style=social" /></a></th>
     </tr>
     <tr>
+        <td nowrap="nowrap"><img width="33" alt="GitHub Achievements" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-GitHub-Achievements.jpg" /></td>
+        <td>Miscellaneous</td>
+        <td>Markdown</td>
+        <td><a href="https://drknzz.github.io/GitHub-Achievements/" target="_blank">GitHub Achievements</a></td>
+        <td>? A Complete List of GitHub Profile Badges and Achievements ?</td>
+        <th><a href="https://github.com/drknzz/GitHub-Achievements" target="_blank"><img alt="GitHub Achievements" src="https://img.shields.io/github/stars/drknzz/GitHub-Achievements?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="Cemu Emulator" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-Cemu.png" /></td>
         <td>Miscellaneous</td>
         <td>C++</td>
@@ -2217,14 +2225,6 @@
         <td>Create hex grids easily, in node or the browser.</td>
         <th><a href="https://github.com/flauwekeul/honeycomb" target="_blank"><img alt="Honeycomb" src="https://img.shields.io/github/stars/flauwekeul/honeycomb?style=social" /></a></th>
     </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="GitHub Achievements" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-GitHub-Achievements.jpg" /></td>
-        <td>Miscellaneous</td>
-        <td>Markdown</td>
-        <td><a href="https://drknzz.github.io/GitHub-Achievements/" target="_blank">GitHub Achievements</a></td>
-        <td>? A Complete List of GitHub Profile Badges and Achievements ?</td>
-        <th><a href="https://github.com/drknzz/GitHub-Achievements" target="_blank"><img alt="GitHub Achievements" src="https://img.shields.io/github/stars/drknzz/GitHub-Achievements?style=social" /></a></th>
-    </tr>
 
 </table>
 
@@ -2820,6 +2820,14 @@
         <td><a href="https://mirrord.dev" target="_blank">mirrord</a></td>
         <td>Connect your local process and your cloud environment, and run local code in cloud conditions.</td>
         <th><a href="https://github.com/metalbear-co/mirrord" target="_blank"><img alt="mirrord" src="https://img.shields.io/github/stars/metalbear-co/mirrord?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Neon - JSON Serialization Library for Delphi" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-delphi-neon.jpg" /></td>
+        <td>Productivity</td>
+        <td>Pascal</td>
+        <td><a href="https://github.com/paolo-rossi/delphi-neon" target="_blank">Neon - JSON Serialization Library for Delphi</a></td>
+        <td>JSON Serialization library for Delphi</td>
+        <th><a href="https://github.com/paolo-rossi/delphi-neon" target="_blank"><img alt="Neon - JSON Serialization Library for Delphi" src="https://img.shields.io/github/stars/paolo-rossi/delphi-neon?style=social" /></a></th>
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="VS Code Docs" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-vscode-docs.png" /></td>
@@ -4116,14 +4124,6 @@
         <td><a href="https://github.com/prmpsmart/termii_sdk" target="_blank">termii_sdk</a></td>
         <td>The `termii_sdk` is a Python package that facilitates seamless integration with the Termii API, empowering developers to send SMS, voice, and email messages within their applications.</td>
         <th><a href="https://github.com/prmpsmart/termii_sdk" target="_blank"><img alt="termii_sdk" src="https://img.shields.io/github/stars/prmpsmart/termii_sdk?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Neon - JSON Serialization Library for Delphi" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-delphi-neon.jpg" /></td>
-        <td>Productivity</td>
-        <td>Pascal</td>
-        <td><a href="https://github.com/paolo-rossi/delphi-neon" target="_blank">Neon - JSON Serialization Library for Delphi</a></td>
-        <td>JSON Serialization library for Delphi</td>
-        <th><a href="https://github.com/paolo-rossi/delphi-neon" target="_blank"><img alt="Neon - JSON Serialization Library for Delphi" src="https://img.shields.io/github/stars/paolo-rossi/delphi-neon?style=social" /></a></th>
     </tr>
 
 </table>
@@ -11200,6 +11200,82 @@
 </table>
 
 <br /><br />
+<h2 id="pascal">Top 20 Pascal libraries</h2>
+<table>
+    <tr>
+        <th>Icon</th>
+        <th>Category</th>
+        <th>Language</th>
+        <th>Name</th>
+        <th>Description</th>
+        <th>Stargazers</th>
+    </tr>
+        <tr>
+        <td nowrap="nowrap"><img width="33" alt="Neon - JSON Serialization Library for Delphi" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-delphi-neon.jpg" /></td>
+        <td>Productivity</td>
+        <td>Pascal</td>
+        <td><a href="https://github.com/paolo-rossi/delphi-neon" target="_blank">Neon - JSON Serialization Library for Delphi</a></td>
+        <td>JSON Serialization library for Delphi</td>
+        <th><a href="https://github.com/paolo-rossi/delphi-neon" target="_blank"><img alt="Neon - JSON Serialization Library for Delphi" src="https://img.shields.io/github/stars/paolo-rossi/delphi-neon?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="CnPack IDE Wizards" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-cnwizards.png" /></td>
+        <td>Productivity</td>
+        <td>Pascal</td>
+        <td><a href="http://www.cnpack.org" target="_blank">CnPack IDE Wizards</a></td>
+        <td>CnPack IDE Wizards</td>
+        <th><a href="https://github.com/cnpack/cnwizards" target="_blank"><img alt="CnPack IDE Wizards" src="https://img.shields.io/github/stars/cnpack/cnwizards?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="CnPack Component Package" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-cnvcl.png" /></td>
+        <td>Productivity</td>
+        <td>Pascal</td>
+        <td><a href="http://www.cnpack.org" target="_blank">CnPack Component Package</a></td>
+        <td>CnPack VCL Components</td>
+        <th><a href="https://github.com/cnpack/cnvcl" target="_blank"><img alt="CnPack Component Package" src="https://img.shields.io/github/stars/cnpack/cnvcl?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Delphi JWT Library" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-delphi-jose-jwt.jpg" /></td>
+        <td>Security</td>
+        <td>Pascal</td>
+        <td><a href="https://github.com/paolo-rossi/delphi-jose-jwt" target="_blank">Delphi JWT Library</a></td>
+        <td>Delphi implementation of JOSE (JSON Object Signing and Encryption) and JWT (JSON Web Token)</td>
+        <th><a href="https://github.com/paolo-rossi/delphi-jose-jwt" target="_blank"><img alt="Delphi JWT Library" src="https://img.shields.io/github/stars/paolo-rossi/delphi-jose-jwt?style=social" /></a></th>
+    </tr>
+
+</table>
+
+<br /><br />
+<h2 id="markdown">Top 20 Markdown libraries</h2>
+<table>
+    <tr>
+        <th>Icon</th>
+        <th>Category</th>
+        <th>Language</th>
+        <th>Name</th>
+        <th>Description</th>
+        <th>Stargazers</th>
+    </tr>
+        <tr>
+        <td nowrap="nowrap"><img width="33" alt="GitHub Achievements" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-GitHub-Achievements.jpg" /></td>
+        <td>Miscellaneous</td>
+        <td>Markdown</td>
+        <td><a href="https://drknzz.github.io/GitHub-Achievements/" target="_blank">GitHub Achievements</a></td>
+        <td>? A Complete List of GitHub Profile Badges and Achievements ?</td>
+        <th><a href="https://github.com/drknzz/GitHub-Achievements" target="_blank"><img alt="GitHub Achievements" src="https://img.shields.io/github/stars/drknzz/GitHub-Achievements?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Discord Developer Portal" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-discord-api-docs.png" /></td>
+        <td>Collaboration</td>
+        <td>Markdown</td>
+        <td><a href="https://discord.com/developers/docs/intro" target="_blank">Discord Developer Portal</a></td>
+        <td>Official Discord API Documentation</td>
+        <th><a href="https://github.com/discord/discord-api-docs" target="_blank"><img alt="Discord Developer Portal" src="https://img.shields.io/github/stars/discord/discord-api-docs?style=social" /></a></th>
+    </tr>
+
+</table>
+
+<br /><br />
 <h2 id="c">Top 20 C libraries</h2>
 <table>
     <tr>
@@ -11481,36 +11557,6 @@
         <td><a href="https://github.com/jasonacox/Build-OpenSSL-cURL" target="_blank">Build OpenSSL-cURL for iOS</a></td>
         <td>Scripts to build OpenSSL, HTTP/2 (nghttp2) and cURL (libcurl) for MacOS, iOS and tvOS devices (x86_64, armv7, armv7s, arm64, arm64e). Now Supporting Apple Silicon, OpenSSL 3.0.x with TLS 1.3 and Ma…</td>
         <th><a href="https://github.com/jasonacox/Build-OpenSSL-cURL" target="_blank"><img alt="Build OpenSSL-cURL for iOS" src="https://img.shields.io/github/stars/jasonacox/Build-OpenSSL-cURL?style=social" /></a></th>
-    </tr>
-
-</table>
-
-<br /><br />
-<h2 id="markdown">Top 20 Markdown libraries</h2>
-<table>
-    <tr>
-        <th>Icon</th>
-        <th>Category</th>
-        <th>Language</th>
-        <th>Name</th>
-        <th>Description</th>
-        <th>Stargazers</th>
-    </tr>
-        <tr>
-        <td nowrap="nowrap"><img width="33" alt="Discord Developer Portal" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-discord-api-docs.png" /></td>
-        <td>Collaboration</td>
-        <td>Markdown</td>
-        <td><a href="https://discord.com/developers/docs/intro" target="_blank">Discord Developer Portal</a></td>
-        <td>Official Discord API Documentation</td>
-        <th><a href="https://github.com/discord/discord-api-docs" target="_blank"><img alt="Discord Developer Portal" src="https://img.shields.io/github/stars/discord/discord-api-docs?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="GitHub Achievements" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-GitHub-Achievements.jpg" /></td>
-        <td>Miscellaneous</td>
-        <td>Markdown</td>
-        <td><a href="https://drknzz.github.io/GitHub-Achievements/" target="_blank">GitHub Achievements</a></td>
-        <td>? A Complete List of GitHub Profile Badges and Achievements ?</td>
-        <th><a href="https://github.com/drknzz/GitHub-Achievements" target="_blank"><img alt="GitHub Achievements" src="https://img.shields.io/github/stars/drknzz/GitHub-Achievements?style=social" /></a></th>
     </tr>
 
 </table>
@@ -11981,52 +12027,6 @@
         <td><a href="https://github.com/PaulRBerg/foundry-template" target="_blank">Foundry Template</a></td>
         <td>Foundry-based template for developing Solidity smart contracts</td>
         <th><a href="https://github.com/PaulRBerg/foundry-template" target="_blank"><img alt="Foundry Template" src="https://img.shields.io/github/stars/PaulRBerg/foundry-template?style=social" /></a></th>
-    </tr>
-
-</table>
-
-<br /><br />
-<h2 id="pascal">Top 20 Pascal libraries</h2>
-<table>
-    <tr>
-        <th>Icon</th>
-        <th>Category</th>
-        <th>Language</th>
-        <th>Name</th>
-        <th>Description</th>
-        <th>Stargazers</th>
-    </tr>
-        <tr>
-        <td nowrap="nowrap"><img width="33" alt="CnPack IDE Wizards" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-cnwizards.png" /></td>
-        <td>Productivity</td>
-        <td>Pascal</td>
-        <td><a href="http://www.cnpack.org" target="_blank">CnPack IDE Wizards</a></td>
-        <td>CnPack IDE Wizards</td>
-        <th><a href="https://github.com/cnpack/cnwizards" target="_blank"><img alt="CnPack IDE Wizards" src="https://img.shields.io/github/stars/cnpack/cnwizards?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="CnPack Component Package" src="https://libraries.github20k.com/images/uploads/2023/07/newshot-cnvcl.png" /></td>
-        <td>Productivity</td>
-        <td>Pascal</td>
-        <td><a href="http://www.cnpack.org" target="_blank">CnPack Component Package</a></td>
-        <td>CnPack VCL Components</td>
-        <th><a href="https://github.com/cnpack/cnvcl" target="_blank"><img alt="CnPack Component Package" src="https://img.shields.io/github/stars/cnpack/cnvcl?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Delphi JWT Library" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-delphi-jose-jwt.jpg" /></td>
-        <td>Security</td>
-        <td>Pascal</td>
-        <td><a href="https://github.com/paolo-rossi/delphi-jose-jwt" target="_blank">Delphi JWT Library</a></td>
-        <td>Delphi implementation of JOSE (JSON Object Signing and Encryption) and JWT (JSON Web Token)</td>
-        <th><a href="https://github.com/paolo-rossi/delphi-jose-jwt" target="_blank"><img alt="Delphi JWT Library" src="https://img.shields.io/github/stars/paolo-rossi/delphi-jose-jwt?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Neon - JSON Serialization Library for Delphi" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-delphi-neon.jpg" /></td>
-        <td>Productivity</td>
-        <td>Pascal</td>
-        <td><a href="https://github.com/paolo-rossi/delphi-neon" target="_blank">Neon - JSON Serialization Library for Delphi</a></td>
-        <td>JSON Serialization library for Delphi</td>
-        <th><a href="https://github.com/paolo-rossi/delphi-neon" target="_blank"><img alt="Neon - JSON Serialization Library for Delphi" src="https://img.shields.io/github/stars/paolo-rossi/delphi-neon?style=social" /></a></th>
     </tr>
 
 </table>
