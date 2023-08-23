@@ -96,6 +96,8 @@
              </li>          <li>
                 <a href="#markdown">Top 20 Markdown libraries</a>
              </li>          <li>
+                <a href="#stylus">Top 20 Stylus libraries</a>
+             </li>          <li>
                 <a href="#c">Top 20 C libraries</a>
              </li>          <li>
                 <a href="#less">Top 20 Less libraries</a>
@@ -139,8 +141,6 @@
                 <a href="#svelte">Top 20 Svelte libraries</a>
              </li>          <li>
                 <a href="#sql">Top 20 SQL libraries</a>
-             </li>          <li>
-                <a href="#stylus">Top 20 Stylus libraries</a>
              </li>        
         </ul>
     </li>
@@ -182,6 +182,14 @@
         <th><a href="https://github.com/drknzz/GitHub-Achievements" target="_blank"><img alt="GitHub Achievements" src="https://img.shields.io/github/stars/drknzz/GitHub-Achievements?style=social" /></a></th>
     </tr>
     <tr>
+        <td nowrap="nowrap"><img width="33" alt="hexo-theme-redefine" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-hexo-theme-redefine.jpg" /></td>
+        <td>Miscellaneous</td>
+        <td>Stylus</td>
+        <td><a href="https://redefine.ohevan.com" target="_blank">hexo-theme-redefine</a></td>
+        <td>Redefine Hexo theme. Simple, Fast, Easy to Use. Redefine Your Writing</td>
+        <th><a href="https://github.com/EvanNotFound/hexo-theme-redefine" target="_blank"><img alt="hexo-theme-redefine" src="https://img.shields.io/github/stars/EvanNotFound/hexo-theme-redefine?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="Gammasoft71" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-xtd.png" /></td>
         <td>Infrastructure</td>
         <td>C++</td>
@@ -204,14 +212,6 @@
         <td><a href="https://github.com/paolo-rossi/delphi-jose-jwt" target="_blank">Delphi JWT Library</a></td>
         <td>Delphi implementation of JOSE (JSON Object Signing and Encryption) and JWT (JSON Web Token)</td>
         <th><a href="https://github.com/paolo-rossi/delphi-jose-jwt" target="_blank"><img alt="Delphi JWT Library" src="https://img.shields.io/github/stars/paolo-rossi/delphi-jose-jwt?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="hexo-theme-redefine" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-hexo-theme-redefine.jpg" /></td>
-        <td>Miscellaneous</td>
-        <td>Stylus</td>
-        <td><a href="https://redefine.ohevan.com" target="_blank">hexo-theme-redefine</a></td>
-        <td>Redefine Hexo theme. Simple, Fast, Easy to Use. Redefine Your Writing</td>
-        <th><a href="https://github.com/EvanNotFound/hexo-theme-redefine" target="_blank"><img alt="hexo-theme-redefine" src="https://img.shields.io/github/stars/EvanNotFound/hexo-theme-redefine?style=social" /></a></th>
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="Stack-chan" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-stack-chan-1.jpg" /></td>
@@ -1388,6 +1388,14 @@
         <th><a href="https://github.com/drknzz/GitHub-Achievements" target="_blank"><img alt="GitHub Achievements" src="https://img.shields.io/github/stars/drknzz/GitHub-Achievements?style=social" /></a></th>
     </tr>
     <tr>
+        <td nowrap="nowrap"><img width="33" alt="hexo-theme-redefine" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-hexo-theme-redefine.jpg" /></td>
+        <td>Miscellaneous</td>
+        <td>Stylus</td>
+        <td><a href="https://redefine.ohevan.com" target="_blank">hexo-theme-redefine</a></td>
+        <td>Redefine Hexo theme. Simple, Fast, Easy to Use. Redefine Your Writing</td>
+        <th><a href="https://github.com/EvanNotFound/hexo-theme-redefine" target="_blank"><img alt="hexo-theme-redefine" src="https://img.shields.io/github/stars/EvanNotFound/hexo-theme-redefine?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="Cemu Emulator" src="https://libraries.github20k.com/images/uploads/2023/05/newshot-Cemu.png" /></td>
         <td>Miscellaneous</td>
         <td>C++</td>
@@ -2226,14 +2234,6 @@
         <td><a href="https://abbekeultjes.nl/honeycomb" target="_blank">Honeycomb</a></td>
         <td>Create hex grids easily, in node or the browser.</td>
         <th><a href="https://github.com/flauwekeul/honeycomb" target="_blank"><img alt="Honeycomb" src="https://img.shields.io/github/stars/flauwekeul/honeycomb?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="hexo-theme-redefine" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-hexo-theme-redefine.jpg" /></td>
-        <td>Miscellaneous</td>
-        <td>Stylus</td>
-        <td><a href="https://redefine.ohevan.com" target="_blank">hexo-theme-redefine</a></td>
-        <td>Redefine Hexo theme. Simple, Fast, Easy to Use. Redefine Your Writing</td>
-        <th><a href="https://github.com/EvanNotFound/hexo-theme-redefine" target="_blank"><img alt="hexo-theme-redefine" src="https://img.shields.io/github/stars/EvanNotFound/hexo-theme-redefine?style=social" /></a></th>
     </tr>
 
 </table>
@@ -11286,6 +11286,28 @@
 </table>
 
 <br /><br />
+<h2 id="stylus">Top 20 Stylus libraries</h2>
+<table>
+    <tr>
+        <th>Icon</th>
+        <th>Category</th>
+        <th>Language</th>
+        <th>Name</th>
+        <th>Description</th>
+        <th>Stargazers</th>
+    </tr>
+        <tr>
+        <td nowrap="nowrap"><img width="33" alt="hexo-theme-redefine" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-hexo-theme-redefine.jpg" /></td>
+        <td>Miscellaneous</td>
+        <td>Stylus</td>
+        <td><a href="https://redefine.ohevan.com" target="_blank">hexo-theme-redefine</a></td>
+        <td>Redefine Hexo theme. Simple, Fast, Easy to Use. Redefine Your Writing</td>
+        <th><a href="https://github.com/EvanNotFound/hexo-theme-redefine" target="_blank"><img alt="hexo-theme-redefine" src="https://img.shields.io/github/stars/EvanNotFound/hexo-theme-redefine?style=social" /></a></th>
+    </tr>
+
+</table>
+
+<br /><br />
 <h2 id="c">Top 20 C libraries</h2>
 <table>
     <tr>
@@ -12141,28 +12163,6 @@
         <td><a href="https://github.com/Thomas-George-T/HackerRank-SQL-Challenges-Solutions" target="_blank">HackerRank-SQL-Challenges-Solutions</a></td>
         <td>The solutions of all SQL hackerrank challenges using MySQL environment</td>
         <th><a href="https://github.com/Thomas-George-T/HackerRank-SQL-Challenges-Solutions" target="_blank"><img alt="HackerRank-SQL-Challenges-Solutions" src="https://img.shields.io/github/stars/Thomas-George-T/HackerRank-SQL-Challenges-Solutions?style=social" /></a></th>
-    </tr>
-
-</table>
-
-<br /><br />
-<h2 id="stylus">Top 20 Stylus libraries</h2>
-<table>
-    <tr>
-        <th>Icon</th>
-        <th>Category</th>
-        <th>Language</th>
-        <th>Name</th>
-        <th>Description</th>
-        <th>Stargazers</th>
-    </tr>
-        <tr>
-        <td nowrap="nowrap"><img width="33" alt="hexo-theme-redefine" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-hexo-theme-redefine.jpg" /></td>
-        <td>Miscellaneous</td>
-        <td>Stylus</td>
-        <td><a href="https://redefine.ohevan.com" target="_blank">hexo-theme-redefine</a></td>
-        <td>Redefine Hexo theme. Simple, Fast, Easy to Use. Redefine Your Writing</td>
-        <th><a href="https://github.com/EvanNotFound/hexo-theme-redefine" target="_blank"><img alt="hexo-theme-redefine" src="https://img.shields.io/github/stars/EvanNotFound/hexo-theme-redefine?style=social" /></a></th>
     </tr>
 
 </table>
