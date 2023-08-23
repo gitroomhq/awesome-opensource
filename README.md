@@ -158,6 +158,14 @@
         <th>Stargazers</th>
     </tr>
         <tr>
+        <td nowrap="nowrap"><img width="33" alt="Little Rat" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-little-rat.jpg" /></td>
+        <td>Security</td>
+        <td>JavaScript</td>
+        <td><a href="https://github.com/dnakov/little-rat" target="_blank">Little Rat</a></td>
+        <td>? Small chrome extension to monitor (and optionally block) other extensions' network calls</td>
+        <th><a href="https://github.com/dnakov/little-rat" target="_blank"><img alt="Little Rat" src="https://img.shields.io/github/stars/dnakov/little-rat?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="x-crawl" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-x-crawl.jpg" /></td>
         <td>Miscellaneous</td>
         <td>TypeScript</td>
@@ -308,14 +316,6 @@
         <td><a href="https://github.com/Giannoudis/TimePeriodLibrary" target="_blank">Time Period Library for .NET</a></td>
         <td>Extensive time period calculations and individual calendar periods.</td>
         <th><a href="https://github.com/Giannoudis/TimePeriodLibrary" target="_blank"><img alt="Time Period Library for .NET" src="https://img.shields.io/github/stars/Giannoudis/TimePeriodLibrary?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="inlang" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-inlang.png" /></td>
-        <td>Collaboration</td>
-        <td>TypeScript</td>
-        <td><a href="https://inlang.com" target="_blank">inlang</a></td>
-        <td>globalization infrastructure for software &amp;&amp; version control for apps</td>
-        <th><a href="https://github.com/inlang/inlang" target="_blank"><img alt="inlang" src="https://img.shields.io/github/stars/inlang/inlang?style=social" /></a></th>
     </tr>
 
 </table>
@@ -4787,6 +4787,14 @@
         <td>Delphi implementation of JOSE (JSON Object Signing and Encryption) and JWT (JSON Web Token)</td>
         <th><a href="https://github.com/paolo-rossi/delphi-jose-jwt" target="_blank"><img alt="Delphi JWT Library" src="https://img.shields.io/github/stars/paolo-rossi/delphi-jose-jwt?style=social" /></a></th>
     </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Little Rat" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-little-rat.jpg" /></td>
+        <td>Security</td>
+        <td>JavaScript</td>
+        <td><a href="https://github.com/dnakov/little-rat" target="_blank">Little Rat</a></td>
+        <td>? Small chrome extension to monitor (and optionally block) other extensions' network calls</td>
+        <th><a href="https://github.com/dnakov/little-rat" target="_blank"><img alt="Little Rat" src="https://img.shields.io/github/stars/dnakov/little-rat?style=social" /></a></th>
+    </tr>
 
 </table>
 
@@ -9081,6 +9089,14 @@
         <td><a href="https://github.com/enhance-dev/enhance-ssr" target="_blank">Enhance</a></td>
         <td>Server side render for custom elements.</td>
         <th><a href="https://github.com/enhance-dev/enhance-ssr" target="_blank"><img alt="Enhance" src="https://img.shields.io/github/stars/enhance-dev/enhance-ssr?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Little Rat" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-little-rat.jpg" /></td>
+        <td>Security</td>
+        <td>JavaScript</td>
+        <td><a href="https://github.com/dnakov/little-rat" target="_blank">Little Rat</a></td>
+        <td>? Small chrome extension to monitor (and optionally block) other extensions' network calls</td>
+        <th><a href="https://github.com/dnakov/little-rat" target="_blank"><img alt="Little Rat" src="https://img.shields.io/github/stars/dnakov/little-rat?style=social" /></a></th>
     </tr>
 
 </table>
