@@ -141,6 +141,8 @@
                 <a href="#svelte">Top 20 Svelte libraries</a>
              </li>          <li>
                 <a href="#sql">Top 20 SQL libraries</a>
+             </li>          <li>
+                <a href="#elm">Top 20 Elm libraries</a>
              </li>        
         </ul>
     </li>
@@ -158,6 +160,22 @@
         <th>Stargazers</th>
     </tr>
         <tr>
+        <td nowrap="nowrap"><img width="33" alt="Azimutt" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-azimutt.png" /></td>
+        <td>Databases</td>
+        <td>Elm</td>
+        <td><a href="https://azimutt.app?ref=github-repo" target="_blank">Azimutt</a></td>
+        <td>Next-Gen ERD: Design, Explore, Document and Analyze your database</td>
+        <th><a href="https://github.com/azimuttapp/azimutt" target="_blank"><img alt="Azimutt" src="https://img.shields.io/github/stars/azimuttapp/azimutt?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Azimutt" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-azimutt-1.png" /></td>
+        <td>Databases</td>
+        <td>Elm</td>
+        <td><a href="https://azimutt.app?ref=github-repo" target="_blank">Azimutt</a></td>
+        <td>Next-Gen ERD: Design, Explore, Document and Analyze your database</td>
+        <th><a href="https://github.com/azimuttapp/azimutt" target="_blank"><img alt="Azimutt" src="https://img.shields.io/github/stars/azimuttapp/azimutt?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="Little Rat" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-little-rat.jpg" /></td>
         <td>Security</td>
         <td>JavaScript</td>
@@ -300,22 +318,6 @@
         <td><a href="https://ilihub.tech" target="_blank">ilihub</a></td>
         <td>The Mighty Code Empire ?</td>
         <th><a href="https://github.com/ilihub/ilihub" target="_blank"><img alt="ilihub" src="https://img.shields.io/github/stars/ilihub/ilihub?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Todo List Vite" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-todo-list-vite.jpg" /></td>
-        <td>Miscellaneous</td>
-        <td>TypeScript</td>
-        <td><a href="https://todo-list-eosin-theta.vercel.app" target="_blank">Todo List Vite</a></td>
-        <td>A user-friendly and responsive Todo List web application developed using React and Vite.</td>
-        <th><a href="https://github.com/tuanductran/todo-list-vite" target="_blank"><img alt="Todo List Vite" src="https://img.shields.io/github/stars/tuanductran/todo-list-vite?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Time Period Library for .NET" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-TimePeriodLibrary.png" /></td>
-        <td>Miscellaneous</td>
-        <td>C#</td>
-        <td><a href="https://github.com/Giannoudis/TimePeriodLibrary" target="_blank">Time Period Library for .NET</a></td>
-        <td>Extensive time period calculations and individual calendar periods.</td>
-        <th><a href="https://github.com/Giannoudis/TimePeriodLibrary" target="_blank"><img alt="Time Period Library for .NET" src="https://img.shields.io/github/stars/Giannoudis/TimePeriodLibrary?style=social" /></a></th>
     </tr>
 
 </table>
@@ -5308,6 +5310,22 @@
         <td><a href="https://norm.nim.town" target="_blank">Norm</a></td>
         <td>A Nim ORM for SQLite and Postgres</td>
         <th><a href="https://github.com/moigagoo/norm" target="_blank"><img alt="Norm" src="https://img.shields.io/github/stars/moigagoo/norm?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Azimutt" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-azimutt.png" /></td>
+        <td>Databases</td>
+        <td>Elm</td>
+        <td><a href="https://azimutt.app?ref=github-repo" target="_blank">Azimutt</a></td>
+        <td>Next-Gen ERD: Design, Explore, Document and Analyze your database</td>
+        <th><a href="https://github.com/azimuttapp/azimutt" target="_blank"><img alt="Azimutt" src="https://img.shields.io/github/stars/azimuttapp/azimutt?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Azimutt" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-azimutt-1.png" /></td>
+        <td>Databases</td>
+        <td>Elm</td>
+        <td><a href="https://azimutt.app?ref=github-repo" target="_blank">Azimutt</a></td>
+        <td>Next-Gen ERD: Design, Explore, Document and Analyze your database</td>
+        <th><a href="https://github.com/azimuttapp/azimutt" target="_blank"><img alt="Azimutt" src="https://img.shields.io/github/stars/azimuttapp/azimutt?style=social" /></a></th>
     </tr>
 
 </table>
@@ -12179,6 +12197,36 @@
         <td><a href="https://github.com/Thomas-George-T/HackerRank-SQL-Challenges-Solutions" target="_blank">HackerRank-SQL-Challenges-Solutions</a></td>
         <td>The solutions of all SQL hackerrank challenges using MySQL environment</td>
         <th><a href="https://github.com/Thomas-George-T/HackerRank-SQL-Challenges-Solutions" target="_blank"><img alt="HackerRank-SQL-Challenges-Solutions" src="https://img.shields.io/github/stars/Thomas-George-T/HackerRank-SQL-Challenges-Solutions?style=social" /></a></th>
+    </tr>
+
+</table>
+
+<br /><br />
+<h2 id="elm">Top 20 Elm libraries</h2>
+<table>
+    <tr>
+        <th>Icon</th>
+        <th>Category</th>
+        <th>Language</th>
+        <th>Name</th>
+        <th>Description</th>
+        <th>Stargazers</th>
+    </tr>
+        <tr>
+        <td nowrap="nowrap"><img width="33" alt="Azimutt" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-azimutt.png" /></td>
+        <td>Databases</td>
+        <td>Elm</td>
+        <td><a href="https://azimutt.app?ref=github-repo" target="_blank">Azimutt</a></td>
+        <td>Next-Gen ERD: Design, Explore, Document and Analyze your database</td>
+        <th><a href="https://github.com/azimuttapp/azimutt" target="_blank"><img alt="Azimutt" src="https://img.shields.io/github/stars/azimuttapp/azimutt?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Azimutt" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-azimutt-1.png" /></td>
+        <td>Databases</td>
+        <td>Elm</td>
+        <td><a href="https://azimutt.app?ref=github-repo" target="_blank">Azimutt</a></td>
+        <td>Next-Gen ERD: Design, Explore, Document and Analyze your database</td>
+        <th><a href="https://github.com/azimuttapp/azimutt" target="_blank"><img alt="Azimutt" src="https://img.shields.io/github/stars/azimuttapp/azimutt?style=social" /></a></th>
     </tr>
 
 </table>
