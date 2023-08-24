@@ -176,6 +176,14 @@
         <th><a href="https://github.com/azimuttapp/azimutt" target="_blank"><img alt="Azimutt" src="https://img.shields.io/github/stars/azimuttapp/azimutt?style=social" /></a></th>
     </tr>
     <tr>
+        <td nowrap="nowrap"><img width="33" alt="Netflix Conductor" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-conductor.png" /></td>
+        <td>Infrastructure</td>
+        <td>Java</td>
+        <td><a href="https://conductor.netflix.com" target="_blank">Netflix Conductor</a></td>
+        <td>Conductor is a microservices orchestration engine.</td>
+        <th><a href="https://github.com/Netflix/conductor" target="_blank"><img alt="Netflix Conductor" src="https://img.shields.io/github/stars/Netflix/conductor?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="Little Rat" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-little-rat.jpg" /></td>
         <td>Security</td>
         <td>JavaScript</td>
@@ -310,14 +318,6 @@
         <td><a href="https://github.com/enhance-dev/enhance-ssr" target="_blank">Enhance</a></td>
         <td>Server side render for custom elements.</td>
         <th><a href="https://github.com/enhance-dev/enhance-ssr" target="_blank"><img alt="Enhance" src="https://img.shields.io/github/stars/enhance-dev/enhance-ssr?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="ilihub" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-ilihub.png" /></td>
-        <td>Miscellaneous</td>
-        <td>TypeScript</td>
-        <td><a href="https://ilihub.tech" target="_blank">ilihub</a></td>
-        <td>The Mighty Code Empire ?</td>
-        <th><a href="https://github.com/ilihub/ilihub" target="_blank"><img alt="ilihub" src="https://img.shields.io/github/stars/ilihub/ilihub?style=social" /></a></th>
     </tr>
 
 </table>
@@ -6437,6 +6437,14 @@
         <td>Free open-source modern C++17 / C++20 framework to create console, GUI (forms like WinForms) and unit test applications on Microsoft Windows, Apple macOS and Linux.</td>
         <th><a href="https://github.com/gammasoft71/xtd" target="_blank"><img alt="Gammasoft71" src="https://img.shields.io/github/stars/gammasoft71/xtd?style=social" /></a></th>
     </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Netflix Conductor" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-conductor.png" /></td>
+        <td>Infrastructure</td>
+        <td>Java</td>
+        <td><a href="https://conductor.netflix.com" target="_blank">Netflix Conductor</a></td>
+        <td>Conductor is a microservices orchestration engine.</td>
+        <th><a href="https://github.com/Netflix/conductor" target="_blank"><img alt="Netflix Conductor" src="https://img.shields.io/github/stars/Netflix/conductor?style=social" /></a></th>
+    </tr>
 
 </table>
 
@@ -9739,6 +9747,14 @@
         <td><a href="https://rho-mu.cicirello.org" target="_blank">ρμ</a></td>
         <td>ρμ - a Java library of Randomization enHancements and Other Math Utilities</td>
         <th><a href="https://github.com/cicirello/rho-mu" target="_blank"><img alt="ρμ" src="https://img.shields.io/github/stars/cicirello/rho-mu?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Netflix Conductor" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-conductor.png" /></td>
+        <td>Infrastructure</td>
+        <td>Java</td>
+        <td><a href="https://conductor.netflix.com" target="_blank">Netflix Conductor</a></td>
+        <td>Conductor is a microservices orchestration engine.</td>
+        <th><a href="https://github.com/Netflix/conductor" target="_blank"><img alt="Netflix Conductor" src="https://img.shields.io/github/stars/Netflix/conductor?style=social" /></a></th>
     </tr>
 
 </table>
