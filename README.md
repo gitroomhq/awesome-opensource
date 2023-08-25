@@ -184,6 +184,14 @@
         <th><a href="https://github.com/Netflix/conductor" target="_blank"><img alt="Netflix Conductor" src="https://img.shields.io/github/stars/Netflix/conductor?style=social" /></a></th>
     </tr>
     <tr>
+        <td nowrap="nowrap"><img width="33" alt="stdlib" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-stdlib.png" /></td>
+        <td>Infrastructure</td>
+        <td>JavaScript</td>
+        <td><a href="https://stdlib.io" target="_blank">stdlib</a></td>
+        <td>✨ Standard library for JavaScript and Node.js. ✨</td>
+        <th><a href="https://github.com/stdlib-js/stdlib" target="_blank"><img alt="stdlib" src="https://img.shields.io/github/stars/stdlib-js/stdlib?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="Little Rat" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-little-rat.jpg" /></td>
         <td>Security</td>
         <td>JavaScript</td>
@@ -310,14 +318,6 @@
         <td><a href="https://createwith.agency" target="_blank">Agency</a></td>
         <td>A fast and minimal framework for building agent-integrated systems</td>
         <th><a href="https://github.com/operand/agency" target="_blank"><img alt="Agency" src="https://img.shields.io/github/stars/operand/agency?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Enhance" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-enhance-ssr.png" /></td>
-        <td>Miscellaneous</td>
-        <td>JavaScript</td>
-        <td><a href="https://github.com/enhance-dev/enhance-ssr" target="_blank">Enhance</a></td>
-        <td>Server side render for custom elements.</td>
-        <th><a href="https://github.com/enhance-dev/enhance-ssr" target="_blank"><img alt="Enhance" src="https://img.shields.io/github/stars/enhance-dev/enhance-ssr?style=social" /></a></th>
     </tr>
 
 </table>
@@ -6445,6 +6445,14 @@
         <td>Conductor is a microservices orchestration engine.</td>
         <th><a href="https://github.com/Netflix/conductor" target="_blank"><img alt="Netflix Conductor" src="https://img.shields.io/github/stars/Netflix/conductor?style=social" /></a></th>
     </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="stdlib" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-stdlib.png" /></td>
+        <td>Infrastructure</td>
+        <td>JavaScript</td>
+        <td><a href="https://stdlib.io" target="_blank">stdlib</a></td>
+        <td>✨ Standard library for JavaScript and Node.js. ✨</td>
+        <th><a href="https://github.com/stdlib-js/stdlib" target="_blank"><img alt="stdlib" src="https://img.shields.io/github/stars/stdlib-js/stdlib?style=social" /></a></th>
+    </tr>
 
 </table>
 
@@ -9123,6 +9131,14 @@
         <td><a href="https://github.com/dnakov/little-rat" target="_blank">Little Rat</a></td>
         <td>? Small chrome extension to monitor (and optionally block) other extensions' network calls</td>
         <th><a href="https://github.com/dnakov/little-rat" target="_blank"><img alt="Little Rat" src="https://img.shields.io/github/stars/dnakov/little-rat?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="stdlib" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-stdlib.png" /></td>
+        <td>Infrastructure</td>
+        <td>JavaScript</td>
+        <td><a href="https://stdlib.io" target="_blank">stdlib</a></td>
+        <td>✨ Standard library for JavaScript and Node.js. ✨</td>
+        <th><a href="https://github.com/stdlib-js/stdlib" target="_blank"><img alt="stdlib" src="https://img.shields.io/github/stars/stdlib-js/stdlib?style=social" /></a></th>
     </tr>
 
 </table>
