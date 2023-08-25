@@ -160,6 +160,14 @@
         <th>Stargazers</th>
     </tr>
         <tr>
+        <td nowrap="nowrap"><img width="33" alt="agenta" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-agenta.png" /></td>
+        <td>Miscellaneous</td>
+        <td>TypeScript</td>
+        <td><a href="http://www.agenta.ai" target="_blank">agenta</a></td>
+        <td> The LLMOps platform to build robust LLM apps. Easily experiment and evaluate different prompts, models, and workflows.</td>
+        <th><a href="https://github.com/Agenta-AI/agenta" target="_blank"><img alt="agenta" src="https://img.shields.io/github/stars/Agenta-AI/agenta?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="Azimutt" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-azimutt.png" /></td>
         <td>Databases</td>
         <td>Elm</td>
@@ -310,14 +318,6 @@
         <td><a href="https://mirrord.dev" target="_blank">mirrord</a></td>
         <td>Connect your local process and your cloud environment, and run local code in cloud conditions.</td>
         <th><a href="https://github.com/metalbear-co/mirrord" target="_blank"><img alt="mirrord" src="https://img.shields.io/github/stars/metalbear-co/mirrord?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Agency" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-agency.jpg" /></td>
-        <td>Miscellaneous</td>
-        <td>Python</td>
-        <td><a href="https://createwith.agency" target="_blank">Agency</a></td>
-        <td>A fast and minimal framework for building agent-integrated systems</td>
-        <th><a href="https://github.com/operand/agency" target="_blank"><img alt="Agency" src="https://img.shields.io/github/stars/operand/agency?style=social" /></a></th>
     </tr>
 
 </table>
@@ -2236,6 +2236,14 @@
         <td><a href="https://abbekeultjes.nl/honeycomb" target="_blank">Honeycomb</a></td>
         <td>Create hex grids easily, in node or the browser.</td>
         <th><a href="https://github.com/flauwekeul/honeycomb" target="_blank"><img alt="Honeycomb" src="https://img.shields.io/github/stars/flauwekeul/honeycomb?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="agenta" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-agenta.png" /></td>
+        <td>Miscellaneous</td>
+        <td>TypeScript</td>
+        <td><a href="http://www.agenta.ai" target="_blank">agenta</a></td>
+        <td> The LLMOps platform to build robust LLM apps. Easily experiment and evaluate different prompts, models, and workflows.</td>
+        <th><a href="https://github.com/Agenta-AI/agenta" target="_blank"><img alt="agenta" src="https://img.shields.io/github/stars/Agenta-AI/agenta?style=social" /></a></th>
     </tr>
 
 </table>
@@ -7531,6 +7539,14 @@
         <td><a href="https://abbekeultjes.nl/honeycomb" target="_blank">Honeycomb</a></td>
         <td>Create hex grids easily, in node or the browser.</td>
         <th><a href="https://github.com/flauwekeul/honeycomb" target="_blank"><img alt="Honeycomb" src="https://img.shields.io/github/stars/flauwekeul/honeycomb?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="agenta" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-agenta.png" /></td>
+        <td>Miscellaneous</td>
+        <td>TypeScript</td>
+        <td><a href="http://www.agenta.ai" target="_blank">agenta</a></td>
+        <td> The LLMOps platform to build robust LLM apps. Easily experiment and evaluate different prompts, models, and workflows.</td>
+        <th><a href="https://github.com/Agenta-AI/agenta" target="_blank"><img alt="agenta" src="https://img.shields.io/github/stars/Agenta-AI/agenta?style=social" /></a></th>
     </tr>
 
 </table>
