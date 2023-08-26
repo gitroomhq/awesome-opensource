@@ -160,6 +160,14 @@
         <th>Stargazers</th>
     </tr>
         <tr>
+        <td nowrap="nowrap"><img width="33" alt="OWASP Wrongsecrets" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-wrongsecrets.jpg" /></td>
+        <td>Security</td>
+        <td>Java</td>
+        <td><a href="https://owasp.org/www-project-wrongsecrets/" target="_blank">OWASP Wrongsecrets</a></td>
+        <td>Vulnerable app with examples showing how to not use secrets</td>
+        <th><a href="https://github.com/OWASP/wrongsecrets" target="_blank"><img alt="OWASP Wrongsecrets" src="https://img.shields.io/github/stars/OWASP/wrongsecrets?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="agenta" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-agenta.png" /></td>
         <td>Miscellaneous</td>
         <td>TypeScript</td>
@@ -310,14 +318,6 @@
         <td><a href="https://github.com/Thomas-George-T/HackerRank-SQL-Challenges-Solutions" target="_blank">HackerRank-SQL-Challenges-Solutions</a></td>
         <td>The solutions of all SQL hackerrank challenges using MySQL environment</td>
         <th><a href="https://github.com/Thomas-George-T/HackerRank-SQL-Challenges-Solutions" target="_blank"><img alt="HackerRank-SQL-Challenges-Solutions" src="https://img.shields.io/github/stars/Thomas-George-T/HackerRank-SQL-Challenges-Solutions?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="mirrord" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-mirrord.jpg" /></td>
-        <td>Productivity</td>
-        <td>Rust</td>
-        <td><a href="https://mirrord.dev" target="_blank">mirrord</a></td>
-        <td>Connect your local process and your cloud environment, and run local code in cloud conditions.</td>
-        <th><a href="https://github.com/metalbear-co/mirrord" target="_blank"><img alt="mirrord" src="https://img.shields.io/github/stars/metalbear-co/mirrord?style=social" /></a></th>
     </tr>
 
 </table>
@@ -4804,6 +4804,14 @@
         <td><a href="https://github.com/dnakov/little-rat" target="_blank">Little Rat</a></td>
         <td>? Small chrome extension to monitor (and optionally block) other extensions' network calls</td>
         <th><a href="https://github.com/dnakov/little-rat" target="_blank"><img alt="Little Rat" src="https://img.shields.io/github/stars/dnakov/little-rat?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="OWASP Wrongsecrets" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-wrongsecrets.jpg" /></td>
+        <td>Security</td>
+        <td>Java</td>
+        <td><a href="https://owasp.org/www-project-wrongsecrets/" target="_blank">OWASP Wrongsecrets</a></td>
+        <td>Vulnerable app with examples showing how to not use secrets</td>
+        <th><a href="https://github.com/OWASP/wrongsecrets" target="_blank"><img alt="OWASP Wrongsecrets" src="https://img.shields.io/github/stars/OWASP/wrongsecrets?style=social" /></a></th>
     </tr>
 
 </table>
@@ -9787,6 +9795,14 @@
         <td><a href="https://conductor.netflix.com" target="_blank">Netflix Conductor</a></td>
         <td>Conductor is a microservices orchestration engine.</td>
         <th><a href="https://github.com/Netflix/conductor" target="_blank"><img alt="Netflix Conductor" src="https://img.shields.io/github/stars/Netflix/conductor?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="OWASP Wrongsecrets" src="https://libraries.github20k.com/images/uploads/2023/08/newshot-wrongsecrets.jpg" /></td>
+        <td>Security</td>
+        <td>Java</td>
+        <td><a href="https://owasp.org/www-project-wrongsecrets/" target="_blank">OWASP Wrongsecrets</a></td>
+        <td>Vulnerable app with examples showing how to not use secrets</td>
+        <th><a href="https://github.com/OWASP/wrongsecrets" target="_blank"><img alt="OWASP Wrongsecrets" src="https://img.shields.io/github/stars/OWASP/wrongsecrets?style=social" /></a></th>
     </tr>
 
 </table>
