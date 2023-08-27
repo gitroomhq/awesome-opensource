@@ -160,6 +160,14 @@
         <th>Stargazers</th>
     </tr>
         <tr>
+        <td nowrap="nowrap"><img width="33" alt="Medplum" src="https://gitlibrary.club/images/uploads/2023/08/newshot-medplum.png" /></td>
+        <td>Infrastructure</td>
+        <td>TypeScript</td>
+        <td><a href="https://medplum.com" target="_blank">Medplum</a></td>
+        <td>Medplum is a healthcare platform that helps you quickly develop high-quality compliant applications.</td>
+        <th><a href="https://github.com/medplum/medplum" target="_blank"><img alt="Medplum" src="https://img.shields.io/github/stars/medplum/medplum?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="OWASP Wrongsecrets" src="https://gitlibrary.club/images/uploads/2023/08/newshot-wrongsecrets.jpg" /></td>
         <td>Security</td>
         <td>Java</td>
@@ -310,14 +318,6 @@
         <td><a href="https://github.com/paulbrodersen/netgraph" target="_blank">Netgraph</a></td>
         <td>Publication-quality network visualisations in python</td>
         <th><a href="https://github.com/paulbrodersen/netgraph" target="_blank"><img alt="Netgraph" src="https://img.shields.io/github/stars/paulbrodersen/netgraph?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="termii_sdk" src="https://gitlibrary.club/images/uploads/2023/08/newshot-termii_sdk.jpg" /></td>
-        <td>Productivity</td>
-        <td>Python</td>
-        <td><a href="https://github.com/prmpsmart/termii_sdk" target="_blank">termii_sdk</a></td>
-        <td>The `termii_sdk` is a Python package that facilitates seamless integration with the Termii API, empowering developers to send SMS, voice, and email messages within their applications.</td>
-        <th><a href="https://github.com/prmpsmart/termii_sdk" target="_blank"><img alt="termii_sdk" src="https://img.shields.io/github/stars/prmpsmart/termii_sdk?style=social" /></a></th>
     </tr>
 
 </table>
@@ -759,6 +759,14 @@
         <th><a href="https://github.com/meganetaaan/stack-chan" target="_blank"><img alt="Stack-chan" src="https://img.shields.io/github/stars/meganetaaan/stack-chan?style=social" /></a></th>
     </tr>
     <tr>
+        <td nowrap="nowrap"><img width="33" alt="Medplum" src="https://gitlibrary.club/images/uploads/2023/08/newshot-medplum.png" /></td>
+        <td>Infrastructure</td>
+        <td>TypeScript</td>
+        <td><a href="https://medplum.com" target="_blank">Medplum</a></td>
+        <td>Medplum is a healthcare platform that helps you quickly develop high-quality compliant applications.</td>
+        <th><a href="https://github.com/medplum/medplum" target="_blank"><img alt="Medplum" src="https://img.shields.io/github/stars/medplum/medplum?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="Mirage JS" src="https://gitlibrary.club/images/uploads/2023/05/newshot-miragejs.png" /></td>
         <td>Productivity</td>
         <td>JavaScript</td>
@@ -1125,14 +1133,6 @@
         <td><a href="https://github.com/IacobIonut01/Gallery" target="_blank">Gallery for Android</a></td>
         <td>Light-weight Media Gallery app for Android made with Jetpack Compose</td>
         <th><a href="https://github.com/IacobIonut01/Gallery" target="_blank"><img alt="Gallery for Android" src="https://img.shields.io/github/stars/IacobIonut01/Gallery?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="aqua.css" src="https://gitlibrary.club/images/uploads/2023/07/newshot-aqua.css-1.jpg" /></td>
-        <td>Productivity</td>
-        <td>SCSS</td>
-        <td><a href="https://aquacss.netlify.com/" target="_blank">aqua.css</a></td>
-        <td>An elegant CSS Framework.</td>
-        <th><a href="https://github.com/alphardex/aqua.css" target="_blank"><img alt="aqua.css" src="https://img.shields.io/github/stars/alphardex/aqua.css?style=social" /></a></th>
     </tr>
 
 </table>
@@ -5438,6 +5438,14 @@
         <th><a href="https://github.com/uripeled2/llm-client-sdk" target="_blank"><img alt="llm-client" src="https://img.shields.io/github/stars/uripeled2/llm-client-sdk?style=social" /></a></th>
     </tr>
     <tr>
+        <td nowrap="nowrap"><img width="33" alt="Medplum" src="https://gitlibrary.club/images/uploads/2023/08/newshot-medplum.png" /></td>
+        <td>Infrastructure</td>
+        <td>TypeScript</td>
+        <td><a href="https://medplum.com" target="_blank">Medplum</a></td>
+        <td>Medplum is a healthcare platform that helps you quickly develop high-quality compliant applications.</td>
+        <th><a href="https://github.com/medplum/medplum" target="_blank"><img alt="Medplum" src="https://img.shields.io/github/stars/medplum/medplum?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="Hyperf" src="https://gitlibrary.club/images/uploads/2023/05/newshot-hyperf.jpg" /></td>
         <td>Infrastructure</td>
         <td>PHP</td>
@@ -6659,6 +6667,14 @@
         <td><a href="https://github.com/meganetaaan/stack-chan" target="_blank">Stack-chan</a></td>
         <td>A JavaScript-driven M5Stack-embedded super-kawaii robot.</td>
         <th><a href="https://github.com/meganetaaan/stack-chan" target="_blank"><img alt="Stack-chan" src="https://img.shields.io/github/stars/meganetaaan/stack-chan?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Medplum" src="https://gitlibrary.club/images/uploads/2023/08/newshot-medplum.png" /></td>
+        <td>Infrastructure</td>
+        <td>TypeScript</td>
+        <td><a href="https://medplum.com" target="_blank">Medplum</a></td>
+        <td>Medplum is a healthcare platform that helps you quickly develop high-quality compliant applications.</td>
+        <th><a href="https://github.com/medplum/medplum" target="_blank"><img alt="Medplum" src="https://img.shields.io/github/stars/medplum/medplum?style=social" /></a></th>
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="NativeScript-Vue" src="https://gitlibrary.club/images/uploads/2023/05/newshot-nativescript-vue-1.png" /></td>
