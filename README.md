@@ -168,6 +168,14 @@
         <th><a href="https://github.com/OWASP/wrongsecrets" target="_blank"><img alt="OWASP Wrongsecrets" src="https://img.shields.io/github/stars/OWASP/wrongsecrets?style=social" /></a></th>
     </tr>
     <tr>
+        <td nowrap="nowrap"><img width="33" alt="Modern Developer Blog Template (Digital Garden Starter)" src="https://gitlibrary.club/images/uploads/2023/08/newshot-digital-garden.png" /></td>
+        <td>Miscellaneous</td>
+        <td>TypeScript</td>
+        <td><a href="https://thedevdavid-digital-garden.vercel.app/" target="_blank">Modern Developer Blog Template (Digital Garden Starter)</a></td>
+        <td>An open source blog (digital garden) template for developers</td>
+        <th><a href="https://github.com/thedevdavid/digital-garden" target="_blank"><img alt="Modern Developer Blog Template (Digital Garden Starter)" src="https://img.shields.io/github/stars/thedevdavid/digital-garden?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="agenta" src="https://gitlibrary.club/images/uploads/2023/08/newshot-agenta.png" /></td>
         <td>Miscellaneous</td>
         <td>TypeScript</td>
@@ -310,14 +318,6 @@
         <td><a href="https://github.com/prmpsmart/termii_sdk" target="_blank">termii_sdk</a></td>
         <td>The `termii_sdk` is a Python package that facilitates seamless integration with the Termii API, empowering developers to send SMS, voice, and email messages within their applications.</td>
         <th><a href="https://github.com/prmpsmart/termii_sdk" target="_blank"><img alt="termii_sdk" src="https://img.shields.io/github/stars/prmpsmart/termii_sdk?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="HackerRank-SQL-Challenges-Solutions" src="https://gitlibrary.club/images/uploads/2023/08/newshot-HackerRank-SQL-Challenges-Solutions.jpg" /></td>
-        <td>Analytics</td>
-        <td>SQL</td>
-        <td><a href="https://github.com/Thomas-George-T/HackerRank-SQL-Challenges-Solutions" target="_blank">HackerRank-SQL-Challenges-Solutions</a></td>
-        <td>The solutions of all SQL hackerrank challenges using MySQL environment</td>
-        <th><a href="https://github.com/Thomas-George-T/HackerRank-SQL-Challenges-Solutions" target="_blank"><img alt="HackerRank-SQL-Challenges-Solutions" src="https://img.shields.io/github/stars/Thomas-George-T/HackerRank-SQL-Challenges-Solutions?style=social" /></a></th>
     </tr>
 
 </table>
@@ -2244,6 +2244,14 @@
         <td><a href="http://www.agenta.ai" target="_blank">agenta</a></td>
         <td> The LLMOps platform to build robust LLM apps. Easily experiment and evaluate different prompts, models, and workflows.</td>
         <th><a href="https://github.com/Agenta-AI/agenta" target="_blank"><img alt="agenta" src="https://img.shields.io/github/stars/Agenta-AI/agenta?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Modern Developer Blog Template (Digital Garden Starter)" src="https://gitlibrary.club/images/uploads/2023/08/newshot-digital-garden.png" /></td>
+        <td>Miscellaneous</td>
+        <td>TypeScript</td>
+        <td><a href="https://thedevdavid-digital-garden.vercel.app/" target="_blank">Modern Developer Blog Template (Digital Garden Starter)</a></td>
+        <td>An open source blog (digital garden) template for developers</td>
+        <th><a href="https://github.com/thedevdavid/digital-garden" target="_blank"><img alt="Modern Developer Blog Template (Digital Garden Starter)" src="https://img.shields.io/github/stars/thedevdavid/digital-garden?style=social" /></a></th>
     </tr>
 
 </table>
@@ -7555,6 +7563,14 @@
         <td><a href="http://www.agenta.ai" target="_blank">agenta</a></td>
         <td> The LLMOps platform to build robust LLM apps. Easily experiment and evaluate different prompts, models, and workflows.</td>
         <th><a href="https://github.com/Agenta-AI/agenta" target="_blank"><img alt="agenta" src="https://img.shields.io/github/stars/Agenta-AI/agenta?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Modern Developer Blog Template (Digital Garden Starter)" src="https://gitlibrary.club/images/uploads/2023/08/newshot-digital-garden.png" /></td>
+        <td>Miscellaneous</td>
+        <td>TypeScript</td>
+        <td><a href="https://thedevdavid-digital-garden.vercel.app/" target="_blank">Modern Developer Blog Template (Digital Garden Starter)</a></td>
+        <td>An open source blog (digital garden) template for developers</td>
+        <th><a href="https://github.com/thedevdavid/digital-garden" target="_blank"><img alt="Modern Developer Blog Template (Digital Garden Starter)" src="https://img.shields.io/github/stars/thedevdavid/digital-garden?style=social" /></a></th>
     </tr>
 
 </table>
