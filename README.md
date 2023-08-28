@@ -62,6 +62,8 @@
              </li>          <li>
                 <a href="#shell">Top 20 Shell libraries</a>
              </li>          <li>
+                <a href="#tex">Top 20 TeX libraries</a>
+             </li>          <li>
                 <a href="#java">Top 20 Java libraries</a>
              </li>          <li>
                 <a href="#vue">Top 20 Vue libraries</a>
@@ -69,8 +71,6 @@
                 <a href="#python">Top 20 Python libraries</a>
              </li>          <li>
                 <a href="#ruby">Top 20 Ruby libraries</a>
-             </li>          <li>
-                <a href="#tex">Top 20 TeX libraries</a>
              </li>          <li>
                 <a href="#jsonnet">Top 20 Jsonnet libraries</a>
              </li>          <li>
@@ -623,6 +623,14 @@
         <th><a href="https://github.com/node-oauth/node-oauth2-server" target="_blank"><img alt="@node-oauth/oauth2-server" src="https://img.shields.io/github/stars/node-oauth/node-oauth2-server?style=social" /></a></th>
     </tr>
     <tr>
+        <td nowrap="nowrap"><img width="33" alt="LatexCV" src="https://gitlibrary.club/images/uploads/2023/08/newshot-latexcv.jpg" /></td>
+        <td>Productivity</td>
+        <td>TeX</td>
+        <td><a href="https://github.com/jankapunkt/latexcv" target="_blank">LatexCV</a></td>
+        <td><g-emoji class="g-emoji" alias="necktie" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f454.png">?</g-emoji> A collection of cv and resume templates written in LaTeX. Leave an issue if your language is not supported!</td>
+        <th><a href="https://github.com/jankapunkt/latexcv" target="_blank"><img alt="LatexCV" src="https://img.shields.io/github/stars/jankapunkt/latexcv?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="inlang" src="https://gitlibrary.club/images/uploads/2023/08/newshot-inlang.png" /></td>
         <td>Collaboration</td>
         <td>TypeScript</td>
@@ -733,14 +741,6 @@
         <td><a href="https://jankapunkt.github.io/easy-speech/" target="_blank">Easy Speech</a></td>
         <td>Cross browser Speech Synthesis also known as Text to speech or TTS; no dependencies; uses Web Speech API</td>
         <th><a href="https://github.com/jankapunkt/easy-speech" target="_blank"><img alt="Easy Speech" src="https://img.shields.io/github/stars/jankapunkt/easy-speech?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="LatexCV" src="https://gitlibrary.club/images/uploads/2023/08/newshot-latexcv.jpg" /></td>
-        <td>Productivity</td>
-        <td>TeX</td>
-        <td><a href="https://github.com/jankapunkt/latexcv" target="_blank">LatexCV</a></td>
-        <td><g-emoji class="g-emoji" alias="necktie" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f454.png">?</g-emoji> A collection of cv and resume templates written in LaTeX. Leave an issue if your language is not supported!</td>
-        <th><a href="https://github.com/jankapunkt/latexcv" target="_blank"><img alt="LatexCV" src="https://img.shields.io/github/stars/jankapunkt/latexcv?style=social" /></a></th>
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="Meteor + React Native Starter Template" src="https://gitlibrary.club/images/uploads/2023/08/newshot-meteor-react-native-starter.jpg" /></td>
@@ -2602,6 +2602,14 @@
         <th><a href="https://github.com/medyo/hackertab.dev" target="_blank"><img alt="Hackertab.dev" src="https://img.shields.io/github/stars/medyo/hackertab.dev?style=social" /></a></th>
     </tr>
     <tr>
+        <td nowrap="nowrap"><img width="33" alt="LatexCV" src="https://gitlibrary.club/images/uploads/2023/08/newshot-latexcv.jpg" /></td>
+        <td>Productivity</td>
+        <td>TeX</td>
+        <td><a href="https://github.com/jankapunkt/latexcv" target="_blank">LatexCV</a></td>
+        <td><g-emoji class="g-emoji" alias="necktie" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f454.png">?</g-emoji> A collection of cv and resume templates written in LaTeX. Leave an issue if your language is not supported!</td>
+        <th><a href="https://github.com/jankapunkt/latexcv" target="_blank"><img alt="LatexCV" src="https://img.shields.io/github/stars/jankapunkt/latexcv?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="boyka-framework" src="https://gitlibrary.club/images/uploads/2023/05/newshot-boyka-framework.png" /></td>
         <td>Productivity</td>
         <td>Java</td>
@@ -2616,14 +2624,6 @@
         <td><a href="https://demo-erp-crm.idurarapp.com/" target="_blank">IDURAR ERP CRM</a></td>
         <td>ERP / CRM Open Source (Invoice / Inventory / Accounting / HR) Based on Node.js / React.js alternative to erpnext,salesforce and odoo</td>
         <th><a href="https://github.com/idurar/idurar-erp-crm" target="_blank"><img alt="IDURAR ERP CRM" src="https://img.shields.io/github/stars/idurar/idurar-erp-crm?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="LatexCV" src="https://gitlibrary.club/images/uploads/2023/08/newshot-latexcv.jpg" /></td>
-        <td>Productivity</td>
-        <td>TeX</td>
-        <td><a href="https://github.com/jankapunkt/latexcv" target="_blank">LatexCV</a></td>
-        <td><g-emoji class="g-emoji" alias="necktie" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f454.png">?</g-emoji> A collection of cv and resume templates written in LaTeX. Leave an issue if your language is not supported!</td>
-        <th><a href="https://github.com/jankapunkt/latexcv" target="_blank"><img alt="LatexCV" src="https://img.shields.io/github/stars/jankapunkt/latexcv?style=social" /></a></th>
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="Meteor + React Native Starter Template" src="https://gitlibrary.club/images/uploads/2023/08/newshot-meteor-react-native-starter.jpg" /></td>
@@ -9522,6 +9522,44 @@
 </table>
 
 <br /><br />
+<h2 id="tex">Top 20 TeX libraries</h2>
+<table>
+    <tr>
+        <th>Icon</th>
+        <th>Category</th>
+        <th>Language</th>
+        <th>Name</th>
+        <th>Description</th>
+        <th>Stargazers</th>
+    </tr>
+        <tr>
+        <td nowrap="nowrap"><img width="33" alt="LatexCV" src="https://gitlibrary.club/images/uploads/2023/08/newshot-latexcv.jpg" /></td>
+        <td>Productivity</td>
+        <td>TeX</td>
+        <td><a href="https://github.com/jankapunkt/latexcv" target="_blank">LatexCV</a></td>
+        <td><g-emoji class="g-emoji" alias="necktie" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f454.png">?</g-emoji> A collection of cv and resume templates written in LaTeX. Leave an issue if your language is not supported!</td>
+        <th><a href="https://github.com/jankapunkt/latexcv" target="_blank"><img alt="LatexCV" src="https://img.shields.io/github/stars/jankapunkt/latexcv?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Linux Kernel Guide" src="https://gitlibrary.club/images/uploads/2023/05/newshot-lkmpg.jpg" /></td>
+        <td>Productivity</td>
+        <td>TeX</td>
+        <td><a href="https://sysprog21.github.io/lkmpg/" target="_blank">Linux Kernel Guide</a></td>
+        <td>The Linux Kernel Module Programming Guide (updated for 5.x kernels)</td>
+        <th><a href="https://github.com/sysprog21/lkmpg" target="_blank"><img alt="Linux Kernel Guide" src="https://img.shields.io/github/stars/sysprog21/lkmpg?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Thesis Template" src="https://gitlibrary.club/images/uploads/2023/05/newshot-Yet-Another-LaTeX-Template-for-NPU-Thesis.png" /></td>
+        <td>Miscellaneous</td>
+        <td>TeX</td>
+        <td><a href="https://nwpumetaphysicsoffice.github.io/Yet-Another-LaTeX-Template-for-NPU-Thesis/" target="_blank">Thesis Template</a></td>
+        <td>西北工业大学硕博学位论文模版 | Yet Another Thesis Template for Northwestern Polytechnical University</td>
+        <th><a href="https://github.com/NWPUMetaphysicsOffice/Yet-Another-LaTeX-Template-for-NPU-Thesis" target="_blank"><img alt="Thesis Template" src="https://img.shields.io/github/stars/NWPUMetaphysicsOffice/Yet-Another-LaTeX-Template-for-NPU-Thesis?style=social" /></a></th>
+    </tr>
+
+</table>
+
+<br /><br />
 <h2 id="java">Top 20 Java libraries</h2>
 <table>
     <tr>
@@ -10669,44 +10707,6 @@
         <td><a href="https://undercover-ci.com" target="_blank">Undercover</a></td>
         <td>Actionable code coverage - detects untested code blocks in recent changes</td>
         <th><a href="https://github.com/grodowski/undercover" target="_blank"><img alt="Undercover" src="https://img.shields.io/github/stars/grodowski/undercover?style=social" /></a></th>
-    </tr>
-
-</table>
-
-<br /><br />
-<h2 id="tex">Top 20 TeX libraries</h2>
-<table>
-    <tr>
-        <th>Icon</th>
-        <th>Category</th>
-        <th>Language</th>
-        <th>Name</th>
-        <th>Description</th>
-        <th>Stargazers</th>
-    </tr>
-        <tr>
-        <td nowrap="nowrap"><img width="33" alt="LatexCV" src="https://gitlibrary.club/images/uploads/2023/08/newshot-latexcv.jpg" /></td>
-        <td>Productivity</td>
-        <td>TeX</td>
-        <td><a href="https://github.com/jankapunkt/latexcv" target="_blank">LatexCV</a></td>
-        <td><g-emoji class="g-emoji" alias="necktie" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f454.png">?</g-emoji> A collection of cv and resume templates written in LaTeX. Leave an issue if your language is not supported!</td>
-        <th><a href="https://github.com/jankapunkt/latexcv" target="_blank"><img alt="LatexCV" src="https://img.shields.io/github/stars/jankapunkt/latexcv?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Linux Kernel Guide" src="https://gitlibrary.club/images/uploads/2023/05/newshot-lkmpg.jpg" /></td>
-        <td>Productivity</td>
-        <td>TeX</td>
-        <td><a href="https://sysprog21.github.io/lkmpg/" target="_blank">Linux Kernel Guide</a></td>
-        <td>The Linux Kernel Module Programming Guide (updated for 5.x kernels)</td>
-        <th><a href="https://github.com/sysprog21/lkmpg" target="_blank"><img alt="Linux Kernel Guide" src="https://img.shields.io/github/stars/sysprog21/lkmpg?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Thesis Template" src="https://gitlibrary.club/images/uploads/2023/05/newshot-Yet-Another-LaTeX-Template-for-NPU-Thesis.png" /></td>
-        <td>Miscellaneous</td>
-        <td>TeX</td>
-        <td><a href="https://nwpumetaphysicsoffice.github.io/Yet-Another-LaTeX-Template-for-NPU-Thesis/" target="_blank">Thesis Template</a></td>
-        <td>西北工业大学硕博学位论文模版 | Yet Another Thesis Template for Northwestern Polytechnical University</td>
-        <th><a href="https://github.com/NWPUMetaphysicsOffice/Yet-Another-LaTeX-Template-for-NPU-Thesis" target="_blank"><img alt="Thesis Template" src="https://img.shields.io/github/stars/NWPUMetaphysicsOffice/Yet-Another-LaTeX-Template-for-NPU-Thesis?style=social" /></a></th>
     </tr>
 
 </table>
