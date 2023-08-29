@@ -160,6 +160,14 @@
         <th>Stargazers</th>
     </tr>
         <tr>
+        <td nowrap="nowrap"><img width="33" alt="Velaptor" src="https://gitlibrary.club/images/uploads/2023/08/newshot-Velaptor.png" /></td>
+        <td>Miscellaneous</td>
+        <td>C#</td>
+        <td><a href="https://docs.velaptor.io" target="_blank">Velaptor</a></td>
+        <td>2D game and media application development framework</td>
+        <th><a href="https://github.com/KinsonDigital/Velaptor" target="_blank"><img alt="Velaptor" src="https://img.shields.io/github/stars/KinsonDigital/Velaptor?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="React Complex Tree" src="https://gitlibrary.club/images/uploads/2023/08/newshot-react-complex-tree.jpg" /></td>
         <td>Productivity</td>
         <td>TypeScript</td>
@@ -310,14 +318,6 @@
         <td><a href="https://github.com/TsingZ0/PFL-Non-IID" target="_blank">PFL-Non-IID</a></td>
         <td>Personalized federated learning simulation platform with non-IID and unbalanced dataset</td>
         <th><a href="https://github.com/TsingZ0/PFL-Non-IID" target="_blank"><img alt="PFL-Non-IID" src="https://img.shields.io/github/stars/TsingZ0/PFL-Non-IID?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Stack-chan" src="https://gitlibrary.club/images/uploads/2023/08/newshot-stack-chan.jpg" /></td>
-        <td>Miscellaneous</td>
-        <td>TypeScript</td>
-        <td><a href="https://github.com/meganetaaan/stack-chan" target="_blank">Stack-chan</a></td>
-        <td>A JavaScript-driven M5Stack-embedded super-kawaii robot.</td>
-        <th><a href="https://github.com/meganetaaan/stack-chan" target="_blank"><img alt="Stack-chan" src="https://img.shields.io/github/stars/meganetaaan/stack-chan?style=social" /></a></th>
     </tr>
 
 </table>
@@ -2253,6 +2253,14 @@
         <td>An open source blog (digital garden) template for developers</td>
         <th><a href="https://github.com/thedevdavid/digital-garden" target="_blank"><img alt="Modern Developer Blog Template (Digital Garden Starter)" src="https://img.shields.io/github/stars/thedevdavid/digital-garden?style=social" /></a></th>
     </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Velaptor" src="https://gitlibrary.club/images/uploads/2023/08/newshot-Velaptor.png" /></td>
+        <td>Miscellaneous</td>
+        <td>C#</td>
+        <td><a href="https://docs.velaptor.io" target="_blank">Velaptor</a></td>
+        <td>2D game and media application development framework</td>
+        <th><a href="https://github.com/KinsonDigital/Velaptor" target="_blank"><img alt="Velaptor" src="https://img.shields.io/github/stars/KinsonDigital/Velaptor?style=social" /></a></th>
+    </tr>
 
 </table>
 
@@ -2856,6 +2864,14 @@
         <td><a href="https://github.com/paolo-rossi/delphi-neon" target="_blank">Neon - JSON Serialization Library for Delphi</a></td>
         <td>JSON Serialization library for Delphi</td>
         <th><a href="https://github.com/paolo-rossi/delphi-neon" target="_blank"><img alt="Neon - JSON Serialization Library for Delphi" src="https://img.shields.io/github/stars/paolo-rossi/delphi-neon?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="React Complex Tree" src="https://gitlibrary.club/images/uploads/2023/08/newshot-react-complex-tree.jpg" /></td>
+        <td>Productivity</td>
+        <td>TypeScript</td>
+        <td><a href="https://rct.lukasbach.com" target="_blank">React Complex Tree</a></td>
+        <td>Unopinionated Accessible Tree Component with Multi-Select and Drag-And-Drop</td>
+        <th><a href="https://github.com/lukasbach/react-complex-tree" target="_blank"><img alt="React Complex Tree" src="https://img.shields.io/github/stars/lukasbach/react-complex-tree?style=social" /></a></th>
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="VS Code Docs" src="https://gitlibrary.club/images/uploads/2023/05/newshot-vscode-docs.png" /></td>
@@ -4152,14 +4168,6 @@
         <td><a href="https://github.com/prmpsmart/termii_sdk" target="_blank">termii_sdk</a></td>
         <td>The `termii_sdk` is a Python package that facilitates seamless integration with the Termii API, empowering developers to send SMS, voice, and email messages within their applications.</td>
         <th><a href="https://github.com/prmpsmart/termii_sdk" target="_blank"><img alt="termii_sdk" src="https://img.shields.io/github/stars/prmpsmart/termii_sdk?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="React Complex Tree" src="https://gitlibrary.club/images/uploads/2023/08/newshot-react-complex-tree.jpg" /></td>
-        <td>Productivity</td>
-        <td>TypeScript</td>
-        <td><a href="https://rct.lukasbach.com" target="_blank">React Complex Tree</a></td>
-        <td>Unopinionated Accessible Tree Component with Multi-Select and Drag-And-Drop</td>
-        <th><a href="https://github.com/lukasbach/react-complex-tree" target="_blank"><img alt="React Complex Tree" src="https://img.shields.io/github/stars/lukasbach/react-complex-tree?style=social" /></a></th>
     </tr>
 
 </table>
@@ -6821,6 +6829,14 @@
         <th><a href="https://github.com/coder-hxl/x-crawl" target="_blank"><img alt="x-crawl" src="https://img.shields.io/github/stars/coder-hxl/x-crawl?style=social" /></a></th>
     </tr>
     <tr>
+        <td nowrap="nowrap"><img width="33" alt="React Complex Tree" src="https://gitlibrary.club/images/uploads/2023/08/newshot-react-complex-tree.jpg" /></td>
+        <td>Productivity</td>
+        <td>TypeScript</td>
+        <td><a href="https://rct.lukasbach.com" target="_blank">React Complex Tree</a></td>
+        <td>Unopinionated Accessible Tree Component with Multi-Select and Drag-And-Drop</td>
+        <th><a href="https://github.com/lukasbach/react-complex-tree" target="_blank"><img alt="React Complex Tree" src="https://img.shields.io/github/stars/lukasbach/react-complex-tree?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="The Lounge" src="https://gitlibrary.club/images/uploads/2023/05/newshot-thelounge.png" /></td>
         <td>Collaboration</td>
         <td>TypeScript</td>
@@ -7595,14 +7611,6 @@
         <td><a href="https://thedevdavid-digital-garden.vercel.app/" target="_blank">Modern Developer Blog Template (Digital Garden Starter)</a></td>
         <td>An open source blog (digital garden) template for developers</td>
         <th><a href="https://github.com/thedevdavid/digital-garden" target="_blank"><img alt="Modern Developer Blog Template (Digital Garden Starter)" src="https://img.shields.io/github/stars/thedevdavid/digital-garden?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="React Complex Tree" src="https://gitlibrary.club/images/uploads/2023/08/newshot-react-complex-tree.jpg" /></td>
-        <td>Productivity</td>
-        <td>TypeScript</td>
-        <td><a href="https://rct.lukasbach.com" target="_blank">React Complex Tree</a></td>
-        <td>Unopinionated Accessible Tree Component with Multi-Select and Drag-And-Drop</td>
-        <th><a href="https://github.com/lukasbach/react-complex-tree" target="_blank"><img alt="React Complex Tree" src="https://img.shields.io/github/stars/lukasbach/react-complex-tree?style=social" /></a></th>
     </tr>
 
 </table>
@@ -9479,6 +9487,14 @@
         <td><a href="https://platform.uno/" target="_blank">Uno Platform</a></td>
         <td>Build Mobile, Desktop and WebAssembly apps with C# and XAML. Today. Open source and professionally supported.</td>
         <th><a href="https://github.com/unoplatform/uno" target="_blank"><img alt="Uno Platform" src="https://img.shields.io/github/stars/unoplatform/uno?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Velaptor" src="https://gitlibrary.club/images/uploads/2023/08/newshot-Velaptor.png" /></td>
+        <td>Miscellaneous</td>
+        <td>C#</td>
+        <td><a href="https://docs.velaptor.io" target="_blank">Velaptor</a></td>
+        <td>2D game and media application development framework</td>
+        <th><a href="https://github.com/KinsonDigital/Velaptor" target="_blank"><img alt="Velaptor" src="https://img.shields.io/github/stars/KinsonDigital/Velaptor?style=social" /></a></th>
     </tr>
 
 </table>
