@@ -767,6 +767,14 @@
         <th><a href="https://github.com/medplum/medplum" target="_blank"><img alt="Medplum" src="https://img.shields.io/github/stars/medplum/medplum?style=social" /></a></th>
     </tr>
     <tr>
+        <td nowrap="nowrap"><img width="33" alt="Configu" src="https://gitlibrary.club/images/uploads/2023/08/newshot-configu.png" /></td>
+        <td>Infrastructure</td>
+        <td>TypeScript</td>
+        <td><a href="https://configu.com" target="_blank">Configu</a></td>
+        <td>a simple, modern, and generic standard for managing and collaborating software configurations ⚙️✨.</td>
+        <th><a href="https://github.com/configu/configu" target="_blank"><img alt="Configu" src="https://img.shields.io/github/stars/configu/configu?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="Mirage JS" src="https://gitlibrary.club/images/uploads/2023/05/newshot-miragejs.png" /></td>
         <td>Productivity</td>
         <td>JavaScript</td>
@@ -1125,14 +1133,6 @@
         <td><a href="https://homething.io" target="_blank">homeThing</a></td>
         <td>wifi smart home remote with display that runs on ESPHome. Uses on Lilygo T-Display or M5Stack Fire</td>
         <th><a href="https://github.com/landonr/homeThing" target="_blank"><img alt="homeThing" src="https://img.shields.io/github/stars/landonr/homeThing?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Gallery for Android" src="https://gitlibrary.club/images/uploads/2023/07/newshot-Gallery.jpg" /></td>
-        <td>Miscellaneous</td>
-        <td>Kotlin</td>
-        <td><a href="https://github.com/IacobIonut01/Gallery" target="_blank">Gallery for Android</a></td>
-        <td>Light-weight Media Gallery app for Android made with Jetpack Compose</td>
-        <th><a href="https://github.com/IacobIonut01/Gallery" target="_blank"><img alt="Gallery for Android" src="https://img.shields.io/github/stars/IacobIonut01/Gallery?style=social" /></a></th>
     </tr>
 
 </table>
@@ -5470,6 +5470,14 @@
         <th><a href="https://github.com/medplum/medplum" target="_blank"><img alt="Medplum" src="https://img.shields.io/github/stars/medplum/medplum?style=social" /></a></th>
     </tr>
     <tr>
+        <td nowrap="nowrap"><img width="33" alt="Configu" src="https://gitlibrary.club/images/uploads/2023/08/newshot-configu.png" /></td>
+        <td>Infrastructure</td>
+        <td>TypeScript</td>
+        <td><a href="https://configu.com" target="_blank">Configu</a></td>
+        <td>a simple, modern, and generic standard for managing and collaborating software configurations ⚙️✨.</td>
+        <th><a href="https://github.com/configu/configu" target="_blank"><img alt="Configu" src="https://img.shields.io/github/stars/configu/configu?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="Hyperf" src="https://gitlibrary.club/images/uploads/2023/05/newshot-hyperf.jpg" /></td>
         <td>Infrastructure</td>
         <td>PHP</td>
@@ -5596,14 +5604,6 @@
         <td><a href="https://github.com/TsingZ0/PFL-Non-IID" target="_blank">PFL-Non-IID</a></td>
         <td>Personalized federated learning simulation platform with non-IID and unbalanced dataset</td>
         <th><a href="https://github.com/TsingZ0/PFL-Non-IID" target="_blank"><img alt="PFL-Non-IID" src="https://img.shields.io/github/stars/TsingZ0/PFL-Non-IID?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Configu" src="https://gitlibrary.club/images/uploads/2023/08/newshot-configu.png" /></td>
-        <td>Infrastructure</td>
-        <td>TypeScript</td>
-        <td><a href="https://configu.com" target="_blank">Configu</a></td>
-        <td>a simple, modern, and generic standard for managing and collaborating software configurations ⚙️✨.</td>
-        <th><a href="https://github.com/configu/configu" target="_blank"><img alt="Configu" src="https://img.shields.io/github/stars/configu/configu?style=social" /></a></th>
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="ClusterFuzz" src="https://gitlibrary.club/images/uploads/2023/05/newshot-clusterfuzz.png" /></td>
@@ -6709,6 +6709,14 @@
         <th><a href="https://github.com/medplum/medplum" target="_blank"><img alt="Medplum" src="https://img.shields.io/github/stars/medplum/medplum?style=social" /></a></th>
     </tr>
     <tr>
+        <td nowrap="nowrap"><img width="33" alt="Configu" src="https://gitlibrary.club/images/uploads/2023/08/newshot-configu.png" /></td>
+        <td>Infrastructure</td>
+        <td>TypeScript</td>
+        <td><a href="https://configu.com" target="_blank">Configu</a></td>
+        <td>a simple, modern, and generic standard for managing and collaborating software configurations ⚙️✨.</td>
+        <th><a href="https://github.com/configu/configu" target="_blank"><img alt="Configu" src="https://img.shields.io/github/stars/configu/configu?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="NativeScript-Vue" src="https://gitlibrary.club/images/uploads/2023/05/newshot-nativescript-vue-1.png" /></td>
         <td>Infrastructure</td>
         <td>TypeScript</td>
@@ -6851,14 +6859,6 @@
         <td><a href="https://rct.lukasbach.com" target="_blank">React Complex Tree</a></td>
         <td>Unopinionated Accessible Tree Component with Multi-Select and Drag-And-Drop</td>
         <th><a href="https://github.com/lukasbach/react-complex-tree" target="_blank"><img alt="React Complex Tree" src="https://img.shields.io/github/stars/lukasbach/react-complex-tree?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Configu" src="https://gitlibrary.club/images/uploads/2023/08/newshot-configu.png" /></td>
-        <td>Infrastructure</td>
-        <td>TypeScript</td>
-        <td><a href="https://configu.com" target="_blank">Configu</a></td>
-        <td>a simple, modern, and generic standard for managing and collaborating software configurations ⚙️✨.</td>
-        <th><a href="https://github.com/configu/configu" target="_blank"><img alt="Configu" src="https://img.shields.io/github/stars/configu/configu?style=social" /></a></th>
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="The Lounge" src="https://gitlibrary.club/images/uploads/2023/05/newshot-thelounge.png" /></td>
