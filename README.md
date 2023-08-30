@@ -639,6 +639,14 @@
         <th><a href="https://github.com/inlang/inlang" target="_blank"><img alt="inlang" src="https://img.shields.io/github/stars/inlang/inlang?style=social" /></a></th>
     </tr>
     <tr>
+        <td nowrap="nowrap"><img width="33" alt="Configu" src="https://gitlibrary.club/images/uploads/2023/08/newshot-configu.png" /></td>
+        <td>Infrastructure</td>
+        <td>TypeScript</td>
+        <td><a href="https://configu.com" target="_blank">Configu</a></td>
+        <td>a simple, modern, and generic standard for managing and collaborating software configurations ⚙️✨.</td>
+        <th><a href="https://github.com/configu/configu" target="_blank"><img alt="Configu" src="https://img.shields.io/github/stars/configu/configu?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="GitHub Support" src="https://gitlibrary.club/images/uploads/2023/05/newshot-dmca.png" /></td>
         <td>Miscellaneous</td>
         <td>undefined</td>
@@ -765,14 +773,6 @@
         <td><a href="https://medplum.com" target="_blank">Medplum</a></td>
         <td>Medplum is a healthcare platform that helps you quickly develop high-quality compliant applications.</td>
         <th><a href="https://github.com/medplum/medplum" target="_blank"><img alt="Medplum" src="https://img.shields.io/github/stars/medplum/medplum?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Configu" src="https://gitlibrary.club/images/uploads/2023/08/newshot-configu.png" /></td>
-        <td>Infrastructure</td>
-        <td>TypeScript</td>
-        <td><a href="https://configu.com" target="_blank">Configu</a></td>
-        <td>a simple, modern, and generic standard for managing and collaborating software configurations ⚙️✨.</td>
-        <th><a href="https://github.com/configu/configu" target="_blank"><img alt="Configu" src="https://img.shields.io/github/stars/configu/configu?style=social" /></a></th>
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="Mirage JS" src="https://gitlibrary.club/images/uploads/2023/05/newshot-miragejs.png" /></td>
@@ -5446,6 +5446,14 @@
         <th><a href="https://github.com/tcet-opensource/tcet-linux" target="_blank"><img alt="TCET Linux" src="https://img.shields.io/github/stars/tcet-opensource/tcet-linux?style=social" /></a></th>
     </tr>
     <tr>
+        <td nowrap="nowrap"><img width="33" alt="Configu" src="https://gitlibrary.club/images/uploads/2023/08/newshot-configu.png" /></td>
+        <td>Infrastructure</td>
+        <td>TypeScript</td>
+        <td><a href="https://configu.com" target="_blank">Configu</a></td>
+        <td>a simple, modern, and generic standard for managing and collaborating software configurations ⚙️✨.</td>
+        <th><a href="https://github.com/configu/configu" target="_blank"><img alt="Configu" src="https://img.shields.io/github/stars/configu/configu?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="JUnitorg." src="https://gitlibrary.club/images/uploads/2023/05/newshot-junit5.png" /></td>
         <td>Infrastructure</td>
         <td>Java</td>
@@ -5468,14 +5476,6 @@
         <td><a href="https://medplum.com" target="_blank">Medplum</a></td>
         <td>Medplum is a healthcare platform that helps you quickly develop high-quality compliant applications.</td>
         <th><a href="https://github.com/medplum/medplum" target="_blank"><img alt="Medplum" src="https://img.shields.io/github/stars/medplum/medplum?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Configu" src="https://gitlibrary.club/images/uploads/2023/08/newshot-configu.png" /></td>
-        <td>Infrastructure</td>
-        <td>TypeScript</td>
-        <td><a href="https://configu.com" target="_blank">Configu</a></td>
-        <td>a simple, modern, and generic standard for managing and collaborating software configurations ⚙️✨.</td>
-        <th><a href="https://github.com/configu/configu" target="_blank"><img alt="Configu" src="https://img.shields.io/github/stars/configu/configu?style=social" /></a></th>
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="Hyperf" src="https://gitlibrary.club/images/uploads/2023/05/newshot-hyperf.jpg" /></td>
@@ -6669,6 +6669,14 @@
         <th><a href="https://github.com/inlang/inlang" target="_blank"><img alt="inlang" src="https://img.shields.io/github/stars/inlang/inlang?style=social" /></a></th>
     </tr>
     <tr>
+        <td nowrap="nowrap"><img width="33" alt="Configu" src="https://gitlibrary.club/images/uploads/2023/08/newshot-configu.png" /></td>
+        <td>Infrastructure</td>
+        <td>TypeScript</td>
+        <td><a href="https://configu.com" target="_blank">Configu</a></td>
+        <td>a simple, modern, and generic standard for managing and collaborating software configurations ⚙️✨.</td>
+        <th><a href="https://github.com/configu/configu" target="_blank"><img alt="Configu" src="https://img.shields.io/github/stars/configu/configu?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="Medusa" src="https://gitlibrary.club/images/uploads/2023/05/newshot-medusa.jpg" /></td>
         <td>Miscellaneous</td>
         <td>TypeScript</td>
@@ -6707,14 +6715,6 @@
         <td><a href="https://medplum.com" target="_blank">Medplum</a></td>
         <td>Medplum is a healthcare platform that helps you quickly develop high-quality compliant applications.</td>
         <th><a href="https://github.com/medplum/medplum" target="_blank"><img alt="Medplum" src="https://img.shields.io/github/stars/medplum/medplum?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Configu" src="https://gitlibrary.club/images/uploads/2023/08/newshot-configu.png" /></td>
-        <td>Infrastructure</td>
-        <td>TypeScript</td>
-        <td><a href="https://configu.com" target="_blank">Configu</a></td>
-        <td>a simple, modern, and generic standard for managing and collaborating software configurations ⚙️✨.</td>
-        <th><a href="https://github.com/configu/configu" target="_blank"><img alt="Configu" src="https://img.shields.io/github/stars/configu/configu?style=social" /></a></th>
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="NativeScript-Vue" src="https://gitlibrary.club/images/uploads/2023/05/newshot-nativescript-vue-1.png" /></td>
