@@ -168,6 +168,14 @@
         <th><a href="https://github.com/Nialixus/env_reader" target="_blank"><img alt="Env Reader" src="https://img.shields.io/github/stars/Nialixus/env_reader?style=social" /></a></th>
     </tr>
     <tr>
+        <td nowrap="nowrap"><img width="33" alt="ThreatMapper" src="https://gitlibrary.club/images/uploads/2023/08/newshot-ThreatMapper-1.jpg" /></td>
+        <td>Security</td>
+        <td>Go</td>
+        <td><a href="https://deepfence.io" target="_blank">ThreatMapper</a></td>
+        <td>Open source cloud native security observability platform. Linux, K8s, AWS Fargate and more.</td>
+        <th><a href="https://github.com/deepfence/ThreatMapper" target="_blank"><img alt="ThreatMapper" src="https://img.shields.io/github/stars/deepfence/ThreatMapper?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="Configu" src="https://gitlibrary.club/images/uploads/2023/08/newshot-configu.png" /></td>
         <td>Infrastructure</td>
         <td>TypeScript</td>
@@ -310,14 +318,6 @@
         <td><a href="https://gammasoft71.github.io/xtd" target="_blank">Gammasoft71</a></td>
         <td>Free open-source modern C++17 / C++20 framework to create console, GUI (forms like WinForms) and unit test applications on Microsoft Windows, Apple macOS and Linux.</td>
         <th><a href="https://github.com/gammasoft71/xtd" target="_blank"><img alt="Gammasoft71" src="https://img.shields.io/github/stars/gammasoft71/xtd?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Honeycomb" src="https://gitlibrary.club/images/uploads/2023/08/newshot-honeycomb.png" /></td>
-        <td>Miscellaneous</td>
-        <td>TypeScript</td>
-        <td><a href="https://abbekeultjes.nl/honeycomb" target="_blank">Honeycomb</a></td>
-        <td>Create hex grids easily, in node or the browser.</td>
-        <th><a href="https://github.com/flauwekeul/honeycomb" target="_blank"><img alt="Honeycomb" src="https://img.shields.io/github/stars/flauwekeul/honeycomb?style=social" /></a></th>
     </tr>
 
 </table>
@@ -4853,6 +4853,14 @@
         <td>Vulnerable app with examples showing how to not use secrets</td>
         <th><a href="https://github.com/OWASP/wrongsecrets" target="_blank"><img alt="OWASP Wrongsecrets" src="https://img.shields.io/github/stars/OWASP/wrongsecrets?style=social" /></a></th>
     </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="ThreatMapper" src="https://gitlibrary.club/images/uploads/2023/08/newshot-ThreatMapper-1.jpg" /></td>
+        <td>Security</td>
+        <td>Go</td>
+        <td><a href="https://deepfence.io" target="_blank">ThreatMapper</a></td>
+        <td>Open source cloud native security observability platform. Linux, K8s, AWS Fargate and more.</td>
+        <th><a href="https://github.com/deepfence/ThreatMapper" target="_blank"><img alt="ThreatMapper" src="https://img.shields.io/github/stars/deepfence/ThreatMapper?style=social" /></a></th>
+    </tr>
 
 </table>
 
@@ -8583,6 +8591,14 @@
         <td><a href="https://github.com/walles/moar" target="_blank">Moar</a></td>
         <td>Moar is a pager. It's designed to just do the right thing without any configuration.</td>
         <th><a href="https://github.com/walles/moar" target="_blank"><img alt="Moar" src="https://img.shields.io/github/stars/walles/moar?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="ThreatMapper" src="https://gitlibrary.club/images/uploads/2023/08/newshot-ThreatMapper-1.jpg" /></td>
+        <td>Security</td>
+        <td>Go</td>
+        <td><a href="https://deepfence.io" target="_blank">ThreatMapper</a></td>
+        <td>Open source cloud native security observability platform. Linux, K8s, AWS Fargate and more.</td>
+        <th><a href="https://github.com/deepfence/ThreatMapper" target="_blank"><img alt="ThreatMapper" src="https://img.shields.io/github/stars/deepfence/ThreatMapper?style=social" /></a></th>
     </tr>
 
 </table>
