@@ -160,6 +160,14 @@
         <th>Stargazers</th>
     </tr>
         <tr>
+        <td nowrap="nowrap"><img width="33" alt="Nginx UI" src="https://gitlibrary.club/images/uploads/2023/09/newshot-nginx-ui.jpg" /></td>
+        <td>Productivity</td>
+        <td>Vue</td>
+        <td><a href="https://nginxui.com" target="_blank">Nginx UI</a></td>
+        <td>Yet another WebUI for Nginx</td>
+        <th><a href="https://github.com/0xJacky/nginx-ui" target="_blank"><img alt="Nginx UI" src="https://img.shields.io/github/stars/0xJacky/nginx-ui?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="count-action-users" src="https://gitlibrary.club/images/uploads/2023/08/newshot-count-action-users.jpg" /></td>
         <td>Analytics</td>
         <td>Python</td>
@@ -310,14 +318,6 @@
         <td><a href="https://drknzz.github.io/GitHub-Achievements/" target="_blank">GitHub Achievements</a></td>
         <td>? A Complete List of GitHub Profile Badges and Achievements ?</td>
         <th><a href="https://github.com/drknzz/GitHub-Achievements" target="_blank"><img alt="GitHub Achievements" src="https://img.shields.io/github/stars/drknzz/GitHub-Achievements?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="hexo-theme-redefine" src="https://gitlibrary.club/images/uploads/2023/08/newshot-hexo-theme-redefine.jpg" /></td>
-        <td>Miscellaneous</td>
-        <td>Stylus</td>
-        <td><a href="https://redefine.ohevan.com" target="_blank">hexo-theme-redefine</a></td>
-        <td>Redefine Hexo theme. Simple, Fast, Easy to Use. Redefine Your Writing</td>
-        <th><a href="https://github.com/EvanNotFound/hexo-theme-redefine" target="_blank"><img alt="hexo-theme-redefine" src="https://img.shields.io/github/stars/EvanNotFound/hexo-theme-redefine?style=social" /></a></th>
     </tr>
 
 </table>
@@ -2880,6 +2880,14 @@
         <td><a href="https://rct.lukasbach.com" target="_blank">React Complex Tree</a></td>
         <td>Unopinionated Accessible Tree Component with Multi-Select and Drag-And-Drop</td>
         <th><a href="https://github.com/lukasbach/react-complex-tree" target="_blank"><img alt="React Complex Tree" src="https://img.shields.io/github/stars/lukasbach/react-complex-tree?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Nginx UI" src="https://gitlibrary.club/images/uploads/2023/09/newshot-nginx-ui.jpg" /></td>
+        <td>Productivity</td>
+        <td>Vue</td>
+        <td><a href="https://nginxui.com" target="_blank">Nginx UI</a></td>
+        <td>Yet another WebUI for Nginx</td>
+        <th><a href="https://github.com/0xJacky/nginx-ui" target="_blank"><img alt="Nginx UI" src="https://img.shields.io/github/stars/0xJacky/nginx-ui?style=social" /></a></th>
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="VS Code Docs" src="https://gitlibrary.club/images/uploads/2023/05/newshot-vscode-docs.png" /></td>
@@ -9999,6 +10007,14 @@
         <td><a href="https://chrome.google.com/webstore/detail/web-activity-time-tracker/hhfnghjdeddcfegfekjeihfmbjenlomm" target="_blank">Web Activity Time Tracker</a></td>
         <td>Chrome Extension that tracks and limits time you spent on sites</td>
         <th><a href="https://github.com/Stigmatoz/web-activity-time-tracker" target="_blank"><img alt="Web Activity Time Tracker" src="https://img.shields.io/github/stars/Stigmatoz/web-activity-time-tracker?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Nginx UI" src="https://gitlibrary.club/images/uploads/2023/09/newshot-nginx-ui.jpg" /></td>
+        <td>Productivity</td>
+        <td>Vue</td>
+        <td><a href="https://nginxui.com" target="_blank">Nginx UI</a></td>
+        <td>Yet another WebUI for Nginx</td>
+        <th><a href="https://github.com/0xJacky/nginx-ui" target="_blank"><img alt="Nginx UI" src="https://img.shields.io/github/stars/0xJacky/nginx-ui?style=social" /></a></th>
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="WooNuxt" src="https://gitlibrary.club/images/uploads/2023/06/newshot-woonuxt.png" /></td>
