@@ -160,6 +160,14 @@
         <th>Stargazers</th>
     </tr>
         <tr>
+        <td nowrap="nowrap"><img width="33" alt="count-action-users" src="https://gitlibrary.club/images/uploads/2023/08/newshot-count-action-users.jpg" /></td>
+        <td>Analytics</td>
+        <td>Python</td>
+        <td><a href="https://actions.cicirello.org/count-action-users/" target="_blank">count-action-users</a></td>
+        <td>Generates Shields endpoint with number of users of a GitHub Action</td>
+        <th><a href="https://github.com/cicirello/count-action-users" target="_blank"><img alt="count-action-users" src="https://img.shields.io/github/stars/cicirello/count-action-users?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="Env Reader" src="https://gitlibrary.club/images/uploads/2023/08/newshot-env_reader.png" /></td>
         <td>Productivity</td>
         <td>Dart</td>
@@ -310,14 +318,6 @@
         <td><a href="https://redefine.ohevan.com" target="_blank">hexo-theme-redefine</a></td>
         <td>Redefine Hexo theme. Simple, Fast, Easy to Use. Redefine Your Writing</td>
         <th><a href="https://github.com/EvanNotFound/hexo-theme-redefine" target="_blank"><img alt="hexo-theme-redefine" src="https://img.shields.io/github/stars/EvanNotFound/hexo-theme-redefine?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Gammasoft71" src="https://gitlibrary.club/images/uploads/2023/08/newshot-xtd.png" /></td>
-        <td>Infrastructure</td>
-        <td>C++</td>
-        <td><a href="https://gammasoft71.github.io/xtd" target="_blank">Gammasoft71</a></td>
-        <td>Free open-source modern C++17 / C++20 framework to create console, GUI (forms like WinForms) and unit test applications on Microsoft Windows, Apple macOS and Linux.</td>
-        <th><a href="https://github.com/gammasoft71/xtd" target="_blank"><img alt="Gammasoft71" src="https://img.shields.io/github/stars/gammasoft71/xtd?style=social" /></a></th>
     </tr>
 
 </table>
@@ -4454,6 +4454,14 @@
         <td><a href="https://github.com/Thomas-George-T/HackerRank-SQL-Challenges-Solutions" target="_blank">HackerRank-SQL-Challenges-Solutions</a></td>
         <td>The solutions of all SQL hackerrank challenges using MySQL environment</td>
         <th><a href="https://github.com/Thomas-George-T/HackerRank-SQL-Challenges-Solutions" target="_blank"><img alt="HackerRank-SQL-Challenges-Solutions" src="https://img.shields.io/github/stars/Thomas-George-T/HackerRank-SQL-Challenges-Solutions?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="count-action-users" src="https://gitlibrary.club/images/uploads/2023/08/newshot-count-action-users.jpg" /></td>
+        <td>Analytics</td>
+        <td>Python</td>
+        <td><a href="https://actions.cicirello.org/count-action-users/" target="_blank">count-action-users</a></td>
+        <td>Generates Shields endpoint with number of users of a GitHub Action</td>
+        <th><a href="https://github.com/cicirello/count-action-users" target="_blank"><img alt="count-action-users" src="https://img.shields.io/github/stars/cicirello/count-action-users?style=social" /></a></th>
     </tr>
 
 </table>
@@ -10733,6 +10741,14 @@
         <td><a href="https://docs.confident-ai.com/" target="_blank">DeepEval</a></td>
         <td>Unit Testing For LLMs</td>
         <th><a href="https://github.com/confident-ai/deepeval" target="_blank"><img alt="DeepEval" src="https://img.shields.io/github/stars/confident-ai/deepeval?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="count-action-users" src="https://gitlibrary.club/images/uploads/2023/08/newshot-count-action-users.jpg" /></td>
+        <td>Analytics</td>
+        <td>Python</td>
+        <td><a href="https://actions.cicirello.org/count-action-users/" target="_blank">count-action-users</a></td>
+        <td>Generates Shields endpoint with number of users of a GitHub Action</td>
+        <th><a href="https://github.com/cicirello/count-action-users" target="_blank"><img alt="count-action-users" src="https://img.shields.io/github/stars/cicirello/count-action-users?style=social" /></a></th>
     </tr>
 
 </table>
