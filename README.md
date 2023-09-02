@@ -160,6 +160,14 @@
         <th>Stargazers</th>
     </tr>
         <tr>
+        <td nowrap="nowrap"><img width="33" alt="core" src="https://gitlibrary.club/images/uploads/2023/09/newshot-core.jpg" /></td>
+        <td>Miscellaneous</td>
+        <td>Java</td>
+        <td><a href="https://core.cicirello.org" target="_blank">core</a></td>
+        <td>Utilities and data structures used by several of my projects</td>
+        <th><a href="https://github.com/cicirello/core" target="_blank"><img alt="core" src="https://img.shields.io/github/stars/cicirello/core?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="Nginx UI" src="https://gitlibrary.club/images/uploads/2023/09/newshot-nginx-ui.jpg" /></td>
         <td>Productivity</td>
         <td>Vue</td>
@@ -310,14 +318,6 @@
         <td><a href="https://github.com/paolo-rossi/delphi-neon" target="_blank">Neon - JSON Serialization Library for Delphi</a></td>
         <td>JSON Serialization library for Delphi</td>
         <th><a href="https://github.com/paolo-rossi/delphi-neon" target="_blank"><img alt="Neon - JSON Serialization Library for Delphi" src="https://img.shields.io/github/stars/paolo-rossi/delphi-neon?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="GitHub Achievements" src="https://gitlibrary.club/images/uploads/2023/08/newshot-GitHub-Achievements.jpg" /></td>
-        <td>Miscellaneous</td>
-        <td>Markdown</td>
-        <td><a href="https://drknzz.github.io/GitHub-Achievements/" target="_blank">GitHub Achievements</a></td>
-        <td>? A Complete List of GitHub Profile Badges and Achievements ?</td>
-        <th><a href="https://github.com/drknzz/GitHub-Achievements" target="_blank"><img alt="GitHub Achievements" src="https://img.shields.io/github/stars/drknzz/GitHub-Achievements?style=social" /></a></th>
     </tr>
 
 </table>
@@ -2260,6 +2260,14 @@
         <td><a href="https://docs.velaptor.io" target="_blank">Velaptor</a></td>
         <td>2D game and media application development framework</td>
         <th><a href="https://github.com/KinsonDigital/Velaptor" target="_blank"><img alt="Velaptor" src="https://img.shields.io/github/stars/KinsonDigital/Velaptor?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="core" src="https://gitlibrary.club/images/uploads/2023/09/newshot-core.jpg" /></td>
+        <td>Miscellaneous</td>
+        <td>Java</td>
+        <td><a href="https://core.cicirello.org" target="_blank">core</a></td>
+        <td>Utilities and data structures used by several of my projects</td>
+        <th><a href="https://github.com/cicirello/core" target="_blank"><img alt="core" src="https://img.shields.io/github/stars/cicirello/core?style=social" /></a></th>
     </tr>
 
 </table>
@@ -9977,6 +9985,14 @@
         <td><a href="https://owasp.org/www-project-wrongsecrets/" target="_blank">OWASP Wrongsecrets</a></td>
         <td>Vulnerable app with examples showing how to not use secrets</td>
         <th><a href="https://github.com/OWASP/wrongsecrets" target="_blank"><img alt="OWASP Wrongsecrets" src="https://img.shields.io/github/stars/OWASP/wrongsecrets?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="core" src="https://gitlibrary.club/images/uploads/2023/09/newshot-core.jpg" /></td>
+        <td>Miscellaneous</td>
+        <td>Java</td>
+        <td><a href="https://core.cicirello.org" target="_blank">core</a></td>
+        <td>Utilities and data structures used by several of my projects</td>
+        <th><a href="https://github.com/cicirello/core" target="_blank"><img alt="core" src="https://img.shields.io/github/stars/cicirello/core?style=social" /></a></th>
     </tr>
 
 </table>
