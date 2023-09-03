@@ -160,6 +160,14 @@
         <th>Stargazers</th>
     </tr>
         <tr>
+        <td nowrap="nowrap"><img width="33" alt="BCMS" src="https://gitlibrary.club/images/uploads/2023/09/newshot-cms.jpg" /></td>
+        <td>Collaboration</td>
+        <td>TypeScript</td>
+        <td><a href="https://thebcms.com" target="_blank">BCMS</a></td>
+        <td>BCMS is a Headless CMS for developers &amp; their clients. Works nicely with Gatsby, Next.js &amp; Nuxt. You can even self-host it.</td>
+        <th><a href="https://github.com/bcms/cms" target="_blank"><img alt="BCMS" src="https://img.shields.io/github/stars/bcms/cms?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="core" src="https://gitlibrary.club/images/uploads/2023/09/newshot-core.jpg" /></td>
         <td>Miscellaneous</td>
         <td>Java</td>
@@ -310,14 +318,6 @@
         <td><a href="https://github.com/coder-hxl/x-crawl" target="_blank">x-crawl</a></td>
         <td>x-crawl is a flexible Node.js multifunctional crawler library. Flexible usage and numerous functions can help you quickly, safely, and stably crawl pages, interfaces, and files. ---------------- x-…</td>
         <th><a href="https://github.com/coder-hxl/x-crawl" target="_blank"><img alt="x-crawl" src="https://img.shields.io/github/stars/coder-hxl/x-crawl?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Neon - JSON Serialization Library for Delphi" src="https://gitlibrary.club/images/uploads/2023/08/newshot-delphi-neon.jpg" /></td>
-        <td>Productivity</td>
-        <td>Pascal</td>
-        <td><a href="https://github.com/paolo-rossi/delphi-neon" target="_blank">Neon - JSON Serialization Library for Delphi</a></td>
-        <td>JSON Serialization library for Delphi</td>
-        <th><a href="https://github.com/paolo-rossi/delphi-neon" target="_blank"><img alt="Neon - JSON Serialization Library for Delphi" src="https://img.shields.io/github/stars/paolo-rossi/delphi-neon?style=social" /></a></th>
     </tr>
 
 </table>
@@ -5147,6 +5147,14 @@
         <td>Yjs binding for Slate</td>
         <th><a href="https://github.com/BitPhinix/slate-yjs" target="_blank"><img alt="slate-yjs" src="https://img.shields.io/github/stars/BitPhinix/slate-yjs?style=social" /></a></th>
     </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="BCMS" src="https://gitlibrary.club/images/uploads/2023/09/newshot-cms.jpg" /></td>
+        <td>Collaboration</td>
+        <td>TypeScript</td>
+        <td><a href="https://thebcms.com" target="_blank">BCMS</a></td>
+        <td>BCMS is a Headless CMS for developers &amp; their clients. Works nicely with Gatsby, Next.js &amp; Nuxt. You can even self-host it.</td>
+        <th><a href="https://github.com/bcms/cms" target="_blank"><img alt="BCMS" src="https://img.shields.io/github/stars/bcms/cms?style=social" /></a></th>
+    </tr>
 
 </table>
 
@@ -7675,6 +7683,14 @@
         <td><a href="https://thedevdavid-digital-garden.vercel.app/" target="_blank">Modern Developer Blog Template (Digital Garden Starter)</a></td>
         <td>An open source blog (digital garden) template for developers</td>
         <th><a href="https://github.com/thedevdavid/digital-garden" target="_blank"><img alt="Modern Developer Blog Template (Digital Garden Starter)" src="https://img.shields.io/github/stars/thedevdavid/digital-garden?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="BCMS" src="https://gitlibrary.club/images/uploads/2023/09/newshot-cms.jpg" /></td>
+        <td>Collaboration</td>
+        <td>TypeScript</td>
+        <td><a href="https://thebcms.com" target="_blank">BCMS</a></td>
+        <td>BCMS is a Headless CMS for developers &amp; their clients. Works nicely with Gatsby, Next.js &amp; Nuxt. You can even self-host it.</td>
+        <th><a href="https://github.com/bcms/cms" target="_blank"><img alt="BCMS" src="https://img.shields.io/github/stars/bcms/cms?style=social" /></a></th>
     </tr>
 
 </table>
