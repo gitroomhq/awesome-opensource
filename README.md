@@ -72,11 +72,11 @@
              </li>          <li>
                 <a href="#ruby">Top 20 Ruby libraries</a>
              </li>          <li>
+                <a href="#c++">Top 20 C++ libraries</a>
+             </li>          <li>
                 <a href="#jsonnet">Top 20 Jsonnet libraries</a>
              </li>          <li>
                 <a href="#clojure">Top 20 Clojure libraries</a>
-             </li>          <li>
-                <a href="#c++">Top 20 C++ libraries</a>
              </li>          <li>
                 <a href="#scala">Top 20 Scala libraries</a>
              </li>          <li>
@@ -759,6 +759,14 @@
         <th><a href="https://github.com/jankapunkt/meteor-react-native-starter" target="_blank"><img alt="Meteor + React Native Starter Template" src="https://img.shields.io/github/stars/jankapunkt/meteor-react-native-starter?style=social" /></a></th>
     </tr>
     <tr>
+        <td nowrap="nowrap"><img width="33" alt="lockfree" src="https://gitlibrary.club/images/uploads/2023/08/newshot-lockfree.jpg" /></td>
+        <td>Miscellaneous</td>
+        <td>C++</td>
+        <td><a href="https://github.com/DNedic/lockfree" target="_blank">lockfree</a></td>
+        <td>A collection of lock-free data structures written in standard C++11</td>
+        <th><a href="https://github.com/DNedic/lockfree" target="_blank"><img alt="lockfree" src="https://img.shields.io/github/stars/DNedic/lockfree?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="Stack-chan" src="https://gitlibrary.club/images/uploads/2023/08/newshot-stack-chan-1.jpg" /></td>
         <td>Miscellaneous</td>
         <td>TypeScript</td>
@@ -1126,14 +1134,6 @@
         <td>Open Source Webhooks Gateway; For both incoming &amp; outgoing events. </td>
         <th><a href="https://github.com/frain-dev/convoy" target="_blank"><img alt="Convoy Webhooks Gateway" src="https://img.shields.io/github/stars/frain-dev/convoy?style=social" /></a></th>
     </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="homeThing" src="https://gitlibrary.club/images/uploads/2023/07/newshot-homeThing.jpg" /></td>
-        <td>Miscellaneous</td>
-        <td>C++</td>
-        <td><a href="https://homething.io" target="_blank">homeThing</a></td>
-        <td>wifi smart home remote with display that runs on ESPHome. Uses on Lilygo T-Display or M5Stack Fire</td>
-        <th><a href="https://github.com/landonr/homeThing" target="_blank"><img alt="homeThing" src="https://img.shields.io/github/stars/landonr/homeThing?style=social" /></a></th>
-    </tr>
 
 </table>
 
@@ -1228,6 +1228,14 @@
         <td><a href="https://jankapunkt.github.io/easy-speech/" target="_blank">Easy Speech</a></td>
         <td>Cross browser Speech Synthesis also known as Text to speech or TTS; no dependencies; uses Web Speech API</td>
         <th><a href="https://github.com/jankapunkt/easy-speech" target="_blank"><img alt="Easy Speech" src="https://img.shields.io/github/stars/jankapunkt/easy-speech?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="lockfree" src="https://gitlibrary.club/images/uploads/2023/08/newshot-lockfree.jpg" /></td>
+        <td>Miscellaneous</td>
+        <td>C++</td>
+        <td><a href="https://github.com/DNedic/lockfree" target="_blank">lockfree</a></td>
+        <td>A collection of lock-free data structures written in standard C++11</td>
+        <th><a href="https://github.com/DNedic/lockfree" target="_blank"><img alt="lockfree" src="https://img.shields.io/github/stars/DNedic/lockfree?style=social" /></a></th>
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="Stack-chan" src="https://gitlibrary.club/images/uploads/2023/08/newshot-stack-chan-1.jpg" /></td>
@@ -1356,14 +1364,6 @@
         <td><a href="https://rewind-ui.dev" target="_blank">Rewind-UI</a></td>
         <td>A React component library for building modern web applications using Tailwind CSS.</td>
         <th><a href="https://github.com/rewindui/rewindui" target="_blank"><img alt="Rewind-UI" src="https://img.shields.io/github/stars/rewindui/rewindui?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="lockfree" src="https://gitlibrary.club/images/uploads/2023/08/newshot-lockfree.jpg" /></td>
-        <td>Miscellaneous</td>
-        <td>C++</td>
-        <td><a href="https://github.com/DNedic/lockfree" target="_blank">lockfree</a></td>
-        <td>A collection of lock-free data structures written in standard C++11</td>
-        <th><a href="https://github.com/DNedic/lockfree" target="_blank"><img alt="lockfree" src="https://img.shields.io/github/stars/DNedic/lockfree?style=social" /></a></th>
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="Time Period Library for .NET" src="https://gitlibrary.club/images/uploads/2023/08/newshot-TimePeriodLibrary.png" /></td>
@@ -10856,50 +10856,6 @@
 </table>
 
 <br /><br />
-<h2 id="jsonnet">Top 20 Jsonnet libraries</h2>
-<table>
-    <tr>
-        <th>Icon</th>
-        <th>Category</th>
-        <th>Language</th>
-        <th>Name</th>
-        <th>Description</th>
-        <th>Stargazers</th>
-    </tr>
-        <tr>
-        <td nowrap="nowrap"><img width="33" alt="Prometheus Operator" src="https://gitlibrary.club/images/uploads/2023/05/newshot-kube-prometheus.png" /></td>
-        <td>Observability</td>
-        <td>Jsonnet</td>
-        <td><a href="https://prometheus-operator.dev/" target="_blank">Prometheus Operator</a></td>
-        <td>Use Prometheus to monitor Kubernetes and applications running on Kubernetes</td>
-        <th><a href="https://github.com/prometheus-operator/kube-prometheus" target="_blank"><img alt="Prometheus Operator" src="https://img.shields.io/github/stars/prometheus-operator/kube-prometheus?style=social" /></a></th>
-    </tr>
-
-</table>
-
-<br /><br />
-<h2 id="clojure">Top 20 Clojure libraries</h2>
-<table>
-    <tr>
-        <th>Icon</th>
-        <th>Category</th>
-        <th>Language</th>
-        <th>Name</th>
-        <th>Description</th>
-        <th>Stargazers</th>
-    </tr>
-        <tr>
-        <td nowrap="nowrap"><img width="33" alt="re-frame" src="https://gitlibrary.club/images/uploads/2023/05/newshot-re-frame.png" /></td>
-        <td>Infrastructure</td>
-        <td>Clojure</td>
-        <td><a href="http://day8.github.io/re-frame/" target="_blank">re-frame</a></td>
-        <td>A ClojureScript framework for building user interfaces, leveraging React</td>
-        <th><a href="https://github.com/day8/re-frame" target="_blank"><img alt="re-frame" src="https://img.shields.io/github/stars/day8/re-frame?style=social" /></a></th>
-    </tr>
-
-</table>
-
-<br /><br />
 <h2 id="c++">Top 20 C++ libraries</h2>
 <table>
     <tr>
@@ -10911,6 +10867,14 @@
         <th>Stargazers</th>
     </tr>
         <tr>
+        <td nowrap="nowrap"><img width="33" alt="lockfree" src="https://gitlibrary.club/images/uploads/2023/08/newshot-lockfree.jpg" /></td>
+        <td>Miscellaneous</td>
+        <td>C++</td>
+        <td><a href="https://github.com/DNedic/lockfree" target="_blank">lockfree</a></td>
+        <td>A collection of lock-free data structures written in standard C++11</td>
+        <th><a href="https://github.com/DNedic/lockfree" target="_blank"><img alt="lockfree" src="https://img.shields.io/github/stars/DNedic/lockfree?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="wxWidgets" src="https://gitlibrary.club/images/uploads/2023/05/newshot-wxWidgets.png" /></td>
         <td>Infrastructure</td>
         <td>C++</td>
@@ -10941,14 +10905,6 @@
         <td><a href="https://www.aregtech.com" target="_blank">areg engine</a></td>
         <td>AREG is an RPC framework, but Object RPC (ORPC), that asynchronously triggers methods of the remote objects called services.</td>
         <th><a href="https://github.com/aregtech/areg-sdk" target="_blank"><img alt="areg engine" src="https://img.shields.io/github/stars/aregtech/areg-sdk?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="lockfree" src="https://gitlibrary.club/images/uploads/2023/08/newshot-lockfree.jpg" /></td>
-        <td>Miscellaneous</td>
-        <td>C++</td>
-        <td><a href="https://github.com/DNedic/lockfree" target="_blank">lockfree</a></td>
-        <td>A collection of lock-free data structures written in standard C++11</td>
-        <th><a href="https://github.com/DNedic/lockfree" target="_blank"><img alt="lockfree" src="https://img.shields.io/github/stars/DNedic/lockfree?style=social" /></a></th>
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="OneFlow" src="https://gitlibrary.club/images/uploads/2023/05/newshot-oneflow.png" /></td>
@@ -11173,6 +11129,50 @@
         <td><a href="https://gammasoft71.github.io/xtd" target="_blank">Gammasoft71</a></td>
         <td>Free open-source modern C++17 / C++20 framework to create console, GUI (forms like WinForms) and unit test applications on Microsoft Windows, Apple macOS and Linux.</td>
         <th><a href="https://github.com/gammasoft71/xtd" target="_blank"><img alt="Gammasoft71" src="https://img.shields.io/github/stars/gammasoft71/xtd?style=social" /></a></th>
+    </tr>
+
+</table>
+
+<br /><br />
+<h2 id="jsonnet">Top 20 Jsonnet libraries</h2>
+<table>
+    <tr>
+        <th>Icon</th>
+        <th>Category</th>
+        <th>Language</th>
+        <th>Name</th>
+        <th>Description</th>
+        <th>Stargazers</th>
+    </tr>
+        <tr>
+        <td nowrap="nowrap"><img width="33" alt="Prometheus Operator" src="https://gitlibrary.club/images/uploads/2023/05/newshot-kube-prometheus.png" /></td>
+        <td>Observability</td>
+        <td>Jsonnet</td>
+        <td><a href="https://prometheus-operator.dev/" target="_blank">Prometheus Operator</a></td>
+        <td>Use Prometheus to monitor Kubernetes and applications running on Kubernetes</td>
+        <th><a href="https://github.com/prometheus-operator/kube-prometheus" target="_blank"><img alt="Prometheus Operator" src="https://img.shields.io/github/stars/prometheus-operator/kube-prometheus?style=social" /></a></th>
+    </tr>
+
+</table>
+
+<br /><br />
+<h2 id="clojure">Top 20 Clojure libraries</h2>
+<table>
+    <tr>
+        <th>Icon</th>
+        <th>Category</th>
+        <th>Language</th>
+        <th>Name</th>
+        <th>Description</th>
+        <th>Stargazers</th>
+    </tr>
+        <tr>
+        <td nowrap="nowrap"><img width="33" alt="re-frame" src="https://gitlibrary.club/images/uploads/2023/05/newshot-re-frame.png" /></td>
+        <td>Infrastructure</td>
+        <td>Clojure</td>
+        <td><a href="http://day8.github.io/re-frame/" target="_blank">re-frame</a></td>
+        <td>A ClojureScript framework for building user interfaces, leveraging React</td>
+        <th><a href="https://github.com/day8/re-frame" target="_blank"><img alt="re-frame" src="https://img.shields.io/github/stars/day8/re-frame?style=social" /></a></th>
     </tr>
 
 </table>
