@@ -168,6 +168,14 @@
         <th><a href="https://github.com/bcms/cms" target="_blank"><img alt="BCMS" src="https://img.shields.io/github/stars/bcms/cms?style=social" /></a></th>
     </tr>
     <tr>
+        <td nowrap="nowrap"><img width="33" alt="Sniffnet" src="https://gitlibrary.club/images/uploads/2023/09/newshot-sniffnet.jpg" /></td>
+        <td>Security</td>
+        <td>Rust</td>
+        <td><a href="https://sniffnet.net" target="_blank">Sniffnet</a></td>
+        <td>Application to comfortably monitor your Internet traffic ?️‍♂️</td>
+        <th><a href="https://github.com/GyulyVGC/sniffnet" target="_blank"><img alt="Sniffnet" src="https://img.shields.io/github/stars/GyulyVGC/sniffnet?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="core" src="https://gitlibrary.club/images/uploads/2023/09/newshot-core.jpg" /></td>
         <td>Miscellaneous</td>
         <td>Java</td>
@@ -310,14 +318,6 @@
         <td><a href="https://github.com/dnakov/little-rat" target="_blank">Little Rat</a></td>
         <td>? Small chrome extension to monitor (and optionally block) other extensions' network calls</td>
         <th><a href="https://github.com/dnakov/little-rat" target="_blank"><img alt="Little Rat" src="https://img.shields.io/github/stars/dnakov/little-rat?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="x-crawl" src="https://gitlibrary.club/images/uploads/2023/08/newshot-x-crawl.jpg" /></td>
-        <td>Miscellaneous</td>
-        <td>TypeScript</td>
-        <td><a href="https://github.com/coder-hxl/x-crawl" target="_blank">x-crawl</a></td>
-        <td>x-crawl is a flexible Node.js multifunctional crawler library. Flexible usage and numerous functions can help you quickly, safely, and stably crawl pages, interfaces, and files. ---------------- x-…</td>
-        <th><a href="https://github.com/coder-hxl/x-crawl" target="_blank"><img alt="x-crawl" src="https://img.shields.io/github/stars/coder-hxl/x-crawl?style=social" /></a></th>
     </tr>
 
 </table>
@@ -4885,6 +4885,14 @@
         <td>Open source cloud native security observability platform. Linux, K8s, AWS Fargate and more.</td>
         <th><a href="https://github.com/deepfence/ThreatMapper" target="_blank"><img alt="ThreatMapper" src="https://img.shields.io/github/stars/deepfence/ThreatMapper?style=social" /></a></th>
     </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Sniffnet" src="https://gitlibrary.club/images/uploads/2023/09/newshot-sniffnet.jpg" /></td>
+        <td>Security</td>
+        <td>Rust</td>
+        <td><a href="https://sniffnet.net" target="_blank">Sniffnet</a></td>
+        <td>Application to comfortably monitor your Internet traffic ?️‍♂️</td>
+        <th><a href="https://github.com/GyulyVGC/sniffnet" target="_blank"><img alt="Sniffnet" src="https://img.shields.io/github/stars/GyulyVGC/sniffnet?style=social" /></a></th>
+    </tr>
 
 </table>
 
@@ -8805,6 +8813,14 @@
         <td><a href="https://github.com/mohanson/gameboy" target="_blank">gameboy</a></td>
         <td>Full featured Cross-platform GameBoy emulator by Rust. Forever boys!.</td>
         <th><a href="https://github.com/mohanson/gameboy" target="_blank"><img alt="gameboy" src="https://img.shields.io/github/stars/mohanson/gameboy?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Sniffnet" src="https://gitlibrary.club/images/uploads/2023/09/newshot-sniffnet.jpg" /></td>
+        <td>Security</td>
+        <td>Rust</td>
+        <td><a href="https://sniffnet.net" target="_blank">Sniffnet</a></td>
+        <td>Application to comfortably monitor your Internet traffic ?️‍♂️</td>
+        <th><a href="https://github.com/GyulyVGC/sniffnet" target="_blank"><img alt="Sniffnet" src="https://img.shields.io/github/stars/GyulyVGC/sniffnet?style=social" /></a></th>
     </tr>
 
 </table>
