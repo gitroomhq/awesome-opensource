@@ -160,6 +160,30 @@
         <th>Stargazers</th>
     </tr>
         <tr>
+        <td nowrap="nowrap"><img width="33" alt="SpaceX prepare for Clean Architecture liftoff" src="https://gitlibrary.club/images/uploads/2023/09/newshot-SpaceX-prepare-for-Clean-Architecture-liftoff.jpg" /></td>
+        <td>Miscellaneous</td>
+        <td>Kotlin</td>
+        <td><a href="https://github.com/ferPrieto/SpaceX-prepare-for-Clean-Architecture-liftoff" target="_blank">SpaceX prepare for Clean Architecture liftoff</a></td>
+        <td>Clean Architecture Modular Project: MVVM + Jetpack Compose + Coroutines + Flows + Dagger2 + LiveData + UnitTests + UITests + Screenshot Tests + MockWebServer</td>
+        <th><a href="https://github.com/ferPrieto/SpaceX-prepare-for-Clean-Architecture-liftoff" target="_blank"><img alt="SpaceX prepare for Clean Architecture liftoff" src="https://img.shields.io/github/stars/ferPrieto/SpaceX-prepare-for-Clean-Architecture-liftoff?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="pyaction" src="https://gitlibrary.club/images/uploads/2023/09/newshot-pyaction.jpg" /></td>
+        <td>Infrastructure</td>
+        <td>Python</td>
+        <td><a href="https://actions.cicirello.org/pyaction/" target="_blank">pyaction</a></td>
+        <td>A Docker container with Python, git, and the Github CLI</td>
+        <th><a href="https://github.com/cicirello/pyaction" target="_blank"><img alt="pyaction" src="https://img.shields.io/github/stars/cicirello/pyaction?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Remult" src="https://gitlibrary.club/images/uploads/2023/09/newshot-remult.png" /></td>
+        <td>Infrastructure</td>
+        <td>TypeScript</td>
+        <td><a href="https://remult.dev" target="_blank">Remult</a></td>
+        <td>Build Full-stack, End-to-end Type-safe CRUD Apps without the Boilerplate</td>
+        <th><a href="https://github.com/remult/remult" target="_blank"><img alt="Remult" src="https://img.shields.io/github/stars/remult/remult?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="Sniffnet" src="https://gitlibrary.club/images/uploads/2023/09/newshot-sniffnet.jpg" /></td>
         <td>Security</td>
         <td>Rust</td>
@@ -294,30 +318,6 @@
         <td><a href="https://azimutt.app?ref=github-repo" target="_blank">Azimutt</a></td>
         <td>Next-Gen ERD: Design, Explore, Document and Analyze your database</td>
         <th><a href="https://github.com/azimuttapp/azimutt" target="_blank"><img alt="Azimutt" src="https://img.shields.io/github/stars/azimuttapp/azimutt?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Netflix Conductor" src="https://gitlibrary.club/images/uploads/2023/08/newshot-conductor.png" /></td>
-        <td>Infrastructure</td>
-        <td>Java</td>
-        <td><a href="https://conductor.netflix.com" target="_blank">Netflix Conductor</a></td>
-        <td>Conductor is a microservices orchestration engine.</td>
-        <th><a href="https://github.com/Netflix/conductor" target="_blank"><img alt="Netflix Conductor" src="https://img.shields.io/github/stars/Netflix/conductor?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="stdlib" src="https://gitlibrary.club/images/uploads/2023/08/newshot-stdlib.png" /></td>
-        <td>Infrastructure</td>
-        <td>JavaScript</td>
-        <td><a href="https://stdlib.io" target="_blank">stdlib</a></td>
-        <td>✨ Standard library for JavaScript and Node.js. ✨</td>
-        <th><a href="https://github.com/stdlib-js/stdlib" target="_blank"><img alt="stdlib" src="https://img.shields.io/github/stars/stdlib-js/stdlib?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Little Rat" src="https://gitlibrary.club/images/uploads/2023/08/newshot-little-rat.jpg" /></td>
-        <td>Security</td>
-        <td>JavaScript</td>
-        <td><a href="https://github.com/dnakov/little-rat" target="_blank">Little Rat</a></td>
-        <td>? Small chrome extension to monitor (and optionally block) other extensions' network calls</td>
-        <th><a href="https://github.com/dnakov/little-rat" target="_blank"><img alt="Little Rat" src="https://img.shields.io/github/stars/dnakov/little-rat?style=social" /></a></th>
     </tr>
 
 </table>
@@ -2268,6 +2268,14 @@
         <td><a href="https://core.cicirello.org" target="_blank">core</a></td>
         <td>Utilities and data structures used by several of my projects</td>
         <th><a href="https://github.com/cicirello/core" target="_blank"><img alt="core" src="https://img.shields.io/github/stars/cicirello/core?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="SpaceX prepare for Clean Architecture liftoff" src="https://gitlibrary.club/images/uploads/2023/09/newshot-SpaceX-prepare-for-Clean-Architecture-liftoff.jpg" /></td>
+        <td>Miscellaneous</td>
+        <td>Kotlin</td>
+        <td><a href="https://github.com/ferPrieto/SpaceX-prepare-for-Clean-Architecture-liftoff" target="_blank">SpaceX prepare for Clean Architecture liftoff</a></td>
+        <td>Clean Architecture Modular Project: MVVM + Jetpack Compose + Coroutines + Flows + Dagger2 + LiveData + UnitTests + UITests + Screenshot Tests + MockWebServer</td>
+        <th><a href="https://github.com/ferPrieto/SpaceX-prepare-for-Clean-Architecture-liftoff" target="_blank"><img alt="SpaceX prepare for Clean Architecture liftoff" src="https://img.shields.io/github/stars/ferPrieto/SpaceX-prepare-for-Clean-Architecture-liftoff?style=social" /></a></th>
     </tr>
 
 </table>
@@ -6573,6 +6581,22 @@
         <td>✨ Standard library for JavaScript and Node.js. ✨</td>
         <th><a href="https://github.com/stdlib-js/stdlib" target="_blank"><img alt="stdlib" src="https://img.shields.io/github/stars/stdlib-js/stdlib?style=social" /></a></th>
     </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="pyaction" src="https://gitlibrary.club/images/uploads/2023/09/newshot-pyaction.jpg" /></td>
+        <td>Infrastructure</td>
+        <td>Python</td>
+        <td><a href="https://actions.cicirello.org/pyaction/" target="_blank">pyaction</a></td>
+        <td>A Docker container with Python, git, and the Github CLI</td>
+        <th><a href="https://github.com/cicirello/pyaction" target="_blank"><img alt="pyaction" src="https://img.shields.io/github/stars/cicirello/pyaction?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Remult" src="https://gitlibrary.club/images/uploads/2023/09/newshot-remult.png" /></td>
+        <td>Infrastructure</td>
+        <td>TypeScript</td>
+        <td><a href="https://remult.dev" target="_blank">Remult</a></td>
+        <td>Build Full-stack, End-to-end Type-safe CRUD Apps without the Boilerplate</td>
+        <th><a href="https://github.com/remult/remult" target="_blank"><img alt="Remult" src="https://img.shields.io/github/stars/remult/remult?style=social" /></a></th>
+    </tr>
 
 </table>
 
@@ -7700,6 +7724,14 @@
         <td>BCMS is a Headless CMS for developers &amp; their clients. Works nicely with Gatsby, Next.js &amp; Nuxt. You can even self-host it.</td>
         <th><a href="https://github.com/bcms/cms" target="_blank"><img alt="BCMS" src="https://img.shields.io/github/stars/bcms/cms?style=social" /></a></th>
     </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Remult" src="https://gitlibrary.club/images/uploads/2023/09/newshot-remult.png" /></td>
+        <td>Infrastructure</td>
+        <td>TypeScript</td>
+        <td><a href="https://remult.dev" target="_blank">Remult</a></td>
+        <td>Build Full-stack, End-to-end Type-safe CRUD Apps without the Boilerplate</td>
+        <th><a href="https://github.com/remult/remult" target="_blank"><img alt="Remult" src="https://img.shields.io/github/stars/remult/remult?style=social" /></a></th>
+    </tr>
 
 </table>
 
@@ -8107,6 +8139,14 @@
         <td><a href="https://hexagonkt.com" target="_blank">Hexagon Toolkit</a></td>
         <td>Hexagon is a microservices toolkit written in Kotlin. Its purpose is to ease the building of services (Web applications or APIs) that run inside a cloud platform.</td>
         <th><a href="https://github.com/hexagonkt/hexagon" target="_blank"><img alt="Hexagon Toolkit" src="https://img.shields.io/github/stars/hexagonkt/hexagon?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="SpaceX prepare for Clean Architecture liftoff" src="https://gitlibrary.club/images/uploads/2023/09/newshot-SpaceX-prepare-for-Clean-Architecture-liftoff.jpg" /></td>
+        <td>Miscellaneous</td>
+        <td>Kotlin</td>
+        <td><a href="https://github.com/ferPrieto/SpaceX-prepare-for-Clean-Architecture-liftoff" target="_blank">SpaceX prepare for Clean Architecture liftoff</a></td>
+        <td>Clean Architecture Modular Project: MVVM + Jetpack Compose + Coroutines + Flows + Dagger2 + LiveData + UnitTests + UITests + Screenshot Tests + MockWebServer</td>
+        <th><a href="https://github.com/ferPrieto/SpaceX-prepare-for-Clean-Architecture-liftoff" target="_blank"><img alt="SpaceX prepare for Clean Architecture liftoff" src="https://img.shields.io/github/stars/ferPrieto/SpaceX-prepare-for-Clean-Architecture-liftoff?style=social" /></a></th>
     </tr>
 
 </table>
@@ -10813,6 +10853,14 @@
         <td><a href="https://actions.cicirello.org/count-action-users/" target="_blank">count-action-users</a></td>
         <td>Generates Shields endpoint with number of users of a GitHub Action</td>
         <th><a href="https://github.com/cicirello/count-action-users" target="_blank"><img alt="count-action-users" src="https://img.shields.io/github/stars/cicirello/count-action-users?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="pyaction" src="https://gitlibrary.club/images/uploads/2023/09/newshot-pyaction.jpg" /></td>
+        <td>Infrastructure</td>
+        <td>Python</td>
+        <td><a href="https://actions.cicirello.org/pyaction/" target="_blank">pyaction</a></td>
+        <td>A Docker container with Python, git, and the Github CLI</td>
+        <th><a href="https://github.com/cicirello/pyaction" target="_blank"><img alt="pyaction" src="https://img.shields.io/github/stars/cicirello/pyaction?style=social" /></a></th>
     </tr>
 
 </table>
