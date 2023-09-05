@@ -168,6 +168,14 @@
         <th><a href="https://github.com/walkccc/LeetCode" target="_blank"><img alt="LeetCode" src="https://img.shields.io/github/stars/walkccc/LeetCode?style=social" /></a></th>
     </tr>
     <tr>
+        <td nowrap="nowrap"><img width="33" alt="Jot" src="https://gitlibrary.club/images/uploads/2023/09/newshot-Jot-1.jpg" /></td>
+        <td>Infrastructure</td>
+        <td>C#</td>
+        <td><a href="http://www.codeproject.com/Articles/475498/Easier-NET-settings" target="_blank">Jot</a></td>
+        <td>Jot is a library for persisting and applying .NET application state.</td>
+        <th><a href="https://github.com/anakic/Jot" target="_blank"><img alt="Jot" src="https://img.shields.io/github/stars/anakic/Jot?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="pyaction" src="https://gitlibrary.club/images/uploads/2023/09/newshot-pyaction.jpg" /></td>
         <td>Infrastructure</td>
         <td>Python</td>
@@ -310,14 +318,6 @@
         <td><a href="https://owasp.org/www-project-wrongsecrets/" target="_blank">OWASP Wrongsecrets</a></td>
         <td>Vulnerable app with examples showing how to not use secrets</td>
         <th><a href="https://github.com/OWASP/wrongsecrets" target="_blank"><img alt="OWASP Wrongsecrets" src="https://img.shields.io/github/stars/OWASP/wrongsecrets?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Modern Developer Blog Template (Digital Garden Starter)" src="https://gitlibrary.club/images/uploads/2023/08/newshot-digital-garden.png" /></td>
-        <td>Miscellaneous</td>
-        <td>TypeScript</td>
-        <td><a href="https://thedevdavid-digital-garden.vercel.app/" target="_blank">Modern Developer Blog Template (Digital Garden Starter)</a></td>
-        <td>An open source blog (digital garden) template for developers</td>
-        <th><a href="https://github.com/thedevdavid/digital-garden" target="_blank"><img alt="Modern Developer Blog Template (Digital Garden Starter)" src="https://img.shields.io/github/stars/thedevdavid/digital-garden?style=social" /></a></th>
     </tr>
 
 </table>
@@ -703,6 +703,14 @@
         <th><a href="https://github.com/medusajs/medusa" target="_blank"><img alt="Medusa" src="https://img.shields.io/github/stars/medusajs/medusa?style=social" /></a></th>
     </tr>
     <tr>
+        <td nowrap="nowrap"><img width="33" alt="Hyperswitch" src="https://gitlibrary.club/images/uploads/2023/05/newshot-hyperswitch.png" /></td>
+        <td>Productivity</td>
+        <td>Rust</td>
+        <td><a href="https://hyperswitch.io" target="_blank">Hyperswitch</a></td>
+        <td>An Open Source Financial Switch to make Payments fast, reliable and affordable</td>
+        <th><a href="https://github.com/juspay/hyperswitch" target="_blank"><img alt="Hyperswitch" src="https://img.shields.io/github/stars/juspay/hyperswitch?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="Everright-filter" src="https://gitlibrary.club/images/uploads/2023/05/newshot-Everright-filter.jpg" /></td>
         <td>Miscellaneous</td>
         <td>Vue</td>
@@ -989,14 +997,6 @@
         <td><a href="https://github.com/griffinmyers/wirepig" target="_blank">wirepig</a></td>
         <td>Better testing through the power of sockets.</td>
         <th><a href="https://github.com/griffinmyers/wirepig" target="_blank"><img alt="wirepig" src="https://img.shields.io/github/stars/griffinmyers/wirepig?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Hyperswitch" src="https://gitlibrary.club/images/uploads/2023/05/newshot-hyperswitch.png" /></td>
-        <td>Productivity</td>
-        <td>Rust</td>
-        <td><a href="https://hyperswitch.io" target="_blank">Hyperswitch</a></td>
-        <td>An Open Source Financial Switch to make Payments fast, reliable and affordable</td>
-        <th><a href="https://github.com/juspay/hyperswitch" target="_blank"><img alt="Hyperswitch" src="https://img.shields.io/github/stars/juspay/hyperswitch?style=social" /></a></th>
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="Jellyfish-x-Retro" src="https://gitlibrary.club/images/uploads/2023/05/newshot-vscode-Jellyfish-x-Retro.jpg" /></td>
@@ -2650,6 +2650,14 @@
         <th><a href="https://github.com/jankapunkt/latexcv" target="_blank"><img alt="LatexCV" src="https://img.shields.io/github/stars/jankapunkt/latexcv?style=social" /></a></th>
     </tr>
     <tr>
+        <td nowrap="nowrap"><img width="33" alt="Hyperswitch" src="https://gitlibrary.club/images/uploads/2023/05/newshot-hyperswitch.png" /></td>
+        <td>Productivity</td>
+        <td>Rust</td>
+        <td><a href="https://hyperswitch.io" target="_blank">Hyperswitch</a></td>
+        <td>An Open Source Financial Switch to make Payments fast, reliable and affordable</td>
+        <th><a href="https://github.com/juspay/hyperswitch" target="_blank"><img alt="Hyperswitch" src="https://img.shields.io/github/stars/juspay/hyperswitch?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="boyka-framework" src="https://gitlibrary.club/images/uploads/2023/05/newshot-boyka-framework.png" /></td>
         <td>Productivity</td>
         <td>Java</td>
@@ -2712,14 +2720,6 @@
         <td><a href="https://docsify.js.org" target="_blank">Docsify</a></td>
         <td><g-emoji class="g-emoji" alias="black_joker" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f0cf.png">?</g-emoji> A magical documentation site generator.</td>
         <th><a href="https://github.com/docsifyjs/docsify" target="_blank"><img alt="Docsify" src="https://img.shields.io/github/stars/docsifyjs/docsify?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Hyperswitch" src="https://gitlibrary.club/images/uploads/2023/05/newshot-hyperswitch.png" /></td>
-        <td>Productivity</td>
-        <td>Rust</td>
-        <td><a href="https://hyperswitch.io" target="_blank">Hyperswitch</a></td>
-        <td>An Open Source Financial Switch to make Payments fast, reliable and affordable</td>
-        <th><a href="https://github.com/juspay/hyperswitch" target="_blank"><img alt="Hyperswitch" src="https://img.shields.io/github/stars/juspay/hyperswitch?style=social" /></a></th>
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="Jellyfish-x-Retro" src="https://gitlibrary.club/images/uploads/2023/05/newshot-vscode-Jellyfish-x-Retro.jpg" /></td>
@@ -6621,6 +6621,14 @@
         <td>Rust actix-web server for semantic and full-text search</td>
         <th><a href="https://github.com/arguflow/vault-server" target="_blank"><img alt="Arguflow Server" src="https://img.shields.io/github/stars/arguflow/vault-server?style=social" /></a></th>
     </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Jot" src="https://gitlibrary.club/images/uploads/2023/09/newshot-Jot-1.jpg" /></td>
+        <td>Infrastructure</td>
+        <td>C#</td>
+        <td><a href="http://www.codeproject.com/Articles/475498/Easier-NET-settings" target="_blank">Jot</a></td>
+        <td>Jot is a library for persisting and applying .NET application state.</td>
+        <th><a href="https://github.com/anakic/Jot" target="_blank"><img alt="Jot" src="https://img.shields.io/github/stars/anakic/Jot?style=social" /></a></th>
+    </tr>
 
 </table>
 
@@ -8735,6 +8743,14 @@
         <th><a href="https://github.com/hook0/hook0" target="_blank"><img alt="Hook0" src="https://img.shields.io/github/stars/hook0/hook0?style=social" /></a></th>
     </tr>
     <tr>
+        <td nowrap="nowrap"><img width="33" alt="Hyperswitch" src="https://gitlibrary.club/images/uploads/2023/05/newshot-hyperswitch.png" /></td>
+        <td>Productivity</td>
+        <td>Rust</td>
+        <td><a href="https://hyperswitch.io" target="_blank">Hyperswitch</a></td>
+        <td>An Open Source Financial Switch to make Payments fast, reliable and affordable</td>
+        <th><a href="https://github.com/juspay/hyperswitch" target="_blank"><img alt="Hyperswitch" src="https://img.shields.io/github/stars/juspay/hyperswitch?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="Sniffnet" src="https://gitlibrary.club/images/uploads/2023/09/newshot-sniffnet.jpg" /></td>
         <td>Security</td>
         <td>Rust</td>
@@ -8749,14 +8765,6 @@
         <td><a href="https://materialize.com" target="_blank">Materialize</a></td>
         <td>Materialize is a fast, distributed SQL database built on streaming internals.</td>
         <th><a href="https://github.com/MaterializeInc/materialize" target="_blank"><img alt="Materialize" src="https://img.shields.io/github/stars/MaterializeInc/materialize?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Hyperswitch" src="https://gitlibrary.club/images/uploads/2023/05/newshot-hyperswitch.png" /></td>
-        <td>Productivity</td>
-        <td>Rust</td>
-        <td><a href="https://hyperswitch.io" target="_blank">Hyperswitch</a></td>
-        <td>An Open Source Financial Switch to make Payments fast, reliable and affordable</td>
-        <th><a href="https://github.com/juspay/hyperswitch" target="_blank"><img alt="Hyperswitch" src="https://img.shields.io/github/stars/juspay/hyperswitch?style=social" /></a></th>
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="Quickwit" src="https://gitlibrary.club/images/uploads/2023/05/newshot-quickwit.png" /></td>
@@ -9679,6 +9687,14 @@
         <td><a href="https://docs.velaptor.io" target="_blank">Velaptor</a></td>
         <td>2D game and media application development framework</td>
         <th><a href="https://github.com/KinsonDigital/Velaptor" target="_blank"><img alt="Velaptor" src="https://img.shields.io/github/stars/KinsonDigital/Velaptor?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Jot" src="https://gitlibrary.club/images/uploads/2023/09/newshot-Jot-1.jpg" /></td>
+        <td>Infrastructure</td>
+        <td>C#</td>
+        <td><a href="http://www.codeproject.com/Articles/475498/Easier-NET-settings" target="_blank">Jot</a></td>
+        <td>Jot is a library for persisting and applying .NET application state.</td>
+        <th><a href="https://github.com/anakic/Jot" target="_blank"><img alt="Jot" src="https://img.shields.io/github/stars/anakic/Jot?style=social" /></a></th>
     </tr>
 
 </table>
