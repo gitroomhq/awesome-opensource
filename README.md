@@ -200,6 +200,22 @@
         <th><a href="https://github.com/Lissy93/dashy" target="_blank"><img alt="Dashy" src="https://img.shields.io/github/stars/Lissy93/dashy?style=social" /></a></th>
     </tr>
     <tr>
+        <td nowrap="nowrap"><img width="33" alt="SuperTokens" src="https://gitlibrary.club/images/uploads/2023/09/newshot-supertokens-core.png" /></td>
+        <td>Security</td>
+        <td>Java</td>
+        <td><a href="https://supertokens.com" target="_blank">SuperTokens</a></td>
+        <td>Open source alternative to Auth0 / Firebase Auth / AWS Cognito </td>
+        <th><a href="https://github.com/supertokens/supertokens-core" target="_blank"><img alt="SuperTokens" src="https://img.shields.io/github/stars/supertokens/supertokens-core?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Revert" src="https://gitlibrary.club/images/uploads/2023/09/newshot-revert.png" /></td>
+        <td>Infrastructure</td>
+        <td>TypeScript</td>
+        <td><a href="https://revert.dev" target="_blank">Revert</a></td>
+        <td>Revert is an open-source platform to build user-facing native integrations remarkably fast.</td>
+        <th><a href="https://github.com/revertinc/revert" target="_blank"><img alt="Revert" src="https://img.shields.io/github/stars/revertinc/revert?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="pyaction" src="https://gitlibrary.club/images/uploads/2023/09/newshot-pyaction.jpg" /></td>
         <td>Infrastructure</td>
         <td>Python</td>
@@ -302,22 +318,6 @@
         <td><a href="https://configu.com" target="_blank">Configu</a></td>
         <td>a simple, modern, and generic standard for managing and collaborating software configurations ⚙️✨.</td>
         <th><a href="https://github.com/configu/configu" target="_blank"><img alt="Configu" src="https://img.shields.io/github/stars/configu/configu?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Velaptor" src="https://gitlibrary.club/images/uploads/2023/08/newshot-Velaptor.png" /></td>
-        <td>Miscellaneous</td>
-        <td>C#</td>
-        <td><a href="https://docs.velaptor.io" target="_blank">Velaptor</a></td>
-        <td>2D game and media application development framework</td>
-        <th><a href="https://github.com/KinsonDigital/Velaptor" target="_blank"><img alt="Velaptor" src="https://img.shields.io/github/stars/KinsonDigital/Velaptor?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="DeepEval" src="https://gitlibrary.club/images/uploads/2023/08/newshot-deepeval.png" /></td>
-        <td>Observability</td>
-        <td>Python</td>
-        <td><a href="https://docs.confident-ai.com/" target="_blank">DeepEval</a></td>
-        <td>Unit Testing For LLMs</td>
-        <th><a href="https://github.com/confident-ai/deepeval" target="_blank"><img alt="DeepEval" src="https://img.shields.io/github/stars/confident-ai/deepeval?style=social" /></a></th>
     </tr>
 
 </table>
@@ -4933,6 +4933,14 @@
         <td>Open source cloud native security observability platform. Linux, K8s, AWS Fargate and more.</td>
         <th><a href="https://github.com/deepfence/ThreatMapper" target="_blank"><img alt="ThreatMapper" src="https://img.shields.io/github/stars/deepfence/ThreatMapper?style=social" /></a></th>
     </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="SuperTokens" src="https://gitlibrary.club/images/uploads/2023/09/newshot-supertokens-core.png" /></td>
+        <td>Security</td>
+        <td>Java</td>
+        <td><a href="https://supertokens.com" target="_blank">SuperTokens</a></td>
+        <td>Open source alternative to Auth0 / Firebase Auth / AWS Cognito </td>
+        <th><a href="https://github.com/supertokens/supertokens-core" target="_blank"><img alt="SuperTokens" src="https://img.shields.io/github/stars/supertokens/supertokens-core?style=social" /></a></th>
+    </tr>
 
 </table>
 
@@ -6653,6 +6661,14 @@
         <td>Jot is a library for persisting and applying .NET application state.</td>
         <th><a href="https://github.com/anakic/Jot" target="_blank"><img alt="Jot" src="https://img.shields.io/github/stars/anakic/Jot?style=social" /></a></th>
     </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Revert" src="https://gitlibrary.club/images/uploads/2023/09/newshot-revert.png" /></td>
+        <td>Infrastructure</td>
+        <td>TypeScript</td>
+        <td><a href="https://revert.dev" target="_blank">Revert</a></td>
+        <td>Revert is an open-source platform to build user-facing native integrations remarkably fast.</td>
+        <th><a href="https://github.com/revertinc/revert" target="_blank"><img alt="Revert" src="https://img.shields.io/github/stars/revertinc/revert?style=social" /></a></th>
+    </tr>
 
 </table>
 
@@ -7787,6 +7803,14 @@
         <td><a href="https://remult.dev" target="_blank">Remult</a></td>
         <td>Build Full-stack, End-to-end Type-safe CRUD Apps without the Boilerplate</td>
         <th><a href="https://github.com/remult/remult" target="_blank"><img alt="Remult" src="https://img.shields.io/github/stars/remult/remult?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Revert" src="https://gitlibrary.club/images/uploads/2023/09/newshot-revert.png" /></td>
+        <td>Infrastructure</td>
+        <td>TypeScript</td>
+        <td><a href="https://revert.dev" target="_blank">Revert</a></td>
+        <td>Revert is an open-source platform to build user-facing native integrations remarkably fast.</td>
+        <th><a href="https://github.com/revertinc/revert" target="_blank"><img alt="Revert" src="https://img.shields.io/github/stars/revertinc/revert?style=social" /></a></th>
     </tr>
 
 </table>
@@ -9769,6 +9793,14 @@
         <td><a href="https://owasp.org/www-project-wrongsecrets/" target="_blank">OWASP Wrongsecrets</a></td>
         <td>Vulnerable app with examples showing how to not use secrets</td>
         <th><a href="https://github.com/OWASP/wrongsecrets" target="_blank"><img alt="OWASP Wrongsecrets" src="https://img.shields.io/github/stars/OWASP/wrongsecrets?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="SuperTokens" src="https://gitlibrary.club/images/uploads/2023/09/newshot-supertokens-core.png" /></td>
+        <td>Security</td>
+        <td>Java</td>
+        <td><a href="https://supertokens.com" target="_blank">SuperTokens</a></td>
+        <td>Open source alternative to Auth0 / Firebase Auth / AWS Cognito </td>
+        <th><a href="https://github.com/supertokens/supertokens-core" target="_blank"><img alt="SuperTokens" src="https://img.shields.io/github/stars/supertokens/supertokens-core?style=social" /></a></th>
     </tr>
 
 </table>
