@@ -160,6 +160,14 @@
         <th>Stargazers</th>
     </tr>
         <tr>
+        <td nowrap="nowrap"><img width="33" alt="LeetCode" src="https://gitlibrary.club/images/uploads/2023/09/newshot-LeetCode.png" /></td>
+        <td>Miscellaneous</td>
+        <td>C++</td>
+        <td><a href="https://walkccc.me/LeetCode" target="_blank">LeetCode</a></td>
+        <td>? LeetCode in C++17/Java/Python with good readability and consistent style (respect coding convention).</td>
+        <th><a href="https://github.com/walkccc/LeetCode" target="_blank"><img alt="LeetCode" src="https://img.shields.io/github/stars/walkccc/LeetCode?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="pyaction" src="https://gitlibrary.club/images/uploads/2023/09/newshot-pyaction.jpg" /></td>
         <td>Infrastructure</td>
         <td>Python</td>
@@ -310,14 +318,6 @@
         <td><a href="https://thedevdavid-digital-garden.vercel.app/" target="_blank">Modern Developer Blog Template (Digital Garden Starter)</a></td>
         <td>An open source blog (digital garden) template for developers</td>
         <th><a href="https://github.com/thedevdavid/digital-garden" target="_blank"><img alt="Modern Developer Blog Template (Digital Garden Starter)" src="https://img.shields.io/github/stars/thedevdavid/digital-garden?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="agenta" src="https://gitlibrary.club/images/uploads/2023/08/newshot-agenta.png" /></td>
-        <td>Miscellaneous</td>
-        <td>TypeScript</td>
-        <td><a href="http://www.agenta.ai" target="_blank">agenta</a></td>
-        <td> The LLMOps platform to build robust LLM apps. Easily experiment and evaluate different prompts, models, and workflows.</td>
-        <th><a href="https://github.com/Agenta-AI/agenta" target="_blank"><img alt="agenta" src="https://img.shields.io/github/stars/Agenta-AI/agenta?style=social" /></a></th>
     </tr>
 
 </table>
@@ -2276,6 +2276,14 @@
         <td><a href="https://github.com/ferPrieto/SpaceX-prepare-for-Clean-Architecture-liftoff" target="_blank">SpaceX prepare for Clean Architecture liftoff</a></td>
         <td>Clean Architecture Modular Project: MVVM + Jetpack Compose + Coroutines + Flows + Dagger2 + LiveData + UnitTests + UITests + Screenshot Tests + MockWebServer</td>
         <th><a href="https://github.com/ferPrieto/SpaceX-prepare-for-Clean-Architecture-liftoff" target="_blank"><img alt="SpaceX prepare for Clean Architecture liftoff" src="https://img.shields.io/github/stars/ferPrieto/SpaceX-prepare-for-Clean-Architecture-liftoff?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="LeetCode" src="https://gitlibrary.club/images/uploads/2023/09/newshot-LeetCode.png" /></td>
+        <td>Miscellaneous</td>
+        <td>C++</td>
+        <td><a href="https://walkccc.me/LeetCode" target="_blank">LeetCode</a></td>
+        <td>? LeetCode in C++17/Java/Python with good readability and consistent style (respect coding convention).</td>
+        <th><a href="https://github.com/walkccc/LeetCode" target="_blank"><img alt="LeetCode" src="https://img.shields.io/github/stars/walkccc/LeetCode?style=social" /></a></th>
     </tr>
 
 </table>
@@ -11241,6 +11249,14 @@
         <td><a href="https://gammasoft71.github.io/xtd" target="_blank">Gammasoft71</a></td>
         <td>Free open-source modern C++17 / C++20 framework to create console, GUI (forms like WinForms) and unit test applications on Microsoft Windows, Apple macOS and Linux.</td>
         <th><a href="https://github.com/gammasoft71/xtd" target="_blank"><img alt="Gammasoft71" src="https://img.shields.io/github/stars/gammasoft71/xtd?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="LeetCode" src="https://gitlibrary.club/images/uploads/2023/09/newshot-LeetCode.png" /></td>
+        <td>Miscellaneous</td>
+        <td>C++</td>
+        <td><a href="https://walkccc.me/LeetCode" target="_blank">LeetCode</a></td>
+        <td>? LeetCode in C++17/Java/Python with good readability and consistent style (respect coding convention).</td>
+        <th><a href="https://github.com/walkccc/LeetCode" target="_blank"><img alt="LeetCode" src="https://img.shields.io/github/stars/walkccc/LeetCode?style=social" /></a></th>
     </tr>
 
 </table>
