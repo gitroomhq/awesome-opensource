@@ -66,9 +66,9 @@
              </li>          <li>
                 <a href="#java">Top 20 Java libraries</a>
              </li>          <li>
-                <a href="#vue">Top 20 Vue libraries</a>
-             </li>          <li>
                 <a href="#python">Top 20 Python libraries</a>
+             </li>          <li>
+                <a href="#vue">Top 20 Vue libraries</a>
              </li>          <li>
                 <a href="#ruby">Top 20 Ruby libraries</a>
              </li>          <li>
@@ -639,12 +639,44 @@
         <th><a href="https://github.com/jankapunkt/latexcv" target="_blank"><img alt="LatexCV" src="https://img.shields.io/github/stars/jankapunkt/latexcv?style=social" /></a></th>
     </tr>
     <tr>
+        <td nowrap="nowrap"><img width="33" alt="Chips-n-Salsa" src="https://gitlibrary.club/images/uploads/2023/08/newshot-Chips-n-Salsa.jpg" /></td>
+        <td>Miscellaneous</td>
+        <td>Java</td>
+        <td><a href="https://chips-n-salsa.cicirello.org/" target="_blank">Chips-n-Salsa</a></td>
+        <td>A Java library of Customizable, Hybridizable, Iterative, Parallel, Stochastic, and Self-Adaptive Local Search Algorithms</td>
+        <th><a href="https://github.com/cicirello/Chips-n-Salsa" target="_blank"><img alt="Chips-n-Salsa" src="https://img.shields.io/github/stars/cicirello/Chips-n-Salsa?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="JavaPermutationTools" src="https://gitlibrary.club/images/uploads/2023/08/newshot-JavaPermutationTools.jpg" /></td>
+        <td>Miscellaneous</td>
+        <td>Java</td>
+        <td><a href="https://jpt.cicirello.org/" target="_blank">JavaPermutationTools</a></td>
+        <td>A Java library for computation on permutations and sequences</td>
+        <th><a href="https://github.com/cicirello/JavaPermutationTools" target="_blank"><img alt="JavaPermutationTools" src="https://img.shields.io/github/stars/cicirello/JavaPermutationTools?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="ρμ" src="https://gitlibrary.club/images/uploads/2023/08/newshot-rho-mu.jpg" /></td>
+        <td>Miscellaneous</td>
+        <td>Java</td>
+        <td><a href="https://rho-mu.cicirello.org" target="_blank">ρμ</a></td>
+        <td>ρμ - a Java library of Randomization enHancements and Other Math Utilities</td>
+        <th><a href="https://github.com/cicirello/rho-mu" target="_blank"><img alt="ρμ" src="https://img.shields.io/github/stars/cicirello/rho-mu?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="inlang" src="https://gitlibrary.club/images/uploads/2023/08/newshot-inlang.png" /></td>
         <td>Collaboration</td>
         <td>TypeScript</td>
         <td><a href="https://inlang.com" target="_blank">inlang</a></td>
         <td>globalization infrastructure for software &amp;&amp; version control for apps</td>
         <th><a href="https://github.com/inlang/inlang" target="_blank"><img alt="inlang" src="https://img.shields.io/github/stars/inlang/inlang?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="pyaction" src="https://gitlibrary.club/images/uploads/2023/09/newshot-pyaction.jpg" /></td>
+        <td>Infrastructure</td>
+        <td>Python</td>
+        <td><a href="https://actions.cicirello.org/pyaction/" target="_blank">pyaction</a></td>
+        <td>A Docker container with Python, git, and the Github CLI</td>
+        <th><a href="https://github.com/cicirello/pyaction" target="_blank"><img alt="pyaction" src="https://img.shields.io/github/stars/cicirello/pyaction?style=social" /></a></th>
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="GitHub Support" src="https://gitlibrary.club/images/uploads/2023/05/newshot-dmca.png" /></td>
@@ -767,30 +799,6 @@
         <th><a href="https://github.com/DNedic/lockfree" target="_blank"><img alt="lockfree" src="https://img.shields.io/github/stars/DNedic/lockfree?style=social" /></a></th>
     </tr>
     <tr>
-        <td nowrap="nowrap"><img width="33" alt="Chips-n-Salsa" src="https://gitlibrary.club/images/uploads/2023/08/newshot-Chips-n-Salsa.jpg" /></td>
-        <td>Miscellaneous</td>
-        <td>Java</td>
-        <td><a href="https://chips-n-salsa.cicirello.org/" target="_blank">Chips-n-Salsa</a></td>
-        <td>A Java library of Customizable, Hybridizable, Iterative, Parallel, Stochastic, and Self-Adaptive Local Search Algorithms</td>
-        <th><a href="https://github.com/cicirello/Chips-n-Salsa" target="_blank"><img alt="Chips-n-Salsa" src="https://img.shields.io/github/stars/cicirello/Chips-n-Salsa?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="JavaPermutationTools" src="https://gitlibrary.club/images/uploads/2023/08/newshot-JavaPermutationTools.jpg" /></td>
-        <td>Miscellaneous</td>
-        <td>Java</td>
-        <td><a href="https://jpt.cicirello.org/" target="_blank">JavaPermutationTools</a></td>
-        <td>A Java library for computation on permutations and sequences</td>
-        <th><a href="https://github.com/cicirello/JavaPermutationTools" target="_blank"><img alt="JavaPermutationTools" src="https://img.shields.io/github/stars/cicirello/JavaPermutationTools?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="ρμ" src="https://gitlibrary.club/images/uploads/2023/08/newshot-rho-mu.jpg" /></td>
-        <td>Miscellaneous</td>
-        <td>Java</td>
-        <td><a href="https://rho-mu.cicirello.org" target="_blank">ρμ</a></td>
-        <td>ρμ - a Java library of Randomization enHancements and Other Math Utilities</td>
-        <th><a href="https://github.com/cicirello/rho-mu" target="_blank"><img alt="ρμ" src="https://img.shields.io/github/stars/cicirello/rho-mu?style=social" /></a></th>
-    </tr>
-    <tr>
         <td nowrap="nowrap"><img width="33" alt="Stack-chan" src="https://gitlibrary.club/images/uploads/2023/08/newshot-stack-chan-1.jpg" /></td>
         <td>Miscellaneous</td>
         <td>TypeScript</td>
@@ -813,14 +821,6 @@
         <td><a href="https://sniffnet.net" target="_blank">Sniffnet</a></td>
         <td>Application to comfortably monitor your Internet traffic ?️‍♂️</td>
         <th><a href="https://github.com/GyulyVGC/sniffnet" target="_blank"><img alt="Sniffnet" src="https://img.shields.io/github/stars/GyulyVGC/sniffnet?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="pyaction" src="https://gitlibrary.club/images/uploads/2023/09/newshot-pyaction.jpg" /></td>
-        <td>Infrastructure</td>
-        <td>Python</td>
-        <td><a href="https://actions.cicirello.org/pyaction/" target="_blank">pyaction</a></td>
-        <td>A Docker container with Python, git, and the Github CLI</td>
-        <th><a href="https://github.com/cicirello/pyaction" target="_blank"><img alt="pyaction" src="https://img.shields.io/github/stars/cicirello/pyaction?style=social" /></a></th>
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="Mirage JS" src="https://gitlibrary.club/images/uploads/2023/05/newshot-miragejs.png" /></td>
@@ -1190,6 +1190,30 @@
         <th><a href="https://github.com/openstatusHQ/openstatus" target="_blank"><img alt="OpenStatus" src="https://img.shields.io/github/stars/openstatusHQ/openstatus?style=social" /></a></th>
     </tr>
     <tr>
+        <td nowrap="nowrap"><img width="33" alt="Chips-n-Salsa" src="https://gitlibrary.club/images/uploads/2023/08/newshot-Chips-n-Salsa.jpg" /></td>
+        <td>Miscellaneous</td>
+        <td>Java</td>
+        <td><a href="https://chips-n-salsa.cicirello.org/" target="_blank">Chips-n-Salsa</a></td>
+        <td>A Java library of Customizable, Hybridizable, Iterative, Parallel, Stochastic, and Self-Adaptive Local Search Algorithms</td>
+        <th><a href="https://github.com/cicirello/Chips-n-Salsa" target="_blank"><img alt="Chips-n-Salsa" src="https://img.shields.io/github/stars/cicirello/Chips-n-Salsa?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="JavaPermutationTools" src="https://gitlibrary.club/images/uploads/2023/08/newshot-JavaPermutationTools.jpg" /></td>
+        <td>Miscellaneous</td>
+        <td>Java</td>
+        <td><a href="https://jpt.cicirello.org/" target="_blank">JavaPermutationTools</a></td>
+        <td>A Java library for computation on permutations and sequences</td>
+        <th><a href="https://github.com/cicirello/JavaPermutationTools" target="_blank"><img alt="JavaPermutationTools" src="https://img.shields.io/github/stars/cicirello/JavaPermutationTools?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="ρμ" src="https://gitlibrary.club/images/uploads/2023/08/newshot-rho-mu.jpg" /></td>
+        <td>Miscellaneous</td>
+        <td>Java</td>
+        <td><a href="https://rho-mu.cicirello.org" target="_blank">ρμ</a></td>
+        <td>ρμ - a Java library of Randomization enHancements and Other Math Utilities</td>
+        <th><a href="https://github.com/cicirello/rho-mu" target="_blank"><img alt="ρμ" src="https://img.shields.io/github/stars/cicirello/rho-mu?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="GitHub Support" src="https://gitlibrary.club/images/uploads/2023/05/newshot-dmca.png" /></td>
         <td>Miscellaneous</td>
         <td>undefined</td>
@@ -1236,30 +1260,6 @@
         <td><a href="https://github.com/DNedic/lockfree" target="_blank">lockfree</a></td>
         <td>A collection of lock-free data structures written in standard C++11</td>
         <th><a href="https://github.com/DNedic/lockfree" target="_blank"><img alt="lockfree" src="https://img.shields.io/github/stars/DNedic/lockfree?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Chips-n-Salsa" src="https://gitlibrary.club/images/uploads/2023/08/newshot-Chips-n-Salsa.jpg" /></td>
-        <td>Miscellaneous</td>
-        <td>Java</td>
-        <td><a href="https://chips-n-salsa.cicirello.org/" target="_blank">Chips-n-Salsa</a></td>
-        <td>A Java library of Customizable, Hybridizable, Iterative, Parallel, Stochastic, and Self-Adaptive Local Search Algorithms</td>
-        <th><a href="https://github.com/cicirello/Chips-n-Salsa" target="_blank"><img alt="Chips-n-Salsa" src="https://img.shields.io/github/stars/cicirello/Chips-n-Salsa?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="JavaPermutationTools" src="https://gitlibrary.club/images/uploads/2023/08/newshot-JavaPermutationTools.jpg" /></td>
-        <td>Miscellaneous</td>
-        <td>Java</td>
-        <td><a href="https://jpt.cicirello.org/" target="_blank">JavaPermutationTools</a></td>
-        <td>A Java library for computation on permutations and sequences</td>
-        <th><a href="https://github.com/cicirello/JavaPermutationTools" target="_blank"><img alt="JavaPermutationTools" src="https://img.shields.io/github/stars/cicirello/JavaPermutationTools?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="ρμ" src="https://gitlibrary.club/images/uploads/2023/08/newshot-rho-mu.jpg" /></td>
-        <td>Miscellaneous</td>
-        <td>Java</td>
-        <td><a href="https://rho-mu.cicirello.org" target="_blank">ρμ</a></td>
-        <td>ρμ - a Java library of Randomization enHancements and Other Math Utilities</td>
-        <th><a href="https://github.com/cicirello/rho-mu" target="_blank"><img alt="ρμ" src="https://img.shields.io/github/stars/cicirello/rho-mu?style=social" /></a></th>
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="Stack-chan" src="https://gitlibrary.club/images/uploads/2023/08/newshot-stack-chan-1.jpg" /></td>
@@ -5526,6 +5526,14 @@
         <th><a href="https://github.com/tcet-opensource/tcet-linux" target="_blank"><img alt="TCET Linux" src="https://img.shields.io/github/stars/tcet-opensource/tcet-linux?style=social" /></a></th>
     </tr>
     <tr>
+        <td nowrap="nowrap"><img width="33" alt="pyaction" src="https://gitlibrary.club/images/uploads/2023/09/newshot-pyaction.jpg" /></td>
+        <td>Infrastructure</td>
+        <td>Python</td>
+        <td><a href="https://actions.cicirello.org/pyaction/" target="_blank">pyaction</a></td>
+        <td>A Docker container with Python, git, and the Github CLI</td>
+        <th><a href="https://github.com/cicirello/pyaction" target="_blank"><img alt="pyaction" src="https://img.shields.io/github/stars/cicirello/pyaction?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="JUnitorg." src="https://gitlibrary.club/images/uploads/2023/05/newshot-junit5.png" /></td>
         <td>Infrastructure</td>
         <td>Java</td>
@@ -5548,14 +5556,6 @@
         <td><a href="https://medplum.com" target="_blank">Medplum</a></td>
         <td>Medplum is a healthcare platform that helps you quickly develop high-quality compliant applications.</td>
         <th><a href="https://github.com/medplum/medplum" target="_blank"><img alt="Medplum" src="https://img.shields.io/github/stars/medplum/medplum?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="pyaction" src="https://gitlibrary.club/images/uploads/2023/09/newshot-pyaction.jpg" /></td>
-        <td>Infrastructure</td>
-        <td>Python</td>
-        <td><a href="https://actions.cicirello.org/pyaction/" target="_blank">pyaction</a></td>
-        <td>A Docker container with Python, git, and the Github CLI</td>
-        <th><a href="https://github.com/cicirello/pyaction" target="_blank"><img alt="pyaction" src="https://img.shields.io/github/stars/cicirello/pyaction?style=social" /></a></th>
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="Hyperf" src="https://gitlibrary.club/images/uploads/2023/05/newshot-hyperf.jpg" /></td>
@@ -9779,22 +9779,6 @@
         <th>Stargazers</th>
     </tr>
         <tr>
-        <td nowrap="nowrap"><img width="33" alt="JUnitorg." src="https://gitlibrary.club/images/uploads/2023/05/newshot-junit5.png" /></td>
-        <td>Infrastructure</td>
-        <td>Java</td>
-        <td><a href="https://junit.org" target="_blank">JUnitorg.</a></td>
-        <td><g-emoji class="g-emoji" alias="white_check_mark" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2705.png">✅</g-emoji> The 5th major version of the programmer-friendly testing framework for Java and the JVM</td>
-        <th><a href="https://github.com/junit-team/junit5" target="_blank"><img alt="JUnitorg." src="https://img.shields.io/github/stars/junit-team/junit5?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="boyka-framework" src="https://gitlibrary.club/images/uploads/2023/05/newshot-boyka-framework.png" /></td>
-        <td>Productivity</td>
-        <td>Java</td>
-        <td><a href="https://boykaframework.github.io/boyka-framework/" target="_blank">boyka-framework</a></td>
-        <td> <g-emoji class="g-emoji" alias="tada" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f389.png">?</g-emoji> Ultimate test automation framework for automating any application on any platform</td>
-        <th><a href="https://github.com/BoykaFramework/boyka-framework" target="_blank"><img alt="boyka-framework" src="https://img.shields.io/github/stars/BoykaFramework/boyka-framework?style=social" /></a></th>
-    </tr>
-    <tr>
         <td nowrap="nowrap"><img width="33" alt="Chips-n-Salsa" src="https://gitlibrary.club/images/uploads/2023/08/newshot-Chips-n-Salsa.jpg" /></td>
         <td>Miscellaneous</td>
         <td>Java</td>
@@ -9817,6 +9801,22 @@
         <td><a href="https://rho-mu.cicirello.org" target="_blank">ρμ</a></td>
         <td>ρμ - a Java library of Randomization enHancements and Other Math Utilities</td>
         <th><a href="https://github.com/cicirello/rho-mu" target="_blank"><img alt="ρμ" src="https://img.shields.io/github/stars/cicirello/rho-mu?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="JUnitorg." src="https://gitlibrary.club/images/uploads/2023/05/newshot-junit5.png" /></td>
+        <td>Infrastructure</td>
+        <td>Java</td>
+        <td><a href="https://junit.org" target="_blank">JUnitorg.</a></td>
+        <td><g-emoji class="g-emoji" alias="white_check_mark" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2705.png">✅</g-emoji> The 5th major version of the programmer-friendly testing framework for Java and the JVM</td>
+        <th><a href="https://github.com/junit-team/junit5" target="_blank"><img alt="JUnitorg." src="https://img.shields.io/github/stars/junit-team/junit5?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="boyka-framework" src="https://gitlibrary.club/images/uploads/2023/05/newshot-boyka-framework.png" /></td>
+        <td>Productivity</td>
+        <td>Java</td>
+        <td><a href="https://boykaframework.github.io/boyka-framework/" target="_blank">boyka-framework</a></td>
+        <td> <g-emoji class="g-emoji" alias="tada" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f389.png">?</g-emoji> Ultimate test automation framework for automating any application on any platform</td>
+        <th><a href="https://github.com/BoykaFramework/boyka-framework" target="_blank"><img alt="boyka-framework" src="https://img.shields.io/github/stars/BoykaFramework/boyka-framework?style=social" /></a></th>
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="Micronaut Framework" src="https://gitlibrary.club/images/uploads/2023/05/newshot-micronaut-core.png" /></td>
@@ -10094,52 +10094,6 @@
 </table>
 
 <br /><br />
-<h2 id="vue">Top 20 Vue libraries</h2>
-<table>
-    <tr>
-        <th>Icon</th>
-        <th>Category</th>
-        <th>Language</th>
-        <th>Name</th>
-        <th>Description</th>
-        <th>Stargazers</th>
-    </tr>
-        <tr>
-        <td nowrap="nowrap"><img width="33" alt="Everright-filter" src="https://gitlibrary.club/images/uploads/2023/05/newshot-Everright-filter.jpg" /></td>
-        <td>Miscellaneous</td>
-        <td>Vue</td>
-        <td><a href="https://everright.site/en/module/filter/introduction.html" target="_blank">Everright-filter</a></td>
-        <td>A query builder component for Vue3. Supports filtering of multiple data types, including string, number, dropdown, cascade, region, date, and time.</td>
-        <th><a href="https://github.com/Liberty-liu/Everright-filter" target="_blank"><img alt="Everright-filter" src="https://img.shields.io/github/stars/Liberty-liu/Everright-filter?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Web Activity Time Tracker" src="https://gitlibrary.club/images/uploads/2023/08/newshot-web-activity-time-tracker.jpg" /></td>
-        <td>Productivity</td>
-        <td>Vue</td>
-        <td><a href="https://chrome.google.com/webstore/detail/web-activity-time-tracker/hhfnghjdeddcfegfekjeihfmbjenlomm" target="_blank">Web Activity Time Tracker</a></td>
-        <td>Chrome Extension that tracks and limits time you spent on sites</td>
-        <th><a href="https://github.com/Stigmatoz/web-activity-time-tracker" target="_blank"><img alt="Web Activity Time Tracker" src="https://img.shields.io/github/stars/Stigmatoz/web-activity-time-tracker?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Nginx UI" src="https://gitlibrary.club/images/uploads/2023/09/newshot-nginx-ui.jpg" /></td>
-        <td>Productivity</td>
-        <td>Vue</td>
-        <td><a href="https://nginxui.com" target="_blank">Nginx UI</a></td>
-        <td>Yet another WebUI for Nginx</td>
-        <th><a href="https://github.com/0xJacky/nginx-ui" target="_blank"><img alt="Nginx UI" src="https://img.shields.io/github/stars/0xJacky/nginx-ui?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="WooNuxt" src="https://gitlibrary.club/images/uploads/2023/06/newshot-woonuxt.png" /></td>
-        <td>Miscellaneous</td>
-        <td>Vue</td>
-        <td><a href="https://woonuxt.com" target="_blank">WooNuxt</a></td>
-        <td>Static e-commerce powered by WooCommerce &amp; Nuxt</td>
-        <th><a href="https://github.com/scottyzen/woonuxt" target="_blank"><img alt="WooNuxt" src="https://img.shields.io/github/stars/scottyzen/woonuxt?style=social" /></a></th>
-    </tr>
-
-</table>
-
-<br /><br />
 <h2 id="python">Top 20 Python libraries</h2>
 <table>
     <tr>
@@ -10151,6 +10105,14 @@
         <th>Stargazers</th>
     </tr>
         <tr>
+        <td nowrap="nowrap"><img width="33" alt="pyaction" src="https://gitlibrary.club/images/uploads/2023/09/newshot-pyaction.jpg" /></td>
+        <td>Infrastructure</td>
+        <td>Python</td>
+        <td><a href="https://actions.cicirello.org/pyaction/" target="_blank">pyaction</a></td>
+        <td>A Docker container with Python, git, and the Github CLI</td>
+        <th><a href="https://github.com/cicirello/pyaction" target="_blank"><img alt="pyaction" src="https://img.shields.io/github/stars/cicirello/pyaction?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="llm-client" src="https://gitlibrary.club/images/uploads/2023/05/newshot-llm-client-sdk.jpg" /></td>
         <td>Infrastructure</td>
         <td>Python</td>
@@ -10165,14 +10127,6 @@
         <td><a href="https://www.keephq.dev" target="_blank">Keep</a></td>
         <td>Open source alerting management for software developers.</td>
         <th><a href="https://github.com/keephq/keep" target="_blank"><img alt="Keep" src="https://img.shields.io/github/stars/keephq/keep?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="pyaction" src="https://gitlibrary.club/images/uploads/2023/09/newshot-pyaction.jpg" /></td>
-        <td>Infrastructure</td>
-        <td>Python</td>
-        <td><a href="https://actions.cicirello.org/pyaction/" target="_blank">pyaction</a></td>
-        <td>A Docker container with Python, git, and the Github CLI</td>
-        <th><a href="https://github.com/cicirello/pyaction" target="_blank"><img alt="pyaction" src="https://img.shields.io/github/stars/cicirello/pyaction?style=social" /></a></th>
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="DocsGPT" src="https://gitlibrary.club/images/uploads/2023/05/newshot-DocsGPT.png" /></td>
@@ -10893,6 +10847,52 @@
         <td><a href="https://actions.cicirello.org/jacoco-badge-generator/" target="_blank">jacoco-badge-generator</a></td>
         <td>Coverage badges, and pull request coverage checks, from JaCoCo reports in GitHub Actions</td>
         <th><a href="https://github.com/cicirello/jacoco-badge-generator" target="_blank"><img alt="jacoco-badge-generator" src="https://img.shields.io/github/stars/cicirello/jacoco-badge-generator?style=social" /></a></th>
+    </tr>
+
+</table>
+
+<br /><br />
+<h2 id="vue">Top 20 Vue libraries</h2>
+<table>
+    <tr>
+        <th>Icon</th>
+        <th>Category</th>
+        <th>Language</th>
+        <th>Name</th>
+        <th>Description</th>
+        <th>Stargazers</th>
+    </tr>
+        <tr>
+        <td nowrap="nowrap"><img width="33" alt="Everright-filter" src="https://gitlibrary.club/images/uploads/2023/05/newshot-Everright-filter.jpg" /></td>
+        <td>Miscellaneous</td>
+        <td>Vue</td>
+        <td><a href="https://everright.site/en/module/filter/introduction.html" target="_blank">Everright-filter</a></td>
+        <td>A query builder component for Vue3. Supports filtering of multiple data types, including string, number, dropdown, cascade, region, date, and time.</td>
+        <th><a href="https://github.com/Liberty-liu/Everright-filter" target="_blank"><img alt="Everright-filter" src="https://img.shields.io/github/stars/Liberty-liu/Everright-filter?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Web Activity Time Tracker" src="https://gitlibrary.club/images/uploads/2023/08/newshot-web-activity-time-tracker.jpg" /></td>
+        <td>Productivity</td>
+        <td>Vue</td>
+        <td><a href="https://chrome.google.com/webstore/detail/web-activity-time-tracker/hhfnghjdeddcfegfekjeihfmbjenlomm" target="_blank">Web Activity Time Tracker</a></td>
+        <td>Chrome Extension that tracks and limits time you spent on sites</td>
+        <th><a href="https://github.com/Stigmatoz/web-activity-time-tracker" target="_blank"><img alt="Web Activity Time Tracker" src="https://img.shields.io/github/stars/Stigmatoz/web-activity-time-tracker?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Nginx UI" src="https://gitlibrary.club/images/uploads/2023/09/newshot-nginx-ui.jpg" /></td>
+        <td>Productivity</td>
+        <td>Vue</td>
+        <td><a href="https://nginxui.com" target="_blank">Nginx UI</a></td>
+        <td>Yet another WebUI for Nginx</td>
+        <th><a href="https://github.com/0xJacky/nginx-ui" target="_blank"><img alt="Nginx UI" src="https://img.shields.io/github/stars/0xJacky/nginx-ui?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="WooNuxt" src="https://gitlibrary.club/images/uploads/2023/06/newshot-woonuxt.png" /></td>
+        <td>Miscellaneous</td>
+        <td>Vue</td>
+        <td><a href="https://woonuxt.com" target="_blank">WooNuxt</a></td>
+        <td>Static e-commerce powered by WooCommerce &amp; Nuxt</td>
+        <th><a href="https://github.com/scottyzen/woonuxt" target="_blank"><img alt="WooNuxt" src="https://img.shields.io/github/stars/scottyzen/woonuxt?style=social" /></a></th>
     </tr>
 
 </table>
