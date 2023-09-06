@@ -184,6 +184,14 @@
         <th><a href="https://github.com/cicirello/user-statistician" target="_blank"><img alt="user-statistician" src="https://img.shields.io/github/stars/cicirello/user-statistician?style=social" /></a></th>
     </tr>
     <tr>
+        <td nowrap="nowrap"><img width="33" alt="REST API Reporting for .NET" src="https://gitlibrary.club/images/uploads/2023/09/newshot-RestApiReporting.png" /></td>
+        <td>Productivity</td>
+        <td>C#</td>
+        <td><a href="https://github.com/Giannoudis/RestApiReporting" target="_blank">REST API Reporting for .NET</a></td>
+        <td>REST API Reporting for .NET</td>
+        <th><a href="https://github.com/Giannoudis/RestApiReporting" target="_blank"><img alt="REST API Reporting for .NET" src="https://img.shields.io/github/stars/Giannoudis/RestApiReporting?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="Haly AI" src="https://gitlibrary.club/images/uploads/2023/09/newshot-slack-bot.png" /></td>
         <td>Collaboration</td>
         <td>Python</td>
@@ -310,14 +318,6 @@
         <td><a href="https://nginxui.com" target="_blank">Nginx UI</a></td>
         <td>Yet another WebUI for Nginx</td>
         <th><a href="https://github.com/0xJacky/nginx-ui" target="_blank"><img alt="Nginx UI" src="https://img.shields.io/github/stars/0xJacky/nginx-ui?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="count-action-users" src="https://gitlibrary.club/images/uploads/2023/08/newshot-count-action-users.jpg" /></td>
-        <td>Analytics</td>
-        <td>Python</td>
-        <td><a href="https://actions.cicirello.org/count-action-users/" target="_blank">count-action-users</a></td>
-        <td>Generates Shields endpoint with number of users of a GitHub Action</td>
-        <th><a href="https://github.com/cicirello/count-action-users" target="_blank"><img alt="count-action-users" src="https://img.shields.io/github/stars/cicirello/count-action-users?style=social" /></a></th>
     </tr>
 
 </table>
@@ -775,6 +775,14 @@
         <th><a href="https://github.com/aptabase/aptabase" target="_blank"><img alt="Aptabase" src="https://img.shields.io/github/stars/aptabase/aptabase?style=social" /></a></th>
     </tr>
     <tr>
+        <td nowrap="nowrap"><img width="33" alt="Reejs" src="https://gitlibrary.club/images/uploads/2023/06/newshot-reejs.png" /></td>
+        <td>Productivity</td>
+        <td>JavaScript</td>
+        <td><a href="https://ree.js.org" target="_blank">Reejs</a></td>
+        <td>Make Sites Faster, without the need of building anything!</td>
+        <th><a href="https://github.com/rovelstars/reejs" target="_blank"><img alt="Reejs" src="https://img.shields.io/github/stars/rovelstars/reejs?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="MoZhiMusicPlayer" src="https://gitlibrary.club/images/uploads/2023/06/newshot-MoZhiMusicPlayer.jpg" /></td>
         <td>Analytics</td>
         <td>C#</td>
@@ -1125,14 +1133,6 @@
         <td><a href="https://railtrack.ch" target="_blank">Railtrack</a></td>
         <td>Next.js and Supabase app to track your train journeys in Europe</td>
         <th><a href="https://github.com/noahflk/railtrack" target="_blank"><img alt="Railtrack" src="https://img.shields.io/github/stars/noahflk/railtrack?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Quickwit" src="https://gitlibrary.club/images/uploads/2023/05/newshot-quickwit.png" /></td>
-        <td>Observability</td>
-        <td>Rust</td>
-        <td><a href="https://quickwit.io" target="_blank">Quickwit</a></td>
-        <td>Sub-second search &amp; analytics engine on cloud storage</td>
-        <th><a href="https://github.com/quickwit-oss/quickwit" target="_blank"><img alt="Quickwit" src="https://img.shields.io/github/stars/quickwit-oss/quickwit?style=social" /></a></th>
     </tr>
 
 </table>
@@ -2682,6 +2682,14 @@
         <th><a href="https://github.com/BoykaFramework/boyka-framework" target="_blank"><img alt="boyka-framework" src="https://img.shields.io/github/stars/BoykaFramework/boyka-framework?style=social" /></a></th>
     </tr>
     <tr>
+        <td nowrap="nowrap"><img width="33" alt="Reejs" src="https://gitlibrary.club/images/uploads/2023/06/newshot-reejs.png" /></td>
+        <td>Productivity</td>
+        <td>JavaScript</td>
+        <td><a href="https://ree.js.org" target="_blank">Reejs</a></td>
+        <td>Make Sites Faster, without the need of building anything!</td>
+        <th><a href="https://github.com/rovelstars/reejs" target="_blank"><img alt="Reejs" src="https://img.shields.io/github/stars/rovelstars/reejs?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="IDURAR ERP CRM" src="https://gitlibrary.club/images/uploads/2023/07/newshot-idurar-erp-crm.png" /></td>
         <td>Productivity</td>
         <td>JavaScript</td>
@@ -2784,14 +2792,6 @@
         <td><a href="https://github.com/HynDuf/dotfiles" target="_blank">Aesthetic Arch Linux dotfiles</a></td>
         <td>Aesthetic Dotfiles for my Arch Linux</td>
         <th><a href="https://github.com/HynDuf/dotfiles" target="_blank"><img alt="Aesthetic Arch Linux dotfiles" src="https://img.shields.io/github/stars/HynDuf/dotfiles?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Reejs" src="https://gitlibrary.club/images/uploads/2023/06/newshot-reejs.png" /></td>
-        <td>Productivity</td>
-        <td>JavaScript</td>
-        <td><a href="https://ree.js.org" target="_blank">Reejs</a></td>
-        <td>Make Sites Faster, without the need of building anything!</td>
-        <th><a href="https://github.com/rovelstars/reejs" target="_blank"><img alt="Reejs" src="https://img.shields.io/github/stars/rovelstars/reejs?style=social" /></a></th>
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="trame" src="https://gitlibrary.club/images/uploads/2023/06/newshot-trame.png" /></td>
@@ -4248,6 +4248,14 @@
         <td><a href="https://github.com/gkaramanis/tidytuesday" target="_blank">tidytuesday</a></td>
         <td>Code and plots for submissions to the #tidytuesday challenge</td>
         <th><a href="https://github.com/gkaramanis/tidytuesday" target="_blank"><img alt="tidytuesday" src="https://img.shields.io/github/stars/gkaramanis/tidytuesday?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="REST API Reporting for .NET" src="https://gitlibrary.club/images/uploads/2023/09/newshot-RestApiReporting.png" /></td>
+        <td>Productivity</td>
+        <td>C#</td>
+        <td><a href="https://github.com/Giannoudis/RestApiReporting" target="_blank">REST API Reporting for .NET</a></td>
+        <td>REST API Reporting for .NET</td>
+        <th><a href="https://github.com/Giannoudis/RestApiReporting" target="_blank"><img alt="REST API Reporting for .NET" src="https://img.shields.io/github/stars/Giannoudis/RestApiReporting?style=social" /></a></th>
     </tr>
 
 </table>
@@ -9029,6 +9037,14 @@
         <th><a href="https://github.com/node-oauth/node-oauth2-server" target="_blank"><img alt="@node-oauth/oauth2-server" src="https://img.shields.io/github/stars/node-oauth/node-oauth2-server?style=social" /></a></th>
     </tr>
     <tr>
+        <td nowrap="nowrap"><img width="33" alt="Reejs" src="https://gitlibrary.club/images/uploads/2023/06/newshot-reejs.png" /></td>
+        <td>Productivity</td>
+        <td>JavaScript</td>
+        <td><a href="https://ree.js.org" target="_blank">Reejs</a></td>
+        <td>Make Sites Faster, without the need of building anything!</td>
+        <th><a href="https://github.com/rovelstars/reejs" target="_blank"><img alt="Reejs" src="https://img.shields.io/github/stars/rovelstars/reejs?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="IDURAR ERP CRM" src="https://gitlibrary.club/images/uploads/2023/07/newshot-idurar-erp-crm.png" /></td>
         <td>Productivity</td>
         <td>JavaScript</td>
@@ -9107,14 +9123,6 @@
         <td><a href="https://github.com/NivEz/telenode" target="_blank">Telenode</a></td>
         <td>Lightweight Telegram API framework for Node.js</td>
         <th><a href="https://github.com/NivEz/telenode" target="_blank"><img alt="Telenode" src="https://img.shields.io/github/stars/NivEz/telenode?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Reejs" src="https://gitlibrary.club/images/uploads/2023/06/newshot-reejs.png" /></td>
-        <td>Productivity</td>
-        <td>JavaScript</td>
-        <td><a href="https://ree.js.org" target="_blank">Reejs</a></td>
-        <td>Make Sites Faster, without the need of building anything!</td>
-        <th><a href="https://github.com/rovelstars/reejs" target="_blank"><img alt="Reejs" src="https://img.shields.io/github/stars/rovelstars/reejs?style=social" /></a></th>
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="REI3" src="https://gitlibrary.club/images/uploads/2023/07/newshot-r3.png" /></td>
@@ -10891,6 +10899,14 @@
         <td><a href="http://www.codeproject.com/Articles/475498/Easier-NET-settings" target="_blank">Jot</a></td>
         <td>Jot is a library for persisting and applying .NET application state.</td>
         <th><a href="https://github.com/anakic/Jot" target="_blank"><img alt="Jot" src="https://img.shields.io/github/stars/anakic/Jot?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="REST API Reporting for .NET" src="https://gitlibrary.club/images/uploads/2023/09/newshot-RestApiReporting.png" /></td>
+        <td>Productivity</td>
+        <td>C#</td>
+        <td><a href="https://github.com/Giannoudis/RestApiReporting" target="_blank">REST API Reporting for .NET</a></td>
+        <td>REST API Reporting for .NET</td>
+        <th><a href="https://github.com/Giannoudis/RestApiReporting" target="_blank"><img alt="REST API Reporting for .NET" src="https://img.shields.io/github/stars/Giannoudis/RestApiReporting?style=social" /></a></th>
     </tr>
 
 </table>
