@@ -160,6 +160,14 @@
         <th>Stargazers</th>
     </tr>
         <tr>
+        <td nowrap="nowrap"><img width="33" alt="Websurfx" src="https://gitlibrary.club/images/uploads/2023/09/newshot-websurfx-1.jpg" /></td>
+        <td>Miscellaneous</td>
+        <td>Rust</td>
+        <td><a href="https://github.com/neon-mmd/websurfx" target="_blank">Websurfx</a></td>
+        <td>? An open source alternative to searx which provides a modern-looking ✨, lightning-fast ⚡, privacy respecting ?, secure ? meta search engine</td>
+        <th><a href="https://github.com/neon-mmd/websurfx" target="_blank"><img alt="Websurfx" src="https://img.shields.io/github/stars/neon-mmd/websurfx?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="Haly AI" src="https://gitlibrary.club/images/uploads/2023/09/newshot-slack-bot.png" /></td>
         <td>Collaboration</td>
         <td>Python</td>
@@ -310,14 +318,6 @@
         <td><a href="https://deepfence.io" target="_blank">ThreatMapper</a></td>
         <td>Open source cloud native security observability platform. Linux, K8s, AWS Fargate and more.</td>
         <th><a href="https://github.com/deepfence/ThreatMapper" target="_blank"><img alt="ThreatMapper" src="https://img.shields.io/github/stars/deepfence/ThreatMapper?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Configu" src="https://gitlibrary.club/images/uploads/2023/08/newshot-configu.png" /></td>
-        <td>Infrastructure</td>
-        <td>TypeScript</td>
-        <td><a href="https://configu.com" target="_blank">Configu</a></td>
-        <td>a simple, modern, and generic standard for managing and collaborating software configurations ⚙️✨.</td>
-        <th><a href="https://github.com/configu/configu" target="_blank"><img alt="Configu" src="https://img.shields.io/github/stars/configu/configu?style=social" /></a></th>
     </tr>
 
 </table>
@@ -2292,6 +2292,14 @@
         <td><a href="https://javascript.sumankunwar.com.np/en/" target="_blank">Learn JavaScript</a></td>
         <td>A book that teaches JavaScript</td>
         <th><a href="https://github.com/sumn2u/learn-javascript" target="_blank"><img alt="Learn JavaScript" src="https://img.shields.io/github/stars/sumn2u/learn-javascript?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Websurfx" src="https://gitlibrary.club/images/uploads/2023/09/newshot-websurfx-1.jpg" /></td>
+        <td>Miscellaneous</td>
+        <td>Rust</td>
+        <td><a href="https://github.com/neon-mmd/websurfx" target="_blank">Websurfx</a></td>
+        <td>? An open source alternative to searx which provides a modern-looking ✨, lightning-fast ⚡, privacy respecting ?, secure ? meta search engine</td>
+        <th><a href="https://github.com/neon-mmd/websurfx" target="_blank"><img alt="Websurfx" src="https://img.shields.io/github/stars/neon-mmd/websurfx?style=social" /></a></th>
     </tr>
 
 </table>
@@ -8957,6 +8965,14 @@
         <td><a href="https://vault.arguflow.ai" target="_blank">Arguflow Server</a></td>
         <td>Rust actix-web server for semantic and full-text search</td>
         <th><a href="https://github.com/arguflow/vault-server" target="_blank"><img alt="Arguflow Server" src="https://img.shields.io/github/stars/arguflow/vault-server?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Websurfx" src="https://gitlibrary.club/images/uploads/2023/09/newshot-websurfx-1.jpg" /></td>
+        <td>Miscellaneous</td>
+        <td>Rust</td>
+        <td><a href="https://github.com/neon-mmd/websurfx" target="_blank">Websurfx</a></td>
+        <td>? An open source alternative to searx which provides a modern-looking ✨, lightning-fast ⚡, privacy respecting ?, secure ? meta search engine</td>
+        <th><a href="https://github.com/neon-mmd/websurfx" target="_blank"><img alt="Websurfx" src="https://img.shields.io/github/stars/neon-mmd/websurfx?style=social" /></a></th>
     </tr>
 
 </table>
