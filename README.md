@@ -168,6 +168,14 @@
         <th><a href="https://github.com/UpMortem/slack-bot" target="_blank"><img alt="Haly AI" src="https://img.shields.io/github/stars/UpMortem/slack-bot?style=social" /></a></th>
     </tr>
     <tr>
+        <td nowrap="nowrap"><img width="33" alt="Revert" src="https://gitlibrary.club/images/uploads/2023/09/newshot-revert.png" /></td>
+        <td>Infrastructure</td>
+        <td>TypeScript</td>
+        <td><a href="https://revert.dev" target="_blank">Revert</a></td>
+        <td>Revert is an open-source platform to build user-facing native integrations remarkably fast.</td>
+        <th><a href="https://github.com/revertinc/revert" target="_blank"><img alt="Revert" src="https://img.shields.io/github/stars/revertinc/revert?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="LeetCode" src="https://gitlibrary.club/images/uploads/2023/09/newshot-LeetCode.png" /></td>
         <td>Miscellaneous</td>
         <td>C++</td>
@@ -206,14 +214,6 @@
         <td><a href="https://supertokens.com" target="_blank">SuperTokens</a></td>
         <td>Open source alternative to Auth0 / Firebase Auth / AWS Cognito </td>
         <th><a href="https://github.com/supertokens/supertokens-core" target="_blank"><img alt="SuperTokens" src="https://img.shields.io/github/stars/supertokens/supertokens-core?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Revert" src="https://gitlibrary.club/images/uploads/2023/09/newshot-revert.png" /></td>
-        <td>Infrastructure</td>
-        <td>TypeScript</td>
-        <td><a href="https://revert.dev" target="_blank">Revert</a></td>
-        <td>Revert is an open-source platform to build user-facing native integrations remarkably fast.</td>
-        <th><a href="https://github.com/revertinc/revert" target="_blank"><img alt="Revert" src="https://img.shields.io/github/stars/revertinc/revert?style=social" /></a></th>
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="pyaction" src="https://gitlibrary.club/images/uploads/2023/09/newshot-pyaction.jpg" /></td>
@@ -5726,6 +5726,14 @@
         <th><a href="https://github.com/TsingZ0/PFL-Non-IID" target="_blank"><img alt="PFL-Non-IID" src="https://img.shields.io/github/stars/TsingZ0/PFL-Non-IID?style=social" /></a></th>
     </tr>
     <tr>
+        <td nowrap="nowrap"><img width="33" alt="Revert" src="https://gitlibrary.club/images/uploads/2023/09/newshot-revert.png" /></td>
+        <td>Infrastructure</td>
+        <td>TypeScript</td>
+        <td><a href="https://revert.dev" target="_blank">Revert</a></td>
+        <td>Revert is an open-source platform to build user-facing native integrations remarkably fast.</td>
+        <th><a href="https://github.com/revertinc/revert" target="_blank"><img alt="Revert" src="https://img.shields.io/github/stars/revertinc/revert?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="ClusterFuzz" src="https://gitlibrary.club/images/uploads/2023/05/newshot-clusterfuzz.png" /></td>
         <td>Infrastructure</td>
         <td>Python</td>
@@ -6661,14 +6669,6 @@
         <td>Jot is a library for persisting and applying .NET application state.</td>
         <th><a href="https://github.com/anakic/Jot" target="_blank"><img alt="Jot" src="https://img.shields.io/github/stars/anakic/Jot?style=social" /></a></th>
     </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Revert" src="https://gitlibrary.club/images/uploads/2023/09/newshot-revert.png" /></td>
-        <td>Infrastructure</td>
-        <td>TypeScript</td>
-        <td><a href="https://revert.dev" target="_blank">Revert</a></td>
-        <td>Revert is an open-source platform to build user-facing native integrations remarkably fast.</td>
-        <th><a href="https://github.com/revertinc/revert" target="_blank"><img alt="Revert" src="https://img.shields.io/github/stars/revertinc/revert?style=social" /></a></th>
-    </tr>
 
 </table>
 
@@ -7011,6 +7011,14 @@
         <td><a href="https://rct.lukasbach.com" target="_blank">React Complex Tree</a></td>
         <td>Unopinionated Accessible Tree Component with Multi-Select and Drag-And-Drop</td>
         <th><a href="https://github.com/lukasbach/react-complex-tree" target="_blank"><img alt="React Complex Tree" src="https://img.shields.io/github/stars/lukasbach/react-complex-tree?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Revert" src="https://gitlibrary.club/images/uploads/2023/09/newshot-revert.png" /></td>
+        <td>Infrastructure</td>
+        <td>TypeScript</td>
+        <td><a href="https://revert.dev" target="_blank">Revert</a></td>
+        <td>Revert is an open-source platform to build user-facing native integrations remarkably fast.</td>
+        <th><a href="https://github.com/revertinc/revert" target="_blank"><img alt="Revert" src="https://img.shields.io/github/stars/revertinc/revert?style=social" /></a></th>
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="The Lounge" src="https://gitlibrary.club/images/uploads/2023/05/newshot-thelounge.png" /></td>
@@ -7803,14 +7811,6 @@
         <td><a href="https://remult.dev" target="_blank">Remult</a></td>
         <td>Build Full-stack, End-to-end Type-safe CRUD Apps without the Boilerplate</td>
         <th><a href="https://github.com/remult/remult" target="_blank"><img alt="Remult" src="https://img.shields.io/github/stars/remult/remult?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Revert" src="https://gitlibrary.club/images/uploads/2023/09/newshot-revert.png" /></td>
-        <td>Infrastructure</td>
-        <td>TypeScript</td>
-        <td><a href="https://revert.dev" target="_blank">Revert</a></td>
-        <td>Revert is an open-source platform to build user-facing native integrations remarkably fast.</td>
-        <th><a href="https://github.com/revertinc/revert" target="_blank"><img alt="Revert" src="https://img.shields.io/github/stars/revertinc/revert?style=social" /></a></th>
     </tr>
 
 </table>
