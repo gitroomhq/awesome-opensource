@@ -216,6 +216,30 @@
         <th><a href="https://github.com/AmrDeveloper/CodeView" target="_blank"><img alt="CodeView" src="https://img.shields.io/github/stars/AmrDeveloper/CodeView?style=social" /></a></th>
     </tr>
     <tr>
+        <td nowrap="nowrap"><img width="33" alt="Rubeus" src="https://gitlibrary.club/images/uploads/2023/09/newshot-Rubeus.png" /></td>
+        <td>Infrastructure</td>
+        <td>TypeScript</td>
+        <td><a href="https://portkey.ai/features/ai-gateway" target="_blank">Rubeus</a></td>
+        <td>A Blazing Fast AI Gateway by Portkey.ai</td>
+        <th><a href="https://github.com/Portkey-AI/Rubeus" target="_blank"><img alt="Rubeus" src="https://img.shields.io/github/stars/Portkey-AI/Rubeus?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="TIDAL Hi-Fi" src="https://gitlibrary.club/images/uploads/2023/09/newshot-tidal-hifi.png" /></td>
+        <td>Productivity</td>
+        <td>TypeScript</td>
+        <td><a href="https://github.com/Mastermindzh/tidal-hifi" target="_blank">TIDAL Hi-Fi</a></td>
+        <td>The web version of Tidal running in electron with hifi support thanks to widevine.</td>
+        <th><a href="https://github.com/Mastermindzh/tidal-hifi" target="_blank"><img alt="TIDAL Hi-Fi" src="https://img.shields.io/github/stars/Mastermindzh/tidal-hifi?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="react-cookie-consent" src="https://gitlibrary.club/images/uploads/2023/09/newshot-react-cookie-consent.png" /></td>
+        <td>Miscellaneous</td>
+        <td>TypeScript</td>
+        <td><a href="https://mastermindzh.github.io/react-cookie-consent/" target="_blank">react-cookie-consent</a></td>
+        <td>A small, simple and customizable cookie consent bar for use in React applications.</td>
+        <th><a href="https://github.com/Mastermindzh/react-cookie-consent" target="_blank"><img alt="react-cookie-consent" src="https://img.shields.io/github/stars/Mastermindzh/react-cookie-consent?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="user-statistician" src="https://gitlibrary.club/images/uploads/2023/09/newshot-user-statistician.jpg" /></td>
         <td>Analytics</td>
         <td>Python</td>
@@ -294,30 +318,6 @@
         <td><a href="https://dashy.to" target="_blank">Dashy</a></td>
         <td>? A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!</td>
         <th><a href="https://github.com/Lissy93/dashy" target="_blank"><img alt="Dashy" src="https://img.shields.io/github/stars/Lissy93/dashy?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="SuperTokens" src="https://gitlibrary.club/images/uploads/2023/09/newshot-supertokens-core.png" /></td>
-        <td>Security</td>
-        <td>Java</td>
-        <td><a href="https://supertokens.com" target="_blank">SuperTokens</a></td>
-        <td>Open source alternative to Auth0 / Firebase Auth / AWS Cognito </td>
-        <th><a href="https://github.com/supertokens/supertokens-core" target="_blank"><img alt="SuperTokens" src="https://img.shields.io/github/stars/supertokens/supertokens-core?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="pyaction" src="https://gitlibrary.club/images/uploads/2023/09/newshot-pyaction.jpg" /></td>
-        <td>Infrastructure</td>
-        <td>Python</td>
-        <td><a href="https://actions.cicirello.org/pyaction/" target="_blank">pyaction</a></td>
-        <td>A Docker container with Python, git, and the Github CLI</td>
-        <th><a href="https://github.com/cicirello/pyaction" target="_blank"><img alt="pyaction" src="https://img.shields.io/github/stars/cicirello/pyaction?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="jacoco-badge-generator" src="https://gitlibrary.club/images/uploads/2023/09/newshot-jacoco-badge-generator.jpg" /></td>
-        <td>Analytics</td>
-        <td>Python</td>
-        <td><a href="https://actions.cicirello.org/jacoco-badge-generator/" target="_blank">jacoco-badge-generator</a></td>
-        <td>Coverage badges, and pull request coverage checks, from JaCoCo reports in GitHub Actions</td>
-        <th><a href="https://github.com/cicirello/jacoco-badge-generator" target="_blank"><img alt="jacoco-badge-generator" src="https://img.shields.io/github/stars/cicirello/jacoco-badge-generator?style=social" /></a></th>
     </tr>
 
 </table>
@@ -2300,6 +2300,14 @@
         <td><a href="https://github.com/neon-mmd/websurfx" target="_blank">Websurfx</a></td>
         <td>? An open source alternative to searx which provides a modern-looking ✨, lightning-fast ⚡, privacy respecting ?, secure ? meta search engine</td>
         <th><a href="https://github.com/neon-mmd/websurfx" target="_blank"><img alt="Websurfx" src="https://img.shields.io/github/stars/neon-mmd/websurfx?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="react-cookie-consent" src="https://gitlibrary.club/images/uploads/2023/09/newshot-react-cookie-consent.png" /></td>
+        <td>Miscellaneous</td>
+        <td>TypeScript</td>
+        <td><a href="https://mastermindzh.github.io/react-cookie-consent/" target="_blank">react-cookie-consent</a></td>
+        <td>A small, simple and customizable cookie consent bar for use in React applications.</td>
+        <th><a href="https://github.com/Mastermindzh/react-cookie-consent" target="_blank"><img alt="react-cookie-consent" src="https://img.shields.io/github/stars/Mastermindzh/react-cookie-consent?style=social" /></a></th>
     </tr>
 
 </table>
@@ -4304,6 +4312,14 @@
         <td><a href="https://amrdeveloper.github.io/CodeView/" target="_blank">CodeView</a></td>
         <td>Android Library to make it easy to create an Code editor or IDE that support any languages and themes, with auto complete, auto indenting, snippets and more features</td>
         <th><a href="https://github.com/AmrDeveloper/CodeView" target="_blank"><img alt="CodeView" src="https://img.shields.io/github/stars/AmrDeveloper/CodeView?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="TIDAL Hi-Fi" src="https://gitlibrary.club/images/uploads/2023/09/newshot-tidal-hifi.png" /></td>
+        <td>Productivity</td>
+        <td>TypeScript</td>
+        <td><a href="https://github.com/Mastermindzh/tidal-hifi" target="_blank">TIDAL Hi-Fi</a></td>
+        <td>The web version of Tidal running in electron with hifi support thanks to widevine.</td>
+        <th><a href="https://github.com/Mastermindzh/tidal-hifi" target="_blank"><img alt="TIDAL Hi-Fi" src="https://img.shields.io/github/stars/Mastermindzh/tidal-hifi?style=social" /></a></th>
     </tr>
 
 </table>
@@ -6757,6 +6773,14 @@
         <td>Jot is a library for persisting and applying .NET application state.</td>
         <th><a href="https://github.com/anakic/Jot" target="_blank"><img alt="Jot" src="https://img.shields.io/github/stars/anakic/Jot?style=social" /></a></th>
     </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Rubeus" src="https://gitlibrary.club/images/uploads/2023/09/newshot-Rubeus.png" /></td>
+        <td>Infrastructure</td>
+        <td>TypeScript</td>
+        <td><a href="https://portkey.ai/features/ai-gateway" target="_blank">Rubeus</a></td>
+        <td>A Blazing Fast AI Gateway by Portkey.ai</td>
+        <th><a href="https://github.com/Portkey-AI/Rubeus" target="_blank"><img alt="Rubeus" src="https://img.shields.io/github/stars/Portkey-AI/Rubeus?style=social" /></a></th>
+    </tr>
 
 </table>
 
@@ -7899,6 +7923,30 @@
         <td><a href="https://remult.dev" target="_blank">Remult</a></td>
         <td>Build Full-stack, End-to-end Type-safe CRUD Apps without the Boilerplate</td>
         <th><a href="https://github.com/remult/remult" target="_blank"><img alt="Remult" src="https://img.shields.io/github/stars/remult/remult?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Rubeus" src="https://gitlibrary.club/images/uploads/2023/09/newshot-Rubeus.png" /></td>
+        <td>Infrastructure</td>
+        <td>TypeScript</td>
+        <td><a href="https://portkey.ai/features/ai-gateway" target="_blank">Rubeus</a></td>
+        <td>A Blazing Fast AI Gateway by Portkey.ai</td>
+        <th><a href="https://github.com/Portkey-AI/Rubeus" target="_blank"><img alt="Rubeus" src="https://img.shields.io/github/stars/Portkey-AI/Rubeus?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="TIDAL Hi-Fi" src="https://gitlibrary.club/images/uploads/2023/09/newshot-tidal-hifi.png" /></td>
+        <td>Productivity</td>
+        <td>TypeScript</td>
+        <td><a href="https://github.com/Mastermindzh/tidal-hifi" target="_blank">TIDAL Hi-Fi</a></td>
+        <td>The web version of Tidal running in electron with hifi support thanks to widevine.</td>
+        <th><a href="https://github.com/Mastermindzh/tidal-hifi" target="_blank"><img alt="TIDAL Hi-Fi" src="https://img.shields.io/github/stars/Mastermindzh/tidal-hifi?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="react-cookie-consent" src="https://gitlibrary.club/images/uploads/2023/09/newshot-react-cookie-consent.png" /></td>
+        <td>Miscellaneous</td>
+        <td>TypeScript</td>
+        <td><a href="https://mastermindzh.github.io/react-cookie-consent/" target="_blank">react-cookie-consent</a></td>
+        <td>A small, simple and customizable cookie consent bar for use in React applications.</td>
+        <th><a href="https://github.com/Mastermindzh/react-cookie-consent" target="_blank"><img alt="react-cookie-consent" src="https://img.shields.io/github/stars/Mastermindzh/react-cookie-consent?style=social" /></a></th>
     </tr>
 
 </table>
