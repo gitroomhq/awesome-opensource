@@ -160,6 +160,62 @@
         <th>Stargazers</th>
     </tr>
         <tr>
+        <td nowrap="nowrap"><img width="33" alt="lottie-to-gif" src="https://gitlibrary.club/images/uploads/2023/09/newshot-lottie-to-gif.jpg" /></td>
+        <td>Productivity</td>
+        <td>C++</td>
+        <td><a href="https://t.me/tgstogifbot" target="_blank">lottie-to-gif</a></td>
+        <td>Converts Lottie Animations (.json / .lottie) and Telegram stickers (*.tgs) to GIF / PNG / APNG / WEBP</td>
+        <th><a href="https://github.com/ed-asriyan/lottie-to-gif" target="_blank"><img alt="lottie-to-gif" src="https://img.shields.io/github/stars/ed-asriyan/lottie-to-gif?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Swirl Search" src="https://gitlibrary.club/images/uploads/2023/09/newshot-swirl-search.png" /></td>
+        <td>Infrastructure</td>
+        <td>Python</td>
+        <td><a href="https://github.com/swirlai/swirl-search" target="_blank">Swirl Search</a></td>
+        <td>Swirl queries anything with an API then uses Large Language Models to re-rank the unified results without copying any data! Includes zero-code configs for Apache Solr, ChatGPT, Elastic Search, AWS …</td>
+        <th><a href="https://github.com/swirlai/swirl-search" target="_blank"><img alt="Swirl Search" src="https://img.shields.io/github/stars/swirlai/swirl-search?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Bullseye" src="https://gitlibrary.club/images/uploads/2023/09/newshot-bullseye.jpg" /></td>
+        <td>Productivity</td>
+        <td>C#</td>
+        <td><a href="https://github.com/adamralph/bullseye" target="_blank">Bullseye</a></td>
+        <td>? A .NET library for running a target dependency graph.</td>
+        <th><a href="https://github.com/adamralph/bullseye" target="_blank"><img alt="Bullseye" src="https://img.shields.io/github/stars/adamralph/bullseye?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="SimpleExec" src="https://gitlibrary.club/images/uploads/2023/09/newshot-simple-exec.jpg" /></td>
+        <td>Productivity</td>
+        <td>C#</td>
+        <td><a href="https://github.com/adamralph/simple-exec" target="_blank">SimpleExec</a></td>
+        <td>? A .NET library that runs external commands.</td>
+        <th><a href="https://github.com/adamralph/simple-exec" target="_blank"><img alt="SimpleExec" src="https://img.shields.io/github/stars/adamralph/simple-exec?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="MinVer" src="https://gitlibrary.club/images/uploads/2023/09/newshot-minver.jpg" /></td>
+        <td>Productivity</td>
+        <td>C#</td>
+        <td><a href="https://github.com/adamralph/minver" target="_blank">MinVer</a></td>
+        <td>? Minimalistic versioning using Git tags.</td>
+        <th><a href="https://github.com/adamralph/minver" target="_blank"><img alt="MinVer" src="https://img.shields.io/github/stars/adamralph/minver?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="GitQL" src="https://gitlibrary.club/images/uploads/2023/09/newshot-GQL.jpg" /></td>
+        <td>Productivity</td>
+        <td>Rust</td>
+        <td><a href="https://amrdeveloper.github.io/GQL/" target="_blank">GitQL</a></td>
+        <td>Git Query language is a SQL like query language to perform queries on multi repositories on the fly ?</td>
+        <th><a href="https://github.com/AmrDeveloper/GQL" target="_blank"><img alt="GitQL" src="https://img.shields.io/github/stars/AmrDeveloper/GQL?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="CodeView" src="https://gitlibrary.club/images/uploads/2023/09/newshot-CodeView.jpg" /></td>
+        <td>Productivity</td>
+        <td>Java</td>
+        <td><a href="https://amrdeveloper.github.io/CodeView/" target="_blank">CodeView</a></td>
+        <td>Android Library to make it easy to create an Code editor or IDE that support any languages and themes, with auto complete, auto indenting, snippets and more features</td>
+        <th><a href="https://github.com/AmrDeveloper/CodeView" target="_blank"><img alt="CodeView" src="https://img.shields.io/github/stars/AmrDeveloper/CodeView?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="user-statistician" src="https://gitlibrary.club/images/uploads/2023/09/newshot-user-statistician.jpg" /></td>
         <td>Analytics</td>
         <td>Python</td>
@@ -263,62 +319,6 @@
         <td>Coverage badges, and pull request coverage checks, from JaCoCo reports in GitHub Actions</td>
         <th><a href="https://github.com/cicirello/jacoco-badge-generator" target="_blank"><img alt="jacoco-badge-generator" src="https://img.shields.io/github/stars/cicirello/jacoco-badge-generator?style=social" /></a></th>
     </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="SpaceX prepare for Clean Architecture liftoff" src="https://gitlibrary.club/images/uploads/2023/09/newshot-SpaceX-prepare-for-Clean-Architecture-liftoff.jpg" /></td>
-        <td>Miscellaneous</td>
-        <td>Kotlin</td>
-        <td><a href="https://github.com/ferPrieto/SpaceX-prepare-for-Clean-Architecture-liftoff" target="_blank">SpaceX prepare for Clean Architecture liftoff</a></td>
-        <td>Clean Architecture Modular Project: MVVM + Jetpack Compose + Coroutines + Flows + Dagger2 + LiveData + UnitTests + UITests + Screenshot Tests + MockWebServer</td>
-        <th><a href="https://github.com/ferPrieto/SpaceX-prepare-for-Clean-Architecture-liftoff" target="_blank"><img alt="SpaceX prepare for Clean Architecture liftoff" src="https://img.shields.io/github/stars/ferPrieto/SpaceX-prepare-for-Clean-Architecture-liftoff?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Remult" src="https://gitlibrary.club/images/uploads/2023/09/newshot-remult.png" /></td>
-        <td>Infrastructure</td>
-        <td>TypeScript</td>
-        <td><a href="https://remult.dev" target="_blank">Remult</a></td>
-        <td>Build Full-stack, End-to-end Type-safe CRUD Apps without the Boilerplate</td>
-        <th><a href="https://github.com/remult/remult" target="_blank"><img alt="Remult" src="https://img.shields.io/github/stars/remult/remult?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Arguflow Server" src="https://gitlibrary.club/images/uploads/2023/09/newshot-vault-server.png" /></td>
-        <td>Infrastructure</td>
-        <td>Rust</td>
-        <td><a href="https://vault.arguflow.ai" target="_blank">Arguflow Server</a></td>
-        <td>Rust actix-web server for semantic and full-text search</td>
-        <th><a href="https://github.com/arguflow/vault-server" target="_blank"><img alt="Arguflow Server" src="https://img.shields.io/github/stars/arguflow/vault-server?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Sniffnet" src="https://gitlibrary.club/images/uploads/2023/09/newshot-sniffnet.jpg" /></td>
-        <td>Security</td>
-        <td>Rust</td>
-        <td><a href="https://sniffnet.net" target="_blank">Sniffnet</a></td>
-        <td>Application to comfortably monitor your Internet traffic ?️‍♂️</td>
-        <th><a href="https://github.com/GyulyVGC/sniffnet" target="_blank"><img alt="Sniffnet" src="https://img.shields.io/github/stars/GyulyVGC/sniffnet?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="BCMS" src="https://gitlibrary.club/images/uploads/2023/09/newshot-cms.jpg" /></td>
-        <td>Collaboration</td>
-        <td>TypeScript</td>
-        <td><a href="https://thebcms.com" target="_blank">BCMS</a></td>
-        <td>BCMS is a Headless CMS for developers &amp; their clients. Works nicely with Gatsby, Next.js &amp; Nuxt. You can even self-host it.</td>
-        <th><a href="https://github.com/bcms/cms" target="_blank"><img alt="BCMS" src="https://img.shields.io/github/stars/bcms/cms?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="core" src="https://gitlibrary.club/images/uploads/2023/09/newshot-core.jpg" /></td>
-        <td>Miscellaneous</td>
-        <td>Java</td>
-        <td><a href="https://core.cicirello.org" target="_blank">core</a></td>
-        <td>Utilities and data structures used by several of my projects</td>
-        <th><a href="https://github.com/cicirello/core" target="_blank"><img alt="core" src="https://img.shields.io/github/stars/cicirello/core?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Nginx UI" src="https://gitlibrary.club/images/uploads/2023/09/newshot-nginx-ui.jpg" /></td>
-        <td>Productivity</td>
-        <td>Vue</td>
-        <td><a href="https://nginxui.com" target="_blank">Nginx UI</a></td>
-        <td>Yet another WebUI for Nginx</td>
-        <th><a href="https://github.com/0xJacky/nginx-ui" target="_blank"><img alt="Nginx UI" src="https://img.shields.io/github/stars/0xJacky/nginx-ui?style=social" /></a></th>
-    </tr>
 
 </table>
 
@@ -391,20 +391,20 @@
         <th><a href="https://github.com/tolgee/tolgee-platform" target="_blank"><img alt="Tolgee" src="https://img.shields.io/github/stars/tolgee/tolgee-platform?style=social" /></a></th>
     </tr>
     <tr>
-        <td nowrap="nowrap"><img width="33" alt="Talker" src="https://gitlibrary.club/images/uploads/2023/05/newshot-talker-1.jpg" /></td>
-        <td>Observability</td>
-        <td>Dart</td>
-        <td><a href="https://pub.dev/packages/talker" target="_blank">Talker</a></td>
-        <td><g-emoji class="g-emoji" alias="phone" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/260e.png">☎️</g-emoji> Advanced error handler and logger for dart and flutter apps</td>
-        <th><a href="https://github.com/Frezyx/talker" target="_blank"><img alt="Talker" src="https://img.shields.io/github/stars/Frezyx/talker?style=social" /></a></th>
-    </tr>
-    <tr>
         <td nowrap="nowrap"><img width="33" alt="Mood-Example" src="https://gitlibrary.club/images/uploads/2023/06/newshot-Mood-Example.png" /></td>
         <td>Miscellaneous</td>
         <td>Dart</td>
         <td><a href="https://github.com/AmosHuKe/Mood-Example" target="_blank">Mood-Example</a></td>
         <td><g-emoji class="g-emoji" alias="bird" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f426.png">?</g-emoji> Flutter 3 心情记录 样例工程 - 国际化 i18n、uni 小程序、深色模式、多主题、本地数据管理、路由管理、状态管理、无障碍（Semantics）、异步 FFI、集成测试、图表统计、Excel 导入导出、游戏…</td>
         <th><a href="https://github.com/AmosHuKe/Mood-Example" target="_blank"><img alt="Mood-Example" src="https://img.shields.io/github/stars/AmosHuKe/Mood-Example?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Talker" src="https://gitlibrary.club/images/uploads/2023/05/newshot-talker-1.jpg" /></td>
+        <td>Observability</td>
+        <td>Dart</td>
+        <td><a href="https://pub.dev/packages/talker" target="_blank">Talker</a></td>
+        <td><g-emoji class="g-emoji" alias="phone" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/260e.png">☎️</g-emoji> Advanced error handler and logger for dart and flutter apps</td>
+        <th><a href="https://github.com/Frezyx/talker" target="_blank"><img alt="Talker" src="https://img.shields.io/github/stars/Frezyx/talker?style=social" /></a></th>
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="Github 20k" src="https://gitlibrary.club/images/uploads/2023/05/newshot-super-star-1.png" /></td>
@@ -471,6 +471,14 @@
         <th><a href="https://github.com/Erutidians/auto-dop" target="_blank"><img alt="auto-dop" src="https://img.shields.io/github/stars/Erutidians/auto-dop?style=social" /></a></th>
     </tr>
     <tr>
+        <td nowrap="nowrap"><img width="33" alt="flutter_tilt" src="https://gitlibrary.club/images/uploads/2023/07/newshot-flutter_tilt.png" /></td>
+        <td>Productivity</td>
+        <td>Dart</td>
+        <td><a href="https://pub.dev/packages/flutter_tilt" target="_blank">flutter_tilt</a></td>
+        <td><g-emoji class="g-emoji" alias="eyes" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f440.png">?</g-emoji> Easily apply tilt parallax hover effects on Flutter! | 在 Flutter 上轻松创建倾斜视差悬停效果！</td>
+        <th><a href="https://github.com/AmosHuKe/flutter_tilt" target="_blank"><img alt="flutter_tilt" src="https://img.shields.io/github/stars/AmosHuKe/flutter_tilt?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="Chips-n-Salsa" src="https://gitlibrary.club/images/uploads/2023/08/newshot-Chips-n-Salsa.jpg" /></td>
         <td>Miscellaneous</td>
         <td>Java</td>
@@ -487,20 +495,20 @@
         <th><a href="https://github.com/Liberty-liu/Everright-formEditor" target="_blank"><img alt="Everright-formEditor" src="https://img.shields.io/github/stars/Liberty-liu/Everright-formEditor?style=social" /></a></th>
     </tr>
     <tr>
-        <td nowrap="nowrap"><img width="33" alt="flutter_tilt" src="https://gitlibrary.club/images/uploads/2023/07/newshot-flutter_tilt.png" /></td>
-        <td>Productivity</td>
-        <td>Dart</td>
-        <td><a href="https://pub.dev/packages/flutter_tilt" target="_blank">flutter_tilt</a></td>
-        <td><g-emoji class="g-emoji" alias="eyes" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f440.png">?</g-emoji> Easily apply tilt parallax hover effects on Flutter! | 在 Flutter 上轻松创建倾斜视差悬停效果！</td>
-        <th><a href="https://github.com/AmosHuKe/flutter_tilt" target="_blank"><img alt="flutter_tilt" src="https://img.shields.io/github/stars/AmosHuKe/flutter_tilt?style=social" /></a></th>
-    </tr>
-    <tr>
         <td nowrap="nowrap"><img width="33" alt="JavaPermutationTools" src="https://gitlibrary.club/images/uploads/2023/08/newshot-JavaPermutationTools.jpg" /></td>
         <td>Miscellaneous</td>
         <td>Java</td>
         <td><a href="https://jpt.cicirello.org/" target="_blank">JavaPermutationTools</a></td>
         <td>A Java library for computation on permutations and sequences</td>
         <th><a href="https://github.com/cicirello/JavaPermutationTools" target="_blank"><img alt="JavaPermutationTools" src="https://img.shields.io/github/stars/cicirello/JavaPermutationTools?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Bitwarden" src="https://gitlibrary.club/images/uploads/2023/05/newshot-clients-1.png" /></td>
+        <td>Security</td>
+        <td>TypeScript</td>
+        <td><a href="https://bitwarden.com" target="_blank">Bitwarden</a></td>
+        <td>Bitwarden client applications (web, browser extension, desktop, and cli)</td>
+        <th><a href="https://github.com/bitwarden/clients" target="_blank"><img alt="Bitwarden" src="https://img.shields.io/github/stars/bitwarden/clients?style=social" /></a></th>
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="ρμ" src="https://gitlibrary.club/images/uploads/2023/08/newshot-rho-mu.jpg" /></td>
@@ -525,14 +533,6 @@
         <td><a href="https://actions.cicirello.org/pyaction/" target="_blank">pyaction</a></td>
         <td>A Docker container with Python, git, and the Github CLI</td>
         <th><a href="https://github.com/cicirello/pyaction" target="_blank"><img alt="pyaction" src="https://img.shields.io/github/stars/cicirello/pyaction?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Bitwarden" src="https://gitlibrary.club/images/uploads/2023/05/newshot-clients-1.png" /></td>
-        <td>Security</td>
-        <td>TypeScript</td>
-        <td><a href="https://bitwarden.com" target="_blank">Bitwarden</a></td>
-        <td>Bitwarden client applications (web, browser extension, desktop, and cli)</td>
-        <th><a href="https://github.com/bitwarden/clients" target="_blank"><img alt="Bitwarden" src="https://img.shields.io/github/stars/bitwarden/clients?style=social" /></a></th>
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="Hanko" src="https://gitlibrary.club/images/uploads/2023/05/newshot-hanko.png" /></td>
@@ -2626,20 +2626,20 @@
         <th><a href="https://github.com/Erutidians/auto-dop" target="_blank"><img alt="auto-dop" src="https://img.shields.io/github/stars/Erutidians/auto-dop?style=social" /></a></th>
     </tr>
     <tr>
-        <td nowrap="nowrap"><img width="33" alt="Everright-formEditor" src="https://gitlibrary.club/images/uploads/2023/05/newshot-Everright-formEditor.jpg" /></td>
-        <td>Productivity</td>
-        <td>JavaScript</td>
-        <td><a href="https://everright.site/en/module/formEditor/introduction.html" target="_blank">Everright-formEditor</a></td>
-        <td>A visual low code form editor based on vue, The PC depends on element-plus while the mobile depends on vant. It provides an easy way to create custom forms. The project is extensible, easy to use a…</td>
-        <th><a href="https://github.com/Liberty-liu/Everright-formEditor" target="_blank"><img alt="Everright-formEditor" src="https://img.shields.io/github/stars/Liberty-liu/Everright-formEditor?style=social" /></a></th>
-    </tr>
-    <tr>
         <td nowrap="nowrap"><img width="33" alt="flutter_tilt" src="https://gitlibrary.club/images/uploads/2023/07/newshot-flutter_tilt.png" /></td>
         <td>Productivity</td>
         <td>Dart</td>
         <td><a href="https://pub.dev/packages/flutter_tilt" target="_blank">flutter_tilt</a></td>
         <td><g-emoji class="g-emoji" alias="eyes" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f440.png">?</g-emoji> Easily apply tilt parallax hover effects on Flutter! | 在 Flutter 上轻松创建倾斜视差悬停效果！</td>
         <th><a href="https://github.com/AmosHuKe/flutter_tilt" target="_blank"><img alt="flutter_tilt" src="https://img.shields.io/github/stars/AmosHuKe/flutter_tilt?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Everright-formEditor" src="https://gitlibrary.club/images/uploads/2023/05/newshot-Everright-formEditor.jpg" /></td>
+        <td>Productivity</td>
+        <td>JavaScript</td>
+        <td><a href="https://everright.site/en/module/formEditor/introduction.html" target="_blank">Everright-formEditor</a></td>
+        <td>A visual low code form editor based on vue, The PC depends on element-plus while the mobile depends on vant. It provides an easy way to create custom forms. The project is extensible, easy to use a…</td>
+        <th><a href="https://github.com/Liberty-liu/Everright-formEditor" target="_blank"><img alt="Everright-formEditor" src="https://img.shields.io/github/stars/Liberty-liu/Everright-formEditor?style=social" /></a></th>
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="Prim+RPC" src="https://gitlibrary.club/images/uploads/2023/06/newshot-prim-rpc.jpg" /></td>
@@ -2928,6 +2928,14 @@
         <td><a href="https://nginxui.com" target="_blank">Nginx UI</a></td>
         <td>Yet another WebUI for Nginx</td>
         <th><a href="https://github.com/0xJacky/nginx-ui" target="_blank"><img alt="Nginx UI" src="https://img.shields.io/github/stars/0xJacky/nginx-ui?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="lottie-to-gif" src="https://gitlibrary.club/images/uploads/2023/09/newshot-lottie-to-gif.jpg" /></td>
+        <td>Productivity</td>
+        <td>C++</td>
+        <td><a href="https://t.me/tgstogifbot" target="_blank">lottie-to-gif</a></td>
+        <td>Converts Lottie Animations (.json / .lottie) and Telegram stickers (*.tgs) to GIF / PNG / APNG / WEBP</td>
+        <th><a href="https://github.com/ed-asriyan/lottie-to-gif" target="_blank"><img alt="lottie-to-gif" src="https://img.shields.io/github/stars/ed-asriyan/lottie-to-gif?style=social" /></a></th>
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="VS Code Docs" src="https://gitlibrary.club/images/uploads/2023/05/newshot-vscode-docs.png" /></td>
@@ -4256,6 +4264,46 @@
         <td><a href="https://github.com/Giannoudis/RestApiReporting" target="_blank">REST API Reporting for .NET</a></td>
         <td>REST API Reporting for .NET</td>
         <th><a href="https://github.com/Giannoudis/RestApiReporting" target="_blank"><img alt="REST API Reporting for .NET" src="https://img.shields.io/github/stars/Giannoudis/RestApiReporting?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Bullseye" src="https://gitlibrary.club/images/uploads/2023/09/newshot-bullseye.jpg" /></td>
+        <td>Productivity</td>
+        <td>C#</td>
+        <td><a href="https://github.com/adamralph/bullseye" target="_blank">Bullseye</a></td>
+        <td>? A .NET library for running a target dependency graph.</td>
+        <th><a href="https://github.com/adamralph/bullseye" target="_blank"><img alt="Bullseye" src="https://img.shields.io/github/stars/adamralph/bullseye?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="SimpleExec" src="https://gitlibrary.club/images/uploads/2023/09/newshot-simple-exec.jpg" /></td>
+        <td>Productivity</td>
+        <td>C#</td>
+        <td><a href="https://github.com/adamralph/simple-exec" target="_blank">SimpleExec</a></td>
+        <td>? A .NET library that runs external commands.</td>
+        <th><a href="https://github.com/adamralph/simple-exec" target="_blank"><img alt="SimpleExec" src="https://img.shields.io/github/stars/adamralph/simple-exec?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="MinVer" src="https://gitlibrary.club/images/uploads/2023/09/newshot-minver.jpg" /></td>
+        <td>Productivity</td>
+        <td>C#</td>
+        <td><a href="https://github.com/adamralph/minver" target="_blank">MinVer</a></td>
+        <td>? Minimalistic versioning using Git tags.</td>
+        <th><a href="https://github.com/adamralph/minver" target="_blank"><img alt="MinVer" src="https://img.shields.io/github/stars/adamralph/minver?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="GitQL" src="https://gitlibrary.club/images/uploads/2023/09/newshot-GQL.jpg" /></td>
+        <td>Productivity</td>
+        <td>Rust</td>
+        <td><a href="https://amrdeveloper.github.io/GQL/" target="_blank">GitQL</a></td>
+        <td>Git Query language is a SQL like query language to perform queries on multi repositories on the fly ?</td>
+        <th><a href="https://github.com/AmrDeveloper/GQL" target="_blank"><img alt="GitQL" src="https://img.shields.io/github/stars/AmrDeveloper/GQL?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="CodeView" src="https://gitlibrary.club/images/uploads/2023/09/newshot-CodeView.jpg" /></td>
+        <td>Productivity</td>
+        <td>Java</td>
+        <td><a href="https://amrdeveloper.github.io/CodeView/" target="_blank">CodeView</a></td>
+        <td>Android Library to make it easy to create an Code editor or IDE that support any languages and themes, with auto complete, auto indenting, snippets and more features</td>
+        <th><a href="https://github.com/AmrDeveloper/CodeView" target="_blank"><img alt="CodeView" src="https://img.shields.io/github/stars/AmrDeveloper/CodeView?style=social" /></a></th>
     </tr>
 
 </table>
@@ -5766,6 +5814,14 @@
         <th><a href="https://github.com/revertinc/revert" target="_blank"><img alt="Revert" src="https://img.shields.io/github/stars/revertinc/revert?style=social" /></a></th>
     </tr>
     <tr>
+        <td nowrap="nowrap"><img width="33" alt="Swirl Search" src="https://gitlibrary.club/images/uploads/2023/09/newshot-swirl-search.png" /></td>
+        <td>Infrastructure</td>
+        <td>Python</td>
+        <td><a href="https://github.com/swirlai/swirl-search" target="_blank">Swirl Search</a></td>
+        <td>Swirl queries anything with an API then uses Large Language Models to re-rank the unified results without copying any data! Includes zero-code configs for Apache Solr, ChatGPT, Elastic Search, AWS …</td>
+        <th><a href="https://github.com/swirlai/swirl-search" target="_blank"><img alt="Swirl Search" src="https://img.shields.io/github/stars/swirlai/swirl-search?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="ClusterFuzz" src="https://gitlibrary.club/images/uploads/2023/05/newshot-clusterfuzz.png" /></td>
         <td>Infrastructure</td>
         <td>Python</td>
@@ -6781,20 +6837,20 @@
         <th><a href="https://github.com/agency-kit/notion-cms" target="_blank"><img alt="NotionCMS" src="https://img.shields.io/github/stars/agency-kit/notion-cms?style=social" /></a></th>
     </tr>
     <tr>
-        <td nowrap="nowrap"><img width="33" alt="Configu" src="https://gitlibrary.club/images/uploads/2023/08/newshot-configu.png" /></td>
-        <td>Infrastructure</td>
-        <td>TypeScript</td>
-        <td><a href="https://configu.com" target="_blank">Configu</a></td>
-        <td>a simple, modern, and generic standard for managing and collaborating software configurations ⚙️✨.</td>
-        <th><a href="https://github.com/configu/configu" target="_blank"><img alt="Configu" src="https://img.shields.io/github/stars/configu/configu?style=social" /></a></th>
-    </tr>
-    <tr>
         <td nowrap="nowrap"><img width="33" alt="Bitwarden" src="https://gitlibrary.club/images/uploads/2023/05/newshot-clients-1.png" /></td>
         <td>Security</td>
         <td>TypeScript</td>
         <td><a href="https://bitwarden.com" target="_blank">Bitwarden</a></td>
         <td>Bitwarden client applications (web, browser extension, desktop, and cli)</td>
         <th><a href="https://github.com/bitwarden/clients" target="_blank"><img alt="Bitwarden" src="https://img.shields.io/github/stars/bitwarden/clients?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Configu" src="https://gitlibrary.club/images/uploads/2023/08/newshot-configu.png" /></td>
+        <td>Infrastructure</td>
+        <td>TypeScript</td>
+        <td><a href="https://configu.com" target="_blank">Configu</a></td>
+        <td>a simple, modern, and generic standard for managing and collaborating software configurations ⚙️✨.</td>
+        <th><a href="https://github.com/configu/configu" target="_blank"><img alt="Configu" src="https://img.shields.io/github/stars/configu/configu?style=social" /></a></th>
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="Hanko" src="https://gitlibrary.club/images/uploads/2023/05/newshot-hanko.png" /></td>
@@ -8283,20 +8339,20 @@
         <th>Stargazers</th>
     </tr>
         <tr>
-        <td nowrap="nowrap"><img width="33" alt="Talker" src="https://gitlibrary.club/images/uploads/2023/05/newshot-talker-1.jpg" /></td>
-        <td>Observability</td>
-        <td>Dart</td>
-        <td><a href="https://pub.dev/packages/talker" target="_blank">Talker</a></td>
-        <td><g-emoji class="g-emoji" alias="phone" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/260e.png">☎️</g-emoji> Advanced error handler and logger for dart and flutter apps</td>
-        <th><a href="https://github.com/Frezyx/talker" target="_blank"><img alt="Talker" src="https://img.shields.io/github/stars/Frezyx/talker?style=social" /></a></th>
-    </tr>
-    <tr>
         <td nowrap="nowrap"><img width="33" alt="Mood-Example" src="https://gitlibrary.club/images/uploads/2023/06/newshot-Mood-Example.png" /></td>
         <td>Miscellaneous</td>
         <td>Dart</td>
         <td><a href="https://github.com/AmosHuKe/Mood-Example" target="_blank">Mood-Example</a></td>
         <td><g-emoji class="g-emoji" alias="bird" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f426.png">?</g-emoji> Flutter 3 心情记录 样例工程 - 国际化 i18n、uni 小程序、深色模式、多主题、本地数据管理、路由管理、状态管理、无障碍（Semantics）、异步 FFI、集成测试、图表统计、Excel 导入导出、游戏…</td>
         <th><a href="https://github.com/AmosHuKe/Mood-Example" target="_blank"><img alt="Mood-Example" src="https://img.shields.io/github/stars/AmosHuKe/Mood-Example?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Talker" src="https://gitlibrary.club/images/uploads/2023/05/newshot-talker-1.jpg" /></td>
+        <td>Observability</td>
+        <td>Dart</td>
+        <td><a href="https://pub.dev/packages/talker" target="_blank">Talker</a></td>
+        <td><g-emoji class="g-emoji" alias="phone" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/260e.png">☎️</g-emoji> Advanced error handler and logger for dart and flutter apps</td>
+        <th><a href="https://github.com/Frezyx/talker" target="_blank"><img alt="Talker" src="https://img.shields.io/github/stars/Frezyx/talker?style=social" /></a></th>
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="flutter_tilt" src="https://gitlibrary.club/images/uploads/2023/07/newshot-flutter_tilt.png" /></td>
@@ -8997,6 +9053,14 @@
         <td><a href="https://github.com/neon-mmd/websurfx" target="_blank">Websurfx</a></td>
         <td>? An open source alternative to searx which provides a modern-looking ✨, lightning-fast ⚡, privacy respecting ?, secure ? meta search engine</td>
         <th><a href="https://github.com/neon-mmd/websurfx" target="_blank"><img alt="Websurfx" src="https://img.shields.io/github/stars/neon-mmd/websurfx?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="GitQL" src="https://gitlibrary.club/images/uploads/2023/09/newshot-GQL.jpg" /></td>
+        <td>Productivity</td>
+        <td>Rust</td>
+        <td><a href="https://amrdeveloper.github.io/GQL/" target="_blank">GitQL</a></td>
+        <td>Git Query language is a SQL like query language to perform queries on multi repositories on the fly ?</td>
+        <th><a href="https://github.com/AmrDeveloper/GQL" target="_blank"><img alt="GitQL" src="https://img.shields.io/github/stars/AmrDeveloper/GQL?style=social" /></a></th>
     </tr>
 
 </table>
@@ -9842,6 +9906,14 @@
         <td>Open source alternative to Auth0 / Firebase Auth / AWS Cognito </td>
         <th><a href="https://github.com/supertokens/supertokens-core" target="_blank"><img alt="SuperTokens" src="https://img.shields.io/github/stars/supertokens/supertokens-core?style=social" /></a></th>
     </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="CodeView" src="https://gitlibrary.club/images/uploads/2023/09/newshot-CodeView.jpg" /></td>
+        <td>Productivity</td>
+        <td>Java</td>
+        <td><a href="https://amrdeveloper.github.io/CodeView/" target="_blank">CodeView</a></td>
+        <td>Android Library to make it easy to create an Code editor or IDE that support any languages and themes, with auto complete, auto indenting, snippets and more features</td>
+        <th><a href="https://github.com/AmrDeveloper/CodeView" target="_blank"><img alt="CodeView" src="https://img.shields.io/github/stars/AmrDeveloper/CodeView?style=social" /></a></th>
+    </tr>
 
 </table>
 
@@ -9999,6 +10071,14 @@
         <td><a href="https://actions.cicirello.org/user-statistician/" target="_blank">user-statistician</a></td>
         <td>Generate a GitHub stats SVG for your GitHub Profile README in GitHub Actions</td>
         <th><a href="https://github.com/cicirello/user-statistician" target="_blank"><img alt="user-statistician" src="https://img.shields.io/github/stars/cicirello/user-statistician?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Swirl Search" src="https://gitlibrary.club/images/uploads/2023/09/newshot-swirl-search.png" /></td>
+        <td>Infrastructure</td>
+        <td>Python</td>
+        <td><a href="https://github.com/swirlai/swirl-search" target="_blank">Swirl Search</a></td>
+        <td>Swirl queries anything with an API then uses Large Language Models to re-rank the unified results without copying any data! Includes zero-code configs for Apache Solr, ChatGPT, Elastic Search, AWS …</td>
+        <th><a href="https://github.com/swirlai/swirl-search" target="_blank"><img alt="Swirl Search" src="https://img.shields.io/github/stars/swirlai/swirl-search?style=social" /></a></th>
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="ClusterFuzz" src="https://gitlibrary.club/images/uploads/2023/05/newshot-clusterfuzz.png" /></td>
@@ -10908,6 +10988,30 @@
         <td>REST API Reporting for .NET</td>
         <th><a href="https://github.com/Giannoudis/RestApiReporting" target="_blank"><img alt="REST API Reporting for .NET" src="https://img.shields.io/github/stars/Giannoudis/RestApiReporting?style=social" /></a></th>
     </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Bullseye" src="https://gitlibrary.club/images/uploads/2023/09/newshot-bullseye.jpg" /></td>
+        <td>Productivity</td>
+        <td>C#</td>
+        <td><a href="https://github.com/adamralph/bullseye" target="_blank">Bullseye</a></td>
+        <td>? A .NET library for running a target dependency graph.</td>
+        <th><a href="https://github.com/adamralph/bullseye" target="_blank"><img alt="Bullseye" src="https://img.shields.io/github/stars/adamralph/bullseye?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="SimpleExec" src="https://gitlibrary.club/images/uploads/2023/09/newshot-simple-exec.jpg" /></td>
+        <td>Productivity</td>
+        <td>C#</td>
+        <td><a href="https://github.com/adamralph/simple-exec" target="_blank">SimpleExec</a></td>
+        <td>? A .NET library that runs external commands.</td>
+        <th><a href="https://github.com/adamralph/simple-exec" target="_blank"><img alt="SimpleExec" src="https://img.shields.io/github/stars/adamralph/simple-exec?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="MinVer" src="https://gitlibrary.club/images/uploads/2023/09/newshot-minver.jpg" /></td>
+        <td>Productivity</td>
+        <td>C#</td>
+        <td><a href="https://github.com/adamralph/minver" target="_blank">MinVer</a></td>
+        <td>? Minimalistic versioning using Git tags.</td>
+        <th><a href="https://github.com/adamralph/minver" target="_blank"><img alt="MinVer" src="https://img.shields.io/github/stars/adamralph/minver?style=social" /></a></th>
+    </tr>
 
 </table>
 
@@ -11177,6 +11281,14 @@
         <td><a href="https://www.aregtech.com" target="_blank">areg engine</a></td>
         <td>AREG is an RPC framework, but Object RPC (ORPC), that asynchronously triggers methods of the remote objects called services.</td>
         <th><a href="https://github.com/aregtech/areg-sdk" target="_blank"><img alt="areg engine" src="https://img.shields.io/github/stars/aregtech/areg-sdk?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="lottie-to-gif" src="https://gitlibrary.club/images/uploads/2023/09/newshot-lottie-to-gif.jpg" /></td>
+        <td>Productivity</td>
+        <td>C++</td>
+        <td><a href="https://t.me/tgstogifbot" target="_blank">lottie-to-gif</a></td>
+        <td>Converts Lottie Animations (.json / .lottie) and Telegram stickers (*.tgs) to GIF / PNG / APNG / WEBP</td>
+        <th><a href="https://github.com/ed-asriyan/lottie-to-gif" target="_blank"><img alt="lottie-to-gif" src="https://img.shields.io/github/stars/ed-asriyan/lottie-to-gif?style=social" /></a></th>
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="OneFlow" src="https://gitlibrary.club/images/uploads/2023/05/newshot-oneflow.png" /></td>
