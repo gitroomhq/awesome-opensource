@@ -176,6 +176,14 @@
         <th><a href="https://github.com/swirlai/swirl-search" target="_blank"><img alt="Swirl Search" src="https://img.shields.io/github/stars/swirlai/swirl-search?style=social" /></a></th>
     </tr>
     <tr>
+        <td nowrap="nowrap"><img width="33" alt="TGUI" src="https://gitlibrary.club/images/uploads/2023/09/newshot-TGUI.png" /></td>
+        <td>Productivity</td>
+        <td>C++</td>
+        <td><a href="https://tgui.eu" target="_blank">TGUI</a></td>
+        <td>Cross-platform modern c++ GUI</td>
+        <th><a href="https://github.com/texus/TGUI" target="_blank"><img alt="TGUI" src="https://img.shields.io/github/stars/texus/TGUI?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="Bullseye" src="https://gitlibrary.club/images/uploads/2023/09/newshot-bullseye.jpg" /></td>
         <td>Productivity</td>
         <td>C#</td>
@@ -240,6 +248,22 @@
         <th><a href="https://github.com/Mastermindzh/react-cookie-consent" target="_blank"><img alt="react-cookie-consent" src="https://img.shields.io/github/stars/Mastermindzh/react-cookie-consent?style=social" /></a></th>
     </tr>
     <tr>
+        <td nowrap="nowrap"><img width="33" alt="Maige" src="https://gitlibrary.club/images/uploads/2023/09/newshot-maige.jpg" /></td>
+        <td>Productivity</td>
+        <td>TypeScript</td>
+        <td><a href="https://maige.app" target="_blank">Maige</a></td>
+        <td>Issue-labeller powered by GPT.</td>
+        <th><a href="https://github.com/tedspare/maige" target="_blank"><img alt="Maige" src="https://img.shields.io/github/stars/tedspare/maige?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="ttyper" src="https://gitlibrary.club/images/uploads/2023/09/newshot-ttyper.png" /></td>
+        <td>Miscellaneous</td>
+        <td>Rust</td>
+        <td><a href="https://github.com/max-niederman/ttyper" target="_blank">ttyper</a></td>
+        <td>Terminal-based typing test.</td>
+        <th><a href="https://github.com/max-niederman/ttyper" target="_blank"><img alt="ttyper" src="https://img.shields.io/github/stars/max-niederman/ttyper?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="user-statistician" src="https://gitlibrary.club/images/uploads/2023/09/newshot-user-statistician.jpg" /></td>
         <td>Analytics</td>
         <td>Python</td>
@@ -294,30 +318,6 @@
         <td><a href="https://walkccc.me/LeetCode" target="_blank">LeetCode</a></td>
         <td>? LeetCode in C++17/Java/Python with good readability and consistent style (respect coding convention).</td>
         <th><a href="https://github.com/walkccc/LeetCode" target="_blank"><img alt="LeetCode" src="https://img.shields.io/github/stars/walkccc/LeetCode?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Jot" src="https://gitlibrary.club/images/uploads/2023/09/newshot-Jot-1.jpg" /></td>
-        <td>Infrastructure</td>
-        <td>C#</td>
-        <td><a href="http://www.codeproject.com/Articles/475498/Easier-NET-settings" target="_blank">Jot</a></td>
-        <td>Jot is a library for persisting and applying .NET application state.</td>
-        <th><a href="https://github.com/anakic/Jot" target="_blank"><img alt="Jot" src="https://img.shields.io/github/stars/anakic/Jot?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Learn JavaScript" src="https://gitlibrary.club/images/uploads/2023/09/newshot-learn-javascript.jpg" /></td>
-        <td>Miscellaneous</td>
-        <td>HTML</td>
-        <td><a href="https://javascript.sumankunwar.com.np/en/" target="_blank">Learn JavaScript</a></td>
-        <td>A book that teaches JavaScript</td>
-        <th><a href="https://github.com/sumn2u/learn-javascript" target="_blank"><img alt="Learn JavaScript" src="https://img.shields.io/github/stars/sumn2u/learn-javascript?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Dashy" src="https://gitlibrary.club/images/uploads/2023/09/newshot-dashy.png" /></td>
-        <td>Productivity</td>
-        <td>Vue</td>
-        <td><a href="https://dashy.to" target="_blank">Dashy</a></td>
-        <td>? A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!</td>
-        <th><a href="https://github.com/Lissy93/dashy" target="_blank"><img alt="Dashy" src="https://img.shields.io/github/stars/Lissy93/dashy?style=social" /></a></th>
     </tr>
 
 </table>
@@ -943,6 +943,14 @@
         <th><a href="https://github.com/nativescript-vue/nativescript-vue" target="_blank"><img alt="NativeScript-Vue" src="https://img.shields.io/github/stars/nativescript-vue/nativescript-vue?style=social" /></a></th>
     </tr>
     <tr>
+        <td nowrap="nowrap"><img width="33" alt="laravel-medialibrary" src="https://gitlibrary.club/images/uploads/2023/05/newshot-laravel-medialibrary-1.png" /></td>
+        <td>Databases</td>
+        <td>PHP</td>
+        <td><a href="https://spatie.be/docs/laravel-medialibrary/v10/introduction" target="_blank">laravel-medialibrary</a></td>
+        <td>Associate files with Eloquent models</td>
+        <th><a href="https://github.com/spatie/laravel-medialibrary" target="_blank"><img alt="laravel-medialibrary" src="https://img.shields.io/github/stars/spatie/laravel-medialibrary?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="StackExchange.Redis" src="https://gitlibrary.club/images/uploads/2023/05/newshot-StackExchange.Redis_.png" /></td>
         <td>Databases</td>
         <td>C#</td>
@@ -1125,14 +1133,6 @@
         <td><a href="https://github.com/Erutidians/auto-dop" target="_blank">100-days-of-productivity</a></td>
         <td>becoming one percent better everyday.</td>
         <th><a href="https://github.com/plskz/100-days-of-productivity" target="_blank"><img alt="100-days-of-productivity" src="https://img.shields.io/github/stars/plskz/100-days-of-productivity?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Railtrack" src="https://gitlibrary.club/images/uploads/2023/05/newshot-railtrack.png" /></td>
-        <td>Analytics</td>
-        <td>TypeScript</td>
-        <td><a href="https://railtrack.ch" target="_blank">Railtrack</a></td>
-        <td>Next.js and Supabase app to track your train journeys in Europe</td>
-        <th><a href="https://github.com/noahflk/railtrack" target="_blank"><img alt="Railtrack" src="https://img.shields.io/github/stars/noahflk/railtrack?style=social" /></a></th>
     </tr>
 
 </table>
@@ -2309,6 +2309,14 @@
         <td>A small, simple and customizable cookie consent bar for use in React applications.</td>
         <th><a href="https://github.com/Mastermindzh/react-cookie-consent" target="_blank"><img alt="react-cookie-consent" src="https://img.shields.io/github/stars/Mastermindzh/react-cookie-consent?style=social" /></a></th>
     </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="ttyper" src="https://gitlibrary.club/images/uploads/2023/09/newshot-ttyper.png" /></td>
+        <td>Miscellaneous</td>
+        <td>Rust</td>
+        <td><a href="https://github.com/max-niederman/ttyper" target="_blank">ttyper</a></td>
+        <td>Terminal-based typing test.</td>
+        <th><a href="https://github.com/max-niederman/ttyper" target="_blank"><img alt="ttyper" src="https://img.shields.io/github/stars/max-niederman/ttyper?style=social" /></a></th>
+    </tr>
 
 </table>
 
@@ -2944,6 +2952,14 @@
         <td><a href="https://t.me/tgstogifbot" target="_blank">lottie-to-gif</a></td>
         <td>Converts Lottie Animations (.json / .lottie) and Telegram stickers (*.tgs) to GIF / PNG / APNG / WEBP</td>
         <th><a href="https://github.com/ed-asriyan/lottie-to-gif" target="_blank"><img alt="lottie-to-gif" src="https://img.shields.io/github/stars/ed-asriyan/lottie-to-gif?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="TGUI" src="https://gitlibrary.club/images/uploads/2023/09/newshot-TGUI.png" /></td>
+        <td>Productivity</td>
+        <td>C++</td>
+        <td><a href="https://tgui.eu" target="_blank">TGUI</a></td>
+        <td>Cross-platform modern c++ GUI</td>
+        <th><a href="https://github.com/texus/TGUI" target="_blank"><img alt="TGUI" src="https://img.shields.io/github/stars/texus/TGUI?style=social" /></a></th>
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="VS Code Docs" src="https://gitlibrary.club/images/uploads/2023/05/newshot-vscode-docs.png" /></td>
@@ -4321,6 +4337,14 @@
         <td>The web version of Tidal running in electron with hifi support thanks to widevine.</td>
         <th><a href="https://github.com/Mastermindzh/tidal-hifi" target="_blank"><img alt="TIDAL Hi-Fi" src="https://img.shields.io/github/stars/Mastermindzh/tidal-hifi?style=social" /></a></th>
     </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Maige" src="https://gitlibrary.club/images/uploads/2023/09/newshot-maige.jpg" /></td>
+        <td>Productivity</td>
+        <td>TypeScript</td>
+        <td><a href="https://maige.app" target="_blank">Maige</a></td>
+        <td>Issue-labeller powered by GPT.</td>
+        <th><a href="https://github.com/tedspare/maige" target="_blank"><img alt="Maige" src="https://img.shields.io/github/stars/tedspare/maige?style=social" /></a></th>
+    </tr>
 
 </table>
 
@@ -5408,6 +5432,14 @@
         <th><a href="https://github.com/MaterializeInc/materialize" target="_blank"><img alt="Materialize" src="https://img.shields.io/github/stars/MaterializeInc/materialize?style=social" /></a></th>
     </tr>
     <tr>
+        <td nowrap="nowrap"><img width="33" alt="laravel-medialibrary" src="https://gitlibrary.club/images/uploads/2023/05/newshot-laravel-medialibrary-1.png" /></td>
+        <td>Databases</td>
+        <td>PHP</td>
+        <td><a href="https://spatie.be/docs/laravel-medialibrary/v10/introduction" target="_blank">laravel-medialibrary</a></td>
+        <td>Associate files with Eloquent models</td>
+        <th><a href="https://github.com/spatie/laravel-medialibrary" target="_blank"><img alt="laravel-medialibrary" src="https://img.shields.io/github/stars/spatie/laravel-medialibrary?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="StackExchange.Redis" src="https://gitlibrary.club/images/uploads/2023/05/newshot-StackExchange.Redis_.png" /></td>
         <td>Databases</td>
         <td>C#</td>
@@ -5494,14 +5526,6 @@
         <td><a href="https://www.trychroma.com/" target="_blank">Chroma</a></td>
         <td>the AI-native open-source embedding database</td>
         <th><a href="https://github.com/chroma-core/chroma" target="_blank"><img alt="Chroma" src="https://img.shields.io/github/stars/chroma-core/chroma?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="laravel-medialibrary" src="https://gitlibrary.club/images/uploads/2023/05/newshot-laravel-medialibrary-1.png" /></td>
-        <td>Databases</td>
-        <td>PHP</td>
-        <td><a href="https://spatie.be/docs/laravel-medialibrary/v10/introduction" target="_blank">laravel-medialibrary</a></td>
-        <td>Associate files with Eloquent models</td>
-        <th><a href="https://github.com/spatie/laravel-medialibrary" target="_blank"><img alt="laravel-medialibrary" src="https://img.shields.io/github/stars/spatie/laravel-medialibrary?style=social" /></a></th>
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="FASTER" src="https://gitlibrary.club/images/uploads/2023/05/newshot-FASTER-1.png" /></td>
@@ -7948,6 +7972,14 @@
         <td>A small, simple and customizable cookie consent bar for use in React applications.</td>
         <th><a href="https://github.com/Mastermindzh/react-cookie-consent" target="_blank"><img alt="react-cookie-consent" src="https://img.shields.io/github/stars/Mastermindzh/react-cookie-consent?style=social" /></a></th>
     </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Maige" src="https://gitlibrary.club/images/uploads/2023/09/newshot-maige.jpg" /></td>
+        <td>Productivity</td>
+        <td>TypeScript</td>
+        <td><a href="https://maige.app" target="_blank">Maige</a></td>
+        <td>Issue-labeller powered by GPT.</td>
+        <th><a href="https://github.com/tedspare/maige" target="_blank"><img alt="Maige" src="https://img.shields.io/github/stars/tedspare/maige?style=social" /></a></th>
+    </tr>
 
 </table>
 
@@ -8015,6 +8047,14 @@
         <td><a href="https://www.hyperf.io" target="_blank">Hyperf</a></td>
         <td><g-emoji class="g-emoji" alias="rocket" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f680.png">?</g-emoji> A coroutine framework that focuses on hyperspeed and flexibility. Building microservice or middleware with ease.</td>
         <th><a href="https://github.com/hyperf/hyperf" target="_blank"><img alt="Hyperf" src="https://img.shields.io/github/stars/hyperf/hyperf?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="laravel-medialibrary" src="https://gitlibrary.club/images/uploads/2023/05/newshot-laravel-medialibrary-1.png" /></td>
+        <td>Databases</td>
+        <td>PHP</td>
+        <td><a href="https://spatie.be/docs/laravel-medialibrary/v10/introduction" target="_blank">laravel-medialibrary</a></td>
+        <td>Associate files with Eloquent models</td>
+        <th><a href="https://github.com/spatie/laravel-medialibrary" target="_blank"><img alt="laravel-medialibrary" src="https://img.shields.io/github/stars/spatie/laravel-medialibrary?style=social" /></a></th>
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="PHP Collections" src="https://gitlibrary.club/images/uploads/2023/05/newshot-map.png" /></td>
@@ -8111,14 +8151,6 @@
         <td><a href="https://laravel.com/docs/socialite" target="_blank">Laravel Socialite</a></td>
         <td>Laravel wrapper around OAuth 1 &amp; OAuth 2 libraries.</td>
         <th><a href="https://github.com/laravel/socialite" target="_blank"><img alt="Laravel Socialite" src="https://img.shields.io/github/stars/laravel/socialite?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="laravel-medialibrary" src="https://gitlibrary.club/images/uploads/2023/05/newshot-laravel-medialibrary-1.png" /></td>
-        <td>Databases</td>
-        <td>PHP</td>
-        <td><a href="https://spatie.be/docs/laravel-medialibrary/v10/introduction" target="_blank">laravel-medialibrary</a></td>
-        <td>Associate files with Eloquent models</td>
-        <th><a href="https://github.com/spatie/laravel-medialibrary" target="_blank"><img alt="laravel-medialibrary" src="https://img.shields.io/github/stars/spatie/laravel-medialibrary?style=social" /></a></th>
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="BotMan" src="https://gitlibrary.club/images/uploads/2023/05/newshot-botman-1.png" /></td>
@@ -9109,6 +9141,14 @@
         <td><a href="https://amrdeveloper.github.io/GQL/" target="_blank">GitQL</a></td>
         <td>Git Query language is a SQL like query language to perform queries on multi repositories on the fly ?</td>
         <th><a href="https://github.com/AmrDeveloper/GQL" target="_blank"><img alt="GitQL" src="https://img.shields.io/github/stars/AmrDeveloper/GQL?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="ttyper" src="https://gitlibrary.club/images/uploads/2023/09/newshot-ttyper.png" /></td>
+        <td>Miscellaneous</td>
+        <td>Rust</td>
+        <td><a href="https://github.com/max-niederman/ttyper" target="_blank">ttyper</a></td>
+        <td>Terminal-based typing test.</td>
+        <th><a href="https://github.com/max-niederman/ttyper" target="_blank"><img alt="ttyper" src="https://img.shields.io/github/stars/max-niederman/ttyper?style=social" /></a></th>
     </tr>
 
 </table>
@@ -11337,6 +11377,14 @@
         <td><a href="https://t.me/tgstogifbot" target="_blank">lottie-to-gif</a></td>
         <td>Converts Lottie Animations (.json / .lottie) and Telegram stickers (*.tgs) to GIF / PNG / APNG / WEBP</td>
         <th><a href="https://github.com/ed-asriyan/lottie-to-gif" target="_blank"><img alt="lottie-to-gif" src="https://img.shields.io/github/stars/ed-asriyan/lottie-to-gif?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="TGUI" src="https://gitlibrary.club/images/uploads/2023/09/newshot-TGUI.png" /></td>
+        <td>Productivity</td>
+        <td>C++</td>
+        <td><a href="https://tgui.eu" target="_blank">TGUI</a></td>
+        <td>Cross-platform modern c++ GUI</td>
+        <th><a href="https://github.com/texus/TGUI" target="_blank"><img alt="TGUI" src="https://img.shields.io/github/stars/texus/TGUI?style=social" /></a></th>
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="OneFlow" src="https://gitlibrary.club/images/uploads/2023/05/newshot-oneflow.png" /></td>
