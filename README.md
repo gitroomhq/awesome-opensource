@@ -2962,6 +2962,14 @@
         <th><a href="https://github.com/texus/TGUI" target="_blank"><img alt="TGUI" src="https://img.shields.io/github/stars/texus/TGUI?style=social" /></a></th>
     </tr>
     <tr>
+        <td nowrap="nowrap"><img width="33" alt="Flyleaf" src="https://gitlibrary.club/images/uploads/2023/09/newshot-Flyleaf.jpg" /></td>
+        <td>Productivity</td>
+        <td>C#</td>
+        <td><a href="https://github.com/SuRGeoNix/Flyleaf" target="_blank">Flyleaf</a></td>
+        <td>Media Player .NET Library for WinUI 3/ WPF/WinForms (based on FFmpeg/DirectX)</td>
+        <th><a href="https://github.com/SuRGeoNix/Flyleaf" target="_blank"><img alt="Flyleaf" src="https://img.shields.io/github/stars/SuRGeoNix/Flyleaf?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="VS Code Docs" src="https://gitlibrary.club/images/uploads/2023/05/newshot-vscode-docs.png" /></td>
         <td>Productivity</td>
         <td>CSS</td>
@@ -4344,14 +4352,6 @@
         <td><a href="https://maige.app" target="_blank">Maige</a></td>
         <td>Issue-labeller powered by GPT.</td>
         <th><a href="https://github.com/tedspare/maige" target="_blank"><img alt="Maige" src="https://img.shields.io/github/stars/tedspare/maige?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Flyleaf" src="https://gitlibrary.club/images/uploads/2023/09/newshot-Flyleaf.jpg" /></td>
-        <td>Productivity</td>
-        <td>C#</td>
-        <td><a href="https://github.com/SuRGeoNix/Flyleaf" target="_blank">Flyleaf</a></td>
-        <td>Media Player .NET Library for WinUI 3/ WPF/WinForms (based on FFmpeg/DirectX)</td>
-        <th><a href="https://github.com/SuRGeoNix/Flyleaf" target="_blank"><img alt="Flyleaf" src="https://img.shields.io/github/stars/SuRGeoNix/Flyleaf?style=social" /></a></th>
     </tr>
 
 </table>
@@ -10917,6 +10917,14 @@
         <th><a href="https://github.com/Giannoudis/TimePeriodLibrary" target="_blank"><img alt="Time Period Library for .NET" src="https://img.shields.io/github/stars/Giannoudis/TimePeriodLibrary?style=social" /></a></th>
     </tr>
     <tr>
+        <td nowrap="nowrap"><img width="33" alt="Flyleaf" src="https://gitlibrary.club/images/uploads/2023/09/newshot-Flyleaf.jpg" /></td>
+        <td>Productivity</td>
+        <td>C#</td>
+        <td><a href="https://github.com/SuRGeoNix/Flyleaf" target="_blank">Flyleaf</a></td>
+        <td>Media Player .NET Library for WinUI 3/ WPF/WinForms (based on FFmpeg/DirectX)</td>
+        <th><a href="https://github.com/SuRGeoNix/Flyleaf" target="_blank"><img alt="Flyleaf" src="https://img.shields.io/github/stars/SuRGeoNix/Flyleaf?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="MudBlazor" src="https://gitlibrary.club/images/uploads/2023/05/newshot-MudBlazor.png" /></td>
         <td>Infrastructure</td>
         <td>C#</td>
@@ -11107,14 +11115,6 @@
         <td><a href="https://github.com/adamralph/minver" target="_blank">MinVer</a></td>
         <td>? Minimalistic versioning using Git tags.</td>
         <th><a href="https://github.com/adamralph/minver" target="_blank"><img alt="MinVer" src="https://img.shields.io/github/stars/adamralph/minver?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Flyleaf" src="https://gitlibrary.club/images/uploads/2023/09/newshot-Flyleaf.jpg" /></td>
-        <td>Productivity</td>
-        <td>C#</td>
-        <td><a href="https://github.com/SuRGeoNix/Flyleaf" target="_blank">Flyleaf</a></td>
-        <td>Media Player .NET Library for WinUI 3/ WPF/WinForms (based on FFmpeg/DirectX)</td>
-        <th><a href="https://github.com/SuRGeoNix/Flyleaf" target="_blank"><img alt="Flyleaf" src="https://img.shields.io/github/stars/SuRGeoNix/Flyleaf?style=social" /></a></th>
     </tr>
 
 </table>
