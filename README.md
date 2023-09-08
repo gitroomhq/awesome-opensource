@@ -160,6 +160,14 @@
         <th>Stargazers</th>
     </tr>
         <tr>
+        <td nowrap="nowrap"><img width="33" alt="Flyleaf" src="https://gitlibrary.club/images/uploads/2023/09/newshot-Flyleaf.jpg" /></td>
+        <td>Productivity</td>
+        <td>C#</td>
+        <td><a href="https://github.com/SuRGeoNix/Flyleaf" target="_blank">Flyleaf</a></td>
+        <td>Media Player .NET Library for WinUI 3/ WPF/WinForms (based on FFmpeg/DirectX)</td>
+        <th><a href="https://github.com/SuRGeoNix/Flyleaf" target="_blank"><img alt="Flyleaf" src="https://img.shields.io/github/stars/SuRGeoNix/Flyleaf?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="lottie-to-gif" src="https://gitlibrary.club/images/uploads/2023/09/newshot-lottie-to-gif.jpg" /></td>
         <td>Productivity</td>
         <td>C++</td>
@@ -310,14 +318,6 @@
         <td><a href="https://revert.dev" target="_blank">Revert</a></td>
         <td>Revert is an open-source platform to build user-facing native integrations remarkably fast.</td>
         <th><a href="https://github.com/revertinc/revert" target="_blank"><img alt="Revert" src="https://img.shields.io/github/stars/revertinc/revert?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="LeetCode" src="https://gitlibrary.club/images/uploads/2023/09/newshot-LeetCode.png" /></td>
-        <td>Miscellaneous</td>
-        <td>C++</td>
-        <td><a href="https://walkccc.me/LeetCode" target="_blank">LeetCode</a></td>
-        <td>? LeetCode in C++17/Java/Python with good readability and consistent style (respect coding convention).</td>
-        <th><a href="https://github.com/walkccc/LeetCode" target="_blank"><img alt="LeetCode" src="https://img.shields.io/github/stars/walkccc/LeetCode?style=social" /></a></th>
     </tr>
 
 </table>
@@ -4344,6 +4344,14 @@
         <td><a href="https://maige.app" target="_blank">Maige</a></td>
         <td>Issue-labeller powered by GPT.</td>
         <th><a href="https://github.com/tedspare/maige" target="_blank"><img alt="Maige" src="https://img.shields.io/github/stars/tedspare/maige?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Flyleaf" src="https://gitlibrary.club/images/uploads/2023/09/newshot-Flyleaf.jpg" /></td>
+        <td>Productivity</td>
+        <td>C#</td>
+        <td><a href="https://github.com/SuRGeoNix/Flyleaf" target="_blank">Flyleaf</a></td>
+        <td>Media Player .NET Library for WinUI 3/ WPF/WinForms (based on FFmpeg/DirectX)</td>
+        <th><a href="https://github.com/SuRGeoNix/Flyleaf" target="_blank"><img alt="Flyleaf" src="https://img.shields.io/github/stars/SuRGeoNix/Flyleaf?style=social" /></a></th>
     </tr>
 
 </table>
@@ -11099,6 +11107,14 @@
         <td><a href="https://github.com/adamralph/minver" target="_blank">MinVer</a></td>
         <td>? Minimalistic versioning using Git tags.</td>
         <th><a href="https://github.com/adamralph/minver" target="_blank"><img alt="MinVer" src="https://img.shields.io/github/stars/adamralph/minver?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Flyleaf" src="https://gitlibrary.club/images/uploads/2023/09/newshot-Flyleaf.jpg" /></td>
+        <td>Productivity</td>
+        <td>C#</td>
+        <td><a href="https://github.com/SuRGeoNix/Flyleaf" target="_blank">Flyleaf</a></td>
+        <td>Media Player .NET Library for WinUI 3/ WPF/WinForms (based on FFmpeg/DirectX)</td>
+        <th><a href="https://github.com/SuRGeoNix/Flyleaf" target="_blank"><img alt="Flyleaf" src="https://img.shields.io/github/stars/SuRGeoNix/Flyleaf?style=social" /></a></th>
     </tr>
 
 </table>
