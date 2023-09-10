@@ -623,6 +623,14 @@
         <th><a href="https://github.com/zenstackhq/zenstack" target="_blank"><img alt="ZenStack" src="https://img.shields.io/github/stars/zenstackhq/zenstack?style=social" /></a></th>
     </tr>
     <tr>
+        <td nowrap="nowrap"><img width="33" alt="Keep" src="https://gitlibrary.club/images/uploads/2023/05/newshot-keep-4.png" /></td>
+        <td>Notifications</td>
+        <td>Python</td>
+        <td><a href="https://www.keephq.dev" target="_blank">Keep</a></td>
+        <td>Open source alerting management for software developers.</td>
+        <th><a href="https://github.com/keephq/keep" target="_blank"><img alt="Keep" src="https://img.shields.io/github/stars/keephq/keep?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="Prim+RPC" src="https://gitlibrary.club/images/uploads/2023/06/newshot-prim-rpc.jpg" /></td>
         <td>Productivity</td>
         <td>TypeScript</td>
@@ -757,14 +765,6 @@
         <td><a href="https://github.com/ariasdiniz/macaw_framework" target="_blank">MacawFramework</a></td>
         <td>A lightweight web framework designed for building efficient backend applications. Initially created for study purposes, now production-ready and open for contributions.</td>
         <th><a href="https://github.com/ariasdiniz/macaw_framework" target="_blank"><img alt="MacawFramework" src="https://img.shields.io/github/stars/ariasdiniz/macaw_framework?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Keep" src="https://gitlibrary.club/images/uploads/2023/05/newshot-keep-4.png" /></td>
-        <td>Notifications</td>
-        <td>Python</td>
-        <td><a href="https://www.keephq.dev" target="_blank">Keep</a></td>
-        <td>Open source alerting management for software developers.</td>
-        <th><a href="https://github.com/keephq/keep" target="_blank"><img alt="Keep" src="https://img.shields.io/github/stars/keephq/keep?style=social" /></a></th>
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="Aptabase" src="https://gitlibrary.club/images/uploads/2023/06/newshot-aptabase.png" /></td>
@@ -10057,20 +10057,20 @@
         <th><a href="https://github.com/cicirello/jacoco-badge-generator" target="_blank"><img alt="jacoco-badge-generator" src="https://img.shields.io/github/stars/cicirello/jacoco-badge-generator?style=social" /></a></th>
     </tr>
     <tr>
-        <td nowrap="nowrap"><img width="33" alt="llm-client" src="https://gitlibrary.club/images/uploads/2023/05/newshot-llm-client-sdk.jpg" /></td>
-        <td>Infrastructure</td>
-        <td>Python</td>
-        <td><a href="https://github.com/uripeled2/llm-client-sdk" target="_blank">llm-client</a></td>
-        <td>SDK for using LLM</td>
-        <th><a href="https://github.com/uripeled2/llm-client-sdk" target="_blank"><img alt="llm-client" src="https://img.shields.io/github/stars/uripeled2/llm-client-sdk?style=social" /></a></th>
-    </tr>
-    <tr>
         <td nowrap="nowrap"><img width="33" alt="Keep" src="https://gitlibrary.club/images/uploads/2023/05/newshot-keep-4.png" /></td>
         <td>Notifications</td>
         <td>Python</td>
         <td><a href="https://www.keephq.dev" target="_blank">Keep</a></td>
         <td>Open source alerting management for software developers.</td>
         <th><a href="https://github.com/keephq/keep" target="_blank"><img alt="Keep" src="https://img.shields.io/github/stars/keephq/keep?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="llm-client" src="https://gitlibrary.club/images/uploads/2023/05/newshot-llm-client-sdk.jpg" /></td>
+        <td>Infrastructure</td>
+        <td>Python</td>
+        <td><a href="https://github.com/uripeled2/llm-client-sdk" target="_blank">llm-client</a></td>
+        <td>SDK for using LLM</td>
+        <th><a href="https://github.com/uripeled2/llm-client-sdk" target="_blank"><img alt="llm-client" src="https://img.shields.io/github/stars/uripeled2/llm-client-sdk?style=social" /></a></th>
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="DocsGPT" src="https://gitlibrary.club/images/uploads/2023/05/newshot-DocsGPT.png" /></td>
