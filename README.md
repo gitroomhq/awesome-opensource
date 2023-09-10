@@ -160,6 +160,14 @@
         <th>Stargazers</th>
     </tr>
         <tr>
+        <td nowrap="nowrap"><img width="33" alt="onnx-modifier" src="https://gitlibrary.club/images/uploads/2023/09/newshot-onnx-modifier-1.jpg" /></td>
+        <td>Productivity</td>
+        <td>JavaScript</td>
+        <td><a href="https://github.com/ZhangGe6/onnx-modifier" target="_blank">onnx-modifier</a></td>
+        <td>A tool to modify ONNX models in a visualization fashion, based on Netron and Flask.</td>
+        <th><a href="https://github.com/ZhangGe6/onnx-modifier" target="_blank"><img alt="onnx-modifier" src="https://img.shields.io/github/stars/ZhangGe6/onnx-modifier?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="Flyleaf" src="https://gitlibrary.club/images/uploads/2023/09/newshot-Flyleaf.jpg" /></td>
         <td>Productivity</td>
         <td>C#</td>
@@ -310,14 +318,6 @@
         <td><a href="https://haly.ai" target="_blank">Haly AI</a></td>
         <td>Haly AI Slack Bot. A GPT powered chatbot that can answer questions about your organization using semantic search.</td>
         <th><a href="https://github.com/UpMortem/slack-bot" target="_blank"><img alt="Haly AI" src="https://img.shields.io/github/stars/UpMortem/slack-bot?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Revert" src="https://gitlibrary.club/images/uploads/2023/09/newshot-revert.png" /></td>
-        <td>Infrastructure</td>
-        <td>TypeScript</td>
-        <td><a href="https://revert.dev" target="_blank">Revert</a></td>
-        <td>Revert is an open-source platform to build user-facing native integrations remarkably fast.</td>
-        <th><a href="https://github.com/revertinc/revert" target="_blank"><img alt="Revert" src="https://img.shields.io/github/stars/revertinc/revert?style=social" /></a></th>
     </tr>
 
 </table>
@@ -4352,6 +4352,14 @@
         <td><a href="https://maige.app" target="_blank">Maige</a></td>
         <td>Issue-labeller powered by GPT.</td>
         <th><a href="https://github.com/tedspare/maige" target="_blank"><img alt="Maige" src="https://img.shields.io/github/stars/tedspare/maige?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="onnx-modifier" src="https://gitlibrary.club/images/uploads/2023/09/newshot-onnx-modifier-1.jpg" /></td>
+        <td>Productivity</td>
+        <td>JavaScript</td>
+        <td><a href="https://github.com/ZhangGe6/onnx-modifier" target="_blank">onnx-modifier</a></td>
+        <td>A tool to modify ONNX models in a visualization fashion, based on Netron and Flask.</td>
+        <th><a href="https://github.com/ZhangGe6/onnx-modifier" target="_blank"><img alt="onnx-modifier" src="https://img.shields.io/github/stars/ZhangGe6/onnx-modifier?style=social" /></a></th>
     </tr>
 
 </table>
@@ -9667,6 +9675,14 @@
         <td><a href="https://stdlib.io" target="_blank">stdlib</a></td>
         <td>✨ Standard library for JavaScript and Node.js. ✨</td>
         <th><a href="https://github.com/stdlib-js/stdlib" target="_blank"><img alt="stdlib" src="https://img.shields.io/github/stars/stdlib-js/stdlib?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="onnx-modifier" src="https://gitlibrary.club/images/uploads/2023/09/newshot-onnx-modifier-1.jpg" /></td>
+        <td>Productivity</td>
+        <td>JavaScript</td>
+        <td><a href="https://github.com/ZhangGe6/onnx-modifier" target="_blank">onnx-modifier</a></td>
+        <td>A tool to modify ONNX models in a visualization fashion, based on Netron and Flask.</td>
+        <th><a href="https://github.com/ZhangGe6/onnx-modifier" target="_blank"><img alt="onnx-modifier" src="https://img.shields.io/github/stars/ZhangGe6/onnx-modifier?style=social" /></a></th>
     </tr>
 
 </table>
