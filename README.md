@@ -168,6 +168,14 @@
         <th><a href="https://github.com/Danilqa/node-file-router" target="_blank"><img alt="Node File Router" src="https://img.shields.io/github/stars/Danilqa/node-file-router?style=social" /></a></th>
     </tr>
     <tr>
+        <td nowrap="nowrap"><img width="33" alt="renumics-spotlight" src="https://gitlibrary.club/images/uploads/2023/09/newshot-spotlight.png" /></td>
+        <td>Analytics</td>
+        <td>TypeScript</td>
+        <td><a href="https://renumics.com" target="_blank">renumics-spotlight</a></td>
+        <td>Interactively explore unstructured datasets from your dataframe.</td>
+        <th><a href="https://github.com/Renumics/spotlight" target="_blank"><img alt="renumics-spotlight" src="https://img.shields.io/github/stars/Renumics/spotlight?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="onnx-modifier" src="https://gitlibrary.club/images/uploads/2023/09/newshot-onnx-modifier-1.jpg" /></td>
         <td>Productivity</td>
         <td>JavaScript</td>
@@ -310,14 +318,6 @@
         <td><a href="https://github.com/gkaramanis/tidytuesday" target="_blank">tidytuesday</a></td>
         <td>Code and plots for submissions to the #tidytuesday challenge</td>
         <th><a href="https://github.com/gkaramanis/tidytuesday" target="_blank"><img alt="tidytuesday" src="https://img.shields.io/github/stars/gkaramanis/tidytuesday?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="REST API Reporting for .NET" src="https://gitlibrary.club/images/uploads/2023/09/newshot-RestApiReporting.png" /></td>
-        <td>Productivity</td>
-        <td>C#</td>
-        <td><a href="https://github.com/Giannoudis/RestApiReporting" target="_blank">REST API Reporting for .NET</a></td>
-        <td>REST API Reporting for .NET</td>
-        <th><a href="https://github.com/Giannoudis/RestApiReporting" target="_blank"><img alt="REST API Reporting for .NET" src="https://img.shields.io/github/stars/Giannoudis/RestApiReporting?style=social" /></a></th>
     </tr>
 
 </table>
@@ -4663,6 +4663,14 @@
         <td>Generates Shields endpoint with number of users of a GitHub Action</td>
         <th><a href="https://github.com/cicirello/count-action-users" target="_blank"><img alt="count-action-users" src="https://img.shields.io/github/stars/cicirello/count-action-users?style=social" /></a></th>
     </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="renumics-spotlight" src="https://gitlibrary.club/images/uploads/2023/09/newshot-spotlight.png" /></td>
+        <td>Analytics</td>
+        <td>TypeScript</td>
+        <td><a href="https://renumics.com" target="_blank">renumics-spotlight</a></td>
+        <td>Interactively explore unstructured datasets from your dataframe.</td>
+        <th><a href="https://github.com/Renumics/spotlight" target="_blank"><img alt="renumics-spotlight" src="https://img.shields.io/github/stars/Renumics/spotlight?style=social" /></a></th>
+    </tr>
 
 </table>
 
@@ -8011,6 +8019,14 @@
         <td><a href="https://danilqa.github.io/node-file-router/" target="_blank">Node File Router</a></td>
         <td>A file-based routing for Node.js ?</td>
         <th><a href="https://github.com/Danilqa/node-file-router" target="_blank"><img alt="Node File Router" src="https://img.shields.io/github/stars/Danilqa/node-file-router?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="renumics-spotlight" src="https://gitlibrary.club/images/uploads/2023/09/newshot-spotlight.png" /></td>
+        <td>Analytics</td>
+        <td>TypeScript</td>
+        <td><a href="https://renumics.com" target="_blank">renumics-spotlight</a></td>
+        <td>Interactively explore unstructured datasets from your dataframe.</td>
+        <th><a href="https://github.com/Renumics/spotlight" target="_blank"><img alt="renumics-spotlight" src="https://img.shields.io/github/stars/Renumics/spotlight?style=social" /></a></th>
     </tr>
 
 </table>
