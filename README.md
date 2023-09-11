@@ -160,6 +160,14 @@
         <th>Stargazers</th>
     </tr>
         <tr>
+        <td nowrap="nowrap"><img width="33" alt="Node File Router" src="https://gitlibrary.club/images/uploads/2023/09/newshot-node-file-router.jpg" /></td>
+        <td>Miscellaneous</td>
+        <td>TypeScript</td>
+        <td><a href="https://danilqa.github.io/node-file-router/" target="_blank">Node File Router</a></td>
+        <td>A file-based routing for Node.js ?</td>
+        <th><a href="https://github.com/Danilqa/node-file-router" target="_blank"><img alt="Node File Router" src="https://img.shields.io/github/stars/Danilqa/node-file-router?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="onnx-modifier" src="https://gitlibrary.club/images/uploads/2023/09/newshot-onnx-modifier-1.jpg" /></td>
         <td>Productivity</td>
         <td>JavaScript</td>
@@ -310,14 +318,6 @@
         <td><a href="https://github.com/Giannoudis/RestApiReporting" target="_blank">REST API Reporting for .NET</a></td>
         <td>REST API Reporting for .NET</td>
         <th><a href="https://github.com/Giannoudis/RestApiReporting" target="_blank"><img alt="REST API Reporting for .NET" src="https://img.shields.io/github/stars/Giannoudis/RestApiReporting?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Haly AI" src="https://gitlibrary.club/images/uploads/2023/09/newshot-slack-bot.png" /></td>
-        <td>Collaboration</td>
-        <td>Python</td>
-        <td><a href="https://haly.ai" target="_blank">Haly AI</a></td>
-        <td>Haly AI Slack Bot. A GPT powered chatbot that can answer questions about your organization using semantic search.</td>
-        <th><a href="https://github.com/UpMortem/slack-bot" target="_blank"><img alt="Haly AI" src="https://img.shields.io/github/stars/UpMortem/slack-bot?style=social" /></a></th>
     </tr>
 
 </table>
@@ -2316,6 +2316,14 @@
         <td><a href="https://github.com/max-niederman/ttyper" target="_blank">ttyper</a></td>
         <td>Terminal-based typing test.</td>
         <th><a href="https://github.com/max-niederman/ttyper" target="_blank"><img alt="ttyper" src="https://img.shields.io/github/stars/max-niederman/ttyper?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Node File Router" src="https://gitlibrary.club/images/uploads/2023/09/newshot-node-file-router.jpg" /></td>
+        <td>Miscellaneous</td>
+        <td>TypeScript</td>
+        <td><a href="https://danilqa.github.io/node-file-router/" target="_blank">Node File Router</a></td>
+        <td>A file-based routing for Node.js ?</td>
+        <th><a href="https://github.com/Danilqa/node-file-router" target="_blank"><img alt="Node File Router" src="https://img.shields.io/github/stars/Danilqa/node-file-router?style=social" /></a></th>
     </tr>
 
 </table>
@@ -7995,6 +8003,14 @@
         <td><a href="https://maige.app" target="_blank">Maige</a></td>
         <td>Issue-labeller powered by GPT.</td>
         <th><a href="https://github.com/tedspare/maige" target="_blank"><img alt="Maige" src="https://img.shields.io/github/stars/tedspare/maige?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Node File Router" src="https://gitlibrary.club/images/uploads/2023/09/newshot-node-file-router.jpg" /></td>
+        <td>Miscellaneous</td>
+        <td>TypeScript</td>
+        <td><a href="https://danilqa.github.io/node-file-router/" target="_blank">Node File Router</a></td>
+        <td>A file-based routing for Node.js ?</td>
+        <th><a href="https://github.com/Danilqa/node-file-router" target="_blank"><img alt="Node File Router" src="https://img.shields.io/github/stars/Danilqa/node-file-router?style=social" /></a></th>
     </tr>
 
 </table>
