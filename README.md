@@ -176,6 +176,14 @@
         <th><a href="https://github.com/Renumics/spotlight" target="_blank"><img alt="renumics-spotlight" src="https://img.shields.io/github/stars/Renumics/spotlight?style=social" /></a></th>
     </tr>
     <tr>
+        <td nowrap="nowrap"><img width="33" alt="Projectsveltos" src="https://gitlibrary.club/images/uploads/2023/09/newshot-addon-controller.png" /></td>
+        <td>Infrastructure</td>
+        <td>Go</td>
+        <td><a href="https://projectsveltos.github.io/sveltos/" target="_blank">Projectsveltos</a></td>
+        <td>Sveltos Kubernetes add-on controller programmatically deploys add-ons and applications in tens of clusters. Support for ClusterAPI powered clusters, Helm charts, kustomize ,YAMLs. Sveltos has built…</td>
+        <th><a href="https://github.com/projectsveltos/addon-controller" target="_blank"><img alt="Projectsveltos" src="https://img.shields.io/github/stars/projectsveltos/addon-controller?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="onnx-modifier" src="https://gitlibrary.club/images/uploads/2023/09/newshot-onnx-modifier-1.jpg" /></td>
         <td>Productivity</td>
         <td>JavaScript</td>
@@ -310,14 +318,6 @@
         <td><a href="https://github.com/neon-mmd/websurfx" target="_blank">Websurfx</a></td>
         <td>? An open source alternative to searx which provides a modern-looking ✨, lightning-fast ⚡, privacy respecting ?, secure ? meta search engine</td>
         <th><a href="https://github.com/neon-mmd/websurfx" target="_blank"><img alt="Websurfx" src="https://img.shields.io/github/stars/neon-mmd/websurfx?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="tidytuesday" src="https://gitlibrary.club/images/uploads/2023/09/newshot-tidytuesday.jpg" /></td>
-        <td>Productivity</td>
-        <td>R</td>
-        <td><a href="https://github.com/gkaramanis/tidytuesday" target="_blank">tidytuesday</a></td>
-        <td>Code and plots for submissions to the #tidytuesday challenge</td>
-        <th><a href="https://github.com/gkaramanis/tidytuesday" target="_blank"><img alt="tidytuesday" src="https://img.shields.io/github/stars/gkaramanis/tidytuesday?style=social" /></a></th>
     </tr>
 
 </table>
@@ -6837,6 +6837,14 @@
         <td>A Blazing Fast AI Gateway by Portkey.ai</td>
         <th><a href="https://github.com/Portkey-AI/Rubeus" target="_blank"><img alt="Rubeus" src="https://img.shields.io/github/stars/Portkey-AI/Rubeus?style=social" /></a></th>
     </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Projectsveltos" src="https://gitlibrary.club/images/uploads/2023/09/newshot-addon-controller.png" /></td>
+        <td>Infrastructure</td>
+        <td>Go</td>
+        <td><a href="https://projectsveltos.github.io/sveltos/" target="_blank">Projectsveltos</a></td>
+        <td>Sveltos Kubernetes add-on controller programmatically deploys add-ons and applications in tens of clusters. Support for ClusterAPI powered clusters, Helm charts, kustomize ,YAMLs. Sveltos has built…</td>
+        <th><a href="https://github.com/projectsveltos/addon-controller" target="_blank"><img alt="Projectsveltos" src="https://img.shields.io/github/stars/projectsveltos/addon-controller?style=social" /></a></th>
+    </tr>
 
 </table>
 
@@ -8991,6 +8999,14 @@
         <td><a href="https://deepfence.io" target="_blank">ThreatMapper</a></td>
         <td>Open source cloud native security observability platform. Linux, K8s, AWS Fargate and more.</td>
         <th><a href="https://github.com/deepfence/ThreatMapper" target="_blank"><img alt="ThreatMapper" src="https://img.shields.io/github/stars/deepfence/ThreatMapper?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Projectsveltos" src="https://gitlibrary.club/images/uploads/2023/09/newshot-addon-controller.png" /></td>
+        <td>Infrastructure</td>
+        <td>Go</td>
+        <td><a href="https://projectsveltos.github.io/sveltos/" target="_blank">Projectsveltos</a></td>
+        <td>Sveltos Kubernetes add-on controller programmatically deploys add-ons and applications in tens of clusters. Support for ClusterAPI powered clusters, Helm charts, kustomize ,YAMLs. Sveltos has built…</td>
+        <th><a href="https://github.com/projectsveltos/addon-controller" target="_blank"><img alt="Projectsveltos" src="https://img.shields.io/github/stars/projectsveltos/addon-controller?style=social" /></a></th>
     </tr>
 
 </table>
