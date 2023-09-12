@@ -176,6 +176,14 @@
         <th><a href="https://github.com/llmonitor/llmonitor" target="_blank"><img alt="LLMonitor" src="https://img.shields.io/github/stars/llmonitor/llmonitor?style=social" /></a></th>
     </tr>
     <tr>
+        <td nowrap="nowrap"><img width="33" alt="Azure-DevOps" src="https://gitlibrary.club/images/uploads/2023/09/newshot-Azure-DevOps.jpg" /></td>
+        <td>Analytics</td>
+        <td>PowerShell</td>
+        <td><a href="https://github.com/vinijmoura/Azure-DevOps" target="_blank">Azure-DevOps</a></td>
+        <td>Data extraction and Power BI report that generate management informations about your Azure DevOps organization. Using Azure DevOps CLI and Azure DevOps REST API, PowerShell scripts extract data fro…</td>
+        <th><a href="https://github.com/vinijmoura/Azure-DevOps" target="_blank"><img alt="Azure-DevOps" src="https://img.shields.io/github/stars/vinijmoura/Azure-DevOps?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="Node File Router" src="https://gitlibrary.club/images/uploads/2023/09/newshot-node-file-router.jpg" /></td>
         <td>Miscellaneous</td>
         <td>TypeScript</td>
@@ -310,14 +318,6 @@
         <td><a href="https://maige.app" target="_blank">Maige</a></td>
         <td>Issue-labeller powered by GPT.</td>
         <th><a href="https://github.com/tedspare/maige" target="_blank"><img alt="Maige" src="https://img.shields.io/github/stars/tedspare/maige?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="ttyper" src="https://gitlibrary.club/images/uploads/2023/09/newshot-ttyper.png" /></td>
-        <td>Miscellaneous</td>
-        <td>Rust</td>
-        <td><a href="https://github.com/max-niederman/ttyper" target="_blank">ttyper</a></td>
-        <td>Terminal-based typing test.</td>
-        <th><a href="https://github.com/max-niederman/ttyper" target="_blank"><img alt="ttyper" src="https://img.shields.io/github/stars/max-niederman/ttyper?style=social" /></a></th>
     </tr>
 
 </table>
@@ -4686,6 +4686,14 @@
         <td><a href="https://renumics.com" target="_blank">renumics-spotlight</a></td>
         <td>Interactively explore unstructured datasets from your dataframe.</td>
         <th><a href="https://github.com/Renumics/spotlight" target="_blank"><img alt="renumics-spotlight" src="https://img.shields.io/github/stars/Renumics/spotlight?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Azure-DevOps" src="https://gitlibrary.club/images/uploads/2023/09/newshot-Azure-DevOps.jpg" /></td>
+        <td>Analytics</td>
+        <td>PowerShell</td>
+        <td><a href="https://github.com/vinijmoura/Azure-DevOps" target="_blank">Azure-DevOps</a></td>
+        <td>Data extraction and Power BI report that generate management informations about your Azure DevOps organization. Using Azure DevOps CLI and Azure DevOps REST API, PowerShell scripts extract data fro…</td>
+        <th><a href="https://github.com/vinijmoura/Azure-DevOps" target="_blank"><img alt="Azure-DevOps" src="https://img.shields.io/github/stars/vinijmoura/Azure-DevOps?style=social" /></a></th>
     </tr>
 
 </table>
@@ -12041,6 +12049,14 @@
         <td><a href="https://www.mandiant.com/resources/blog/commando-vm-windows-offensive-distribution" target="_blank">Mandiant</a></td>
         <td>Complete Mandiant Offensive VM (Commando VM), a fully customizable Windows-based pentesting virtual machine distribution. commandovm@mandiant.com</td>
         <th><a href="https://github.com/mandiant/commando-vm" target="_blank"><img alt="Mandiant" src="https://img.shields.io/github/stars/mandiant/commando-vm?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Azure-DevOps" src="https://gitlibrary.club/images/uploads/2023/09/newshot-Azure-DevOps.jpg" /></td>
+        <td>Analytics</td>
+        <td>PowerShell</td>
+        <td><a href="https://github.com/vinijmoura/Azure-DevOps" target="_blank">Azure-DevOps</a></td>
+        <td>Data extraction and Power BI report that generate management informations about your Azure DevOps organization. Using Azure DevOps CLI and Azure DevOps REST API, PowerShell scripts extract data fro…</td>
+        <th><a href="https://github.com/vinijmoura/Azure-DevOps" target="_blank"><img alt="Azure-DevOps" src="https://img.shields.io/github/stars/vinijmoura/Azure-DevOps?style=social" /></a></th>
     </tr>
 
 </table>
