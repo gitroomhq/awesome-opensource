@@ -160,6 +160,22 @@
         <th>Stargazers</th>
     </tr>
         <tr>
+        <td nowrap="nowrap"><img width="33" alt="jsoniter-scala" src="https://gitlibrary.club/images/uploads/2023/09/newshot-jsoniter-scala.png" /></td>
+        <td>Miscellaneous</td>
+        <td>Scala</td>
+        <td><a href="https://github.com/plokhotnyuk/jsoniter-scala" target="_blank">jsoniter-scala</a></td>
+        <td>Scala macros for compile-time generation of safe and ultra-fast JSON codecs</td>
+        <th><a href="https://github.com/plokhotnyuk/jsoniter-scala" target="_blank"><img alt="jsoniter-scala" src="https://img.shields.io/github/stars/plokhotnyuk/jsoniter-scala?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="LLMonitor" src="https://gitlibrary.club/images/uploads/2023/09/newshot-llmonitor.png" /></td>
+        <td>Observability</td>
+        <td>TypeScript</td>
+        <td><a href="https://llmonitor.com" target="_blank">LLMonitor</a></td>
+        <td>Open-source monitoring &amp; analytics for AI apps and agent</td>
+        <th><a href="https://github.com/llmonitor/llmonitor" target="_blank"><img alt="LLMonitor" src="https://img.shields.io/github/stars/llmonitor/llmonitor?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="Node File Router" src="https://gitlibrary.club/images/uploads/2023/09/newshot-node-file-router.jpg" /></td>
         <td>Miscellaneous</td>
         <td>TypeScript</td>
@@ -302,22 +318,6 @@
         <td><a href="https://github.com/max-niederman/ttyper" target="_blank">ttyper</a></td>
         <td>Terminal-based typing test.</td>
         <th><a href="https://github.com/max-niederman/ttyper" target="_blank"><img alt="ttyper" src="https://img.shields.io/github/stars/max-niederman/ttyper?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="user-statistician" src="https://gitlibrary.club/images/uploads/2023/09/newshot-user-statistician.jpg" /></td>
-        <td>Analytics</td>
-        <td>Python</td>
-        <td><a href="https://actions.cicirello.org/user-statistician/" target="_blank">user-statistician</a></td>
-        <td>Generate a GitHub stats SVG for your GitHub Profile README in GitHub Actions</td>
-        <th><a href="https://github.com/cicirello/user-statistician" target="_blank"><img alt="user-statistician" src="https://img.shields.io/github/stars/cicirello/user-statistician?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Websurfx" src="https://gitlibrary.club/images/uploads/2023/09/newshot-websurfx-1.jpg" /></td>
-        <td>Miscellaneous</td>
-        <td>Rust</td>
-        <td><a href="https://github.com/neon-mmd/websurfx" target="_blank">Websurfx</a></td>
-        <td>? An open source alternative to searx which provides a modern-looking ✨, lightning-fast ⚡, privacy respecting ?, secure ? meta search engine</td>
-        <th><a href="https://github.com/neon-mmd/websurfx" target="_blank"><img alt="Websurfx" src="https://img.shields.io/github/stars/neon-mmd/websurfx?style=social" /></a></th>
     </tr>
 
 </table>
@@ -2325,6 +2325,14 @@
         <td>A file-based routing for Node.js ?</td>
         <th><a href="https://github.com/Danilqa/node-file-router" target="_blank"><img alt="Node File Router" src="https://img.shields.io/github/stars/Danilqa/node-file-router?style=social" /></a></th>
     </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="jsoniter-scala" src="https://gitlibrary.club/images/uploads/2023/09/newshot-jsoniter-scala.png" /></td>
+        <td>Miscellaneous</td>
+        <td>Scala</td>
+        <td><a href="https://github.com/plokhotnyuk/jsoniter-scala" target="_blank">jsoniter-scala</a></td>
+        <td>Scala macros for compile-time generation of safe and ultra-fast JSON codecs</td>
+        <th><a href="https://github.com/plokhotnyuk/jsoniter-scala" target="_blank"><img alt="jsoniter-scala" src="https://img.shields.io/github/stars/plokhotnyuk/jsoniter-scala?style=social" /></a></th>
+    </tr>
 
 </table>
 
@@ -2586,6 +2594,14 @@
         <td><a href="https://docs.confident-ai.com/" target="_blank">DeepEval</a></td>
         <td>Unit Testing For LLMs</td>
         <th><a href="https://github.com/confident-ai/deepeval" target="_blank"><img alt="DeepEval" src="https://img.shields.io/github/stars/confident-ai/deepeval?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="LLMonitor" src="https://gitlibrary.club/images/uploads/2023/09/newshot-llmonitor.png" /></td>
+        <td>Observability</td>
+        <td>TypeScript</td>
+        <td><a href="https://llmonitor.com" target="_blank">LLMonitor</a></td>
+        <td>Open-source monitoring &amp; analytics for AI apps and agent</td>
+        <th><a href="https://github.com/llmonitor/llmonitor" target="_blank"><img alt="LLMonitor" src="https://img.shields.io/github/stars/llmonitor/llmonitor?style=social" /></a></th>
     </tr>
 
 </table>
@@ -8036,6 +8052,14 @@
         <td>Interactively explore unstructured datasets from your dataframe.</td>
         <th><a href="https://github.com/Renumics/spotlight" target="_blank"><img alt="renumics-spotlight" src="https://img.shields.io/github/stars/Renumics/spotlight?style=social" /></a></th>
     </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="LLMonitor" src="https://gitlibrary.club/images/uploads/2023/09/newshot-llmonitor.png" /></td>
+        <td>Observability</td>
+        <td>TypeScript</td>
+        <td><a href="https://llmonitor.com" target="_blank">LLMonitor</a></td>
+        <td>Open-source monitoring &amp; analytics for AI apps and agent</td>
+        <th><a href="https://github.com/llmonitor/llmonitor" target="_blank"><img alt="LLMonitor" src="https://img.shields.io/github/stars/llmonitor/llmonitor?style=social" /></a></th>
+    </tr>
 
 </table>
 
@@ -11795,6 +11819,14 @@
         <td><a href="https://delta.io" target="_blank">Delta Lake</a></td>
         <td>An open-source storage framework that enables building a Lakehouse architecture with compute engines including Spark, PrestoDB, Flink, Trino, and Hive and APIs</td>
         <th><a href="https://github.com/delta-io/delta" target="_blank"><img alt="Delta Lake" src="https://img.shields.io/github/stars/delta-io/delta?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="jsoniter-scala" src="https://gitlibrary.club/images/uploads/2023/09/newshot-jsoniter-scala.png" /></td>
+        <td>Miscellaneous</td>
+        <td>Scala</td>
+        <td><a href="https://github.com/plokhotnyuk/jsoniter-scala" target="_blank">jsoniter-scala</a></td>
+        <td>Scala macros for compile-time generation of safe and ultra-fast JSON codecs</td>
+        <th><a href="https://github.com/plokhotnyuk/jsoniter-scala" target="_blank"><img alt="jsoniter-scala" src="https://img.shields.io/github/stars/plokhotnyuk/jsoniter-scala?style=social" /></a></th>
     </tr>
 
 </table>
