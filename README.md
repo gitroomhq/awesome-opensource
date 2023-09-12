@@ -184,6 +184,14 @@
         <th><a href="https://github.com/vinijmoura/Azure-DevOps" target="_blank"><img alt="Azure-DevOps" src="https://img.shields.io/github/stars/vinijmoura/Azure-DevOps?style=social" /></a></th>
     </tr>
     <tr>
+        <td nowrap="nowrap"><img width="33" alt="Tweaked iOS Apps" src="https://gitlibrary.club/images/uploads/2023/09/newshot-Tweaked-iOS-Apps.jpg" /></td>
+        <td>Databases</td>
+        <td>Python</td>
+        <td><a href="https://github.com/purp0s3/Tweaked-iOS-Apps" target="_blank">Tweaked iOS Apps</a></td>
+        <td>Tweaks injected into iOS apps.</td>
+        <th><a href="https://github.com/purp0s3/Tweaked-iOS-Apps" target="_blank"><img alt="Tweaked iOS Apps" src="https://img.shields.io/github/stars/purp0s3/Tweaked-iOS-Apps?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="Node File Router" src="https://gitlibrary.club/images/uploads/2023/09/newshot-node-file-router.jpg" /></td>
         <td>Miscellaneous</td>
         <td>TypeScript</td>
@@ -310,14 +318,6 @@
         <td><a href="https://mastermindzh.github.io/react-cookie-consent/" target="_blank">react-cookie-consent</a></td>
         <td>A small, simple and customizable cookie consent bar for use in React applications.</td>
         <th><a href="https://github.com/Mastermindzh/react-cookie-consent" target="_blank"><img alt="react-cookie-consent" src="https://img.shields.io/github/stars/Mastermindzh/react-cookie-consent?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Maige" src="https://gitlibrary.club/images/uploads/2023/09/newshot-maige.jpg" /></td>
-        <td>Productivity</td>
-        <td>TypeScript</td>
-        <td><a href="https://maige.app" target="_blank">Maige</a></td>
-        <td>Issue-labeller powered by GPT.</td>
-        <th><a href="https://github.com/tedspare/maige" target="_blank"><img alt="Maige" src="https://img.shields.io/github/stars/tedspare/maige?style=social" /></a></th>
     </tr>
 
 </table>
@@ -5663,6 +5663,14 @@
         <td>Next-Gen ERD: Design, Explore, Document and Analyze your database</td>
         <th><a href="https://github.com/azimuttapp/azimutt" target="_blank"><img alt="Azimutt" src="https://img.shields.io/github/stars/azimuttapp/azimutt?style=social" /></a></th>
     </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Tweaked iOS Apps" src="https://gitlibrary.club/images/uploads/2023/09/newshot-Tweaked-iOS-Apps.jpg" /></td>
+        <td>Databases</td>
+        <td>Python</td>
+        <td><a href="https://github.com/purp0s3/Tweaked-iOS-Apps" target="_blank">Tweaked iOS Apps</a></td>
+        <td>Tweaks injected into iOS apps.</td>
+        <th><a href="https://github.com/purp0s3/Tweaked-iOS-Apps" target="_blank"><img alt="Tweaked iOS Apps" src="https://img.shields.io/github/stars/purp0s3/Tweaked-iOS-Apps?style=social" /></a></th>
+    </tr>
 
 </table>
 
@@ -10887,6 +10895,14 @@
         <td><a href="https://actions.cicirello.org/count-action-users/" target="_blank">count-action-users</a></td>
         <td>Generates Shields endpoint with number of users of a GitHub Action</td>
         <th><a href="https://github.com/cicirello/count-action-users" target="_blank"><img alt="count-action-users" src="https://img.shields.io/github/stars/cicirello/count-action-users?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Tweaked iOS Apps" src="https://gitlibrary.club/images/uploads/2023/09/newshot-Tweaked-iOS-Apps.jpg" /></td>
+        <td>Databases</td>
+        <td>Python</td>
+        <td><a href="https://github.com/purp0s3/Tweaked-iOS-Apps" target="_blank">Tweaked iOS Apps</a></td>
+        <td>Tweaks injected into iOS apps.</td>
+        <th><a href="https://github.com/purp0s3/Tweaked-iOS-Apps" target="_blank"><img alt="Tweaked iOS Apps" src="https://img.shields.io/github/stars/purp0s3/Tweaked-iOS-Apps?style=social" /></a></th>
     </tr>
 
 </table>
