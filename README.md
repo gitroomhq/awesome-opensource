@@ -160,6 +160,14 @@
         <th>Stargazers</th>
     </tr>
         <tr>
+        <td nowrap="nowrap"><img width="33" alt="The FEA Man" src="https://gitlibrary.club/images/uploads/2023/09/newshot-TheFEAMan.png" /></td>
+        <td>Miscellaneous</td>
+        <td>undefined</td>
+        <td><a href="https://pizofreude.github.io/TheFEAMan/" target="_blank">The FEA Man</a></td>
+        <td>This repository contains lecture notes, code examples, calculation resources, and tutorials related to Technical Mechanics and Finite Element Analysis. It's designed to be a learning resource for s…</td>
+        <th><a href="https://github.com/pizofreude/TheFEAMan" target="_blank"><img alt="The FEA Man" src="https://img.shields.io/github/stars/pizofreude/TheFEAMan?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="jsoniter-scala" src="https://gitlibrary.club/images/uploads/2023/09/newshot-jsoniter-scala.png" /></td>
         <td>Miscellaneous</td>
         <td>Scala</td>
@@ -192,6 +200,14 @@
         <th><a href="https://github.com/purp0s3/Tweaked-iOS-Apps" target="_blank"><img alt="Tweaked iOS Apps" src="https://img.shields.io/github/stars/purp0s3/Tweaked-iOS-Apps?style=social" /></a></th>
     </tr>
     <tr>
+        <td nowrap="nowrap"><img width="33" alt="Projectsveltos" src="https://gitlibrary.club/images/uploads/2023/09/newshot-addon-controller.png" /></td>
+        <td>Infrastructure</td>
+        <td>Go</td>
+        <td><a href="https://projectsveltos.github.io/sveltos/" target="_blank">Projectsveltos</a></td>
+        <td>Sveltos Kubernetes add-on controller programmatically deploys add-ons and applications in tens of clusters. Support for ClusterAPI powered clusters, Helm charts, kustomize ,YAMLs. Sveltos has built…</td>
+        <th><a href="https://github.com/projectsveltos/addon-controller" target="_blank"><img alt="Projectsveltos" src="https://img.shields.io/github/stars/projectsveltos/addon-controller?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="Node File Router" src="https://gitlibrary.club/images/uploads/2023/09/newshot-node-file-router.jpg" /></td>
         <td>Miscellaneous</td>
         <td>TypeScript</td>
@@ -206,14 +222,6 @@
         <td><a href="https://renumics.com" target="_blank">renumics-spotlight</a></td>
         <td>Interactively explore unstructured datasets from your dataframe.</td>
         <th><a href="https://github.com/Renumics/spotlight" target="_blank"><img alt="renumics-spotlight" src="https://img.shields.io/github/stars/Renumics/spotlight?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Projectsveltos" src="https://gitlibrary.club/images/uploads/2023/09/newshot-addon-controller.png" /></td>
-        <td>Infrastructure</td>
-        <td>Go</td>
-        <td><a href="https://projectsveltos.github.io/sveltos/" target="_blank">Projectsveltos</a></td>
-        <td>Sveltos Kubernetes add-on controller programmatically deploys add-ons and applications in tens of clusters. Support for ClusterAPI powered clusters, Helm charts, kustomize ,YAMLs. Sveltos has built…</td>
-        <th><a href="https://github.com/projectsveltos/addon-controller" target="_blank"><img alt="Projectsveltos" src="https://img.shields.io/github/stars/projectsveltos/addon-controller?style=social" /></a></th>
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="onnx-modifier" src="https://gitlibrary.club/images/uploads/2023/09/newshot-onnx-modifier-1.jpg" /></td>
@@ -310,14 +318,6 @@
         <td><a href="https://github.com/Mastermindzh/tidal-hifi" target="_blank">TIDAL Hi-Fi</a></td>
         <td>The web version of Tidal running in electron with hifi support thanks to widevine.</td>
         <th><a href="https://github.com/Mastermindzh/tidal-hifi" target="_blank"><img alt="TIDAL Hi-Fi" src="https://img.shields.io/github/stars/Mastermindzh/tidal-hifi?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="react-cookie-consent" src="https://gitlibrary.club/images/uploads/2023/09/newshot-react-cookie-consent.png" /></td>
-        <td>Miscellaneous</td>
-        <td>TypeScript</td>
-        <td><a href="https://mastermindzh.github.io/react-cookie-consent/" target="_blank">react-cookie-consent</a></td>
-        <td>A small, simple and customizable cookie consent bar for use in React applications.</td>
-        <th><a href="https://github.com/Mastermindzh/react-cookie-consent" target="_blank"><img alt="react-cookie-consent" src="https://img.shields.io/github/stars/Mastermindzh/react-cookie-consent?style=social" /></a></th>
     </tr>
 
 </table>
@@ -2333,6 +2333,14 @@
         <td>Scala macros for compile-time generation of safe and ultra-fast JSON codecs</td>
         <th><a href="https://github.com/plokhotnyuk/jsoniter-scala" target="_blank"><img alt="jsoniter-scala" src="https://img.shields.io/github/stars/plokhotnyuk/jsoniter-scala?style=social" /></a></th>
     </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="The FEA Man" src="https://gitlibrary.club/images/uploads/2023/09/newshot-TheFEAMan.png" /></td>
+        <td>Miscellaneous</td>
+        <td>undefined</td>
+        <td><a href="https://pizofreude.github.io/TheFEAMan/" target="_blank">The FEA Man</a></td>
+        <td>This repository contains lecture notes, code examples, calculation resources, and tutorials related to Technical Mechanics and Finite Element Analysis. It's designed to be a learning resource for s…</td>
+        <th><a href="https://github.com/pizofreude/TheFEAMan" target="_blank"><img alt="The FEA Man" src="https://img.shields.io/github/stars/pizofreude/TheFEAMan?style=social" /></a></th>
+    </tr>
 
 </table>
 
@@ -2928,6 +2936,14 @@
         <td><a href="https://github.com/GoodCoder666/GoogleTranslate_IPFinder" target="_blank">GoogleTranslate_IPFinder</a></td>
         <td>谷歌翻译服务器在中国大陆的IP地址扫描、测速工具，支持GUI图形界面。</td>
         <th><a href="https://github.com/GoodCoder666/GoogleTranslate_IPFinder" target="_blank"><img alt="GoogleTranslate_IPFinder" src="https://img.shields.io/github/stars/GoodCoder666/GoogleTranslate_IPFinder?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="What Script Run" src="https://gitlibrary.club/images/uploads/2023/08/newshot-what-script-run.jpg" /></td>
+        <td>Productivity</td>
+        <td>JavaScript</td>
+        <td><a href="https://github.com/ronaldohoch/what-script-run" target="_blank">What Script Run</a></td>
+        <td>Small helper to choose which npm script run.</td>
+        <th><a href="https://github.com/ronaldohoch/what-script-run" target="_blank"><img alt="What Script Run" src="https://img.shields.io/github/stars/ronaldohoch/what-script-run?style=social" /></a></th>
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="OneClickRun" src="https://gitlibrary.club/images/uploads/2023/08/newshot-OneClickRun.png" /></td>
@@ -4160,14 +4176,6 @@
         <td><a href="https://platform.uno/" target="_blank">Uno Platform</a></td>
         <td>Build Mobile, Desktop and WebAssembly apps with C# and XAML. Today. Open source and professionally supported.</td>
         <th><a href="https://github.com/unoplatform/uno" target="_blank"><img alt="Uno Platform" src="https://img.shields.io/github/stars/unoplatform/uno?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="What Script Run" src="https://gitlibrary.club/images/uploads/2023/08/newshot-what-script-run.jpg" /></td>
-        <td>Productivity</td>
-        <td>JavaScript</td>
-        <td><a href="https://github.com/ronaldohoch/what-script-run" target="_blank">What Script Run</a></td>
-        <td>Small helper to choose which npm script run.</td>
-        <th><a href="https://github.com/ronaldohoch/what-script-run" target="_blank"><img alt="What Script Run" src="https://img.shields.io/github/stars/ronaldohoch/what-script-run?style=social" /></a></th>
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="React Hooks Notes" src="https://gitlibrary.club/images/uploads/2023/08/newshot-react-hooks-notes.jpg" /></td>
@@ -5926,6 +5934,14 @@
         <th><a href="https://github.com/swirlai/swirl-search" target="_blank"><img alt="Swirl Search" src="https://img.shields.io/github/stars/swirlai/swirl-search?style=social" /></a></th>
     </tr>
     <tr>
+        <td nowrap="nowrap"><img width="33" alt="Projectsveltos" src="https://gitlibrary.club/images/uploads/2023/09/newshot-addon-controller.png" /></td>
+        <td>Infrastructure</td>
+        <td>Go</td>
+        <td><a href="https://projectsveltos.github.io/sveltos/" target="_blank">Projectsveltos</a></td>
+        <td>Sveltos Kubernetes add-on controller programmatically deploys add-ons and applications in tens of clusters. Support for ClusterAPI powered clusters, Helm charts, kustomize ,YAMLs. Sveltos has built…</td>
+        <th><a href="https://github.com/projectsveltos/addon-controller" target="_blank"><img alt="Projectsveltos" src="https://img.shields.io/github/stars/projectsveltos/addon-controller?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="ClusterFuzz" src="https://gitlibrary.club/images/uploads/2023/05/newshot-clusterfuzz.png" /></td>
         <td>Infrastructure</td>
         <td>Python</td>
@@ -6868,14 +6884,6 @@
         <td><a href="https://portkey.ai/features/ai-gateway" target="_blank">Rubeus</a></td>
         <td>A Blazing Fast AI Gateway by Portkey.ai</td>
         <th><a href="https://github.com/Portkey-AI/Rubeus" target="_blank"><img alt="Rubeus" src="https://img.shields.io/github/stars/Portkey-AI/Rubeus?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Projectsveltos" src="https://gitlibrary.club/images/uploads/2023/09/newshot-addon-controller.png" /></td>
-        <td>Infrastructure</td>
-        <td>Go</td>
-        <td><a href="https://projectsveltos.github.io/sveltos/" target="_blank">Projectsveltos</a></td>
-        <td>Sveltos Kubernetes add-on controller programmatically deploys add-ons and applications in tens of clusters. Support for ClusterAPI powered clusters, Helm charts, kustomize ,YAMLs. Sveltos has built…</td>
-        <th><a href="https://github.com/projectsveltos/addon-controller" target="_blank"><img alt="Projectsveltos" src="https://img.shields.io/github/stars/projectsveltos/addon-controller?style=social" /></a></th>
     </tr>
 
 </table>
@@ -8657,6 +8665,14 @@
         <th><a href="https://github.com/utkuozdemir/nvidia_gpu_exporter" target="_blank"><img alt="nvidia_gpu_exporter" src="https://img.shields.io/github/stars/utkuozdemir/nvidia_gpu_exporter?style=social" /></a></th>
     </tr>
     <tr>
+        <td nowrap="nowrap"><img width="33" alt="Projectsveltos" src="https://gitlibrary.club/images/uploads/2023/09/newshot-addon-controller.png" /></td>
+        <td>Infrastructure</td>
+        <td>Go</td>
+        <td><a href="https://projectsveltos.github.io/sveltos/" target="_blank">Projectsveltos</a></td>
+        <td>Sveltos Kubernetes add-on controller programmatically deploys add-ons and applications in tens of clusters. Support for ClusterAPI powered clusters, Helm charts, kustomize ,YAMLs. Sveltos has built…</td>
+        <th><a href="https://github.com/projectsveltos/addon-controller" target="_blank"><img alt="Projectsveltos" src="https://img.shields.io/github/stars/projectsveltos/addon-controller?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="Elvish Shell" src="https://gitlibrary.club/images/uploads/2023/05/newshot-elvish.jpg" /></td>
         <td>Productivity</td>
         <td>Go</td>
@@ -9040,14 +9056,6 @@
         <td>Open source cloud native security observability platform. Linux, K8s, AWS Fargate and more.</td>
         <th><a href="https://github.com/deepfence/ThreatMapper" target="_blank"><img alt="ThreatMapper" src="https://img.shields.io/github/stars/deepfence/ThreatMapper?style=social" /></a></th>
     </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Projectsveltos" src="https://gitlibrary.club/images/uploads/2023/09/newshot-addon-controller.png" /></td>
-        <td>Infrastructure</td>
-        <td>Go</td>
-        <td><a href="https://projectsveltos.github.io/sveltos/" target="_blank">Projectsveltos</a></td>
-        <td>Sveltos Kubernetes add-on controller programmatically deploys add-ons and applications in tens of clusters. Support for ClusterAPI powered clusters, Helm charts, kustomize ,YAMLs. Sveltos has built…</td>
-        <th><a href="https://github.com/projectsveltos/addon-controller" target="_blank"><img alt="Projectsveltos" src="https://img.shields.io/github/stars/projectsveltos/addon-controller?style=social" /></a></th>
-    </tr>
 
 </table>
 
@@ -9389,6 +9397,14 @@
         <th><a href="https://github.com/r3-team/r3" target="_blank"><img alt="REI3" src="https://img.shields.io/github/stars/r3-team/r3?style=social" /></a></th>
     </tr>
     <tr>
+        <td nowrap="nowrap"><img width="33" alt="What Script Run" src="https://gitlibrary.club/images/uploads/2023/08/newshot-what-script-run.jpg" /></td>
+        <td>Productivity</td>
+        <td>JavaScript</td>
+        <td><a href="https://github.com/ronaldohoch/what-script-run" target="_blank">What Script Run</a></td>
+        <td>Small helper to choose which npm script run.</td>
+        <th><a href="https://github.com/ronaldohoch/what-script-run" target="_blank"><img alt="What Script Run" src="https://img.shields.io/github/stars/ronaldohoch/what-script-run?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="Soundnode" src="https://gitlibrary.club/images/uploads/2023/05/newshot-soundnode-app.png" /></td>
         <td>Productivity</td>
         <td>JavaScript</td>
@@ -9691,14 +9707,6 @@
         <td><a href="https://github.com/ritikbanger/react18-input-otp" target="_blank">React18-input-otp</a></td>
         <td>A fully customizable, one-time password (OTP) and phone number with separator input component for the web built with React.</td>
         <th><a href="https://github.com/ritikbanger/react18-input-otp" target="_blank"><img alt="React18-input-otp" src="https://img.shields.io/github/stars/ritikbanger/react18-input-otp?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="What Script Run" src="https://gitlibrary.club/images/uploads/2023/08/newshot-what-script-run.jpg" /></td>
-        <td>Productivity</td>
-        <td>JavaScript</td>
-        <td><a href="https://github.com/ronaldohoch/what-script-run" target="_blank">What Script Run</a></td>
-        <td>Small helper to choose which npm script run.</td>
-        <th><a href="https://github.com/ronaldohoch/what-script-run" target="_blank"><img alt="What Script Run" src="https://img.shields.io/github/stars/ronaldohoch/what-script-run?style=social" /></a></th>
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="React Hooks Notes" src="https://gitlibrary.club/images/uploads/2023/08/newshot-react-hooks-notes.jpg" /></td>
