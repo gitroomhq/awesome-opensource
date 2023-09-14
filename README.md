@@ -160,6 +160,14 @@
         <th>Stargazers</th>
     </tr>
         <tr>
+        <td nowrap="nowrap"><img width="33" alt="nnom" src="https://gitlibrary.club/images/uploads/2023/09/newshot-nnom.jpg" /></td>
+        <td>Miscellaneous</td>
+        <td>C</td>
+        <td><a href="https://github.com/majianjia/nnom" target="_blank">nnom</a></td>
+        <td>A higher-level Neural Network library for microcontrollers.</td>
+        <th><a href="https://github.com/majianjia/nnom" target="_blank"><img alt="nnom" src="https://img.shields.io/github/stars/majianjia/nnom?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="pyatv" src="https://gitlibrary.club/images/uploads/2023/09/newshot-pyatv.jpg" /></td>
         <td>Miscellaneous</td>
         <td>Python</td>
@@ -310,14 +318,6 @@
         <td><a href="https://github.com/adamralph/minver" target="_blank">MinVer</a></td>
         <td>? Minimalistic versioning using Git tags.</td>
         <th><a href="https://github.com/adamralph/minver" target="_blank"><img alt="MinVer" src="https://img.shields.io/github/stars/adamralph/minver?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="GitQL" src="https://gitlibrary.club/images/uploads/2023/09/newshot-GQL.jpg" /></td>
-        <td>Productivity</td>
-        <td>Rust</td>
-        <td><a href="https://amrdeveloper.github.io/GQL/" target="_blank">GitQL</a></td>
-        <td>Git Query language is a SQL like query language to perform queries on multi repositories on the fly ?</td>
-        <th><a href="https://github.com/AmrDeveloper/GQL" target="_blank"><img alt="GitQL" src="https://img.shields.io/github/stars/AmrDeveloper/GQL?style=social" /></a></th>
     </tr>
 
 </table>
@@ -2356,6 +2356,14 @@
         <td><a href="https://actions.cicirello.org/javadoc-cleanup/" target="_blank">javadoc-cleanup</a></td>
         <td>Create mobile-friendly documentation sites by post-processing javadocs in GitHub Actions</td>
         <th><a href="https://github.com/cicirello/javadoc-cleanup" target="_blank"><img alt="javadoc-cleanup" src="https://img.shields.io/github/stars/cicirello/javadoc-cleanup?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="nnom" src="https://gitlibrary.club/images/uploads/2023/09/newshot-nnom.jpg" /></td>
+        <td>Miscellaneous</td>
+        <td>C</td>
+        <td><a href="https://github.com/majianjia/nnom" target="_blank">nnom</a></td>
+        <td>A higher-level Neural Network library for microcontrollers.</td>
+        <th><a href="https://github.com/majianjia/nnom" target="_blank"><img alt="nnom" src="https://img.shields.io/github/stars/majianjia/nnom?style=social" /></a></th>
     </tr>
 
 </table>
@@ -12551,6 +12559,14 @@
         <td><a href="https://github.com/jasonacox/Build-OpenSSL-cURL" target="_blank">Build OpenSSL-cURL for iOS</a></td>
         <td>Scripts to build OpenSSL, HTTP/2 (nghttp2) and cURL (libcurl) for MacOS, iOS and tvOS devices (x86_64, armv7, armv7s, arm64, arm64e). Now Supporting Apple Silicon, OpenSSL 3.0.x with TLS 1.3 and Ma…</td>
         <th><a href="https://github.com/jasonacox/Build-OpenSSL-cURL" target="_blank"><img alt="Build OpenSSL-cURL for iOS" src="https://img.shields.io/github/stars/jasonacox/Build-OpenSSL-cURL?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="nnom" src="https://gitlibrary.club/images/uploads/2023/09/newshot-nnom.jpg" /></td>
+        <td>Miscellaneous</td>
+        <td>C</td>
+        <td><a href="https://github.com/majianjia/nnom" target="_blank">nnom</a></td>
+        <td>A higher-level Neural Network library for microcontrollers.</td>
+        <th><a href="https://github.com/majianjia/nnom" target="_blank"><img alt="nnom" src="https://img.shields.io/github/stars/majianjia/nnom?style=social" /></a></th>
     </tr>
 
 </table>
