@@ -168,6 +168,30 @@
         <th><a href="https://github.com/majianjia/nnom" target="_blank"><img alt="nnom" src="https://img.shields.io/github/stars/majianjia/nnom?style=social" /></a></th>
     </tr>
     <tr>
+        <td nowrap="nowrap"><img width="33" alt="rstest" src="https://gitlibrary.club/images/uploads/2023/09/newshot-rstest.jpg" /></td>
+        <td>Productivity</td>
+        <td>Rust</td>
+        <td><a href="https://github.com/la10736/rstest" target="_blank">rstest</a></td>
+        <td>Fixture-based test framework for Rust</td>
+        <th><a href="https://github.com/la10736/rstest" target="_blank"><img alt="rstest" src="https://img.shields.io/github/stars/la10736/rstest?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="ezdxf" src="https://gitlibrary.club/images/uploads/2023/09/newshot-ezdxf.png" /></td>
+        <td>Infrastructure</td>
+        <td>Python</td>
+        <td><a href="https://ezdxf.mozman.at" target="_blank">ezdxf</a></td>
+        <td>Python interface to DXF</td>
+        <th><a href="https://github.com/mozman/ezdxf" target="_blank"><img alt="ezdxf" src="https://img.shields.io/github/stars/mozman/ezdxf?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="ezdxf" src="https://gitlibrary.club/images/uploads/2023/09/newshot-ezdxf-1.png" /></td>
+        <td>Infrastructure</td>
+        <td>Python</td>
+        <td><a href="https://ezdxf.mozman.at" target="_blank">ezdxf</a></td>
+        <td>Python interface to DXF</td>
+        <th><a href="https://github.com/mozman/ezdxf" target="_blank"><img alt="ezdxf" src="https://img.shields.io/github/stars/mozman/ezdxf?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="pyatv" src="https://gitlibrary.club/images/uploads/2023/09/newshot-pyatv.jpg" /></td>
         <td>Miscellaneous</td>
         <td>Python</td>
@@ -294,30 +318,6 @@
         <td><a href="https://tgui.eu" target="_blank">TGUI</a></td>
         <td>Cross-platform modern c++ GUI</td>
         <th><a href="https://github.com/texus/TGUI" target="_blank"><img alt="TGUI" src="https://img.shields.io/github/stars/texus/TGUI?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Bullseye" src="https://gitlibrary.club/images/uploads/2023/09/newshot-bullseye.jpg" /></td>
-        <td>Productivity</td>
-        <td>C#</td>
-        <td><a href="https://github.com/adamralph/bullseye" target="_blank">Bullseye</a></td>
-        <td>? A .NET library for running a target dependency graph.</td>
-        <th><a href="https://github.com/adamralph/bullseye" target="_blank"><img alt="Bullseye" src="https://img.shields.io/github/stars/adamralph/bullseye?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="SimpleExec" src="https://gitlibrary.club/images/uploads/2023/09/newshot-simple-exec.jpg" /></td>
-        <td>Productivity</td>
-        <td>C#</td>
-        <td><a href="https://github.com/adamralph/simple-exec" target="_blank">SimpleExec</a></td>
-        <td>? A .NET library that runs external commands.</td>
-        <th><a href="https://github.com/adamralph/simple-exec" target="_blank"><img alt="SimpleExec" src="https://img.shields.io/github/stars/adamralph/simple-exec?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="MinVer" src="https://gitlibrary.club/images/uploads/2023/09/newshot-minver.jpg" /></td>
-        <td>Productivity</td>
-        <td>C#</td>
-        <td><a href="https://github.com/adamralph/minver" target="_blank">MinVer</a></td>
-        <td>? Minimalistic versioning using Git tags.</td>
-        <th><a href="https://github.com/adamralph/minver" target="_blank"><img alt="MinVer" src="https://img.shields.io/github/stars/adamralph/minver?style=social" /></a></th>
     </tr>
 
 </table>
@@ -4417,6 +4417,14 @@
         <td>A tool to modify ONNX models in a visualization fashion, based on Netron and Flask.</td>
         <th><a href="https://github.com/ZhangGe6/onnx-modifier" target="_blank"><img alt="onnx-modifier" src="https://img.shields.io/github/stars/ZhangGe6/onnx-modifier?style=social" /></a></th>
     </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="rstest" src="https://gitlibrary.club/images/uploads/2023/09/newshot-rstest.jpg" /></td>
+        <td>Productivity</td>
+        <td>Rust</td>
+        <td><a href="https://github.com/la10736/rstest" target="_blank">rstest</a></td>
+        <td>Fixture-based test framework for Rust</td>
+        <th><a href="https://github.com/la10736/rstest" target="_blank"><img alt="rstest" src="https://img.shields.io/github/stars/la10736/rstest?style=social" /></a></th>
+    </tr>
 
 </table>
 
@@ -6917,6 +6925,22 @@
         <td>Generate an XML sitemap for a GitHub Pages site using GitHub Actions</td>
         <th><a href="https://github.com/cicirello/generate-sitemap" target="_blank"><img alt="generate-sitemap" src="https://img.shields.io/github/stars/cicirello/generate-sitemap?style=social" /></a></th>
     </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="ezdxf" src="https://gitlibrary.club/images/uploads/2023/09/newshot-ezdxf.png" /></td>
+        <td>Infrastructure</td>
+        <td>Python</td>
+        <td><a href="https://ezdxf.mozman.at" target="_blank">ezdxf</a></td>
+        <td>Python interface to DXF</td>
+        <th><a href="https://github.com/mozman/ezdxf" target="_blank"><img alt="ezdxf" src="https://img.shields.io/github/stars/mozman/ezdxf?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="ezdxf" src="https://gitlibrary.club/images/uploads/2023/09/newshot-ezdxf-1.png" /></td>
+        <td>Infrastructure</td>
+        <td>Python</td>
+        <td><a href="https://ezdxf.mozman.at" target="_blank">ezdxf</a></td>
+        <td>Python interface to DXF</td>
+        <th><a href="https://github.com/mozman/ezdxf" target="_blank"><img alt="ezdxf" src="https://img.shields.io/github/stars/mozman/ezdxf?style=social" /></a></th>
+    </tr>
 
 </table>
 
@@ -9294,6 +9318,14 @@
         <td>Terminal-based typing test.</td>
         <th><a href="https://github.com/max-niederman/ttyper" target="_blank"><img alt="ttyper" src="https://img.shields.io/github/stars/max-niederman/ttyper?style=social" /></a></th>
     </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="rstest" src="https://gitlibrary.club/images/uploads/2023/09/newshot-rstest.jpg" /></td>
+        <td>Productivity</td>
+        <td>Rust</td>
+        <td><a href="https://github.com/la10736/rstest" target="_blank">rstest</a></td>
+        <td>Fixture-based test framework for Rust</td>
+        <th><a href="https://github.com/la10736/rstest" target="_blank"><img alt="rstest" src="https://img.shields.io/github/stars/la10736/rstest?style=social" /></a></th>
+    </tr>
 
 </table>
 
@@ -10967,6 +10999,22 @@
         <td><a href="https://actions.cicirello.org/javadoc-cleanup/" target="_blank">javadoc-cleanup</a></td>
         <td>Create mobile-friendly documentation sites by post-processing javadocs in GitHub Actions</td>
         <th><a href="https://github.com/cicirello/javadoc-cleanup" target="_blank"><img alt="javadoc-cleanup" src="https://img.shields.io/github/stars/cicirello/javadoc-cleanup?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="ezdxf" src="https://gitlibrary.club/images/uploads/2023/09/newshot-ezdxf.png" /></td>
+        <td>Infrastructure</td>
+        <td>Python</td>
+        <td><a href="https://ezdxf.mozman.at" target="_blank">ezdxf</a></td>
+        <td>Python interface to DXF</td>
+        <th><a href="https://github.com/mozman/ezdxf" target="_blank"><img alt="ezdxf" src="https://img.shields.io/github/stars/mozman/ezdxf?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="ezdxf" src="https://gitlibrary.club/images/uploads/2023/09/newshot-ezdxf-1.png" /></td>
+        <td>Infrastructure</td>
+        <td>Python</td>
+        <td><a href="https://ezdxf.mozman.at" target="_blank">ezdxf</a></td>
+        <td>Python interface to DXF</td>
+        <th><a href="https://github.com/mozman/ezdxf" target="_blank"><img alt="ezdxf" src="https://img.shields.io/github/stars/mozman/ezdxf?style=social" /></a></th>
     </tr>
 
 </table>
