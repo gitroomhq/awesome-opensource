@@ -176,6 +176,14 @@
         <th><a href="https://github.com/KyleBing/typepad" target="_blank"><img alt="Typepad" src="https://img.shields.io/github/stars/KyleBing/typepad?style=social" /></a></th>
     </tr>
     <tr>
+        <td nowrap="nowrap"><img width="33" alt="mp-units" src="https://gitlibrary.club/images/uploads/2023/09/newshot-mp-units-1.jpg" /></td>
+        <td>Security</td>
+        <td>C++</td>
+        <td><a href="https://mpusz.github.io/mp-units/" target="_blank">mp-units</a></td>
+        <td>A Physical Quantities and Units library for C++</td>
+        <th><a href="https://github.com/mpusz/mp-units" target="_blank"><img alt="mp-units" src="https://img.shields.io/github/stars/mpusz/mp-units?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="nnom" src="https://gitlibrary.club/images/uploads/2023/09/newshot-nnom.jpg" /></td>
         <td>Miscellaneous</td>
         <td>C</td>
@@ -311,14 +319,6 @@
         <td>Interactively explore unstructured datasets from your dataframe.</td>
         <th><a href="https://github.com/Renumics/spotlight" target="_blank"><img alt="renumics-spotlight" src="https://img.shields.io/github/stars/Renumics/spotlight?style=social" /></a></th>
     </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="onnx-modifier" src="https://gitlibrary.club/images/uploads/2023/09/newshot-onnx-modifier-1.jpg" /></td>
-        <td>Productivity</td>
-        <td>JavaScript</td>
-        <td><a href="https://github.com/ZhangGe6/onnx-modifier" target="_blank">onnx-modifier</a></td>
-        <td>A tool to modify ONNX models in a visualization fashion, based on Netron and Flask.</td>
-        <th><a href="https://github.com/ZhangGe6/onnx-modifier" target="_blank"><img alt="onnx-modifier" src="https://img.shields.io/github/stars/ZhangGe6/onnx-modifier?style=social" /></a></th>
-    </tr>
 
 </table>
 
@@ -439,20 +439,20 @@
         <th><a href="https://github.com/kubescape/kubescape" target="_blank"><img alt="Kubescape" src="https://img.shields.io/github/stars/kubescape/kubescape?style=social" /></a></th>
     </tr>
     <tr>
-        <td nowrap="nowrap"><img width="33" alt="Chips-n-Salsa" src="https://gitlibrary.club/images/uploads/2023/08/newshot-Chips-n-Salsa.jpg" /></td>
-        <td>Miscellaneous</td>
-        <td>Java</td>
-        <td><a href="https://chips-n-salsa.cicirello.org/" target="_blank">Chips-n-Salsa</a></td>
-        <td>A Java library of Customizable, Hybridizable, Iterative, Parallel, Stochastic, and Self-Adaptive Local Search Algorithms</td>
-        <th><a href="https://github.com/cicirello/Chips-n-Salsa" target="_blank"><img alt="Chips-n-Salsa" src="https://img.shields.io/github/stars/cicirello/Chips-n-Salsa?style=social" /></a></th>
-    </tr>
-    <tr>
         <td nowrap="nowrap"><img width="33" alt="Appwrite" src="https://gitlibrary.club/images/uploads/2023/05/newshot-appwrite.png" /></td>
         <td>Databases</td>
         <td>TypeScript</td>
         <td><a href="https://appwrite.io" target="_blank">Appwrite</a></td>
         <td>Build Fast. Scale Big. All in One Place.</td>
         <th><a href="https://github.com/appwrite/appwrite" target="_blank"><img alt="Appwrite" src="https://img.shields.io/github/stars/appwrite/appwrite?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Chips-n-Salsa" src="https://gitlibrary.club/images/uploads/2023/08/newshot-Chips-n-Salsa.jpg" /></td>
+        <td>Miscellaneous</td>
+        <td>Java</td>
+        <td><a href="https://chips-n-salsa.cicirello.org/" target="_blank">Chips-n-Salsa</a></td>
+        <td>A Java library of Customizable, Hybridizable, Iterative, Parallel, Stochastic, and Self-Adaptive Local Search Algorithms</td>
+        <th><a href="https://github.com/cicirello/Chips-n-Salsa" target="_blank"><img alt="Chips-n-Salsa" src="https://img.shields.io/github/stars/cicirello/Chips-n-Salsa?style=social" /></a></th>
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="Hook0" src="https://gitlibrary.club/images/uploads/2023/08/newshot-hook0.png" /></td>
@@ -5188,6 +5188,14 @@
         <td><a href="https://supertokens.com" target="_blank">SuperTokens</a></td>
         <td>Open source alternative to Auth0 / Firebase Auth / AWS Cognito </td>
         <th><a href="https://github.com/supertokens/supertokens-core" target="_blank"><img alt="SuperTokens" src="https://img.shields.io/github/stars/supertokens/supertokens-core?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="mp-units" src="https://gitlibrary.club/images/uploads/2023/09/newshot-mp-units-1.jpg" /></td>
+        <td>Security</td>
+        <td>C++</td>
+        <td><a href="https://mpusz.github.io/mp-units/" target="_blank">mp-units</a></td>
+        <td>A Physical Quantities and Units library for C++</td>
+        <th><a href="https://github.com/mpusz/mp-units" target="_blank"><img alt="mp-units" src="https://img.shields.io/github/stars/mpusz/mp-units?style=social" /></a></th>
     </tr>
 
 </table>
@@ -11921,6 +11929,14 @@
         <td><a href="https://walkccc.me/LeetCode" target="_blank">LeetCode</a></td>
         <td>? LeetCode in C++17/Java/Python with good readability and consistent style (respect coding convention).</td>
         <th><a href="https://github.com/walkccc/LeetCode" target="_blank"><img alt="LeetCode" src="https://img.shields.io/github/stars/walkccc/LeetCode?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="mp-units" src="https://gitlibrary.club/images/uploads/2023/09/newshot-mp-units-1.jpg" /></td>
+        <td>Security</td>
+        <td>C++</td>
+        <td><a href="https://mpusz.github.io/mp-units/" target="_blank">mp-units</a></td>
+        <td>A Physical Quantities and Units library for C++</td>
+        <th><a href="https://github.com/mpusz/mp-units" target="_blank"><img alt="mp-units" src="https://img.shields.io/github/stars/mpusz/mp-units?style=social" /></a></th>
     </tr>
 
 </table>
