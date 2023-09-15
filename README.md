@@ -248,20 +248,20 @@
         <th><a href="https://github.com/cicirello/generate-sitemap" target="_blank"><img alt="generate-sitemap" src="https://img.shields.io/github/stars/cicirello/generate-sitemap?style=social" /></a></th>
     </tr>
     <tr>
-        <td nowrap="nowrap"><img width="33" alt="pyatv" src="https://gitlibrary.club/images/uploads/2023/09/newshot-pyatv.jpg" /></td>
-        <td>Miscellaneous</td>
-        <td>Python</td>
-        <td><a href="https://pyatv.dev" target="_blank">pyatv</a></td>
-        <td>A client library for Apple TV and AirPlay devices</td>
-        <th><a href="https://github.com/postlund/pyatv" target="_blank"><img alt="pyatv" src="https://img.shields.io/github/stars/postlund/pyatv?style=social" /></a></th>
-    </tr>
-    <tr>
         <td nowrap="nowrap"><img width="33" alt="javadoc-cleanup" src="https://gitlibrary.club/images/uploads/2023/09/newshot-javadoc-cleanup.jpg" /></td>
         <td>Miscellaneous</td>
         <td>Python</td>
         <td><a href="https://actions.cicirello.org/javadoc-cleanup/" target="_blank">javadoc-cleanup</a></td>
         <td>Create mobile-friendly documentation sites by post-processing javadocs in GitHub Actions</td>
         <th><a href="https://github.com/cicirello/javadoc-cleanup" target="_blank"><img alt="javadoc-cleanup" src="https://img.shields.io/github/stars/cicirello/javadoc-cleanup?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="pyatv" src="https://gitlibrary.club/images/uploads/2023/09/newshot-pyatv.jpg" /></td>
+        <td>Miscellaneous</td>
+        <td>Python</td>
+        <td><a href="https://pyatv.dev" target="_blank">pyatv</a></td>
+        <td>A client library for Apple TV and AirPlay devices</td>
+        <th><a href="https://github.com/postlund/pyatv" target="_blank"><img alt="pyatv" src="https://img.shields.io/github/stars/postlund/pyatv?style=social" /></a></th>
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="The FEA Man" src="https://gitlibrary.club/images/uploads/2023/09/newshot-TheFEAMan.png" /></td>
@@ -695,6 +695,14 @@
         <th><a href="https://github.com/inlang/inlang" target="_blank"><img alt="inlang" src="https://img.shields.io/github/stars/inlang/inlang?style=social" /></a></th>
     </tr>
     <tr>
+        <td nowrap="nowrap"><img width="33" alt="core" src="https://gitlibrary.club/images/uploads/2023/09/newshot-core.jpg" /></td>
+        <td>Miscellaneous</td>
+        <td>Java</td>
+        <td><a href="https://core.cicirello.org" target="_blank">core</a></td>
+        <td>Utilities and data structures used by several of my projects</td>
+        <th><a href="https://github.com/cicirello/core" target="_blank"><img alt="core" src="https://img.shields.io/github/stars/cicirello/core?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="user-statistician" src="https://gitlibrary.club/images/uploads/2023/09/newshot-user-statistician.jpg" /></td>
         <td>Analytics</td>
         <td>Python</td>
@@ -863,20 +871,28 @@
         <th><a href="https://github.com/medplum/medplum" target="_blank"><img alt="Medplum" src="https://img.shields.io/github/stars/medplum/medplum?style=social" /></a></th>
     </tr>
     <tr>
-        <td nowrap="nowrap"><img width="33" alt="core" src="https://gitlibrary.club/images/uploads/2023/09/newshot-core.jpg" /></td>
-        <td>Miscellaneous</td>
-        <td>Java</td>
-        <td><a href="https://core.cicirello.org" target="_blank">core</a></td>
-        <td>Utilities and data structures used by several of my projects</td>
-        <th><a href="https://github.com/cicirello/core" target="_blank"><img alt="core" src="https://img.shields.io/github/stars/cicirello/core?style=social" /></a></th>
-    </tr>
-    <tr>
         <td nowrap="nowrap"><img width="33" alt="Sniffnet" src="https://gitlibrary.club/images/uploads/2023/09/newshot-sniffnet.jpg" /></td>
         <td>Security</td>
         <td>Rust</td>
         <td><a href="https://sniffnet.net" target="_blank">Sniffnet</a></td>
         <td>Application to comfortably monitor your Internet traffic ?️‍♂️</td>
         <th><a href="https://github.com/GyulyVGC/sniffnet" target="_blank"><img alt="Sniffnet" src="https://img.shields.io/github/stars/GyulyVGC/sniffnet?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="generate-sitemap" src="https://gitlibrary.club/images/uploads/2023/09/newshot-generate-sitemap.jpg" /></td>
+        <td>Infrastructure</td>
+        <td>Python</td>
+        <td><a href="https://actions.cicirello.org/generate-sitemap/" target="_blank">generate-sitemap</a></td>
+        <td>Generate an XML sitemap for a GitHub Pages site using GitHub Actions</td>
+        <th><a href="https://github.com/cicirello/generate-sitemap" target="_blank"><img alt="generate-sitemap" src="https://img.shields.io/github/stars/cicirello/generate-sitemap?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="javadoc-cleanup" src="https://gitlibrary.club/images/uploads/2023/09/newshot-javadoc-cleanup.jpg" /></td>
+        <td>Miscellaneous</td>
+        <td>Python</td>
+        <td><a href="https://actions.cicirello.org/javadoc-cleanup/" target="_blank">javadoc-cleanup</a></td>
+        <td>Create mobile-friendly documentation sites by post-processing javadocs in GitHub Actions</td>
+        <th><a href="https://github.com/cicirello/javadoc-cleanup" target="_blank"><img alt="javadoc-cleanup" src="https://img.shields.io/github/stars/cicirello/javadoc-cleanup?style=social" /></a></th>
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="Mirage JS" src="https://gitlibrary.club/images/uploads/2023/05/newshot-miragejs.png" /></td>
@@ -1118,22 +1134,6 @@
         <td>Lightweight Telegram API framework for Node.js</td>
         <th><a href="https://github.com/NivEz/telenode" target="_blank"><img alt="Telenode" src="https://img.shields.io/github/stars/NivEz/telenode?style=social" /></a></th>
     </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Eventual Shop" src="https://gitlibrary.club/images/uploads/2023/05/newshot-EventualShop.jpg" /></td>
-        <td>Miscellaneous</td>
-        <td>C#</td>
-        <td><a href="https://github.com/AntonioFalcaoJr/EventualShop/blob/release/README.md#bulb-about" target="_blank">Eventual Shop</a></td>
-        <td>A state-of-the-art distributed system using Reactive DDD as uncertainty modeling, Event Storming as subdomain decomposition, Event Sourcing as an eventual persistence mechanism, CQRS, Async Project…</td>
-        <th><a href="https://github.com/AntonioFalcaoJr/EventualShop" target="_blank"><img alt="Eventual Shop" src="https://img.shields.io/github/stars/AntonioFalcaoJr/EventualShop?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Dub" src="https://gitlibrary.club/images/uploads/2023/05/newshot-dub.jpg" /></td>
-        <td>Productivity</td>
-        <td>TypeScript</td>
-        <td><a href="https://dub.sh" target="_blank">Dub</a></td>
-        <td>An open-source link shortener with built-in analytics + free custom domains.</td>
-        <th><a href="https://github.com/steven-tey/dub" target="_blank"><img alt="Dub" src="https://img.shields.io/github/stars/steven-tey/dub?style=social" /></a></th>
-    </tr>
 
 </table>
 
@@ -1214,6 +1214,14 @@
         <th><a href="https://github.com/openstatusHQ/openstatus" target="_blank"><img alt="OpenStatus" src="https://img.shields.io/github/stars/openstatusHQ/openstatus?style=social" /></a></th>
     </tr>
     <tr>
+        <td nowrap="nowrap"><img width="33" alt="core" src="https://gitlibrary.club/images/uploads/2023/09/newshot-core.jpg" /></td>
+        <td>Miscellaneous</td>
+        <td>Java</td>
+        <td><a href="https://core.cicirello.org" target="_blank">core</a></td>
+        <td>Utilities and data structures used by several of my projects</td>
+        <th><a href="https://github.com/cicirello/core" target="_blank"><img alt="core" src="https://img.shields.io/github/stars/cicirello/core?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="GitHub Support" src="https://gitlibrary.club/images/uploads/2023/05/newshot-dmca.png" /></td>
         <td>Miscellaneous</td>
         <td>undefined</td>
@@ -1270,12 +1278,12 @@
         <th><a href="https://github.com/meganetaaan/stack-chan" target="_blank"><img alt="Stack-chan" src="https://img.shields.io/github/stars/meganetaaan/stack-chan?style=social" /></a></th>
     </tr>
     <tr>
-        <td nowrap="nowrap"><img width="33" alt="core" src="https://gitlibrary.club/images/uploads/2023/09/newshot-core.jpg" /></td>
+        <td nowrap="nowrap"><img width="33" alt="javadoc-cleanup" src="https://gitlibrary.club/images/uploads/2023/09/newshot-javadoc-cleanup.jpg" /></td>
         <td>Miscellaneous</td>
-        <td>Java</td>
-        <td><a href="https://core.cicirello.org" target="_blank">core</a></td>
-        <td>Utilities and data structures used by several of my projects</td>
-        <th><a href="https://github.com/cicirello/core" target="_blank"><img alt="core" src="https://img.shields.io/github/stars/cicirello/core?style=social" /></a></th>
+        <td>Python</td>
+        <td><a href="https://actions.cicirello.org/javadoc-cleanup/" target="_blank">javadoc-cleanup</a></td>
+        <td>Create mobile-friendly documentation sites by post-processing javadocs in GitHub Actions</td>
+        <th><a href="https://github.com/cicirello/javadoc-cleanup" target="_blank"><img alt="javadoc-cleanup" src="https://img.shields.io/github/stars/cicirello/javadoc-cleanup?style=social" /></a></th>
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="wirepig" src="https://gitlibrary.club/images/uploads/2023/05/newshot-wirepig.jpg" /></td>
@@ -1436,14 +1444,6 @@
         <td><a href="https://pyatv.dev" target="_blank">pyatv</a></td>
         <td>A client library for Apple TV and AirPlay devices</td>
         <th><a href="https://github.com/postlund/pyatv" target="_blank"><img alt="pyatv" src="https://img.shields.io/github/stars/postlund/pyatv?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="javadoc-cleanup" src="https://gitlibrary.club/images/uploads/2023/09/newshot-javadoc-cleanup.jpg" /></td>
-        <td>Miscellaneous</td>
-        <td>Python</td>
-        <td><a href="https://actions.cicirello.org/javadoc-cleanup/" target="_blank">javadoc-cleanup</a></td>
-        <td>Create mobile-friendly documentation sites by post-processing javadocs in GitHub Actions</td>
-        <th><a href="https://github.com/cicirello/javadoc-cleanup" target="_blank"><img alt="javadoc-cleanup" src="https://img.shields.io/github/stars/cicirello/javadoc-cleanup?style=social" /></a></th>
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="Cemu Emulator" src="https://gitlibrary.club/images/uploads/2023/05/newshot-Cemu.png" /></td>
@@ -5862,6 +5862,14 @@
         <th><a href="https://github.com/medplum/medplum" target="_blank"><img alt="Medplum" src="https://img.shields.io/github/stars/medplum/medplum?style=social" /></a></th>
     </tr>
     <tr>
+        <td nowrap="nowrap"><img width="33" alt="generate-sitemap" src="https://gitlibrary.club/images/uploads/2023/09/newshot-generate-sitemap.jpg" /></td>
+        <td>Infrastructure</td>
+        <td>Python</td>
+        <td><a href="https://actions.cicirello.org/generate-sitemap/" target="_blank">generate-sitemap</a></td>
+        <td>Generate an XML sitemap for a GitHub Pages site using GitHub Actions</td>
+        <th><a href="https://github.com/cicirello/generate-sitemap" target="_blank"><img alt="generate-sitemap" src="https://img.shields.io/github/stars/cicirello/generate-sitemap?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="Hyperf" src="https://gitlibrary.club/images/uploads/2023/05/newshot-hyperf.jpg" /></td>
         <td>Infrastructure</td>
         <td>PHP</td>
@@ -6012,14 +6020,6 @@
         <td><a href="https://projectsveltos.github.io/sveltos/" target="_blank">Projectsveltos</a></td>
         <td>Sveltos Kubernetes add-on controller programmatically deploys add-ons and applications in tens of clusters. Support for ClusterAPI powered clusters, Helm charts, kustomize ,YAMLs. Sveltos has built…</td>
         <th><a href="https://github.com/projectsveltos/addon-controller" target="_blank"><img alt="Projectsveltos" src="https://img.shields.io/github/stars/projectsveltos/addon-controller?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="generate-sitemap" src="https://gitlibrary.club/images/uploads/2023/09/newshot-generate-sitemap.jpg" /></td>
-        <td>Infrastructure</td>
-        <td>Python</td>
-        <td><a href="https://actions.cicirello.org/generate-sitemap/" target="_blank">generate-sitemap</a></td>
-        <td>Generate an XML sitemap for a GitHub Pages site using GitHub Actions</td>
-        <th><a href="https://github.com/cicirello/generate-sitemap" target="_blank"><img alt="generate-sitemap" src="https://img.shields.io/github/stars/cicirello/generate-sitemap?style=social" /></a></th>
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="ClusterFuzz" src="https://gitlibrary.club/images/uploads/2023/05/newshot-clusterfuzz.png" /></td>
@@ -9215,6 +9215,14 @@
         <th><a href="https://github.com/cicirello/rho-mu" target="_blank"><img alt="ρμ" src="https://img.shields.io/github/stars/cicirello/rho-mu?style=social" /></a></th>
     </tr>
     <tr>
+        <td nowrap="nowrap"><img width="33" alt="core" src="https://gitlibrary.club/images/uploads/2023/09/newshot-core.jpg" /></td>
+        <td>Miscellaneous</td>
+        <td>Java</td>
+        <td><a href="https://core.cicirello.org" target="_blank">core</a></td>
+        <td>Utilities and data structures used by several of my projects</td>
+        <th><a href="https://github.com/cicirello/core" target="_blank"><img alt="core" src="https://img.shields.io/github/stars/cicirello/core?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="JUnitorg." src="https://gitlibrary.club/images/uploads/2023/05/newshot-junit5.png" /></td>
         <td>Infrastructure</td>
         <td>Java</td>
@@ -9229,14 +9237,6 @@
         <td><a href="https://boykaframework.github.io/boyka-framework/" target="_blank">boyka-framework</a></td>
         <td> <g-emoji class="g-emoji" alias="tada" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f389.png">?</g-emoji> Ultimate test automation framework for automating any application on any platform</td>
         <th><a href="https://github.com/BoykaFramework/boyka-framework" target="_blank"><img alt="boyka-framework" src="https://img.shields.io/github/stars/BoykaFramework/boyka-framework?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="core" src="https://gitlibrary.club/images/uploads/2023/09/newshot-core.jpg" /></td>
-        <td>Miscellaneous</td>
-        <td>Java</td>
-        <td><a href="https://core.cicirello.org" target="_blank">core</a></td>
-        <td>Utilities and data structures used by several of my projects</td>
-        <th><a href="https://github.com/cicirello/core" target="_blank"><img alt="core" src="https://img.shields.io/github/stars/cicirello/core?style=social" /></a></th>
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="Micronaut Framework" src="https://gitlibrary.club/images/uploads/2023/05/newshot-micronaut-core.png" /></td>
@@ -10321,6 +10321,22 @@
         <th><a href="https://github.com/uripeled2/llm-client-sdk" target="_blank"><img alt="llm-client" src="https://img.shields.io/github/stars/uripeled2/llm-client-sdk?style=social" /></a></th>
     </tr>
     <tr>
+        <td nowrap="nowrap"><img width="33" alt="generate-sitemap" src="https://gitlibrary.club/images/uploads/2023/09/newshot-generate-sitemap.jpg" /></td>
+        <td>Infrastructure</td>
+        <td>Python</td>
+        <td><a href="https://actions.cicirello.org/generate-sitemap/" target="_blank">generate-sitemap</a></td>
+        <td>Generate an XML sitemap for a GitHub Pages site using GitHub Actions</td>
+        <th><a href="https://github.com/cicirello/generate-sitemap" target="_blank"><img alt="generate-sitemap" src="https://img.shields.io/github/stars/cicirello/generate-sitemap?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="javadoc-cleanup" src="https://gitlibrary.club/images/uploads/2023/09/newshot-javadoc-cleanup.jpg" /></td>
+        <td>Miscellaneous</td>
+        <td>Python</td>
+        <td><a href="https://actions.cicirello.org/javadoc-cleanup/" target="_blank">javadoc-cleanup</a></td>
+        <td>Create mobile-friendly documentation sites by post-processing javadocs in GitHub Actions</td>
+        <th><a href="https://github.com/cicirello/javadoc-cleanup" target="_blank"><img alt="javadoc-cleanup" src="https://img.shields.io/github/stars/cicirello/javadoc-cleanup?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="DocsGPT" src="https://gitlibrary.club/images/uploads/2023/05/newshot-DocsGPT.png" /></td>
         <td>Productivity</td>
         <td>Python</td>
@@ -10441,28 +10457,12 @@
         <th><a href="https://github.com/swirlai/swirl-search" target="_blank"><img alt="Swirl Search" src="https://img.shields.io/github/stars/swirlai/swirl-search?style=social" /></a></th>
     </tr>
     <tr>
-        <td nowrap="nowrap"><img width="33" alt="generate-sitemap" src="https://gitlibrary.club/images/uploads/2023/09/newshot-generate-sitemap.jpg" /></td>
-        <td>Infrastructure</td>
-        <td>Python</td>
-        <td><a href="https://actions.cicirello.org/generate-sitemap/" target="_blank">generate-sitemap</a></td>
-        <td>Generate an XML sitemap for a GitHub Pages site using GitHub Actions</td>
-        <th><a href="https://github.com/cicirello/generate-sitemap" target="_blank"><img alt="generate-sitemap" src="https://img.shields.io/github/stars/cicirello/generate-sitemap?style=social" /></a></th>
-    </tr>
-    <tr>
         <td nowrap="nowrap"><img width="33" alt="pyatv" src="https://gitlibrary.club/images/uploads/2023/09/newshot-pyatv.jpg" /></td>
         <td>Miscellaneous</td>
         <td>Python</td>
         <td><a href="https://pyatv.dev" target="_blank">pyatv</a></td>
         <td>A client library for Apple TV and AirPlay devices</td>
         <th><a href="https://github.com/postlund/pyatv" target="_blank"><img alt="pyatv" src="https://img.shields.io/github/stars/postlund/pyatv?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="javadoc-cleanup" src="https://gitlibrary.club/images/uploads/2023/09/newshot-javadoc-cleanup.jpg" /></td>
-        <td>Miscellaneous</td>
-        <td>Python</td>
-        <td><a href="https://actions.cicirello.org/javadoc-cleanup/" target="_blank">javadoc-cleanup</a></td>
-        <td>Create mobile-friendly documentation sites by post-processing javadocs in GitHub Actions</td>
-        <th><a href="https://github.com/cicirello/javadoc-cleanup" target="_blank"><img alt="javadoc-cleanup" src="https://img.shields.io/github/stars/cicirello/javadoc-cleanup?style=social" /></a></th>
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="ClusterFuzz" src="https://gitlibrary.club/images/uploads/2023/05/newshot-clusterfuzz.png" /></td>
