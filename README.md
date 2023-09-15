@@ -184,6 +184,14 @@
         <th><a href="https://github.com/mpusz/mp-units" target="_blank"><img alt="mp-units" src="https://img.shields.io/github/stars/mpusz/mp-units?style=social" /></a></th>
     </tr>
     <tr>
+        <td nowrap="nowrap"><img width="33" alt="Svix Webhooks" src="https://gitlibrary.club/images/uploads/2023/09/newshot-svix-webhooks.png" /></td>
+        <td>Infrastructure</td>
+        <td>Rust</td>
+        <td><a href="https://www.svix.com" target="_blank">Svix Webhooks</a></td>
+        <td>The enterprise-ready webhooks service ?</td>
+        <th><a href="https://github.com/svix/svix-webhooks" target="_blank"><img alt="Svix Webhooks" src="https://img.shields.io/github/stars/svix/svix-webhooks?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="nnom" src="https://gitlibrary.club/images/uploads/2023/09/newshot-nnom.jpg" /></td>
         <td>Miscellaneous</td>
         <td>C</td>
@@ -310,14 +318,6 @@
         <td><a href="https://danilqa.github.io/node-file-router/" target="_blank">Node File Router</a></td>
         <td>A file-based routing for Node.js ?</td>
         <th><a href="https://github.com/Danilqa/node-file-router" target="_blank"><img alt="Node File Router" src="https://img.shields.io/github/stars/Danilqa/node-file-router?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="renumics-spotlight" src="https://gitlibrary.club/images/uploads/2023/09/newshot-spotlight.png" /></td>
-        <td>Analytics</td>
-        <td>TypeScript</td>
-        <td><a href="https://renumics.com" target="_blank">renumics-spotlight</a></td>
-        <td>Interactively explore unstructured datasets from your dataframe.</td>
-        <th><a href="https://github.com/Renumics/spotlight" target="_blank"><img alt="renumics-spotlight" src="https://img.shields.io/github/stars/Renumics/spotlight?style=social" /></a></th>
     </tr>
 
 </table>
@@ -6981,6 +6981,14 @@
         <td>Python interface to DXF</td>
         <th><a href="https://github.com/mozman/ezdxf" target="_blank"><img alt="ezdxf" src="https://img.shields.io/github/stars/mozman/ezdxf?style=social" /></a></th>
     </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Svix Webhooks" src="https://gitlibrary.club/images/uploads/2023/09/newshot-svix-webhooks.png" /></td>
+        <td>Infrastructure</td>
+        <td>Rust</td>
+        <td><a href="https://www.svix.com" target="_blank">Svix Webhooks</a></td>
+        <td>The enterprise-ready webhooks service ?</td>
+        <th><a href="https://github.com/svix/svix-webhooks" target="_blank"><img alt="Svix Webhooks" src="https://img.shields.io/github/stars/svix/svix-webhooks?style=social" /></a></th>
+    </tr>
 
 </table>
 
@@ -9723,6 +9731,14 @@
         <td><a href="https://github.com/la10736/rstest" target="_blank">rstest</a></td>
         <td>Fixture-based test framework for Rust</td>
         <th><a href="https://github.com/la10736/rstest" target="_blank"><img alt="rstest" src="https://img.shields.io/github/stars/la10736/rstest?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Svix Webhooks" src="https://gitlibrary.club/images/uploads/2023/09/newshot-svix-webhooks.png" /></td>
+        <td>Infrastructure</td>
+        <td>Rust</td>
+        <td><a href="https://www.svix.com" target="_blank">Svix Webhooks</a></td>
+        <td>The enterprise-ready webhooks service ?</td>
+        <th><a href="https://github.com/svix/svix-webhooks" target="_blank"><img alt="Svix Webhooks" src="https://img.shields.io/github/stars/svix/svix-webhooks?style=social" /></a></th>
     </tr>
 
 </table>
