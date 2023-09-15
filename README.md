@@ -160,6 +160,22 @@
         <th>Stargazers</th>
     </tr>
         <tr>
+        <td nowrap="nowrap"><img width="33" alt="Life Log" src="https://gitlibrary.club/images/uploads/2023/09/newshot-diary.png" /></td>
+        <td>Productivity</td>
+        <td>Vue</td>
+        <td><a href="http://kylebing.cn/diary" target="_blank">Life Log</a></td>
+        <td>《标题日记》web 纯文字日记应用，分类日记，共享日记 Headline Diary, web app, text only, summary of the day | Vue3 | PC &amp; Mobile</td>
+        <th><a href="https://github.com/KyleBing/diary" target="_blank"><img alt="Life Log" src="https://img.shields.io/github/stars/KyleBing/diary?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Typepad" src="https://gitlibrary.club/images/uploads/2023/09/newshot-typepad.png" /></td>
+        <td>Productivity</td>
+        <td>JavaScript</td>
+        <td><a href="https://kylebing.cn/tools/typepad/" target="_blank">Typepad</a></td>
+        <td>玫枫跟打器：五笔跟打器（网页版）</td>
+        <th><a href="https://github.com/KyleBing/typepad" target="_blank"><img alt="Typepad" src="https://img.shields.io/github/stars/KyleBing/typepad?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="nnom" src="https://gitlibrary.club/images/uploads/2023/09/newshot-nnom.jpg" /></td>
         <td>Miscellaneous</td>
         <td>C</td>
@@ -302,22 +318,6 @@
         <td><a href="https://github.com/ZhangGe6/onnx-modifier" target="_blank">onnx-modifier</a></td>
         <td>A tool to modify ONNX models in a visualization fashion, based on Netron and Flask.</td>
         <th><a href="https://github.com/ZhangGe6/onnx-modifier" target="_blank"><img alt="onnx-modifier" src="https://img.shields.io/github/stars/ZhangGe6/onnx-modifier?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Flyleaf" src="https://gitlibrary.club/images/uploads/2023/09/newshot-Flyleaf.jpg" /></td>
-        <td>Productivity</td>
-        <td>C#</td>
-        <td><a href="https://github.com/SuRGeoNix/Flyleaf" target="_blank">Flyleaf</a></td>
-        <td>Media Player .NET Library for WinUI 3/ WPF/WinForms (based on FFmpeg/DirectX)</td>
-        <th><a href="https://github.com/SuRGeoNix/Flyleaf" target="_blank"><img alt="Flyleaf" src="https://img.shields.io/github/stars/SuRGeoNix/Flyleaf?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="lottie-to-gif" src="https://gitlibrary.club/images/uploads/2023/09/newshot-lottie-to-gif.jpg" /></td>
-        <td>Productivity</td>
-        <td>C++</td>
-        <td><a href="https://t.me/tgstogifbot" target="_blank">lottie-to-gif</a></td>
-        <td>Converts Lottie Animations (.json / .lottie) and Telegram stickers (*.tgs) to GIF / PNG / APNG / WEBP</td>
-        <th><a href="https://github.com/ed-asriyan/lottie-to-gif" target="_blank"><img alt="lottie-to-gif" src="https://img.shields.io/github/stars/ed-asriyan/lottie-to-gif?style=social" /></a></th>
     </tr>
 
 </table>
@@ -4440,6 +4440,22 @@
         <td><a href="https://github.com/la10736/rstest" target="_blank">rstest</a></td>
         <td>Fixture-based test framework for Rust</td>
         <th><a href="https://github.com/la10736/rstest" target="_blank"><img alt="rstest" src="https://img.shields.io/github/stars/la10736/rstest?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Life Log" src="https://gitlibrary.club/images/uploads/2023/09/newshot-diary.png" /></td>
+        <td>Productivity</td>
+        <td>Vue</td>
+        <td><a href="http://kylebing.cn/diary" target="_blank">Life Log</a></td>
+        <td>《标题日记》web 纯文字日记应用，分类日记，共享日记 Headline Diary, web app, text only, summary of the day | Vue3 | PC &amp; Mobile</td>
+        <th><a href="https://github.com/KyleBing/diary" target="_blank"><img alt="Life Log" src="https://img.shields.io/github/stars/KyleBing/diary?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Typepad" src="https://gitlibrary.club/images/uploads/2023/09/newshot-typepad.png" /></td>
+        <td>Productivity</td>
+        <td>JavaScript</td>
+        <td><a href="https://kylebing.cn/tools/typepad/" target="_blank">Typepad</a></td>
+        <td>玫枫跟打器：五笔跟打器（网页版）</td>
+        <th><a href="https://github.com/KyleBing/typepad" target="_blank"><img alt="Typepad" src="https://img.shields.io/github/stars/KyleBing/typepad?style=social" /></a></th>
     </tr>
 
 </table>
@@ -10218,6 +10234,14 @@
         <td>A tool to modify ONNX models in a visualization fashion, based on Netron and Flask.</td>
         <th><a href="https://github.com/ZhangGe6/onnx-modifier" target="_blank"><img alt="onnx-modifier" src="https://img.shields.io/github/stars/ZhangGe6/onnx-modifier?style=social" /></a></th>
     </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Typepad" src="https://gitlibrary.club/images/uploads/2023/09/newshot-typepad.png" /></td>
+        <td>Productivity</td>
+        <td>JavaScript</td>
+        <td><a href="https://kylebing.cn/tools/typepad/" target="_blank">Typepad</a></td>
+        <td>玫枫跟打器：五笔跟打器（网页版）</td>
+        <th><a href="https://github.com/KyleBing/typepad" target="_blank"><img alt="Typepad" src="https://img.shields.io/github/stars/KyleBing/typepad?style=social" /></a></th>
+    </tr>
 
 </table>
 
@@ -11517,6 +11541,14 @@
         <td><a href="https://dashy.to" target="_blank">Dashy</a></td>
         <td>? A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!</td>
         <th><a href="https://github.com/Lissy93/dashy" target="_blank"><img alt="Dashy" src="https://img.shields.io/github/stars/Lissy93/dashy?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Life Log" src="https://gitlibrary.club/images/uploads/2023/09/newshot-diary.png" /></td>
+        <td>Productivity</td>
+        <td>Vue</td>
+        <td><a href="http://kylebing.cn/diary" target="_blank">Life Log</a></td>
+        <td>《标题日记》web 纯文字日记应用，分类日记，共享日记 Headline Diary, web app, text only, summary of the day | Vue3 | PC &amp; Mobile</td>
+        <th><a href="https://github.com/KyleBing/diary" target="_blank"><img alt="Life Log" src="https://img.shields.io/github/stars/KyleBing/diary?style=social" /></a></th>
     </tr>
 
 </table>
