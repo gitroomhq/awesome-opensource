@@ -160,6 +160,14 @@
         <th>Stargazers</th>
     </tr>
         <tr>
+        <td nowrap="nowrap"><img width="33" alt="Go Installer" src="https://gitlibrary.club/images/uploads/2023/09/newshot-go-installer.jpg" /></td>
+        <td>Miscellaneous</td>
+        <td>Shell</td>
+        <td><a href="https://github.com/kerolloz/go-installer" target="_blank">Go Installer</a></td>
+        <td>? A simple shell script to install the Go ? programming language!</td>
+        <th><a href="https://github.com/kerolloz/go-installer" target="_blank"><img alt="Go Installer" src="https://img.shields.io/github/stars/kerolloz/go-installer?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="Life Log" src="https://gitlibrary.club/images/uploads/2023/09/newshot-diary.png" /></td>
         <td>Productivity</td>
         <td>Vue</td>
@@ -310,14 +318,6 @@
         <td><a href="https://projectsveltos.github.io/sveltos/" target="_blank">Projectsveltos</a></td>
         <td>Sveltos Kubernetes add-on controller programmatically deploys add-ons and applications in tens of clusters. Support for ClusterAPI powered clusters, Helm charts, kustomize ,YAMLs. Sveltos has built…</td>
         <th><a href="https://github.com/projectsveltos/addon-controller" target="_blank"><img alt="Projectsveltos" src="https://img.shields.io/github/stars/projectsveltos/addon-controller?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Node File Router" src="https://gitlibrary.club/images/uploads/2023/09/newshot-node-file-router.jpg" /></td>
-        <td>Miscellaneous</td>
-        <td>TypeScript</td>
-        <td><a href="https://danilqa.github.io/node-file-router/" target="_blank">Node File Router</a></td>
-        <td>A file-based routing for Node.js ?</td>
-        <th><a href="https://github.com/Danilqa/node-file-router" target="_blank"><img alt="Node File Router" src="https://img.shields.io/github/stars/Danilqa/node-file-router?style=social" /></a></th>
     </tr>
 
 </table>
@@ -2380,6 +2380,14 @@
         <td><a href="https://excaliburjs.com" target="_blank">Excalibur.js 2D game engine for the web!</a></td>
         <td>? An easy to use 2D HTML5 game engine written in TypeScript</td>
         <th><a href="https://github.com/excaliburjs/Excalibur" target="_blank"><img alt="Excalibur.js 2D game engine for the web!" src="https://img.shields.io/github/stars/excaliburjs/Excalibur?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Go Installer" src="https://gitlibrary.club/images/uploads/2023/09/newshot-go-installer.jpg" /></td>
+        <td>Miscellaneous</td>
+        <td>Shell</td>
+        <td><a href="https://github.com/kerolloz/go-installer" target="_blank">Go Installer</a></td>
+        <td>? A simple shell script to install the Go ? programming language!</td>
+        <th><a href="https://github.com/kerolloz/go-installer" target="_blank"><img alt="Go Installer" src="https://img.shields.io/github/stars/kerolloz/go-installer?style=social" /></a></th>
     </tr>
 
 </table>
@@ -11473,6 +11481,14 @@
         <td><a href="https://docs.saltproject.io" target="_blank">Dockerized Salt Master</a></td>
         <td><g-emoji class="g-emoji" alias="whale" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f433.png">?</g-emoji><g-emoji class="g-emoji" alias="salt" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f9c2.png">?</g-emoji> Dockerized Salt Master</td>
         <th><a href="https://github.com/cdalvaro/docker-salt-master" target="_blank"><img alt="Dockerized Salt Master" src="https://img.shields.io/github/stars/cdalvaro/docker-salt-master?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Go Installer" src="https://gitlibrary.club/images/uploads/2023/09/newshot-go-installer.jpg" /></td>
+        <td>Miscellaneous</td>
+        <td>Shell</td>
+        <td><a href="https://github.com/kerolloz/go-installer" target="_blank">Go Installer</a></td>
+        <td>? A simple shell script to install the Go ? programming language!</td>
+        <th><a href="https://github.com/kerolloz/go-installer" target="_blank"><img alt="Go Installer" src="https://img.shields.io/github/stars/kerolloz/go-installer?style=social" /></a></th>
     </tr>
 
 </table>
