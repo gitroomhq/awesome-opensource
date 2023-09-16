@@ -168,6 +168,22 @@
         <th><a href="https://github.com/kerolloz/go-installer" target="_blank"><img alt="Go Installer" src="https://img.shields.io/github/stars/kerolloz/go-installer?style=social" /></a></th>
     </tr>
     <tr>
+        <td nowrap="nowrap"><img width="33" alt="Open Source With Pradumna" src="https://gitlibrary.club/images/uploads/2023/09/newshot-open-source-with-pradumna.jpg" /></td>
+        <td>Miscellaneous</td>
+        <td>HTML</td>
+        <td><a href="https://os.pradumnasaraf.dev/" target="_blank">Open Source With Pradumna</a></td>
+        <td>Open Source guide - Contains resources and materials to learn and get yourself started with Open Source, Git, and GitHub.</td>
+        <th><a href="https://github.com/Pradumnasaraf/open-source-with-pradumna" target="_blank"><img alt="Open Source With Pradumna" src="https://img.shields.io/github/stars/Pradumnasaraf/open-source-with-pradumna?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="DevOps" src="https://gitlibrary.club/images/uploads/2023/09/newshot-DevOps.jpg" /></td>
+        <td>Miscellaneous</td>
+        <td>Go</td>
+        <td><a href="https://devops.pradumnasaraf.dev/" target="_blank">DevOps</a></td>
+        <td>This repo contains all my learning related to DevOps</td>
+        <th><a href="https://github.com/Pradumnasaraf/DevOps" target="_blank"><img alt="DevOps" src="https://img.shields.io/github/stars/Pradumnasaraf/DevOps?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="Life Log" src="https://gitlibrary.club/images/uploads/2023/09/newshot-diary.png" /></td>
         <td>Productivity</td>
         <td>Vue</td>
@@ -302,22 +318,6 @@
         <td><a href="https://github.com/vinijmoura/Azure-DevOps" target="_blank">Azure-DevOps</a></td>
         <td>Data extraction and Power BI report that generate management informations about your Azure DevOps organization. Using Azure DevOps CLI and Azure DevOps REST API, PowerShell scripts extract data fro…</td>
         <th><a href="https://github.com/vinijmoura/Azure-DevOps" target="_blank"><img alt="Azure-DevOps" src="https://img.shields.io/github/stars/vinijmoura/Azure-DevOps?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Tweaked iOS Apps" src="https://gitlibrary.club/images/uploads/2023/09/newshot-Tweaked-iOS-Apps.jpg" /></td>
-        <td>Databases</td>
-        <td>Python</td>
-        <td><a href="https://github.com/purp0s3/Tweaked-iOS-Apps" target="_blank">Tweaked iOS Apps</a></td>
-        <td>Tweaks injected into iOS apps.</td>
-        <th><a href="https://github.com/purp0s3/Tweaked-iOS-Apps" target="_blank"><img alt="Tweaked iOS Apps" src="https://img.shields.io/github/stars/purp0s3/Tweaked-iOS-Apps?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Projectsveltos" src="https://gitlibrary.club/images/uploads/2023/09/newshot-addon-controller.png" /></td>
-        <td>Infrastructure</td>
-        <td>Go</td>
-        <td><a href="https://projectsveltos.github.io/sveltos/" target="_blank">Projectsveltos</a></td>
-        <td>Sveltos Kubernetes add-on controller programmatically deploys add-ons and applications in tens of clusters. Support for ClusterAPI powered clusters, Helm charts, kustomize ,YAMLs. Sveltos has built…</td>
-        <th><a href="https://github.com/projectsveltos/addon-controller" target="_blank"><img alt="Projectsveltos" src="https://img.shields.io/github/stars/projectsveltos/addon-controller?style=social" /></a></th>
     </tr>
 
 </table>
@@ -879,6 +879,14 @@
         <th><a href="https://github.com/GyulyVGC/sniffnet" target="_blank"><img alt="Sniffnet" src="https://img.shields.io/github/stars/GyulyVGC/sniffnet?style=social" /></a></th>
     </tr>
     <tr>
+        <td nowrap="nowrap"><img width="33" alt="TGUI" src="https://gitlibrary.club/images/uploads/2023/09/newshot-TGUI.png" /></td>
+        <td>Productivity</td>
+        <td>C++</td>
+        <td><a href="https://tgui.eu" target="_blank">TGUI</a></td>
+        <td>Cross-platform modern c++ GUI</td>
+        <th><a href="https://github.com/texus/TGUI" target="_blank"><img alt="TGUI" src="https://img.shields.io/github/stars/texus/TGUI?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="generate-sitemap" src="https://gitlibrary.club/images/uploads/2023/09/newshot-generate-sitemap.jpg" /></td>
         <td>Infrastructure</td>
         <td>Python</td>
@@ -1125,14 +1133,6 @@
         <td><a href="https://github.com/origranot/ts-logger" target="_blank">@origranot/ts-logger</a></td>
         <td>A powerful and easy-to-use logging and debugging package for TypeScript</td>
         <th><a href="https://github.com/origranot/ts-logger" target="_blank"><img alt="@origranot/ts-logger" src="https://img.shields.io/github/stars/origranot/ts-logger?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Telenode" src="https://gitlibrary.club/images/uploads/2023/05/newshot-telenode.png" /></td>
-        <td>Notifications</td>
-        <td>JavaScript</td>
-        <td><a href="https://github.com/NivEz/telenode" target="_blank">Telenode</a></td>
-        <td>Lightweight Telegram API framework for Node.js</td>
-        <th><a href="https://github.com/NivEz/telenode" target="_blank"><img alt="Telenode" src="https://img.shields.io/github/stars/NivEz/telenode?style=social" /></a></th>
     </tr>
 
 </table>
@@ -2389,6 +2389,22 @@
         <td>? A simple shell script to install the Go ? programming language!</td>
         <th><a href="https://github.com/kerolloz/go-installer" target="_blank"><img alt="Go Installer" src="https://img.shields.io/github/stars/kerolloz/go-installer?style=social" /></a></th>
     </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Open Source With Pradumna" src="https://gitlibrary.club/images/uploads/2023/09/newshot-open-source-with-pradumna.jpg" /></td>
+        <td>Miscellaneous</td>
+        <td>HTML</td>
+        <td><a href="https://os.pradumnasaraf.dev/" target="_blank">Open Source With Pradumna</a></td>
+        <td>Open Source guide - Contains resources and materials to learn and get yourself started with Open Source, Git, and GitHub.</td>
+        <th><a href="https://github.com/Pradumnasaraf/open-source-with-pradumna" target="_blank"><img alt="Open Source With Pradumna" src="https://img.shields.io/github/stars/Pradumnasaraf/open-source-with-pradumna?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="DevOps" src="https://gitlibrary.club/images/uploads/2023/09/newshot-DevOps.jpg" /></td>
+        <td>Miscellaneous</td>
+        <td>Go</td>
+        <td><a href="https://devops.pradumnasaraf.dev/" target="_blank">DevOps</a></td>
+        <td>This repo contains all my learning related to DevOps</td>
+        <th><a href="https://github.com/Pradumnasaraf/DevOps" target="_blank"><img alt="DevOps" src="https://img.shields.io/github/stars/Pradumnasaraf/DevOps?style=social" /></a></th>
+    </tr>
 
 </table>
 
@@ -2818,6 +2834,14 @@
         <th><a href="https://github.com/Hofknecht/SystemTrayMenu" target="_blank"><img alt="SystemTrayMenu" src="https://img.shields.io/github/stars/Hofknecht/SystemTrayMenu?style=social" /></a></th>
     </tr>
     <tr>
+        <td nowrap="nowrap"><img width="33" alt="TGUI" src="https://gitlibrary.club/images/uploads/2023/09/newshot-TGUI.png" /></td>
+        <td>Productivity</td>
+        <td>C++</td>
+        <td><a href="https://tgui.eu" target="_blank">TGUI</a></td>
+        <td>Cross-platform modern c++ GUI</td>
+        <th><a href="https://github.com/texus/TGUI" target="_blank"><img alt="TGUI" src="https://img.shields.io/github/stars/texus/TGUI?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="Mirage JS" src="https://gitlibrary.club/images/uploads/2023/05/newshot-miragejs.png" /></td>
         <td>Productivity</td>
         <td>JavaScript</td>
@@ -3040,14 +3064,6 @@
         <td><a href="https://t.me/tgstogifbot" target="_blank">lottie-to-gif</a></td>
         <td>Converts Lottie Animations (.json / .lottie) and Telegram stickers (*.tgs) to GIF / PNG / APNG / WEBP</td>
         <th><a href="https://github.com/ed-asriyan/lottie-to-gif" target="_blank"><img alt="lottie-to-gif" src="https://img.shields.io/github/stars/ed-asriyan/lottie-to-gif?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="TGUI" src="https://gitlibrary.club/images/uploads/2023/09/newshot-TGUI.png" /></td>
-        <td>Productivity</td>
-        <td>C++</td>
-        <td><a href="https://tgui.eu" target="_blank">TGUI</a></td>
-        <td>Cross-platform modern c++ GUI</td>
-        <th><a href="https://github.com/texus/TGUI" target="_blank"><img alt="TGUI" src="https://img.shields.io/github/stars/texus/TGUI?style=social" /></a></th>
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="Flyleaf" src="https://gitlibrary.club/images/uploads/2023/09/newshot-Flyleaf.jpg" /></td>
@@ -8494,6 +8510,14 @@
         <td>A book that teaches JavaScript</td>
         <th><a href="https://github.com/sumn2u/learn-javascript" target="_blank"><img alt="Learn JavaScript" src="https://img.shields.io/github/stars/sumn2u/learn-javascript?style=social" /></a></th>
     </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Open Source With Pradumna" src="https://gitlibrary.club/images/uploads/2023/09/newshot-open-source-with-pradumna.jpg" /></td>
+        <td>Miscellaneous</td>
+        <td>HTML</td>
+        <td><a href="https://os.pradumnasaraf.dev/" target="_blank">Open Source With Pradumna</a></td>
+        <td>Open Source guide - Contains resources and materials to learn and get yourself started with Open Source, Git, and GitHub.</td>
+        <th><a href="https://github.com/Pradumnasaraf/open-source-with-pradumna" target="_blank"><img alt="Open Source With Pradumna" src="https://img.shields.io/github/stars/Pradumnasaraf/open-source-with-pradumna?style=social" /></a></th>
+    </tr>
 
 </table>
 
@@ -9183,6 +9207,14 @@
         <td><a href="https://deepfence.io" target="_blank">ThreatMapper</a></td>
         <td>Open source cloud native security observability platform. Linux, K8s, AWS Fargate and more.</td>
         <th><a href="https://github.com/deepfence/ThreatMapper" target="_blank"><img alt="ThreatMapper" src="https://img.shields.io/github/stars/deepfence/ThreatMapper?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="DevOps" src="https://gitlibrary.club/images/uploads/2023/09/newshot-DevOps.jpg" /></td>
+        <td>Miscellaneous</td>
+        <td>Go</td>
+        <td><a href="https://devops.pradumnasaraf.dev/" target="_blank">DevOps</a></td>
+        <td>This repo contains all my learning related to DevOps</td>
+        <th><a href="https://github.com/Pradumnasaraf/DevOps" target="_blank"><img alt="DevOps" src="https://img.shields.io/github/stars/Pradumnasaraf/DevOps?style=social" /></a></th>
     </tr>
 
 </table>
@@ -11683,6 +11715,14 @@
         <th><a href="https://github.com/DNedic/lockfree" target="_blank"><img alt="lockfree" src="https://img.shields.io/github/stars/DNedic/lockfree?style=social" /></a></th>
     </tr>
     <tr>
+        <td nowrap="nowrap"><img width="33" alt="TGUI" src="https://gitlibrary.club/images/uploads/2023/09/newshot-TGUI.png" /></td>
+        <td>Productivity</td>
+        <td>C++</td>
+        <td><a href="https://tgui.eu" target="_blank">TGUI</a></td>
+        <td>Cross-platform modern c++ GUI</td>
+        <th><a href="https://github.com/texus/TGUI" target="_blank"><img alt="TGUI" src="https://img.shields.io/github/stars/texus/TGUI?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="wxWidgets" src="https://gitlibrary.club/images/uploads/2023/05/newshot-wxWidgets.png" /></td>
         <td>Infrastructure</td>
         <td>C++</td>
@@ -11721,14 +11761,6 @@
         <td><a href="https://t.me/tgstogifbot" target="_blank">lottie-to-gif</a></td>
         <td>Converts Lottie Animations (.json / .lottie) and Telegram stickers (*.tgs) to GIF / PNG / APNG / WEBP</td>
         <th><a href="https://github.com/ed-asriyan/lottie-to-gif" target="_blank"><img alt="lottie-to-gif" src="https://img.shields.io/github/stars/ed-asriyan/lottie-to-gif?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="TGUI" src="https://gitlibrary.club/images/uploads/2023/09/newshot-TGUI.png" /></td>
-        <td>Productivity</td>
-        <td>C++</td>
-        <td><a href="https://tgui.eu" target="_blank">TGUI</a></td>
-        <td>Cross-platform modern c++ GUI</td>
-        <th><a href="https://github.com/texus/TGUI" target="_blank"><img alt="TGUI" src="https://img.shields.io/github/stars/texus/TGUI?style=social" /></a></th>
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="OneFlow" src="https://gitlibrary.club/images/uploads/2023/05/newshot-oneflow.png" /></td>
