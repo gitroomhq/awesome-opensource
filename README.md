@@ -663,6 +663,14 @@
         <th><a href="https://github.com/openstatusHQ/openstatus" target="_blank"><img alt="OpenStatus" src="https://img.shields.io/github/stars/openstatusHQ/openstatus?style=social" /></a></th>
     </tr>
     <tr>
+        <td nowrap="nowrap"><img width="33" alt="IDURAR ERP CRM" src="https://gitlibrary.club/images/uploads/2023/07/newshot-idurar-erp-crm.png" /></td>
+        <td>Productivity</td>
+        <td>JavaScript</td>
+        <td><a href="https://demo-erp-crm.idurarapp.com/" target="_blank">IDURAR ERP CRM</a></td>
+        <td>ERP / CRM Open Source (Invoice / Inventory / Accounting / HR) Based on Node.js / React.js alternative to erpnext,salesforce and odoo</td>
+        <th><a href="https://github.com/idurar/idurar-erp-crm" target="_blank"><img alt="IDURAR ERP CRM" src="https://img.shields.io/github/stars/idurar/idurar-erp-crm?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="TCET Linux" src="https://gitlibrary.club/images/uploads/2023/07/newshot-tcet-linux.png" /></td>
         <td>Infrastructure</td>
         <td>Shell</td>
@@ -813,14 +821,6 @@
         <td><a href="https://github.com/Super-Badmen-Viper/MoZhiMusicPlayer" target="_blank">MoZhiMusicPlayer</a></td>
         <td>MusicPlayer，基于dotNET_ C#_ WPF的开源音乐软件</td>
         <th><a href="https://github.com/Super-Badmen-Viper/MoZhiMusicPlayer" target="_blank"><img alt="MoZhiMusicPlayer" src="https://img.shields.io/github/stars/Super-Badmen-Viper/MoZhiMusicPlayer?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="IDURAR ERP CRM" src="https://gitlibrary.club/images/uploads/2023/07/newshot-idurar-erp-crm.png" /></td>
-        <td>Productivity</td>
-        <td>JavaScript</td>
-        <td><a href="https://demo-erp-crm.idurarapp.com/" target="_blank">IDURAR ERP CRM</a></td>
-        <td>ERP / CRM Open Source (Invoice / Inventory / Accounting / HR) Based on Node.js / React.js alternative to erpnext,salesforce and odoo</td>
-        <th><a href="https://github.com/idurar/idurar-erp-crm" target="_blank"><img alt="IDURAR ERP CRM" src="https://img.shields.io/github/stars/idurar/idurar-erp-crm?style=social" /></a></th>
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="Easy Speech" src="https://gitlibrary.club/images/uploads/2023/08/newshot-easy-speech.jpg" /></td>
@@ -2770,6 +2770,14 @@
         <th><a href="https://github.com/medyo/hackertab.dev" target="_blank"><img alt="Hackertab.dev" src="https://img.shields.io/github/stars/medyo/hackertab.dev?style=social" /></a></th>
     </tr>
     <tr>
+        <td nowrap="nowrap"><img width="33" alt="IDURAR ERP CRM" src="https://gitlibrary.club/images/uploads/2023/07/newshot-idurar-erp-crm.png" /></td>
+        <td>Productivity</td>
+        <td>JavaScript</td>
+        <td><a href="https://demo-erp-crm.idurarapp.com/" target="_blank">IDURAR ERP CRM</a></td>
+        <td>ERP / CRM Open Source (Invoice / Inventory / Accounting / HR) Based on Node.js / React.js alternative to erpnext,salesforce and odoo</td>
+        <th><a href="https://github.com/idurar/idurar-erp-crm" target="_blank"><img alt="IDURAR ERP CRM" src="https://img.shields.io/github/stars/idurar/idurar-erp-crm?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="LatexCV" src="https://gitlibrary.club/images/uploads/2023/08/newshot-latexcv.jpg" /></td>
         <td>Productivity</td>
         <td>TeX</td>
@@ -2808,14 +2816,6 @@
         <td><a href="https://ree.js.org" target="_blank">Reejs</a></td>
         <td>Make Sites Faster, without the need of building anything!</td>
         <th><a href="https://github.com/rovelstars/reejs" target="_blank"><img alt="Reejs" src="https://img.shields.io/github/stars/rovelstars/reejs?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="IDURAR ERP CRM" src="https://gitlibrary.club/images/uploads/2023/07/newshot-idurar-erp-crm.png" /></td>
-        <td>Productivity</td>
-        <td>JavaScript</td>
-        <td><a href="https://demo-erp-crm.idurarapp.com/" target="_blank">IDURAR ERP CRM</a></td>
-        <td>ERP / CRM Open Source (Invoice / Inventory / Accounting / HR) Based on Node.js / React.js alternative to erpnext,salesforce and odoo</td>
-        <th><a href="https://github.com/idurar/idurar-erp-crm" target="_blank"><img alt="IDURAR ERP CRM" src="https://img.shields.io/github/stars/idurar/idurar-erp-crm?style=social" /></a></th>
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="Meteor + React Native Starter Template" src="https://gitlibrary.club/images/uploads/2023/08/newshot-meteor-react-native-starter.jpg" /></td>
@@ -9811,6 +9811,14 @@
         <th><a href="https://github.com/Liberty-liu/Everright-formEditor" target="_blank"><img alt="Everright-formEditor" src="https://img.shields.io/github/stars/Liberty-liu/Everright-formEditor?style=social" /></a></th>
     </tr>
     <tr>
+        <td nowrap="nowrap"><img width="33" alt="IDURAR ERP CRM" src="https://gitlibrary.club/images/uploads/2023/07/newshot-idurar-erp-crm.png" /></td>
+        <td>Productivity</td>
+        <td>JavaScript</td>
+        <td><a href="https://demo-erp-crm.idurarapp.com/" target="_blank">IDURAR ERP CRM</a></td>
+        <td>ERP / CRM Open Source (Invoice / Inventory / Accounting / HR) Based on Node.js / React.js alternative to erpnext,salesforce and odoo</td>
+        <th><a href="https://github.com/idurar/idurar-erp-crm" target="_blank"><img alt="IDURAR ERP CRM" src="https://img.shields.io/github/stars/idurar/idurar-erp-crm?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="@node-oauth/oauth2-server" src="https://gitlibrary.club/images/uploads/2023/08/newshot-node-oauth2-server.png" /></td>
         <td>Security</td>
         <td>JavaScript</td>
@@ -9825,14 +9833,6 @@
         <td><a href="https://ree.js.org" target="_blank">Reejs</a></td>
         <td>Make Sites Faster, without the need of building anything!</td>
         <th><a href="https://github.com/rovelstars/reejs" target="_blank"><img alt="Reejs" src="https://img.shields.io/github/stars/rovelstars/reejs?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="IDURAR ERP CRM" src="https://gitlibrary.club/images/uploads/2023/07/newshot-idurar-erp-crm.png" /></td>
-        <td>Productivity</td>
-        <td>JavaScript</td>
-        <td><a href="https://demo-erp-crm.idurarapp.com/" target="_blank">IDURAR ERP CRM</a></td>
-        <td>ERP / CRM Open Source (Invoice / Inventory / Accounting / HR) Based on Node.js / React.js alternative to erpnext,salesforce and odoo</td>
-        <th><a href="https://github.com/idurar/idurar-erp-crm" target="_blank"><img alt="IDURAR ERP CRM" src="https://img.shields.io/github/stars/idurar/idurar-erp-crm?style=social" /></a></th>
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="Easy Speech" src="https://gitlibrary.club/images/uploads/2023/08/newshot-easy-speech.jpg" /></td>
