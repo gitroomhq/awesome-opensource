@@ -160,6 +160,22 @@
         <th>Stargazers</th>
     </tr>
         <tr>
+        <td nowrap="nowrap"><img width="33" alt="Passwordless.ID" src="https://gitlibrary.club/images/uploads/2023/09/newshot-www.png" /></td>
+        <td>Security</td>
+        <td>JavaScript</td>
+        <td><a href="https://passwordless.id" target="_blank">Passwordless.ID</a></td>
+        <td>Ditch passwords, boost security! Use this public identity provider to leverage biometric authentication and increase security.</td>
+        <th><a href="https://github.com/passwordless-id/www" target="_blank"><img alt="Passwordless.ID" src="https://img.shields.io/github/stars/passwordless-id/www?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="OpenStreetData" src="https://gitlibrary.club/images/uploads/2023/09/newshot-open-street-data.jpg" /></td>
+        <td>Miscellaneous</td>
+        <td>Jupyter Notebook</td>
+        <td><a href="https://openstreetdata.org" target="_blank">OpenStreetData</a></td>
+        <td>Country data extracts from OpenStreetMaps in GeoJson or PBF. Datasets of streets, houses, addresses and more.</td>
+        <th><a href="https://github.com/dagnelies/open-street-data" target="_blank"><img alt="OpenStreetData" src="https://img.shields.io/github/stars/dagnelies/open-street-data?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="Go Installer" src="https://gitlibrary.club/images/uploads/2023/09/newshot-go-installer.jpg" /></td>
         <td>Miscellaneous</td>
         <td>Shell</td>
@@ -302,22 +318,6 @@
         <td><a href="https://github.com/plokhotnyuk/jsoniter-scala" target="_blank">jsoniter-scala</a></td>
         <td>Scala macros for compile-time generation of safe and ultra-fast JSON codecs</td>
         <th><a href="https://github.com/plokhotnyuk/jsoniter-scala" target="_blank"><img alt="jsoniter-scala" src="https://img.shields.io/github/stars/plokhotnyuk/jsoniter-scala?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="LLMonitor" src="https://gitlibrary.club/images/uploads/2023/09/newshot-llmonitor.png" /></td>
-        <td>Observability</td>
-        <td>TypeScript</td>
-        <td><a href="https://llmonitor.com" target="_blank">LLMonitor</a></td>
-        <td>Open-source monitoring &amp; analytics for AI apps and agent</td>
-        <th><a href="https://github.com/llmonitor/llmonitor" target="_blank"><img alt="LLMonitor" src="https://img.shields.io/github/stars/llmonitor/llmonitor?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Azure-DevOps" src="https://gitlibrary.club/images/uploads/2023/09/newshot-Azure-DevOps.jpg" /></td>
-        <td>Analytics</td>
-        <td>PowerShell</td>
-        <td><a href="https://github.com/vinijmoura/Azure-DevOps" target="_blank">Azure-DevOps</a></td>
-        <td>Data extraction and Power BI report that generate management informations about your Azure DevOps organization. Using Azure DevOps CLI and Azure DevOps REST API, PowerShell scripts extract data fro…</td>
-        <th><a href="https://github.com/vinijmoura/Azure-DevOps" target="_blank"><img alt="Azure-DevOps" src="https://img.shields.io/github/stars/vinijmoura/Azure-DevOps?style=social" /></a></th>
     </tr>
 
 </table>
@@ -2404,6 +2404,14 @@
         <td><a href="https://devops.pradumnasaraf.dev/" target="_blank">DevOps</a></td>
         <td>This repo contains all my learning related to DevOps</td>
         <th><a href="https://github.com/Pradumnasaraf/DevOps" target="_blank"><img alt="DevOps" src="https://img.shields.io/github/stars/Pradumnasaraf/DevOps?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="OpenStreetData" src="https://gitlibrary.club/images/uploads/2023/09/newshot-open-street-data.jpg" /></td>
+        <td>Miscellaneous</td>
+        <td>Jupyter Notebook</td>
+        <td><a href="https://openstreetdata.org" target="_blank">OpenStreetData</a></td>
+        <td>Country data extracts from OpenStreetMaps in GeoJson or PBF. Datasets of streets, houses, addresses and more.</td>
+        <th><a href="https://github.com/dagnelies/open-street-data" target="_blank"><img alt="OpenStreetData" src="https://img.shields.io/github/stars/dagnelies/open-street-data?style=social" /></a></th>
     </tr>
 
 </table>
@@ -5220,6 +5228,14 @@
         <td><a href="https://mpusz.github.io/mp-units/" target="_blank">mp-units</a></td>
         <td>A Physical Quantities and Units library for C++</td>
         <th><a href="https://github.com/mpusz/mp-units" target="_blank"><img alt="mp-units" src="https://img.shields.io/github/stars/mpusz/mp-units?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Passwordless.ID" src="https://gitlibrary.club/images/uploads/2023/09/newshot-www.png" /></td>
+        <td>Security</td>
+        <td>JavaScript</td>
+        <td><a href="https://passwordless.id" target="_blank">Passwordless.ID</a></td>
+        <td>Ditch passwords, boost security! Use this public identity provider to leverage biometric authentication and increase security.</td>
+        <th><a href="https://github.com/passwordless-id/www" target="_blank"><img alt="Passwordless.ID" src="https://img.shields.io/github/stars/passwordless-id/www?style=social" /></a></th>
     </tr>
 
 </table>
@@ -10306,6 +10322,14 @@
         <td>玫枫跟打器：五笔跟打器（网页版）</td>
         <th><a href="https://github.com/KyleBing/typepad" target="_blank"><img alt="Typepad" src="https://img.shields.io/github/stars/KyleBing/typepad?style=social" /></a></th>
     </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Passwordless.ID" src="https://gitlibrary.club/images/uploads/2023/09/newshot-www.png" /></td>
+        <td>Security</td>
+        <td>JavaScript</td>
+        <td><a href="https://passwordless.id" target="_blank">Passwordless.ID</a></td>
+        <td>Ditch passwords, boost security! Use this public identity provider to leverage biometric authentication and increase security.</td>
+        <th><a href="https://github.com/passwordless-id/www" target="_blank"><img alt="Passwordless.ID" src="https://img.shields.io/github/stars/passwordless-id/www?style=social" /></a></th>
+    </tr>
 
 </table>
 
@@ -12367,6 +12391,14 @@
         <td><a href="https://thecaduceus.eu.org/Multi-Cloud-Transfer-Tool" target="_blank">Multi Cloud Transfer Tool</a></td>
         <td>The most advanced yet simple Jupyter Notebook to transfer/manage your data from/to any cloud remotely based on Rclone and other engines.<g-emoji class="g-emoji" alias="zap" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/26a1.png">⚡</g-emoji></td>
         <th><a href="https://github.com/TheCaduceus/Multi-Cloud-Transfer-Tool" target="_blank"><img alt="Multi Cloud Transfer Tool" src="https://img.shields.io/github/stars/TheCaduceus/Multi-Cloud-Transfer-Tool?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="OpenStreetData" src="https://gitlibrary.club/images/uploads/2023/09/newshot-open-street-data.jpg" /></td>
+        <td>Miscellaneous</td>
+        <td>Jupyter Notebook</td>
+        <td><a href="https://openstreetdata.org" target="_blank">OpenStreetData</a></td>
+        <td>Country data extracts from OpenStreetMaps in GeoJson or PBF. Datasets of streets, houses, addresses and more.</td>
+        <th><a href="https://github.com/dagnelies/open-street-data" target="_blank"><img alt="OpenStreetData" src="https://img.shields.io/github/stars/dagnelies/open-street-data?style=social" /></a></th>
     </tr>
 
 </table>
