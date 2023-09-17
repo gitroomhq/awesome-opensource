@@ -735,6 +735,14 @@
         <th><a href="https://github.com/flutter/gallery" target="_blank"><img alt="Flutter Gallery" src="https://img.shields.io/github/stars/flutter/gallery?style=social" /></a></th>
     </tr>
     <tr>
+        <td nowrap="nowrap"><img width="33" alt="Micronaut Framework" src="https://gitlibrary.club/images/uploads/2023/05/newshot-micronaut-core.png" /></td>
+        <td>Infrastructure</td>
+        <td>Java</td>
+        <td><a href="http://micronaut.io" target="_blank">Micronaut Framework</a></td>
+        <td>Micronaut Application Framework</td>
+        <th><a href="https://github.com/micronaut-projects/micronaut-core" target="_blank"><img alt="Micronaut Framework" src="https://img.shields.io/github/stars/micronaut-projects/micronaut-core?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="JUnitorg." src="https://gitlibrary.club/images/uploads/2023/05/newshot-junit5.png" /></td>
         <td>Infrastructure</td>
         <td>Java</td>
@@ -957,14 +965,6 @@
         <td><a href="https://docsgpt.arc53.com/" target="_blank">DocsGPT</a></td>
         <td>GPT-powered chat for documentation search &amp; assistance.</td>
         <th><a href="https://github.com/arc53/DocsGPT" target="_blank"><img alt="DocsGPT" src="https://img.shields.io/github/stars/arc53/DocsGPT?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Micronaut Framework" src="https://gitlibrary.club/images/uploads/2023/05/newshot-micronaut-core.png" /></td>
-        <td>Infrastructure</td>
-        <td>Java</td>
-        <td><a href="http://micronaut.io" target="_blank">Micronaut Framework</a></td>
-        <td>Micronaut Application Framework</td>
-        <th><a href="https://github.com/micronaut-projects/micronaut-core" target="_blank"><img alt="Micronaut Framework" src="https://img.shields.io/github/stars/micronaut-projects/micronaut-core?style=social" /></a></th>
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="GraphQL Java" src="https://gitlibrary.club/images/uploads/2023/05/newshot-graphql-java.png" /></td>
@@ -5862,6 +5862,14 @@
         <th><a href="https://github.com/tcet-opensource/tcet-linux" target="_blank"><img alt="TCET Linux" src="https://img.shields.io/github/stars/tcet-opensource/tcet-linux?style=social" /></a></th>
     </tr>
     <tr>
+        <td nowrap="nowrap"><img width="33" alt="Micronaut Framework" src="https://gitlibrary.club/images/uploads/2023/05/newshot-micronaut-core.png" /></td>
+        <td>Infrastructure</td>
+        <td>Java</td>
+        <td><a href="http://micronaut.io" target="_blank">Micronaut Framework</a></td>
+        <td>Micronaut Application Framework</td>
+        <th><a href="https://github.com/micronaut-projects/micronaut-core" target="_blank"><img alt="Micronaut Framework" src="https://img.shields.io/github/stars/micronaut-projects/micronaut-core?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="JUnitorg." src="https://gitlibrary.club/images/uploads/2023/05/newshot-junit5.png" /></td>
         <td>Infrastructure</td>
         <td>Java</td>
@@ -5908,14 +5916,6 @@
         <td><a href="http://day8.github.io/re-frame/" target="_blank">re-frame</a></td>
         <td>A ClojureScript framework for building user interfaces, leveraging React</td>
         <th><a href="https://github.com/day8/re-frame" target="_blank"><img alt="re-frame" src="https://img.shields.io/github/stars/day8/re-frame?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Micronaut Framework" src="https://gitlibrary.club/images/uploads/2023/05/newshot-micronaut-core.png" /></td>
-        <td>Infrastructure</td>
-        <td>Java</td>
-        <td><a href="http://micronaut.io" target="_blank">Micronaut Framework</a></td>
-        <td>Micronaut Application Framework</td>
-        <th><a href="https://github.com/micronaut-projects/micronaut-core" target="_blank"><img alt="Micronaut Framework" src="https://img.shields.io/github/stars/micronaut-projects/micronaut-core?style=social" /></a></th>
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="GraphQL Java" src="https://gitlibrary.club/images/uploads/2023/05/newshot-graphql-java.png" /></td>
@@ -9263,6 +9263,14 @@
         <th><a href="https://github.com/cicirello/core" target="_blank"><img alt="core" src="https://img.shields.io/github/stars/cicirello/core?style=social" /></a></th>
     </tr>
     <tr>
+        <td nowrap="nowrap"><img width="33" alt="Micronaut Framework" src="https://gitlibrary.club/images/uploads/2023/05/newshot-micronaut-core.png" /></td>
+        <td>Infrastructure</td>
+        <td>Java</td>
+        <td><a href="http://micronaut.io" target="_blank">Micronaut Framework</a></td>
+        <td>Micronaut Application Framework</td>
+        <th><a href="https://github.com/micronaut-projects/micronaut-core" target="_blank"><img alt="Micronaut Framework" src="https://img.shields.io/github/stars/micronaut-projects/micronaut-core?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="JUnitorg." src="https://gitlibrary.club/images/uploads/2023/05/newshot-junit5.png" /></td>
         <td>Infrastructure</td>
         <td>Java</td>
@@ -9277,14 +9285,6 @@
         <td><a href="https://boykaframework.github.io/boyka-framework/" target="_blank">boyka-framework</a></td>
         <td> <g-emoji class="g-emoji" alias="tada" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f389.png">?</g-emoji> Ultimate test automation framework for automating any application on any platform</td>
         <th><a href="https://github.com/BoykaFramework/boyka-framework" target="_blank"><img alt="boyka-framework" src="https://img.shields.io/github/stars/BoykaFramework/boyka-framework?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Micronaut Framework" src="https://gitlibrary.club/images/uploads/2023/05/newshot-micronaut-core.png" /></td>
-        <td>Infrastructure</td>
-        <td>Java</td>
-        <td><a href="http://micronaut.io" target="_blank">Micronaut Framework</a></td>
-        <td>Micronaut Application Framework</td>
-        <th><a href="https://github.com/micronaut-projects/micronaut-core" target="_blank"><img alt="Micronaut Framework" src="https://img.shields.io/github/stars/micronaut-projects/micronaut-core?style=social" /></a></th>
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="GraphQL Java" src="https://gitlibrary.club/images/uploads/2023/05/newshot-graphql-java.png" /></td>
