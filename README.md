@@ -176,6 +176,14 @@
         <th><a href="https://github.com/dagnelies/open-street-data" target="_blank"><img alt="OpenStreetData" src="https://img.shields.io/github/stars/dagnelies/open-street-data?style=social" /></a></th>
     </tr>
     <tr>
+        <td nowrap="nowrap"><img width="33" alt="Serverless AWS Secrets" src="https://gitlibrary.club/images/uploads/2023/09/newshot-serverless-aws-secrets.jpg" /></td>
+        <td>Security</td>
+        <td>TypeScript</td>
+        <td><a href="https://www.npmjs.com/package/serverless-aws-secrets" target="_blank">Serverless AWS Secrets</a></td>
+        <td>? Serverless plugin that reads environment variables and replaces secrets using AWS Secrets Manager ?</td>
+        <th><a href="https://github.com/robin-thomas/serverless-aws-secrets" target="_blank"><img alt="Serverless AWS Secrets" src="https://img.shields.io/github/stars/robin-thomas/serverless-aws-secrets?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="Go Installer" src="https://gitlibrary.club/images/uploads/2023/09/newshot-go-installer.jpg" /></td>
         <td>Miscellaneous</td>
         <td>Shell</td>
@@ -310,14 +318,6 @@
         <td><a href="https://pizofreude.github.io/TheFEAMan/" target="_blank">The FEA Man</a></td>
         <td>This repository contains lecture notes, code examples, calculation resources, and tutorials related to Technical Mechanics and Finite Element Analysis. It's designed to be a learning resource for s…</td>
         <th><a href="https://github.com/pizofreude/TheFEAMan" target="_blank"><img alt="The FEA Man" src="https://img.shields.io/github/stars/pizofreude/TheFEAMan?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="jsoniter-scala" src="https://gitlibrary.club/images/uploads/2023/09/newshot-jsoniter-scala.png" /></td>
-        <td>Miscellaneous</td>
-        <td>Scala</td>
-        <td><a href="https://github.com/plokhotnyuk/jsoniter-scala" target="_blank">jsoniter-scala</a></td>
-        <td>Scala macros for compile-time generation of safe and ultra-fast JSON codecs</td>
-        <th><a href="https://github.com/plokhotnyuk/jsoniter-scala" target="_blank"><img alt="jsoniter-scala" src="https://img.shields.io/github/stars/plokhotnyuk/jsoniter-scala?style=social" /></a></th>
     </tr>
 
 </table>
@@ -5237,6 +5237,14 @@
         <td>Ditch passwords, boost security! Use this public identity provider to leverage biometric authentication and increase security.</td>
         <th><a href="https://github.com/passwordless-id/www" target="_blank"><img alt="Passwordless.ID" src="https://img.shields.io/github/stars/passwordless-id/www?style=social" /></a></th>
     </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Serverless AWS Secrets" src="https://gitlibrary.club/images/uploads/2023/09/newshot-serverless-aws-secrets.jpg" /></td>
+        <td>Security</td>
+        <td>TypeScript</td>
+        <td><a href="https://www.npmjs.com/package/serverless-aws-secrets" target="_blank">Serverless AWS Secrets</a></td>
+        <td>? Serverless plugin that reads environment variables and replaces secrets using AWS Secrets Manager ?</td>
+        <th><a href="https://github.com/robin-thomas/serverless-aws-secrets" target="_blank"><img alt="Serverless AWS Secrets" src="https://img.shields.io/github/stars/robin-thomas/serverless-aws-secrets?style=social" /></a></th>
+    </tr>
 
 </table>
 
@@ -8243,6 +8251,14 @@
         <td><a href="https://excaliburjs.com" target="_blank">Excalibur.js 2D game engine for the web!</a></td>
         <td>? An easy to use 2D HTML5 game engine written in TypeScript</td>
         <th><a href="https://github.com/excaliburjs/Excalibur" target="_blank"><img alt="Excalibur.js 2D game engine for the web!" src="https://img.shields.io/github/stars/excaliburjs/Excalibur?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Serverless AWS Secrets" src="https://gitlibrary.club/images/uploads/2023/09/newshot-serverless-aws-secrets.jpg" /></td>
+        <td>Security</td>
+        <td>TypeScript</td>
+        <td><a href="https://www.npmjs.com/package/serverless-aws-secrets" target="_blank">Serverless AWS Secrets</a></td>
+        <td>? Serverless plugin that reads environment variables and replaces secrets using AWS Secrets Manager ?</td>
+        <th><a href="https://github.com/robin-thomas/serverless-aws-secrets" target="_blank"><img alt="Serverless AWS Secrets" src="https://img.shields.io/github/stars/robin-thomas/serverless-aws-secrets?style=social" /></a></th>
     </tr>
 
 </table>
