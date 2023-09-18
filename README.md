@@ -160,6 +160,22 @@
         <th>Stargazers</th>
     </tr>
         <tr>
+        <td nowrap="nowrap"><img width="33" alt="Storybook" src="https://gitlibrary.club/images/uploads/2023/09/newshot-storybook-1.png" /></td>
+        <td>Collaboration</td>
+        <td>TypeScript</td>
+        <td><a href="https://storybook.js.org" target="_blank">Storybook</a></td>
+        <td>Storybook is a frontend workshop for building UI components and pages in isolation. Made for UI development, testing, and documentation. </td>
+        <th><a href="https://github.com/storybookjs/storybook" target="_blank"><img alt="Storybook" src="https://img.shields.io/github/stars/storybookjs/storybook?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="SuPar" src="https://gitlibrary.club/images/uploads/2023/09/newshot-parser.jpg" /></td>
+        <td>Infrastructure</td>
+        <td>Python</td>
+        <td><a href="https://parser.yzhang.site/" target="_blank">SuPar</a></td>
+        <td>? State-of-the-art parsers for natural language.</td>
+        <th><a href="https://github.com/yzhangcs/parser" target="_blank"><img alt="SuPar" src="https://img.shields.io/github/stars/yzhangcs/parser?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="Passwordless.ID" src="https://gitlibrary.club/images/uploads/2023/09/newshot-www.png" /></td>
         <td>Security</td>
         <td>JavaScript</td>
@@ -302,22 +318,6 @@
         <td><a href="https://actions.cicirello.org/javadoc-cleanup/" target="_blank">javadoc-cleanup</a></td>
         <td>Create mobile-friendly documentation sites by post-processing javadocs in GitHub Actions</td>
         <th><a href="https://github.com/cicirello/javadoc-cleanup" target="_blank"><img alt="javadoc-cleanup" src="https://img.shields.io/github/stars/cicirello/javadoc-cleanup?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="pyatv" src="https://gitlibrary.club/images/uploads/2023/09/newshot-pyatv.jpg" /></td>
-        <td>Miscellaneous</td>
-        <td>Python</td>
-        <td><a href="https://pyatv.dev" target="_blank">pyatv</a></td>
-        <td>A client library for Apple TV and AirPlay devices</td>
-        <th><a href="https://github.com/postlund/pyatv" target="_blank"><img alt="pyatv" src="https://img.shields.io/github/stars/postlund/pyatv?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="The FEA Man" src="https://gitlibrary.club/images/uploads/2023/09/newshot-TheFEAMan.png" /></td>
-        <td>Miscellaneous</td>
-        <td>undefined</td>
-        <td><a href="https://pizofreude.github.io/TheFEAMan/" target="_blank">The FEA Man</a></td>
-        <td>This repository contains lecture notes, code examples, calculation resources, and tutorials related to Technical Mechanics and Finite Element Analysis. It's designed to be a learning resource for s…</td>
-        <th><a href="https://github.com/pizofreude/TheFEAMan" target="_blank"><img alt="The FEA Man" src="https://img.shields.io/github/stars/pizofreude/TheFEAMan?style=social" /></a></th>
     </tr>
 
 </table>
@@ -5523,6 +5523,14 @@
         <td>BCMS is a Headless CMS for developers &amp; their clients. Works nicely with Gatsby, Next.js &amp; Nuxt. You can even self-host it.</td>
         <th><a href="https://github.com/bcms/cms" target="_blank"><img alt="BCMS" src="https://img.shields.io/github/stars/bcms/cms?style=social" /></a></th>
     </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Storybook" src="https://gitlibrary.club/images/uploads/2023/09/newshot-storybook-1.png" /></td>
+        <td>Collaboration</td>
+        <td>TypeScript</td>
+        <td><a href="https://storybook.js.org" target="_blank">Storybook</a></td>
+        <td>Storybook is a frontend workshop for building UI components and pages in isolation. Made for UI development, testing, and documentation. </td>
+        <th><a href="https://github.com/storybookjs/storybook" target="_blank"><img alt="Storybook" src="https://img.shields.io/github/stars/storybookjs/storybook?style=social" /></a></th>
+    </tr>
 
 </table>
 
@@ -7037,6 +7045,14 @@
         <td>The enterprise-ready webhooks service ?</td>
         <th><a href="https://github.com/svix/svix-webhooks" target="_blank"><img alt="Svix Webhooks" src="https://img.shields.io/github/stars/svix/svix-webhooks?style=social" /></a></th>
     </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="SuPar" src="https://gitlibrary.club/images/uploads/2023/09/newshot-parser.jpg" /></td>
+        <td>Infrastructure</td>
+        <td>Python</td>
+        <td><a href="https://parser.yzhang.site/" target="_blank">SuPar</a></td>
+        <td>? State-of-the-art parsers for natural language.</td>
+        <th><a href="https://github.com/yzhangcs/parser" target="_blank"><img alt="SuPar" src="https://img.shields.io/github/stars/yzhangcs/parser?style=social" /></a></th>
+    </tr>
 
 </table>
 
@@ -8259,6 +8275,14 @@
         <td><a href="https://www.npmjs.com/package/serverless-aws-secrets" target="_blank">Serverless AWS Secrets</a></td>
         <td>? Serverless plugin that reads environment variables and replaces secrets using AWS Secrets Manager ?</td>
         <th><a href="https://github.com/robin-thomas/serverless-aws-secrets" target="_blank"><img alt="Serverless AWS Secrets" src="https://img.shields.io/github/stars/robin-thomas/serverless-aws-secrets?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Storybook" src="https://gitlibrary.club/images/uploads/2023/09/newshot-storybook-1.png" /></td>
+        <td>Collaboration</td>
+        <td>TypeScript</td>
+        <td><a href="https://storybook.js.org" target="_blank">Storybook</a></td>
+        <td>Storybook is a frontend workshop for building UI components and pages in isolation. Made for UI development, testing, and documentation. </td>
+        <th><a href="https://github.com/storybookjs/storybook" target="_blank"><img alt="Storybook" src="https://img.shields.io/github/stars/storybookjs/storybook?style=social" /></a></th>
     </tr>
 
 </table>
@@ -11175,6 +11199,14 @@
         <td><a href="https://ezdxf.mozman.at" target="_blank">ezdxf</a></td>
         <td>Python interface to DXF</td>
         <th><a href="https://github.com/mozman/ezdxf" target="_blank"><img alt="ezdxf" src="https://img.shields.io/github/stars/mozman/ezdxf?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="SuPar" src="https://gitlibrary.club/images/uploads/2023/09/newshot-parser.jpg" /></td>
+        <td>Infrastructure</td>
+        <td>Python</td>
+        <td><a href="https://parser.yzhang.site/" target="_blank">SuPar</a></td>
+        <td>? State-of-the-art parsers for natural language.</td>
+        <th><a href="https://github.com/yzhangcs/parser" target="_blank"><img alt="SuPar" src="https://img.shields.io/github/stars/yzhangcs/parser?style=social" /></a></th>
     </tr>
 
 </table>
