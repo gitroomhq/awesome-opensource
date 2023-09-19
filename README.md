@@ -216,6 +216,14 @@
         <th><a href="https://github.com/michael/editable-website" target="_blank"><img alt="Editable Website" src="https://img.shields.io/github/stars/michael/editable-website?style=social" /></a></th>
     </tr>
     <tr>
+        <td nowrap="nowrap"><img width="33" alt="libhttpserver" src="https://gitlibrary.club/images/uploads/2023/09/newshot-libhttpserver.jpg" /></td>
+        <td>Infrastructure</td>
+        <td>C++</td>
+        <td><a href="https://github.com/etr/libhttpserver" target="_blank">libhttpserver</a></td>
+        <td>C++ library for creating an embedded Rest HTTP server (and more)</td>
+        <th><a href="https://github.com/etr/libhttpserver" target="_blank"><img alt="libhttpserver" src="https://img.shields.io/github/stars/etr/libhttpserver?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="Storybook" src="https://gitlibrary.club/images/uploads/2023/09/newshot-storybook-1.png" /></td>
         <td>Collaboration</td>
         <td>TypeScript</td>
@@ -310,14 +318,6 @@
         <td><a href="https://www.svix.com" target="_blank">Svix Webhooks</a></td>
         <td>The enterprise-ready webhooks service ?</td>
         <th><a href="https://github.com/svix/svix-webhooks" target="_blank"><img alt="Svix Webhooks" src="https://img.shields.io/github/stars/svix/svix-webhooks?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="nnom" src="https://gitlibrary.club/images/uploads/2023/09/newshot-nnom.jpg" /></td>
-        <td>Miscellaneous</td>
-        <td>C</td>
-        <td><a href="https://github.com/majianjia/nnom" target="_blank">nnom</a></td>
-        <td>A higher-level Neural Network library for microcontrollers.</td>
-        <th><a href="https://github.com/majianjia/nnom" target="_blank"><img alt="nnom" src="https://img.shields.io/github/stars/majianjia/nnom?style=social" /></a></th>
     </tr>
 
 </table>
@@ -519,6 +519,14 @@
         <th><a href="https://github.com/cicirello/jacoco-badge-generator" target="_blank"><img alt="jacoco-badge-generator" src="https://img.shields.io/github/stars/cicirello/jacoco-badge-generator?style=social" /></a></th>
     </tr>
     <tr>
+        <td nowrap="nowrap"><img width="33" alt="CGraph" src="https://gitlibrary.club/images/uploads/2023/09/newshot-CGraph.jpg" /></td>
+        <td>Infrastructure</td>
+        <td>C++</td>
+        <td><a href="http://www.chunel.cn" target="_blank">CGraph</a></td>
+        <td>【A simple C++ DAG framework】 一个简单好用的、无三方依赖的、跨平台的、收录于awesome-cpp的、基于流图的并行计算框架。欢迎star &amp; fork</td>
+        <th><a href="https://github.com/ChunelFeng/CGraph" target="_blank"><img alt="CGraph" src="https://img.shields.io/github/stars/ChunelFeng/CGraph?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="Everright-formEditor" src="https://gitlibrary.club/images/uploads/2023/05/newshot-Everright-formEditor.jpg" /></td>
         <td>Productivity</td>
         <td>JavaScript</td>
@@ -581,14 +589,6 @@
         <td><a href="https://actions.cicirello.org/user-statistician/" target="_blank">user-statistician</a></td>
         <td>Generate a GitHub stats SVG for your GitHub Profile README in GitHub Actions</td>
         <th><a href="https://github.com/cicirello/user-statistician" target="_blank"><img alt="user-statistician" src="https://img.shields.io/github/stars/cicirello/user-statistician?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="CGraph" src="https://gitlibrary.club/images/uploads/2023/09/newshot-CGraph.jpg" /></td>
-        <td>Infrastructure</td>
-        <td>C++</td>
-        <td><a href="http://www.chunel.cn" target="_blank">CGraph</a></td>
-        <td>【A simple C++ DAG framework】 一个简单好用的、无三方依赖的、跨平台的、收录于awesome-cpp的、基于流图的并行计算框架。欢迎star &amp; fork</td>
-        <th><a href="https://github.com/ChunelFeng/CGraph" target="_blank"><img alt="CGraph" src="https://img.shields.io/github/stars/ChunelFeng/CGraph?style=social" /></a></th>
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="awesome window manager" src="https://gitlibrary.club/images/uploads/2023/05/newshot-awesome.png" /></td>
@@ -5878,6 +5878,14 @@
         <th><a href="https://github.com/cicirello/pyaction" target="_blank"><img alt="pyaction" src="https://img.shields.io/github/stars/cicirello/pyaction?style=social" /></a></th>
     </tr>
     <tr>
+        <td nowrap="nowrap"><img width="33" alt="CGraph" src="https://gitlibrary.club/images/uploads/2023/09/newshot-CGraph.jpg" /></td>
+        <td>Infrastructure</td>
+        <td>C++</td>
+        <td><a href="http://www.chunel.cn" target="_blank">CGraph</a></td>
+        <td>【A simple C++ DAG framework】 一个简单好用的、无三方依赖的、跨平台的、收录于awesome-cpp的、基于流图的并行计算框架。欢迎star &amp; fork</td>
+        <th><a href="https://github.com/ChunelFeng/CGraph" target="_blank"><img alt="CGraph" src="https://img.shields.io/github/stars/ChunelFeng/CGraph?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="Configu" src="https://gitlibrary.club/images/uploads/2023/08/newshot-configu.png" /></td>
         <td>Infrastructure</td>
         <td>TypeScript</td>
@@ -5900,14 +5908,6 @@
         <td><a href="https://devtron.ai" target="_blank">Devtron</a></td>
         <td>Tool integration platform for Kubernetes</td>
         <th><a href="https://github.com/devtron-labs/devtron" target="_blank"><img alt="Devtron" src="https://img.shields.io/github/stars/devtron-labs/devtron?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="CGraph" src="https://gitlibrary.club/images/uploads/2023/09/newshot-CGraph.jpg" /></td>
-        <td>Infrastructure</td>
-        <td>C++</td>
-        <td><a href="http://www.chunel.cn" target="_blank">CGraph</a></td>
-        <td>【A simple C++ DAG framework】 一个简单好用的、无三方依赖的、跨平台的、收录于awesome-cpp的、基于流图的并行计算框架。欢迎star &amp; fork</td>
-        <th><a href="https://github.com/ChunelFeng/CGraph" target="_blank"><img alt="CGraph" src="https://img.shields.io/github/stars/ChunelFeng/CGraph?style=social" /></a></th>
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="group_button" src="https://gitlibrary.club/images/uploads/2023/05/newshot-group_button.jpg" /></td>
@@ -7108,6 +7108,14 @@
         <td><a href="https://kr8s.org" target="_blank">kr8s</a></td>
         <td>A batteries-included Python client library for Kubernetes that feels familiar for folks who already know how to use kubectl</td>
         <th><a href="https://github.com/kr8s-org/kr8s" target="_blank"><img alt="kr8s" src="https://img.shields.io/github/stars/kr8s-org/kr8s?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="libhttpserver" src="https://gitlibrary.club/images/uploads/2023/09/newshot-libhttpserver.jpg" /></td>
+        <td>Infrastructure</td>
+        <td>C++</td>
+        <td><a href="https://github.com/etr/libhttpserver" target="_blank">libhttpserver</a></td>
+        <td>C++ library for creating an embedded Rest HTTP server (and more)</td>
+        <th><a href="https://github.com/etr/libhttpserver" target="_blank"><img alt="libhttpserver" src="https://img.shields.io/github/stars/etr/libhttpserver?style=social" /></a></th>
     </tr>
 
 </table>
@@ -11621,6 +11629,14 @@
         <td><a href="https://mpusz.github.io/mp-units/" target="_blank">mp-units</a></td>
         <td>A Physical Quantities and Units library for C++</td>
         <th><a href="https://github.com/mpusz/mp-units" target="_blank"><img alt="mp-units" src="https://img.shields.io/github/stars/mpusz/mp-units?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="libhttpserver" src="https://gitlibrary.club/images/uploads/2023/09/newshot-libhttpserver.jpg" /></td>
+        <td>Infrastructure</td>
+        <td>C++</td>
+        <td><a href="https://github.com/etr/libhttpserver" target="_blank">libhttpserver</a></td>
+        <td>C++ library for creating an embedded Rest HTTP server (and more)</td>
+        <th><a href="https://github.com/etr/libhttpserver" target="_blank"><img alt="libhttpserver" src="https://img.shields.io/github/stars/etr/libhttpserver?style=social" /></a></th>
     </tr>
 
 </table>
