@@ -56,9 +56,11 @@
              </li>          <li>
                 <a href="#rust">Top 20 Rust libraries</a>
              </li>          <li>
+                <a href="#python">Top 20 Python libraries</a>
+             </li>          <li>
                 <a href="#javascript">Top 20 JavaScript libraries</a>
              </li>          <li>
-                <a href="#python">Top 20 Python libraries</a>
+                <a href="#c++">Top 20 C++ libraries</a>
              </li>          <li>
                 <a href="#lua">Top 20 Lua libraries</a>
              </li>          <li>
@@ -71,8 +73,6 @@
                 <a href="#vue">Top 20 Vue libraries</a>
              </li>          <li>
                 <a href="#ruby">Top 20 Ruby libraries</a>
-             </li>          <li>
-                <a href="#c++">Top 20 C++ libraries</a>
              </li>          <li>
                 <a href="#jsonnet">Top 20 Jsonnet libraries</a>
              </li>          <li>
@@ -160,12 +160,60 @@
         <th>Stargazers</th>
     </tr>
         <tr>
+        <td nowrap="nowrap"><img width="33" alt="CGraph" src="https://gitlibrary.club/images/uploads/2023/09/newshot-CGraph.jpg" /></td>
+        <td>Infrastructure</td>
+        <td>C++</td>
+        <td><a href="http://www.chunel.cn" target="_blank">CGraph</a></td>
+        <td>【A simple C++ DAG framework】 一个简单好用的、无三方依赖的、跨平台的、收录于awesome-cpp的、基于流图的并行计算框架。欢迎star &amp; fork</td>
+        <th><a href="https://github.com/ChunelFeng/CGraph" target="_blank"><img alt="CGraph" src="https://img.shields.io/github/stars/ChunelFeng/CGraph?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="RecoverPy" src="https://gitlibrary.club/images/uploads/2023/09/newshot-RecoverPy.jpg" /></td>
         <td>Observability</td>
         <td>Python</td>
         <td><a href="https://github.com/PabloLec/RecoverPy" target="_blank">RecoverPy</a></td>
         <td>Interactively find and recover deleted or ? overwritten ? files from your terminal</td>
         <th><a href="https://github.com/PabloLec/RecoverPy" target="_blank"><img alt="RecoverPy" src="https://img.shields.io/github/stars/PabloLec/RecoverPy?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Bytecoder" src="https://gitlibrary.club/images/uploads/2023/09/newshot-Bytecoder.jpg" /></td>
+        <td>Miscellaneous</td>
+        <td>Java</td>
+        <td><a href="https://www.mirkosertic.de/blog/2017/06/compiling-bytecode-to-javascript/" target="_blank">Bytecoder</a></td>
+        <td>Framework to interpret and transpile JVM bytecode to JavaScript, OpenCL or WebAssembly.</td>
+        <th><a href="https://github.com/mirkosertic/Bytecoder" target="_blank"><img alt="Bytecoder" src="https://img.shields.io/github/stars/mirkosertic/Bytecoder?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="FXDesktopSearch" src="https://gitlibrary.club/images/uploads/2023/09/newshot-FXDesktopSearch.jpg" /></td>
+        <td>Productivity</td>
+        <td>Java</td>
+        <td><a href="https://github.com/mirkosertic/FXDesktopSearch" target="_blank">FXDesktopSearch</a></td>
+        <td>A JavaFX based desktop search application.</td>
+        <th><a href="https://github.com/mirkosertic/FXDesktopSearch" target="_blank"><img alt="FXDesktopSearch" src="https://img.shields.io/github/stars/mirkosertic/FXDesktopSearch?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="flight-recorder-starter" src="https://gitlibrary.club/images/uploads/2023/09/newshot-flight-recorder-starter.jpg" /></td>
+        <td>Observability</td>
+        <td>Java</td>
+        <td><a href="https://github.com/mirkosertic/flight-recorder-starter" target="_blank">flight-recorder-starter</a></td>
+        <td>This is a Spring Boot 2 Starter exposing the JDK Flight Recorder as a Spring Boot Actuator Endpoint.</td>
+        <th><a href="https://github.com/mirkosertic/flight-recorder-starter" target="_blank"><img alt="flight-recorder-starter" src="https://img.shields.io/github/stars/mirkosertic/flight-recorder-starter?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="kr8s" src="https://gitlibrary.club/images/uploads/2023/09/newshot-kr8s.png" /></td>
+        <td>Infrastructure</td>
+        <td>Python</td>
+        <td><a href="https://kr8s.org" target="_blank">kr8s</a></td>
+        <td>A batteries-included Python client library for Kubernetes that feels familiar for folks who already know how to use kubectl</td>
+        <th><a href="https://github.com/kr8s-org/kr8s" target="_blank"><img alt="kr8s" src="https://img.shields.io/github/stars/kr8s-org/kr8s?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Editable Website" src="https://gitlibrary.club/images/uploads/2023/09/newshot-editable-website.jpg" /></td>
+        <td>Miscellaneous</td>
+        <td>Svelte</td>
+        <td><a href="https://editable.website" target="_blank">Editable Website</a></td>
+        <td>A SvelteKit template for building CMS-free editable websites </td>
+        <th><a href="https://github.com/michael/editable-website" target="_blank"><img alt="Editable Website" src="https://img.shields.io/github/stars/michael/editable-website?style=social" /></a></th>
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="Storybook" src="https://gitlibrary.club/images/uploads/2023/09/newshot-storybook-1.png" /></td>
@@ -270,54 +318,6 @@
         <td><a href="https://github.com/majianjia/nnom" target="_blank">nnom</a></td>
         <td>A higher-level Neural Network library for microcontrollers.</td>
         <th><a href="https://github.com/majianjia/nnom" target="_blank"><img alt="nnom" src="https://img.shields.io/github/stars/majianjia/nnom?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="rstest" src="https://gitlibrary.club/images/uploads/2023/09/newshot-rstest.jpg" /></td>
-        <td>Productivity</td>
-        <td>Rust</td>
-        <td><a href="https://github.com/la10736/rstest" target="_blank">rstest</a></td>
-        <td>Fixture-based test framework for Rust</td>
-        <th><a href="https://github.com/la10736/rstest" target="_blank"><img alt="rstest" src="https://img.shields.io/github/stars/la10736/rstest?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="ezdxf" src="https://gitlibrary.club/images/uploads/2023/09/newshot-ezdxf.png" /></td>
-        <td>Infrastructure</td>
-        <td>Python</td>
-        <td><a href="https://ezdxf.mozman.at" target="_blank">ezdxf</a></td>
-        <td>Python interface to DXF</td>
-        <th><a href="https://github.com/mozman/ezdxf" target="_blank"><img alt="ezdxf" src="https://img.shields.io/github/stars/mozman/ezdxf?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="ezdxf" src="https://gitlibrary.club/images/uploads/2023/09/newshot-ezdxf-1.png" /></td>
-        <td>Infrastructure</td>
-        <td>Python</td>
-        <td><a href="https://ezdxf.mozman.at" target="_blank">ezdxf</a></td>
-        <td>Python interface to DXF</td>
-        <th><a href="https://github.com/mozman/ezdxf" target="_blank"><img alt="ezdxf" src="https://img.shields.io/github/stars/mozman/ezdxf?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Excalibur.js 2D game engine for the web!" src="https://gitlibrary.club/images/uploads/2023/09/newshot-Excalibur.png" /></td>
-        <td>Miscellaneous</td>
-        <td>TypeScript</td>
-        <td><a href="https://excaliburjs.com" target="_blank">Excalibur.js 2D game engine for the web!</a></td>
-        <td>? An easy to use 2D HTML5 game engine written in TypeScript</td>
-        <th><a href="https://github.com/excaliburjs/Excalibur" target="_blank"><img alt="Excalibur.js 2D game engine for the web!" src="https://img.shields.io/github/stars/excaliburjs/Excalibur?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Excalibur.js 2D game engine for the web!" src="https://gitlibrary.club/images/uploads/2023/09/newshot-Excalibur-1.png" /></td>
-        <td>Miscellaneous</td>
-        <td>TypeScript</td>
-        <td><a href="https://excaliburjs.com" target="_blank">Excalibur.js 2D game engine for the web!</a></td>
-        <td>? An easy to use 2D HTML5 game engine written in TypeScript</td>
-        <th><a href="https://github.com/excaliburjs/Excalibur" target="_blank"><img alt="Excalibur.js 2D game engine for the web!" src="https://img.shields.io/github/stars/excaliburjs/Excalibur?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="generate-sitemap" src="https://gitlibrary.club/images/uploads/2023/09/newshot-generate-sitemap.jpg" /></td>
-        <td>Infrastructure</td>
-        <td>Python</td>
-        <td><a href="https://actions.cicirello.org/generate-sitemap/" target="_blank">generate-sitemap</a></td>
-        <td>Generate an XML sitemap for a GitHub Pages site using GitHub Actions</td>
-        <th><a href="https://github.com/cicirello/generate-sitemap" target="_blank"><img alt="generate-sitemap" src="https://img.shields.io/github/stars/cicirello/generate-sitemap?style=social" /></a></th>
     </tr>
 
 </table>
@@ -439,20 +439,20 @@
         <th><a href="https://github.com/kubescape/kubescape" target="_blank"><img alt="Kubescape" src="https://img.shields.io/github/stars/kubescape/kubescape?style=social" /></a></th>
     </tr>
     <tr>
-        <td nowrap="nowrap"><img width="33" alt="Appwrite" src="https://gitlibrary.club/images/uploads/2023/05/newshot-appwrite.png" /></td>
-        <td>Databases</td>
-        <td>TypeScript</td>
-        <td><a href="https://appwrite.io" target="_blank">Appwrite</a></td>
-        <td>Build Fast. Scale Big. All in One Place.</td>
-        <th><a href="https://github.com/appwrite/appwrite" target="_blank"><img alt="Appwrite" src="https://img.shields.io/github/stars/appwrite/appwrite?style=social" /></a></th>
-    </tr>
-    <tr>
         <td nowrap="nowrap"><img width="33" alt="Chips-n-Salsa" src="https://gitlibrary.club/images/uploads/2023/08/newshot-Chips-n-Salsa.jpg" /></td>
         <td>Miscellaneous</td>
         <td>Java</td>
         <td><a href="https://chips-n-salsa.cicirello.org/" target="_blank">Chips-n-Salsa</a></td>
         <td>A Java library of Customizable, Hybridizable, Iterative, Parallel, Stochastic, and Self-Adaptive Local Search Algorithms</td>
         <th><a href="https://github.com/cicirello/Chips-n-Salsa" target="_blank"><img alt="Chips-n-Salsa" src="https://img.shields.io/github/stars/cicirello/Chips-n-Salsa?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Appwrite" src="https://gitlibrary.club/images/uploads/2023/05/newshot-appwrite.png" /></td>
+        <td>Databases</td>
+        <td>TypeScript</td>
+        <td><a href="https://appwrite.io" target="_blank">Appwrite</a></td>
+        <td>Build Fast. Scale Big. All in One Place.</td>
+        <th><a href="https://github.com/appwrite/appwrite" target="_blank"><img alt="Appwrite" src="https://img.shields.io/github/stars/appwrite/appwrite?style=social" /></a></th>
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="Hook0" src="https://gitlibrary.club/images/uploads/2023/08/newshot-hook0.png" /></td>
@@ -479,6 +479,14 @@
         <th><a href="https://github.com/cicirello/JavaPermutationTools" target="_blank"><img alt="JavaPermutationTools" src="https://img.shields.io/github/stars/cicirello/JavaPermutationTools?style=social" /></a></th>
     </tr>
     <tr>
+        <td nowrap="nowrap"><img width="33" alt="pyaction" src="https://gitlibrary.club/images/uploads/2023/09/newshot-pyaction.jpg" /></td>
+        <td>Infrastructure</td>
+        <td>Python</td>
+        <td><a href="https://actions.cicirello.org/pyaction/" target="_blank">pyaction</a></td>
+        <td>A Docker container with Python, git, and the Github CLI</td>
+        <th><a href="https://github.com/cicirello/pyaction" target="_blank"><img alt="pyaction" src="https://img.shields.io/github/stars/cicirello/pyaction?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="auto-dop" src="https://gitlibrary.club/images/uploads/2023/05/newshot-auto-dop.jpg" /></td>
         <td>Productivity</td>
         <td>JavaScript</td>
@@ -503,12 +511,12 @@
         <th><a href="https://github.com/cicirello/rho-mu" target="_blank"><img alt="ρμ" src="https://img.shields.io/github/stars/cicirello/rho-mu?style=social" /></a></th>
     </tr>
     <tr>
-        <td nowrap="nowrap"><img width="33" alt="pyaction" src="https://gitlibrary.club/images/uploads/2023/09/newshot-pyaction.jpg" /></td>
-        <td>Infrastructure</td>
+        <td nowrap="nowrap"><img width="33" alt="jacoco-badge-generator" src="https://gitlibrary.club/images/uploads/2023/09/newshot-jacoco-badge-generator.jpg" /></td>
+        <td>Analytics</td>
         <td>Python</td>
-        <td><a href="https://actions.cicirello.org/pyaction/" target="_blank">pyaction</a></td>
-        <td>A Docker container with Python, git, and the Github CLI</td>
-        <th><a href="https://github.com/cicirello/pyaction" target="_blank"><img alt="pyaction" src="https://img.shields.io/github/stars/cicirello/pyaction?style=social" /></a></th>
+        <td><a href="https://actions.cicirello.org/jacoco-badge-generator/" target="_blank">jacoco-badge-generator</a></td>
+        <td>Coverage badges, and pull request coverage checks, from JaCoCo reports in GitHub Actions</td>
+        <th><a href="https://github.com/cicirello/jacoco-badge-generator" target="_blank"><img alt="jacoco-badge-generator" src="https://img.shields.io/github/stars/cicirello/jacoco-badge-generator?style=social" /></a></th>
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="Everright-formEditor" src="https://gitlibrary.club/images/uploads/2023/05/newshot-Everright-formEditor.jpg" /></td>
@@ -517,14 +525,6 @@
         <td><a href="https://everright.site/en/module/formEditor/introduction.html" target="_blank">Everright-formEditor</a></td>
         <td>A visual low code form editor based on vue, The PC depends on element-plus while the mobile depends on vant. It provides an easy way to create custom forms. The project is extensible, easy to use a…</td>
         <th><a href="https://github.com/Liberty-liu/Everright-formEditor" target="_blank"><img alt="Everright-formEditor" src="https://img.shields.io/github/stars/Liberty-liu/Everright-formEditor?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="jacoco-badge-generator" src="https://gitlibrary.club/images/uploads/2023/09/newshot-jacoco-badge-generator.jpg" /></td>
-        <td>Analytics</td>
-        <td>Python</td>
-        <td><a href="https://actions.cicirello.org/jacoco-badge-generator/" target="_blank">jacoco-badge-generator</a></td>
-        <td>Coverage badges, and pull request coverage checks, from JaCoCo reports in GitHub Actions</td>
-        <th><a href="https://github.com/cicirello/jacoco-badge-generator" target="_blank"><img alt="jacoco-badge-generator" src="https://img.shields.io/github/stars/cicirello/jacoco-badge-generator?style=social" /></a></th>
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="Bitwarden" src="https://gitlibrary.club/images/uploads/2023/05/newshot-clients-1.png" /></td>
@@ -573,6 +573,22 @@
         <td><a href="https://brapi.dev" target="_blank">brapi</a></td>
         <td>A poderosa API open source para dados financeiros do mercado de ações, conversão de moedas e inflação brasileira</td>
         <th><a href="https://github.com/Alissonsleal/brapi" target="_blank"><img alt="brapi" src="https://img.shields.io/github/stars/Alissonsleal/brapi?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="user-statistician" src="https://gitlibrary.club/images/uploads/2023/09/newshot-user-statistician.jpg" /></td>
+        <td>Analytics</td>
+        <td>Python</td>
+        <td><a href="https://actions.cicirello.org/user-statistician/" target="_blank">user-statistician</a></td>
+        <td>Generate a GitHub stats SVG for your GitHub Profile README in GitHub Actions</td>
+        <th><a href="https://github.com/cicirello/user-statistician" target="_blank"><img alt="user-statistician" src="https://img.shields.io/github/stars/cicirello/user-statistician?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="CGraph" src="https://gitlibrary.club/images/uploads/2023/09/newshot-CGraph.jpg" /></td>
+        <td>Infrastructure</td>
+        <td>C++</td>
+        <td><a href="http://www.chunel.cn" target="_blank">CGraph</a></td>
+        <td>【A simple C++ DAG framework】 一个简单好用的、无三方依赖的、跨平台的、收录于awesome-cpp的、基于流图的并行计算框架。欢迎star &amp; fork</td>
+        <th><a href="https://github.com/ChunelFeng/CGraph" target="_blank"><img alt="CGraph" src="https://img.shields.io/github/stars/ChunelFeng/CGraph?style=social" /></a></th>
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="awesome window manager" src="https://gitlibrary.club/images/uploads/2023/05/newshot-awesome.png" /></td>
@@ -711,12 +727,20 @@
         <th><a href="https://github.com/cicirello/core" target="_blank"><img alt="core" src="https://img.shields.io/github/stars/cicirello/core?style=social" /></a></th>
     </tr>
     <tr>
-        <td nowrap="nowrap"><img width="33" alt="user-statistician" src="https://gitlibrary.club/images/uploads/2023/09/newshot-user-statistician.jpg" /></td>
-        <td>Analytics</td>
+        <td nowrap="nowrap"><img width="33" alt="generate-sitemap" src="https://gitlibrary.club/images/uploads/2023/09/newshot-generate-sitemap.jpg" /></td>
+        <td>Infrastructure</td>
         <td>Python</td>
-        <td><a href="https://actions.cicirello.org/user-statistician/" target="_blank">user-statistician</a></td>
-        <td>Generate a GitHub stats SVG for your GitHub Profile README in GitHub Actions</td>
-        <th><a href="https://github.com/cicirello/user-statistician" target="_blank"><img alt="user-statistician" src="https://img.shields.io/github/stars/cicirello/user-statistician?style=social" /></a></th>
+        <td><a href="https://actions.cicirello.org/generate-sitemap/" target="_blank">generate-sitemap</a></td>
+        <td>Generate an XML sitemap for a GitHub Pages site using GitHub Actions</td>
+        <th><a href="https://github.com/cicirello/generate-sitemap" target="_blank"><img alt="generate-sitemap" src="https://img.shields.io/github/stars/cicirello/generate-sitemap?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="javadoc-cleanup" src="https://gitlibrary.club/images/uploads/2023/09/newshot-javadoc-cleanup.jpg" /></td>
+        <td>Miscellaneous</td>
+        <td>Python</td>
+        <td><a href="https://actions.cicirello.org/javadoc-cleanup/" target="_blank">javadoc-cleanup</a></td>
+        <td>Create mobile-friendly documentation sites by post-processing javadocs in GitHub Actions</td>
+        <th><a href="https://github.com/cicirello/javadoc-cleanup" target="_blank"><img alt="javadoc-cleanup" src="https://img.shields.io/github/stars/cicirello/javadoc-cleanup?style=social" /></a></th>
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="GitHub Support" src="https://gitlibrary.club/images/uploads/2023/05/newshot-dmca.png" /></td>
@@ -893,22 +917,6 @@
         <td><a href="https://tgui.eu" target="_blank">TGUI</a></td>
         <td>Cross-platform modern c++ GUI</td>
         <th><a href="https://github.com/texus/TGUI" target="_blank"><img alt="TGUI" src="https://img.shields.io/github/stars/texus/TGUI?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="generate-sitemap" src="https://gitlibrary.club/images/uploads/2023/09/newshot-generate-sitemap.jpg" /></td>
-        <td>Infrastructure</td>
-        <td>Python</td>
-        <td><a href="https://actions.cicirello.org/generate-sitemap/" target="_blank">generate-sitemap</a></td>
-        <td>Generate an XML sitemap for a GitHub Pages site using GitHub Actions</td>
-        <th><a href="https://github.com/cicirello/generate-sitemap" target="_blank"><img alt="generate-sitemap" src="https://img.shields.io/github/stars/cicirello/generate-sitemap?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="javadoc-cleanup" src="https://gitlibrary.club/images/uploads/2023/09/newshot-javadoc-cleanup.jpg" /></td>
-        <td>Miscellaneous</td>
-        <td>Python</td>
-        <td><a href="https://actions.cicirello.org/javadoc-cleanup/" target="_blank">javadoc-cleanup</a></td>
-        <td>Create mobile-friendly documentation sites by post-processing javadocs in GitHub Actions</td>
-        <th><a href="https://github.com/cicirello/javadoc-cleanup" target="_blank"><img alt="javadoc-cleanup" src="https://img.shields.io/github/stars/cicirello/javadoc-cleanup?style=social" /></a></th>
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="Mirage JS" src="https://gitlibrary.club/images/uploads/2023/05/newshot-miragejs.png" /></td>
@@ -1126,14 +1134,6 @@
         <td>Generate beautiful Cucumber HTML reports</td>
         <th><a href="https://github.com/WasiqB/multiple-cucumber-html-reporter" target="_blank"><img alt="multiple-cucumber-html-reporter" src="https://img.shields.io/github/stars/WasiqB/multiple-cucumber-html-reporter?style=social" /></a></th>
     </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="@origranot/ts-logger" src="https://gitlibrary.club/images/uploads/2023/05/newshot-ts-logger.png" /></td>
-        <td>Infrastructure</td>
-        <td>TypeScript</td>
-        <td><a href="https://github.com/origranot/ts-logger" target="_blank">@origranot/ts-logger</a></td>
-        <td>A powerful and easy-to-use logging and debugging package for TypeScript</td>
-        <th><a href="https://github.com/origranot/ts-logger" target="_blank"><img alt="@origranot/ts-logger" src="https://img.shields.io/github/stars/origranot/ts-logger?style=social" /></a></th>
-    </tr>
 
 </table>
 
@@ -1222,6 +1222,14 @@
         <th><a href="https://github.com/cicirello/core" target="_blank"><img alt="core" src="https://img.shields.io/github/stars/cicirello/core?style=social" /></a></th>
     </tr>
     <tr>
+        <td nowrap="nowrap"><img width="33" alt="javadoc-cleanup" src="https://gitlibrary.club/images/uploads/2023/09/newshot-javadoc-cleanup.jpg" /></td>
+        <td>Miscellaneous</td>
+        <td>Python</td>
+        <td><a href="https://actions.cicirello.org/javadoc-cleanup/" target="_blank">javadoc-cleanup</a></td>
+        <td>Create mobile-friendly documentation sites by post-processing javadocs in GitHub Actions</td>
+        <th><a href="https://github.com/cicirello/javadoc-cleanup" target="_blank"><img alt="javadoc-cleanup" src="https://img.shields.io/github/stars/cicirello/javadoc-cleanup?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="GitHub Support" src="https://gitlibrary.club/images/uploads/2023/05/newshot-dmca.png" /></td>
         <td>Miscellaneous</td>
         <td>undefined</td>
@@ -1276,14 +1284,6 @@
         <td><a href="https://github.com/meganetaaan/stack-chan" target="_blank">Stack-chan</a></td>
         <td>A JavaScript-driven M5Stack-embedded super-kawaii robot.</td>
         <th><a href="https://github.com/meganetaaan/stack-chan" target="_blank"><img alt="Stack-chan" src="https://img.shields.io/github/stars/meganetaaan/stack-chan?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="javadoc-cleanup" src="https://gitlibrary.club/images/uploads/2023/09/newshot-javadoc-cleanup.jpg" /></td>
-        <td>Miscellaneous</td>
-        <td>Python</td>
-        <td><a href="https://actions.cicirello.org/javadoc-cleanup/" target="_blank">javadoc-cleanup</a></td>
-        <td>Create mobile-friendly documentation sites by post-processing javadocs in GitHub Actions</td>
-        <th><a href="https://github.com/cicirello/javadoc-cleanup" target="_blank"><img alt="javadoc-cleanup" src="https://img.shields.io/github/stars/cicirello/javadoc-cleanup?style=social" /></a></th>
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="wirepig" src="https://gitlibrary.club/images/uploads/2023/05/newshot-wirepig.jpg" /></td>
@@ -2413,6 +2413,22 @@
         <td>Country data extracts from OpenStreetMaps in GeoJson or PBF. Datasets of streets, houses, addresses and more.</td>
         <th><a href="https://github.com/dagnelies/open-street-data" target="_blank"><img alt="OpenStreetData" src="https://img.shields.io/github/stars/dagnelies/open-street-data?style=social" /></a></th>
     </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Bytecoder" src="https://gitlibrary.club/images/uploads/2023/09/newshot-Bytecoder.jpg" /></td>
+        <td>Miscellaneous</td>
+        <td>Java</td>
+        <td><a href="https://www.mirkosertic.de/blog/2017/06/compiling-bytecode-to-javascript/" target="_blank">Bytecoder</a></td>
+        <td>Framework to interpret and transpile JVM bytecode to JavaScript, OpenCL or WebAssembly.</td>
+        <th><a href="https://github.com/mirkosertic/Bytecoder" target="_blank"><img alt="Bytecoder" src="https://img.shields.io/github/stars/mirkosertic/Bytecoder?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Editable Website" src="https://gitlibrary.club/images/uploads/2023/09/newshot-editable-website.jpg" /></td>
+        <td>Miscellaneous</td>
+        <td>Svelte</td>
+        <td><a href="https://editable.website" target="_blank">Editable Website</a></td>
+        <td>A SvelteKit template for building CMS-free editable websites </td>
+        <th><a href="https://github.com/michael/editable-website" target="_blank"><img alt="Editable Website" src="https://img.shields.io/github/stars/michael/editable-website?style=social" /></a></th>
+    </tr>
 
 </table>
 
@@ -2690,6 +2706,14 @@
         <td><a href="https://github.com/PabloLec/RecoverPy" target="_blank">RecoverPy</a></td>
         <td>Interactively find and recover deleted or ? overwritten ? files from your terminal</td>
         <th><a href="https://github.com/PabloLec/RecoverPy" target="_blank"><img alt="RecoverPy" src="https://img.shields.io/github/stars/PabloLec/RecoverPy?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="flight-recorder-starter" src="https://gitlibrary.club/images/uploads/2023/09/newshot-flight-recorder-starter.jpg" /></td>
+        <td>Observability</td>
+        <td>Java</td>
+        <td><a href="https://github.com/mirkosertic/flight-recorder-starter" target="_blank">flight-recorder-starter</a></td>
+        <td>This is a Spring Boot 2 Starter exposing the JDK Flight Recorder as a Spring Boot Actuator Endpoint.</td>
+        <th><a href="https://github.com/mirkosertic/flight-recorder-starter" target="_blank"><img alt="flight-recorder-starter" src="https://img.shields.io/github/stars/mirkosertic/flight-recorder-starter?style=social" /></a></th>
     </tr>
 
 </table>
@@ -4497,6 +4521,14 @@
         <td>玫枫跟打器：五笔跟打器（网页版）</td>
         <th><a href="https://github.com/KyleBing/typepad" target="_blank"><img alt="Typepad" src="https://img.shields.io/github/stars/KyleBing/typepad?style=social" /></a></th>
     </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="FXDesktopSearch" src="https://gitlibrary.club/images/uploads/2023/09/newshot-FXDesktopSearch.jpg" /></td>
+        <td>Productivity</td>
+        <td>Java</td>
+        <td><a href="https://github.com/mirkosertic/FXDesktopSearch" target="_blank">FXDesktopSearch</a></td>
+        <td>A JavaFX based desktop search application.</td>
+        <th><a href="https://github.com/mirkosertic/FXDesktopSearch" target="_blank"><img alt="FXDesktopSearch" src="https://img.shields.io/github/stars/mirkosertic/FXDesktopSearch?style=social" /></a></th>
+    </tr>
 
 </table>
 
@@ -5870,6 +5902,14 @@
         <th><a href="https://github.com/devtron-labs/devtron" target="_blank"><img alt="Devtron" src="https://img.shields.io/github/stars/devtron-labs/devtron?style=social" /></a></th>
     </tr>
     <tr>
+        <td nowrap="nowrap"><img width="33" alt="CGraph" src="https://gitlibrary.club/images/uploads/2023/09/newshot-CGraph.jpg" /></td>
+        <td>Infrastructure</td>
+        <td>C++</td>
+        <td><a href="http://www.chunel.cn" target="_blank">CGraph</a></td>
+        <td>【A simple C++ DAG framework】 一个简单好用的、无三方依赖的、跨平台的、收录于awesome-cpp的、基于流图的并行计算框架。欢迎star &amp; fork</td>
+        <th><a href="https://github.com/ChunelFeng/CGraph" target="_blank"><img alt="CGraph" src="https://img.shields.io/github/stars/ChunelFeng/CGraph?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="group_button" src="https://gitlibrary.club/images/uploads/2023/05/newshot-group_button.jpg" /></td>
         <td>Infrastructure</td>
         <td>Dart</td>
@@ -5902,6 +5942,14 @@
         <th><a href="https://github.com/tcet-opensource/tcet-linux" target="_blank"><img alt="TCET Linux" src="https://img.shields.io/github/stars/tcet-opensource/tcet-linux?style=social" /></a></th>
     </tr>
     <tr>
+        <td nowrap="nowrap"><img width="33" alt="generate-sitemap" src="https://gitlibrary.club/images/uploads/2023/09/newshot-generate-sitemap.jpg" /></td>
+        <td>Infrastructure</td>
+        <td>Python</td>
+        <td><a href="https://actions.cicirello.org/generate-sitemap/" target="_blank">generate-sitemap</a></td>
+        <td>Generate an XML sitemap for a GitHub Pages site using GitHub Actions</td>
+        <th><a href="https://github.com/cicirello/generate-sitemap" target="_blank"><img alt="generate-sitemap" src="https://img.shields.io/github/stars/cicirello/generate-sitemap?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="Micronaut Framework" src="https://gitlibrary.club/images/uploads/2023/05/newshot-micronaut-core.png" /></td>
         <td>Infrastructure</td>
         <td>Java</td>
@@ -5932,14 +5980,6 @@
         <td><a href="https://medplum.com" target="_blank">Medplum</a></td>
         <td>Medplum is a healthcare platform that helps you quickly develop high-quality compliant applications.</td>
         <th><a href="https://github.com/medplum/medplum" target="_blank"><img alt="Medplum" src="https://img.shields.io/github/stars/medplum/medplum?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="generate-sitemap" src="https://gitlibrary.club/images/uploads/2023/09/newshot-generate-sitemap.jpg" /></td>
-        <td>Infrastructure</td>
-        <td>Python</td>
-        <td><a href="https://actions.cicirello.org/generate-sitemap/" target="_blank">generate-sitemap</a></td>
-        <td>Generate an XML sitemap for a GitHub Pages site using GitHub Actions</td>
-        <th><a href="https://github.com/cicirello/generate-sitemap" target="_blank"><img alt="generate-sitemap" src="https://img.shields.io/github/stars/cicirello/generate-sitemap?style=social" /></a></th>
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="Hyperf" src="https://gitlibrary.club/images/uploads/2023/05/newshot-hyperf.jpg" /></td>
@@ -7060,6 +7100,14 @@
         <td><a href="https://parser.yzhang.site/" target="_blank">SuPar</a></td>
         <td>? State-of-the-art parsers for natural language.</td>
         <th><a href="https://github.com/yzhangcs/parser" target="_blank"><img alt="SuPar" src="https://img.shields.io/github/stars/yzhangcs/parser?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="kr8s" src="https://gitlibrary.club/images/uploads/2023/09/newshot-kr8s.png" /></td>
+        <td>Infrastructure</td>
+        <td>Python</td>
+        <td><a href="https://kr8s.org" target="_blank">kr8s</a></td>
+        <td>A batteries-included Python client library for Kubernetes that feels familiar for folks who already know how to use kubectl</td>
+        <th><a href="https://github.com/kr8s-org/kr8s" target="_blank"><img alt="kr8s" src="https://img.shields.io/github/stars/kr8s-org/kr8s?style=social" /></a></th>
     </tr>
 
 </table>
@@ -9622,6 +9670,30 @@
         <td>Android Library to make it easy to create an Code editor or IDE that support any languages and themes, with auto complete, auto indenting, snippets and more features</td>
         <th><a href="https://github.com/AmrDeveloper/CodeView" target="_blank"><img alt="CodeView" src="https://img.shields.io/github/stars/AmrDeveloper/CodeView?style=social" /></a></th>
     </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Bytecoder" src="https://gitlibrary.club/images/uploads/2023/09/newshot-Bytecoder.jpg" /></td>
+        <td>Miscellaneous</td>
+        <td>Java</td>
+        <td><a href="https://www.mirkosertic.de/blog/2017/06/compiling-bytecode-to-javascript/" target="_blank">Bytecoder</a></td>
+        <td>Framework to interpret and transpile JVM bytecode to JavaScript, OpenCL or WebAssembly.</td>
+        <th><a href="https://github.com/mirkosertic/Bytecoder" target="_blank"><img alt="Bytecoder" src="https://img.shields.io/github/stars/mirkosertic/Bytecoder?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="FXDesktopSearch" src="https://gitlibrary.club/images/uploads/2023/09/newshot-FXDesktopSearch.jpg" /></td>
+        <td>Productivity</td>
+        <td>Java</td>
+        <td><a href="https://github.com/mirkosertic/FXDesktopSearch" target="_blank">FXDesktopSearch</a></td>
+        <td>A JavaFX based desktop search application.</td>
+        <th><a href="https://github.com/mirkosertic/FXDesktopSearch" target="_blank"><img alt="FXDesktopSearch" src="https://img.shields.io/github/stars/mirkosertic/FXDesktopSearch?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="flight-recorder-starter" src="https://gitlibrary.club/images/uploads/2023/09/newshot-flight-recorder-starter.jpg" /></td>
+        <td>Observability</td>
+        <td>Java</td>
+        <td><a href="https://github.com/mirkosertic/flight-recorder-starter" target="_blank">flight-recorder-starter</a></td>
+        <td>This is a Spring Boot 2 Starter exposing the JDK Flight Recorder as a Spring Boot Actuator Endpoint.</td>
+        <th><a href="https://github.com/mirkosertic/flight-recorder-starter" target="_blank"><img alt="flight-recorder-starter" src="https://img.shields.io/github/stars/mirkosertic/flight-recorder-starter?style=social" /></a></th>
+    </tr>
 
 </table>
 
@@ -9848,540 +9920,6 @@
 </table>
 
 <br /><br />
-<h2 id="javascript">Top 20 JavaScript libraries</h2>
-<table>
-    <tr>
-        <th>Icon</th>
-        <th>Category</th>
-        <th>Language</th>
-        <th>Name</th>
-        <th>Description</th>
-        <th>Stargazers</th>
-    </tr>
-        <tr>
-        <td nowrap="nowrap"><img width="33" alt="auto-dop" src="https://gitlibrary.club/images/uploads/2023/05/newshot-auto-dop.jpg" /></td>
-        <td>Productivity</td>
-        <td>JavaScript</td>
-        <td><a href="https://github.com/Erutidians/auto-dop" target="_blank">auto-dop</a></td>
-        <td>Automation for creating markdown files for 100 Days of Productivity challenge.</td>
-        <th><a href="https://github.com/Erutidians/auto-dop" target="_blank"><img alt="auto-dop" src="https://img.shields.io/github/stars/Erutidians/auto-dop?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Everright-formEditor" src="https://gitlibrary.club/images/uploads/2023/05/newshot-Everright-formEditor.jpg" /></td>
-        <td>Productivity</td>
-        <td>JavaScript</td>
-        <td><a href="https://everright.site/en/module/formEditor/introduction.html" target="_blank">Everright-formEditor</a></td>
-        <td>A visual low code form editor based on vue, The PC depends on element-plus while the mobile depends on vant. It provides an easy way to create custom forms. The project is extensible, easy to use a…</td>
-        <th><a href="https://github.com/Liberty-liu/Everright-formEditor" target="_blank"><img alt="Everright-formEditor" src="https://img.shields.io/github/stars/Liberty-liu/Everright-formEditor?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="IDURAR ERP CRM" src="https://gitlibrary.club/images/uploads/2023/07/newshot-idurar-erp-crm.png" /></td>
-        <td>Productivity</td>
-        <td>JavaScript</td>
-        <td><a href="https://demo-erp-crm.idurarapp.com/" target="_blank">IDURAR ERP CRM</a></td>
-        <td>ERP / CRM Open Source (Invoice / Inventory / Accounting / HR) Based on Node.js / React.js alternative to erpnext,salesforce and odoo</td>
-        <th><a href="https://github.com/idurar/idurar-erp-crm" target="_blank"><img alt="IDURAR ERP CRM" src="https://img.shields.io/github/stars/idurar/idurar-erp-crm?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="@node-oauth/oauth2-server" src="https://gitlibrary.club/images/uploads/2023/08/newshot-node-oauth2-server.png" /></td>
-        <td>Security</td>
-        <td>JavaScript</td>
-        <td><a href="https://www.npmjs.com/package/@node-oauth/oauth2-server" target="_blank">@node-oauth/oauth2-server</a></td>
-        <td>The unofficial successor to oauthjs/oauth2-server. Complete, compliant, maintained and well tested OAuth2 Server for node.js. Includes native async await and PKCE.</td>
-        <th><a href="https://github.com/node-oauth/node-oauth2-server" target="_blank"><img alt="@node-oauth/oauth2-server" src="https://img.shields.io/github/stars/node-oauth/node-oauth2-server?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Reejs" src="https://gitlibrary.club/images/uploads/2023/06/newshot-reejs.png" /></td>
-        <td>Productivity</td>
-        <td>JavaScript</td>
-        <td><a href="https://ree.js.org" target="_blank">Reejs</a></td>
-        <td>Make Sites Faster, without the need of building anything!</td>
-        <th><a href="https://github.com/rovelstars/reejs" target="_blank"><img alt="Reejs" src="https://img.shields.io/github/stars/rovelstars/reejs?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Easy Speech" src="https://gitlibrary.club/images/uploads/2023/08/newshot-easy-speech.jpg" /></td>
-        <td>Miscellaneous</td>
-        <td>JavaScript</td>
-        <td><a href="https://jankapunkt.github.io/easy-speech/" target="_blank">Easy Speech</a></td>
-        <td>Cross browser Speech Synthesis also known as Text to speech or TTS; no dependencies; uses Web Speech API</td>
-        <th><a href="https://github.com/jankapunkt/easy-speech" target="_blank"><img alt="Easy Speech" src="https://img.shields.io/github/stars/jankapunkt/easy-speech?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Meteor + React Native Starter Template" src="https://gitlibrary.club/images/uploads/2023/08/newshot-meteor-react-native-starter.jpg" /></td>
-        <td>Productivity</td>
-        <td>JavaScript</td>
-        <td><a href="https://github.com/jankapunkt/meteor-react-native-starter" target="_blank">Meteor + React Native Starter Template</a></td>
-        <td>The code repo for our workshop</td>
-        <th><a href="https://github.com/jankapunkt/meteor-react-native-starter" target="_blank"><img alt="Meteor + React Native Starter Template" src="https://img.shields.io/github/stars/jankapunkt/meteor-react-native-starter?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Mirage JS" src="https://gitlibrary.club/images/uploads/2023/05/newshot-miragejs.png" /></td>
-        <td>Productivity</td>
-        <td>JavaScript</td>
-        <td><a href="https://miragejs.com/" target="_blank">Mirage JS</a></td>
-        <td>A client-side server to build, test and share your JavaScript app</td>
-        <th><a href="https://github.com/miragejs/miragejs" target="_blank"><img alt="Mirage JS" src="https://img.shields.io/github/stars/miragejs/miragejs?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Docsify" src="https://gitlibrary.club/images/uploads/2023/05/newshot-docsify.png" /></td>
-        <td>Productivity</td>
-        <td>JavaScript</td>
-        <td><a href="https://docsify.js.org" target="_blank">Docsify</a></td>
-        <td><g-emoji class="g-emoji" alias="black_joker" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f0cf.png">?</g-emoji> A magical documentation site generator.</td>
-        <th><a href="https://github.com/docsifyjs/docsify" target="_blank"><img alt="Docsify" src="https://img.shields.io/github/stars/docsifyjs/docsify?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="lambda-perf" src="https://gitlibrary.club/images/uploads/2023/05/newshot-lambda-perf-17.jpg" /></td>
-        <td>Observability</td>
-        <td>JavaScript</td>
-        <td><a href="https://maxday.github.io/lambda-perf" target="_blank">lambda-perf</a></td>
-        <td>Lambda Cold Starts analysis, updated daily</td>
-        <th><a href="https://github.com/maxday/lambda-perf" target="_blank"><img alt="lambda-perf" src="https://img.shields.io/github/stars/maxday/lambda-perf?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="wirepig" src="https://gitlibrary.club/images/uploads/2023/05/newshot-wirepig.jpg" /></td>
-        <td>Miscellaneous</td>
-        <td>JavaScript</td>
-        <td><a href="https://github.com/griffinmyers/wirepig" target="_blank">wirepig</a></td>
-        <td>Better testing through the power of sockets.</td>
-        <th><a href="https://github.com/griffinmyers/wirepig" target="_blank"><img alt="wirepig" src="https://img.shields.io/github/stars/griffinmyers/wirepig?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="cypress-mochawesome-reporter" src="https://gitlibrary.club/images/uploads/2023/05/newshot-cypress-mochawesome-reporter.jpg" /></td>
-        <td>Miscellaneous</td>
-        <td>JavaScript</td>
-        <td><a href="https://github.com/LironEr/cypress-mochawesome-reporter" target="_blank">cypress-mochawesome-reporter</a></td>
-        <td>Zero config Mochawesome reporter for Cypress with screenshots and videos</td>
-        <th><a href="https://github.com/LironEr/cypress-mochawesome-reporter" target="_blank"><img alt="cypress-mochawesome-reporter" src="https://img.shields.io/github/stars/LironEr/cypress-mochawesome-reporter?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="multiple-cucumber-html-reporter" src="https://gitlibrary.club/images/uploads/2023/05/newshot-multiple-cucumber-html-reporter.jpg" /></td>
-        <td>Miscellaneous</td>
-        <td>JavaScript</td>
-        <td><a href="https://github.com/WasiqB/multiple-cucumber-html-reporter/blob/main/README.md" target="_blank">multiple-cucumber-html-reporter</a></td>
-        <td>Generate beautiful Cucumber HTML reports</td>
-        <th><a href="https://github.com/WasiqB/multiple-cucumber-html-reporter" target="_blank"><img alt="multiple-cucumber-html-reporter" src="https://img.shields.io/github/stars/WasiqB/multiple-cucumber-html-reporter?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Telenode" src="https://gitlibrary.club/images/uploads/2023/05/newshot-telenode.png" /></td>
-        <td>Notifications</td>
-        <td>JavaScript</td>
-        <td><a href="https://github.com/NivEz/telenode" target="_blank">Telenode</a></td>
-        <td>Lightweight Telegram API framework for Node.js</td>
-        <th><a href="https://github.com/NivEz/telenode" target="_blank"><img alt="Telenode" src="https://img.shields.io/github/stars/NivEz/telenode?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="REI3" src="https://gitlibrary.club/images/uploads/2023/07/newshot-r3.png" /></td>
-        <td>Productivity</td>
-        <td>JavaScript</td>
-        <td><a href="https://rei3.de" target="_blank">REI3</a></td>
-        <td>REI3 - Free and open low code</td>
-        <th><a href="https://github.com/r3-team/r3" target="_blank"><img alt="REI3" src="https://img.shields.io/github/stars/r3-team/r3?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="What Script Run" src="https://gitlibrary.club/images/uploads/2023/08/newshot-what-script-run.jpg" /></td>
-        <td>Productivity</td>
-        <td>JavaScript</td>
-        <td><a href="https://github.com/ronaldohoch/what-script-run" target="_blank">What Script Run</a></td>
-        <td>Small helper to choose which npm script run.</td>
-        <th><a href="https://github.com/ronaldohoch/what-script-run" target="_blank"><img alt="What Script Run" src="https://img.shields.io/github/stars/ronaldohoch/what-script-run?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Soundnode" src="https://gitlibrary.club/images/uploads/2023/05/newshot-soundnode-app.png" /></td>
-        <td>Productivity</td>
-        <td>JavaScript</td>
-        <td><a href="https://soundnode.github.io/soundnode-website/" target="_blank">Soundnode</a></td>
-        <td>Soundnode App is the Soundcloud for desktop. Built with Electron, Angular.js and Soundcloud API.</td>
-        <th><a href="https://github.com/Soundnode/soundnode-app" target="_blank"><img alt="Soundnode" src="https://img.shields.io/github/stars/Soundnode/soundnode-app?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Setup Falcon SQL Client" src="https://gitlibrary.club/images/uploads/2023/05/newshot-falcon.png" /></td>
-        <td>Databases</td>
-        <td>JavaScript</td>
-        <td><a href="https://plot.ly/free-sql-client-download/" target="_blank">Setup Falcon SQL Client</a></td>
-        <td>Free, open-source SQL client for Windows and Mac <g-emoji class="g-emoji" alias="eagle" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f985.png">?</g-emoji></td>
-        <th><a href="https://github.com/plotly/falcon" target="_blank"><img alt="Setup Falcon SQL Client" src="https://img.shields.io/github/stars/plotly/falcon?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="grocy" src="https://gitlibrary.club/images/uploads/2023/05/newshot-grocy.png" /></td>
-        <td>Productivity</td>
-        <td>JavaScript</td>
-        <td><a href="https://grocy.info" target="_blank">grocy</a></td>
-        <td>ERP beyond your fridge - grocy is a web-based self-hosted groceries &amp; household management solution for your home</td>
-        <th><a href="https://github.com/grocy/grocy" target="_blank"><img alt="grocy" src="https://img.shields.io/github/stars/grocy/grocy?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Elementor" src="https://gitlibrary.club/images/uploads/2023/05/newshot-elementor.png" /></td>
-        <td>Productivity</td>
-        <td>JavaScript</td>
-        <td><a href="https://elementor.com/" target="_blank">Elementor</a></td>
-        <td>The most advanced frontend drag &amp; drop page builder. Create high-end, pixel perfect websites at record speeds. Any theme, any page, any design.</td>
-        <th><a href="https://github.com/elementor/elementor" target="_blank"><img alt="Elementor" src="https://img.shields.io/github/stars/elementor/elementor?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Countly" src="https://gitlibrary.club/images/uploads/2023/05/newshot-countly-server.png" /></td>
-        <td>Analytics</td>
-        <td>JavaScript</td>
-        <td><a href="https://countly.com" target="_blank">Countly</a></td>
-        <td>Countly is a product analytics platform that helps teams track, analyze and act-on their user actions and behaviour on mobile, web and desktop applications.</td>
-        <th><a href="https://github.com/Countly/countly-server" target="_blank"><img alt="Countly" src="https://img.shields.io/github/stars/Countly/countly-server?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Ant Design Landing" src="https://gitlibrary.club/images/uploads/2023/05/newshot-ant-design-landing.png" /></td>
-        <td>Productivity</td>
-        <td>JavaScript</td>
-        <td><a href="https://landing.ant.design/" target="_blank">Ant Design Landing</a></td>
-        <td><g-emoji class="g-emoji" alias="mountain_bicyclist" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f6b5.png">?</g-emoji> Landing Pages of Ant Design System</td>
-        <th><a href="https://github.com/ant-design/ant-design-landing" target="_blank"><img alt="Ant Design Landing" src="https://img.shields.io/github/stars/ant-design/ant-design-landing?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="arkime/arkime" src="https://gitlibrary.club/images/uploads/2023/05/newshot-arkime.png" /></td>
-        <td>Infrastructure</td>
-        <td>JavaScript</td>
-        <td><a href="https://arkime.com" target="_blank">arkime/arkime</a></td>
-        <td>Arkime (formerly Moloch) is an open source, large scale, full packet capturing, indexing, and database system.</td>
-        <th><a href="https://github.com/arkime/arkime" target="_blank"><img alt="arkime/arkime" src="https://img.shields.io/github/stars/arkime/arkime?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="futurepress/epub.js" src="https://gitlibrary.club/images/uploads/2023/05/newshot-epub.js.png" /></td>
-        <td>Productivity</td>
-        <td>JavaScript</td>
-        <td><a href="http://futurepress.org" target="_blank">futurepress/epub.js</a></td>
-        <td>Enhanced eBooks in the browser.</td>
-        <th><a href="https://github.com/futurepress/epub.js" target="_blank"><img alt="futurepress/epub.js" src="https://img.shields.io/github/stars/futurepress/epub.js?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Fonoster" src="https://gitlibrary.club/images/uploads/2023/05/newshot-fonoster.png" /></td>
-        <td>Collaboration</td>
-        <td>JavaScript</td>
-        <td><a href="https://fonoster.com" target="_blank">Fonoster</a></td>
-        <td><g-emoji class="g-emoji" alias="rocket" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f680.png">?</g-emoji> The open-source alternative to Twilio</td>
-        <th><a href="https://github.com/fonoster/fonoster" target="_blank"><img alt="Fonoster" src="https://img.shields.io/github/stars/fonoster/fonoster?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Shapezio" src="https://gitlibrary.club/images/uploads/2023/05/newshot-shapez.io_.png" /></td>
-        <td>Productivity</td>
-        <td>JavaScript</td>
-        <td><a href="https://get.shapez.io/gh" target="_blank">Shapezio</a></td>
-        <td>shapez is an open source base building game on Steam inspired by factorio!</td>
-        <th><a href="https://github.com/tobspr-games/shapez.io" target="_blank"><img alt="Shapezio" src="https://img.shields.io/github/stars/tobspr-games/shapez.io?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Vue Apollo" src="https://gitlibrary.club/images/uploads/2023/05/newshot-apollo.png" /></td>
-        <td>Infrastructure</td>
-        <td>JavaScript</td>
-        <td><a href="http://apollo.vuejs.org" target="_blank">Vue Apollo</a></td>
-        <td><g-emoji class="g-emoji" alias="rocket" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f680.png">?</g-emoji> Apollo/GraphQL integration for VueJS</td>
-        <th><a href="https://github.com/vuejs/apollo" target="_blank"><img alt="Vue Apollo" src="https://img.shields.io/github/stars/vuejs/apollo?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Hexo Theme Fluid" src="https://gitlibrary.club/images/uploads/2023/05/newshot-hexo-theme-fluid.png" /></td>
-        <td>Productivity</td>
-        <td>JavaScript</td>
-        <td><a href="https://hexo.fluid-dev.com/" target="_blank">Hexo Theme Fluid</a></td>
-        <td><g-emoji class="g-emoji" alias="ocean" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f30a.png">?</g-emoji> 一款 Material Design 风格的 Hexo 主题 / An elegant Material-Design theme for Hexo</td>
-        <th><a href="https://github.com/fluid-dev/hexo-theme-fluid" target="_blank"><img alt="Hexo Theme Fluid" src="https://img.shields.io/github/stars/fluid-dev/hexo-theme-fluid?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="golden-layout" src="https://gitlibrary.club/images/uploads/2023/05/newshot-golden-layout.png" /></td>
-        <td>Productivity</td>
-        <td>JavaScript</td>
-        <td><a href="https://golden-layout.github.io/golden-layout" target="_blank">golden-layout</a></td>
-        <td>A multi window layout manager for webapps</td>
-        <th><a href="https://github.com/golden-layout/golden-layout" target="_blank"><img alt="golden-layout" src="https://img.shields.io/github/stars/golden-layout/golden-layout?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Notesnook by Streetwriters LLC" src="https://gitlibrary.club/images/uploads/2023/05/newshot-notesnook.png" /></td>
-        <td>Security</td>
-        <td>JavaScript</td>
-        <td><a href="https://notesnook.com/" target="_blank">Notesnook by Streetwriters LLC</a></td>
-        <td>A fully open source &amp; end-to-end encrypted note taking alternative to Evernote.</td>
-        <th><a href="https://github.com/streetwriters/notesnook" target="_blank"><img alt="Notesnook by Streetwriters LLC" src="https://img.shields.io/github/stars/streetwriters/notesnook?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="WeChat Open Doc" src="https://gitlibrary.club/images/uploads/2023/05/newshot-miniprogram-demo.png" /></td>
-        <td>Collaboration</td>
-        <td>JavaScript</td>
-        <td><a href="https://developers.weixin.qq.com/miniprogram/dev/index.html" target="_blank">WeChat Open Doc</a></td>
-        <td>微信小程序组件 / API / 云开发示例</td>
-        <th><a href="https://github.com/wechat-miniprogram/miniprogram-demo" target="_blank"><img alt="WeChat Open Doc" src="https://img.shields.io/github/stars/wechat-miniprogram/miniprogram-demo?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Xigua Player" src="https://gitlibrary.club/images/uploads/2023/05/newshot-xgplayer.png" /></td>
-        <td>Productivity</td>
-        <td>JavaScript</td>
-        <td><a href="https://h5player.bytedance.com/" target="_blank">Xigua Player</a></td>
-        <td>A HTML5 video player with a parser that saves traffic</td>
-        <th><a href="https://github.com/bytedance/xgplayer" target="_blank"><img alt="Xigua Player" src="https://img.shields.io/github/stars/bytedance/xgplayer?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Just by Chance" src="https://gitlibrary.club/images/uploads/2023/05/newshot-chancejs.png" /></td>
-        <td>Productivity</td>
-        <td>JavaScript</td>
-        <td><a href="http://chancejs.com" target="_blank">Just by Chance</a></td>
-        <td>Chance - Random generator helper for JavaScript</td>
-        <th><a href="https://github.com/chancejs/chancejs" target="_blank"><img alt="Just by Chance" src="https://img.shields.io/github/stars/chancejs/chancejs?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="CSS Doodle" src="https://gitlibrary.club/images/uploads/2023/05/newshot-css-doodle-1.png" /></td>
-        <td>Productivity</td>
-        <td>JavaScript</td>
-        <td><a href="https://css-doodle.com" target="_blank">CSS Doodle</a></td>
-        <td><g-emoji class="g-emoji" alias="art" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f3a8.png">?</g-emoji> A web component for drawing patterns with CSS.</td>
-        <th><a href="https://github.com/css-doodle/css-doodle" target="_blank"><img alt="CSS Doodle" src="https://img.shields.io/github/stars/css-doodle/css-doodle?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="melonJS" src="https://gitlibrary.club/images/uploads/2023/05/newshot-melonJS-1.png" /></td>
-        <td>Productivity</td>
-        <td>JavaScript</td>
-        <td><a href="https://melonjs.org" target="_blank">melonJS</a></td>
-        <td>a fresh, modern &amp; lightweight HTML5 game engine</td>
-        <th><a href="https://github.com/melonjs/melonJS" target="_blank"><img alt="melonJS" src="https://img.shields.io/github/stars/melonjs/melonJS?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="WebLLM" src="https://gitlibrary.club/images/uploads/2023/05/newshot-web-llm-1.jpg" /></td>
-        <td>Infrastructure</td>
-        <td>JavaScript</td>
-        <td><a href="https://mlc.ai/web-llm" target="_blank">WebLLM</a></td>
-        <td>Bringing large-language models and chat to web browsers. Everything runs inside the browser with no server support.</td>
-        <th><a href="https://github.com/mlc-ai/web-llm" target="_blank"><img alt="WebLLM" src="https://img.shields.io/github/stars/mlc-ai/web-llm?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="google-map-react/google-map-react" src="https://gitlibrary.club/images/uploads/2023/05/newshot-google-map-react-1.png" /></td>
-        <td>Infrastructure</td>
-        <td>JavaScript</td>
-        <td><a href="http://google-map-react.github.io/google-map-react/map/main/" target="_blank">google-map-react/google-map-react</a></td>
-        <td>Google map library for react that allows rendering components as markers <g-emoji class="g-emoji" alias="tada" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f389.png">?</g-emoji></td>
-        <th><a href="https://github.com/google-map-react/google-map-react" target="_blank"><img alt="google-map-react/google-map-react" src="https://img.shields.io/github/stars/google-map-react/google-map-react?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Moleculer - Progressive microservices framework for Node.js" src="https://gitlibrary.club/images/uploads/2023/05/newshot-moleculer-2.png" /></td>
-        <td>Infrastructure</td>
-        <td>JavaScript</td>
-        <td><a href="https://moleculer.services/" target="_blank">Moleculer - Progressive microservices framework for Node.js</a></td>
-        <td><g-emoji class="g-emoji" alias="rocket" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f680.png">?</g-emoji> Progressive microservices framework for Node.js</td>
-        <th><a href="https://github.com/moleculerjs/moleculer" target="_blank"><img alt="Moleculer - Progressive microservices framework for Node.js" src="https://img.shields.io/github/stars/moleculerjs/moleculer?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="log4js-node/log4js-node" src="https://gitlibrary.club/images/uploads/2023/05/newshot-log4js-node.png" /></td>
-        <td>Observability</td>
-        <td>JavaScript</td>
-        <td><a href="https://log4js-node.github.io/log4js-node/" target="_blank">log4js-node/log4js-node</a></td>
-        <td>A port of log4js to node.js</td>
-        <th><a href="https://github.com/log4js-node/log4js-node" target="_blank"><img alt="log4js-node/log4js-node" src="https://img.shields.io/github/stars/log4js-node/log4js-node?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="StackPath" src="https://gitlibrary.club/images/uploads/2023/05/newshot-axe-core-1.png" /></td>
-        <td>Observability</td>
-        <td>JavaScript</td>
-        <td><a href="https://www.deque.com/axe/" target="_blank">StackPath</a></td>
-        <td>Accessibility engine for automated Web UI testing</td>
-        <th><a href="https://github.com/dequelabs/axe-core" target="_blank"><img alt="StackPath" src="https://img.shields.io/github/stars/dequelabs/axe-core?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Pusakatest" src="https://gitlibrary.club/images/uploads/2023/05/newshot-pusakatest.jpg" /></td>
-        <td>Miscellaneous</td>
-        <td>JavaScript</td>
-        <td><a href="https://github.com/depapp/pusakatest" target="_blank">Pusakatest</a></td>
-        <td>pusakatest is an automation testing tool based on pactumjs using bdd (cucumber) style with localization</td>
-        <th><a href="https://github.com/depapp/pusakatest" target="_blank"><img alt="Pusakatest" src="https://img.shields.io/github/stars/depapp/pusakatest?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Action Discord Alerts" src="https://gitlibrary.club/images/uploads/2023/05/newshot-action-discord-alerts.jpg" /></td>
-        <td>Productivity</td>
-        <td>JavaScript</td>
-        <td><a href="https://github.com/marketplace/actions/action-discord-alerts" target="_blank">Action Discord Alerts</a></td>
-        <td>Action aimed at facilitating continuous delivery. You only need a Discord webhook to receive notifications for the completion status of your workflow. <g-emoji class="g-emoji" alias="tada" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f389.png">?</g-emoji></td>
-        <th><a href="https://github.com/ErnaneJ/action-discord-alerts" target="_blank"><img alt="Action Discord Alerts" src="https://img.shields.io/github/stars/ErnaneJ/action-discord-alerts?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="TradingWorks+" src="https://gitlibrary.club/images/uploads/2023/05/newshot-tradingworks-plus.jpg" /></td>
-        <td>Productivity</td>
-        <td>JavaScript</td>
-        <td><a href="https://github.com/ErnaneJ/tradingworks-plus" target="_blank">TradingWorks+</a></td>
-        <td>Extension developed with the aim of facilitating the usability of the TradingWorks platform for point management between work shifts.</td>
-        <th><a href="https://github.com/ErnaneJ/tradingworks-plus" target="_blank"><img alt="TradingWorks+" src="https://img.shields.io/github/stars/ErnaneJ/tradingworks-plus?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Document Makeup Library" src="https://gitlibrary.club/images/uploads/2023/05/newshot-DML.png" /></td>
-        <td>Productivity</td>
-        <td>JavaScript</td>
-        <td><a href="https://efpage.de/DML/DML_homepage" target="_blank">Document Makeup Library</a></td>
-        <td>An Object Oriented Web Programming Framework</td>
-        <th><a href="https://github.com/efpage/DML" target="_blank"><img alt="Document Makeup Library" src="https://img.shields.io/github/stars/efpage/DML?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Aimless.js" src="https://gitlibrary.club/images/uploads/2023/05/newshot-aimless.js.jpg" /></td>
-        <td>Productivity</td>
-        <td>JavaScript</td>
-        <td><a href="https://chriscavs.github.io/aimless-demo/" target="_blank">Aimless.js</a></td>
-        <td>The missing JavaScript randomness library.</td>
-        <th><a href="https://github.com/ChrisCavs/aimless.js" target="_blank"><img alt="Aimless.js" src="https://img.shields.io/github/stars/ChrisCavs/aimless.js?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="3kh0 Assets" src="https://gitlibrary.club/images/uploads/2023/05/newshot-ext-remover-5.jpg" /></td>
-        <td>Infrastructure</td>
-        <td>JavaScript</td>
-        <td><a href="https://3kh0.github.io/ext-remover/" target="_blank">3kh0 Assets</a></td>
-        <td>Bookmarklet exploit that can force-disable extensions installed on Chrome. Also has a very fancy GUI to manage all extensions!</td>
-        <th><a href="https://github.com/3kh0/ext-remover" target="_blank"><img alt="3kh0 Assets" src="https://img.shields.io/github/stars/3kh0/ext-remover?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Baby Query" src="https://gitlibrary.club/images/uploads/2023/05/newshot-baby-query.jpg" /></td>
-        <td>Infrastructure</td>
-        <td>JavaScript</td>
-        <td><a href="https://robiulhr.github.io/baby-query/" target="_blank">Baby Query</a></td>
-        <td>Baby Query is a custom implementation of the popular JavaScript library jQuery. </td>
-        <th><a href="https://github.com/robiulhr/baby-query" target="_blank"><img alt="Baby Query" src="https://img.shields.io/github/stars/robiulhr/baby-query?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Fancy Time" src="https://gitlibrary.club/images/uploads/2023/07/newshot-fancy-time.png" /></td>
-        <td>Productivity</td>
-        <td>JavaScript</td>
-        <td><a href="https://github.com/zNotChill/fancy-time" target="_blank">Fancy Time</a></td>
-        <td>A simple package for converting Unix to Readable.</td>
-        <th><a href="https://github.com/zNotChill/fancy-time" target="_blank"><img alt="Fancy Time" src="https://img.shields.io/github/stars/zNotChill/fancy-time?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Create Issue Branch" src="https://gitlibrary.club/images/uploads/2023/07/newshot-create-issue-branch.jpg" /></td>
-        <td>Productivity</td>
-        <td>JavaScript</td>
-        <td><a href="https://github.com/apps/create-issue-branch" target="_blank">Create Issue Branch</a></td>
-        <td>GitHub App/Action that automates the creation of issue branches</td>
-        <th><a href="https://github.com/robvanderleek/create-issue-branch" target="_blank"><img alt="Create Issue Branch" src="https://img.shields.io/github/stars/robvanderleek/create-issue-branch?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Float UI" src="https://gitlibrary.club/images/uploads/2023/07/newshot-floatui.png" /></td>
-        <td>Productivity</td>
-        <td>JavaScript</td>
-        <td><a href="https://floatui.com/" target="_blank">Float UI</a></td>
-        <td>Beautiful and responsive UI components and templates for React and Vue (soon) with Tailwind CSS.</td>
-        <th><a href="https://github.com/MarsX-dev/floatui" target="_blank"><img alt="Float UI" src="https://img.shields.io/github/stars/MarsX-dev/floatui?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Cirrus Start" src="https://gitlibrary.club/images/uploads/2023/07/newshot-Cirrus-Start-1.png" /></td>
-        <td>Productivity</td>
-        <td>JavaScript</td>
-        <td><a href="https://github.com/Cirrus-UI/Cirrus-Start" target="_blank">Cirrus Start</a></td>
-        <td><g-emoji class="g-emoji" alias="zap" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/26a1.png">⚡</g-emoji> The fastest way to build, develop, and deploy your next project with Cirrus.</td>
-        <th><a href="https://github.com/Cirrus-UI/Cirrus-Start" target="_blank"><img alt="Cirrus Start" src="https://img.shields.io/github/stars/Cirrus-UI/Cirrus-Start?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="utils.js" src="https://gitlibrary.club/images/uploads/2023/07/newshot-utils.js.jpg" /></td>
-        <td>Miscellaneous</td>
-        <td>JavaScript</td>
-        <td><a href="https://github.com/fabiocaccamo/utils.js" target="_blank">utils.js</a></td>
-        <td><g-emoji class="g-emoji" alias="construction_worker" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f477.png">?</g-emoji> <g-emoji class="g-emoji" alias="wrench" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f527.png">?</g-emoji> zero dependencies vanilla JavaScript utils.</td>
-        <th><a href="https://github.com/fabiocaccamo/utils.js" target="_blank"><img alt="utils.js" src="https://img.shields.io/github/stars/fabiocaccamo/utils.js?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Detect it Easy" src="https://gitlibrary.club/images/uploads/2023/07/newshot-Detect-It-Easy.png" /></td>
-        <td>Security</td>
-        <td>JavaScript</td>
-        <td><a href="http://ntinfo.biz" target="_blank">Detect it Easy</a></td>
-        <td>Program for determining types of files for Windows, Linux and MacOS.</td>
-        <th><a href="https://github.com/horsicq/Detect-It-Easy" target="_blank"><img alt="Detect it Easy" src="https://img.shields.io/github/stars/horsicq/Detect-It-Easy?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="React18-input-otp" src="https://gitlibrary.club/images/uploads/2023/08/newshot-react18-input-otp.jpg" /></td>
-        <td>Miscellaneous</td>
-        <td>JavaScript</td>
-        <td><a href="https://github.com/ritikbanger/react18-input-otp" target="_blank">React18-input-otp</a></td>
-        <td>A fully customizable, one-time password (OTP) and phone number with separator input component for the web built with React.</td>
-        <th><a href="https://github.com/ritikbanger/react18-input-otp" target="_blank"><img alt="React18-input-otp" src="https://img.shields.io/github/stars/ritikbanger/react18-input-otp?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="React Hooks Notes" src="https://gitlibrary.club/images/uploads/2023/08/newshot-react-hooks-notes.jpg" /></td>
-        <td>Productivity</td>
-        <td>JavaScript</td>
-        <td><a href="https://github.com/pavandeore/react-hooks-notes" target="_blank">React Hooks Notes</a></td>
-        <td>react hooks notes</td>
-        <th><a href="https://github.com/pavandeore/react-hooks-notes" target="_blank"><img alt="React Hooks Notes" src="https://img.shields.io/github/stars/pavandeore/react-hooks-notes?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Search Ray" src="https://gitlibrary.club/images/uploads/2023/08/newshot-search-ray.jpg" /></td>
-        <td>Productivity</td>
-        <td>JavaScript</td>
-        <td><a href="https://github.com/pavandeore/search-ray" target="_blank">Search Ray</a></td>
-        <td>search-ray is javascript library to search for item in array and it will return index of the found element using Linear and Binary search</td>
-        <th><a href="https://github.com/pavandeore/search-ray" target="_blank"><img alt="Search Ray" src="https://img.shields.io/github/stars/pavandeore/search-ray?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Math.js" src="https://gitlibrary.club/images/uploads/2023/08/newshot-mathjs.jpg" /></td>
-        <td>Productivity</td>
-        <td>JavaScript</td>
-        <td><a href="https://mathjs.org" target="_blank">Math.js</a></td>
-        <td>An extensive math library for JavaScript and Node.js</td>
-        <th><a href="https://github.com/josdejong/mathjs" target="_blank"><img alt="Math.js" src="https://img.shields.io/github/stars/josdejong/mathjs?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Wayne" src="https://gitlibrary.club/images/uploads/2023/08/newshot-wayne.png" /></td>
-        <td>Infrastructure</td>
-        <td>JavaScript</td>
-        <td><a href="https://jcubic.github.io/wayne" target="_blank">Wayne</a></td>
-        <td>Service Worker Routing library for in browser HTTP requests</td>
-        <th><a href="https://github.com/jcubic/wayne" target="_blank"><img alt="Wayne" src="https://img.shields.io/github/stars/jcubic/wayne?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Sysend" src="https://gitlibrary.club/images/uploads/2023/08/newshot-sysend.js.png" /></td>
-        <td>Infrastructure</td>
-        <td>JavaScript</td>
-        <td><a href="https://github.com/jcubic/sysend.js" target="_blank">Sysend</a></td>
-        <td>Web application synchronization between different tabs</td>
-        <th><a href="https://github.com/jcubic/sysend.js" target="_blank"><img alt="Sysend" src="https://img.shields.io/github/stars/jcubic/sysend.js?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Enhance" src="https://gitlibrary.club/images/uploads/2023/08/newshot-enhance-ssr.png" /></td>
-        <td>Miscellaneous</td>
-        <td>JavaScript</td>
-        <td><a href="https://github.com/enhance-dev/enhance-ssr" target="_blank">Enhance</a></td>
-        <td>Server side render for custom elements.</td>
-        <th><a href="https://github.com/enhance-dev/enhance-ssr" target="_blank"><img alt="Enhance" src="https://img.shields.io/github/stars/enhance-dev/enhance-ssr?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Little Rat" src="https://gitlibrary.club/images/uploads/2023/08/newshot-little-rat.jpg" /></td>
-        <td>Security</td>
-        <td>JavaScript</td>
-        <td><a href="https://github.com/dnakov/little-rat" target="_blank">Little Rat</a></td>
-        <td>? Small chrome extension to monitor (and optionally block) other extensions' network calls</td>
-        <th><a href="https://github.com/dnakov/little-rat" target="_blank"><img alt="Little Rat" src="https://img.shields.io/github/stars/dnakov/little-rat?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="stdlib" src="https://gitlibrary.club/images/uploads/2023/08/newshot-stdlib.png" /></td>
-        <td>Infrastructure</td>
-        <td>JavaScript</td>
-        <td><a href="https://stdlib.io" target="_blank">stdlib</a></td>
-        <td>✨ Standard library for JavaScript and Node.js. ✨</td>
-        <th><a href="https://github.com/stdlib-js/stdlib" target="_blank"><img alt="stdlib" src="https://img.shields.io/github/stars/stdlib-js/stdlib?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="onnx-modifier" src="https://gitlibrary.club/images/uploads/2023/09/newshot-onnx-modifier-1.jpg" /></td>
-        <td>Productivity</td>
-        <td>JavaScript</td>
-        <td><a href="https://github.com/ZhangGe6/onnx-modifier" target="_blank">onnx-modifier</a></td>
-        <td>A tool to modify ONNX models in a visualization fashion, based on Netron and Flask.</td>
-        <th><a href="https://github.com/ZhangGe6/onnx-modifier" target="_blank"><img alt="onnx-modifier" src="https://img.shields.io/github/stars/ZhangGe6/onnx-modifier?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Typepad" src="https://gitlibrary.club/images/uploads/2023/09/newshot-typepad.png" /></td>
-        <td>Productivity</td>
-        <td>JavaScript</td>
-        <td><a href="https://kylebing.cn/tools/typepad/" target="_blank">Typepad</a></td>
-        <td>玫枫跟打器：五笔跟打器（网页版）</td>
-        <th><a href="https://github.com/KyleBing/typepad" target="_blank"><img alt="Typepad" src="https://img.shields.io/github/stars/KyleBing/typepad?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Passwordless.ID" src="https://gitlibrary.club/images/uploads/2023/09/newshot-www.png" /></td>
-        <td>Security</td>
-        <td>JavaScript</td>
-        <td><a href="https://passwordless.id" target="_blank">Passwordless.ID</a></td>
-        <td>Ditch passwords, boost security! Use this public identity provider to leverage biometric authentication and increase security.</td>
-        <th><a href="https://github.com/passwordless-id/www" target="_blank"><img alt="Passwordless.ID" src="https://img.shields.io/github/stars/passwordless-id/www?style=social" /></a></th>
-    </tr>
-
-</table>
-
-<br /><br />
 <h2 id="python">Top 20 Python libraries</h2>
 <table>
     <tr>
@@ -10409,14 +9947,6 @@
         <th><a href="https://github.com/cicirello/jacoco-badge-generator" target="_blank"><img alt="jacoco-badge-generator" src="https://img.shields.io/github/stars/cicirello/jacoco-badge-generator?style=social" /></a></th>
     </tr>
     <tr>
-        <td nowrap="nowrap"><img width="33" alt="Keep" src="https://gitlibrary.club/images/uploads/2023/05/newshot-keep-4.png" /></td>
-        <td>Notifications</td>
-        <td>Python</td>
-        <td><a href="https://www.keephq.dev" target="_blank">Keep</a></td>
-        <td>Open source alerting management for software developers.</td>
-        <th><a href="https://github.com/keephq/keep" target="_blank"><img alt="Keep" src="https://img.shields.io/github/stars/keephq/keep?style=social" /></a></th>
-    </tr>
-    <tr>
         <td nowrap="nowrap"><img width="33" alt="user-statistician" src="https://gitlibrary.club/images/uploads/2023/09/newshot-user-statistician.jpg" /></td>
         <td>Analytics</td>
         <td>Python</td>
@@ -10425,12 +9955,12 @@
         <th><a href="https://github.com/cicirello/user-statistician" target="_blank"><img alt="user-statistician" src="https://img.shields.io/github/stars/cicirello/user-statistician?style=social" /></a></th>
     </tr>
     <tr>
-        <td nowrap="nowrap"><img width="33" alt="llm-client" src="https://gitlibrary.club/images/uploads/2023/05/newshot-llm-client-sdk.jpg" /></td>
-        <td>Infrastructure</td>
+        <td nowrap="nowrap"><img width="33" alt="Keep" src="https://gitlibrary.club/images/uploads/2023/05/newshot-keep-4.png" /></td>
+        <td>Notifications</td>
         <td>Python</td>
-        <td><a href="https://github.com/uripeled2/llm-client-sdk" target="_blank">llm-client</a></td>
-        <td>SDK for using LLM</td>
-        <th><a href="https://github.com/uripeled2/llm-client-sdk" target="_blank"><img alt="llm-client" src="https://img.shields.io/github/stars/uripeled2/llm-client-sdk?style=social" /></a></th>
+        <td><a href="https://www.keephq.dev" target="_blank">Keep</a></td>
+        <td>Open source alerting management for software developers.</td>
+        <th><a href="https://github.com/keephq/keep" target="_blank"><img alt="Keep" src="https://img.shields.io/github/stars/keephq/keep?style=social" /></a></th>
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="generate-sitemap" src="https://gitlibrary.club/images/uploads/2023/09/newshot-generate-sitemap.jpg" /></td>
@@ -10447,6 +9977,14 @@
         <td><a href="https://actions.cicirello.org/javadoc-cleanup/" target="_blank">javadoc-cleanup</a></td>
         <td>Create mobile-friendly documentation sites by post-processing javadocs in GitHub Actions</td>
         <th><a href="https://github.com/cicirello/javadoc-cleanup" target="_blank"><img alt="javadoc-cleanup" src="https://img.shields.io/github/stars/cicirello/javadoc-cleanup?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="llm-client" src="https://gitlibrary.club/images/uploads/2023/05/newshot-llm-client-sdk.jpg" /></td>
+        <td>Infrastructure</td>
+        <td>Python</td>
+        <td><a href="https://github.com/uripeled2/llm-client-sdk" target="_blank">llm-client</a></td>
+        <td>SDK for using LLM</td>
+        <th><a href="https://github.com/uripeled2/llm-client-sdk" target="_blank"><img alt="llm-client" src="https://img.shields.io/github/stars/uripeled2/llm-client-sdk?style=social" /></a></th>
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="DocsGPT" src="https://gitlibrary.club/images/uploads/2023/05/newshot-DocsGPT.png" /></td>
@@ -11224,6 +10762,866 @@
         <td>Interactively find and recover deleted or ? overwritten ? files from your terminal</td>
         <th><a href="https://github.com/PabloLec/RecoverPy" target="_blank"><img alt="RecoverPy" src="https://img.shields.io/github/stars/PabloLec/RecoverPy?style=social" /></a></th>
     </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="kr8s" src="https://gitlibrary.club/images/uploads/2023/09/newshot-kr8s.png" /></td>
+        <td>Infrastructure</td>
+        <td>Python</td>
+        <td><a href="https://kr8s.org" target="_blank">kr8s</a></td>
+        <td>A batteries-included Python client library for Kubernetes that feels familiar for folks who already know how to use kubectl</td>
+        <th><a href="https://github.com/kr8s-org/kr8s" target="_blank"><img alt="kr8s" src="https://img.shields.io/github/stars/kr8s-org/kr8s?style=social" /></a></th>
+    </tr>
+
+</table>
+
+<br /><br />
+<h2 id="javascript">Top 20 JavaScript libraries</h2>
+<table>
+    <tr>
+        <th>Icon</th>
+        <th>Category</th>
+        <th>Language</th>
+        <th>Name</th>
+        <th>Description</th>
+        <th>Stargazers</th>
+    </tr>
+        <tr>
+        <td nowrap="nowrap"><img width="33" alt="auto-dop" src="https://gitlibrary.club/images/uploads/2023/05/newshot-auto-dop.jpg" /></td>
+        <td>Productivity</td>
+        <td>JavaScript</td>
+        <td><a href="https://github.com/Erutidians/auto-dop" target="_blank">auto-dop</a></td>
+        <td>Automation for creating markdown files for 100 Days of Productivity challenge.</td>
+        <th><a href="https://github.com/Erutidians/auto-dop" target="_blank"><img alt="auto-dop" src="https://img.shields.io/github/stars/Erutidians/auto-dop?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Everright-formEditor" src="https://gitlibrary.club/images/uploads/2023/05/newshot-Everright-formEditor.jpg" /></td>
+        <td>Productivity</td>
+        <td>JavaScript</td>
+        <td><a href="https://everright.site/en/module/formEditor/introduction.html" target="_blank">Everright-formEditor</a></td>
+        <td>A visual low code form editor based on vue, The PC depends on element-plus while the mobile depends on vant. It provides an easy way to create custom forms. The project is extensible, easy to use a…</td>
+        <th><a href="https://github.com/Liberty-liu/Everright-formEditor" target="_blank"><img alt="Everright-formEditor" src="https://img.shields.io/github/stars/Liberty-liu/Everright-formEditor?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="IDURAR ERP CRM" src="https://gitlibrary.club/images/uploads/2023/07/newshot-idurar-erp-crm.png" /></td>
+        <td>Productivity</td>
+        <td>JavaScript</td>
+        <td><a href="https://demo-erp-crm.idurarapp.com/" target="_blank">IDURAR ERP CRM</a></td>
+        <td>ERP / CRM Open Source (Invoice / Inventory / Accounting / HR) Based on Node.js / React.js alternative to erpnext,salesforce and odoo</td>
+        <th><a href="https://github.com/idurar/idurar-erp-crm" target="_blank"><img alt="IDURAR ERP CRM" src="https://img.shields.io/github/stars/idurar/idurar-erp-crm?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="@node-oauth/oauth2-server" src="https://gitlibrary.club/images/uploads/2023/08/newshot-node-oauth2-server.png" /></td>
+        <td>Security</td>
+        <td>JavaScript</td>
+        <td><a href="https://www.npmjs.com/package/@node-oauth/oauth2-server" target="_blank">@node-oauth/oauth2-server</a></td>
+        <td>The unofficial successor to oauthjs/oauth2-server. Complete, compliant, maintained and well tested OAuth2 Server for node.js. Includes native async await and PKCE.</td>
+        <th><a href="https://github.com/node-oauth/node-oauth2-server" target="_blank"><img alt="@node-oauth/oauth2-server" src="https://img.shields.io/github/stars/node-oauth/node-oauth2-server?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Reejs" src="https://gitlibrary.club/images/uploads/2023/06/newshot-reejs.png" /></td>
+        <td>Productivity</td>
+        <td>JavaScript</td>
+        <td><a href="https://ree.js.org" target="_blank">Reejs</a></td>
+        <td>Make Sites Faster, without the need of building anything!</td>
+        <th><a href="https://github.com/rovelstars/reejs" target="_blank"><img alt="Reejs" src="https://img.shields.io/github/stars/rovelstars/reejs?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Easy Speech" src="https://gitlibrary.club/images/uploads/2023/08/newshot-easy-speech.jpg" /></td>
+        <td>Miscellaneous</td>
+        <td>JavaScript</td>
+        <td><a href="https://jankapunkt.github.io/easy-speech/" target="_blank">Easy Speech</a></td>
+        <td>Cross browser Speech Synthesis also known as Text to speech or TTS; no dependencies; uses Web Speech API</td>
+        <th><a href="https://github.com/jankapunkt/easy-speech" target="_blank"><img alt="Easy Speech" src="https://img.shields.io/github/stars/jankapunkt/easy-speech?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Meteor + React Native Starter Template" src="https://gitlibrary.club/images/uploads/2023/08/newshot-meteor-react-native-starter.jpg" /></td>
+        <td>Productivity</td>
+        <td>JavaScript</td>
+        <td><a href="https://github.com/jankapunkt/meteor-react-native-starter" target="_blank">Meteor + React Native Starter Template</a></td>
+        <td>The code repo for our workshop</td>
+        <th><a href="https://github.com/jankapunkt/meteor-react-native-starter" target="_blank"><img alt="Meteor + React Native Starter Template" src="https://img.shields.io/github/stars/jankapunkt/meteor-react-native-starter?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Mirage JS" src="https://gitlibrary.club/images/uploads/2023/05/newshot-miragejs.png" /></td>
+        <td>Productivity</td>
+        <td>JavaScript</td>
+        <td><a href="https://miragejs.com/" target="_blank">Mirage JS</a></td>
+        <td>A client-side server to build, test and share your JavaScript app</td>
+        <th><a href="https://github.com/miragejs/miragejs" target="_blank"><img alt="Mirage JS" src="https://img.shields.io/github/stars/miragejs/miragejs?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Docsify" src="https://gitlibrary.club/images/uploads/2023/05/newshot-docsify.png" /></td>
+        <td>Productivity</td>
+        <td>JavaScript</td>
+        <td><a href="https://docsify.js.org" target="_blank">Docsify</a></td>
+        <td><g-emoji class="g-emoji" alias="black_joker" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f0cf.png">?</g-emoji> A magical documentation site generator.</td>
+        <th><a href="https://github.com/docsifyjs/docsify" target="_blank"><img alt="Docsify" src="https://img.shields.io/github/stars/docsifyjs/docsify?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="lambda-perf" src="https://gitlibrary.club/images/uploads/2023/05/newshot-lambda-perf-17.jpg" /></td>
+        <td>Observability</td>
+        <td>JavaScript</td>
+        <td><a href="https://maxday.github.io/lambda-perf" target="_blank">lambda-perf</a></td>
+        <td>Lambda Cold Starts analysis, updated daily</td>
+        <th><a href="https://github.com/maxday/lambda-perf" target="_blank"><img alt="lambda-perf" src="https://img.shields.io/github/stars/maxday/lambda-perf?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="wirepig" src="https://gitlibrary.club/images/uploads/2023/05/newshot-wirepig.jpg" /></td>
+        <td>Miscellaneous</td>
+        <td>JavaScript</td>
+        <td><a href="https://github.com/griffinmyers/wirepig" target="_blank">wirepig</a></td>
+        <td>Better testing through the power of sockets.</td>
+        <th><a href="https://github.com/griffinmyers/wirepig" target="_blank"><img alt="wirepig" src="https://img.shields.io/github/stars/griffinmyers/wirepig?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="cypress-mochawesome-reporter" src="https://gitlibrary.club/images/uploads/2023/05/newshot-cypress-mochawesome-reporter.jpg" /></td>
+        <td>Miscellaneous</td>
+        <td>JavaScript</td>
+        <td><a href="https://github.com/LironEr/cypress-mochawesome-reporter" target="_blank">cypress-mochawesome-reporter</a></td>
+        <td>Zero config Mochawesome reporter for Cypress with screenshots and videos</td>
+        <th><a href="https://github.com/LironEr/cypress-mochawesome-reporter" target="_blank"><img alt="cypress-mochawesome-reporter" src="https://img.shields.io/github/stars/LironEr/cypress-mochawesome-reporter?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="multiple-cucumber-html-reporter" src="https://gitlibrary.club/images/uploads/2023/05/newshot-multiple-cucumber-html-reporter.jpg" /></td>
+        <td>Miscellaneous</td>
+        <td>JavaScript</td>
+        <td><a href="https://github.com/WasiqB/multiple-cucumber-html-reporter/blob/main/README.md" target="_blank">multiple-cucumber-html-reporter</a></td>
+        <td>Generate beautiful Cucumber HTML reports</td>
+        <th><a href="https://github.com/WasiqB/multiple-cucumber-html-reporter" target="_blank"><img alt="multiple-cucumber-html-reporter" src="https://img.shields.io/github/stars/WasiqB/multiple-cucumber-html-reporter?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Telenode" src="https://gitlibrary.club/images/uploads/2023/05/newshot-telenode.png" /></td>
+        <td>Notifications</td>
+        <td>JavaScript</td>
+        <td><a href="https://github.com/NivEz/telenode" target="_blank">Telenode</a></td>
+        <td>Lightweight Telegram API framework for Node.js</td>
+        <th><a href="https://github.com/NivEz/telenode" target="_blank"><img alt="Telenode" src="https://img.shields.io/github/stars/NivEz/telenode?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="REI3" src="https://gitlibrary.club/images/uploads/2023/07/newshot-r3.png" /></td>
+        <td>Productivity</td>
+        <td>JavaScript</td>
+        <td><a href="https://rei3.de" target="_blank">REI3</a></td>
+        <td>REI3 - Free and open low code</td>
+        <th><a href="https://github.com/r3-team/r3" target="_blank"><img alt="REI3" src="https://img.shields.io/github/stars/r3-team/r3?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="What Script Run" src="https://gitlibrary.club/images/uploads/2023/08/newshot-what-script-run.jpg" /></td>
+        <td>Productivity</td>
+        <td>JavaScript</td>
+        <td><a href="https://github.com/ronaldohoch/what-script-run" target="_blank">What Script Run</a></td>
+        <td>Small helper to choose which npm script run.</td>
+        <th><a href="https://github.com/ronaldohoch/what-script-run" target="_blank"><img alt="What Script Run" src="https://img.shields.io/github/stars/ronaldohoch/what-script-run?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Soundnode" src="https://gitlibrary.club/images/uploads/2023/05/newshot-soundnode-app.png" /></td>
+        <td>Productivity</td>
+        <td>JavaScript</td>
+        <td><a href="https://soundnode.github.io/soundnode-website/" target="_blank">Soundnode</a></td>
+        <td>Soundnode App is the Soundcloud for desktop. Built with Electron, Angular.js and Soundcloud API.</td>
+        <th><a href="https://github.com/Soundnode/soundnode-app" target="_blank"><img alt="Soundnode" src="https://img.shields.io/github/stars/Soundnode/soundnode-app?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Setup Falcon SQL Client" src="https://gitlibrary.club/images/uploads/2023/05/newshot-falcon.png" /></td>
+        <td>Databases</td>
+        <td>JavaScript</td>
+        <td><a href="https://plot.ly/free-sql-client-download/" target="_blank">Setup Falcon SQL Client</a></td>
+        <td>Free, open-source SQL client for Windows and Mac <g-emoji class="g-emoji" alias="eagle" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f985.png">?</g-emoji></td>
+        <th><a href="https://github.com/plotly/falcon" target="_blank"><img alt="Setup Falcon SQL Client" src="https://img.shields.io/github/stars/plotly/falcon?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="grocy" src="https://gitlibrary.club/images/uploads/2023/05/newshot-grocy.png" /></td>
+        <td>Productivity</td>
+        <td>JavaScript</td>
+        <td><a href="https://grocy.info" target="_blank">grocy</a></td>
+        <td>ERP beyond your fridge - grocy is a web-based self-hosted groceries &amp; household management solution for your home</td>
+        <th><a href="https://github.com/grocy/grocy" target="_blank"><img alt="grocy" src="https://img.shields.io/github/stars/grocy/grocy?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Elementor" src="https://gitlibrary.club/images/uploads/2023/05/newshot-elementor.png" /></td>
+        <td>Productivity</td>
+        <td>JavaScript</td>
+        <td><a href="https://elementor.com/" target="_blank">Elementor</a></td>
+        <td>The most advanced frontend drag &amp; drop page builder. Create high-end, pixel perfect websites at record speeds. Any theme, any page, any design.</td>
+        <th><a href="https://github.com/elementor/elementor" target="_blank"><img alt="Elementor" src="https://img.shields.io/github/stars/elementor/elementor?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Countly" src="https://gitlibrary.club/images/uploads/2023/05/newshot-countly-server.png" /></td>
+        <td>Analytics</td>
+        <td>JavaScript</td>
+        <td><a href="https://countly.com" target="_blank">Countly</a></td>
+        <td>Countly is a product analytics platform that helps teams track, analyze and act-on their user actions and behaviour on mobile, web and desktop applications.</td>
+        <th><a href="https://github.com/Countly/countly-server" target="_blank"><img alt="Countly" src="https://img.shields.io/github/stars/Countly/countly-server?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Ant Design Landing" src="https://gitlibrary.club/images/uploads/2023/05/newshot-ant-design-landing.png" /></td>
+        <td>Productivity</td>
+        <td>JavaScript</td>
+        <td><a href="https://landing.ant.design/" target="_blank">Ant Design Landing</a></td>
+        <td><g-emoji class="g-emoji" alias="mountain_bicyclist" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f6b5.png">?</g-emoji> Landing Pages of Ant Design System</td>
+        <th><a href="https://github.com/ant-design/ant-design-landing" target="_blank"><img alt="Ant Design Landing" src="https://img.shields.io/github/stars/ant-design/ant-design-landing?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="arkime/arkime" src="https://gitlibrary.club/images/uploads/2023/05/newshot-arkime.png" /></td>
+        <td>Infrastructure</td>
+        <td>JavaScript</td>
+        <td><a href="https://arkime.com" target="_blank">arkime/arkime</a></td>
+        <td>Arkime (formerly Moloch) is an open source, large scale, full packet capturing, indexing, and database system.</td>
+        <th><a href="https://github.com/arkime/arkime" target="_blank"><img alt="arkime/arkime" src="https://img.shields.io/github/stars/arkime/arkime?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="futurepress/epub.js" src="https://gitlibrary.club/images/uploads/2023/05/newshot-epub.js.png" /></td>
+        <td>Productivity</td>
+        <td>JavaScript</td>
+        <td><a href="http://futurepress.org" target="_blank">futurepress/epub.js</a></td>
+        <td>Enhanced eBooks in the browser.</td>
+        <th><a href="https://github.com/futurepress/epub.js" target="_blank"><img alt="futurepress/epub.js" src="https://img.shields.io/github/stars/futurepress/epub.js?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Fonoster" src="https://gitlibrary.club/images/uploads/2023/05/newshot-fonoster.png" /></td>
+        <td>Collaboration</td>
+        <td>JavaScript</td>
+        <td><a href="https://fonoster.com" target="_blank">Fonoster</a></td>
+        <td><g-emoji class="g-emoji" alias="rocket" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f680.png">?</g-emoji> The open-source alternative to Twilio</td>
+        <th><a href="https://github.com/fonoster/fonoster" target="_blank"><img alt="Fonoster" src="https://img.shields.io/github/stars/fonoster/fonoster?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Shapezio" src="https://gitlibrary.club/images/uploads/2023/05/newshot-shapez.io_.png" /></td>
+        <td>Productivity</td>
+        <td>JavaScript</td>
+        <td><a href="https://get.shapez.io/gh" target="_blank">Shapezio</a></td>
+        <td>shapez is an open source base building game on Steam inspired by factorio!</td>
+        <th><a href="https://github.com/tobspr-games/shapez.io" target="_blank"><img alt="Shapezio" src="https://img.shields.io/github/stars/tobspr-games/shapez.io?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Vue Apollo" src="https://gitlibrary.club/images/uploads/2023/05/newshot-apollo.png" /></td>
+        <td>Infrastructure</td>
+        <td>JavaScript</td>
+        <td><a href="http://apollo.vuejs.org" target="_blank">Vue Apollo</a></td>
+        <td><g-emoji class="g-emoji" alias="rocket" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f680.png">?</g-emoji> Apollo/GraphQL integration for VueJS</td>
+        <th><a href="https://github.com/vuejs/apollo" target="_blank"><img alt="Vue Apollo" src="https://img.shields.io/github/stars/vuejs/apollo?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Hexo Theme Fluid" src="https://gitlibrary.club/images/uploads/2023/05/newshot-hexo-theme-fluid.png" /></td>
+        <td>Productivity</td>
+        <td>JavaScript</td>
+        <td><a href="https://hexo.fluid-dev.com/" target="_blank">Hexo Theme Fluid</a></td>
+        <td><g-emoji class="g-emoji" alias="ocean" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f30a.png">?</g-emoji> 一款 Material Design 风格的 Hexo 主题 / An elegant Material-Design theme for Hexo</td>
+        <th><a href="https://github.com/fluid-dev/hexo-theme-fluid" target="_blank"><img alt="Hexo Theme Fluid" src="https://img.shields.io/github/stars/fluid-dev/hexo-theme-fluid?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="golden-layout" src="https://gitlibrary.club/images/uploads/2023/05/newshot-golden-layout.png" /></td>
+        <td>Productivity</td>
+        <td>JavaScript</td>
+        <td><a href="https://golden-layout.github.io/golden-layout" target="_blank">golden-layout</a></td>
+        <td>A multi window layout manager for webapps</td>
+        <th><a href="https://github.com/golden-layout/golden-layout" target="_blank"><img alt="golden-layout" src="https://img.shields.io/github/stars/golden-layout/golden-layout?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Notesnook by Streetwriters LLC" src="https://gitlibrary.club/images/uploads/2023/05/newshot-notesnook.png" /></td>
+        <td>Security</td>
+        <td>JavaScript</td>
+        <td><a href="https://notesnook.com/" target="_blank">Notesnook by Streetwriters LLC</a></td>
+        <td>A fully open source &amp; end-to-end encrypted note taking alternative to Evernote.</td>
+        <th><a href="https://github.com/streetwriters/notesnook" target="_blank"><img alt="Notesnook by Streetwriters LLC" src="https://img.shields.io/github/stars/streetwriters/notesnook?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="WeChat Open Doc" src="https://gitlibrary.club/images/uploads/2023/05/newshot-miniprogram-demo.png" /></td>
+        <td>Collaboration</td>
+        <td>JavaScript</td>
+        <td><a href="https://developers.weixin.qq.com/miniprogram/dev/index.html" target="_blank">WeChat Open Doc</a></td>
+        <td>微信小程序组件 / API / 云开发示例</td>
+        <th><a href="https://github.com/wechat-miniprogram/miniprogram-demo" target="_blank"><img alt="WeChat Open Doc" src="https://img.shields.io/github/stars/wechat-miniprogram/miniprogram-demo?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Xigua Player" src="https://gitlibrary.club/images/uploads/2023/05/newshot-xgplayer.png" /></td>
+        <td>Productivity</td>
+        <td>JavaScript</td>
+        <td><a href="https://h5player.bytedance.com/" target="_blank">Xigua Player</a></td>
+        <td>A HTML5 video player with a parser that saves traffic</td>
+        <th><a href="https://github.com/bytedance/xgplayer" target="_blank"><img alt="Xigua Player" src="https://img.shields.io/github/stars/bytedance/xgplayer?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Just by Chance" src="https://gitlibrary.club/images/uploads/2023/05/newshot-chancejs.png" /></td>
+        <td>Productivity</td>
+        <td>JavaScript</td>
+        <td><a href="http://chancejs.com" target="_blank">Just by Chance</a></td>
+        <td>Chance - Random generator helper for JavaScript</td>
+        <th><a href="https://github.com/chancejs/chancejs" target="_blank"><img alt="Just by Chance" src="https://img.shields.io/github/stars/chancejs/chancejs?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="CSS Doodle" src="https://gitlibrary.club/images/uploads/2023/05/newshot-css-doodle-1.png" /></td>
+        <td>Productivity</td>
+        <td>JavaScript</td>
+        <td><a href="https://css-doodle.com" target="_blank">CSS Doodle</a></td>
+        <td><g-emoji class="g-emoji" alias="art" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f3a8.png">?</g-emoji> A web component for drawing patterns with CSS.</td>
+        <th><a href="https://github.com/css-doodle/css-doodle" target="_blank"><img alt="CSS Doodle" src="https://img.shields.io/github/stars/css-doodle/css-doodle?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="melonJS" src="https://gitlibrary.club/images/uploads/2023/05/newshot-melonJS-1.png" /></td>
+        <td>Productivity</td>
+        <td>JavaScript</td>
+        <td><a href="https://melonjs.org" target="_blank">melonJS</a></td>
+        <td>a fresh, modern &amp; lightweight HTML5 game engine</td>
+        <th><a href="https://github.com/melonjs/melonJS" target="_blank"><img alt="melonJS" src="https://img.shields.io/github/stars/melonjs/melonJS?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="WebLLM" src="https://gitlibrary.club/images/uploads/2023/05/newshot-web-llm-1.jpg" /></td>
+        <td>Infrastructure</td>
+        <td>JavaScript</td>
+        <td><a href="https://mlc.ai/web-llm" target="_blank">WebLLM</a></td>
+        <td>Bringing large-language models and chat to web browsers. Everything runs inside the browser with no server support.</td>
+        <th><a href="https://github.com/mlc-ai/web-llm" target="_blank"><img alt="WebLLM" src="https://img.shields.io/github/stars/mlc-ai/web-llm?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="google-map-react/google-map-react" src="https://gitlibrary.club/images/uploads/2023/05/newshot-google-map-react-1.png" /></td>
+        <td>Infrastructure</td>
+        <td>JavaScript</td>
+        <td><a href="http://google-map-react.github.io/google-map-react/map/main/" target="_blank">google-map-react/google-map-react</a></td>
+        <td>Google map library for react that allows rendering components as markers <g-emoji class="g-emoji" alias="tada" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f389.png">?</g-emoji></td>
+        <th><a href="https://github.com/google-map-react/google-map-react" target="_blank"><img alt="google-map-react/google-map-react" src="https://img.shields.io/github/stars/google-map-react/google-map-react?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Moleculer - Progressive microservices framework for Node.js" src="https://gitlibrary.club/images/uploads/2023/05/newshot-moleculer-2.png" /></td>
+        <td>Infrastructure</td>
+        <td>JavaScript</td>
+        <td><a href="https://moleculer.services/" target="_blank">Moleculer - Progressive microservices framework for Node.js</a></td>
+        <td><g-emoji class="g-emoji" alias="rocket" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f680.png">?</g-emoji> Progressive microservices framework for Node.js</td>
+        <th><a href="https://github.com/moleculerjs/moleculer" target="_blank"><img alt="Moleculer - Progressive microservices framework for Node.js" src="https://img.shields.io/github/stars/moleculerjs/moleculer?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="log4js-node/log4js-node" src="https://gitlibrary.club/images/uploads/2023/05/newshot-log4js-node.png" /></td>
+        <td>Observability</td>
+        <td>JavaScript</td>
+        <td><a href="https://log4js-node.github.io/log4js-node/" target="_blank">log4js-node/log4js-node</a></td>
+        <td>A port of log4js to node.js</td>
+        <th><a href="https://github.com/log4js-node/log4js-node" target="_blank"><img alt="log4js-node/log4js-node" src="https://img.shields.io/github/stars/log4js-node/log4js-node?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="StackPath" src="https://gitlibrary.club/images/uploads/2023/05/newshot-axe-core-1.png" /></td>
+        <td>Observability</td>
+        <td>JavaScript</td>
+        <td><a href="https://www.deque.com/axe/" target="_blank">StackPath</a></td>
+        <td>Accessibility engine for automated Web UI testing</td>
+        <th><a href="https://github.com/dequelabs/axe-core" target="_blank"><img alt="StackPath" src="https://img.shields.io/github/stars/dequelabs/axe-core?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Pusakatest" src="https://gitlibrary.club/images/uploads/2023/05/newshot-pusakatest.jpg" /></td>
+        <td>Miscellaneous</td>
+        <td>JavaScript</td>
+        <td><a href="https://github.com/depapp/pusakatest" target="_blank">Pusakatest</a></td>
+        <td>pusakatest is an automation testing tool based on pactumjs using bdd (cucumber) style with localization</td>
+        <th><a href="https://github.com/depapp/pusakatest" target="_blank"><img alt="Pusakatest" src="https://img.shields.io/github/stars/depapp/pusakatest?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Action Discord Alerts" src="https://gitlibrary.club/images/uploads/2023/05/newshot-action-discord-alerts.jpg" /></td>
+        <td>Productivity</td>
+        <td>JavaScript</td>
+        <td><a href="https://github.com/marketplace/actions/action-discord-alerts" target="_blank">Action Discord Alerts</a></td>
+        <td>Action aimed at facilitating continuous delivery. You only need a Discord webhook to receive notifications for the completion status of your workflow. <g-emoji class="g-emoji" alias="tada" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f389.png">?</g-emoji></td>
+        <th><a href="https://github.com/ErnaneJ/action-discord-alerts" target="_blank"><img alt="Action Discord Alerts" src="https://img.shields.io/github/stars/ErnaneJ/action-discord-alerts?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="TradingWorks+" src="https://gitlibrary.club/images/uploads/2023/05/newshot-tradingworks-plus.jpg" /></td>
+        <td>Productivity</td>
+        <td>JavaScript</td>
+        <td><a href="https://github.com/ErnaneJ/tradingworks-plus" target="_blank">TradingWorks+</a></td>
+        <td>Extension developed with the aim of facilitating the usability of the TradingWorks platform for point management between work shifts.</td>
+        <th><a href="https://github.com/ErnaneJ/tradingworks-plus" target="_blank"><img alt="TradingWorks+" src="https://img.shields.io/github/stars/ErnaneJ/tradingworks-plus?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Document Makeup Library" src="https://gitlibrary.club/images/uploads/2023/05/newshot-DML.png" /></td>
+        <td>Productivity</td>
+        <td>JavaScript</td>
+        <td><a href="https://efpage.de/DML/DML_homepage" target="_blank">Document Makeup Library</a></td>
+        <td>An Object Oriented Web Programming Framework</td>
+        <th><a href="https://github.com/efpage/DML" target="_blank"><img alt="Document Makeup Library" src="https://img.shields.io/github/stars/efpage/DML?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Aimless.js" src="https://gitlibrary.club/images/uploads/2023/05/newshot-aimless.js.jpg" /></td>
+        <td>Productivity</td>
+        <td>JavaScript</td>
+        <td><a href="https://chriscavs.github.io/aimless-demo/" target="_blank">Aimless.js</a></td>
+        <td>The missing JavaScript randomness library.</td>
+        <th><a href="https://github.com/ChrisCavs/aimless.js" target="_blank"><img alt="Aimless.js" src="https://img.shields.io/github/stars/ChrisCavs/aimless.js?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="3kh0 Assets" src="https://gitlibrary.club/images/uploads/2023/05/newshot-ext-remover-5.jpg" /></td>
+        <td>Infrastructure</td>
+        <td>JavaScript</td>
+        <td><a href="https://3kh0.github.io/ext-remover/" target="_blank">3kh0 Assets</a></td>
+        <td>Bookmarklet exploit that can force-disable extensions installed on Chrome. Also has a very fancy GUI to manage all extensions!</td>
+        <th><a href="https://github.com/3kh0/ext-remover" target="_blank"><img alt="3kh0 Assets" src="https://img.shields.io/github/stars/3kh0/ext-remover?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Baby Query" src="https://gitlibrary.club/images/uploads/2023/05/newshot-baby-query.jpg" /></td>
+        <td>Infrastructure</td>
+        <td>JavaScript</td>
+        <td><a href="https://robiulhr.github.io/baby-query/" target="_blank">Baby Query</a></td>
+        <td>Baby Query is a custom implementation of the popular JavaScript library jQuery. </td>
+        <th><a href="https://github.com/robiulhr/baby-query" target="_blank"><img alt="Baby Query" src="https://img.shields.io/github/stars/robiulhr/baby-query?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Fancy Time" src="https://gitlibrary.club/images/uploads/2023/07/newshot-fancy-time.png" /></td>
+        <td>Productivity</td>
+        <td>JavaScript</td>
+        <td><a href="https://github.com/zNotChill/fancy-time" target="_blank">Fancy Time</a></td>
+        <td>A simple package for converting Unix to Readable.</td>
+        <th><a href="https://github.com/zNotChill/fancy-time" target="_blank"><img alt="Fancy Time" src="https://img.shields.io/github/stars/zNotChill/fancy-time?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Create Issue Branch" src="https://gitlibrary.club/images/uploads/2023/07/newshot-create-issue-branch.jpg" /></td>
+        <td>Productivity</td>
+        <td>JavaScript</td>
+        <td><a href="https://github.com/apps/create-issue-branch" target="_blank">Create Issue Branch</a></td>
+        <td>GitHub App/Action that automates the creation of issue branches</td>
+        <th><a href="https://github.com/robvanderleek/create-issue-branch" target="_blank"><img alt="Create Issue Branch" src="https://img.shields.io/github/stars/robvanderleek/create-issue-branch?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Float UI" src="https://gitlibrary.club/images/uploads/2023/07/newshot-floatui.png" /></td>
+        <td>Productivity</td>
+        <td>JavaScript</td>
+        <td><a href="https://floatui.com/" target="_blank">Float UI</a></td>
+        <td>Beautiful and responsive UI components and templates for React and Vue (soon) with Tailwind CSS.</td>
+        <th><a href="https://github.com/MarsX-dev/floatui" target="_blank"><img alt="Float UI" src="https://img.shields.io/github/stars/MarsX-dev/floatui?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Cirrus Start" src="https://gitlibrary.club/images/uploads/2023/07/newshot-Cirrus-Start-1.png" /></td>
+        <td>Productivity</td>
+        <td>JavaScript</td>
+        <td><a href="https://github.com/Cirrus-UI/Cirrus-Start" target="_blank">Cirrus Start</a></td>
+        <td><g-emoji class="g-emoji" alias="zap" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/26a1.png">⚡</g-emoji> The fastest way to build, develop, and deploy your next project with Cirrus.</td>
+        <th><a href="https://github.com/Cirrus-UI/Cirrus-Start" target="_blank"><img alt="Cirrus Start" src="https://img.shields.io/github/stars/Cirrus-UI/Cirrus-Start?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="utils.js" src="https://gitlibrary.club/images/uploads/2023/07/newshot-utils.js.jpg" /></td>
+        <td>Miscellaneous</td>
+        <td>JavaScript</td>
+        <td><a href="https://github.com/fabiocaccamo/utils.js" target="_blank">utils.js</a></td>
+        <td><g-emoji class="g-emoji" alias="construction_worker" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f477.png">?</g-emoji> <g-emoji class="g-emoji" alias="wrench" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f527.png">?</g-emoji> zero dependencies vanilla JavaScript utils.</td>
+        <th><a href="https://github.com/fabiocaccamo/utils.js" target="_blank"><img alt="utils.js" src="https://img.shields.io/github/stars/fabiocaccamo/utils.js?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Detect it Easy" src="https://gitlibrary.club/images/uploads/2023/07/newshot-Detect-It-Easy.png" /></td>
+        <td>Security</td>
+        <td>JavaScript</td>
+        <td><a href="http://ntinfo.biz" target="_blank">Detect it Easy</a></td>
+        <td>Program for determining types of files for Windows, Linux and MacOS.</td>
+        <th><a href="https://github.com/horsicq/Detect-It-Easy" target="_blank"><img alt="Detect it Easy" src="https://img.shields.io/github/stars/horsicq/Detect-It-Easy?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="React18-input-otp" src="https://gitlibrary.club/images/uploads/2023/08/newshot-react18-input-otp.jpg" /></td>
+        <td>Miscellaneous</td>
+        <td>JavaScript</td>
+        <td><a href="https://github.com/ritikbanger/react18-input-otp" target="_blank">React18-input-otp</a></td>
+        <td>A fully customizable, one-time password (OTP) and phone number with separator input component for the web built with React.</td>
+        <th><a href="https://github.com/ritikbanger/react18-input-otp" target="_blank"><img alt="React18-input-otp" src="https://img.shields.io/github/stars/ritikbanger/react18-input-otp?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="React Hooks Notes" src="https://gitlibrary.club/images/uploads/2023/08/newshot-react-hooks-notes.jpg" /></td>
+        <td>Productivity</td>
+        <td>JavaScript</td>
+        <td><a href="https://github.com/pavandeore/react-hooks-notes" target="_blank">React Hooks Notes</a></td>
+        <td>react hooks notes</td>
+        <th><a href="https://github.com/pavandeore/react-hooks-notes" target="_blank"><img alt="React Hooks Notes" src="https://img.shields.io/github/stars/pavandeore/react-hooks-notes?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Search Ray" src="https://gitlibrary.club/images/uploads/2023/08/newshot-search-ray.jpg" /></td>
+        <td>Productivity</td>
+        <td>JavaScript</td>
+        <td><a href="https://github.com/pavandeore/search-ray" target="_blank">Search Ray</a></td>
+        <td>search-ray is javascript library to search for item in array and it will return index of the found element using Linear and Binary search</td>
+        <th><a href="https://github.com/pavandeore/search-ray" target="_blank"><img alt="Search Ray" src="https://img.shields.io/github/stars/pavandeore/search-ray?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Math.js" src="https://gitlibrary.club/images/uploads/2023/08/newshot-mathjs.jpg" /></td>
+        <td>Productivity</td>
+        <td>JavaScript</td>
+        <td><a href="https://mathjs.org" target="_blank">Math.js</a></td>
+        <td>An extensive math library for JavaScript and Node.js</td>
+        <th><a href="https://github.com/josdejong/mathjs" target="_blank"><img alt="Math.js" src="https://img.shields.io/github/stars/josdejong/mathjs?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Wayne" src="https://gitlibrary.club/images/uploads/2023/08/newshot-wayne.png" /></td>
+        <td>Infrastructure</td>
+        <td>JavaScript</td>
+        <td><a href="https://jcubic.github.io/wayne" target="_blank">Wayne</a></td>
+        <td>Service Worker Routing library for in browser HTTP requests</td>
+        <th><a href="https://github.com/jcubic/wayne" target="_blank"><img alt="Wayne" src="https://img.shields.io/github/stars/jcubic/wayne?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Sysend" src="https://gitlibrary.club/images/uploads/2023/08/newshot-sysend.js.png" /></td>
+        <td>Infrastructure</td>
+        <td>JavaScript</td>
+        <td><a href="https://github.com/jcubic/sysend.js" target="_blank">Sysend</a></td>
+        <td>Web application synchronization between different tabs</td>
+        <th><a href="https://github.com/jcubic/sysend.js" target="_blank"><img alt="Sysend" src="https://img.shields.io/github/stars/jcubic/sysend.js?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Enhance" src="https://gitlibrary.club/images/uploads/2023/08/newshot-enhance-ssr.png" /></td>
+        <td>Miscellaneous</td>
+        <td>JavaScript</td>
+        <td><a href="https://github.com/enhance-dev/enhance-ssr" target="_blank">Enhance</a></td>
+        <td>Server side render for custom elements.</td>
+        <th><a href="https://github.com/enhance-dev/enhance-ssr" target="_blank"><img alt="Enhance" src="https://img.shields.io/github/stars/enhance-dev/enhance-ssr?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Little Rat" src="https://gitlibrary.club/images/uploads/2023/08/newshot-little-rat.jpg" /></td>
+        <td>Security</td>
+        <td>JavaScript</td>
+        <td><a href="https://github.com/dnakov/little-rat" target="_blank">Little Rat</a></td>
+        <td>? Small chrome extension to monitor (and optionally block) other extensions' network calls</td>
+        <th><a href="https://github.com/dnakov/little-rat" target="_blank"><img alt="Little Rat" src="https://img.shields.io/github/stars/dnakov/little-rat?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="stdlib" src="https://gitlibrary.club/images/uploads/2023/08/newshot-stdlib.png" /></td>
+        <td>Infrastructure</td>
+        <td>JavaScript</td>
+        <td><a href="https://stdlib.io" target="_blank">stdlib</a></td>
+        <td>✨ Standard library for JavaScript and Node.js. ✨</td>
+        <th><a href="https://github.com/stdlib-js/stdlib" target="_blank"><img alt="stdlib" src="https://img.shields.io/github/stars/stdlib-js/stdlib?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="onnx-modifier" src="https://gitlibrary.club/images/uploads/2023/09/newshot-onnx-modifier-1.jpg" /></td>
+        <td>Productivity</td>
+        <td>JavaScript</td>
+        <td><a href="https://github.com/ZhangGe6/onnx-modifier" target="_blank">onnx-modifier</a></td>
+        <td>A tool to modify ONNX models in a visualization fashion, based on Netron and Flask.</td>
+        <th><a href="https://github.com/ZhangGe6/onnx-modifier" target="_blank"><img alt="onnx-modifier" src="https://img.shields.io/github/stars/ZhangGe6/onnx-modifier?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Typepad" src="https://gitlibrary.club/images/uploads/2023/09/newshot-typepad.png" /></td>
+        <td>Productivity</td>
+        <td>JavaScript</td>
+        <td><a href="https://kylebing.cn/tools/typepad/" target="_blank">Typepad</a></td>
+        <td>玫枫跟打器：五笔跟打器（网页版）</td>
+        <th><a href="https://github.com/KyleBing/typepad" target="_blank"><img alt="Typepad" src="https://img.shields.io/github/stars/KyleBing/typepad?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Passwordless.ID" src="https://gitlibrary.club/images/uploads/2023/09/newshot-www.png" /></td>
+        <td>Security</td>
+        <td>JavaScript</td>
+        <td><a href="https://passwordless.id" target="_blank">Passwordless.ID</a></td>
+        <td>Ditch passwords, boost security! Use this public identity provider to leverage biometric authentication and increase security.</td>
+        <th><a href="https://github.com/passwordless-id/www" target="_blank"><img alt="Passwordless.ID" src="https://img.shields.io/github/stars/passwordless-id/www?style=social" /></a></th>
+    </tr>
+
+</table>
+
+<br /><br />
+<h2 id="c++">Top 20 C++ libraries</h2>
+<table>
+    <tr>
+        <th>Icon</th>
+        <th>Category</th>
+        <th>Language</th>
+        <th>Name</th>
+        <th>Description</th>
+        <th>Stargazers</th>
+    </tr>
+        <tr>
+        <td nowrap="nowrap"><img width="33" alt="CGraph" src="https://gitlibrary.club/images/uploads/2023/09/newshot-CGraph.jpg" /></td>
+        <td>Infrastructure</td>
+        <td>C++</td>
+        <td><a href="http://www.chunel.cn" target="_blank">CGraph</a></td>
+        <td>【A simple C++ DAG framework】 一个简单好用的、无三方依赖的、跨平台的、收录于awesome-cpp的、基于流图的并行计算框架。欢迎star &amp; fork</td>
+        <th><a href="https://github.com/ChunelFeng/CGraph" target="_blank"><img alt="CGraph" src="https://img.shields.io/github/stars/ChunelFeng/CGraph?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="lockfree" src="https://gitlibrary.club/images/uploads/2023/08/newshot-lockfree.jpg" /></td>
+        <td>Miscellaneous</td>
+        <td>C++</td>
+        <td><a href="https://github.com/DNedic/lockfree" target="_blank">lockfree</a></td>
+        <td>A collection of lock-free data structures written in standard C++11</td>
+        <th><a href="https://github.com/DNedic/lockfree" target="_blank"><img alt="lockfree" src="https://img.shields.io/github/stars/DNedic/lockfree?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="TGUI" src="https://gitlibrary.club/images/uploads/2023/09/newshot-TGUI.png" /></td>
+        <td>Productivity</td>
+        <td>C++</td>
+        <td><a href="https://tgui.eu" target="_blank">TGUI</a></td>
+        <td>Cross-platform modern c++ GUI</td>
+        <th><a href="https://github.com/texus/TGUI" target="_blank"><img alt="TGUI" src="https://img.shields.io/github/stars/texus/TGUI?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="wxWidgets" src="https://gitlibrary.club/images/uploads/2023/05/newshot-wxWidgets.png" /></td>
+        <td>Infrastructure</td>
+        <td>C++</td>
+        <td><a href="https://www.wxwidgets.org/" target="_blank">wxWidgets</a></td>
+        <td>Cross-Platform C++ GUI Library</td>
+        <th><a href="https://github.com/wxWidgets/wxWidgets" target="_blank"><img alt="wxWidgets" src="https://img.shields.io/github/stars/wxWidgets/wxWidgets?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="homeThing" src="https://gitlibrary.club/images/uploads/2023/07/newshot-homeThing.jpg" /></td>
+        <td>Miscellaneous</td>
+        <td>C++</td>
+        <td><a href="https://homething.io" target="_blank">homeThing</a></td>
+        <td>wifi smart home remote with display that runs on ESPHome. Uses on Lilygo T-Display or M5Stack Fire</td>
+        <th><a href="https://github.com/landonr/homeThing" target="_blank"><img alt="homeThing" src="https://img.shields.io/github/stars/landonr/homeThing?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="ThorsSerializer" src="https://gitlibrary.club/images/uploads/2023/07/newshot-ThorsSerializer.jpg" /></td>
+        <td>Infrastructure</td>
+        <td>C++</td>
+        <td><a href="https://github.com/Loki-Astari/ThorsSerializer" target="_blank">ThorsSerializer</a></td>
+        <td>C++ Serialization library for JSON</td>
+        <th><a href="https://github.com/Loki-Astari/ThorsSerializer" target="_blank"><img alt="ThorsSerializer" src="https://img.shields.io/github/stars/Loki-Astari/ThorsSerializer?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="areg engine" src="https://gitlibrary.club/images/uploads/2023/07/newshot-areg-sdk.jpg" /></td>
+        <td>Productivity</td>
+        <td>C++</td>
+        <td><a href="https://www.aregtech.com" target="_blank">areg engine</a></td>
+        <td>AREG is an RPC framework, but Object RPC (ORPC), that asynchronously triggers methods of the remote objects called services.</td>
+        <th><a href="https://github.com/aregtech/areg-sdk" target="_blank"><img alt="areg engine" src="https://img.shields.io/github/stars/aregtech/areg-sdk?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="lottie-to-gif" src="https://gitlibrary.club/images/uploads/2023/09/newshot-lottie-to-gif.jpg" /></td>
+        <td>Productivity</td>
+        <td>C++</td>
+        <td><a href="https://t.me/tgstogifbot" target="_blank">lottie-to-gif</a></td>
+        <td>Converts Lottie Animations (.json / .lottie) and Telegram stickers (*.tgs) to GIF / PNG / APNG / WEBP</td>
+        <th><a href="https://github.com/ed-asriyan/lottie-to-gif" target="_blank"><img alt="lottie-to-gif" src="https://img.shields.io/github/stars/ed-asriyan/lottie-to-gif?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="OneFlow" src="https://gitlibrary.club/images/uploads/2023/05/newshot-oneflow.png" /></td>
+        <td>Analytics</td>
+        <td>C++</td>
+        <td><a href="http://www.oneflow.org" target="_blank">OneFlow</a></td>
+        <td>OneFlow is a deep learning framework designed to be user-friendly, scalable and efficient.</td>
+        <th><a href="https://github.com/Oneflow-Inc/oneflow" target="_blank"><img alt="OneFlow" src="https://img.shields.io/github/stars/Oneflow-Inc/oneflow?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Organic Maps" src="https://gitlibrary.club/images/uploads/2023/05/newshot-organicmaps.png" /></td>
+        <td>Productivity</td>
+        <td>C++</td>
+        <td><a href="https://organicmaps.app" target="_blank">Organic Maps</a></td>
+        <td><g-emoji class="g-emoji" alias="leaves" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f343.png">?</g-emoji> Organic Maps is a free Android &amp; iOS offline maps app for travelers, tourists, hikers, and cyclists. It uses crowd-sourced OpenStreetMap data and is developed with love by MapsWithMe (MapsMe) fou…</td>
+        <th><a href="https://github.com/organicmaps/organicmaps" target="_blank"><img alt="Organic Maps" src="https://img.shields.io/github/stars/organicmaps/organicmaps?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Cemu Emulator" src="https://gitlibrary.club/images/uploads/2023/05/newshot-Cemu.png" /></td>
+        <td>Miscellaneous</td>
+        <td>C++</td>
+        <td><a href="https://cemu.info" target="_blank">Cemu Emulator</a></td>
+        <td>Cemu - Wii U emulator</td>
+        <th><a href="https://github.com/cemu-project/Cemu" target="_blank"><img alt="Cemu Emulator" src="https://img.shields.io/github/stars/cemu-project/Cemu?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="JUCE" src="https://gitlibrary.club/images/uploads/2023/05/newshot-JUCE.png" /></td>
+        <td>Infrastructure</td>
+        <td>C++</td>
+        <td><a href="https://juce.com" target="_blank">JUCE</a></td>
+        <td>JUCE is an open-source cross-platform C++ application framework for desktop and mobile applications, including VST, VST3, AU, AUv3, RTAS and AAX audio plug-ins.</td>
+        <th><a href="https://github.com/juce-framework/JUCE" target="_blank"><img alt="JUCE" src="https://img.shields.io/github/stars/juce-framework/JUCE?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="COLMAP" src="https://gitlibrary.club/images/uploads/2023/05/newshot-colmap.png" /></td>
+        <td>Observability</td>
+        <td>C++</td>
+        <td><a href="https://colmap.github.io/" target="_blank">COLMAP</a></td>
+        <td>COLMAP - Structure-from-Motion and Multi-View Stereo</td>
+        <th><a href="https://github.com/colmap/colmap" target="_blank"><img alt="COLMAP" src="https://img.shields.io/github/stars/colmap/colmap?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Zeek" src="https://gitlibrary.club/images/uploads/2023/05/newshot-zeek.png" /></td>
+        <td>Observability</td>
+        <td>C++</td>
+        <td><a href="https://www.zeek.org" target="_blank">Zeek</a></td>
+        <td>Zeek is a powerful network analysis framework that is much different from the typical IDS you may know.</td>
+        <th><a href="https://github.com/zeek/zeek" target="_blank"><img alt="Zeek" src="https://img.shields.io/github/stars/zeek/zeek?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="mediasoup" src="https://gitlibrary.club/images/uploads/2023/05/newshot-mediasoup.png" /></td>
+        <td>Infrastructure</td>
+        <td>C++</td>
+        <td><a href="https://mediasoup.org" target="_blank">mediasoup</a></td>
+        <td>Cutting Edge WebRTC Video Conferencing</td>
+        <th><a href="https://github.com/versatica/mediasoup" target="_blank"><img alt="mediasoup" src="https://img.shields.io/github/stars/versatica/mediasoup?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="mumble-voip/mumble" src="https://gitlibrary.club/images/uploads/2023/05/newshot-mumble.png" /></td>
+        <td>Collaboration</td>
+        <td>C++</td>
+        <td><a href="https://www.mumble.info" target="_blank">mumble-voip/mumble</a></td>
+        <td>Mumble is an open-source, low-latency, high quality voice chat software.</td>
+        <th><a href="https://github.com/mumble-voip/mumble" target="_blank"><img alt="mumble-voip/mumble" src="https://img.shields.io/github/stars/mumble-voip/mumble?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Recast Navigation" src="https://gitlibrary.club/images/uploads/2023/05/newshot-recastnavigation.png" /></td>
+        <td>Infrastructure</td>
+        <td>C++</td>
+        <td><a href="http://recastnav.com/" target="_blank">Recast Navigation</a></td>
+        <td>Navigation-mesh Toolset for Games</td>
+        <th><a href="https://github.com/recastnavigation/recastnavigation" target="_blank"><img alt="Recast Navigation" src="https://img.shields.io/github/stars/recastnavigation/recastnavigation?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Open Source Routing Machine" src="https://gitlibrary.club/images/uploads/2023/05/newshot-osrm-backend.png" /></td>
+        <td>Infrastructure</td>
+        <td>C++</td>
+        <td><a href="http://map.project-osrm.org" target="_blank">Open Source Routing Machine</a></td>
+        <td>Open Source Routing Machine - C++ backend</td>
+        <th><a href="https://github.com/Project-OSRM/osrm-backend" target="_blank"><img alt="Open Source Routing Machine" src="https://img.shields.io/github/stars/Project-OSRM/osrm-backend?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="RAPIDS" src="https://gitlibrary.club/images/uploads/2023/05/newshot-cudf.png" /></td>
+        <td>Analytics</td>
+        <td>C++</td>
+        <td><a href="http://rapids.ai" target="_blank">RAPIDS</a></td>
+        <td>cuDF - GPU DataFrame Library </td>
+        <th><a href="https://github.com/rapidsai/cudf" target="_blank"><img alt="RAPIDS" src="https://img.shields.io/github/stars/rapidsai/cudf?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Telegram Database Library" src="https://gitlibrary.club/images/uploads/2023/05/newshot-td-4.png" /></td>
+        <td>Infrastructure</td>
+        <td>C++</td>
+        <td><a href="https://core.telegram.org/tdlib" target="_blank">Telegram Database Library</a></td>
+        <td>Cross-platform library for building Telegram clients</td>
+        <th><a href="https://github.com/tdlib/td" target="_blank"><img alt="Telegram Database Library" src="https://img.shields.io/github/stars/tdlib/td?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="SteamVR" src="https://gitlibrary.club/images/uploads/2023/05/newshot-openvr.png" /></td>
+        <td>Infrastructure</td>
+        <td>C++</td>
+        <td><a href="http://steamvr.com" target="_blank">SteamVR</a></td>
+        <td>OpenVR SDK</td>
+        <th><a href="https://github.com/ValveSoftware/openvr" target="_blank"><img alt="SteamVR" src="https://img.shields.io/github/stars/ValveSoftware/openvr?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="TensorFlow" src="https://gitlibrary.club/images/uploads/2023/05/newshot-serving.png" /></td>
+        <td>Infrastructure</td>
+        <td>C++</td>
+        <td><a href="https://www.tensorflow.org/serving" target="_blank">TensorFlow</a></td>
+        <td>A flexible, high-performance serving system for machine learning models</td>
+        <th><a href="https://github.com/tensorflow/serving" target="_blank"><img alt="TensorFlow" src="https://img.shields.io/github/stars/tensorflow/serving?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="WasmEdge" src="https://gitlibrary.club/images/uploads/2023/05/newshot-WasmEdge.png" /></td>
+        <td>Infrastructure</td>
+        <td>C++</td>
+        <td><a href="https://WasmEdge.org" target="_blank">WasmEdge</a></td>
+        <td>WasmEdge is a lightweight, high-performance, and extensible WebAssembly runtime for cloud native, edge, and decentralized applications. It powers serverless apps, embedded functions, microservices,…</td>
+        <th><a href="https://github.com/WasmEdge/WasmEdge" target="_blank"><img alt="WasmEdge" src="https://img.shields.io/github/stars/WasmEdge/WasmEdge?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="CSA-IOT" src="https://gitlibrary.club/images/uploads/2023/05/newshot-connectedhomeip.png" /></td>
+        <td>Infrastructure</td>
+        <td>C++</td>
+        <td><a href="https://buildwithmatter.com" target="_blank">CSA-IOT</a></td>
+        <td>Matter (formerly Project CHIP) creates more connections between more objects, simplifying development for manufacturers and increasing compatibility for consumers, guided by the Connectivity Standa…</td>
+        <th><a href="https://github.com/project-chip/connectedhomeip" target="_blank"><img alt="CSA-IOT" src="https://img.shields.io/github/stars/project-chip/connectedhomeip?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="C++ Requests" src="https://gitlibrary.club/images/uploads/2023/05/newshot-cpr-1.png" /></td>
+        <td>Infrastructure</td>
+        <td>C++</td>
+        <td><a href="https://docs.libcpr.org/" target="_blank">C++ Requests</a></td>
+        <td>C++ Requests: Curl for People, a spiritual port of Python Requests.</td>
+        <th><a href="https://github.com/libcpr/cpr" target="_blank"><img alt="C++ Requests" src="https://img.shields.io/github/stars/libcpr/cpr?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="OceanBase Community" src="https://gitlibrary.club/images/uploads/2023/05/newshot-oceanbase-2.png" /></td>
+        <td>Databases</td>
+        <td>C++</td>
+        <td><a href="https://open.oceanbase.com" target="_blank">OceanBase Community</a></td>
+        <td>OceanBase is an enterprise distributed relational database with high availability, high performance, horizontal scalability, and compatibility with SQL standards.</td>
+        <th><a href="https://github.com/oceanbase/oceanbase" target="_blank"><img alt="OceanBase Community" src="https://img.shields.io/github/stars/oceanbase/oceanbase?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="ESPHome" src="https://gitlibrary.club/images/uploads/2023/05/newshot-esphome-1.png" /></td>
+        <td>Productivity</td>
+        <td>C++</td>
+        <td><a href="https://esphome.io/" target="_blank">ESPHome</a></td>
+        <td>ESPHome is a system to control your ESP8266/ESP32 by simple yet powerful configuration files and control them remotely through Home Automation systems.</td>
+        <th><a href="https://github.com/esphome/esphome" target="_blank"><img alt="ESPHome" src="https://img.shields.io/github/stars/esphome/esphome?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Remora udpx listens to UDP short commands to trigger LED Animations. Receives ; commands from ORCΛ" src="https://gitlibrary.club/images/uploads/2023/05/newshot-Remora.jpg" /></td>
+        <td>Observability</td>
+        <td>C++</td>
+        <td><a href="https://fasani.de" target="_blank">Remora udpx listens to UDP short commands to trigger LED Animations. Receives ; commands from ORCΛ</a></td>
+        <td>Remora udpx listens to UDP short commands to trigger LED Animations. Receives ; commands from ORCΛ</td>
+        <th><a href="https://github.com/martinberlin/Remora" target="_blank"><img alt="Remora udpx listens to UDP short commands to trigger LED Animations. Receives ; commands from ORCΛ" src="https://img.shields.io/github/stars/martinberlin/Remora?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="mingw-w64-dpp" src="https://gitlibrary.club/images/uploads/2023/06/newshot-mingw-w64-dpp.jpg" /></td>
+        <td>Miscellaneous</td>
+        <td>C++</td>
+        <td><a href="https://github.com/utoni/mingw-w64-dpp" target="_blank">mingw-w64-dpp</a></td>
+        <td>"Mingw64 Driver Plus Plus": Mingw64, C++, DDK and (EA)STL made easy!</td>
+        <th><a href="https://github.com/utoni/mingw-w64-dpp" target="_blank"><img alt="mingw-w64-dpp" src="https://img.shields.io/github/stars/utoni/mingw-w64-dpp?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Love Babbar 450 DSA" src="https://gitlibrary.club/images/uploads/2023/06/newshot-Love-Babbar-450.jpg" /></td>
+        <td>Productivity</td>
+        <td>C++</td>
+        <td><a href="https://github.com/viren-sureja/Love-Babbar-450" target="_blank">Love Babbar 450 DSA</a></td>
+        <td>Solution of the problems listed in DSA cracker sheet made by Love Babbar, with resources and some notes.</td>
+        <th><a href="https://github.com/viren-sureja/Love-Babbar-450" target="_blank"><img alt="Love Babbar 450 DSA" src="https://img.shields.io/github/stars/viren-sureja/Love-Babbar-450?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="CXXGraph" src="https://gitlibrary.club/images/uploads/2023/07/newshot-CXXGraph.png" /></td>
+        <td>Infrastructure</td>
+        <td>C++</td>
+        <td><a href="https://zigrazor.github.io/CXXGraph/" target="_blank">CXXGraph</a></td>
+        <td>Header-Only C++ Library for Graph Representation and Algorithms</td>
+        <th><a href="https://github.com/ZigRazor/CXXGraph" target="_blank"><img alt="CXXGraph" src="https://img.shields.io/github/stars/ZigRazor/CXXGraph?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="simdjson : Parsing gigabytes of JSON per second" src="https://gitlibrary.club/images/uploads/2023/07/newshot-simdjson.png" /></td>
+        <td>Infrastructure</td>
+        <td>C++</td>
+        <td><a href="https://simdjson.org" target="_blank">simdjson : Parsing gigabytes of JSON per second</a></td>
+        <td>Parsing gigabytes of JSON per second </td>
+        <th><a href="https://github.com/simdjson/simdjson" target="_blank"><img alt="simdjson : Parsing gigabytes of JSON per second" src="https://img.shields.io/github/stars/simdjson/simdjson?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Orange Pi DMX512 / RDM / MIDI / OSC / Art-Net / WS28xx / L6470 / Stepper / TLC59711 / PCA9685 / Servo / PWM / TCNet / SMPTE / RDMNet / LLRP / GD32 / GigaDevice" src="https://gitlibrary.club/images/uploads/2023/07/newshot-rpidmx512.jpg" /></td>
+        <td>Miscellaneous</td>
+        <td>C++</td>
+        <td><a href="http://www.orangepi-dmx.org/" target="_blank">Orange Pi DMX512 / RDM / MIDI / OSC / Art-Net / WS28xx / L6470 / Stepper / TLC59711 / PCA9685 / Servo / PWM / TCNet / SMPTE / RDMNet / LLRP / GD32 / GigaDevice</a></td>
+        <td>Orange Pi DMX512 / RDM / MIDI / OSC / Art-Net / WS28xx / L6470 / Stepper / TLC59711 / PCA9685 / Servo / PWM / TCNet / SMPTE / RDMNet / LLRP / GD32 / GigaDevice / Raspberry Pi</td>
+        <th><a href="https://github.com/vanvught/rpidmx512" target="_blank"><img alt="Orange Pi DMX512 / RDM / MIDI / OSC / Art-Net / WS28xx / L6470 / Stepper / TLC59711 / PCA9685 / Servo / PWM / TCNet / SMPTE / RDMNet / LLRP / GD32 / GigaDevice" src="https://img.shields.io/github/stars/vanvught/rpidmx512?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="CTF Writeups" src="https://gitlibrary.club/images/uploads/2023/07/newshot-ctf-writeups.jpg" /></td>
+        <td>Security</td>
+        <td>C++</td>
+        <td><a href="https://twitter.com/sajjadium" target="_blank">CTF Writeups</a></td>
+        <td>CTF Writeups: Collection of CTF "technical" writeups by PersianCats.</td>
+        <th><a href="https://github.com/sajjadium/ctf-writeups" target="_blank"><img alt="CTF Writeups" src="https://img.shields.io/github/stars/sajjadium/ctf-writeups?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="TM1637TinyDisplay" src="https://gitlibrary.club/images/uploads/2023/08/newshot-TM1637TinyDisplay.jpg" /></td>
+        <td>Miscellaneous</td>
+        <td>C++</td>
+        <td><a href="https://github.com/jasonacox/TM1637TinyDisplay" target="_blank">TM1637TinyDisplay</a></td>
+        <td>Arduino library to display numbers and text on a 4 and 6 digit 7-segment TM1637 display modules.</td>
+        <th><a href="https://github.com/jasonacox/TM1637TinyDisplay" target="_blank"><img alt="TM1637TinyDisplay" src="https://img.shields.io/github/stars/jasonacox/TM1637TinyDisplay?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Gammasoft71" src="https://gitlibrary.club/images/uploads/2023/08/newshot-xtd.png" /></td>
+        <td>Infrastructure</td>
+        <td>C++</td>
+        <td><a href="https://gammasoft71.github.io/xtd" target="_blank">Gammasoft71</a></td>
+        <td>Free open-source modern C++17 / C++20 framework to create console, GUI (forms like WinForms) and unit test applications on Microsoft Windows, Apple macOS and Linux.</td>
+        <th><a href="https://github.com/gammasoft71/xtd" target="_blank"><img alt="Gammasoft71" src="https://img.shields.io/github/stars/gammasoft71/xtd?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="LeetCode" src="https://gitlibrary.club/images/uploads/2023/09/newshot-LeetCode.png" /></td>
+        <td>Miscellaneous</td>
+        <td>C++</td>
+        <td><a href="https://walkccc.me/LeetCode" target="_blank">LeetCode</a></td>
+        <td>? LeetCode in C++17/Java/Python with good readability and consistent style (respect coding convention).</td>
+        <th><a href="https://github.com/walkccc/LeetCode" target="_blank"><img alt="LeetCode" src="https://img.shields.io/github/stars/walkccc/LeetCode?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="mp-units" src="https://gitlibrary.club/images/uploads/2023/09/newshot-mp-units-1.jpg" /></td>
+        <td>Security</td>
+        <td>C++</td>
+        <td><a href="https://mpusz.github.io/mp-units/" target="_blank">mp-units</a></td>
+        <td>A Physical Quantities and Units library for C++</td>
+        <th><a href="https://github.com/mpusz/mp-units" target="_blank"><img alt="mp-units" src="https://img.shields.io/github/stars/mpusz/mp-units?style=social" /></a></th>
+    </tr>
 
 </table>
 
@@ -11779,316 +12177,6 @@
         <td><a href="https://undercover-ci.com" target="_blank">Undercover</a></td>
         <td>Actionable code coverage - detects untested code blocks in recent changes</td>
         <th><a href="https://github.com/grodowski/undercover" target="_blank"><img alt="Undercover" src="https://img.shields.io/github/stars/grodowski/undercover?style=social" /></a></th>
-    </tr>
-
-</table>
-
-<br /><br />
-<h2 id="c++">Top 20 C++ libraries</h2>
-<table>
-    <tr>
-        <th>Icon</th>
-        <th>Category</th>
-        <th>Language</th>
-        <th>Name</th>
-        <th>Description</th>
-        <th>Stargazers</th>
-    </tr>
-        <tr>
-        <td nowrap="nowrap"><img width="33" alt="lockfree" src="https://gitlibrary.club/images/uploads/2023/08/newshot-lockfree.jpg" /></td>
-        <td>Miscellaneous</td>
-        <td>C++</td>
-        <td><a href="https://github.com/DNedic/lockfree" target="_blank">lockfree</a></td>
-        <td>A collection of lock-free data structures written in standard C++11</td>
-        <th><a href="https://github.com/DNedic/lockfree" target="_blank"><img alt="lockfree" src="https://img.shields.io/github/stars/DNedic/lockfree?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="TGUI" src="https://gitlibrary.club/images/uploads/2023/09/newshot-TGUI.png" /></td>
-        <td>Productivity</td>
-        <td>C++</td>
-        <td><a href="https://tgui.eu" target="_blank">TGUI</a></td>
-        <td>Cross-platform modern c++ GUI</td>
-        <th><a href="https://github.com/texus/TGUI" target="_blank"><img alt="TGUI" src="https://img.shields.io/github/stars/texus/TGUI?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="wxWidgets" src="https://gitlibrary.club/images/uploads/2023/05/newshot-wxWidgets.png" /></td>
-        <td>Infrastructure</td>
-        <td>C++</td>
-        <td><a href="https://www.wxwidgets.org/" target="_blank">wxWidgets</a></td>
-        <td>Cross-Platform C++ GUI Library</td>
-        <th><a href="https://github.com/wxWidgets/wxWidgets" target="_blank"><img alt="wxWidgets" src="https://img.shields.io/github/stars/wxWidgets/wxWidgets?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="homeThing" src="https://gitlibrary.club/images/uploads/2023/07/newshot-homeThing.jpg" /></td>
-        <td>Miscellaneous</td>
-        <td>C++</td>
-        <td><a href="https://homething.io" target="_blank">homeThing</a></td>
-        <td>wifi smart home remote with display that runs on ESPHome. Uses on Lilygo T-Display or M5Stack Fire</td>
-        <th><a href="https://github.com/landonr/homeThing" target="_blank"><img alt="homeThing" src="https://img.shields.io/github/stars/landonr/homeThing?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="ThorsSerializer" src="https://gitlibrary.club/images/uploads/2023/07/newshot-ThorsSerializer.jpg" /></td>
-        <td>Infrastructure</td>
-        <td>C++</td>
-        <td><a href="https://github.com/Loki-Astari/ThorsSerializer" target="_blank">ThorsSerializer</a></td>
-        <td>C++ Serialization library for JSON</td>
-        <th><a href="https://github.com/Loki-Astari/ThorsSerializer" target="_blank"><img alt="ThorsSerializer" src="https://img.shields.io/github/stars/Loki-Astari/ThorsSerializer?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="areg engine" src="https://gitlibrary.club/images/uploads/2023/07/newshot-areg-sdk.jpg" /></td>
-        <td>Productivity</td>
-        <td>C++</td>
-        <td><a href="https://www.aregtech.com" target="_blank">areg engine</a></td>
-        <td>AREG is an RPC framework, but Object RPC (ORPC), that asynchronously triggers methods of the remote objects called services.</td>
-        <th><a href="https://github.com/aregtech/areg-sdk" target="_blank"><img alt="areg engine" src="https://img.shields.io/github/stars/aregtech/areg-sdk?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="lottie-to-gif" src="https://gitlibrary.club/images/uploads/2023/09/newshot-lottie-to-gif.jpg" /></td>
-        <td>Productivity</td>
-        <td>C++</td>
-        <td><a href="https://t.me/tgstogifbot" target="_blank">lottie-to-gif</a></td>
-        <td>Converts Lottie Animations (.json / .lottie) and Telegram stickers (*.tgs) to GIF / PNG / APNG / WEBP</td>
-        <th><a href="https://github.com/ed-asriyan/lottie-to-gif" target="_blank"><img alt="lottie-to-gif" src="https://img.shields.io/github/stars/ed-asriyan/lottie-to-gif?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="OneFlow" src="https://gitlibrary.club/images/uploads/2023/05/newshot-oneflow.png" /></td>
-        <td>Analytics</td>
-        <td>C++</td>
-        <td><a href="http://www.oneflow.org" target="_blank">OneFlow</a></td>
-        <td>OneFlow is a deep learning framework designed to be user-friendly, scalable and efficient.</td>
-        <th><a href="https://github.com/Oneflow-Inc/oneflow" target="_blank"><img alt="OneFlow" src="https://img.shields.io/github/stars/Oneflow-Inc/oneflow?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Organic Maps" src="https://gitlibrary.club/images/uploads/2023/05/newshot-organicmaps.png" /></td>
-        <td>Productivity</td>
-        <td>C++</td>
-        <td><a href="https://organicmaps.app" target="_blank">Organic Maps</a></td>
-        <td><g-emoji class="g-emoji" alias="leaves" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f343.png">?</g-emoji> Organic Maps is a free Android &amp; iOS offline maps app for travelers, tourists, hikers, and cyclists. It uses crowd-sourced OpenStreetMap data and is developed with love by MapsWithMe (MapsMe) fou…</td>
-        <th><a href="https://github.com/organicmaps/organicmaps" target="_blank"><img alt="Organic Maps" src="https://img.shields.io/github/stars/organicmaps/organicmaps?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Cemu Emulator" src="https://gitlibrary.club/images/uploads/2023/05/newshot-Cemu.png" /></td>
-        <td>Miscellaneous</td>
-        <td>C++</td>
-        <td><a href="https://cemu.info" target="_blank">Cemu Emulator</a></td>
-        <td>Cemu - Wii U emulator</td>
-        <th><a href="https://github.com/cemu-project/Cemu" target="_blank"><img alt="Cemu Emulator" src="https://img.shields.io/github/stars/cemu-project/Cemu?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="JUCE" src="https://gitlibrary.club/images/uploads/2023/05/newshot-JUCE.png" /></td>
-        <td>Infrastructure</td>
-        <td>C++</td>
-        <td><a href="https://juce.com" target="_blank">JUCE</a></td>
-        <td>JUCE is an open-source cross-platform C++ application framework for desktop and mobile applications, including VST, VST3, AU, AUv3, RTAS and AAX audio plug-ins.</td>
-        <th><a href="https://github.com/juce-framework/JUCE" target="_blank"><img alt="JUCE" src="https://img.shields.io/github/stars/juce-framework/JUCE?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="COLMAP" src="https://gitlibrary.club/images/uploads/2023/05/newshot-colmap.png" /></td>
-        <td>Observability</td>
-        <td>C++</td>
-        <td><a href="https://colmap.github.io/" target="_blank">COLMAP</a></td>
-        <td>COLMAP - Structure-from-Motion and Multi-View Stereo</td>
-        <th><a href="https://github.com/colmap/colmap" target="_blank"><img alt="COLMAP" src="https://img.shields.io/github/stars/colmap/colmap?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Zeek" src="https://gitlibrary.club/images/uploads/2023/05/newshot-zeek.png" /></td>
-        <td>Observability</td>
-        <td>C++</td>
-        <td><a href="https://www.zeek.org" target="_blank">Zeek</a></td>
-        <td>Zeek is a powerful network analysis framework that is much different from the typical IDS you may know.</td>
-        <th><a href="https://github.com/zeek/zeek" target="_blank"><img alt="Zeek" src="https://img.shields.io/github/stars/zeek/zeek?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="mediasoup" src="https://gitlibrary.club/images/uploads/2023/05/newshot-mediasoup.png" /></td>
-        <td>Infrastructure</td>
-        <td>C++</td>
-        <td><a href="https://mediasoup.org" target="_blank">mediasoup</a></td>
-        <td>Cutting Edge WebRTC Video Conferencing</td>
-        <th><a href="https://github.com/versatica/mediasoup" target="_blank"><img alt="mediasoup" src="https://img.shields.io/github/stars/versatica/mediasoup?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="mumble-voip/mumble" src="https://gitlibrary.club/images/uploads/2023/05/newshot-mumble.png" /></td>
-        <td>Collaboration</td>
-        <td>C++</td>
-        <td><a href="https://www.mumble.info" target="_blank">mumble-voip/mumble</a></td>
-        <td>Mumble is an open-source, low-latency, high quality voice chat software.</td>
-        <th><a href="https://github.com/mumble-voip/mumble" target="_blank"><img alt="mumble-voip/mumble" src="https://img.shields.io/github/stars/mumble-voip/mumble?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Recast Navigation" src="https://gitlibrary.club/images/uploads/2023/05/newshot-recastnavigation.png" /></td>
-        <td>Infrastructure</td>
-        <td>C++</td>
-        <td><a href="http://recastnav.com/" target="_blank">Recast Navigation</a></td>
-        <td>Navigation-mesh Toolset for Games</td>
-        <th><a href="https://github.com/recastnavigation/recastnavigation" target="_blank"><img alt="Recast Navigation" src="https://img.shields.io/github/stars/recastnavigation/recastnavigation?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Open Source Routing Machine" src="https://gitlibrary.club/images/uploads/2023/05/newshot-osrm-backend.png" /></td>
-        <td>Infrastructure</td>
-        <td>C++</td>
-        <td><a href="http://map.project-osrm.org" target="_blank">Open Source Routing Machine</a></td>
-        <td>Open Source Routing Machine - C++ backend</td>
-        <th><a href="https://github.com/Project-OSRM/osrm-backend" target="_blank"><img alt="Open Source Routing Machine" src="https://img.shields.io/github/stars/Project-OSRM/osrm-backend?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="RAPIDS" src="https://gitlibrary.club/images/uploads/2023/05/newshot-cudf.png" /></td>
-        <td>Analytics</td>
-        <td>C++</td>
-        <td><a href="http://rapids.ai" target="_blank">RAPIDS</a></td>
-        <td>cuDF - GPU DataFrame Library </td>
-        <th><a href="https://github.com/rapidsai/cudf" target="_blank"><img alt="RAPIDS" src="https://img.shields.io/github/stars/rapidsai/cudf?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Telegram Database Library" src="https://gitlibrary.club/images/uploads/2023/05/newshot-td-4.png" /></td>
-        <td>Infrastructure</td>
-        <td>C++</td>
-        <td><a href="https://core.telegram.org/tdlib" target="_blank">Telegram Database Library</a></td>
-        <td>Cross-platform library for building Telegram clients</td>
-        <th><a href="https://github.com/tdlib/td" target="_blank"><img alt="Telegram Database Library" src="https://img.shields.io/github/stars/tdlib/td?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="SteamVR" src="https://gitlibrary.club/images/uploads/2023/05/newshot-openvr.png" /></td>
-        <td>Infrastructure</td>
-        <td>C++</td>
-        <td><a href="http://steamvr.com" target="_blank">SteamVR</a></td>
-        <td>OpenVR SDK</td>
-        <th><a href="https://github.com/ValveSoftware/openvr" target="_blank"><img alt="SteamVR" src="https://img.shields.io/github/stars/ValveSoftware/openvr?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="TensorFlow" src="https://gitlibrary.club/images/uploads/2023/05/newshot-serving.png" /></td>
-        <td>Infrastructure</td>
-        <td>C++</td>
-        <td><a href="https://www.tensorflow.org/serving" target="_blank">TensorFlow</a></td>
-        <td>A flexible, high-performance serving system for machine learning models</td>
-        <th><a href="https://github.com/tensorflow/serving" target="_blank"><img alt="TensorFlow" src="https://img.shields.io/github/stars/tensorflow/serving?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="WasmEdge" src="https://gitlibrary.club/images/uploads/2023/05/newshot-WasmEdge.png" /></td>
-        <td>Infrastructure</td>
-        <td>C++</td>
-        <td><a href="https://WasmEdge.org" target="_blank">WasmEdge</a></td>
-        <td>WasmEdge is a lightweight, high-performance, and extensible WebAssembly runtime for cloud native, edge, and decentralized applications. It powers serverless apps, embedded functions, microservices,…</td>
-        <th><a href="https://github.com/WasmEdge/WasmEdge" target="_blank"><img alt="WasmEdge" src="https://img.shields.io/github/stars/WasmEdge/WasmEdge?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="CSA-IOT" src="https://gitlibrary.club/images/uploads/2023/05/newshot-connectedhomeip.png" /></td>
-        <td>Infrastructure</td>
-        <td>C++</td>
-        <td><a href="https://buildwithmatter.com" target="_blank">CSA-IOT</a></td>
-        <td>Matter (formerly Project CHIP) creates more connections between more objects, simplifying development for manufacturers and increasing compatibility for consumers, guided by the Connectivity Standa…</td>
-        <th><a href="https://github.com/project-chip/connectedhomeip" target="_blank"><img alt="CSA-IOT" src="https://img.shields.io/github/stars/project-chip/connectedhomeip?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="C++ Requests" src="https://gitlibrary.club/images/uploads/2023/05/newshot-cpr-1.png" /></td>
-        <td>Infrastructure</td>
-        <td>C++</td>
-        <td><a href="https://docs.libcpr.org/" target="_blank">C++ Requests</a></td>
-        <td>C++ Requests: Curl for People, a spiritual port of Python Requests.</td>
-        <th><a href="https://github.com/libcpr/cpr" target="_blank"><img alt="C++ Requests" src="https://img.shields.io/github/stars/libcpr/cpr?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="OceanBase Community" src="https://gitlibrary.club/images/uploads/2023/05/newshot-oceanbase-2.png" /></td>
-        <td>Databases</td>
-        <td>C++</td>
-        <td><a href="https://open.oceanbase.com" target="_blank">OceanBase Community</a></td>
-        <td>OceanBase is an enterprise distributed relational database with high availability, high performance, horizontal scalability, and compatibility with SQL standards.</td>
-        <th><a href="https://github.com/oceanbase/oceanbase" target="_blank"><img alt="OceanBase Community" src="https://img.shields.io/github/stars/oceanbase/oceanbase?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="ESPHome" src="https://gitlibrary.club/images/uploads/2023/05/newshot-esphome-1.png" /></td>
-        <td>Productivity</td>
-        <td>C++</td>
-        <td><a href="https://esphome.io/" target="_blank">ESPHome</a></td>
-        <td>ESPHome is a system to control your ESP8266/ESP32 by simple yet powerful configuration files and control them remotely through Home Automation systems.</td>
-        <th><a href="https://github.com/esphome/esphome" target="_blank"><img alt="ESPHome" src="https://img.shields.io/github/stars/esphome/esphome?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Remora udpx listens to UDP short commands to trigger LED Animations. Receives ; commands from ORCΛ" src="https://gitlibrary.club/images/uploads/2023/05/newshot-Remora.jpg" /></td>
-        <td>Observability</td>
-        <td>C++</td>
-        <td><a href="https://fasani.de" target="_blank">Remora udpx listens to UDP short commands to trigger LED Animations. Receives ; commands from ORCΛ</a></td>
-        <td>Remora udpx listens to UDP short commands to trigger LED Animations. Receives ; commands from ORCΛ</td>
-        <th><a href="https://github.com/martinberlin/Remora" target="_blank"><img alt="Remora udpx listens to UDP short commands to trigger LED Animations. Receives ; commands from ORCΛ" src="https://img.shields.io/github/stars/martinberlin/Remora?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="mingw-w64-dpp" src="https://gitlibrary.club/images/uploads/2023/06/newshot-mingw-w64-dpp.jpg" /></td>
-        <td>Miscellaneous</td>
-        <td>C++</td>
-        <td><a href="https://github.com/utoni/mingw-w64-dpp" target="_blank">mingw-w64-dpp</a></td>
-        <td>"Mingw64 Driver Plus Plus": Mingw64, C++, DDK and (EA)STL made easy!</td>
-        <th><a href="https://github.com/utoni/mingw-w64-dpp" target="_blank"><img alt="mingw-w64-dpp" src="https://img.shields.io/github/stars/utoni/mingw-w64-dpp?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Love Babbar 450 DSA" src="https://gitlibrary.club/images/uploads/2023/06/newshot-Love-Babbar-450.jpg" /></td>
-        <td>Productivity</td>
-        <td>C++</td>
-        <td><a href="https://github.com/viren-sureja/Love-Babbar-450" target="_blank">Love Babbar 450 DSA</a></td>
-        <td>Solution of the problems listed in DSA cracker sheet made by Love Babbar, with resources and some notes.</td>
-        <th><a href="https://github.com/viren-sureja/Love-Babbar-450" target="_blank"><img alt="Love Babbar 450 DSA" src="https://img.shields.io/github/stars/viren-sureja/Love-Babbar-450?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="CXXGraph" src="https://gitlibrary.club/images/uploads/2023/07/newshot-CXXGraph.png" /></td>
-        <td>Infrastructure</td>
-        <td>C++</td>
-        <td><a href="https://zigrazor.github.io/CXXGraph/" target="_blank">CXXGraph</a></td>
-        <td>Header-Only C++ Library for Graph Representation and Algorithms</td>
-        <th><a href="https://github.com/ZigRazor/CXXGraph" target="_blank"><img alt="CXXGraph" src="https://img.shields.io/github/stars/ZigRazor/CXXGraph?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="simdjson : Parsing gigabytes of JSON per second" src="https://gitlibrary.club/images/uploads/2023/07/newshot-simdjson.png" /></td>
-        <td>Infrastructure</td>
-        <td>C++</td>
-        <td><a href="https://simdjson.org" target="_blank">simdjson : Parsing gigabytes of JSON per second</a></td>
-        <td>Parsing gigabytes of JSON per second </td>
-        <th><a href="https://github.com/simdjson/simdjson" target="_blank"><img alt="simdjson : Parsing gigabytes of JSON per second" src="https://img.shields.io/github/stars/simdjson/simdjson?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Orange Pi DMX512 / RDM / MIDI / OSC / Art-Net / WS28xx / L6470 / Stepper / TLC59711 / PCA9685 / Servo / PWM / TCNet / SMPTE / RDMNet / LLRP / GD32 / GigaDevice" src="https://gitlibrary.club/images/uploads/2023/07/newshot-rpidmx512.jpg" /></td>
-        <td>Miscellaneous</td>
-        <td>C++</td>
-        <td><a href="http://www.orangepi-dmx.org/" target="_blank">Orange Pi DMX512 / RDM / MIDI / OSC / Art-Net / WS28xx / L6470 / Stepper / TLC59711 / PCA9685 / Servo / PWM / TCNet / SMPTE / RDMNet / LLRP / GD32 / GigaDevice</a></td>
-        <td>Orange Pi DMX512 / RDM / MIDI / OSC / Art-Net / WS28xx / L6470 / Stepper / TLC59711 / PCA9685 / Servo / PWM / TCNet / SMPTE / RDMNet / LLRP / GD32 / GigaDevice / Raspberry Pi</td>
-        <th><a href="https://github.com/vanvught/rpidmx512" target="_blank"><img alt="Orange Pi DMX512 / RDM / MIDI / OSC / Art-Net / WS28xx / L6470 / Stepper / TLC59711 / PCA9685 / Servo / PWM / TCNet / SMPTE / RDMNet / LLRP / GD32 / GigaDevice" src="https://img.shields.io/github/stars/vanvught/rpidmx512?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="CTF Writeups" src="https://gitlibrary.club/images/uploads/2023/07/newshot-ctf-writeups.jpg" /></td>
-        <td>Security</td>
-        <td>C++</td>
-        <td><a href="https://twitter.com/sajjadium" target="_blank">CTF Writeups</a></td>
-        <td>CTF Writeups: Collection of CTF "technical" writeups by PersianCats.</td>
-        <th><a href="https://github.com/sajjadium/ctf-writeups" target="_blank"><img alt="CTF Writeups" src="https://img.shields.io/github/stars/sajjadium/ctf-writeups?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="TM1637TinyDisplay" src="https://gitlibrary.club/images/uploads/2023/08/newshot-TM1637TinyDisplay.jpg" /></td>
-        <td>Miscellaneous</td>
-        <td>C++</td>
-        <td><a href="https://github.com/jasonacox/TM1637TinyDisplay" target="_blank">TM1637TinyDisplay</a></td>
-        <td>Arduino library to display numbers and text on a 4 and 6 digit 7-segment TM1637 display modules.</td>
-        <th><a href="https://github.com/jasonacox/TM1637TinyDisplay" target="_blank"><img alt="TM1637TinyDisplay" src="https://img.shields.io/github/stars/jasonacox/TM1637TinyDisplay?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Gammasoft71" src="https://gitlibrary.club/images/uploads/2023/08/newshot-xtd.png" /></td>
-        <td>Infrastructure</td>
-        <td>C++</td>
-        <td><a href="https://gammasoft71.github.io/xtd" target="_blank">Gammasoft71</a></td>
-        <td>Free open-source modern C++17 / C++20 framework to create console, GUI (forms like WinForms) and unit test applications on Microsoft Windows, Apple macOS and Linux.</td>
-        <th><a href="https://github.com/gammasoft71/xtd" target="_blank"><img alt="Gammasoft71" src="https://img.shields.io/github/stars/gammasoft71/xtd?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="LeetCode" src="https://gitlibrary.club/images/uploads/2023/09/newshot-LeetCode.png" /></td>
-        <td>Miscellaneous</td>
-        <td>C++</td>
-        <td><a href="https://walkccc.me/LeetCode" target="_blank">LeetCode</a></td>
-        <td>? LeetCode in C++17/Java/Python with good readability and consistent style (respect coding convention).</td>
-        <th><a href="https://github.com/walkccc/LeetCode" target="_blank"><img alt="LeetCode" src="https://img.shields.io/github/stars/walkccc/LeetCode?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="mp-units" src="https://gitlibrary.club/images/uploads/2023/09/newshot-mp-units-1.jpg" /></td>
-        <td>Security</td>
-        <td>C++</td>
-        <td><a href="https://mpusz.github.io/mp-units/" target="_blank">mp-units</a></td>
-        <td>A Physical Quantities and Units library for C++</td>
-        <th><a href="https://github.com/mpusz/mp-units" target="_blank"><img alt="mp-units" src="https://img.shields.io/github/stars/mpusz/mp-units?style=social" /></a></th>
     </tr>
 
 </table>
@@ -13415,6 +13503,14 @@
         <td><a href="https://biplobsd.me/apps/view/as.md" target="_blank">Addition and Subtraction</a></td>
         <td>Addition and Subtraction browser extension</td>
         <th><a href="https://github.com/biplobsd/as" target="_blank"><img alt="Addition and Subtraction" src="https://img.shields.io/github/stars/biplobsd/as?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Editable Website" src="https://gitlibrary.club/images/uploads/2023/09/newshot-editable-website.jpg" /></td>
+        <td>Miscellaneous</td>
+        <td>Svelte</td>
+        <td><a href="https://editable.website" target="_blank">Editable Website</a></td>
+        <td>A SvelteKit template for building CMS-free editable websites </td>
+        <th><a href="https://github.com/michael/editable-website" target="_blank"><img alt="Editable Website" src="https://img.shields.io/github/stars/michael/editable-website?style=social" /></a></th>
     </tr>
 
 </table>
