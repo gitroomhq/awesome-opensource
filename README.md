@@ -160,6 +160,14 @@
         <th>Stargazers</th>
     </tr>
         <tr>
+        <td nowrap="nowrap"><img width="33" alt="RecoverPy" src="https://gitlibrary.club/images/uploads/2023/09/newshot-RecoverPy.jpg" /></td>
+        <td>Observability</td>
+        <td>Python</td>
+        <td><a href="https://github.com/PabloLec/RecoverPy" target="_blank">RecoverPy</a></td>
+        <td>Interactively find and recover deleted or ? overwritten ? files from your terminal</td>
+        <th><a href="https://github.com/PabloLec/RecoverPy" target="_blank"><img alt="RecoverPy" src="https://img.shields.io/github/stars/PabloLec/RecoverPy?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="Storybook" src="https://gitlibrary.club/images/uploads/2023/09/newshot-storybook-1.png" /></td>
         <td>Collaboration</td>
         <td>TypeScript</td>
@@ -310,14 +318,6 @@
         <td><a href="https://actions.cicirello.org/generate-sitemap/" target="_blank">generate-sitemap</a></td>
         <td>Generate an XML sitemap for a GitHub Pages site using GitHub Actions</td>
         <th><a href="https://github.com/cicirello/generate-sitemap" target="_blank"><img alt="generate-sitemap" src="https://img.shields.io/github/stars/cicirello/generate-sitemap?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="javadoc-cleanup" src="https://gitlibrary.club/images/uploads/2023/09/newshot-javadoc-cleanup.jpg" /></td>
-        <td>Miscellaneous</td>
-        <td>Python</td>
-        <td><a href="https://actions.cicirello.org/javadoc-cleanup/" target="_blank">javadoc-cleanup</a></td>
-        <td>Create mobile-friendly documentation sites by post-processing javadocs in GitHub Actions</td>
-        <th><a href="https://github.com/cicirello/javadoc-cleanup" target="_blank"><img alt="javadoc-cleanup" src="https://img.shields.io/github/stars/cicirello/javadoc-cleanup?style=social" /></a></th>
     </tr>
 
 </table>
@@ -2682,6 +2682,14 @@
         <td><a href="https://llmonitor.com" target="_blank">LLMonitor</a></td>
         <td>Open-source monitoring &amp; analytics for AI apps and agent</td>
         <th><a href="https://github.com/llmonitor/llmonitor" target="_blank"><img alt="LLMonitor" src="https://img.shields.io/github/stars/llmonitor/llmonitor?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="RecoverPy" src="https://gitlibrary.club/images/uploads/2023/09/newshot-RecoverPy.jpg" /></td>
+        <td>Observability</td>
+        <td>Python</td>
+        <td><a href="https://github.com/PabloLec/RecoverPy" target="_blank">RecoverPy</a></td>
+        <td>Interactively find and recover deleted or ? overwritten ? files from your terminal</td>
+        <th><a href="https://github.com/PabloLec/RecoverPy" target="_blank"><img alt="RecoverPy" src="https://img.shields.io/github/stars/PabloLec/RecoverPy?style=social" /></a></th>
     </tr>
 
 </table>
@@ -11207,6 +11215,14 @@
         <td><a href="https://parser.yzhang.site/" target="_blank">SuPar</a></td>
         <td>? State-of-the-art parsers for natural language.</td>
         <th><a href="https://github.com/yzhangcs/parser" target="_blank"><img alt="SuPar" src="https://img.shields.io/github/stars/yzhangcs/parser?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="RecoverPy" src="https://gitlibrary.club/images/uploads/2023/09/newshot-RecoverPy.jpg" /></td>
+        <td>Observability</td>
+        <td>Python</td>
+        <td><a href="https://github.com/PabloLec/RecoverPy" target="_blank">RecoverPy</a></td>
+        <td>Interactively find and recover deleted or ? overwritten ? files from your terminal</td>
+        <th><a href="https://github.com/PabloLec/RecoverPy" target="_blank"><img alt="RecoverPy" src="https://img.shields.io/github/stars/PabloLec/RecoverPy?style=social" /></a></th>
     </tr>
 
 </table>
