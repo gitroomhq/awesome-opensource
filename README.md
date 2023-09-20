@@ -160,6 +160,14 @@
         <th>Stargazers</th>
     </tr>
         <tr>
+        <td nowrap="nowrap"><img width="33" alt="ServiceRegistration" src="https://gitlibrary.club/images/uploads/2023/09/newshot-ServiceRegistration.png" /></td>
+        <td>Productivity</td>
+        <td>C#</td>
+        <td><a href="https://github.com/Giannoudis/ServiceRegistration" target="_blank">ServiceRegistration</a></td>
+        <td>Service Registration and Decoration in ASP.NET Core</td>
+        <th><a href="https://github.com/Giannoudis/ServiceRegistration" target="_blank"><img alt="ServiceRegistration" src="https://img.shields.io/github/stars/Giannoudis/ServiceRegistration?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="CGraph" src="https://gitlibrary.club/images/uploads/2023/09/newshot-CGraph.jpg" /></td>
         <td>Infrastructure</td>
         <td>C++</td>
@@ -310,14 +318,6 @@
         <td><a href="https://mpusz.github.io/mp-units/" target="_blank">mp-units</a></td>
         <td>A Physical Quantities and Units library for C++</td>
         <th><a href="https://github.com/mpusz/mp-units" target="_blank"><img alt="mp-units" src="https://img.shields.io/github/stars/mpusz/mp-units?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Svix Webhooks" src="https://gitlibrary.club/images/uploads/2023/09/newshot-svix-webhooks.png" /></td>
-        <td>Infrastructure</td>
-        <td>Rust</td>
-        <td><a href="https://www.svix.com" target="_blank">Svix Webhooks</a></td>
-        <td>The enterprise-ready webhooks service ?</td>
-        <th><a href="https://github.com/svix/svix-webhooks" target="_blank"><img alt="Svix Webhooks" src="https://img.shields.io/github/stars/svix/svix-webhooks?style=social" /></a></th>
     </tr>
 
 </table>
@@ -4528,6 +4528,14 @@
         <td><a href="https://github.com/mirkosertic/FXDesktopSearch" target="_blank">FXDesktopSearch</a></td>
         <td>A JavaFX based desktop search application.</td>
         <th><a href="https://github.com/mirkosertic/FXDesktopSearch" target="_blank"><img alt="FXDesktopSearch" src="https://img.shields.io/github/stars/mirkosertic/FXDesktopSearch?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="ServiceRegistration" src="https://gitlibrary.club/images/uploads/2023/09/newshot-ServiceRegistration.png" /></td>
+        <td>Productivity</td>
+        <td>C#</td>
+        <td><a href="https://github.com/Giannoudis/ServiceRegistration" target="_blank">ServiceRegistration</a></td>
+        <td>Service Registration and Decoration in ASP.NET Core</td>
+        <th><a href="https://github.com/Giannoudis/ServiceRegistration" target="_blank"><img alt="ServiceRegistration" src="https://img.shields.io/github/stars/Giannoudis/ServiceRegistration?style=social" /></a></th>
     </tr>
 
 </table>
@@ -11961,6 +11969,14 @@
         <td><a href="https://github.com/adamralph/minver" target="_blank">MinVer</a></td>
         <td>? Minimalistic versioning using Git tags.</td>
         <th><a href="https://github.com/adamralph/minver" target="_blank"><img alt="MinVer" src="https://img.shields.io/github/stars/adamralph/minver?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="ServiceRegistration" src="https://gitlibrary.club/images/uploads/2023/09/newshot-ServiceRegistration.png" /></td>
+        <td>Productivity</td>
+        <td>C#</td>
+        <td><a href="https://github.com/Giannoudis/ServiceRegistration" target="_blank">ServiceRegistration</a></td>
+        <td>Service Registration and Decoration in ASP.NET Core</td>
+        <th><a href="https://github.com/Giannoudis/ServiceRegistration" target="_blank"><img alt="ServiceRegistration" src="https://img.shields.io/github/stars/Giannoudis/ServiceRegistration?style=social" /></a></th>
     </tr>
 
 </table>
