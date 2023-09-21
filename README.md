@@ -160,6 +160,14 @@
         <th>Stargazers</th>
     </tr>
         <tr>
+        <td nowrap="nowrap"><img width="33" alt="tarteaucitron.js" src="https://gitlibrary.club/images/uploads/2023/09/newshot-tarteaucitron.js.jpg" /></td>
+        <td>Miscellaneous</td>
+        <td>JavaScript</td>
+        <td><a href="https://tarteaucitron.io/" target="_blank">tarteaucitron.js</a></td>
+        <td>RGPD friendly cookie manager</td>
+        <th><a href="https://github.com/AmauriC/tarteaucitron.js" target="_blank"><img alt="tarteaucitron.js" src="https://img.shields.io/github/stars/AmauriC/tarteaucitron.js?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="ServiceRegistration" src="https://gitlibrary.club/images/uploads/2023/09/newshot-ServiceRegistration.png" /></td>
         <td>Productivity</td>
         <td>C#</td>
@@ -310,14 +318,6 @@
         <td><a href="https://kylebing.cn/tools/typepad/" target="_blank">Typepad</a></td>
         <td>玫枫跟打器：五笔跟打器（网页版）</td>
         <th><a href="https://github.com/KyleBing/typepad" target="_blank"><img alt="Typepad" src="https://img.shields.io/github/stars/KyleBing/typepad?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="mp-units" src="https://gitlibrary.club/images/uploads/2023/09/newshot-mp-units-1.jpg" /></td>
-        <td>Security</td>
-        <td>C++</td>
-        <td><a href="https://mpusz.github.io/mp-units/" target="_blank">mp-units</a></td>
-        <td>A Physical Quantities and Units library for C++</td>
-        <th><a href="https://github.com/mpusz/mp-units" target="_blank"><img alt="mp-units" src="https://img.shields.io/github/stars/mpusz/mp-units?style=social" /></a></th>
     </tr>
 
 </table>
@@ -2428,6 +2428,14 @@
         <td><a href="https://editable.website" target="_blank">Editable Website</a></td>
         <td>A SvelteKit template for building CMS-free editable websites </td>
         <th><a href="https://github.com/michael/editable-website" target="_blank"><img alt="Editable Website" src="https://img.shields.io/github/stars/michael/editable-website?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="tarteaucitron.js" src="https://gitlibrary.club/images/uploads/2023/09/newshot-tarteaucitron.js.jpg" /></td>
+        <td>Miscellaneous</td>
+        <td>JavaScript</td>
+        <td><a href="https://tarteaucitron.io/" target="_blank">tarteaucitron.js</a></td>
+        <td>RGPD friendly cookie manager</td>
+        <th><a href="https://github.com/AmauriC/tarteaucitron.js" target="_blank"><img alt="tarteaucitron.js" src="https://img.shields.io/github/stars/AmauriC/tarteaucitron.js?style=social" /></a></th>
     </tr>
 
 </table>
@@ -11319,6 +11327,14 @@
         <td><a href="https://passwordless.id" target="_blank">Passwordless.ID</a></td>
         <td>Ditch passwords, boost security! Use this public identity provider to leverage biometric authentication and increase security.</td>
         <th><a href="https://github.com/passwordless-id/www" target="_blank"><img alt="Passwordless.ID" src="https://img.shields.io/github/stars/passwordless-id/www?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="tarteaucitron.js" src="https://gitlibrary.club/images/uploads/2023/09/newshot-tarteaucitron.js.jpg" /></td>
+        <td>Miscellaneous</td>
+        <td>JavaScript</td>
+        <td><a href="https://tarteaucitron.io/" target="_blank">tarteaucitron.js</a></td>
+        <td>RGPD friendly cookie manager</td>
+        <th><a href="https://github.com/AmauriC/tarteaucitron.js" target="_blank"><img alt="tarteaucitron.js" src="https://img.shields.io/github/stars/AmauriC/tarteaucitron.js?style=social" /></a></th>
     </tr>
 
 </table>
