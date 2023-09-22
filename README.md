@@ -160,6 +160,14 @@
         <th>Stargazers</th>
     </tr>
         <tr>
+        <td nowrap="nowrap"><img width="33" alt="g3log" src="https://gitlibrary.club/images/uploads/2023/09/newshot-g3log.png" /></td>
+        <td>Notifications</td>
+        <td>C++</td>
+        <td><a href="http://github.com/KjellKod/g3log" target="_blank">g3log</a></td>
+        <td>G3log is an asynchronous, "crash safe", logger that is easy to use with default logging sinks or you can add your own. G3log is made with plain C++14 (C++11 support up to release 1.3.2) with no ext…</td>
+        <th><a href="https://github.com/KjellKod/g3log" target="_blank"><img alt="g3log" src="https://img.shields.io/github/stars/KjellKod/g3log?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="tarteaucitron.js" src="https://gitlibrary.club/images/uploads/2023/09/newshot-tarteaucitron.js.jpg" /></td>
         <td>Miscellaneous</td>
         <td>JavaScript</td>
@@ -310,14 +318,6 @@
         <td><a href="http://kylebing.cn/diary" target="_blank">Life Log</a></td>
         <td>《标题日记》web 纯文字日记应用，分类日记，共享日记 Headline Diary, web app, text only, summary of the day | Vue3 | PC &amp; Mobile</td>
         <th><a href="https://github.com/KyleBing/diary" target="_blank"><img alt="Life Log" src="https://img.shields.io/github/stars/KyleBing/diary?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Typepad" src="https://gitlibrary.club/images/uploads/2023/09/newshot-typepad.png" /></td>
-        <td>Productivity</td>
-        <td>JavaScript</td>
-        <td><a href="https://kylebing.cn/tools/typepad/" target="_blank">Typepad</a></td>
-        <td>玫枫跟打器：五笔跟打器（网页版）</td>
-        <th><a href="https://github.com/KyleBing/typepad" target="_blank"><img alt="Typepad" src="https://img.shields.io/github/stars/KyleBing/typepad?style=social" /></a></th>
     </tr>
 
 </table>
@@ -5648,6 +5648,14 @@
         <td><a href="https://github.com/thudugala/Plugin.LocalNotification" target="_blank">Plugin.LocalNotification</a></td>
         <td>The local notification plugin provides a way to show local notifications from .Net MAUI and Xamarin Forms apps .</td>
         <th><a href="https://github.com/thudugala/Plugin.LocalNotification" target="_blank"><img alt="Plugin.LocalNotification" src="https://img.shields.io/github/stars/thudugala/Plugin.LocalNotification?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="g3log" src="https://gitlibrary.club/images/uploads/2023/09/newshot-g3log.png" /></td>
+        <td>Notifications</td>
+        <td>C++</td>
+        <td><a href="http://github.com/KjellKod/g3log" target="_blank">g3log</a></td>
+        <td>G3log is an asynchronous, "crash safe", logger that is easy to use with default logging sinks or you can add your own. G3log is made with plain C++14 (C++11 support up to release 1.3.2) with no ext…</td>
+        <th><a href="https://github.com/KjellKod/g3log" target="_blank"><img alt="g3log" src="https://img.shields.io/github/stars/KjellKod/g3log?style=social" /></a></th>
     </tr>
 
 </table>
@@ -11661,6 +11669,14 @@
         <td><a href="https://github.com/etr/libhttpserver" target="_blank">libhttpserver</a></td>
         <td>C++ library for creating an embedded Rest HTTP server (and more)</td>
         <th><a href="https://github.com/etr/libhttpserver" target="_blank"><img alt="libhttpserver" src="https://img.shields.io/github/stars/etr/libhttpserver?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="g3log" src="https://gitlibrary.club/images/uploads/2023/09/newshot-g3log.png" /></td>
+        <td>Notifications</td>
+        <td>C++</td>
+        <td><a href="http://github.com/KjellKod/g3log" target="_blank">g3log</a></td>
+        <td>G3log is an asynchronous, "crash safe", logger that is easy to use with default logging sinks or you can add your own. G3log is made with plain C++14 (C++11 support up to release 1.3.2) with no ext…</td>
+        <th><a href="https://github.com/KjellKod/g3log" target="_blank"><img alt="g3log" src="https://img.shields.io/github/stars/KjellKod/g3log?style=social" /></a></th>
     </tr>
 
 </table>
