@@ -160,6 +160,38 @@
         <th>Stargazers</th>
     </tr>
         <tr>
+        <td nowrap="nowrap"><img width="33" alt="Dart Fusion" src="https://gitlibrary.club/images/uploads/2023/09/newshot-dart_fusion.png" /></td>
+        <td>Miscellaneous</td>
+        <td>Dart</td>
+        <td><a href="https://github.com/Nialixus/dart_fusion" target="_blank">Dart Fusion</a></td>
+        <td>A tool for managing Dart or flutter projects. This contains cli, annotations, extensions, parsers and many more.</td>
+        <th><a href="https://github.com/Nialixus/dart_fusion" target="_blank"><img alt="Dart Fusion" src="https://img.shields.io/github/stars/Nialixus/dart_fusion?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="API Bloc" src="https://gitlibrary.club/images/uploads/2023/09/newshot-api_bloc.png" /></td>
+        <td>Infrastructure</td>
+        <td>Dart</td>
+        <td><a href="https://github.com/Nialixus/api_bloc" target="_blank">API Bloc</a></td>
+        <td>A Flutter library for managing API calls using the BLoC pattern. This library provides a set of classes and utilities to simplify API calls and manage state changes.</td>
+        <th><a href="https://github.com/Nialixus/api_bloc" target="_blank"><img alt="API Bloc" src="https://img.shields.io/github/stars/Nialixus/api_bloc?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="TypeWriter Text" src="https://gitlibrary.club/images/uploads/2023/09/newshot-typewritertext.png" /></td>
+        <td>Miscellaneous</td>
+        <td>Dart</td>
+        <td><a href="https://github.com/Nialixus/typewritertext" target="_blank">TypeWriter Text</a></td>
+        <td>A simple typewriter text animation wrapper for flutter.</td>
+        <th><a href="https://github.com/Nialixus/typewritertext" target="_blank"><img alt="TypeWriter Text" src="https://img.shields.io/github/stars/Nialixus/typewritertext?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="File Saver Z" src="https://gitlibrary.club/images/uploads/2023/09/newshot-filesaverz.png" /></td>
+        <td>Productivity</td>
+        <td>Dart</td>
+        <td><a href="https://github.com/Nialixus/filesaverz" target="_blank">File Saver Z</a></td>
+        <td> A customable file saver and file picker package that makes it easy for user to browse folder and save file or pick files in android.</td>
+        <th><a href="https://github.com/Nialixus/filesaverz" target="_blank"><img alt="File Saver Z" src="https://img.shields.io/github/stars/Nialixus/filesaverz?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="Drifty" src="https://gitlibrary.club/images/uploads/2023/09/newshot-Drifty.jpg" /></td>
         <td>Productivity</td>
         <td>Java</td>
@@ -286,38 +318,6 @@
         <td><a href="https://openstreetdata.org" target="_blank">OpenStreetData</a></td>
         <td>Country data extracts from OpenStreetMaps in GeoJson or PBF. Datasets of streets, houses, addresses and more.</td>
         <th><a href="https://github.com/dagnelies/open-street-data" target="_blank"><img alt="OpenStreetData" src="https://img.shields.io/github/stars/dagnelies/open-street-data?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Serverless AWS Secrets" src="https://gitlibrary.club/images/uploads/2023/09/newshot-serverless-aws-secrets.jpg" /></td>
-        <td>Security</td>
-        <td>TypeScript</td>
-        <td><a href="https://www.npmjs.com/package/serverless-aws-secrets" target="_blank">Serverless AWS Secrets</a></td>
-        <td>? Serverless plugin that reads environment variables and replaces secrets using AWS Secrets Manager ?</td>
-        <th><a href="https://github.com/robin-thomas/serverless-aws-secrets" target="_blank"><img alt="Serverless AWS Secrets" src="https://img.shields.io/github/stars/robin-thomas/serverless-aws-secrets?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Go Installer" src="https://gitlibrary.club/images/uploads/2023/09/newshot-go-installer.jpg" /></td>
-        <td>Miscellaneous</td>
-        <td>Shell</td>
-        <td><a href="https://github.com/kerolloz/go-installer" target="_blank">Go Installer</a></td>
-        <td>? A simple shell script to install the Go ? programming language!</td>
-        <th><a href="https://github.com/kerolloz/go-installer" target="_blank"><img alt="Go Installer" src="https://img.shields.io/github/stars/kerolloz/go-installer?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Open Source With Pradumna" src="https://gitlibrary.club/images/uploads/2023/09/newshot-open-source-with-pradumna.jpg" /></td>
-        <td>Miscellaneous</td>
-        <td>HTML</td>
-        <td><a href="https://os.pradumnasaraf.dev/" target="_blank">Open Source With Pradumna</a></td>
-        <td>Open Source guide - Contains resources and materials to learn and get yourself started with Open Source, Git, and GitHub.</td>
-        <th><a href="https://github.com/Pradumnasaraf/open-source-with-pradumna" target="_blank"><img alt="Open Source With Pradumna" src="https://img.shields.io/github/stars/Pradumnasaraf/open-source-with-pradumna?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="DevOps" src="https://gitlibrary.club/images/uploads/2023/09/newshot-DevOps.jpg" /></td>
-        <td>Miscellaneous</td>
-        <td>Go</td>
-        <td><a href="https://devops.pradumnasaraf.dev/" target="_blank">DevOps</a></td>
-        <td>This repo contains all my learning related to DevOps</td>
-        <th><a href="https://github.com/Pradumnasaraf/DevOps" target="_blank"><img alt="DevOps" src="https://img.shields.io/github/stars/Pradumnasaraf/DevOps?style=social" /></a></th>
     </tr>
 
 </table>
@@ -727,6 +727,14 @@
         <th><a href="https://github.com/inlang/inlang" target="_blank"><img alt="inlang" src="https://img.shields.io/github/stars/inlang/inlang?style=social" /></a></th>
     </tr>
     <tr>
+        <td nowrap="nowrap"><img width="33" alt="Env Reader" src="https://gitlibrary.club/images/uploads/2023/08/newshot-env_reader.png" /></td>
+        <td>Productivity</td>
+        <td>Dart</td>
+        <td><a href="https://github.com/Nialixus/env_reader" target="_blank">Env Reader</a></td>
+        <td>Enhance the rock-solid integrity of your .env configuration by seamlessly encrypting and decrypting data sourced from a dynamic range of origins—be it assets, files, strings, memory, or networks—sp…</td>
+        <th><a href="https://github.com/Nialixus/env_reader" target="_blank"><img alt="Env Reader" src="https://img.shields.io/github/stars/Nialixus/env_reader?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="core" src="https://gitlibrary.club/images/uploads/2023/09/newshot-core.jpg" /></td>
         <td>Miscellaneous</td>
         <td>Java</td>
@@ -1125,14 +1133,6 @@
         <td><a href="https://purekit.vercel.app" target="_blank">purekit</a></td>
         <td>The Simple and Efficient Javascript / Typescript Utility Library</td>
         <th><a href="https://github.com/PunitSoniME/purekit" target="_blank"><img alt="purekit" src="https://img.shields.io/github/stars/PunitSoniME/purekit?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Piral - Microfrontend Framework" src="https://gitlibrary.club/images/uploads/2023/05/newshot-piral.png" /></td>
-        <td>Infrastructure</td>
-        <td>TypeScript</td>
-        <td><a href="https://piral.io" target="_blank">Piral - Microfrontend Framework</a></td>
-        <td>Framework for next generation web apps using micro frontends. <g-emoji class="g-emoji" alias="rocket" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f680.png">?</g-emoji></td>
-        <th><a href="https://github.com/smapiot/piral" target="_blank"><img alt="Piral - Microfrontend Framework" src="https://img.shields.io/github/stars/smapiot/piral?style=social" /></a></th>
     </tr>
 
 </table>
@@ -2437,6 +2437,22 @@
         <td>RGPD friendly cookie manager</td>
         <th><a href="https://github.com/AmauriC/tarteaucitron.js" target="_blank"><img alt="tarteaucitron.js" src="https://img.shields.io/github/stars/AmauriC/tarteaucitron.js?style=social" /></a></th>
     </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Dart Fusion" src="https://gitlibrary.club/images/uploads/2023/09/newshot-dart_fusion.png" /></td>
+        <td>Miscellaneous</td>
+        <td>Dart</td>
+        <td><a href="https://github.com/Nialixus/dart_fusion" target="_blank">Dart Fusion</a></td>
+        <td>A tool for managing Dart or flutter projects. This contains cli, annotations, extensions, parsers and many more.</td>
+        <th><a href="https://github.com/Nialixus/dart_fusion" target="_blank"><img alt="Dart Fusion" src="https://img.shields.io/github/stars/Nialixus/dart_fusion?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="TypeWriter Text" src="https://gitlibrary.club/images/uploads/2023/09/newshot-typewritertext.png" /></td>
+        <td>Miscellaneous</td>
+        <td>Dart</td>
+        <td><a href="https://github.com/Nialixus/typewritertext" target="_blank">TypeWriter Text</a></td>
+        <td>A simple typewriter text animation wrapper for flutter.</td>
+        <th><a href="https://github.com/Nialixus/typewritertext" target="_blank"><img alt="TypeWriter Text" src="https://img.shields.io/github/stars/Nialixus/typewritertext?style=social" /></a></th>
+    </tr>
 
 </table>
 
@@ -2832,6 +2848,14 @@
         <td><a href="https://github.com/jankapunkt/latexcv" target="_blank">LatexCV</a></td>
         <td><g-emoji class="g-emoji" alias="necktie" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f454.png">?</g-emoji> A collection of cv and resume templates written in LaTeX. Leave an issue if your language is not supported!</td>
         <th><a href="https://github.com/jankapunkt/latexcv" target="_blank"><img alt="LatexCV" src="https://img.shields.io/github/stars/jankapunkt/latexcv?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Env Reader" src="https://gitlibrary.club/images/uploads/2023/08/newshot-env_reader.png" /></td>
+        <td>Productivity</td>
+        <td>Dart</td>
+        <td><a href="https://github.com/Nialixus/env_reader" target="_blank">Env Reader</a></td>
+        <td>Enhance the rock-solid integrity of your .env configuration by seamlessly encrypting and decrypting data sourced from a dynamic range of origins—be it assets, files, strings, memory, or networks—sp…</td>
+        <th><a href="https://github.com/Nialixus/env_reader" target="_blank"><img alt="Env Reader" src="https://img.shields.io/github/stars/Nialixus/env_reader?style=social" /></a></th>
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="Drifty" src="https://gitlibrary.club/images/uploads/2023/09/newshot-Drifty.jpg" /></td>
@@ -4418,14 +4442,6 @@
         <th><a href="https://github.com/prmpsmart/termii_sdk" target="_blank"><img alt="termii_sdk" src="https://img.shields.io/github/stars/prmpsmart/termii_sdk?style=social" /></a></th>
     </tr>
     <tr>
-        <td nowrap="nowrap"><img width="33" alt="Env Reader" src="https://gitlibrary.club/images/uploads/2023/08/newshot-env_reader.png" /></td>
-        <td>Productivity</td>
-        <td>Dart</td>
-        <td><a href="https://github.com/Nialixus/env_reader" target="_blank">Env Reader</a></td>
-        <td>Enhance the rock-solid integrity of your .env configuration by seamlessly encrypting and decrypting data sourced from a dynamic range of origins—be it assets, files, strings, memory, or networks—sp…</td>
-        <th><a href="https://github.com/Nialixus/env_reader" target="_blank"><img alt="Env Reader" src="https://img.shields.io/github/stars/Nialixus/env_reader?style=social" /></a></th>
-    </tr>
-    <tr>
         <td nowrap="nowrap"><img width="33" alt="Dashy" src="https://gitlibrary.club/images/uploads/2023/09/newshot-dashy.png" /></td>
         <td>Productivity</td>
         <td>Vue</td>
@@ -4552,6 +4568,14 @@
         <td><a href="https://github.com/Giannoudis/ServiceRegistration" target="_blank">ServiceRegistration</a></td>
         <td>Service Registration and Decoration in ASP.NET Core</td>
         <th><a href="https://github.com/Giannoudis/ServiceRegistration" target="_blank"><img alt="ServiceRegistration" src="https://img.shields.io/github/stars/Giannoudis/ServiceRegistration?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="File Saver Z" src="https://gitlibrary.club/images/uploads/2023/09/newshot-filesaverz.png" /></td>
+        <td>Productivity</td>
+        <td>Dart</td>
+        <td><a href="https://github.com/Nialixus/filesaverz" target="_blank">File Saver Z</a></td>
+        <td> A customable file saver and file picker package that makes it easy for user to browse folder and save file or pick files in android.</td>
+        <th><a href="https://github.com/Nialixus/filesaverz" target="_blank"><img alt="File Saver Z" src="https://img.shields.io/github/stars/Nialixus/filesaverz?style=social" /></a></th>
     </tr>
 
 </table>
@@ -7149,6 +7173,14 @@
         <td>C++ library for creating an embedded Rest HTTP server (and more)</td>
         <th><a href="https://github.com/etr/libhttpserver" target="_blank"><img alt="libhttpserver" src="https://img.shields.io/github/stars/etr/libhttpserver?style=social" /></a></th>
     </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="API Bloc" src="https://gitlibrary.club/images/uploads/2023/09/newshot-api_bloc.png" /></td>
+        <td>Infrastructure</td>
+        <td>Dart</td>
+        <td><a href="https://github.com/Nialixus/api_bloc" target="_blank">API Bloc</a></td>
+        <td>A Flutter library for managing API calls using the BLoC pattern. This library provides a set of classes and utilities to simplify API calls and manage state changes.</td>
+        <th><a href="https://github.com/Nialixus/api_bloc" target="_blank"><img alt="API Bloc" src="https://img.shields.io/github/stars/Nialixus/api_bloc?style=social" /></a></th>
+    </tr>
 
 </table>
 
@@ -9241,6 +9273,14 @@
         <th><a href="https://github.com/Frezyx/sidebarx" target="_blank"><img alt="sidebarx" src="https://img.shields.io/github/stars/Frezyx/sidebarx?style=social" /></a></th>
     </tr>
     <tr>
+        <td nowrap="nowrap"><img width="33" alt="Env Reader" src="https://gitlibrary.club/images/uploads/2023/08/newshot-env_reader.png" /></td>
+        <td>Productivity</td>
+        <td>Dart</td>
+        <td><a href="https://github.com/Nialixus/env_reader" target="_blank">Env Reader</a></td>
+        <td>Enhance the rock-solid integrity of your .env configuration by seamlessly encrypting and decrypting data sourced from a dynamic range of origins—be it assets, files, strings, memory, or networks—sp…</td>
+        <th><a href="https://github.com/Nialixus/env_reader" target="_blank"><img alt="Env Reader" src="https://img.shields.io/github/stars/Nialixus/env_reader?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="Flutter Gallery" src="https://gitlibrary.club/images/uploads/2023/05/newshot-gallery.png" /></td>
         <td>Productivity</td>
         <td>Dart</td>
@@ -9281,12 +9321,36 @@
         <th><a href="https://github.com/biplobsd/epochconverter" target="_blank"><img alt="Epoch Readable" src="https://img.shields.io/github/stars/biplobsd/epochconverter?style=social" /></a></th>
     </tr>
     <tr>
-        <td nowrap="nowrap"><img width="33" alt="Env Reader" src="https://gitlibrary.club/images/uploads/2023/08/newshot-env_reader.png" /></td>
+        <td nowrap="nowrap"><img width="33" alt="Dart Fusion" src="https://gitlibrary.club/images/uploads/2023/09/newshot-dart_fusion.png" /></td>
+        <td>Miscellaneous</td>
+        <td>Dart</td>
+        <td><a href="https://github.com/Nialixus/dart_fusion" target="_blank">Dart Fusion</a></td>
+        <td>A tool for managing Dart or flutter projects. This contains cli, annotations, extensions, parsers and many more.</td>
+        <th><a href="https://github.com/Nialixus/dart_fusion" target="_blank"><img alt="Dart Fusion" src="https://img.shields.io/github/stars/Nialixus/dart_fusion?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="API Bloc" src="https://gitlibrary.club/images/uploads/2023/09/newshot-api_bloc.png" /></td>
+        <td>Infrastructure</td>
+        <td>Dart</td>
+        <td><a href="https://github.com/Nialixus/api_bloc" target="_blank">API Bloc</a></td>
+        <td>A Flutter library for managing API calls using the BLoC pattern. This library provides a set of classes and utilities to simplify API calls and manage state changes.</td>
+        <th><a href="https://github.com/Nialixus/api_bloc" target="_blank"><img alt="API Bloc" src="https://img.shields.io/github/stars/Nialixus/api_bloc?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="TypeWriter Text" src="https://gitlibrary.club/images/uploads/2023/09/newshot-typewritertext.png" /></td>
+        <td>Miscellaneous</td>
+        <td>Dart</td>
+        <td><a href="https://github.com/Nialixus/typewritertext" target="_blank">TypeWriter Text</a></td>
+        <td>A simple typewriter text animation wrapper for flutter.</td>
+        <th><a href="https://github.com/Nialixus/typewritertext" target="_blank"><img alt="TypeWriter Text" src="https://img.shields.io/github/stars/Nialixus/typewritertext?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="File Saver Z" src="https://gitlibrary.club/images/uploads/2023/09/newshot-filesaverz.png" /></td>
         <td>Productivity</td>
         <td>Dart</td>
-        <td><a href="https://github.com/Nialixus/env_reader" target="_blank">Env Reader</a></td>
-        <td>Enhance the rock-solid integrity of your .env configuration by seamlessly encrypting and decrypting data sourced from a dynamic range of origins—be it assets, files, strings, memory, or networks—sp…</td>
-        <th><a href="https://github.com/Nialixus/env_reader" target="_blank"><img alt="Env Reader" src="https://img.shields.io/github/stars/Nialixus/env_reader?style=social" /></a></th>
+        <td><a href="https://github.com/Nialixus/filesaverz" target="_blank">File Saver Z</a></td>
+        <td> A customable file saver and file picker package that makes it easy for user to browse folder and save file or pick files in android.</td>
+        <th><a href="https://github.com/Nialixus/filesaverz" target="_blank"><img alt="File Saver Z" src="https://img.shields.io/github/stars/Nialixus/filesaverz?style=social" /></a></th>
     </tr>
 
 </table>
