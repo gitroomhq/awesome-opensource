@@ -70,6 +70,8 @@
              </li>          <li>
                 <a href="#tex">Top 20 TeX libraries</a>
              </li>          <li>
+                <a href="#css">Top 20 CSS libraries</a>
+             </li>          <li>
                 <a href="#vue">Top 20 Vue libraries</a>
              </li>          <li>
                 <a href="#ruby">Top 20 Ruby libraries</a>
@@ -79,8 +81,6 @@
                 <a href="#scss">Top 20 SCSS libraries</a>
              </li>          <li>
                 <a href="#tsql">Top 20 TSQL libraries</a>
-             </li>          <li>
-                <a href="#css">Top 20 CSS libraries</a>
              </li>          <li>
                 <a href="#clojure">Top 20 Clojure libraries</a>
              </li>          <li>
@@ -160,12 +160,12 @@
         <th>Stargazers</th>
     </tr>
         <tr>
-        <td nowrap="nowrap"><img width="33" alt="Rymdport" src="https://gitlibrary.club/images/uploads/2023/09/newshot-rymdport.jpg" /></td>
-        <td>Miscellaneous</td>
-        <td>Go</td>
-        <td><a href="https://rymdport.github.io/" target="_blank">Rymdport</a></td>
-        <td>Cross-platform application for easy encrypted file, folder, and text sharing between devices.</td>
-        <th><a href="https://github.com/Jacalz/rymdport" target="_blank"><img alt="Rymdport" src="https://img.shields.io/github/stars/Jacalz/rymdport?style=social" /></a></th>
+        <td nowrap="nowrap"><img width="33" alt="XenOrchestraInstallerUpdater" src="https://gitlibrary.club/images/uploads/2023/09/newshot-XenOrchestraInstallerUpdater-1.jpg" /></td>
+        <td>Infrastructure</td>
+        <td>Shell</td>
+        <td><a href="https://github.com/ronivay/XenOrchestraInstallerUpdater" target="_blank">XenOrchestraInstallerUpdater</a></td>
+        <td>Xen Orchestra install/update script</td>
+        <th><a href="https://github.com/ronivay/XenOrchestraInstallerUpdater" target="_blank"><img alt="XenOrchestraInstallerUpdater" src="https://img.shields.io/github/stars/ronivay/XenOrchestraInstallerUpdater?style=social" /></a></th>
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="Message Silo" src="https://gitlibrary.club/images/uploads/2023/09/newshot-MessageSilo.png" /></td>
@@ -174,6 +174,14 @@
         <td><a href="https://www.message-silo.dev" target="_blank">Message Silo</a></td>
         <td>A tool to fix or enrich messages with the power of AI, and make integration simpler for event-driven systems. Azure Service Bus, AWS SQS, RabbitMQ, and more...</td>
         <th><a href="https://github.com/MessageSilo/MessageSilo" target="_blank"><img alt="Message Silo" src="https://img.shields.io/github/stars/MessageSilo/MessageSilo?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Rymdport" src="https://gitlibrary.club/images/uploads/2023/09/newshot-rymdport.jpg" /></td>
+        <td>Miscellaneous</td>
+        <td>Go</td>
+        <td><a href="https://rymdport.github.io/" target="_blank">Rymdport</a></td>
+        <td>Cross-platform application for easy encrypted file, folder, and text sharing between devices.</td>
+        <th><a href="https://github.com/Jacalz/rymdport" target="_blank"><img alt="Rymdport" src="https://img.shields.io/github/stars/Jacalz/rymdport?style=social" /></a></th>
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="Dart Fusion" src="https://gitlibrary.club/images/uploads/2023/09/newshot-dart_fusion.png" /></td>
@@ -311,14 +319,6 @@
         <td>Storybook is a frontend workshop for building UI components and pages in isolation. Made for UI development, testing, and documentation. </td>
         <th><a href="https://github.com/storybookjs/storybook" target="_blank"><img alt="Storybook" src="https://img.shields.io/github/stars/storybookjs/storybook?style=social" /></a></th>
     </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="SuPar" src="https://gitlibrary.club/images/uploads/2023/09/newshot-parser.jpg" /></td>
-        <td>Infrastructure</td>
-        <td>Python</td>
-        <td><a href="https://parser.yzhang.site/" target="_blank">SuPar</a></td>
-        <td>? State-of-the-art parsers for natural language.</td>
-        <th><a href="https://github.com/yzhangcs/parser" target="_blank"><img alt="SuPar" src="https://img.shields.io/github/stars/yzhangcs/parser?style=social" /></a></th>
-    </tr>
 
 </table>
 
@@ -415,6 +415,14 @@
         <th><a href="https://github.com/Frezyx/talker" target="_blank"><img alt="Talker" src="https://img.shields.io/github/stars/Frezyx/talker?style=social" /></a></th>
     </tr>
     <tr>
+        <td nowrap="nowrap"><img width="33" alt="dyrector.io" src="https://gitlibrary.club/images/uploads/2023/07/newshot-dyrectorio.jpg" /></td>
+        <td>Productivity</td>
+        <td>TypeScript</td>
+        <td><a href="https://dyrectorio.com" target="_blank">dyrector.io</a></td>
+        <td>dyrector.io is a self-hosted container management and delivery platform.</td>
+        <th><a href="https://github.com/dyrector-io/dyrectorio" target="_blank"><img alt="dyrector.io" src="https://img.shields.io/github/stars/dyrector-io/dyrectorio?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="Twenty CRM" src="https://gitlibrary.club/images/uploads/2023/07/newshot-twenty.png" /></td>
         <td>Miscellaneous</td>
         <td>TypeScript</td>
@@ -429,14 +437,6 @@
         <td><a href="https://github20k.com" target="_blank">Github 20k</a></td>
         <td>The open-source course landing page <g-emoji class="g-emoji" alias="rocket" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f680.png">?</g-emoji><g-emoji class="g-emoji" alias="rocket" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f680.png">?</g-emoji><g-emoji class="g-emoji" alias="rocket" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f680.png">?</g-emoji></td>
         <th><a href="https://github.com/github-20k/super-star" target="_blank"><img alt="Github 20k" src="https://img.shields.io/github/stars/github-20k/super-star?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="dyrector.io" src="https://gitlibrary.club/images/uploads/2023/07/newshot-dyrectorio.jpg" /></td>
-        <td>Productivity</td>
-        <td>TypeScript</td>
-        <td><a href="https://dyrectorio.com" target="_blank">dyrector.io</a></td>
-        <td>dyrector.io is a self-hosted container management and delivery platform.</td>
-        <th><a href="https://github.com/dyrector-io/dyrectorio" target="_blank"><img alt="dyrector.io" src="https://img.shields.io/github/stars/dyrector-io/dyrectorio?style=social" /></a></th>
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="Chips-n-Salsa" src="https://gitlibrary.club/images/uploads/2023/08/newshot-Chips-n-Salsa.jpg" /></td>
@@ -567,14 +567,6 @@
         <th><a href="https://github.com/Nialixus/api_bloc" target="_blank"><img alt="API Bloc" src="https://img.shields.io/github/stars/Nialixus/api_bloc?style=social" /></a></th>
     </tr>
     <tr>
-        <td nowrap="nowrap"><img width="33" alt="File Saver Z" src="https://gitlibrary.club/images/uploads/2023/09/newshot-filesaverz.png" /></td>
-        <td>Productivity</td>
-        <td>Dart</td>
-        <td><a href="https://github.com/Nialixus/filesaverz" target="_blank">File Saver Z</a></td>
-        <td> A customable file saver and file picker package that makes it easy for user to browse folder and save file or pick files in android.</td>
-        <th><a href="https://github.com/Nialixus/filesaverz" target="_blank"><img alt="File Saver Z" src="https://img.shields.io/github/stars/Nialixus/filesaverz?style=social" /></a></th>
-    </tr>
-    <tr>
         <td nowrap="nowrap"><img width="33" alt="Bitwarden" src="https://gitlibrary.club/images/uploads/2023/05/newshot-clients-1.png" /></td>
         <td>Security</td>
         <td>TypeScript</td>
@@ -589,6 +581,14 @@
         <td><a href="https://configu.com" target="_blank">Configu</a></td>
         <td>a simple, modern, and generic standard for managing and collaborating software configurations ⚙️✨.</td>
         <th><a href="https://github.com/configu/configu" target="_blank"><img alt="Configu" src="https://img.shields.io/github/stars/configu/configu?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="File Saver Z" src="https://gitlibrary.club/images/uploads/2023/09/newshot-filesaverz.png" /></td>
+        <td>Productivity</td>
+        <td>Dart</td>
+        <td><a href="https://github.com/Nialixus/filesaverz" target="_blank">File Saver Z</a></td>
+        <td> A customable file saver and file picker package that makes it easy for user to browse folder and save file or pick files in android.</td>
+        <th><a href="https://github.com/Nialixus/filesaverz" target="_blank"><img alt="File Saver Z" src="https://img.shields.io/github/stars/Nialixus/filesaverz?style=social" /></a></th>
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="Hanko" src="https://gitlibrary.club/images/uploads/2023/05/newshot-hanko.png" /></td>
@@ -789,6 +789,14 @@
         <td><a href="https://saptarshisarkar12.github.io/Drifty/" target="_blank">Drifty</a></td>
         <td>Drifty is an open-source interactive File Downloader system built with java. It is available in both CLI and GUI mode.</td>
         <th><a href="https://github.com/SaptarshiSarkar12/Drifty" target="_blank"><img alt="Drifty" src="https://img.shields.io/github/stars/SaptarshiSarkar12/Drifty?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Message Silo" src="https://gitlibrary.club/images/uploads/2023/09/newshot-MessageSilo.png" /></td>
+        <td>Productivity</td>
+        <td>CSS</td>
+        <td><a href="https://www.message-silo.dev" target="_blank">Message Silo</a></td>
+        <td>A tool to fix or enrich messages with the power of AI, and make integration simpler for event-driven systems. Azure Service Bus, AWS SQS, RabbitMQ, and more...</td>
+        <th><a href="https://github.com/MessageSilo/MessageSilo" target="_blank"><img alt="Message Silo" src="https://img.shields.io/github/stars/MessageSilo/MessageSilo?style=social" /></a></th>
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="Rymdport" src="https://gitlibrary.club/images/uploads/2023/09/newshot-rymdport.jpg" /></td>
@@ -1071,6 +1079,30 @@
         <th><a href="https://github.com/alphardex/aqua.css" target="_blank"><img alt="aqua.css" src="https://img.shields.io/github/stars/alphardex/aqua.css?style=social" /></a></th>
     </tr>
     <tr>
+        <td nowrap="nowrap"><img width="33" alt="Spider" src="https://gitlibrary.club/images/uploads/2023/07/newshot-spider.jpg" /></td>
+        <td>Productivity</td>
+        <td>Dart</td>
+        <td><a href="https://spider.birju.dev/" target="_blank">Spider</a></td>
+        <td>A small dart library to generate Assets dart code from assets folder.</td>
+        <th><a href="https://github.com/BirjuVachhani/spider" target="_blank"><img alt="Spider" src="https://img.shields.io/github/stars/BirjuVachhani/spider?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Pluto" src="https://gitlibrary.club/images/uploads/2023/07/newshot-pluto.jpg" /></td>
+        <td>Miscellaneous</td>
+        <td>Dart</td>
+        <td><a href="https://birjuvachhani.github.io/pluto" target="_blank">Pluto</a></td>
+        <td>A minimal new tab for Chrome/Edge.</td>
+        <th><a href="https://github.com/BirjuVachhani/pluto" target="_blank"><img alt="Pluto" src="https://img.shields.io/github/stars/BirjuVachhani/pluto?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Box Transform" src="https://gitlibrary.club/images/uploads/2023/07/newshot-box_transform.png" /></td>
+        <td>Productivity</td>
+        <td>Dart</td>
+        <td><a href="https://boxtransform.hyperdesigned.dev" target="_blank">Box Transform</a></td>
+        <td>A library for advanced resizing of rect in UI.</td>
+        <th><a href="https://github.com/hyper-designed/box_transform" target="_blank"><img alt="Box Transform" src="https://img.shields.io/github/stars/hyper-designed/box_transform?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="doticons" src="https://gitlibrary.club/images/uploads/2023/07/newshot-doticons.jpg" /></td>
         <td>Miscellaneous</td>
         <td>undefined</td>
@@ -1101,38 +1133,6 @@
         <td><a href="https://payrollengine.org/" target="_blank">Payroll Engine</a></td>
         <td>The payroll automation framework.</td>
         <th><a href="https://github.com/Payroll-Engine/PayrollEngine" target="_blank"><img alt="Payroll Engine" src="https://img.shields.io/github/stars/Payroll-Engine/PayrollEngine?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="mirrord" src="https://gitlibrary.club/images/uploads/2023/08/newshot-mirrord.jpg" /></td>
-        <td>Productivity</td>
-        <td>Rust</td>
-        <td><a href="https://mirrord.dev" target="_blank">mirrord</a></td>
-        <td>Connect your local process and your cloud environment, and run local code in cloud conditions.</td>
-        <th><a href="https://github.com/metalbear-co/mirrord" target="_blank"><img alt="mirrord" src="https://img.shields.io/github/stars/metalbear-co/mirrord?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Nginx UI" src="https://gitlibrary.club/images/uploads/2023/09/newshot-nginx-ui.jpg" /></td>
-        <td>Productivity</td>
-        <td>Vue</td>
-        <td><a href="https://nginxui.com" target="_blank">Nginx UI</a></td>
-        <td>Yet another WebUI for Nginx</td>
-        <th><a href="https://github.com/0xJacky/nginx-ui" target="_blank"><img alt="Nginx UI" src="https://img.shields.io/github/stars/0xJacky/nginx-ui?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Swirl Search" src="https://gitlibrary.club/images/uploads/2023/09/newshot-swirl-search.png" /></td>
-        <td>Infrastructure</td>
-        <td>Python</td>
-        <td><a href="https://github.com/swirlai/swirl-search" target="_blank">Swirl Search</a></td>
-        <td>Swirl queries anything with an API then uses Large Language Models to re-rank the unified results without copying any data! Includes zero-code configs for Apache Solr, ChatGPT, Elastic Search, AWS …</td>
-        <th><a href="https://github.com/swirlai/swirl-search" target="_blank"><img alt="Swirl Search" src="https://img.shields.io/github/stars/swirlai/swirl-search?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Message Silo" src="https://gitlibrary.club/images/uploads/2023/09/newshot-MessageSilo.png" /></td>
-        <td>Productivity</td>
-        <td>CSS</td>
-        <td><a href="https://www.message-silo.dev" target="_blank">Message Silo</a></td>
-        <td>A tool to fix or enrich messages with the power of AI, and make integration simpler for event-driven systems. Azure Service Bus, AWS SQS, RabbitMQ, and more...</td>
-        <th><a href="https://github.com/MessageSilo/MessageSilo" target="_blank"><img alt="Message Silo" src="https://img.shields.io/github/stars/MessageSilo/MessageSilo?style=social" /></a></th>
     </tr>
 
 </table>
@@ -1326,6 +1326,14 @@
         <th><a href="https://github.com/AntonioFalcaoJr/EventualShop" target="_blank"><img alt="Eventual Shop" src="https://img.shields.io/github/stars/AntonioFalcaoJr/EventualShop?style=social" /></a></th>
     </tr>
     <tr>
+        <td nowrap="nowrap"><img width="33" alt="Pluto" src="https://gitlibrary.club/images/uploads/2023/07/newshot-pluto.jpg" /></td>
+        <td>Miscellaneous</td>
+        <td>Dart</td>
+        <td><a href="https://birjuvachhani.github.io/pluto" target="_blank">Pluto</a></td>
+        <td>A minimal new tab for Chrome/Edge.</td>
+        <th><a href="https://github.com/BirjuVachhani/pluto" target="_blank"><img alt="Pluto" src="https://img.shields.io/github/stars/BirjuVachhani/pluto?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="doticons" src="https://gitlibrary.club/images/uploads/2023/07/newshot-doticons.jpg" /></td>
         <td>Miscellaneous</td>
         <td>undefined</td>
@@ -1404,14 +1412,6 @@
         <td><a href="https://www.ascii-art.site" target="_blank">Art</a></td>
         <td><g-emoji class="g-emoji" alias="art" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f3a8.png">?</g-emoji> ASCII art library for Python</td>
         <th><a href="https://github.com/sepandhaghighi/art" target="_blank"><img alt="Art" src="https://img.shields.io/github/stars/sepandhaghighi/art?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Pluto" src="https://gitlibrary.club/images/uploads/2023/07/newshot-pluto.jpg" /></td>
-        <td>Miscellaneous</td>
-        <td>Dart</td>
-        <td><a href="https://birjuvachhani.github.io/pluto" target="_blank">Pluto</a></td>
-        <td>A minimal new tab for Chrome/Edge.</td>
-        <th><a href="https://github.com/BirjuVachhani/pluto" target="_blank"><img alt="Pluto" src="https://img.shields.io/github/stars/BirjuVachhani/pluto?style=social" /></a></th>
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="Movex" src="https://gitlibrary.club/images/uploads/2023/07/newshot-movex.png" /></td>
@@ -2778,20 +2778,20 @@
         <th><a href="https://github.com/fleetbase/fleetbase" target="_blank"><img alt="Fleetbase" src="https://img.shields.io/github/stars/fleetbase/fleetbase?style=social" /></a></th>
     </tr>
     <tr>
-        <td nowrap="nowrap"><img width="33" alt="Github 20k" src="https://gitlibrary.club/images/uploads/2023/05/newshot-super-star-1.png" /></td>
-        <td>Productivity</td>
-        <td>TypeScript</td>
-        <td><a href="https://github20k.com" target="_blank">Github 20k</a></td>
-        <td>The open-source course landing page <g-emoji class="g-emoji" alias="rocket" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f680.png">?</g-emoji><g-emoji class="g-emoji" alias="rocket" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f680.png">?</g-emoji><g-emoji class="g-emoji" alias="rocket" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f680.png">?</g-emoji></td>
-        <th><a href="https://github.com/github-20k/super-star" target="_blank"><img alt="Github 20k" src="https://img.shields.io/github/stars/github-20k/super-star?style=social" /></a></th>
-    </tr>
-    <tr>
         <td nowrap="nowrap"><img width="33" alt="dyrector.io" src="https://gitlibrary.club/images/uploads/2023/07/newshot-dyrectorio.jpg" /></td>
         <td>Productivity</td>
         <td>TypeScript</td>
         <td><a href="https://dyrectorio.com" target="_blank">dyrector.io</a></td>
         <td>dyrector.io is a self-hosted container management and delivery platform.</td>
         <th><a href="https://github.com/dyrector-io/dyrectorio" target="_blank"><img alt="dyrector.io" src="https://img.shields.io/github/stars/dyrector-io/dyrectorio?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Github 20k" src="https://gitlibrary.club/images/uploads/2023/05/newshot-super-star-1.png" /></td>
+        <td>Productivity</td>
+        <td>TypeScript</td>
+        <td><a href="https://github20k.com" target="_blank">Github 20k</a></td>
+        <td>The open-source course landing page <g-emoji class="g-emoji" alias="rocket" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f680.png">?</g-emoji><g-emoji class="g-emoji" alias="rocket" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f680.png">?</g-emoji><g-emoji class="g-emoji" alias="rocket" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f680.png">?</g-emoji></td>
+        <th><a href="https://github.com/github-20k/super-star" target="_blank"><img alt="Github 20k" src="https://img.shields.io/github/stars/github-20k/super-star?style=social" /></a></th>
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="NotionCMS" src="https://gitlibrary.club/images/uploads/2023/08/newshot-notion-cms.png" /></td>
@@ -2882,6 +2882,14 @@
         <th><a href="https://github.com/SaptarshiSarkar12/Drifty" target="_blank"><img alt="Drifty" src="https://img.shields.io/github/stars/SaptarshiSarkar12/Drifty?style=social" /></a></th>
     </tr>
     <tr>
+        <td nowrap="nowrap"><img width="33" alt="Message Silo" src="https://gitlibrary.club/images/uploads/2023/09/newshot-MessageSilo.png" /></td>
+        <td>Productivity</td>
+        <td>CSS</td>
+        <td><a href="https://www.message-silo.dev" target="_blank">Message Silo</a></td>
+        <td>A tool to fix or enrich messages with the power of AI, and make integration simpler for event-driven systems. Azure Service Bus, AWS SQS, RabbitMQ, and more...</td>
+        <th><a href="https://github.com/MessageSilo/MessageSilo" target="_blank"><img alt="Message Silo" src="https://img.shields.io/github/stars/MessageSilo/MessageSilo?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="Flutter Gallery" src="https://gitlibrary.club/images/uploads/2023/05/newshot-gallery.png" /></td>
         <td>Productivity</td>
         <td>Dart</td>
@@ -2962,6 +2970,22 @@
         <th><a href="https://github.com/alphardex/aqua.css" target="_blank"><img alt="aqua.css" src="https://img.shields.io/github/stars/alphardex/aqua.css?style=social" /></a></th>
     </tr>
     <tr>
+        <td nowrap="nowrap"><img width="33" alt="Spider" src="https://gitlibrary.club/images/uploads/2023/07/newshot-spider.jpg" /></td>
+        <td>Productivity</td>
+        <td>Dart</td>
+        <td><a href="https://spider.birju.dev/" target="_blank">Spider</a></td>
+        <td>A small dart library to generate Assets dart code from assets folder.</td>
+        <th><a href="https://github.com/BirjuVachhani/spider" target="_blank"><img alt="Spider" src="https://img.shields.io/github/stars/BirjuVachhani/spider?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Box Transform" src="https://gitlibrary.club/images/uploads/2023/07/newshot-box_transform.png" /></td>
+        <td>Productivity</td>
+        <td>Dart</td>
+        <td><a href="https://boxtransform.hyperdesigned.dev" target="_blank">Box Transform</a></td>
+        <td>A library for advanced resizing of rect in UI.</td>
+        <th><a href="https://github.com/hyper-designed/box_transform" target="_blank"><img alt="Box Transform" src="https://img.shields.io/github/stars/hyper-designed/box_transform?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="SmartImage" src="https://gitlibrary.club/images/uploads/2023/08/newshot-SmartImage.png" /></td>
         <td>Productivity</td>
         <td>C#</td>
@@ -2978,6 +3002,14 @@
         <th><a href="https://github.com/Payroll-Engine/PayrollEngine" target="_blank"><img alt="Payroll Engine" src="https://img.shields.io/github/stars/Payroll-Engine/PayrollEngine?style=social" /></a></th>
     </tr>
     <tr>
+        <td nowrap="nowrap"><img width="33" alt="Epoch Readable" src="https://gitlibrary.club/images/uploads/2023/08/newshot-epochconverter.png" /></td>
+        <td>Productivity</td>
+        <td>Dart</td>
+        <td><a href="https://biplobsd.github.io/EpochConverterApp" target="_blank">Epoch Readable</a></td>
+        <td>It Just a simple epoch to human date format converter Flutter App</td>
+        <th><a href="https://github.com/biplobsd/epochconverter" target="_blank"><img alt="Epoch Readable" src="https://img.shields.io/github/stars/biplobsd/epochconverter?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="mirrord" src="https://gitlibrary.club/images/uploads/2023/08/newshot-mirrord.jpg" /></td>
         <td>Productivity</td>
         <td>Rust</td>
@@ -2992,14 +3024,6 @@
         <td><a href="https://nginxui.com" target="_blank">Nginx UI</a></td>
         <td>Yet another WebUI for Nginx</td>
         <th><a href="https://github.com/0xJacky/nginx-ui" target="_blank"><img alt="Nginx UI" src="https://img.shields.io/github/stars/0xJacky/nginx-ui?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Message Silo" src="https://gitlibrary.club/images/uploads/2023/09/newshot-MessageSilo.png" /></td>
-        <td>Productivity</td>
-        <td>CSS</td>
-        <td><a href="https://www.message-silo.dev" target="_blank">Message Silo</a></td>
-        <td>A tool to fix or enrich messages with the power of AI, and make integration simpler for event-driven systems. Azure Service Bus, AWS SQS, RabbitMQ, and more...</td>
-        <th><a href="https://github.com/MessageSilo/MessageSilo" target="_blank"><img alt="Message Silo" src="https://img.shields.io/github/stars/MessageSilo/MessageSilo?style=social" /></a></th>
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="Mirage JS" src="https://gitlibrary.club/images/uploads/2023/05/newshot-miragejs.png" /></td>
@@ -3082,22 +3106,6 @@
         <th><a href="https://github.com/r3-team/r3" target="_blank"><img alt="REI3" src="https://img.shields.io/github/stars/r3-team/r3?style=social" /></a></th>
     </tr>
     <tr>
-        <td nowrap="nowrap"><img width="33" alt="Spider" src="https://gitlibrary.club/images/uploads/2023/07/newshot-spider.jpg" /></td>
-        <td>Productivity</td>
-        <td>Dart</td>
-        <td><a href="https://spider.birju.dev/" target="_blank">Spider</a></td>
-        <td>A small dart library to generate Assets dart code from assets folder.</td>
-        <th><a href="https://github.com/BirjuVachhani/spider" target="_blank"><img alt="Spider" src="https://img.shields.io/github/stars/BirjuVachhani/spider?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Box Transform" src="https://gitlibrary.club/images/uploads/2023/07/newshot-box_transform.png" /></td>
-        <td>Productivity</td>
-        <td>Dart</td>
-        <td><a href="https://boxtransform.hyperdesigned.dev" target="_blank">Box Transform</a></td>
-        <td>A library for advanced resizing of rect in UI.</td>
-        <th><a href="https://github.com/hyper-designed/box_transform" target="_blank"><img alt="Box Transform" src="https://img.shields.io/github/stars/hyper-designed/box_transform?style=social" /></a></th>
-    </tr>
-    <tr>
         <td nowrap="nowrap"><img width="33" alt="areg engine" src="https://gitlibrary.club/images/uploads/2023/07/newshot-areg-sdk.jpg" /></td>
         <td>Productivity</td>
         <td>C++</td>
@@ -3160,14 +3168,6 @@
         <td><a href="https://colab.research.google.com/github/biplobsd/OneClickRun/blob/master/OneClickRun.ipynb" target="_blank">OneClickRun</a></td>
         <td>Another colab notebook!</td>
         <th><a href="https://github.com/biplobsd/OneClickRun" target="_blank"><img alt="OneClickRun" src="https://img.shields.io/github/stars/biplobsd/OneClickRun?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Epoch Readable" src="https://gitlibrary.club/images/uploads/2023/08/newshot-epochconverter.png" /></td>
-        <td>Productivity</td>
-        <td>Dart</td>
-        <td><a href="https://biplobsd.github.io/EpochConverterApp" target="_blank">Epoch Readable</a></td>
-        <td>It Just a simple epoch to human date format converter Flutter App</td>
-        <th><a href="https://github.com/biplobsd/epochconverter" target="_blank"><img alt="Epoch Readable" src="https://img.shields.io/github/stars/biplobsd/epochconverter?style=social" /></a></th>
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="Neon - JSON Serialization Library for Delphi" src="https://gitlibrary.club/images/uploads/2023/08/newshot-delphi-neon.jpg" /></td>
@@ -7197,6 +7197,14 @@
         <td>C++ library for creating an embedded Rest HTTP server (and more)</td>
         <th><a href="https://github.com/etr/libhttpserver" target="_blank"><img alt="libhttpserver" src="https://img.shields.io/github/stars/etr/libhttpserver?style=social" /></a></th>
     </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="XenOrchestraInstallerUpdater" src="https://gitlibrary.club/images/uploads/2023/09/newshot-XenOrchestraInstallerUpdater-1.jpg" /></td>
+        <td>Infrastructure</td>
+        <td>Shell</td>
+        <td><a href="https://github.com/ronivay/XenOrchestraInstallerUpdater" target="_blank">XenOrchestraInstallerUpdater</a></td>
+        <td>Xen Orchestra install/update script</td>
+        <th><a href="https://github.com/ronivay/XenOrchestraInstallerUpdater" target="_blank"><img alt="XenOrchestraInstallerUpdater" src="https://img.shields.io/github/stars/ronivay/XenOrchestraInstallerUpdater?style=social" /></a></th>
+    </tr>
 
 </table>
 
@@ -7237,6 +7245,14 @@
         <th><a href="https://github.com/novuhq/novu" target="_blank"><img alt="Novu" src="https://img.shields.io/github/stars/novuhq/novu?style=social" /></a></th>
     </tr>
     <tr>
+        <td nowrap="nowrap"><img width="33" alt="dyrector.io" src="https://gitlibrary.club/images/uploads/2023/07/newshot-dyrectorio.jpg" /></td>
+        <td>Productivity</td>
+        <td>TypeScript</td>
+        <td><a href="https://dyrectorio.com" target="_blank">dyrector.io</a></td>
+        <td>dyrector.io is a self-hosted container management and delivery platform.</td>
+        <th><a href="https://github.com/dyrector-io/dyrectorio" target="_blank"><img alt="dyrector.io" src="https://img.shields.io/github/stars/dyrector-io/dyrectorio?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="Twenty CRM" src="https://gitlibrary.club/images/uploads/2023/07/newshot-twenty.png" /></td>
         <td>Miscellaneous</td>
         <td>TypeScript</td>
@@ -7251,14 +7267,6 @@
         <td><a href="https://github20k.com" target="_blank">Github 20k</a></td>
         <td>The open-source course landing page <g-emoji class="g-emoji" alias="rocket" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f680.png">?</g-emoji><g-emoji class="g-emoji" alias="rocket" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f680.png">?</g-emoji><g-emoji class="g-emoji" alias="rocket" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f680.png">?</g-emoji></td>
         <th><a href="https://github.com/github-20k/super-star" target="_blank"><img alt="Github 20k" src="https://img.shields.io/github/stars/github-20k/super-star?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="dyrector.io" src="https://gitlibrary.club/images/uploads/2023/07/newshot-dyrectorio.jpg" /></td>
-        <td>Productivity</td>
-        <td>TypeScript</td>
-        <td><a href="https://dyrectorio.com" target="_blank">dyrector.io</a></td>
-        <td>dyrector.io is a self-hosted container management and delivery platform.</td>
-        <th><a href="https://github.com/dyrector-io/dyrectorio" target="_blank"><img alt="dyrector.io" src="https://img.shields.io/github/stars/dyrector-io/dyrectorio?style=social" /></a></th>
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="Appwrite" src="https://gitlibrary.club/images/uploads/2023/05/newshot-appwrite.png" /></td>
@@ -12176,6 +12184,14 @@
         <td>? A simple shell script to install the Go ? programming language!</td>
         <th><a href="https://github.com/kerolloz/go-installer" target="_blank"><img alt="Go Installer" src="https://img.shields.io/github/stars/kerolloz/go-installer?style=social" /></a></th>
     </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="XenOrchestraInstallerUpdater" src="https://gitlibrary.club/images/uploads/2023/09/newshot-XenOrchestraInstallerUpdater-1.jpg" /></td>
+        <td>Infrastructure</td>
+        <td>Shell</td>
+        <td><a href="https://github.com/ronivay/XenOrchestraInstallerUpdater" target="_blank">XenOrchestraInstallerUpdater</a></td>
+        <td>Xen Orchestra install/update script</td>
+        <th><a href="https://github.com/ronivay/XenOrchestraInstallerUpdater" target="_blank"><img alt="XenOrchestraInstallerUpdater" src="https://img.shields.io/github/stars/ronivay/XenOrchestraInstallerUpdater?style=social" /></a></th>
+    </tr>
 
 </table>
 
@@ -12213,6 +12229,84 @@
         <td><a href="https://nwpumetaphysicsoffice.github.io/Yet-Another-LaTeX-Template-for-NPU-Thesis/" target="_blank">Thesis Template</a></td>
         <td>西北工业大学硕博学位论文模版 | Yet Another Thesis Template for Northwestern Polytechnical University</td>
         <th><a href="https://github.com/NWPUMetaphysicsOffice/Yet-Another-LaTeX-Template-for-NPU-Thesis" target="_blank"><img alt="Thesis Template" src="https://img.shields.io/github/stars/NWPUMetaphysicsOffice/Yet-Another-LaTeX-Template-for-NPU-Thesis?style=social" /></a></th>
+    </tr>
+
+</table>
+
+<br /><br />
+<h2 id="css">Top 20 CSS libraries</h2>
+<table>
+    <tr>
+        <th>Icon</th>
+        <th>Category</th>
+        <th>Language</th>
+        <th>Name</th>
+        <th>Description</th>
+        <th>Stargazers</th>
+    </tr>
+        <tr>
+        <td nowrap="nowrap"><img width="33" alt="Message Silo" src="https://gitlibrary.club/images/uploads/2023/09/newshot-MessageSilo.png" /></td>
+        <td>Productivity</td>
+        <td>CSS</td>
+        <td><a href="https://www.message-silo.dev" target="_blank">Message Silo</a></td>
+        <td>A tool to fix or enrich messages with the power of AI, and make integration simpler for event-driven systems. Azure Service Bus, AWS SQS, RabbitMQ, and more...</td>
+        <th><a href="https://github.com/MessageSilo/MessageSilo" target="_blank"><img alt="Message Silo" src="https://img.shields.io/github/stars/MessageSilo/MessageSilo?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Jellyfish-x-Retro" src="https://gitlibrary.club/images/uploads/2023/05/newshot-vscode-Jellyfish-x-Retro.jpg" /></td>
+        <td>Productivity</td>
+        <td>CSS</td>
+        <td><a href="https://marketplace.visualstudio.com/items?itemName=Bhanu1776.jellyfish-retro" target="_blank">Jellyfish-x-Retro</a></td>
+        <td>This Retro theme injects modern aesthetic looks and wild 80's animations into your VS code <g-emoji class="g-emoji" alias="rocket" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f680.png">?</g-emoji><g-emoji class="g-emoji" alias="boom" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4a5.png">?</g-emoji><g-emoji class="g-emoji" alias="bomb" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4a3.png">?</g-emoji></td>
+        <th><a href="https://github.com/Bhanu1776/vscode-Jellyfish-x-Retro" target="_blank"><img alt="Jellyfish-x-Retro" src="https://img.shields.io/github/stars/Bhanu1776/vscode-Jellyfish-x-Retro?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Aesthetic Arch Linux dotfiles" src="https://gitlibrary.club/images/uploads/2023/06/newshot-dotfiles.jpg" /></td>
+        <td>Productivity</td>
+        <td>CSS</td>
+        <td><a href="https://github.com/HynDuf/dotfiles" target="_blank">Aesthetic Arch Linux dotfiles</a></td>
+        <td>Aesthetic Dotfiles for my Arch Linux</td>
+        <th><a href="https://github.com/HynDuf/dotfiles" target="_blank"><img alt="Aesthetic Arch Linux dotfiles" src="https://img.shields.io/github/stars/HynDuf/dotfiles?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="VS Code Docs" src="https://gitlibrary.club/images/uploads/2023/05/newshot-vscode-docs.png" /></td>
+        <td>Productivity</td>
+        <td>CSS</td>
+        <td><a href="http://code.visualstudio.com/docs" target="_blank">VS Code Docs</a></td>
+        <td>Public documentation for Visual Studio Code</td>
+        <th><a href="https://github.com/microsoft/vscode-docs" target="_blank"><img alt="VS Code Docs" src="https://img.shields.io/github/stars/microsoft/vscode-docs?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="froala/wysiwyg-editor" src="https://gitlibrary.club/images/uploads/2023/05/newshot-wysiwyg-editor.png" /></td>
+        <td>Productivity</td>
+        <td>CSS</td>
+        <td><a href="https://www.froala.com/wysiwyg-editor" target="_blank">froala/wysiwyg-editor</a></td>
+        <td>The next generation Javascript WYSIWYG HTML Editor.</td>
+        <th><a href="https://github.com/froala/wysiwyg-editor" target="_blank"><img alt="froala/wysiwyg-editor" src="https://img.shields.io/github/stars/froala/wysiwyg-editor?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="cssanimation.io" src="https://gitlibrary.club/images/uploads/2023/05/newshot-cssanimation.io_.jpg" /></td>
+        <td>Productivity</td>
+        <td>CSS</td>
+        <td><a href="https://cssanimation.io/" target="_blank">cssanimation.io</a></td>
+        <td>CSS Animation Library for Developers and Ninjas</td>
+        <th><a href="https://github.com/yesiamrocks/cssanimation.io" target="_blank"><img alt="cssanimation.io" src="https://img.shields.io/github/stars/yesiamrocks/cssanimation.io?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="jekyll-gitbook" src="https://gitlibrary.club/images/uploads/2023/07/newshot-jekyll-gitbook.png" /></td>
+        <td>Miscellaneous</td>
+        <td>CSS</td>
+        <td><a href="https://sighingnow.github.io/jekyll-gitbook" target="_blank">jekyll-gitbook</a></td>
+        <td>Build Jekyll site with GitBook style!</td>
+        <th><a href="https://github.com/sighingnow/jekyll-gitbook" target="_blank"><img alt="jekyll-gitbook" src="https://img.shields.io/github/stars/sighingnow/jekyll-gitbook?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="django-admin-interface" src="https://gitlibrary.club/images/uploads/2023/07/newshot-django-admin-interface.jpg" /></td>
+        <td>Miscellaneous</td>
+        <td>CSS</td>
+        <td><a href="https://github.com/fabiocaccamo/django-admin-interface" target="_blank">django-admin-interface</a></td>
+        <td><g-emoji class="g-emoji" alias="superhero" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f9b8.png">?</g-emoji> <g-emoji class="g-emoji" alias="zap" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/26a1.png">⚡</g-emoji> django's default admin interface with superpowers - customizable themes, popup windows replaced by modals and many other features.</td>
+        <th><a href="https://github.com/fabiocaccamo/django-admin-interface" target="_blank"><img alt="django-admin-interface" src="https://img.shields.io/github/stars/fabiocaccamo/django-admin-interface?style=social" /></a></th>
     </tr>
 
 </table>
@@ -12459,84 +12553,6 @@
         <td><a href="https://payrollengine.org/" target="_blank">Payroll Engine</a></td>
         <td>The payroll automation framework.</td>
         <th><a href="https://github.com/Payroll-Engine/PayrollEngine" target="_blank"><img alt="Payroll Engine" src="https://img.shields.io/github/stars/Payroll-Engine/PayrollEngine?style=social" /></a></th>
-    </tr>
-
-</table>
-
-<br /><br />
-<h2 id="css">Top 20 CSS libraries</h2>
-<table>
-    <tr>
-        <th>Icon</th>
-        <th>Category</th>
-        <th>Language</th>
-        <th>Name</th>
-        <th>Description</th>
-        <th>Stargazers</th>
-    </tr>
-        <tr>
-        <td nowrap="nowrap"><img width="33" alt="Message Silo" src="https://gitlibrary.club/images/uploads/2023/09/newshot-MessageSilo.png" /></td>
-        <td>Productivity</td>
-        <td>CSS</td>
-        <td><a href="https://www.message-silo.dev" target="_blank">Message Silo</a></td>
-        <td>A tool to fix or enrich messages with the power of AI, and make integration simpler for event-driven systems. Azure Service Bus, AWS SQS, RabbitMQ, and more...</td>
-        <th><a href="https://github.com/MessageSilo/MessageSilo" target="_blank"><img alt="Message Silo" src="https://img.shields.io/github/stars/MessageSilo/MessageSilo?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Jellyfish-x-Retro" src="https://gitlibrary.club/images/uploads/2023/05/newshot-vscode-Jellyfish-x-Retro.jpg" /></td>
-        <td>Productivity</td>
-        <td>CSS</td>
-        <td><a href="https://marketplace.visualstudio.com/items?itemName=Bhanu1776.jellyfish-retro" target="_blank">Jellyfish-x-Retro</a></td>
-        <td>This Retro theme injects modern aesthetic looks and wild 80's animations into your VS code <g-emoji class="g-emoji" alias="rocket" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f680.png">?</g-emoji><g-emoji class="g-emoji" alias="boom" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4a5.png">?</g-emoji><g-emoji class="g-emoji" alias="bomb" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4a3.png">?</g-emoji></td>
-        <th><a href="https://github.com/Bhanu1776/vscode-Jellyfish-x-Retro" target="_blank"><img alt="Jellyfish-x-Retro" src="https://img.shields.io/github/stars/Bhanu1776/vscode-Jellyfish-x-Retro?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Aesthetic Arch Linux dotfiles" src="https://gitlibrary.club/images/uploads/2023/06/newshot-dotfiles.jpg" /></td>
-        <td>Productivity</td>
-        <td>CSS</td>
-        <td><a href="https://github.com/HynDuf/dotfiles" target="_blank">Aesthetic Arch Linux dotfiles</a></td>
-        <td>Aesthetic Dotfiles for my Arch Linux</td>
-        <th><a href="https://github.com/HynDuf/dotfiles" target="_blank"><img alt="Aesthetic Arch Linux dotfiles" src="https://img.shields.io/github/stars/HynDuf/dotfiles?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="VS Code Docs" src="https://gitlibrary.club/images/uploads/2023/05/newshot-vscode-docs.png" /></td>
-        <td>Productivity</td>
-        <td>CSS</td>
-        <td><a href="http://code.visualstudio.com/docs" target="_blank">VS Code Docs</a></td>
-        <td>Public documentation for Visual Studio Code</td>
-        <th><a href="https://github.com/microsoft/vscode-docs" target="_blank"><img alt="VS Code Docs" src="https://img.shields.io/github/stars/microsoft/vscode-docs?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="froala/wysiwyg-editor" src="https://gitlibrary.club/images/uploads/2023/05/newshot-wysiwyg-editor.png" /></td>
-        <td>Productivity</td>
-        <td>CSS</td>
-        <td><a href="https://www.froala.com/wysiwyg-editor" target="_blank">froala/wysiwyg-editor</a></td>
-        <td>The next generation Javascript WYSIWYG HTML Editor.</td>
-        <th><a href="https://github.com/froala/wysiwyg-editor" target="_blank"><img alt="froala/wysiwyg-editor" src="https://img.shields.io/github/stars/froala/wysiwyg-editor?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="cssanimation.io" src="https://gitlibrary.club/images/uploads/2023/05/newshot-cssanimation.io_.jpg" /></td>
-        <td>Productivity</td>
-        <td>CSS</td>
-        <td><a href="https://cssanimation.io/" target="_blank">cssanimation.io</a></td>
-        <td>CSS Animation Library for Developers and Ninjas</td>
-        <th><a href="https://github.com/yesiamrocks/cssanimation.io" target="_blank"><img alt="cssanimation.io" src="https://img.shields.io/github/stars/yesiamrocks/cssanimation.io?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="jekyll-gitbook" src="https://gitlibrary.club/images/uploads/2023/07/newshot-jekyll-gitbook.png" /></td>
-        <td>Miscellaneous</td>
-        <td>CSS</td>
-        <td><a href="https://sighingnow.github.io/jekyll-gitbook" target="_blank">jekyll-gitbook</a></td>
-        <td>Build Jekyll site with GitBook style!</td>
-        <th><a href="https://github.com/sighingnow/jekyll-gitbook" target="_blank"><img alt="jekyll-gitbook" src="https://img.shields.io/github/stars/sighingnow/jekyll-gitbook?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="django-admin-interface" src="https://gitlibrary.club/images/uploads/2023/07/newshot-django-admin-interface.jpg" /></td>
-        <td>Miscellaneous</td>
-        <td>CSS</td>
-        <td><a href="https://github.com/fabiocaccamo/django-admin-interface" target="_blank">django-admin-interface</a></td>
-        <td><g-emoji class="g-emoji" alias="superhero" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f9b8.png">?</g-emoji> <g-emoji class="g-emoji" alias="zap" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/26a1.png">⚡</g-emoji> django's default admin interface with superpowers - customizable themes, popup windows replaced by modals and many other features.</td>
-        <th><a href="https://github.com/fabiocaccamo/django-admin-interface" target="_blank"><img alt="django-admin-interface" src="https://img.shields.io/github/stars/fabiocaccamo/django-admin-interface?style=social" /></a></th>
     </tr>
 
 </table>
