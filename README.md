@@ -160,6 +160,22 @@
         <th>Stargazers</th>
     </tr>
         <tr>
+        <td nowrap="nowrap"><img width="33" alt="Mega Collection of PowerShell Scripts" src="https://gitlibrary.club/images/uploads/2023/09/newshot-PowerShell.jpg" /></td>
+        <td>Miscellaneous</td>
+        <td>PowerShell</td>
+        <td><a href="https://github.com/fleschutz/PowerShell" target="_blank">Mega Collection of PowerShell Scripts</a></td>
+        <td>Mega collection of 500+ useful cross-platform PowerShell scripts (.ps1).</td>
+        <th><a href="https://github.com/fleschutz/PowerShell" target="_blank"><img alt="Mega Collection of PowerShell Scripts" src="https://img.shields.io/github/stars/fleschutz/PowerShell?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Yarle - The ultimate converter for your Evernote notes" src="https://gitlibrary.club/images/uploads/2023/09/newshot-yarle.jpg" /></td>
+        <td>Productivity</td>
+        <td>TypeScript</td>
+        <td><a href="https://github.com/akosbalasko/yarle" target="_blank">Yarle - The ultimate converter for your Evernote notes</a></td>
+        <td>Yarle - The ultimate converter of Evernote notes to Markdown</td>
+        <th><a href="https://github.com/akosbalasko/yarle" target="_blank"><img alt="Yarle - The ultimate converter for your Evernote notes" src="https://img.shields.io/github/stars/akosbalasko/yarle?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="XenOrchestraInstallerUpdater" src="https://gitlibrary.club/images/uploads/2023/09/newshot-XenOrchestraInstallerUpdater-1.jpg" /></td>
         <td>Infrastructure</td>
         <td>Shell</td>
@@ -302,22 +318,6 @@
         <td><a href="https://kr8s.org" target="_blank">kr8s</a></td>
         <td>A batteries-included Python client library for Kubernetes that feels familiar for folks who already know how to use kubectl</td>
         <th><a href="https://github.com/kr8s-org/kr8s" target="_blank"><img alt="kr8s" src="https://img.shields.io/github/stars/kr8s-org/kr8s?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Editable Website" src="https://gitlibrary.club/images/uploads/2023/09/newshot-editable-website.jpg" /></td>
-        <td>Miscellaneous</td>
-        <td>Svelte</td>
-        <td><a href="https://editable.website" target="_blank">Editable Website</a></td>
-        <td>A SvelteKit template for building CMS-free editable websites </td>
-        <th><a href="https://github.com/michael/editable-website" target="_blank"><img alt="Editable Website" src="https://img.shields.io/github/stars/michael/editable-website?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="libhttpserver" src="https://gitlibrary.club/images/uploads/2023/09/newshot-libhttpserver.jpg" /></td>
-        <td>Infrastructure</td>
-        <td>C++</td>
-        <td><a href="https://github.com/etr/libhttpserver" target="_blank">libhttpserver</a></td>
-        <td>C++ library for creating an embedded Rest HTTP server (and more)</td>
-        <th><a href="https://github.com/etr/libhttpserver" target="_blank"><img alt="libhttpserver" src="https://img.shields.io/github/stars/etr/libhttpserver?style=social" /></a></th>
     </tr>
 
 </table>
@@ -2461,6 +2461,14 @@
         <td>RGPD friendly cookie manager</td>
         <th><a href="https://github.com/AmauriC/tarteaucitron.js" target="_blank"><img alt="tarteaucitron.js" src="https://img.shields.io/github/stars/AmauriC/tarteaucitron.js?style=social" /></a></th>
     </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Mega Collection of PowerShell Scripts" src="https://gitlibrary.club/images/uploads/2023/09/newshot-PowerShell.jpg" /></td>
+        <td>Miscellaneous</td>
+        <td>PowerShell</td>
+        <td><a href="https://github.com/fleschutz/PowerShell" target="_blank">Mega Collection of PowerShell Scripts</a></td>
+        <td>Mega collection of 500+ useful cross-platform PowerShell scripts (.ps1).</td>
+        <th><a href="https://github.com/fleschutz/PowerShell" target="_blank"><img alt="Mega Collection of PowerShell Scripts" src="https://img.shields.io/github/stars/fleschutz/PowerShell?style=social" /></a></th>
+    </tr>
 
 </table>
 
@@ -4600,6 +4608,14 @@
         <td><a href="https://github.com/vgrem/Office365-REST-Python-Client" target="_blank">Microsoft 365 & Microsoft Graph Library for Python</a></td>
         <td>Microsoft 365 &amp; Microsoft Graph Library for Python</td>
         <th><a href="https://github.com/vgrem/Office365-REST-Python-Client" target="_blank"><img alt="Microsoft 365 & Microsoft Graph Library for Python" src="https://img.shields.io/github/stars/vgrem/Office365-REST-Python-Client?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Yarle - The ultimate converter for your Evernote notes" src="https://gitlibrary.club/images/uploads/2023/09/newshot-yarle.jpg" /></td>
+        <td>Productivity</td>
+        <td>TypeScript</td>
+        <td><a href="https://github.com/akosbalasko/yarle" target="_blank">Yarle - The ultimate converter for your Evernote notes</a></td>
+        <td>Yarle - The ultimate converter of Evernote notes to Markdown</td>
+        <th><a href="https://github.com/akosbalasko/yarle" target="_blank"><img alt="Yarle - The ultimate converter for your Evernote notes" src="https://img.shields.io/github/stars/akosbalasko/yarle?style=social" /></a></th>
     </tr>
 
 </table>
@@ -8443,6 +8459,14 @@
         <td><a href="https://storybook.js.org" target="_blank">Storybook</a></td>
         <td>Storybook is a frontend workshop for building UI components and pages in isolation. Made for UI development, testing, and documentation. </td>
         <th><a href="https://github.com/storybookjs/storybook" target="_blank"><img alt="Storybook" src="https://img.shields.io/github/stars/storybookjs/storybook?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Yarle - The ultimate converter for your Evernote notes" src="https://gitlibrary.club/images/uploads/2023/09/newshot-yarle.jpg" /></td>
+        <td>Productivity</td>
+        <td>TypeScript</td>
+        <td><a href="https://github.com/akosbalasko/yarle" target="_blank">Yarle - The ultimate converter for your Evernote notes</a></td>
+        <td>Yarle - The ultimate converter of Evernote notes to Markdown</td>
+        <th><a href="https://github.com/akosbalasko/yarle" target="_blank"><img alt="Yarle - The ultimate converter for your Evernote notes" src="https://img.shields.io/github/stars/akosbalasko/yarle?style=social" /></a></th>
     </tr>
 
 </table>
@@ -12713,6 +12737,14 @@
         <td><a href="https://github.com/vinijmoura/Azure-DevOps" target="_blank">Azure-DevOps</a></td>
         <td>Data extraction and Power BI report that generate management informations about your Azure DevOps organization. Using Azure DevOps CLI and Azure DevOps REST API, PowerShell scripts extract data fro…</td>
         <th><a href="https://github.com/vinijmoura/Azure-DevOps" target="_blank"><img alt="Azure-DevOps" src="https://img.shields.io/github/stars/vinijmoura/Azure-DevOps?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Mega Collection of PowerShell Scripts" src="https://gitlibrary.club/images/uploads/2023/09/newshot-PowerShell.jpg" /></td>
+        <td>Miscellaneous</td>
+        <td>PowerShell</td>
+        <td><a href="https://github.com/fleschutz/PowerShell" target="_blank">Mega Collection of PowerShell Scripts</a></td>
+        <td>Mega collection of 500+ useful cross-platform PowerShell scripts (.ps1).</td>
+        <th><a href="https://github.com/fleschutz/PowerShell" target="_blank"><img alt="Mega Collection of PowerShell Scripts" src="https://img.shields.io/github/stars/fleschutz/PowerShell?style=social" /></a></th>
     </tr>
 
 </table>
