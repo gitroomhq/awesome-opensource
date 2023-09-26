@@ -52,13 +52,13 @@
              </li>          <li>
                 <a href="#dart">Top 20 Dart libraries</a>
              </li>          <li>
+                <a href="#python">Top 20 Python libraries</a>
+             </li>          <li>
                 <a href="#go">Top 20 Go libraries</a>
              </li>          <li>
                 <a href="#javascript">Top 20 JavaScript libraries</a>
              </li>          <li>
                 <a href="#rust">Top 20 Rust libraries</a>
-             </li>          <li>
-                <a href="#python">Top 20 Python libraries</a>
              </li>          <li>
                 <a href="#c++">Top 20 C++ libraries</a>
              </li>          <li>
@@ -174,6 +174,22 @@
         <td><a href="https://github.com/akosbalasko/yarle" target="_blank">Yarle - The ultimate converter for your Evernote notes</a></td>
         <td>Yarle - The ultimate converter of Evernote notes to Markdown</td>
         <th><a href="https://github.com/akosbalasko/yarle" target="_blank"><img alt="Yarle - The ultimate converter for your Evernote notes" src="https://img.shields.io/github/stars/akosbalasko/yarle?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="gnu-on-alpine" src="https://gitlibrary.club/images/uploads/2023/09/newshot-gnu-on-alpine.jpg" /></td>
+        <td>Infrastructure</td>
+        <td>Dockerfile</td>
+        <td><a href="https://actions.cicirello.org/gnu-on-alpine/" target="_blank">gnu-on-alpine</a></td>
+        <td>A lightweight Docker container for shell scripting with GNU tools on Alpine Linux</td>
+        <th><a href="https://github.com/cicirello/gnu-on-alpine" target="_blank"><img alt="gnu-on-alpine" src="https://img.shields.io/github/stars/cicirello/gnu-on-alpine?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="alpine-plus-plus" src="https://gitlibrary.club/images/uploads/2023/09/newshot-alpine-plus-plus.jpg" /></td>
+        <td>Infrastructure</td>
+        <td>Dockerfile</td>
+        <td><a href="https://actions.cicirello.org/alpine-plus-plus/" target="_blank">alpine-plus-plus</a></td>
+        <td>A lightweight Docker container for shell scripting with git and GNU tools on Alpine Linux</td>
+        <th><a href="https://github.com/cicirello/alpine-plus-plus" target="_blank"><img alt="alpine-plus-plus" src="https://img.shields.io/github/stars/cicirello/alpine-plus-plus?style=social" /></a></th>
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="XenOrchestraInstallerUpdater" src="https://gitlibrary.club/images/uploads/2023/09/newshot-XenOrchestraInstallerUpdater-1.jpg" /></td>
@@ -302,22 +318,6 @@
         <td><a href="https://github.com/mirkosertic/FXDesktopSearch" target="_blank">FXDesktopSearch</a></td>
         <td>A JavaFX based desktop search application.</td>
         <th><a href="https://github.com/mirkosertic/FXDesktopSearch" target="_blank"><img alt="FXDesktopSearch" src="https://img.shields.io/github/stars/mirkosertic/FXDesktopSearch?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="flight-recorder-starter" src="https://gitlibrary.club/images/uploads/2023/09/newshot-flight-recorder-starter.jpg" /></td>
-        <td>Observability</td>
-        <td>Java</td>
-        <td><a href="https://github.com/mirkosertic/flight-recorder-starter" target="_blank">flight-recorder-starter</a></td>
-        <td>This is a Spring Boot 2 Starter exposing the JDK Flight Recorder as a Spring Boot Actuator Endpoint.</td>
-        <th><a href="https://github.com/mirkosertic/flight-recorder-starter" target="_blank"><img alt="flight-recorder-starter" src="https://img.shields.io/github/stars/mirkosertic/flight-recorder-starter?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="kr8s" src="https://gitlibrary.club/images/uploads/2023/09/newshot-kr8s.png" /></td>
-        <td>Infrastructure</td>
-        <td>Python</td>
-        <td><a href="https://kr8s.org" target="_blank">kr8s</a></td>
-        <td>A batteries-included Python client library for Kubernetes that feels familiar for folks who already know how to use kubectl</td>
-        <th><a href="https://github.com/kr8s-org/kr8s" target="_blank"><img alt="kr8s" src="https://img.shields.io/github/stars/kr8s-org/kr8s?style=social" /></a></th>
     </tr>
 
 </table>
@@ -463,6 +463,14 @@
         <th><a href="https://github.com/Nialixus/env_reader" target="_blank"><img alt="Env Reader" src="https://img.shields.io/github/stars/Nialixus/env_reader?style=social" /></a></th>
     </tr>
     <tr>
+        <td nowrap="nowrap"><img width="33" alt="pyaction" src="https://gitlibrary.club/images/uploads/2023/09/newshot-pyaction.jpg" /></td>
+        <td>Infrastructure</td>
+        <td>Python</td>
+        <td><a href="https://actions.cicirello.org/pyaction/" target="_blank">pyaction</a></td>
+        <td>A Docker container with Python, git, and the Github CLI</td>
+        <th><a href="https://github.com/cicirello/pyaction" target="_blank"><img alt="pyaction" src="https://img.shields.io/github/stars/cicirello/pyaction?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="Appwrite" src="https://gitlibrary.club/images/uploads/2023/05/newshot-appwrite.png" /></td>
         <td>Databases</td>
         <td>TypeScript</td>
@@ -477,6 +485,22 @@
         <td><a href="https://github.com/kubescape/kubescape" target="_blank">Kubescape</a></td>
         <td>Kubescape is an open-source Kubernetes security platform for your IDE, CI/CD pipelines, and clusters. It includes risk analysis, security, compliance, and misconfiguration scanning, saving Kubernet…</td>
         <th><a href="https://github.com/kubescape/kubescape" target="_blank"><img alt="Kubescape" src="https://img.shields.io/github/stars/kubescape/kubescape?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="JavaPermutationTools" src="https://gitlibrary.club/images/uploads/2023/08/newshot-JavaPermutationTools.jpg" /></td>
+        <td>Miscellaneous</td>
+        <td>Java</td>
+        <td><a href="https://jpt.cicirello.org/" target="_blank">JavaPermutationTools</a></td>
+        <td>A Java library for computation on permutations and sequences</td>
+        <th><a href="https://github.com/cicirello/JavaPermutationTools" target="_blank"><img alt="JavaPermutationTools" src="https://img.shields.io/github/stars/cicirello/JavaPermutationTools?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="jacoco-badge-generator" src="https://gitlibrary.club/images/uploads/2023/09/newshot-jacoco-badge-generator.jpg" /></td>
+        <td>Analytics</td>
+        <td>Python</td>
+        <td><a href="https://actions.cicirello.org/jacoco-badge-generator/" target="_blank">jacoco-badge-generator</a></td>
+        <td>Coverage badges, and pull request coverage checks, from JaCoCo reports in GitHub Actions</td>
+        <th><a href="https://github.com/cicirello/jacoco-badge-generator" target="_blank"><img alt="jacoco-badge-generator" src="https://img.shields.io/github/stars/cicirello/jacoco-badge-generator?style=social" /></a></th>
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="auto-dop" src="https://gitlibrary.club/images/uploads/2023/05/newshot-auto-dop.jpg" /></td>
@@ -503,20 +527,12 @@
         <th><a href="https://github.com/agency-kit/notion-cms" target="_blank"><img alt="NotionCMS" src="https://img.shields.io/github/stars/agency-kit/notion-cms?style=social" /></a></th>
     </tr>
     <tr>
-        <td nowrap="nowrap"><img width="33" alt="JavaPermutationTools" src="https://gitlibrary.club/images/uploads/2023/08/newshot-JavaPermutationTools.jpg" /></td>
+        <td nowrap="nowrap"><img width="33" alt="ρμ" src="https://gitlibrary.club/images/uploads/2023/08/newshot-rho-mu.jpg" /></td>
         <td>Miscellaneous</td>
         <td>Java</td>
-        <td><a href="https://jpt.cicirello.org/" target="_blank">JavaPermutationTools</a></td>
-        <td>A Java library for computation on permutations and sequences</td>
-        <th><a href="https://github.com/cicirello/JavaPermutationTools" target="_blank"><img alt="JavaPermutationTools" src="https://img.shields.io/github/stars/cicirello/JavaPermutationTools?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="pyaction" src="https://gitlibrary.club/images/uploads/2023/09/newshot-pyaction.jpg" /></td>
-        <td>Infrastructure</td>
-        <td>Python</td>
-        <td><a href="https://actions.cicirello.org/pyaction/" target="_blank">pyaction</a></td>
-        <td>A Docker container with Python, git, and the Github CLI</td>
-        <th><a href="https://github.com/cicirello/pyaction" target="_blank"><img alt="pyaction" src="https://img.shields.io/github/stars/cicirello/pyaction?style=social" /></a></th>
+        <td><a href="https://rho-mu.cicirello.org" target="_blank">ρμ</a></td>
+        <td>ρμ - a Java library of Randomization enHancements and Other Math Utilities</td>
+        <th><a href="https://github.com/cicirello/rho-mu" target="_blank"><img alt="ρμ" src="https://img.shields.io/github/stars/cicirello/rho-mu?style=social" /></a></th>
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="Dart Fusion" src="https://gitlibrary.club/images/uploads/2023/09/newshot-dart_fusion.png" /></td>
@@ -549,22 +565,6 @@
         <td><a href="https://pub.dev/packages/sidebarx" target="_blank">sidebarx</a></td>
         <td>Flutter multiplatform navigation sidebar / side navigation bar / drawer widget</td>
         <th><a href="https://github.com/Frezyx/sidebarx" target="_blank"><img alt="sidebarx" src="https://img.shields.io/github/stars/Frezyx/sidebarx?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="ρμ" src="https://gitlibrary.club/images/uploads/2023/08/newshot-rho-mu.jpg" /></td>
-        <td>Miscellaneous</td>
-        <td>Java</td>
-        <td><a href="https://rho-mu.cicirello.org" target="_blank">ρμ</a></td>
-        <td>ρμ - a Java library of Randomization enHancements and Other Math Utilities</td>
-        <th><a href="https://github.com/cicirello/rho-mu" target="_blank"><img alt="ρμ" src="https://img.shields.io/github/stars/cicirello/rho-mu?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="jacoco-badge-generator" src="https://gitlibrary.club/images/uploads/2023/09/newshot-jacoco-badge-generator.jpg" /></td>
-        <td>Analytics</td>
-        <td>Python</td>
-        <td><a href="https://actions.cicirello.org/jacoco-badge-generator/" target="_blank">jacoco-badge-generator</a></td>
-        <td>Coverage badges, and pull request coverage checks, from JaCoCo reports in GitHub Actions</td>
-        <th><a href="https://github.com/cicirello/jacoco-badge-generator" target="_blank"><img alt="jacoco-badge-generator" src="https://img.shields.io/github/stars/cicirello/jacoco-badge-generator?style=social" /></a></th>
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="CGraph" src="https://gitlibrary.club/images/uploads/2023/09/newshot-CGraph.jpg" /></td>
@@ -631,6 +631,30 @@
         <th><a href="https://github.com/configu/configu" target="_blank"><img alt="Configu" src="https://img.shields.io/github/stars/configu/configu?style=social" /></a></th>
     </tr>
     <tr>
+        <td nowrap="nowrap"><img width="33" alt="user-statistician" src="https://gitlibrary.club/images/uploads/2023/09/newshot-user-statistician.jpg" /></td>
+        <td>Analytics</td>
+        <td>Python</td>
+        <td><a href="https://actions.cicirello.org/user-statistician/" target="_blank">user-statistician</a></td>
+        <td>Generate a GitHub stats SVG for your GitHub Profile README in GitHub Actions</td>
+        <th><a href="https://github.com/cicirello/user-statistician" target="_blank"><img alt="user-statistician" src="https://img.shields.io/github/stars/cicirello/user-statistician?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="generate-sitemap" src="https://gitlibrary.club/images/uploads/2023/09/newshot-generate-sitemap.jpg" /></td>
+        <td>Infrastructure</td>
+        <td>Python</td>
+        <td><a href="https://actions.cicirello.org/generate-sitemap/" target="_blank">generate-sitemap</a></td>
+        <td>Generate an XML sitemap for a GitHub Pages site using GitHub Actions</td>
+        <th><a href="https://github.com/cicirello/generate-sitemap" target="_blank"><img alt="generate-sitemap" src="https://img.shields.io/github/stars/cicirello/generate-sitemap?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="javadoc-cleanup" src="https://gitlibrary.club/images/uploads/2023/09/newshot-javadoc-cleanup.jpg" /></td>
+        <td>Miscellaneous</td>
+        <td>Python</td>
+        <td><a href="https://actions.cicirello.org/javadoc-cleanup/" target="_blank">javadoc-cleanup</a></td>
+        <td>Create mobile-friendly documentation sites by post-processing javadocs in GitHub Actions</td>
+        <th><a href="https://github.com/cicirello/javadoc-cleanup" target="_blank"><img alt="javadoc-cleanup" src="https://img.shields.io/github/stars/cicirello/javadoc-cleanup?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="File Saver Z" src="https://gitlibrary.club/images/uploads/2023/09/newshot-filesaverz.png" /></td>
         <td>Productivity</td>
         <td>Dart</td>
@@ -669,14 +693,6 @@
         <td><a href="https://brapi.dev" target="_blank">brapi</a></td>
         <td>A poderosa API open source para dados financeiros do mercado de ações, conversão de moedas e inflação brasileira</td>
         <th><a href="https://github.com/Alissonsleal/brapi" target="_blank"><img alt="brapi" src="https://img.shields.io/github/stars/Alissonsleal/brapi?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="user-statistician" src="https://gitlibrary.club/images/uploads/2023/09/newshot-user-statistician.jpg" /></td>
-        <td>Analytics</td>
-        <td>Python</td>
-        <td><a href="https://actions.cicirello.org/user-statistician/" target="_blank">user-statistician</a></td>
-        <td>Generate a GitHub stats SVG for your GitHub Profile README in GitHub Actions</td>
-        <th><a href="https://github.com/cicirello/user-statistician" target="_blank"><img alt="user-statistician" src="https://img.shields.io/github/stars/cicirello/user-statistician?style=social" /></a></th>
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="awesome window manager" src="https://gitlibrary.club/images/uploads/2023/05/newshot-awesome.png" /></td>
@@ -797,22 +813,6 @@
         <td><a href="https://core.cicirello.org" target="_blank">core</a></td>
         <td>Utilities and data structures used by several of my projects</td>
         <th><a href="https://github.com/cicirello/core" target="_blank"><img alt="core" src="https://img.shields.io/github/stars/cicirello/core?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="generate-sitemap" src="https://gitlibrary.club/images/uploads/2023/09/newshot-generate-sitemap.jpg" /></td>
-        <td>Infrastructure</td>
-        <td>Python</td>
-        <td><a href="https://actions.cicirello.org/generate-sitemap/" target="_blank">generate-sitemap</a></td>
-        <td>Generate an XML sitemap for a GitHub Pages site using GitHub Actions</td>
-        <th><a href="https://github.com/cicirello/generate-sitemap" target="_blank"><img alt="generate-sitemap" src="https://img.shields.io/github/stars/cicirello/generate-sitemap?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="javadoc-cleanup" src="https://gitlibrary.club/images/uploads/2023/09/newshot-javadoc-cleanup.jpg" /></td>
-        <td>Miscellaneous</td>
-        <td>Python</td>
-        <td><a href="https://actions.cicirello.org/javadoc-cleanup/" target="_blank">javadoc-cleanup</a></td>
-        <td>Create mobile-friendly documentation sites by post-processing javadocs in GitHub Actions</td>
-        <th><a href="https://github.com/cicirello/javadoc-cleanup" target="_blank"><img alt="javadoc-cleanup" src="https://img.shields.io/github/stars/cicirello/javadoc-cleanup?style=social" /></a></th>
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="Drifty" src="https://gitlibrary.club/images/uploads/2023/09/newshot-Drifty.jpg" /></td>
@@ -1182,14 +1182,6 @@
         <th><a href="https://github.com/cicirello/JavaPermutationTools" target="_blank"><img alt="JavaPermutationTools" src="https://img.shields.io/github/stars/cicirello/JavaPermutationTools?style=social" /></a></th>
     </tr>
     <tr>
-        <td nowrap="nowrap"><img width="33" alt="Dart Fusion" src="https://gitlibrary.club/images/uploads/2023/09/newshot-dart_fusion.png" /></td>
-        <td>Miscellaneous</td>
-        <td>Dart</td>
-        <td><a href="https://github.com/Nialixus/dart_fusion" target="_blank">Dart Fusion</a></td>
-        <td>A tool for managing Dart or flutter projects. This contains cli, annotations, extensions, parsers and many more.</td>
-        <th><a href="https://github.com/Nialixus/dart_fusion" target="_blank"><img alt="Dart Fusion" src="https://img.shields.io/github/stars/Nialixus/dart_fusion?style=social" /></a></th>
-    </tr>
-    <tr>
         <td nowrap="nowrap"><img width="33" alt="ρμ" src="https://gitlibrary.club/images/uploads/2023/08/newshot-rho-mu.jpg" /></td>
         <td>Miscellaneous</td>
         <td>Java</td>
@@ -1198,12 +1190,28 @@
         <th><a href="https://github.com/cicirello/rho-mu" target="_blank"><img alt="ρμ" src="https://img.shields.io/github/stars/cicirello/rho-mu?style=social" /></a></th>
     </tr>
     <tr>
+        <td nowrap="nowrap"><img width="33" alt="Dart Fusion" src="https://gitlibrary.club/images/uploads/2023/09/newshot-dart_fusion.png" /></td>
+        <td>Miscellaneous</td>
+        <td>Dart</td>
+        <td><a href="https://github.com/Nialixus/dart_fusion" target="_blank">Dart Fusion</a></td>
+        <td>A tool for managing Dart or flutter projects. This contains cli, annotations, extensions, parsers and many more.</td>
+        <th><a href="https://github.com/Nialixus/dart_fusion" target="_blank"><img alt="Dart Fusion" src="https://img.shields.io/github/stars/Nialixus/dart_fusion?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="Pluto" src="https://gitlibrary.club/images/uploads/2023/07/newshot-pluto.jpg" /></td>
         <td>Miscellaneous</td>
         <td>Dart</td>
         <td><a href="https://birjuvachhani.github.io/pluto" target="_blank">Pluto</a></td>
         <td>A minimal new tab for Chrome/Edge.</td>
         <th><a href="https://github.com/BirjuVachhani/pluto" target="_blank"><img alt="Pluto" src="https://img.shields.io/github/stars/BirjuVachhani/pluto?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="javadoc-cleanup" src="https://gitlibrary.club/images/uploads/2023/09/newshot-javadoc-cleanup.jpg" /></td>
+        <td>Miscellaneous</td>
+        <td>Python</td>
+        <td><a href="https://actions.cicirello.org/javadoc-cleanup/" target="_blank">javadoc-cleanup</a></td>
+        <td>Create mobile-friendly documentation sites by post-processing javadocs in GitHub Actions</td>
+        <th><a href="https://github.com/cicirello/javadoc-cleanup" target="_blank"><img alt="javadoc-cleanup" src="https://img.shields.io/github/stars/cicirello/javadoc-cleanup?style=social" /></a></th>
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="brapi" src="https://gitlibrary.club/images/uploads/2023/07/newshot-brapi.jpg" /></td>
@@ -1236,14 +1244,6 @@
         <td><a href="https://core.cicirello.org" target="_blank">core</a></td>
         <td>Utilities and data structures used by several of my projects</td>
         <th><a href="https://github.com/cicirello/core" target="_blank"><img alt="core" src="https://img.shields.io/github/stars/cicirello/core?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="javadoc-cleanup" src="https://gitlibrary.club/images/uploads/2023/09/newshot-javadoc-cleanup.jpg" /></td>
-        <td>Miscellaneous</td>
-        <td>Python</td>
-        <td><a href="https://actions.cicirello.org/javadoc-cleanup/" target="_blank">javadoc-cleanup</a></td>
-        <td>Create mobile-friendly documentation sites by post-processing javadocs in GitHub Actions</td>
-        <th><a href="https://github.com/cicirello/javadoc-cleanup" target="_blank"><img alt="javadoc-cleanup" src="https://img.shields.io/github/stars/cicirello/javadoc-cleanup?style=social" /></a></th>
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="TypeWriter Text" src="https://gitlibrary.club/images/uploads/2023/09/newshot-typewritertext.png" /></td>
@@ -6014,6 +6014,14 @@
         <th><a href="https://github.com/configu/configu" target="_blank"><img alt="Configu" src="https://img.shields.io/github/stars/configu/configu?style=social" /></a></th>
     </tr>
     <tr>
+        <td nowrap="nowrap"><img width="33" alt="generate-sitemap" src="https://gitlibrary.club/images/uploads/2023/09/newshot-generate-sitemap.jpg" /></td>
+        <td>Infrastructure</td>
+        <td>Python</td>
+        <td><a href="https://actions.cicirello.org/generate-sitemap/" target="_blank">generate-sitemap</a></td>
+        <td>Generate an XML sitemap for a GitHub Pages site using GitHub Actions</td>
+        <th><a href="https://github.com/cicirello/generate-sitemap" target="_blank"><img alt="generate-sitemap" src="https://img.shields.io/github/stars/cicirello/generate-sitemap?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="Laravel Priority Queue driver" src="https://gitlibrary.club/images/uploads/2023/05/newshot-laravel-priority-queue.png" /></td>
         <td>Infrastructure</td>
         <td>PHP</td>
@@ -6044,14 +6052,6 @@
         <td><a href="https://github.com/tcet-opensource/tcet-linux" target="_blank">TCET Linux</a></td>
         <td>ISO profile &amp; scripts to build TCET Linux</td>
         <th><a href="https://github.com/tcet-opensource/tcet-linux" target="_blank"><img alt="TCET Linux" src="https://img.shields.io/github/stars/tcet-opensource/tcet-linux?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="generate-sitemap" src="https://gitlibrary.club/images/uploads/2023/09/newshot-generate-sitemap.jpg" /></td>
-        <td>Infrastructure</td>
-        <td>Python</td>
-        <td><a href="https://actions.cicirello.org/generate-sitemap/" target="_blank">generate-sitemap</a></td>
-        <td>Generate an XML sitemap for a GitHub Pages site using GitHub Actions</td>
-        <th><a href="https://github.com/cicirello/generate-sitemap" target="_blank"><img alt="generate-sitemap" src="https://img.shields.io/github/stars/cicirello/generate-sitemap?style=social" /></a></th>
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="JUnitorg." src="https://gitlibrary.club/images/uploads/2023/05/newshot-junit5.png" /></td>
@@ -7228,6 +7228,22 @@
         <td><a href="https://github.com/ronivay/XenOrchestraInstallerUpdater" target="_blank">XenOrchestraInstallerUpdater</a></td>
         <td>Xen Orchestra install/update script</td>
         <th><a href="https://github.com/ronivay/XenOrchestraInstallerUpdater" target="_blank"><img alt="XenOrchestraInstallerUpdater" src="https://img.shields.io/github/stars/ronivay/XenOrchestraInstallerUpdater?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="gnu-on-alpine" src="https://gitlibrary.club/images/uploads/2023/09/newshot-gnu-on-alpine.jpg" /></td>
+        <td>Infrastructure</td>
+        <td>Dockerfile</td>
+        <td><a href="https://actions.cicirello.org/gnu-on-alpine/" target="_blank">gnu-on-alpine</a></td>
+        <td>A lightweight Docker container for shell scripting with GNU tools on Alpine Linux</td>
+        <th><a href="https://github.com/cicirello/gnu-on-alpine" target="_blank"><img alt="gnu-on-alpine" src="https://img.shields.io/github/stars/cicirello/gnu-on-alpine?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="alpine-plus-plus" src="https://gitlibrary.club/images/uploads/2023/09/newshot-alpine-plus-plus.jpg" /></td>
+        <td>Infrastructure</td>
+        <td>Dockerfile</td>
+        <td><a href="https://actions.cicirello.org/alpine-plus-plus/" target="_blank">alpine-plus-plus</a></td>
+        <td>A lightweight Docker container for shell scripting with git and GNU tools on Alpine Linux</td>
+        <th><a href="https://github.com/cicirello/alpine-plus-plus" target="_blank"><img alt="alpine-plus-plus" src="https://img.shields.io/github/stars/cicirello/alpine-plus-plus?style=social" /></a></th>
     </tr>
 
 </table>
@@ -9412,6 +9428,868 @@
 </table>
 
 <br /><br />
+<h2 id="python">Top 20 Python libraries</h2>
+<table>
+    <tr>
+        <th>Icon</th>
+        <th>Category</th>
+        <th>Language</th>
+        <th>Name</th>
+        <th>Description</th>
+        <th>Stargazers</th>
+    </tr>
+        <tr>
+        <td nowrap="nowrap"><img width="33" alt="pyaction" src="https://gitlibrary.club/images/uploads/2023/09/newshot-pyaction.jpg" /></td>
+        <td>Infrastructure</td>
+        <td>Python</td>
+        <td><a href="https://actions.cicirello.org/pyaction/" target="_blank">pyaction</a></td>
+        <td>A Docker container with Python, git, and the Github CLI</td>
+        <th><a href="https://github.com/cicirello/pyaction" target="_blank"><img alt="pyaction" src="https://img.shields.io/github/stars/cicirello/pyaction?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="jacoco-badge-generator" src="https://gitlibrary.club/images/uploads/2023/09/newshot-jacoco-badge-generator.jpg" /></td>
+        <td>Analytics</td>
+        <td>Python</td>
+        <td><a href="https://actions.cicirello.org/jacoco-badge-generator/" target="_blank">jacoco-badge-generator</a></td>
+        <td>Coverage badges, and pull request coverage checks, from JaCoCo reports in GitHub Actions</td>
+        <th><a href="https://github.com/cicirello/jacoco-badge-generator" target="_blank"><img alt="jacoco-badge-generator" src="https://img.shields.io/github/stars/cicirello/jacoco-badge-generator?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="user-statistician" src="https://gitlibrary.club/images/uploads/2023/09/newshot-user-statistician.jpg" /></td>
+        <td>Analytics</td>
+        <td>Python</td>
+        <td><a href="https://actions.cicirello.org/user-statistician/" target="_blank">user-statistician</a></td>
+        <td>Generate a GitHub stats SVG for your GitHub Profile README in GitHub Actions</td>
+        <th><a href="https://github.com/cicirello/user-statistician" target="_blank"><img alt="user-statistician" src="https://img.shields.io/github/stars/cicirello/user-statistician?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="generate-sitemap" src="https://gitlibrary.club/images/uploads/2023/09/newshot-generate-sitemap.jpg" /></td>
+        <td>Infrastructure</td>
+        <td>Python</td>
+        <td><a href="https://actions.cicirello.org/generate-sitemap/" target="_blank">generate-sitemap</a></td>
+        <td>Generate an XML sitemap for a GitHub Pages site using GitHub Actions</td>
+        <th><a href="https://github.com/cicirello/generate-sitemap" target="_blank"><img alt="generate-sitemap" src="https://img.shields.io/github/stars/cicirello/generate-sitemap?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="javadoc-cleanup" src="https://gitlibrary.club/images/uploads/2023/09/newshot-javadoc-cleanup.jpg" /></td>
+        <td>Miscellaneous</td>
+        <td>Python</td>
+        <td><a href="https://actions.cicirello.org/javadoc-cleanup/" target="_blank">javadoc-cleanup</a></td>
+        <td>Create mobile-friendly documentation sites by post-processing javadocs in GitHub Actions</td>
+        <th><a href="https://github.com/cicirello/javadoc-cleanup" target="_blank"><img alt="javadoc-cleanup" src="https://img.shields.io/github/stars/cicirello/javadoc-cleanup?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Keep" src="https://gitlibrary.club/images/uploads/2023/05/newshot-keep-4.png" /></td>
+        <td>Notifications</td>
+        <td>Python</td>
+        <td><a href="https://www.keephq.dev" target="_blank">Keep</a></td>
+        <td>Open source alerting management for software developers.</td>
+        <th><a href="https://github.com/keephq/keep" target="_blank"><img alt="Keep" src="https://img.shields.io/github/stars/keephq/keep?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="llm-client" src="https://gitlibrary.club/images/uploads/2023/05/newshot-llm-client-sdk.jpg" /></td>
+        <td>Infrastructure</td>
+        <td>Python</td>
+        <td><a href="https://github.com/uripeled2/llm-client-sdk" target="_blank">llm-client</a></td>
+        <td>SDK for using LLM</td>
+        <th><a href="https://github.com/uripeled2/llm-client-sdk" target="_blank"><img alt="llm-client" src="https://img.shields.io/github/stars/uripeled2/llm-client-sdk?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="trame" src="https://gitlibrary.club/images/uploads/2023/06/newshot-trame.png" /></td>
+        <td>Productivity</td>
+        <td>Python</td>
+        <td><a href="https://kitware.github.io/trame/" target="_blank">trame</a></td>
+        <td>Trame lets you weave various components and technologies into a Web Application solely written in Python.</td>
+        <th><a href="https://github.com/Kitware/trame" target="_blank"><img alt="trame" src="https://img.shields.io/github/stars/Kitware/trame?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Swirl Search" src="https://gitlibrary.club/images/uploads/2023/09/newshot-swirl-search.png" /></td>
+        <td>Infrastructure</td>
+        <td>Python</td>
+        <td><a href="https://github.com/swirlai/swirl-search" target="_blank">Swirl Search</a></td>
+        <td>Swirl queries anything with an API then uses Large Language Models to re-rank the unified results without copying any data! Includes zero-code configs for Apache Solr, ChatGPT, Elastic Search, AWS …</td>
+        <th><a href="https://github.com/swirlai/swirl-search" target="_blank"><img alt="Swirl Search" src="https://img.shields.io/github/stars/swirlai/swirl-search?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="DocsGPT" src="https://gitlibrary.club/images/uploads/2023/05/newshot-DocsGPT.png" /></td>
+        <td>Productivity</td>
+        <td>Python</td>
+        <td><a href="https://docsgpt.arc53.com/" target="_blank">DocsGPT</a></td>
+        <td>GPT-powered chat for documentation search &amp; assistance.</td>
+        <th><a href="https://github.com/arc53/DocsGPT" target="_blank"><img alt="DocsGPT" src="https://img.shields.io/github/stars/arc53/DocsGPT?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Fenv" src="https://gitlibrary.club/images/uploads/2023/07/newshot-Fenv.png" /></td>
+        <td>Miscellaneous</td>
+        <td>Python</td>
+        <td><a href="https://watchakorn-18k.github.io/Fenv/" target="_blank">Fenv</a></td>
+        <td><g-emoji class="g-emoji" alias="fast_forward" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/23e9.png">⏩</g-emoji> Module for Generate a folder, establish a virtual environment with a single command. </td>
+        <th><a href="https://github.com/watchakorn-18k/Fenv" target="_blank"><img alt="Fenv" src="https://img.shields.io/github/stars/watchakorn-18k/Fenv?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="PyCM" src="https://gitlibrary.club/images/uploads/2023/07/newshot-pycm.png" /></td>
+        <td>Miscellaneous</td>
+        <td>Python</td>
+        <td><a href="http://pycm.io" target="_blank">PyCM</a></td>
+        <td>Multi-class confusion matrix library in Python</td>
+        <th><a href="https://github.com/sepandhaghighi/pycm" target="_blank"><img alt="PyCM" src="https://img.shields.io/github/stars/sepandhaghighi/pycm?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Art" src="https://gitlibrary.club/images/uploads/2023/07/newshot-art.png" /></td>
+        <td>Miscellaneous</td>
+        <td>Python</td>
+        <td><a href="https://www.ascii-art.site" target="_blank">Art</a></td>
+        <td><g-emoji class="g-emoji" alias="art" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f3a8.png">?</g-emoji> ASCII art library for Python</td>
+        <th><a href="https://github.com/sepandhaghighi/art" target="_blank"><img alt="Art" src="https://img.shields.io/github/stars/sepandhaghighi/art?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Tiny Python Scripts" src="https://gitlibrary.club/images/uploads/2023/07/newshot-tiny-python-scripts.jpg" /></td>
+        <td>Security</td>
+        <td>Python</td>
+        <td><a href="https://twitter.com/geeknik" target="_blank">Tiny Python Scripts</a></td>
+        <td>Tiny Python Scripts for Everyday Automation</td>
+        <th><a href="https://github.com/geeknik/tiny-python-scripts" target="_blank"><img alt="Tiny Python Scripts" src="https://img.shields.io/github/stars/geeknik/tiny-python-scripts?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Bard Shell" src="https://gitlibrary.club/images/uploads/2023/07/newshot-Bard-Shell.jpg" /></td>
+        <td>Productivity</td>
+        <td>Python</td>
+        <td><a href="https://github.com/kshitijaucharmal/Bard-Shell" target="_blank">Bard Shell</a></td>
+        <td>Bard-Shell is a utility that allows you to use google's Bard ai in the linux terminal</td>
+        <th><a href="https://github.com/kshitijaucharmal/Bard-Shell" target="_blank"><img alt="Bard Shell" src="https://img.shields.io/github/stars/kshitijaucharmal/Bard-Shell?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="TextRL" src="https://gitlibrary.club/images/uploads/2023/07/newshot-TextRL.png" /></td>
+        <td>Productivity</td>
+        <td>Python</td>
+        <td><a href="https://github.com/voidful/TextRL" target="_blank">TextRL</a></td>
+        <td>Implementation of ChatGPT RLHF (Reinforcement Learning with Human Feedback) on any generation model in huggingface's transformer (blommz-176B/bloom/gpt/bart/T5/MetaICL)</td>
+        <th><a href="https://github.com/voidful/TextRL" target="_blank"><img alt="TextRL" src="https://img.shields.io/github/stars/voidful/TextRL?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Prism" src="https://gitlibrary.club/images/uploads/2023/07/newshot-prism.png" /></td>
+        <td>Analytics</td>
+        <td>Python</td>
+        <td><a href="https://runprism.com" target="_blank">Prism</a></td>
+        <td>Prism is the easiest way to develop, orchestrate, and execute data pipelines in Python.</td>
+        <th><a href="https://github.com/runprism/prism" target="_blank"><img alt="Prism" src="https://img.shields.io/github/stars/runprism/prism?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="GoogleTranslate_IPFinder" src="https://gitlibrary.club/images/uploads/2023/08/newshot-GoogleTranslate_IPFinder.png" /></td>
+        <td>Productivity</td>
+        <td>Python</td>
+        <td><a href="https://github.com/GoodCoder666/GoogleTranslate_IPFinder" target="_blank">GoogleTranslate_IPFinder</a></td>
+        <td>谷歌翻译服务器在中国大陆的IP地址扫描、测速工具，支持GUI图形界面。</td>
+        <th><a href="https://github.com/GoodCoder666/GoogleTranslate_IPFinder" target="_blank"><img alt="GoogleTranslate_IPFinder" src="https://img.shields.io/github/stars/GoodCoder666/GoogleTranslate_IPFinder?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="TinyTuya" src="https://gitlibrary.club/images/uploads/2023/08/newshot-tinytuya.jpg" /></td>
+        <td>Infrastructure</td>
+        <td>Python</td>
+        <td><a href="https://github.com/jasonacox/tinytuya" target="_blank">TinyTuya</a></td>
+        <td>Python API for Tuya WiFi smart devices using a direct local area network (LAN) connection or the cloud (TuyaCloud API).</td>
+        <th><a href="https://github.com/jasonacox/tinytuya" target="_blank"><img alt="TinyTuya" src="https://img.shields.io/github/stars/jasonacox/tinytuya?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="PFL-Non-IID" src="https://gitlibrary.club/images/uploads/2023/08/newshot-PFL-Non-IID.jpg" /></td>
+        <td>Infrastructure</td>
+        <td>Python</td>
+        <td><a href="https://github.com/TsingZ0/PFL-Non-IID" target="_blank">PFL-Non-IID</a></td>
+        <td>Personalized federated learning simulation platform with non-IID and unbalanced dataset</td>
+        <th><a href="https://github.com/TsingZ0/PFL-Non-IID" target="_blank"><img alt="PFL-Non-IID" src="https://img.shields.io/github/stars/TsingZ0/PFL-Non-IID?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="count-action-users" src="https://gitlibrary.club/images/uploads/2023/08/newshot-count-action-users.jpg" /></td>
+        <td>Analytics</td>
+        <td>Python</td>
+        <td><a href="https://actions.cicirello.org/count-action-users/" target="_blank">count-action-users</a></td>
+        <td>Generates Shields endpoint with number of users of a GitHub Action</td>
+        <th><a href="https://github.com/cicirello/count-action-users" target="_blank"><img alt="count-action-users" src="https://img.shields.io/github/stars/cicirello/count-action-users?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Haly AI" src="https://gitlibrary.club/images/uploads/2023/09/newshot-slack-bot.png" /></td>
+        <td>Collaboration</td>
+        <td>Python</td>
+        <td><a href="https://haly.ai" target="_blank">Haly AI</a></td>
+        <td>Haly AI Slack Bot. A GPT powered chatbot that can answer questions about your organization using semantic search.</td>
+        <th><a href="https://github.com/UpMortem/slack-bot" target="_blank"><img alt="Haly AI" src="https://img.shields.io/github/stars/UpMortem/slack-bot?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="pyatv" src="https://gitlibrary.club/images/uploads/2023/09/newshot-pyatv.jpg" /></td>
+        <td>Miscellaneous</td>
+        <td>Python</td>
+        <td><a href="https://pyatv.dev" target="_blank">pyatv</a></td>
+        <td>A client library for Apple TV and AirPlay devices</td>
+        <th><a href="https://github.com/postlund/pyatv" target="_blank"><img alt="pyatv" src="https://img.shields.io/github/stars/postlund/pyatv?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="ClusterFuzz" src="https://gitlibrary.club/images/uploads/2023/05/newshot-clusterfuzz.png" /></td>
+        <td>Infrastructure</td>
+        <td>Python</td>
+        <td><a href="https://google.github.io/clusterfuzz" target="_blank">ClusterFuzz</a></td>
+        <td>Scalable fuzzing infrastructure.</td>
+        <th><a href="https://github.com/google/clusterfuzz" target="_blank"><img alt="ClusterFuzz" src="https://img.shields.io/github/stars/google/clusterfuzz?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Frappe Framework" src="https://gitlibrary.club/images/uploads/2023/05/newshot-frappe.png" /></td>
+        <td>Infrastructure</td>
+        <td>Python</td>
+        <td><a href="https://frappeframework.com" target="_blank">Frappe Framework</a></td>
+        <td>Low code web framework for real world applications, in Python and Javascript</td>
+        <th><a href="https://github.com/frappe/frappe" target="_blank"><img alt="Frappe Framework" src="https://img.shields.io/github/stars/frappe/frappe?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Musician's Friend" src="https://gitlibrary.club/images/uploads/2023/05/newshot-mmf.png" /></td>
+        <td>Infrastructure</td>
+        <td>Python</td>
+        <td><a href="https://mmf.sh/" target="_blank">Musician's Friend</a></td>
+        <td>A modular framework for vision &amp; language multimodal research from Facebook AI Research (FAIR)</td>
+        <th><a href="https://github.com/facebookresearch/mmf" target="_blank"><img alt="Musician's Friend" src="https://img.shields.io/github/stars/facebookresearch/mmf?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Flet" src="https://gitlibrary.club/images/uploads/2023/05/newshot-flet.png" /></td>
+        <td>Productivity</td>
+        <td>Python</td>
+        <td><a href="https://flet.dev" target="_blank">Flet</a></td>
+        <td>Flet enables developers to easily build realtime web, mobile and desktop apps in Python. No frontend experience required.</td>
+        <th><a href="https://github.com/flet-dev/flet" target="_blank"><img alt="Flet" src="https://img.shields.io/github/stars/flet-dev/flet?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Waydroid" src="https://gitlibrary.club/images/uploads/2023/05/newshot-waydroid.png" /></td>
+        <td>Infrastructure</td>
+        <td>Python</td>
+        <td><a href="https://waydro.id" target="_blank">Waydroid</a></td>
+        <td>Waydroid uses a container-based approach to boot a full Android system on a regular GNU/Linux system like Ubuntu.</td>
+        <th><a href="https://github.com/waydroid/waydroid" target="_blank"><img alt="Waydroid" src="https://img.shields.io/github/stars/waydroid/waydroid?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Snorkel AI" src="https://gitlibrary.club/images/uploads/2023/05/newshot-snorkel.png" /></td>
+        <td>Productivity</td>
+        <td>Python</td>
+        <td><a href="https://snorkel.org" target="_blank">Snorkel AI</a></td>
+        <td>A system for quickly generating training data with weak supervision</td>
+        <th><a href="https://github.com/snorkel-team/snorkel" target="_blank"><img alt="Snorkel AI" src="https://img.shields.io/github/stars/snorkel-team/snorkel?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="StackStorm" src="https://gitlibrary.club/images/uploads/2023/05/newshot-st2.jpg" /></td>
+        <td>Collaboration</td>
+        <td>Python</td>
+        <td><a href="https://stackstorm.com/" target="_blank">StackStorm</a></td>
+        <td>StackStorm (aka "IFTTT for Ops") is event-driven automation for auto-remediation, incident responses, troubleshooting, deployments, and more for DevOps and SREs. Includes rules engine, workflow, 16…</td>
+        <th><a href="https://github.com/StackStorm/st2" target="_blank"><img alt="StackStorm" src="https://img.shields.io/github/stars/StackStorm/st2?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="GitHub" src="https://gitlibrary.club/images/uploads/2023/05/newshot-pwndbg.png" /></td>
+        <td>Security</td>
+        <td>Python</td>
+        <td><a href="https://pwndbg.com/" target="_blank">GitHub</a></td>
+        <td>Exploit Development and Reverse Engineering with GDB Made Easy</td>
+        <th><a href="https://github.com/pwndbg/pwndbg" target="_blank"><img alt="GitHub" src="https://img.shields.io/github/stars/pwndbg/pwndbg?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="pypdf" src="https://gitlibrary.club/images/uploads/2023/05/newshot-pypdf.png" /></td>
+        <td>Databases</td>
+        <td>Python</td>
+        <td><a href="https://pypdf.readthedocs.io/en/latest/" target="_blank">pypdf</a></td>
+        <td>A pure-python PDF library capable of splitting, merging, cropping, and transforming the pages of PDF files</td>
+        <th><a href="https://github.com/py-pdf/pypdf" target="_blank"><img alt="pypdf" src="https://img.shields.io/github/stars/py-pdf/pypdf?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="PyCQA/isort" src="https://gitlibrary.club/images/uploads/2023/05/newshot-isort.jpg" /></td>
+        <td>Productivity</td>
+        <td>Python</td>
+        <td><a href="https://pycqa.github.io/isort/" target="_blank">PyCQA/isort</a></td>
+        <td>A Python utility / library to sort imports.</td>
+        <th><a href="https://github.com/PyCQA/isort" target="_blank"><img alt="PyCQA/isort" src="https://img.shields.io/github/stars/PyCQA/isort?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Librosa" src="https://gitlibrary.club/images/uploads/2023/05/newshot-librosa.png" /></td>
+        <td>Analytics</td>
+        <td>Python</td>
+        <td><a href="https://librosa.org/" target="_blank">Librosa</a></td>
+        <td>Python library for audio and music analysis</td>
+        <th><a href="https://github.com/librosa/librosa" target="_blank"><img alt="Librosa" src="https://img.shields.io/github/stars/librosa/librosa?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="PyGithub" src="https://gitlibrary.club/images/uploads/2023/05/newshot-PyGithub.png" /></td>
+        <td>Databases</td>
+        <td>Python</td>
+        <td><a href="https://pygithub.readthedocs.io/" target="_blank">PyGithub</a></td>
+        <td>Typed interactions with the GitHub API v3</td>
+        <th><a href="https://github.com/PyGithub/PyGithub" target="_blank"><img alt="PyGithub" src="https://img.shields.io/github/stars/PyGithub/PyGithub?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="OpenNMT" src="https://gitlibrary.club/images/uploads/2023/05/newshot-OpenNMT-py.png" /></td>
+        <td>Productivity</td>
+        <td>Python</td>
+        <td><a href="https://opennmt.net/" target="_blank">OpenNMT</a></td>
+        <td>Open Source Neural Machine Translation in PyTorch</td>
+        <th><a href="https://github.com/OpenNMT/OpenNMT-py" target="_blank"><img alt="OpenNMT" src="https://img.shields.io/github/stars/OpenNMT/OpenNMT-py?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="sqlfluff/sqlfluff" src="https://gitlibrary.club/images/uploads/2023/05/newshot-sqlfluff.png" /></td>
+        <td>Databases</td>
+        <td>Python</td>
+        <td><a href="https://www.sqlfluff.com" target="_blank">sqlfluff/sqlfluff</a></td>
+        <td>A modular SQL linter and auto-formatter with support for multiple dialects and templated code.</td>
+        <th><a href="https://github.com/sqlfluff/sqlfluff" target="_blank"><img alt="sqlfluff/sqlfluff" src="https://img.shields.io/github/stars/sqlfluff/sqlfluff?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Chroma" src="https://gitlibrary.club/images/uploads/2023/05/newshot-chroma-1.png" /></td>
+        <td>Databases</td>
+        <td>Python</td>
+        <td><a href="https://www.trychroma.com/" target="_blank">Chroma</a></td>
+        <td>the AI-native open-source embedding database</td>
+        <th><a href="https://github.com/chroma-core/chroma" target="_blank"><img alt="Chroma" src="https://img.shields.io/github/stars/chroma-core/chroma?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Conda" src="https://gitlibrary.club/images/uploads/2023/05/newshot-conda-1.png" /></td>
+        <td>Infrastructure</td>
+        <td>Python</td>
+        <td><a href="https://docs.conda.io/projects/conda/" target="_blank">Conda</a></td>
+        <td>A system-level, binary package and environment manager running on all major operating systems and platforms.</td>
+        <th><a href="https://github.com/conda/conda" target="_blank"><img alt="Conda" src="https://img.shields.io/github/stars/conda/conda?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="OnionShare" src="https://gitlibrary.club/images/uploads/2023/05/newshot-onionshare-1.png" /></td>
+        <td>Security</td>
+        <td>Python</td>
+        <td><a href="https://onionshare.org/" target="_blank">OnionShare</a></td>
+        <td>Securely and anonymously share files, host websites, and chat with friends using the Tor network</td>
+        <th><a href="https://github.com/onionshare/onionshare" target="_blank"><img alt="OnionShare" src="https://img.shields.io/github/stars/onionshare/onionshare?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Akamai" src="https://gitlibrary.club/images/uploads/2023/05/newshot-monkey-1.jpg" /></td>
+        <td>Security</td>
+        <td>Python</td>
+        <td><a href="https://www.guardicore.com/infectionmonkey/" target="_blank">Akamai</a></td>
+        <td>Infection Monkey - An open-source adversary emulation platform</td>
+        <th><a href="https://github.com/guardicore/monkey" target="_blank"><img alt="Akamai" src="https://img.shields.io/github/stars/guardicore/monkey?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="DeepPavlov" src="https://gitlibrary.club/images/uploads/2023/05/newshot-DeepPavlov.png" /></td>
+        <td>Collaboration</td>
+        <td>Python</td>
+        <td><a href="https://deeppavlov.ai" target="_blank">DeepPavlov</a></td>
+        <td>An open source library for deep learning end-to-end dialog systems and chatbots.</td>
+        <th><a href="https://github.com/deeppavlov/DeepPavlov" target="_blank"><img alt="DeepPavlov" src="https://img.shields.io/github/stars/deeppavlov/DeepPavlov?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="scikit-image" src="https://gitlibrary.club/images/uploads/2023/05/newshot-scikit-image-2.png" /></td>
+        <td>Productivity</td>
+        <td>Python</td>
+        <td><a href="https://scikit-image.org" target="_blank">scikit-image</a></td>
+        <td>Image processing in Python</td>
+        <th><a href="https://github.com/scikit-image/scikit-image" target="_blank"><img alt="scikit-image" src="https://img.shields.io/github/stars/scikit-image/scikit-image?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Taiga" src="https://gitlibrary.club/images/uploads/2023/05/newshot-taiga-back-2.png" /></td>
+        <td>Collaboration</td>
+        <td>Python</td>
+        <td><a href="http://taiga.io" target="_blank">Taiga</a></td>
+        <td>Agile project management platform. Built on top of Django and AngularJS</td>
+        <th><a href="https://github.com/taigaio/taiga-back" target="_blank"><img alt="Taiga" src="https://img.shields.io/github/stars/taigaio/taiga-back?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Our World in Data" src="https://gitlibrary.club/images/uploads/2023/05/newshot-covid-19-data-3.png" /></td>
+        <td>Databases</td>
+        <td>Python</td>
+        <td><a href="https://ourworldindata.org/coronavirus" target="_blank">Our World in Data</a></td>
+        <td>Data on COVID-19 (coronavirus) cases, deaths, hospitalizations, tests • All countries • Updated daily by Our World in Data</td>
+        <th><a href="https://github.com/owid/covid-19-data" target="_blank"><img alt="Our World in Data" src="https://img.shields.io/github/stars/owid/covid-19-data?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="AutoGluon Documentation" src="https://gitlibrary.club/images/uploads/2023/05/newshot-autogluon-1.png" /></td>
+        <td>Productivity</td>
+        <td>Python</td>
+        <td><a href="https://auto.gluon.ai/" target="_blank">AutoGluon Documentation</a></td>
+        <td>AutoGluon: AutoML for Image, Text, Time Series, and Tabular Data</td>
+        <th><a href="https://github.com/autogluon/autogluon" target="_blank"><img alt="AutoGluon Documentation" src="https://img.shields.io/github/stars/autogluon/autogluon?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="MkDocs" src="https://gitlibrary.club/images/uploads/2023/05/newshot-mkdocs-2.png" /></td>
+        <td>Productivity</td>
+        <td>Python</td>
+        <td><a href="https://www.mkdocs.org" target="_blank">MkDocs</a></td>
+        <td>Project documentation with Markdown.</td>
+        <th><a href="https://github.com/mkdocs/mkdocs" target="_blank"><img alt="MkDocs" src="https://img.shields.io/github/stars/mkdocs/mkdocs?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="PDM" src="https://gitlibrary.club/images/uploads/2023/05/newshot-pdm.png" /></td>
+        <td>Productivity</td>
+        <td>Python</td>
+        <td><a href="https://pdm.fming.dev" target="_blank">PDM</a></td>
+        <td>A modern Python package and dependency manager supporting the latest PEP standards</td>
+        <th><a href="https://github.com/pdm-project/pdm" target="_blank"><img alt="PDM" src="https://img.shields.io/github/stars/pdm-project/pdm?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Robby-chatbot" src="https://gitlibrary.club/images/uploads/2023/05/newshot-Robby-chatbot.jpg" /></td>
+        <td>Productivity</td>
+        <td>Python</td>
+        <td><a href="https://robby-chatbot.com" target="_blank">Robby-chatbot</a></td>
+        <td>AI chatbot <g-emoji class="g-emoji" alias="robot" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f916.png">?</g-emoji> for chat with your CSV, PDF, TXT files <g-emoji class="g-emoji" alias="page_facing_up" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c4.png">?</g-emoji> | using Langchain<g-emoji class="g-emoji" alias="parrot" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f99c.png">?</g-emoji> | OpenAI | Streamlit <g-emoji class="g-emoji" alias="zap" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/26a1.png">⚡</g-emoji></td>
+        <th><a href="https://github.com/yvann-hub/Robby-chatbot" target="_blank"><img alt="Robby-chatbot" src="https://img.shields.io/github/stars/yvann-hub/Robby-chatbot?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="scalecast" src="https://gitlibrary.club/images/uploads/2023/06/newshot-scalecast.jpg" /></td>
+        <td>Analytics</td>
+        <td>Python</td>
+        <td><a href="https://github.com/mikekeith52/scalecast" target="_blank">scalecast</a></td>
+        <td>The practitioner's forecasting library</td>
+        <th><a href="https://github.com/mikekeith52/scalecast" target="_blank"><img alt="scalecast" src="https://img.shields.io/github/stars/mikekeith52/scalecast?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Futu Algo" src="https://gitlibrary.club/images/uploads/2023/06/newshot-futu_algo.png" /></td>
+        <td>Analytics</td>
+        <td>Python</td>
+        <td><a href="https://github.com/billpwchan/futu_algo" target="_blank">Futu Algo</a></td>
+        <td>Futu Algorithmic Trading Solution (Python) 基於富途OpenAPI所開發量化交易程序</td>
+        <th><a href="https://github.com/billpwchan/futu_algo" target="_blank"><img alt="Futu Algo" src="https://img.shields.io/github/stars/billpwchan/futu_algo?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="py3-pinterest" src="https://gitlibrary.club/images/uploads/2023/06/newshot-py3-pinterest.jpg" /></td>
+        <td>Miscellaneous</td>
+        <td>Python</td>
+        <td><a href="https://github.com/bstoilov/py3-pinterest" target="_blank">py3-pinterest</a></td>
+        <td>Fully fledged Python Pinterest client</td>
+        <th><a href="https://github.com/bstoilov/py3-pinterest" target="_blank"><img alt="py3-pinterest" src="https://img.shields.io/github/stars/bstoilov/py3-pinterest?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Neural Gauge Fields" src="https://gitlibrary.club/images/uploads/2023/07/newshot-Neural-Gauge-Fields.jpg" /></td>
+        <td>Miscellaneous</td>
+        <td>Python</td>
+        <td><a href="https://fnzhan.com/neural-gauge-fields" target="_blank">Neural Gauge Fields</a></td>
+        <td>General Neural Gauge Fields [ICLR 2023]</td>
+        <th><a href="https://github.com/fnzhan/Neural-Gauge-Fields" target="_blank"><img alt="Neural Gauge Fields" src="https://img.shields.io/github/stars/fnzhan/Neural-Gauge-Fields?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Vision-transformers-cifar10" src="https://gitlibrary.club/images/uploads/2023/07/newshot-vision-transformers-cifar10.jpg" /></td>
+        <td>Analytics</td>
+        <td>Python</td>
+        <td><a href="https://github.com/kentaroy47/vision-transformers-cifar10" target="_blank">Vision-transformers-cifar10</a></td>
+        <td>Let's train vision transformers (ViT) for cifar 10! </td>
+        <th><a href="https://github.com/kentaroy47/vision-transformers-cifar10" target="_blank"><img alt="Vision-transformers-cifar10" src="https://img.shields.io/github/stars/kentaroy47/vision-transformers-cifar10?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="SMOGN: Synthetic Minority Over-Sampling Technique for Regression with Gaussian Noise" src="https://gitlibrary.club/images/uploads/2023/07/newshot-smogn.jpg" /></td>
+        <td>Analytics</td>
+        <td>Python</td>
+        <td><a href="https://pypi.org/project/smogn" target="_blank">SMOGN: Synthetic Minority Over-Sampling Technique for Regression with Gaussian Noise</a></td>
+        <td>Synthetic Minority Over-Sampling Technique for Regression</td>
+        <th><a href="https://github.com/nickkunz/smogn" target="_blank"><img alt="SMOGN: Synthetic Minority Over-Sampling Technique for Regression with Gaussian Noise" src="https://img.shields.io/github/stars/nickkunz/smogn?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="HumanML3D" src="https://gitlibrary.club/images/uploads/2023/07/newshot-HumanML3D.jpg" /></td>
+        <td>Productivity</td>
+        <td>Python</td>
+        <td><a href="https://github.com/EricGuo5513/HumanML3D" target="_blank">HumanML3D</a></td>
+        <td>HumanML3D: A large and diverse 3d human motion-language dataset.</td>
+        <th><a href="https://github.com/EricGuo5513/HumanML3D" target="_blank"><img alt="HumanML3D" src="https://img.shields.io/github/stars/EricGuo5513/HumanML3D?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="PyPOTS" src="https://gitlibrary.club/images/uploads/2023/07/newshot-PyPOTS.jpg" /></td>
+        <td>Analytics</td>
+        <td>Python</td>
+        <td><a href="https://pypots.com" target="_blank">PyPOTS</a></td>
+        <td>A python toolbox/library for data mining on partially-observed time series with PyTorch, including SOTA models supporting tasks of imputation, classification, clustering, and forecasting on incompl…</td>
+        <th><a href="https://github.com/WenjieDu/PyPOTS" target="_blank"><img alt="PyPOTS" src="https://img.shields.io/github/stars/WenjieDu/PyPOTS?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="qtrader" src="https://gitlibrary.club/images/uploads/2023/07/newshot-qtrader.jpg" /></td>
+        <td>Analytics</td>
+        <td>Python</td>
+        <td><a href="https://github.com/josephchenhk/qtrader" target="_blank">qtrader</a></td>
+        <td>A Light Event-Driven Algorithmic Trading Engine</td>
+        <th><a href="https://github.com/josephchenhk/qtrader" target="_blank"><img alt="qtrader" src="https://img.shields.io/github/stars/josephchenhk/qtrader?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="ScienceQA" src="https://gitlibrary.club/images/uploads/2023/07/newshot-ScienceQA.jpg" /></td>
+        <td>Miscellaneous</td>
+        <td>Python</td>
+        <td><a href="https://github.com/lupantech/ScienceQA" target="_blank">ScienceQA</a></td>
+        <td>Data and code for NeurIPS 2022 Paper "Learn to Explain: Multimodal Reasoning via Thought Chains for Science Question Answering".</td>
+        <th><a href="https://github.com/lupantech/ScienceQA" target="_blank"><img alt="ScienceQA" src="https://img.shields.io/github/stars/lupantech/ScienceQA?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Apprise API" src="https://gitlibrary.club/images/uploads/2023/07/newshot-apprise-api.png" /></td>
+        <td>Productivity</td>
+        <td>Python</td>
+        <td><a href="https://hub.docker.com/r/caronc/apprise" target="_blank">Apprise API</a></td>
+        <td>A lightweight REST framework that wraps the Apprise Notification Library</td>
+        <th><a href="https://github.com/caronc/apprise-api" target="_blank"><img alt="Apprise API" src="https://img.shields.io/github/stars/caronc/apprise-api?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="C code style" src="https://gitlibrary.club/images/uploads/2023/07/newshot-c-code-style.jpg" /></td>
+        <td>Productivity</td>
+        <td>Python</td>
+        <td><a href="http://majerle.eu" target="_blank">C code style</a></td>
+        <td>Recommended C code style and coding rules for standard C99 or later</td>
+        <th><a href="https://github.com/MaJerle/c-code-style" target="_blank"><img alt="C code style" src="https://img.shields.io/github/stars/MaJerle/c-code-style?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="python-benedict" src="https://gitlibrary.club/images/uploads/2023/07/newshot-python-benedict.jpg" /></td>
+        <td>Miscellaneous</td>
+        <td>Python</td>
+        <td><a href="https://github.com/fabiocaccamo/python-benedict" target="_blank">python-benedict</a></td>
+        <td><g-emoji class="g-emoji" alias="blue_book" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4d8.png">?</g-emoji> dict subclass with keylist/keypath support, built-in I/O operations (base64, csv, ini, json, pickle, plist, query-string, toml, xls, xml, yaml), s3 support and many utilities.</td>
+        <th><a href="https://github.com/fabiocaccamo/python-benedict" target="_blank"><img alt="python-benedict" src="https://img.shields.io/github/stars/fabiocaccamo/python-benedict?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="django-colorfield" src="https://gitlibrary.club/images/uploads/2023/07/newshot-django-colorfield-1.jpg" /></td>
+        <td>Miscellaneous</td>
+        <td>Python</td>
+        <td><a href="https://github.com/fabiocaccamo/django-colorfield" target="_blank">django-colorfield</a></td>
+        <td><g-emoji class="g-emoji" alias="art" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f3a8.png">?</g-emoji> color field for django models with a nice color-picker in the admin.</td>
+        <th><a href="https://github.com/fabiocaccamo/django-colorfield" target="_blank"><img alt="django-colorfield" src="https://img.shields.io/github/stars/fabiocaccamo/django-colorfield?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="django-treenode" src="https://gitlibrary.club/images/uploads/2023/07/newshot-django-treenode.jpg" /></td>
+        <td>Miscellaneous</td>
+        <td>Python</td>
+        <td><a href="https://github.com/fabiocaccamo/django-treenode" target="_blank">django-treenode</a></td>
+        <td><g-emoji class="g-emoji" alias="deciduous_tree" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f333.png">?</g-emoji> probably the best abstract model/admin for your tree based stuff.</td>
+        <th><a href="https://github.com/fabiocaccamo/django-treenode" target="_blank"><img alt="django-treenode" src="https://img.shields.io/github/stars/fabiocaccamo/django-treenode?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="django-maintenance-mode" src="https://gitlibrary.club/images/uploads/2023/07/newshot-django-maintenance-mode.jpg" /></td>
+        <td>Miscellaneous</td>
+        <td>Python</td>
+        <td><a href="https://github.com/fabiocaccamo/django-maintenance-mode" target="_blank">django-maintenance-mode</a></td>
+        <td><g-emoji class="g-emoji" alias="construction" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f6a7.png">?</g-emoji> <g-emoji class="g-emoji" alias="hammer_and_wrench" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f6e0.png">?️</g-emoji> shows a 503 error page when maintenance-mode is on.</td>
+        <th><a href="https://github.com/fabiocaccamo/django-maintenance-mode" target="_blank"><img alt="django-maintenance-mode" src="https://img.shields.io/github/stars/fabiocaccamo/django-maintenance-mode?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="django-extra-settings" src="https://gitlibrary.club/images/uploads/2023/07/newshot-django-extra-settings-1.jpg" /></td>
+        <td>Miscellaneous</td>
+        <td>Python</td>
+        <td><a href="https://github.com/fabiocaccamo/django-extra-settings" target="_blank">django-extra-settings</a></td>
+        <td><g-emoji class="g-emoji" alias="gear" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2699.png">⚙️</g-emoji> config and manage typed extra settings using just the django admin.</td>
+        <th><a href="https://github.com/fabiocaccamo/django-extra-settings" target="_blank"><img alt="django-extra-settings" src="https://img.shields.io/github/stars/fabiocaccamo/django-extra-settings?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="python-fsutil" src="https://gitlibrary.club/images/uploads/2023/07/newshot-python-fsutil.jpg" /></td>
+        <td>Miscellaneous</td>
+        <td>Python</td>
+        <td><a href="https://github.com/fabiocaccamo/python-fsutil" target="_blank">python-fsutil</a></td>
+        <td><g-emoji class="g-emoji" alias="computer" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4bb.png">?</g-emoji> <g-emoji class="g-emoji" alias="wrench" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f527.png">?</g-emoji> high-level file-system operations for lazy devs.</td>
+        <th><a href="https://github.com/fabiocaccamo/python-fsutil" target="_blank"><img alt="python-fsutil" src="https://img.shields.io/github/stars/fabiocaccamo/python-fsutil?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="django-freeze" src="https://gitlibrary.club/images/uploads/2023/07/newshot-django-freeze.jpg" /></td>
+        <td>Miscellaneous</td>
+        <td>Python</td>
+        <td><a href="https://github.com/fabiocaccamo/django-freeze" target="_blank">django-freeze</a></td>
+        <td><g-emoji class="g-emoji" alias="ice_cube" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f9ca.png">?</g-emoji> convert your dynamic django site to a static one with one line of code.</td>
+        <th><a href="https://github.com/fabiocaccamo/django-freeze" target="_blank"><img alt="django-freeze" src="https://img.shields.io/github/stars/fabiocaccamo/django-freeze?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="python-codicefiscale" src="https://gitlibrary.club/images/uploads/2023/07/newshot-python-codicefiscale.jpg" /></td>
+        <td>Miscellaneous</td>
+        <td>Python</td>
+        <td><a href="https://github.com/fabiocaccamo/python-codicefiscale" target="_blank">python-codicefiscale</a></td>
+        <td><g-emoji class="g-emoji" alias="it" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f1ee-1f1f9.png">??</g-emoji> <g-emoji class="g-emoji" alias="credit_card" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4b3.png">?</g-emoji> italian fiscal codes encoding, decoding and validation - codifica, decodifica e validazione del Codice Fiscale italiano.</td>
+        <th><a href="https://github.com/fabiocaccamo/python-codicefiscale" target="_blank"><img alt="python-codicefiscale" src="https://img.shields.io/github/stars/fabiocaccamo/python-codicefiscale?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="django-redirects" src="https://gitlibrary.club/images/uploads/2023/07/newshot-django-redirects.jpg" /></td>
+        <td>Miscellaneous</td>
+        <td>Python</td>
+        <td><a href="https://github.com/fabiocaccamo/django-redirects" target="_blank">django-redirects</a></td>
+        <td> <g-emoji class="g-emoji" alias="arrow_right_hook" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/21aa.png">↪️</g-emoji> <g-emoji class="g-emoji" alias="white_check_mark" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2705.png">✅</g-emoji> redirects as they should be, with full control.</td>
+        <th><a href="https://github.com/fabiocaccamo/django-redirects" target="_blank"><img alt="django-redirects" src="https://img.shields.io/github/stars/fabiocaccamo/django-redirects?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Blender Toolbox" src="https://gitlibrary.club/images/uploads/2023/07/newshot-BlenderToolbox.jpg" /></td>
+        <td>Productivity</td>
+        <td>Python</td>
+        <td><a href="https://github.com/HTDerekLiu/BlenderToolbox" target="_blank">Blender Toolbox</a></td>
+        <td>Some simple Blender scripts for rendering paper figures</td>
+        <th><a href="https://github.com/HTDerekLiu/BlenderToolbox" target="_blank"><img alt="Blender Toolbox" src="https://img.shields.io/github/stars/HTDerekLiu/BlenderToolbox?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="langchain-visualizer" src="https://gitlibrary.club/images/uploads/2023/07/newshot-langchain-visualizer.jpg" /></td>
+        <td>Observability</td>
+        <td>Python</td>
+        <td><a href="https://github.com/amosjyng/langchain-visualizer" target="_blank">langchain-visualizer</a></td>
+        <td>Visualization and debugging tool for LangChain workflows</td>
+        <th><a href="https://github.com/amosjyng/langchain-visualizer" target="_blank"><img alt="langchain-visualizer" src="https://img.shields.io/github/stars/amosjyng/langchain-visualizer?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="CTF Archives" src="https://gitlibrary.club/images/uploads/2023/07/newshot-ctf-archives.jpg" /></td>
+        <td>Security</td>
+        <td>Python</td>
+        <td><a href="https://twitter.com/sajjadium" target="_blank">CTF Archives</a></td>
+        <td> CTF Archives: Collection of CTF Challenges.</td>
+        <th><a href="https://github.com/sajjadium/ctf-archives" target="_blank"><img alt="CTF Archives" src="https://img.shields.io/github/stars/sajjadium/ctf-archives?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="DeepCrawling" src="https://gitlibrary.club/images/uploads/2023/07/newshot-DeepCrawling.jpg" /></td>
+        <td>Security</td>
+        <td>Python</td>
+        <td><a href="https://twitter.com/sajjadium" target="_blank">DeepCrawling</a></td>
+        <td>Crawlium (DeepCrawling): A crawling platform based on Chrome (Chromium) browser to get a deeper look into the ecosystem of content inclusion on the Web.</td>
+        <th><a href="https://github.com/sajjadium/DeepCrawling" target="_blank"><img alt="DeepCrawling" src="https://img.shields.io/github/stars/sajjadium/DeepCrawling?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Resume Matcher" src="https://gitlibrary.club/images/uploads/2023/08/newshot-Resume-Matcher.jpg" /></td>
+        <td>Productivity</td>
+        <td>Python</td>
+        <td><a href="https://www.resumematcher.fyi/" target="_blank">Resume Matcher</a></td>
+        <td>Open Source Free ATS Tool to compare Resumes with Job Descriptions and create a score to rank them.</td>
+        <th><a href="https://github.com/srbhr/Resume-Matcher" target="_blank"><img alt="Resume Matcher" src="https://img.shields.io/github/stars/srbhr/Resume-Matcher?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Botflix" src="https://gitlibrary.club/images/uploads/2023/08/newshot-Botflix.jpg" /></td>
+        <td>Analytics</td>
+        <td>Python</td>
+        <td><a href="https://github.com/kaboussi/Botflix" target="_blank">Botflix</a></td>
+        <td>? Stream your favorite movie from the terminal!</td>
+        <th><a href="https://github.com/kaboussi/Botflix" target="_blank"><img alt="Botflix" src="https://img.shields.io/github/stars/kaboussi/Botflix?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="MyTimer" src="https://gitlibrary.club/images/uploads/2023/08/newshot-mytimer.png" /></td>
+        <td>Miscellaneous</td>
+        <td>Python</td>
+        <td><a href="https://github.com/sepandhaghighi/mytimer" target="_blank">MyTimer</a></td>
+        <td>A Geeky Timer for Terminal Enthusiasts</td>
+        <th><a href="https://github.com/sepandhaghighi/mytimer" target="_blank"><img alt="MyTimer" src="https://img.shields.io/github/stars/sepandhaghighi/mytimer?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="PyRGG" src="https://gitlibrary.club/images/uploads/2023/08/newshot-pyrgg.png" /></td>
+        <td>Miscellaneous</td>
+        <td>Python</td>
+        <td><a href="https://www.pyrgg.ir" target="_blank">PyRGG</a></td>
+        <td><g-emoji class="g-emoji" alias="wrench" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f527.png">?</g-emoji> Python Random Graph Generator</td>
+        <th><a href="https://github.com/sepandhaghighi/pyrgg" target="_blank"><img alt="PyRGG" src="https://img.shields.io/github/stars/sepandhaghighi/pyrgg?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="OPEM" src="https://gitlibrary.club/images/uploads/2023/08/newshot-opem.png" /></td>
+        <td>Miscellaneous</td>
+        <td>Python</td>
+        <td><a href="http://opem.ecsim.ir" target="_blank">OPEM</a></td>
+        <td>OPEM (Open Source PEM Fuel Cell Simulation Tool)</td>
+        <th><a href="https://github.com/ECSIM/opem" target="_blank"><img alt="OPEM" src="https://img.shields.io/github/stars/ECSIM/opem?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Samila" src="https://gitlibrary.club/images/uploads/2023/08/newshot-samila.png" /></td>
+        <td>Miscellaneous</td>
+        <td>Python</td>
+        <td><a href="https://www.samila.site" target="_blank">Samila</a></td>
+        <td>Generative Art Generator</td>
+        <th><a href="https://github.com/sepandhaghighi/samila" target="_blank"><img alt="Samila" src="https://img.shields.io/github/stars/sepandhaghighi/samila?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="TorchSemiSeg" src="https://gitlibrary.club/images/uploads/2023/08/newshot-TorchSemiSeg.jpg" /></td>
+        <td>Productivity</td>
+        <td>Python</td>
+        <td><a href="https://github.com/charlesCXK/TorchSemiSeg" target="_blank">TorchSemiSeg</a></td>
+        <td>[CVPR 2021] Semi-Supervised Semantic Segmentation with Cross Pseudo Supervision</td>
+        <th><a href="https://github.com/charlesCXK/TorchSemiSeg" target="_blank"><img alt="TorchSemiSeg" src="https://img.shields.io/github/stars/charlesCXK/TorchSemiSeg?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="ConditionalDETR" src="https://gitlibrary.club/images/uploads/2023/08/newshot-ConditionalDETR.png" /></td>
+        <td>Productivity</td>
+        <td>Python</td>
+        <td><a href="https://github.com/Atten4Vis/ConditionalDETR" target="_blank">ConditionalDETR</a></td>
+        <td>This repository is an official implementation of the ICCV 2021 paper "Conditional DETR for Fast Training Convergence". (https://arxiv.org/abs/2108.06152)</td>
+        <th><a href="https://github.com/Atten4Vis/ConditionalDETR" target="_blank"><img alt="ConditionalDETR" src="https://img.shields.io/github/stars/Atten4Vis/ConditionalDETR?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="CAE" src="https://gitlibrary.club/images/uploads/2023/08/newshot-CAE.png" /></td>
+        <td>Productivity</td>
+        <td>Python</td>
+        <td><a href="https://github.com/Atten4Vis/CAE" target="_blank">CAE</a></td>
+        <td>This is a PyTorch implementation of “Context AutoEncoder for Self-Supervised Representation Learning"</td>
+        <th><a href="https://github.com/Atten4Vis/CAE" target="_blank"><img alt="CAE" src="https://img.shields.io/github/stars/Atten4Vis/CAE?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Stegano" src="https://gitlibrary.club/images/uploads/2023/08/newshot-Stegano.jpg" /></td>
+        <td>Security</td>
+        <td>Python</td>
+        <td><a href="https://sr.ht/~cedric/stegano" target="_blank">Stegano</a></td>
+        <td>A pure Python steganography module.</td>
+        <th><a href="https://github.com/cedricbonhomme/Stegano" target="_blank"><img alt="Stegano" src="https://img.shields.io/github/stars/cedricbonhomme/Stegano?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="ma-gym" src="https://gitlibrary.club/images/uploads/2023/08/newshot-ma-gym.png" /></td>
+        <td>Miscellaneous</td>
+        <td>Python</td>
+        <td><a href="https://github.com/koulanurag/ma-gym/wiki" target="_blank">ma-gym</a></td>
+        <td>A collection of multi agent environments based on OpenAI gym.</td>
+        <th><a href="https://github.com/koulanurag/ma-gym" target="_blank"><img alt="ma-gym" src="https://img.shields.io/github/stars/koulanurag/ma-gym?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Betterscan CE" src="https://gitlibrary.club/images/uploads/2023/08/newshot-betterscan-ce.png" /></td>
+        <td>Security</td>
+        <td>Python</td>
+        <td><a href="https://www.betterscan.io" target="_blank">Betterscan CE</a></td>
+        <td>Code Scanning/SAST/Static Analysis/Linting using many tools/Scanners + OpenAI GPT with One Report (Code, IaC) - Betterscan Community Edition (CE)</td>
+        <th><a href="https://github.com/marcinguy/betterscan-ce" target="_blank"><img alt="Betterscan CE" src="https://img.shields.io/github/stars/marcinguy/betterscan-ce?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Zero" src="https://gitlibrary.club/images/uploads/2023/08/newshot-zero.png" /></td>
+        <td>Productivity</td>
+        <td>Python</td>
+        <td><a href="https://github.com/Ananto30/zero" target="_blank">Zero</a></td>
+        <td>Zero: A simple and fast Python RPC framework</td>
+        <th><a href="https://github.com/Ananto30/zero" target="_blank"><img alt="Zero" src="https://img.shields.io/github/stars/Ananto30/zero?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Hyperactive" src="https://gitlibrary.club/images/uploads/2023/08/newshot-Hyperactive.jpg" /></td>
+        <td>Productivity</td>
+        <td>Python</td>
+        <td><a href="https://simonblanke.github.io/hyperactive-documentation" target="_blank">Hyperactive</a></td>
+        <td>An optimization and data collection toolbox for convenient and fast prototyping of computationally expensive models.</td>
+        <th><a href="https://github.com/SimonBlanke/Hyperactive" target="_blank"><img alt="Hyperactive" src="https://img.shields.io/github/stars/SimonBlanke/Hyperactive?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Gradient-Free-Optimizers" src="https://gitlibrary.club/images/uploads/2023/08/newshot-Gradient-Free-Optimizers.jpg" /></td>
+        <td>Productivity</td>
+        <td>Python</td>
+        <td><a href="https://simonblanke.github.io/gradient-free-optimizers-documentation" target="_blank">Gradient-Free-Optimizers</a></td>
+        <td>Simple and reliable optimization with local, global, population-based and sequential techniques in numerical discrete search spaces.</td>
+        <th><a href="https://github.com/SimonBlanke/Gradient-Free-Optimizers" target="_blank"><img alt="Gradient-Free-Optimizers" src="https://img.shields.io/github/stars/SimonBlanke/Gradient-Free-Optimizers?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="pyPowerwall" src="https://gitlibrary.club/images/uploads/2023/08/newshot-pypowerwall.jpg" /></td>
+        <td>Infrastructure</td>
+        <td>Python</td>
+        <td><a href="https://github.com/jasonacox/pypowerwall" target="_blank">pyPowerwall</a></td>
+        <td>Python API for Tesla Powerwall and Solar Power Data</td>
+        <th><a href="https://github.com/jasonacox/pypowerwall" target="_blank"><img alt="pyPowerwall" src="https://img.shields.io/github/stars/jasonacox/pypowerwall?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Powerwall-Dashboard" src="https://gitlibrary.club/images/uploads/2023/08/newshot-Powerwall-Dashboard.jpg" /></td>
+        <td>Observability</td>
+        <td>Python</td>
+        <td><a href="https://github.com/jasonacox/Powerwall-Dashboard" target="_blank">Powerwall-Dashboard</a></td>
+        <td>Grafana Dashboard for Tesla Powerwall</td>
+        <th><a href="https://github.com/jasonacox/Powerwall-Dashboard" target="_blank"><img alt="Powerwall-Dashboard" src="https://img.shields.io/github/stars/jasonacox/Powerwall-Dashboard?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="ProxySpeedTest" src="https://gitlibrary.club/images/uploads/2023/08/newshot-proxySpeedTest.png" /></td>
+        <td>Analytics</td>
+        <td>Python</td>
+        <td><a href="https://github.com/biplobsd/proxySpeedTest" target="_blank">ProxySpeedTest</a></td>
+        <td>Batch proxy server downloading speed test.</td>
+        <th><a href="https://github.com/biplobsd/proxySpeedTest" target="_blank"><img alt="ProxySpeedTest" src="https://img.shields.io/github/stars/biplobsd/proxySpeedTest?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Typeracer  - Selenium" src="https://gitlibrary.club/images/uploads/2023/08/newshot-typeracer.png" /></td>
+        <td>Miscellaneous</td>
+        <td>Python</td>
+        <td><a href="https://github.com/biplobsd/typeracer" target="_blank">Typeracer  - Selenium</a></td>
+        <td>Selenium play.typeracer bot</td>
+        <th><a href="https://github.com/biplobsd/typeracer" target="_blank"><img alt="Typeracer  - Selenium" src="https://img.shields.io/github/stars/biplobsd/typeracer?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="GeniA" src="https://gitlibrary.club/images/uploads/2023/08/newshot-GeniA.jpg" /></td>
+        <td>Infrastructure</td>
+        <td>Python</td>
+        <td><a href="https://genia-dev.github.io/GeniA/" target="_blank">GeniA</a></td>
+        <td>Your Engineering Gen AI Team member ???</td>
+        <th><a href="https://github.com/genia-dev/GeniA" target="_blank"><img alt="GeniA" src="https://img.shields.io/github/stars/genia-dev/GeniA?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Refact AI" src="https://gitlibrary.club/images/uploads/2023/08/newshot-refact.png" /></td>
+        <td>Productivity</td>
+        <td>Python</td>
+        <td><a href="https://refact.ai" target="_blank">Refact AI</a></td>
+        <td>? Refact AI: Open-Source Coding Assistant with Fine-Tuning on codebase, autocompletion, code refactoring, code analysis, integrated chat and more! </td>
+        <th><a href="https://github.com/smallcloudai/refact" target="_blank"><img alt="Refact AI" src="https://img.shields.io/github/stars/smallcloudai/refact?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Agency" src="https://gitlibrary.club/images/uploads/2023/08/newshot-agency.jpg" /></td>
+        <td>Miscellaneous</td>
+        <td>Python</td>
+        <td><a href="https://createwith.agency" target="_blank">Agency</a></td>
+        <td>A fast and minimal framework for building agent-integrated systems</td>
+        <th><a href="https://github.com/operand/agency" target="_blank"><img alt="Agency" src="https://img.shields.io/github/stars/operand/agency?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Netgraph" src="https://gitlibrary.club/images/uploads/2023/08/newshot-netgraph.jpg" /></td>
+        <td>Analytics</td>
+        <td>Python</td>
+        <td><a href="https://github.com/paulbrodersen/netgraph" target="_blank">Netgraph</a></td>
+        <td>Publication-quality network visualisations in python</td>
+        <th><a href="https://github.com/paulbrodersen/netgraph" target="_blank"><img alt="Netgraph" src="https://img.shields.io/github/stars/paulbrodersen/netgraph?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="termii_sdk" src="https://gitlibrary.club/images/uploads/2023/08/newshot-termii_sdk.jpg" /></td>
+        <td>Productivity</td>
+        <td>Python</td>
+        <td><a href="https://github.com/prmpsmart/termii_sdk" target="_blank">termii_sdk</a></td>
+        <td>The `termii_sdk` is a Python package that facilitates seamless integration with the Termii API, empowering developers to send SMS, voice, and email messages within their applications.</td>
+        <th><a href="https://github.com/prmpsmart/termii_sdk" target="_blank"><img alt="termii_sdk" src="https://img.shields.io/github/stars/prmpsmart/termii_sdk?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="DeepEval" src="https://gitlibrary.club/images/uploads/2023/08/newshot-deepeval.png" /></td>
+        <td>Observability</td>
+        <td>Python</td>
+        <td><a href="https://docs.confident-ai.com/" target="_blank">DeepEval</a></td>
+        <td>Unit Testing For LLMs</td>
+        <th><a href="https://github.com/confident-ai/deepeval" target="_blank"><img alt="DeepEval" src="https://img.shields.io/github/stars/confident-ai/deepeval?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Tweaked iOS Apps" src="https://gitlibrary.club/images/uploads/2023/09/newshot-Tweaked-iOS-Apps.jpg" /></td>
+        <td>Databases</td>
+        <td>Python</td>
+        <td><a href="https://github.com/purp0s3/Tweaked-iOS-Apps" target="_blank">Tweaked iOS Apps</a></td>
+        <td>Tweaks injected into iOS apps.</td>
+        <th><a href="https://github.com/purp0s3/Tweaked-iOS-Apps" target="_blank"><img alt="Tweaked iOS Apps" src="https://img.shields.io/github/stars/purp0s3/Tweaked-iOS-Apps?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="ezdxf" src="https://gitlibrary.club/images/uploads/2023/09/newshot-ezdxf.png" /></td>
+        <td>Infrastructure</td>
+        <td>Python</td>
+        <td><a href="https://ezdxf.mozman.at" target="_blank">ezdxf</a></td>
+        <td>Python interface to DXF</td>
+        <th><a href="https://github.com/mozman/ezdxf" target="_blank"><img alt="ezdxf" src="https://img.shields.io/github/stars/mozman/ezdxf?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="ezdxf" src="https://gitlibrary.club/images/uploads/2023/09/newshot-ezdxf-1.png" /></td>
+        <td>Infrastructure</td>
+        <td>Python</td>
+        <td><a href="https://ezdxf.mozman.at" target="_blank">ezdxf</a></td>
+        <td>Python interface to DXF</td>
+        <th><a href="https://github.com/mozman/ezdxf" target="_blank"><img alt="ezdxf" src="https://img.shields.io/github/stars/mozman/ezdxf?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="SuPar" src="https://gitlibrary.club/images/uploads/2023/09/newshot-parser.jpg" /></td>
+        <td>Infrastructure</td>
+        <td>Python</td>
+        <td><a href="https://parser.yzhang.site/" target="_blank">SuPar</a></td>
+        <td>? State-of-the-art parsers for natural language.</td>
+        <th><a href="https://github.com/yzhangcs/parser" target="_blank"><img alt="SuPar" src="https://img.shields.io/github/stars/yzhangcs/parser?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="RecoverPy" src="https://gitlibrary.club/images/uploads/2023/09/newshot-RecoverPy.jpg" /></td>
+        <td>Observability</td>
+        <td>Python</td>
+        <td><a href="https://github.com/PabloLec/RecoverPy" target="_blank">RecoverPy</a></td>
+        <td>Interactively find and recover deleted or ? overwritten ? files from your terminal</td>
+        <th><a href="https://github.com/PabloLec/RecoverPy" target="_blank"><img alt="RecoverPy" src="https://img.shields.io/github/stars/PabloLec/RecoverPy?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="kr8s" src="https://gitlibrary.club/images/uploads/2023/09/newshot-kr8s.png" /></td>
+        <td>Infrastructure</td>
+        <td>Python</td>
+        <td><a href="https://kr8s.org" target="_blank">kr8s</a></td>
+        <td>A batteries-included Python client library for Kubernetes that feels familiar for folks who already know how to use kubectl</td>
+        <th><a href="https://github.com/kr8s-org/kr8s" target="_blank"><img alt="kr8s" src="https://img.shields.io/github/stars/kr8s-org/kr8s?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Microsoft 365 & Microsoft Graph Library for Python" src="https://gitlibrary.club/images/uploads/2023/09/newshot-Office365-REST-Python-Client.jpg" /></td>
+        <td>Productivity</td>
+        <td>Python</td>
+        <td><a href="https://github.com/vgrem/Office365-REST-Python-Client" target="_blank">Microsoft 365 & Microsoft Graph Library for Python</a></td>
+        <td>Microsoft 365 &amp; Microsoft Graph Library for Python</td>
+        <th><a href="https://github.com/vgrem/Office365-REST-Python-Client" target="_blank"><img alt="Microsoft 365 & Microsoft Graph Library for Python" src="https://img.shields.io/github/stars/vgrem/Office365-REST-Python-Client?style=social" /></a></th>
+    </tr>
+
+</table>
+
+<br /><br />
 <h2 id="go">Top 20 Go libraries</h2>
 <table>
     <tr>
@@ -10633,868 +11511,6 @@
         <td><a href="https://www.svix.com" target="_blank">Svix Webhooks</a></td>
         <td>The enterprise-ready webhooks service ?</td>
         <th><a href="https://github.com/svix/svix-webhooks" target="_blank"><img alt="Svix Webhooks" src="https://img.shields.io/github/stars/svix/svix-webhooks?style=social" /></a></th>
-    </tr>
-
-</table>
-
-<br /><br />
-<h2 id="python">Top 20 Python libraries</h2>
-<table>
-    <tr>
-        <th>Icon</th>
-        <th>Category</th>
-        <th>Language</th>
-        <th>Name</th>
-        <th>Description</th>
-        <th>Stargazers</th>
-    </tr>
-        <tr>
-        <td nowrap="nowrap"><img width="33" alt="pyaction" src="https://gitlibrary.club/images/uploads/2023/09/newshot-pyaction.jpg" /></td>
-        <td>Infrastructure</td>
-        <td>Python</td>
-        <td><a href="https://actions.cicirello.org/pyaction/" target="_blank">pyaction</a></td>
-        <td>A Docker container with Python, git, and the Github CLI</td>
-        <th><a href="https://github.com/cicirello/pyaction" target="_blank"><img alt="pyaction" src="https://img.shields.io/github/stars/cicirello/pyaction?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="jacoco-badge-generator" src="https://gitlibrary.club/images/uploads/2023/09/newshot-jacoco-badge-generator.jpg" /></td>
-        <td>Analytics</td>
-        <td>Python</td>
-        <td><a href="https://actions.cicirello.org/jacoco-badge-generator/" target="_blank">jacoco-badge-generator</a></td>
-        <td>Coverage badges, and pull request coverage checks, from JaCoCo reports in GitHub Actions</td>
-        <th><a href="https://github.com/cicirello/jacoco-badge-generator" target="_blank"><img alt="jacoco-badge-generator" src="https://img.shields.io/github/stars/cicirello/jacoco-badge-generator?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="user-statistician" src="https://gitlibrary.club/images/uploads/2023/09/newshot-user-statistician.jpg" /></td>
-        <td>Analytics</td>
-        <td>Python</td>
-        <td><a href="https://actions.cicirello.org/user-statistician/" target="_blank">user-statistician</a></td>
-        <td>Generate a GitHub stats SVG for your GitHub Profile README in GitHub Actions</td>
-        <th><a href="https://github.com/cicirello/user-statistician" target="_blank"><img alt="user-statistician" src="https://img.shields.io/github/stars/cicirello/user-statistician?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Keep" src="https://gitlibrary.club/images/uploads/2023/05/newshot-keep-4.png" /></td>
-        <td>Notifications</td>
-        <td>Python</td>
-        <td><a href="https://www.keephq.dev" target="_blank">Keep</a></td>
-        <td>Open source alerting management for software developers.</td>
-        <th><a href="https://github.com/keephq/keep" target="_blank"><img alt="Keep" src="https://img.shields.io/github/stars/keephq/keep?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="generate-sitemap" src="https://gitlibrary.club/images/uploads/2023/09/newshot-generate-sitemap.jpg" /></td>
-        <td>Infrastructure</td>
-        <td>Python</td>
-        <td><a href="https://actions.cicirello.org/generate-sitemap/" target="_blank">generate-sitemap</a></td>
-        <td>Generate an XML sitemap for a GitHub Pages site using GitHub Actions</td>
-        <th><a href="https://github.com/cicirello/generate-sitemap" target="_blank"><img alt="generate-sitemap" src="https://img.shields.io/github/stars/cicirello/generate-sitemap?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="javadoc-cleanup" src="https://gitlibrary.club/images/uploads/2023/09/newshot-javadoc-cleanup.jpg" /></td>
-        <td>Miscellaneous</td>
-        <td>Python</td>
-        <td><a href="https://actions.cicirello.org/javadoc-cleanup/" target="_blank">javadoc-cleanup</a></td>
-        <td>Create mobile-friendly documentation sites by post-processing javadocs in GitHub Actions</td>
-        <th><a href="https://github.com/cicirello/javadoc-cleanup" target="_blank"><img alt="javadoc-cleanup" src="https://img.shields.io/github/stars/cicirello/javadoc-cleanup?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="llm-client" src="https://gitlibrary.club/images/uploads/2023/05/newshot-llm-client-sdk.jpg" /></td>
-        <td>Infrastructure</td>
-        <td>Python</td>
-        <td><a href="https://github.com/uripeled2/llm-client-sdk" target="_blank">llm-client</a></td>
-        <td>SDK for using LLM</td>
-        <th><a href="https://github.com/uripeled2/llm-client-sdk" target="_blank"><img alt="llm-client" src="https://img.shields.io/github/stars/uripeled2/llm-client-sdk?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="trame" src="https://gitlibrary.club/images/uploads/2023/06/newshot-trame.png" /></td>
-        <td>Productivity</td>
-        <td>Python</td>
-        <td><a href="https://kitware.github.io/trame/" target="_blank">trame</a></td>
-        <td>Trame lets you weave various components and technologies into a Web Application solely written in Python.</td>
-        <th><a href="https://github.com/Kitware/trame" target="_blank"><img alt="trame" src="https://img.shields.io/github/stars/Kitware/trame?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Swirl Search" src="https://gitlibrary.club/images/uploads/2023/09/newshot-swirl-search.png" /></td>
-        <td>Infrastructure</td>
-        <td>Python</td>
-        <td><a href="https://github.com/swirlai/swirl-search" target="_blank">Swirl Search</a></td>
-        <td>Swirl queries anything with an API then uses Large Language Models to re-rank the unified results without copying any data! Includes zero-code configs for Apache Solr, ChatGPT, Elastic Search, AWS …</td>
-        <th><a href="https://github.com/swirlai/swirl-search" target="_blank"><img alt="Swirl Search" src="https://img.shields.io/github/stars/swirlai/swirl-search?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="DocsGPT" src="https://gitlibrary.club/images/uploads/2023/05/newshot-DocsGPT.png" /></td>
-        <td>Productivity</td>
-        <td>Python</td>
-        <td><a href="https://docsgpt.arc53.com/" target="_blank">DocsGPT</a></td>
-        <td>GPT-powered chat for documentation search &amp; assistance.</td>
-        <th><a href="https://github.com/arc53/DocsGPT" target="_blank"><img alt="DocsGPT" src="https://img.shields.io/github/stars/arc53/DocsGPT?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Fenv" src="https://gitlibrary.club/images/uploads/2023/07/newshot-Fenv.png" /></td>
-        <td>Miscellaneous</td>
-        <td>Python</td>
-        <td><a href="https://watchakorn-18k.github.io/Fenv/" target="_blank">Fenv</a></td>
-        <td><g-emoji class="g-emoji" alias="fast_forward" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/23e9.png">⏩</g-emoji> Module for Generate a folder, establish a virtual environment with a single command. </td>
-        <th><a href="https://github.com/watchakorn-18k/Fenv" target="_blank"><img alt="Fenv" src="https://img.shields.io/github/stars/watchakorn-18k/Fenv?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="PyCM" src="https://gitlibrary.club/images/uploads/2023/07/newshot-pycm.png" /></td>
-        <td>Miscellaneous</td>
-        <td>Python</td>
-        <td><a href="http://pycm.io" target="_blank">PyCM</a></td>
-        <td>Multi-class confusion matrix library in Python</td>
-        <th><a href="https://github.com/sepandhaghighi/pycm" target="_blank"><img alt="PyCM" src="https://img.shields.io/github/stars/sepandhaghighi/pycm?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Art" src="https://gitlibrary.club/images/uploads/2023/07/newshot-art.png" /></td>
-        <td>Miscellaneous</td>
-        <td>Python</td>
-        <td><a href="https://www.ascii-art.site" target="_blank">Art</a></td>
-        <td><g-emoji class="g-emoji" alias="art" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f3a8.png">?</g-emoji> ASCII art library for Python</td>
-        <th><a href="https://github.com/sepandhaghighi/art" target="_blank"><img alt="Art" src="https://img.shields.io/github/stars/sepandhaghighi/art?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Tiny Python Scripts" src="https://gitlibrary.club/images/uploads/2023/07/newshot-tiny-python-scripts.jpg" /></td>
-        <td>Security</td>
-        <td>Python</td>
-        <td><a href="https://twitter.com/geeknik" target="_blank">Tiny Python Scripts</a></td>
-        <td>Tiny Python Scripts for Everyday Automation</td>
-        <th><a href="https://github.com/geeknik/tiny-python-scripts" target="_blank"><img alt="Tiny Python Scripts" src="https://img.shields.io/github/stars/geeknik/tiny-python-scripts?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Bard Shell" src="https://gitlibrary.club/images/uploads/2023/07/newshot-Bard-Shell.jpg" /></td>
-        <td>Productivity</td>
-        <td>Python</td>
-        <td><a href="https://github.com/kshitijaucharmal/Bard-Shell" target="_blank">Bard Shell</a></td>
-        <td>Bard-Shell is a utility that allows you to use google's Bard ai in the linux terminal</td>
-        <th><a href="https://github.com/kshitijaucharmal/Bard-Shell" target="_blank"><img alt="Bard Shell" src="https://img.shields.io/github/stars/kshitijaucharmal/Bard-Shell?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="TextRL" src="https://gitlibrary.club/images/uploads/2023/07/newshot-TextRL.png" /></td>
-        <td>Productivity</td>
-        <td>Python</td>
-        <td><a href="https://github.com/voidful/TextRL" target="_blank">TextRL</a></td>
-        <td>Implementation of ChatGPT RLHF (Reinforcement Learning with Human Feedback) on any generation model in huggingface's transformer (blommz-176B/bloom/gpt/bart/T5/MetaICL)</td>
-        <th><a href="https://github.com/voidful/TextRL" target="_blank"><img alt="TextRL" src="https://img.shields.io/github/stars/voidful/TextRL?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Prism" src="https://gitlibrary.club/images/uploads/2023/07/newshot-prism.png" /></td>
-        <td>Analytics</td>
-        <td>Python</td>
-        <td><a href="https://runprism.com" target="_blank">Prism</a></td>
-        <td>Prism is the easiest way to develop, orchestrate, and execute data pipelines in Python.</td>
-        <th><a href="https://github.com/runprism/prism" target="_blank"><img alt="Prism" src="https://img.shields.io/github/stars/runprism/prism?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="GoogleTranslate_IPFinder" src="https://gitlibrary.club/images/uploads/2023/08/newshot-GoogleTranslate_IPFinder.png" /></td>
-        <td>Productivity</td>
-        <td>Python</td>
-        <td><a href="https://github.com/GoodCoder666/GoogleTranslate_IPFinder" target="_blank">GoogleTranslate_IPFinder</a></td>
-        <td>谷歌翻译服务器在中国大陆的IP地址扫描、测速工具，支持GUI图形界面。</td>
-        <th><a href="https://github.com/GoodCoder666/GoogleTranslate_IPFinder" target="_blank"><img alt="GoogleTranslate_IPFinder" src="https://img.shields.io/github/stars/GoodCoder666/GoogleTranslate_IPFinder?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="TinyTuya" src="https://gitlibrary.club/images/uploads/2023/08/newshot-tinytuya.jpg" /></td>
-        <td>Infrastructure</td>
-        <td>Python</td>
-        <td><a href="https://github.com/jasonacox/tinytuya" target="_blank">TinyTuya</a></td>
-        <td>Python API for Tuya WiFi smart devices using a direct local area network (LAN) connection or the cloud (TuyaCloud API).</td>
-        <th><a href="https://github.com/jasonacox/tinytuya" target="_blank"><img alt="TinyTuya" src="https://img.shields.io/github/stars/jasonacox/tinytuya?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="PFL-Non-IID" src="https://gitlibrary.club/images/uploads/2023/08/newshot-PFL-Non-IID.jpg" /></td>
-        <td>Infrastructure</td>
-        <td>Python</td>
-        <td><a href="https://github.com/TsingZ0/PFL-Non-IID" target="_blank">PFL-Non-IID</a></td>
-        <td>Personalized federated learning simulation platform with non-IID and unbalanced dataset</td>
-        <th><a href="https://github.com/TsingZ0/PFL-Non-IID" target="_blank"><img alt="PFL-Non-IID" src="https://img.shields.io/github/stars/TsingZ0/PFL-Non-IID?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="count-action-users" src="https://gitlibrary.club/images/uploads/2023/08/newshot-count-action-users.jpg" /></td>
-        <td>Analytics</td>
-        <td>Python</td>
-        <td><a href="https://actions.cicirello.org/count-action-users/" target="_blank">count-action-users</a></td>
-        <td>Generates Shields endpoint with number of users of a GitHub Action</td>
-        <th><a href="https://github.com/cicirello/count-action-users" target="_blank"><img alt="count-action-users" src="https://img.shields.io/github/stars/cicirello/count-action-users?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Haly AI" src="https://gitlibrary.club/images/uploads/2023/09/newshot-slack-bot.png" /></td>
-        <td>Collaboration</td>
-        <td>Python</td>
-        <td><a href="https://haly.ai" target="_blank">Haly AI</a></td>
-        <td>Haly AI Slack Bot. A GPT powered chatbot that can answer questions about your organization using semantic search.</td>
-        <th><a href="https://github.com/UpMortem/slack-bot" target="_blank"><img alt="Haly AI" src="https://img.shields.io/github/stars/UpMortem/slack-bot?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="pyatv" src="https://gitlibrary.club/images/uploads/2023/09/newshot-pyatv.jpg" /></td>
-        <td>Miscellaneous</td>
-        <td>Python</td>
-        <td><a href="https://pyatv.dev" target="_blank">pyatv</a></td>
-        <td>A client library for Apple TV and AirPlay devices</td>
-        <th><a href="https://github.com/postlund/pyatv" target="_blank"><img alt="pyatv" src="https://img.shields.io/github/stars/postlund/pyatv?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="ClusterFuzz" src="https://gitlibrary.club/images/uploads/2023/05/newshot-clusterfuzz.png" /></td>
-        <td>Infrastructure</td>
-        <td>Python</td>
-        <td><a href="https://google.github.io/clusterfuzz" target="_blank">ClusterFuzz</a></td>
-        <td>Scalable fuzzing infrastructure.</td>
-        <th><a href="https://github.com/google/clusterfuzz" target="_blank"><img alt="ClusterFuzz" src="https://img.shields.io/github/stars/google/clusterfuzz?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Frappe Framework" src="https://gitlibrary.club/images/uploads/2023/05/newshot-frappe.png" /></td>
-        <td>Infrastructure</td>
-        <td>Python</td>
-        <td><a href="https://frappeframework.com" target="_blank">Frappe Framework</a></td>
-        <td>Low code web framework for real world applications, in Python and Javascript</td>
-        <th><a href="https://github.com/frappe/frappe" target="_blank"><img alt="Frappe Framework" src="https://img.shields.io/github/stars/frappe/frappe?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Musician's Friend" src="https://gitlibrary.club/images/uploads/2023/05/newshot-mmf.png" /></td>
-        <td>Infrastructure</td>
-        <td>Python</td>
-        <td><a href="https://mmf.sh/" target="_blank">Musician's Friend</a></td>
-        <td>A modular framework for vision &amp; language multimodal research from Facebook AI Research (FAIR)</td>
-        <th><a href="https://github.com/facebookresearch/mmf" target="_blank"><img alt="Musician's Friend" src="https://img.shields.io/github/stars/facebookresearch/mmf?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Flet" src="https://gitlibrary.club/images/uploads/2023/05/newshot-flet.png" /></td>
-        <td>Productivity</td>
-        <td>Python</td>
-        <td><a href="https://flet.dev" target="_blank">Flet</a></td>
-        <td>Flet enables developers to easily build realtime web, mobile and desktop apps in Python. No frontend experience required.</td>
-        <th><a href="https://github.com/flet-dev/flet" target="_blank"><img alt="Flet" src="https://img.shields.io/github/stars/flet-dev/flet?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Waydroid" src="https://gitlibrary.club/images/uploads/2023/05/newshot-waydroid.png" /></td>
-        <td>Infrastructure</td>
-        <td>Python</td>
-        <td><a href="https://waydro.id" target="_blank">Waydroid</a></td>
-        <td>Waydroid uses a container-based approach to boot a full Android system on a regular GNU/Linux system like Ubuntu.</td>
-        <th><a href="https://github.com/waydroid/waydroid" target="_blank"><img alt="Waydroid" src="https://img.shields.io/github/stars/waydroid/waydroid?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Snorkel AI" src="https://gitlibrary.club/images/uploads/2023/05/newshot-snorkel.png" /></td>
-        <td>Productivity</td>
-        <td>Python</td>
-        <td><a href="https://snorkel.org" target="_blank">Snorkel AI</a></td>
-        <td>A system for quickly generating training data with weak supervision</td>
-        <th><a href="https://github.com/snorkel-team/snorkel" target="_blank"><img alt="Snorkel AI" src="https://img.shields.io/github/stars/snorkel-team/snorkel?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="StackStorm" src="https://gitlibrary.club/images/uploads/2023/05/newshot-st2.jpg" /></td>
-        <td>Collaboration</td>
-        <td>Python</td>
-        <td><a href="https://stackstorm.com/" target="_blank">StackStorm</a></td>
-        <td>StackStorm (aka "IFTTT for Ops") is event-driven automation for auto-remediation, incident responses, troubleshooting, deployments, and more for DevOps and SREs. Includes rules engine, workflow, 16…</td>
-        <th><a href="https://github.com/StackStorm/st2" target="_blank"><img alt="StackStorm" src="https://img.shields.io/github/stars/StackStorm/st2?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="GitHub" src="https://gitlibrary.club/images/uploads/2023/05/newshot-pwndbg.png" /></td>
-        <td>Security</td>
-        <td>Python</td>
-        <td><a href="https://pwndbg.com/" target="_blank">GitHub</a></td>
-        <td>Exploit Development and Reverse Engineering with GDB Made Easy</td>
-        <th><a href="https://github.com/pwndbg/pwndbg" target="_blank"><img alt="GitHub" src="https://img.shields.io/github/stars/pwndbg/pwndbg?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="pypdf" src="https://gitlibrary.club/images/uploads/2023/05/newshot-pypdf.png" /></td>
-        <td>Databases</td>
-        <td>Python</td>
-        <td><a href="https://pypdf.readthedocs.io/en/latest/" target="_blank">pypdf</a></td>
-        <td>A pure-python PDF library capable of splitting, merging, cropping, and transforming the pages of PDF files</td>
-        <th><a href="https://github.com/py-pdf/pypdf" target="_blank"><img alt="pypdf" src="https://img.shields.io/github/stars/py-pdf/pypdf?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="PyCQA/isort" src="https://gitlibrary.club/images/uploads/2023/05/newshot-isort.jpg" /></td>
-        <td>Productivity</td>
-        <td>Python</td>
-        <td><a href="https://pycqa.github.io/isort/" target="_blank">PyCQA/isort</a></td>
-        <td>A Python utility / library to sort imports.</td>
-        <th><a href="https://github.com/PyCQA/isort" target="_blank"><img alt="PyCQA/isort" src="https://img.shields.io/github/stars/PyCQA/isort?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Librosa" src="https://gitlibrary.club/images/uploads/2023/05/newshot-librosa.png" /></td>
-        <td>Analytics</td>
-        <td>Python</td>
-        <td><a href="https://librosa.org/" target="_blank">Librosa</a></td>
-        <td>Python library for audio and music analysis</td>
-        <th><a href="https://github.com/librosa/librosa" target="_blank"><img alt="Librosa" src="https://img.shields.io/github/stars/librosa/librosa?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="PyGithub" src="https://gitlibrary.club/images/uploads/2023/05/newshot-PyGithub.png" /></td>
-        <td>Databases</td>
-        <td>Python</td>
-        <td><a href="https://pygithub.readthedocs.io/" target="_blank">PyGithub</a></td>
-        <td>Typed interactions with the GitHub API v3</td>
-        <th><a href="https://github.com/PyGithub/PyGithub" target="_blank"><img alt="PyGithub" src="https://img.shields.io/github/stars/PyGithub/PyGithub?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="OpenNMT" src="https://gitlibrary.club/images/uploads/2023/05/newshot-OpenNMT-py.png" /></td>
-        <td>Productivity</td>
-        <td>Python</td>
-        <td><a href="https://opennmt.net/" target="_blank">OpenNMT</a></td>
-        <td>Open Source Neural Machine Translation in PyTorch</td>
-        <th><a href="https://github.com/OpenNMT/OpenNMT-py" target="_blank"><img alt="OpenNMT" src="https://img.shields.io/github/stars/OpenNMT/OpenNMT-py?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="sqlfluff/sqlfluff" src="https://gitlibrary.club/images/uploads/2023/05/newshot-sqlfluff.png" /></td>
-        <td>Databases</td>
-        <td>Python</td>
-        <td><a href="https://www.sqlfluff.com" target="_blank">sqlfluff/sqlfluff</a></td>
-        <td>A modular SQL linter and auto-formatter with support for multiple dialects and templated code.</td>
-        <th><a href="https://github.com/sqlfluff/sqlfluff" target="_blank"><img alt="sqlfluff/sqlfluff" src="https://img.shields.io/github/stars/sqlfluff/sqlfluff?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Chroma" src="https://gitlibrary.club/images/uploads/2023/05/newshot-chroma-1.png" /></td>
-        <td>Databases</td>
-        <td>Python</td>
-        <td><a href="https://www.trychroma.com/" target="_blank">Chroma</a></td>
-        <td>the AI-native open-source embedding database</td>
-        <th><a href="https://github.com/chroma-core/chroma" target="_blank"><img alt="Chroma" src="https://img.shields.io/github/stars/chroma-core/chroma?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Conda" src="https://gitlibrary.club/images/uploads/2023/05/newshot-conda-1.png" /></td>
-        <td>Infrastructure</td>
-        <td>Python</td>
-        <td><a href="https://docs.conda.io/projects/conda/" target="_blank">Conda</a></td>
-        <td>A system-level, binary package and environment manager running on all major operating systems and platforms.</td>
-        <th><a href="https://github.com/conda/conda" target="_blank"><img alt="Conda" src="https://img.shields.io/github/stars/conda/conda?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="OnionShare" src="https://gitlibrary.club/images/uploads/2023/05/newshot-onionshare-1.png" /></td>
-        <td>Security</td>
-        <td>Python</td>
-        <td><a href="https://onionshare.org/" target="_blank">OnionShare</a></td>
-        <td>Securely and anonymously share files, host websites, and chat with friends using the Tor network</td>
-        <th><a href="https://github.com/onionshare/onionshare" target="_blank"><img alt="OnionShare" src="https://img.shields.io/github/stars/onionshare/onionshare?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Akamai" src="https://gitlibrary.club/images/uploads/2023/05/newshot-monkey-1.jpg" /></td>
-        <td>Security</td>
-        <td>Python</td>
-        <td><a href="https://www.guardicore.com/infectionmonkey/" target="_blank">Akamai</a></td>
-        <td>Infection Monkey - An open-source adversary emulation platform</td>
-        <th><a href="https://github.com/guardicore/monkey" target="_blank"><img alt="Akamai" src="https://img.shields.io/github/stars/guardicore/monkey?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="DeepPavlov" src="https://gitlibrary.club/images/uploads/2023/05/newshot-DeepPavlov.png" /></td>
-        <td>Collaboration</td>
-        <td>Python</td>
-        <td><a href="https://deeppavlov.ai" target="_blank">DeepPavlov</a></td>
-        <td>An open source library for deep learning end-to-end dialog systems and chatbots.</td>
-        <th><a href="https://github.com/deeppavlov/DeepPavlov" target="_blank"><img alt="DeepPavlov" src="https://img.shields.io/github/stars/deeppavlov/DeepPavlov?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="scikit-image" src="https://gitlibrary.club/images/uploads/2023/05/newshot-scikit-image-2.png" /></td>
-        <td>Productivity</td>
-        <td>Python</td>
-        <td><a href="https://scikit-image.org" target="_blank">scikit-image</a></td>
-        <td>Image processing in Python</td>
-        <th><a href="https://github.com/scikit-image/scikit-image" target="_blank"><img alt="scikit-image" src="https://img.shields.io/github/stars/scikit-image/scikit-image?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Taiga" src="https://gitlibrary.club/images/uploads/2023/05/newshot-taiga-back-2.png" /></td>
-        <td>Collaboration</td>
-        <td>Python</td>
-        <td><a href="http://taiga.io" target="_blank">Taiga</a></td>
-        <td>Agile project management platform. Built on top of Django and AngularJS</td>
-        <th><a href="https://github.com/taigaio/taiga-back" target="_blank"><img alt="Taiga" src="https://img.shields.io/github/stars/taigaio/taiga-back?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Our World in Data" src="https://gitlibrary.club/images/uploads/2023/05/newshot-covid-19-data-3.png" /></td>
-        <td>Databases</td>
-        <td>Python</td>
-        <td><a href="https://ourworldindata.org/coronavirus" target="_blank">Our World in Data</a></td>
-        <td>Data on COVID-19 (coronavirus) cases, deaths, hospitalizations, tests • All countries • Updated daily by Our World in Data</td>
-        <th><a href="https://github.com/owid/covid-19-data" target="_blank"><img alt="Our World in Data" src="https://img.shields.io/github/stars/owid/covid-19-data?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="AutoGluon Documentation" src="https://gitlibrary.club/images/uploads/2023/05/newshot-autogluon-1.png" /></td>
-        <td>Productivity</td>
-        <td>Python</td>
-        <td><a href="https://auto.gluon.ai/" target="_blank">AutoGluon Documentation</a></td>
-        <td>AutoGluon: AutoML for Image, Text, Time Series, and Tabular Data</td>
-        <th><a href="https://github.com/autogluon/autogluon" target="_blank"><img alt="AutoGluon Documentation" src="https://img.shields.io/github/stars/autogluon/autogluon?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="MkDocs" src="https://gitlibrary.club/images/uploads/2023/05/newshot-mkdocs-2.png" /></td>
-        <td>Productivity</td>
-        <td>Python</td>
-        <td><a href="https://www.mkdocs.org" target="_blank">MkDocs</a></td>
-        <td>Project documentation with Markdown.</td>
-        <th><a href="https://github.com/mkdocs/mkdocs" target="_blank"><img alt="MkDocs" src="https://img.shields.io/github/stars/mkdocs/mkdocs?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="PDM" src="https://gitlibrary.club/images/uploads/2023/05/newshot-pdm.png" /></td>
-        <td>Productivity</td>
-        <td>Python</td>
-        <td><a href="https://pdm.fming.dev" target="_blank">PDM</a></td>
-        <td>A modern Python package and dependency manager supporting the latest PEP standards</td>
-        <th><a href="https://github.com/pdm-project/pdm" target="_blank"><img alt="PDM" src="https://img.shields.io/github/stars/pdm-project/pdm?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Robby-chatbot" src="https://gitlibrary.club/images/uploads/2023/05/newshot-Robby-chatbot.jpg" /></td>
-        <td>Productivity</td>
-        <td>Python</td>
-        <td><a href="https://robby-chatbot.com" target="_blank">Robby-chatbot</a></td>
-        <td>AI chatbot <g-emoji class="g-emoji" alias="robot" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f916.png">?</g-emoji> for chat with your CSV, PDF, TXT files <g-emoji class="g-emoji" alias="page_facing_up" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4c4.png">?</g-emoji> | using Langchain<g-emoji class="g-emoji" alias="parrot" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f99c.png">?</g-emoji> | OpenAI | Streamlit <g-emoji class="g-emoji" alias="zap" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/26a1.png">⚡</g-emoji></td>
-        <th><a href="https://github.com/yvann-hub/Robby-chatbot" target="_blank"><img alt="Robby-chatbot" src="https://img.shields.io/github/stars/yvann-hub/Robby-chatbot?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="scalecast" src="https://gitlibrary.club/images/uploads/2023/06/newshot-scalecast.jpg" /></td>
-        <td>Analytics</td>
-        <td>Python</td>
-        <td><a href="https://github.com/mikekeith52/scalecast" target="_blank">scalecast</a></td>
-        <td>The practitioner's forecasting library</td>
-        <th><a href="https://github.com/mikekeith52/scalecast" target="_blank"><img alt="scalecast" src="https://img.shields.io/github/stars/mikekeith52/scalecast?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Futu Algo" src="https://gitlibrary.club/images/uploads/2023/06/newshot-futu_algo.png" /></td>
-        <td>Analytics</td>
-        <td>Python</td>
-        <td><a href="https://github.com/billpwchan/futu_algo" target="_blank">Futu Algo</a></td>
-        <td>Futu Algorithmic Trading Solution (Python) 基於富途OpenAPI所開發量化交易程序</td>
-        <th><a href="https://github.com/billpwchan/futu_algo" target="_blank"><img alt="Futu Algo" src="https://img.shields.io/github/stars/billpwchan/futu_algo?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="py3-pinterest" src="https://gitlibrary.club/images/uploads/2023/06/newshot-py3-pinterest.jpg" /></td>
-        <td>Miscellaneous</td>
-        <td>Python</td>
-        <td><a href="https://github.com/bstoilov/py3-pinterest" target="_blank">py3-pinterest</a></td>
-        <td>Fully fledged Python Pinterest client</td>
-        <th><a href="https://github.com/bstoilov/py3-pinterest" target="_blank"><img alt="py3-pinterest" src="https://img.shields.io/github/stars/bstoilov/py3-pinterest?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Neural Gauge Fields" src="https://gitlibrary.club/images/uploads/2023/07/newshot-Neural-Gauge-Fields.jpg" /></td>
-        <td>Miscellaneous</td>
-        <td>Python</td>
-        <td><a href="https://fnzhan.com/neural-gauge-fields" target="_blank">Neural Gauge Fields</a></td>
-        <td>General Neural Gauge Fields [ICLR 2023]</td>
-        <th><a href="https://github.com/fnzhan/Neural-Gauge-Fields" target="_blank"><img alt="Neural Gauge Fields" src="https://img.shields.io/github/stars/fnzhan/Neural-Gauge-Fields?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Vision-transformers-cifar10" src="https://gitlibrary.club/images/uploads/2023/07/newshot-vision-transformers-cifar10.jpg" /></td>
-        <td>Analytics</td>
-        <td>Python</td>
-        <td><a href="https://github.com/kentaroy47/vision-transformers-cifar10" target="_blank">Vision-transformers-cifar10</a></td>
-        <td>Let's train vision transformers (ViT) for cifar 10! </td>
-        <th><a href="https://github.com/kentaroy47/vision-transformers-cifar10" target="_blank"><img alt="Vision-transformers-cifar10" src="https://img.shields.io/github/stars/kentaroy47/vision-transformers-cifar10?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="SMOGN: Synthetic Minority Over-Sampling Technique for Regression with Gaussian Noise" src="https://gitlibrary.club/images/uploads/2023/07/newshot-smogn.jpg" /></td>
-        <td>Analytics</td>
-        <td>Python</td>
-        <td><a href="https://pypi.org/project/smogn" target="_blank">SMOGN: Synthetic Minority Over-Sampling Technique for Regression with Gaussian Noise</a></td>
-        <td>Synthetic Minority Over-Sampling Technique for Regression</td>
-        <th><a href="https://github.com/nickkunz/smogn" target="_blank"><img alt="SMOGN: Synthetic Minority Over-Sampling Technique for Regression with Gaussian Noise" src="https://img.shields.io/github/stars/nickkunz/smogn?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="HumanML3D" src="https://gitlibrary.club/images/uploads/2023/07/newshot-HumanML3D.jpg" /></td>
-        <td>Productivity</td>
-        <td>Python</td>
-        <td><a href="https://github.com/EricGuo5513/HumanML3D" target="_blank">HumanML3D</a></td>
-        <td>HumanML3D: A large and diverse 3d human motion-language dataset.</td>
-        <th><a href="https://github.com/EricGuo5513/HumanML3D" target="_blank"><img alt="HumanML3D" src="https://img.shields.io/github/stars/EricGuo5513/HumanML3D?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="PyPOTS" src="https://gitlibrary.club/images/uploads/2023/07/newshot-PyPOTS.jpg" /></td>
-        <td>Analytics</td>
-        <td>Python</td>
-        <td><a href="https://pypots.com" target="_blank">PyPOTS</a></td>
-        <td>A python toolbox/library for data mining on partially-observed time series with PyTorch, including SOTA models supporting tasks of imputation, classification, clustering, and forecasting on incompl…</td>
-        <th><a href="https://github.com/WenjieDu/PyPOTS" target="_blank"><img alt="PyPOTS" src="https://img.shields.io/github/stars/WenjieDu/PyPOTS?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="qtrader" src="https://gitlibrary.club/images/uploads/2023/07/newshot-qtrader.jpg" /></td>
-        <td>Analytics</td>
-        <td>Python</td>
-        <td><a href="https://github.com/josephchenhk/qtrader" target="_blank">qtrader</a></td>
-        <td>A Light Event-Driven Algorithmic Trading Engine</td>
-        <th><a href="https://github.com/josephchenhk/qtrader" target="_blank"><img alt="qtrader" src="https://img.shields.io/github/stars/josephchenhk/qtrader?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="ScienceQA" src="https://gitlibrary.club/images/uploads/2023/07/newshot-ScienceQA.jpg" /></td>
-        <td>Miscellaneous</td>
-        <td>Python</td>
-        <td><a href="https://github.com/lupantech/ScienceQA" target="_blank">ScienceQA</a></td>
-        <td>Data and code for NeurIPS 2022 Paper "Learn to Explain: Multimodal Reasoning via Thought Chains for Science Question Answering".</td>
-        <th><a href="https://github.com/lupantech/ScienceQA" target="_blank"><img alt="ScienceQA" src="https://img.shields.io/github/stars/lupantech/ScienceQA?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Apprise API" src="https://gitlibrary.club/images/uploads/2023/07/newshot-apprise-api.png" /></td>
-        <td>Productivity</td>
-        <td>Python</td>
-        <td><a href="https://hub.docker.com/r/caronc/apprise" target="_blank">Apprise API</a></td>
-        <td>A lightweight REST framework that wraps the Apprise Notification Library</td>
-        <th><a href="https://github.com/caronc/apprise-api" target="_blank"><img alt="Apprise API" src="https://img.shields.io/github/stars/caronc/apprise-api?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="C code style" src="https://gitlibrary.club/images/uploads/2023/07/newshot-c-code-style.jpg" /></td>
-        <td>Productivity</td>
-        <td>Python</td>
-        <td><a href="http://majerle.eu" target="_blank">C code style</a></td>
-        <td>Recommended C code style and coding rules for standard C99 or later</td>
-        <th><a href="https://github.com/MaJerle/c-code-style" target="_blank"><img alt="C code style" src="https://img.shields.io/github/stars/MaJerle/c-code-style?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="python-benedict" src="https://gitlibrary.club/images/uploads/2023/07/newshot-python-benedict.jpg" /></td>
-        <td>Miscellaneous</td>
-        <td>Python</td>
-        <td><a href="https://github.com/fabiocaccamo/python-benedict" target="_blank">python-benedict</a></td>
-        <td><g-emoji class="g-emoji" alias="blue_book" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4d8.png">?</g-emoji> dict subclass with keylist/keypath support, built-in I/O operations (base64, csv, ini, json, pickle, plist, query-string, toml, xls, xml, yaml), s3 support and many utilities.</td>
-        <th><a href="https://github.com/fabiocaccamo/python-benedict" target="_blank"><img alt="python-benedict" src="https://img.shields.io/github/stars/fabiocaccamo/python-benedict?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="django-colorfield" src="https://gitlibrary.club/images/uploads/2023/07/newshot-django-colorfield-1.jpg" /></td>
-        <td>Miscellaneous</td>
-        <td>Python</td>
-        <td><a href="https://github.com/fabiocaccamo/django-colorfield" target="_blank">django-colorfield</a></td>
-        <td><g-emoji class="g-emoji" alias="art" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f3a8.png">?</g-emoji> color field for django models with a nice color-picker in the admin.</td>
-        <th><a href="https://github.com/fabiocaccamo/django-colorfield" target="_blank"><img alt="django-colorfield" src="https://img.shields.io/github/stars/fabiocaccamo/django-colorfield?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="django-treenode" src="https://gitlibrary.club/images/uploads/2023/07/newshot-django-treenode.jpg" /></td>
-        <td>Miscellaneous</td>
-        <td>Python</td>
-        <td><a href="https://github.com/fabiocaccamo/django-treenode" target="_blank">django-treenode</a></td>
-        <td><g-emoji class="g-emoji" alias="deciduous_tree" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f333.png">?</g-emoji> probably the best abstract model/admin for your tree based stuff.</td>
-        <th><a href="https://github.com/fabiocaccamo/django-treenode" target="_blank"><img alt="django-treenode" src="https://img.shields.io/github/stars/fabiocaccamo/django-treenode?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="django-maintenance-mode" src="https://gitlibrary.club/images/uploads/2023/07/newshot-django-maintenance-mode.jpg" /></td>
-        <td>Miscellaneous</td>
-        <td>Python</td>
-        <td><a href="https://github.com/fabiocaccamo/django-maintenance-mode" target="_blank">django-maintenance-mode</a></td>
-        <td><g-emoji class="g-emoji" alias="construction" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f6a7.png">?</g-emoji> <g-emoji class="g-emoji" alias="hammer_and_wrench" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f6e0.png">?️</g-emoji> shows a 503 error page when maintenance-mode is on.</td>
-        <th><a href="https://github.com/fabiocaccamo/django-maintenance-mode" target="_blank"><img alt="django-maintenance-mode" src="https://img.shields.io/github/stars/fabiocaccamo/django-maintenance-mode?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="django-extra-settings" src="https://gitlibrary.club/images/uploads/2023/07/newshot-django-extra-settings-1.jpg" /></td>
-        <td>Miscellaneous</td>
-        <td>Python</td>
-        <td><a href="https://github.com/fabiocaccamo/django-extra-settings" target="_blank">django-extra-settings</a></td>
-        <td><g-emoji class="g-emoji" alias="gear" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2699.png">⚙️</g-emoji> config and manage typed extra settings using just the django admin.</td>
-        <th><a href="https://github.com/fabiocaccamo/django-extra-settings" target="_blank"><img alt="django-extra-settings" src="https://img.shields.io/github/stars/fabiocaccamo/django-extra-settings?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="python-fsutil" src="https://gitlibrary.club/images/uploads/2023/07/newshot-python-fsutil.jpg" /></td>
-        <td>Miscellaneous</td>
-        <td>Python</td>
-        <td><a href="https://github.com/fabiocaccamo/python-fsutil" target="_blank">python-fsutil</a></td>
-        <td><g-emoji class="g-emoji" alias="computer" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4bb.png">?</g-emoji> <g-emoji class="g-emoji" alias="wrench" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f527.png">?</g-emoji> high-level file-system operations for lazy devs.</td>
-        <th><a href="https://github.com/fabiocaccamo/python-fsutil" target="_blank"><img alt="python-fsutil" src="https://img.shields.io/github/stars/fabiocaccamo/python-fsutil?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="django-freeze" src="https://gitlibrary.club/images/uploads/2023/07/newshot-django-freeze.jpg" /></td>
-        <td>Miscellaneous</td>
-        <td>Python</td>
-        <td><a href="https://github.com/fabiocaccamo/django-freeze" target="_blank">django-freeze</a></td>
-        <td><g-emoji class="g-emoji" alias="ice_cube" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f9ca.png">?</g-emoji> convert your dynamic django site to a static one with one line of code.</td>
-        <th><a href="https://github.com/fabiocaccamo/django-freeze" target="_blank"><img alt="django-freeze" src="https://img.shields.io/github/stars/fabiocaccamo/django-freeze?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="python-codicefiscale" src="https://gitlibrary.club/images/uploads/2023/07/newshot-python-codicefiscale.jpg" /></td>
-        <td>Miscellaneous</td>
-        <td>Python</td>
-        <td><a href="https://github.com/fabiocaccamo/python-codicefiscale" target="_blank">python-codicefiscale</a></td>
-        <td><g-emoji class="g-emoji" alias="it" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f1ee-1f1f9.png">??</g-emoji> <g-emoji class="g-emoji" alias="credit_card" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4b3.png">?</g-emoji> italian fiscal codes encoding, decoding and validation - codifica, decodifica e validazione del Codice Fiscale italiano.</td>
-        <th><a href="https://github.com/fabiocaccamo/python-codicefiscale" target="_blank"><img alt="python-codicefiscale" src="https://img.shields.io/github/stars/fabiocaccamo/python-codicefiscale?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="django-redirects" src="https://gitlibrary.club/images/uploads/2023/07/newshot-django-redirects.jpg" /></td>
-        <td>Miscellaneous</td>
-        <td>Python</td>
-        <td><a href="https://github.com/fabiocaccamo/django-redirects" target="_blank">django-redirects</a></td>
-        <td> <g-emoji class="g-emoji" alias="arrow_right_hook" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/21aa.png">↪️</g-emoji> <g-emoji class="g-emoji" alias="white_check_mark" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2705.png">✅</g-emoji> redirects as they should be, with full control.</td>
-        <th><a href="https://github.com/fabiocaccamo/django-redirects" target="_blank"><img alt="django-redirects" src="https://img.shields.io/github/stars/fabiocaccamo/django-redirects?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Blender Toolbox" src="https://gitlibrary.club/images/uploads/2023/07/newshot-BlenderToolbox.jpg" /></td>
-        <td>Productivity</td>
-        <td>Python</td>
-        <td><a href="https://github.com/HTDerekLiu/BlenderToolbox" target="_blank">Blender Toolbox</a></td>
-        <td>Some simple Blender scripts for rendering paper figures</td>
-        <th><a href="https://github.com/HTDerekLiu/BlenderToolbox" target="_blank"><img alt="Blender Toolbox" src="https://img.shields.io/github/stars/HTDerekLiu/BlenderToolbox?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="langchain-visualizer" src="https://gitlibrary.club/images/uploads/2023/07/newshot-langchain-visualizer.jpg" /></td>
-        <td>Observability</td>
-        <td>Python</td>
-        <td><a href="https://github.com/amosjyng/langchain-visualizer" target="_blank">langchain-visualizer</a></td>
-        <td>Visualization and debugging tool for LangChain workflows</td>
-        <th><a href="https://github.com/amosjyng/langchain-visualizer" target="_blank"><img alt="langchain-visualizer" src="https://img.shields.io/github/stars/amosjyng/langchain-visualizer?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="CTF Archives" src="https://gitlibrary.club/images/uploads/2023/07/newshot-ctf-archives.jpg" /></td>
-        <td>Security</td>
-        <td>Python</td>
-        <td><a href="https://twitter.com/sajjadium" target="_blank">CTF Archives</a></td>
-        <td> CTF Archives: Collection of CTF Challenges.</td>
-        <th><a href="https://github.com/sajjadium/ctf-archives" target="_blank"><img alt="CTF Archives" src="https://img.shields.io/github/stars/sajjadium/ctf-archives?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="DeepCrawling" src="https://gitlibrary.club/images/uploads/2023/07/newshot-DeepCrawling.jpg" /></td>
-        <td>Security</td>
-        <td>Python</td>
-        <td><a href="https://twitter.com/sajjadium" target="_blank">DeepCrawling</a></td>
-        <td>Crawlium (DeepCrawling): A crawling platform based on Chrome (Chromium) browser to get a deeper look into the ecosystem of content inclusion on the Web.</td>
-        <th><a href="https://github.com/sajjadium/DeepCrawling" target="_blank"><img alt="DeepCrawling" src="https://img.shields.io/github/stars/sajjadium/DeepCrawling?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Resume Matcher" src="https://gitlibrary.club/images/uploads/2023/08/newshot-Resume-Matcher.jpg" /></td>
-        <td>Productivity</td>
-        <td>Python</td>
-        <td><a href="https://www.resumematcher.fyi/" target="_blank">Resume Matcher</a></td>
-        <td>Open Source Free ATS Tool to compare Resumes with Job Descriptions and create a score to rank them.</td>
-        <th><a href="https://github.com/srbhr/Resume-Matcher" target="_blank"><img alt="Resume Matcher" src="https://img.shields.io/github/stars/srbhr/Resume-Matcher?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Botflix" src="https://gitlibrary.club/images/uploads/2023/08/newshot-Botflix.jpg" /></td>
-        <td>Analytics</td>
-        <td>Python</td>
-        <td><a href="https://github.com/kaboussi/Botflix" target="_blank">Botflix</a></td>
-        <td>? Stream your favorite movie from the terminal!</td>
-        <th><a href="https://github.com/kaboussi/Botflix" target="_blank"><img alt="Botflix" src="https://img.shields.io/github/stars/kaboussi/Botflix?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="MyTimer" src="https://gitlibrary.club/images/uploads/2023/08/newshot-mytimer.png" /></td>
-        <td>Miscellaneous</td>
-        <td>Python</td>
-        <td><a href="https://github.com/sepandhaghighi/mytimer" target="_blank">MyTimer</a></td>
-        <td>A Geeky Timer for Terminal Enthusiasts</td>
-        <th><a href="https://github.com/sepandhaghighi/mytimer" target="_blank"><img alt="MyTimer" src="https://img.shields.io/github/stars/sepandhaghighi/mytimer?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="PyRGG" src="https://gitlibrary.club/images/uploads/2023/08/newshot-pyrgg.png" /></td>
-        <td>Miscellaneous</td>
-        <td>Python</td>
-        <td><a href="https://www.pyrgg.ir" target="_blank">PyRGG</a></td>
-        <td><g-emoji class="g-emoji" alias="wrench" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f527.png">?</g-emoji> Python Random Graph Generator</td>
-        <th><a href="https://github.com/sepandhaghighi/pyrgg" target="_blank"><img alt="PyRGG" src="https://img.shields.io/github/stars/sepandhaghighi/pyrgg?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="OPEM" src="https://gitlibrary.club/images/uploads/2023/08/newshot-opem.png" /></td>
-        <td>Miscellaneous</td>
-        <td>Python</td>
-        <td><a href="http://opem.ecsim.ir" target="_blank">OPEM</a></td>
-        <td>OPEM (Open Source PEM Fuel Cell Simulation Tool)</td>
-        <th><a href="https://github.com/ECSIM/opem" target="_blank"><img alt="OPEM" src="https://img.shields.io/github/stars/ECSIM/opem?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Samila" src="https://gitlibrary.club/images/uploads/2023/08/newshot-samila.png" /></td>
-        <td>Miscellaneous</td>
-        <td>Python</td>
-        <td><a href="https://www.samila.site" target="_blank">Samila</a></td>
-        <td>Generative Art Generator</td>
-        <th><a href="https://github.com/sepandhaghighi/samila" target="_blank"><img alt="Samila" src="https://img.shields.io/github/stars/sepandhaghighi/samila?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="TorchSemiSeg" src="https://gitlibrary.club/images/uploads/2023/08/newshot-TorchSemiSeg.jpg" /></td>
-        <td>Productivity</td>
-        <td>Python</td>
-        <td><a href="https://github.com/charlesCXK/TorchSemiSeg" target="_blank">TorchSemiSeg</a></td>
-        <td>[CVPR 2021] Semi-Supervised Semantic Segmentation with Cross Pseudo Supervision</td>
-        <th><a href="https://github.com/charlesCXK/TorchSemiSeg" target="_blank"><img alt="TorchSemiSeg" src="https://img.shields.io/github/stars/charlesCXK/TorchSemiSeg?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="ConditionalDETR" src="https://gitlibrary.club/images/uploads/2023/08/newshot-ConditionalDETR.png" /></td>
-        <td>Productivity</td>
-        <td>Python</td>
-        <td><a href="https://github.com/Atten4Vis/ConditionalDETR" target="_blank">ConditionalDETR</a></td>
-        <td>This repository is an official implementation of the ICCV 2021 paper "Conditional DETR for Fast Training Convergence". (https://arxiv.org/abs/2108.06152)</td>
-        <th><a href="https://github.com/Atten4Vis/ConditionalDETR" target="_blank"><img alt="ConditionalDETR" src="https://img.shields.io/github/stars/Atten4Vis/ConditionalDETR?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="CAE" src="https://gitlibrary.club/images/uploads/2023/08/newshot-CAE.png" /></td>
-        <td>Productivity</td>
-        <td>Python</td>
-        <td><a href="https://github.com/Atten4Vis/CAE" target="_blank">CAE</a></td>
-        <td>This is a PyTorch implementation of “Context AutoEncoder for Self-Supervised Representation Learning"</td>
-        <th><a href="https://github.com/Atten4Vis/CAE" target="_blank"><img alt="CAE" src="https://img.shields.io/github/stars/Atten4Vis/CAE?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Stegano" src="https://gitlibrary.club/images/uploads/2023/08/newshot-Stegano.jpg" /></td>
-        <td>Security</td>
-        <td>Python</td>
-        <td><a href="https://sr.ht/~cedric/stegano" target="_blank">Stegano</a></td>
-        <td>A pure Python steganography module.</td>
-        <th><a href="https://github.com/cedricbonhomme/Stegano" target="_blank"><img alt="Stegano" src="https://img.shields.io/github/stars/cedricbonhomme/Stegano?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="ma-gym" src="https://gitlibrary.club/images/uploads/2023/08/newshot-ma-gym.png" /></td>
-        <td>Miscellaneous</td>
-        <td>Python</td>
-        <td><a href="https://github.com/koulanurag/ma-gym/wiki" target="_blank">ma-gym</a></td>
-        <td>A collection of multi agent environments based on OpenAI gym.</td>
-        <th><a href="https://github.com/koulanurag/ma-gym" target="_blank"><img alt="ma-gym" src="https://img.shields.io/github/stars/koulanurag/ma-gym?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Betterscan CE" src="https://gitlibrary.club/images/uploads/2023/08/newshot-betterscan-ce.png" /></td>
-        <td>Security</td>
-        <td>Python</td>
-        <td><a href="https://www.betterscan.io" target="_blank">Betterscan CE</a></td>
-        <td>Code Scanning/SAST/Static Analysis/Linting using many tools/Scanners + OpenAI GPT with One Report (Code, IaC) - Betterscan Community Edition (CE)</td>
-        <th><a href="https://github.com/marcinguy/betterscan-ce" target="_blank"><img alt="Betterscan CE" src="https://img.shields.io/github/stars/marcinguy/betterscan-ce?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Zero" src="https://gitlibrary.club/images/uploads/2023/08/newshot-zero.png" /></td>
-        <td>Productivity</td>
-        <td>Python</td>
-        <td><a href="https://github.com/Ananto30/zero" target="_blank">Zero</a></td>
-        <td>Zero: A simple and fast Python RPC framework</td>
-        <th><a href="https://github.com/Ananto30/zero" target="_blank"><img alt="Zero" src="https://img.shields.io/github/stars/Ananto30/zero?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Hyperactive" src="https://gitlibrary.club/images/uploads/2023/08/newshot-Hyperactive.jpg" /></td>
-        <td>Productivity</td>
-        <td>Python</td>
-        <td><a href="https://simonblanke.github.io/hyperactive-documentation" target="_blank">Hyperactive</a></td>
-        <td>An optimization and data collection toolbox for convenient and fast prototyping of computationally expensive models.</td>
-        <th><a href="https://github.com/SimonBlanke/Hyperactive" target="_blank"><img alt="Hyperactive" src="https://img.shields.io/github/stars/SimonBlanke/Hyperactive?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Gradient-Free-Optimizers" src="https://gitlibrary.club/images/uploads/2023/08/newshot-Gradient-Free-Optimizers.jpg" /></td>
-        <td>Productivity</td>
-        <td>Python</td>
-        <td><a href="https://simonblanke.github.io/gradient-free-optimizers-documentation" target="_blank">Gradient-Free-Optimizers</a></td>
-        <td>Simple and reliable optimization with local, global, population-based and sequential techniques in numerical discrete search spaces.</td>
-        <th><a href="https://github.com/SimonBlanke/Gradient-Free-Optimizers" target="_blank"><img alt="Gradient-Free-Optimizers" src="https://img.shields.io/github/stars/SimonBlanke/Gradient-Free-Optimizers?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="pyPowerwall" src="https://gitlibrary.club/images/uploads/2023/08/newshot-pypowerwall.jpg" /></td>
-        <td>Infrastructure</td>
-        <td>Python</td>
-        <td><a href="https://github.com/jasonacox/pypowerwall" target="_blank">pyPowerwall</a></td>
-        <td>Python API for Tesla Powerwall and Solar Power Data</td>
-        <th><a href="https://github.com/jasonacox/pypowerwall" target="_blank"><img alt="pyPowerwall" src="https://img.shields.io/github/stars/jasonacox/pypowerwall?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Powerwall-Dashboard" src="https://gitlibrary.club/images/uploads/2023/08/newshot-Powerwall-Dashboard.jpg" /></td>
-        <td>Observability</td>
-        <td>Python</td>
-        <td><a href="https://github.com/jasonacox/Powerwall-Dashboard" target="_blank">Powerwall-Dashboard</a></td>
-        <td>Grafana Dashboard for Tesla Powerwall</td>
-        <th><a href="https://github.com/jasonacox/Powerwall-Dashboard" target="_blank"><img alt="Powerwall-Dashboard" src="https://img.shields.io/github/stars/jasonacox/Powerwall-Dashboard?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="ProxySpeedTest" src="https://gitlibrary.club/images/uploads/2023/08/newshot-proxySpeedTest.png" /></td>
-        <td>Analytics</td>
-        <td>Python</td>
-        <td><a href="https://github.com/biplobsd/proxySpeedTest" target="_blank">ProxySpeedTest</a></td>
-        <td>Batch proxy server downloading speed test.</td>
-        <th><a href="https://github.com/biplobsd/proxySpeedTest" target="_blank"><img alt="ProxySpeedTest" src="https://img.shields.io/github/stars/biplobsd/proxySpeedTest?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Typeracer  - Selenium" src="https://gitlibrary.club/images/uploads/2023/08/newshot-typeracer.png" /></td>
-        <td>Miscellaneous</td>
-        <td>Python</td>
-        <td><a href="https://github.com/biplobsd/typeracer" target="_blank">Typeracer  - Selenium</a></td>
-        <td>Selenium play.typeracer bot</td>
-        <th><a href="https://github.com/biplobsd/typeracer" target="_blank"><img alt="Typeracer  - Selenium" src="https://img.shields.io/github/stars/biplobsd/typeracer?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="GeniA" src="https://gitlibrary.club/images/uploads/2023/08/newshot-GeniA.jpg" /></td>
-        <td>Infrastructure</td>
-        <td>Python</td>
-        <td><a href="https://genia-dev.github.io/GeniA/" target="_blank">GeniA</a></td>
-        <td>Your Engineering Gen AI Team member ???</td>
-        <th><a href="https://github.com/genia-dev/GeniA" target="_blank"><img alt="GeniA" src="https://img.shields.io/github/stars/genia-dev/GeniA?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Refact AI" src="https://gitlibrary.club/images/uploads/2023/08/newshot-refact.png" /></td>
-        <td>Productivity</td>
-        <td>Python</td>
-        <td><a href="https://refact.ai" target="_blank">Refact AI</a></td>
-        <td>? Refact AI: Open-Source Coding Assistant with Fine-Tuning on codebase, autocompletion, code refactoring, code analysis, integrated chat and more! </td>
-        <th><a href="https://github.com/smallcloudai/refact" target="_blank"><img alt="Refact AI" src="https://img.shields.io/github/stars/smallcloudai/refact?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Agency" src="https://gitlibrary.club/images/uploads/2023/08/newshot-agency.jpg" /></td>
-        <td>Miscellaneous</td>
-        <td>Python</td>
-        <td><a href="https://createwith.agency" target="_blank">Agency</a></td>
-        <td>A fast and minimal framework for building agent-integrated systems</td>
-        <th><a href="https://github.com/operand/agency" target="_blank"><img alt="Agency" src="https://img.shields.io/github/stars/operand/agency?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Netgraph" src="https://gitlibrary.club/images/uploads/2023/08/newshot-netgraph.jpg" /></td>
-        <td>Analytics</td>
-        <td>Python</td>
-        <td><a href="https://github.com/paulbrodersen/netgraph" target="_blank">Netgraph</a></td>
-        <td>Publication-quality network visualisations in python</td>
-        <th><a href="https://github.com/paulbrodersen/netgraph" target="_blank"><img alt="Netgraph" src="https://img.shields.io/github/stars/paulbrodersen/netgraph?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="termii_sdk" src="https://gitlibrary.club/images/uploads/2023/08/newshot-termii_sdk.jpg" /></td>
-        <td>Productivity</td>
-        <td>Python</td>
-        <td><a href="https://github.com/prmpsmart/termii_sdk" target="_blank">termii_sdk</a></td>
-        <td>The `termii_sdk` is a Python package that facilitates seamless integration with the Termii API, empowering developers to send SMS, voice, and email messages within their applications.</td>
-        <th><a href="https://github.com/prmpsmart/termii_sdk" target="_blank"><img alt="termii_sdk" src="https://img.shields.io/github/stars/prmpsmart/termii_sdk?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="DeepEval" src="https://gitlibrary.club/images/uploads/2023/08/newshot-deepeval.png" /></td>
-        <td>Observability</td>
-        <td>Python</td>
-        <td><a href="https://docs.confident-ai.com/" target="_blank">DeepEval</a></td>
-        <td>Unit Testing For LLMs</td>
-        <th><a href="https://github.com/confident-ai/deepeval" target="_blank"><img alt="DeepEval" src="https://img.shields.io/github/stars/confident-ai/deepeval?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Tweaked iOS Apps" src="https://gitlibrary.club/images/uploads/2023/09/newshot-Tweaked-iOS-Apps.jpg" /></td>
-        <td>Databases</td>
-        <td>Python</td>
-        <td><a href="https://github.com/purp0s3/Tweaked-iOS-Apps" target="_blank">Tweaked iOS Apps</a></td>
-        <td>Tweaks injected into iOS apps.</td>
-        <th><a href="https://github.com/purp0s3/Tweaked-iOS-Apps" target="_blank"><img alt="Tweaked iOS Apps" src="https://img.shields.io/github/stars/purp0s3/Tweaked-iOS-Apps?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="ezdxf" src="https://gitlibrary.club/images/uploads/2023/09/newshot-ezdxf.png" /></td>
-        <td>Infrastructure</td>
-        <td>Python</td>
-        <td><a href="https://ezdxf.mozman.at" target="_blank">ezdxf</a></td>
-        <td>Python interface to DXF</td>
-        <th><a href="https://github.com/mozman/ezdxf" target="_blank"><img alt="ezdxf" src="https://img.shields.io/github/stars/mozman/ezdxf?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="ezdxf" src="https://gitlibrary.club/images/uploads/2023/09/newshot-ezdxf-1.png" /></td>
-        <td>Infrastructure</td>
-        <td>Python</td>
-        <td><a href="https://ezdxf.mozman.at" target="_blank">ezdxf</a></td>
-        <td>Python interface to DXF</td>
-        <th><a href="https://github.com/mozman/ezdxf" target="_blank"><img alt="ezdxf" src="https://img.shields.io/github/stars/mozman/ezdxf?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="SuPar" src="https://gitlibrary.club/images/uploads/2023/09/newshot-parser.jpg" /></td>
-        <td>Infrastructure</td>
-        <td>Python</td>
-        <td><a href="https://parser.yzhang.site/" target="_blank">SuPar</a></td>
-        <td>? State-of-the-art parsers for natural language.</td>
-        <th><a href="https://github.com/yzhangcs/parser" target="_blank"><img alt="SuPar" src="https://img.shields.io/github/stars/yzhangcs/parser?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="RecoverPy" src="https://gitlibrary.club/images/uploads/2023/09/newshot-RecoverPy.jpg" /></td>
-        <td>Observability</td>
-        <td>Python</td>
-        <td><a href="https://github.com/PabloLec/RecoverPy" target="_blank">RecoverPy</a></td>
-        <td>Interactively find and recover deleted or ? overwritten ? files from your terminal</td>
-        <th><a href="https://github.com/PabloLec/RecoverPy" target="_blank"><img alt="RecoverPy" src="https://img.shields.io/github/stars/PabloLec/RecoverPy?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="kr8s" src="https://gitlibrary.club/images/uploads/2023/09/newshot-kr8s.png" /></td>
-        <td>Infrastructure</td>
-        <td>Python</td>
-        <td><a href="https://kr8s.org" target="_blank">kr8s</a></td>
-        <td>A batteries-included Python client library for Kubernetes that feels familiar for folks who already know how to use kubectl</td>
-        <th><a href="https://github.com/kr8s-org/kr8s" target="_blank"><img alt="kr8s" src="https://img.shields.io/github/stars/kr8s-org/kr8s?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Microsoft 365 & Microsoft Graph Library for Python" src="https://gitlibrary.club/images/uploads/2023/09/newshot-Office365-REST-Python-Client.jpg" /></td>
-        <td>Productivity</td>
-        <td>Python</td>
-        <td><a href="https://github.com/vgrem/Office365-REST-Python-Client" target="_blank">Microsoft 365 & Microsoft Graph Library for Python</a></td>
-        <td>Microsoft 365 &amp; Microsoft Graph Library for Python</td>
-        <th><a href="https://github.com/vgrem/Office365-REST-Python-Client" target="_blank"><img alt="Microsoft 365 & Microsoft Graph Library for Python" src="https://img.shields.io/github/stars/vgrem/Office365-REST-Python-Client?style=social" /></a></th>
     </tr>
 
 </table>
@@ -13343,6 +13359,22 @@
         <td><a href="https://owasp.org/www-project-web-security-testing-guide/" target="_blank">OWASP Security Guide</a></td>
         <td>The Web Security Testing Guide is a comprehensive Open Source guide to testing the security of web applications and web services.</td>
         <th><a href="https://github.com/OWASP/wstg" target="_blank"><img alt="OWASP Security Guide" src="https://img.shields.io/github/stars/OWASP/wstg?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="gnu-on-alpine" src="https://gitlibrary.club/images/uploads/2023/09/newshot-gnu-on-alpine.jpg" /></td>
+        <td>Infrastructure</td>
+        <td>Dockerfile</td>
+        <td><a href="https://actions.cicirello.org/gnu-on-alpine/" target="_blank">gnu-on-alpine</a></td>
+        <td>A lightweight Docker container for shell scripting with GNU tools on Alpine Linux</td>
+        <th><a href="https://github.com/cicirello/gnu-on-alpine" target="_blank"><img alt="gnu-on-alpine" src="https://img.shields.io/github/stars/cicirello/gnu-on-alpine?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="alpine-plus-plus" src="https://gitlibrary.club/images/uploads/2023/09/newshot-alpine-plus-plus.jpg" /></td>
+        <td>Infrastructure</td>
+        <td>Dockerfile</td>
+        <td><a href="https://actions.cicirello.org/alpine-plus-plus/" target="_blank">alpine-plus-plus</a></td>
+        <td>A lightweight Docker container for shell scripting with git and GNU tools on Alpine Linux</td>
+        <th><a href="https://github.com/cicirello/alpine-plus-plus" target="_blank"><img alt="alpine-plus-plus" src="https://img.shields.io/github/stars/cicirello/alpine-plus-plus?style=social" /></a></th>
     </tr>
 
 </table>
