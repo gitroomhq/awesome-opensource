@@ -160,6 +160,30 @@
         <th>Stargazers</th>
     </tr>
         <tr>
+        <td nowrap="nowrap"><img width="33" alt="Bonfire" src="https://gitlibrary.club/images/uploads/2023/09/newshot-bonfire.jpg" /></td>
+        <td>Productivity</td>
+        <td>Dart</td>
+        <td><a href="https://bonfire-engine.github.io" target="_blank">Bonfire</a></td>
+        <td>(RPG maker) Create RPG-style or similar games more simply with Flame.</td>
+        <th><a href="https://github.com/RafaelBarbosatec/bonfire" target="_blank"><img alt="Bonfire" src="https://img.shields.io/github/stars/RafaelBarbosatec/bonfire?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Modular Diffusion" src="https://gitlibrary.club/images/uploads/2023/09/newshot-modular-diffusion.jpg" /></td>
+        <td>Miscellaneous</td>
+        <td>Python</td>
+        <td><a href="https://cabralpinto.github.io/modular-diffusion/" target="_blank">Modular Diffusion</a></td>
+        <td>Python library for designing and training your own Diffusion Models with PyTorch.</td>
+        <th><a href="https://github.com/cabralpinto/modular-diffusion" target="_blank"><img alt="Modular Diffusion" src="https://img.shields.io/github/stars/cabralpinto/modular-diffusion?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Superforms" src="https://gitlibrary.club/images/uploads/2023/09/newshot-sveltekit-superforms.jpg" /></td>
+        <td>Infrastructure</td>
+        <td>TypeScript</td>
+        <td><a href="https://superforms.rocks" target="_blank">Superforms</a></td>
+        <td>Making SvelteKit validation and displaying of forms easier than ever!</td>
+        <th><a href="https://github.com/ciscoheat/sveltekit-superforms" target="_blank"><img alt="Superforms" src="https://img.shields.io/github/stars/ciscoheat/sveltekit-superforms?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="Mega Collection of PowerShell Scripts" src="https://gitlibrary.club/images/uploads/2023/09/newshot-PowerShell.jpg" /></td>
         <td>Miscellaneous</td>
         <td>PowerShell</td>
@@ -294,30 +318,6 @@
         <td><a href="http://www.chunel.cn" target="_blank">CGraph</a></td>
         <td>【A simple C++ DAG framework】 一个简单好用的、无三方依赖的、跨平台的、收录于awesome-cpp的、基于流图的并行计算框架。欢迎star &amp; fork</td>
         <th><a href="https://github.com/ChunelFeng/CGraph" target="_blank"><img alt="CGraph" src="https://img.shields.io/github/stars/ChunelFeng/CGraph?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="RecoverPy" src="https://gitlibrary.club/images/uploads/2023/09/newshot-RecoverPy.jpg" /></td>
-        <td>Observability</td>
-        <td>Python</td>
-        <td><a href="https://github.com/PabloLec/RecoverPy" target="_blank">RecoverPy</a></td>
-        <td>Interactively find and recover deleted or ? overwritten ? files from your terminal</td>
-        <th><a href="https://github.com/PabloLec/RecoverPy" target="_blank"><img alt="RecoverPy" src="https://img.shields.io/github/stars/PabloLec/RecoverPy?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Bytecoder" src="https://gitlibrary.club/images/uploads/2023/09/newshot-Bytecoder.jpg" /></td>
-        <td>Miscellaneous</td>
-        <td>Java</td>
-        <td><a href="https://www.mirkosertic.de/blog/2017/06/compiling-bytecode-to-javascript/" target="_blank">Bytecoder</a></td>
-        <td>Framework to interpret and transpile JVM bytecode to JavaScript, OpenCL or WebAssembly.</td>
-        <th><a href="https://github.com/mirkosertic/Bytecoder" target="_blank"><img alt="Bytecoder" src="https://img.shields.io/github/stars/mirkosertic/Bytecoder?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="FXDesktopSearch" src="https://gitlibrary.club/images/uploads/2023/09/newshot-FXDesktopSearch.jpg" /></td>
-        <td>Productivity</td>
-        <td>Java</td>
-        <td><a href="https://github.com/mirkosertic/FXDesktopSearch" target="_blank">FXDesktopSearch</a></td>
-        <td>A JavaFX based desktop search application.</td>
-        <th><a href="https://github.com/mirkosertic/FXDesktopSearch" target="_blank"><img alt="FXDesktopSearch" src="https://img.shields.io/github/stars/mirkosertic/FXDesktopSearch?style=social" /></a></th>
     </tr>
 
 </table>
@@ -575,6 +575,14 @@
         <th><a href="https://github.com/ChunelFeng/CGraph" target="_blank"><img alt="CGraph" src="https://img.shields.io/github/stars/ChunelFeng/CGraph?style=social" /></a></th>
     </tr>
     <tr>
+        <td nowrap="nowrap"><img width="33" alt="API Bloc" src="https://gitlibrary.club/images/uploads/2023/09/newshot-api_bloc.png" /></td>
+        <td>Infrastructure</td>
+        <td>Dart</td>
+        <td><a href="https://github.com/Nialixus/api_bloc" target="_blank">API Bloc</a></td>
+        <td>A Flutter library for managing API calls using the BLoC pattern. This library provides a set of classes and utilities to simplify API calls and manage state changes.</td>
+        <th><a href="https://github.com/Nialixus/api_bloc" target="_blank"><img alt="API Bloc" src="https://img.shields.io/github/stars/Nialixus/api_bloc?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="Everright-formEditor" src="https://gitlibrary.club/images/uploads/2023/05/newshot-Everright-formEditor.jpg" /></td>
         <td>Productivity</td>
         <td>JavaScript</td>
@@ -597,14 +605,6 @@
         <td><a href="https://birjuvachhani.github.io/pluto" target="_blank">Pluto</a></td>
         <td>A minimal new tab for Chrome/Edge.</td>
         <th><a href="https://github.com/BirjuVachhani/pluto" target="_blank"><img alt="Pluto" src="https://img.shields.io/github/stars/BirjuVachhani/pluto?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="API Bloc" src="https://gitlibrary.club/images/uploads/2023/09/newshot-api_bloc.png" /></td>
-        <td>Infrastructure</td>
-        <td>Dart</td>
-        <td><a href="https://github.com/Nialixus/api_bloc" target="_blank">API Bloc</a></td>
-        <td>A Flutter library for managing API calls using the BLoC pattern. This library provides a set of classes and utilities to simplify API calls and manage state changes.</td>
-        <th><a href="https://github.com/Nialixus/api_bloc" target="_blank"><img alt="API Bloc" src="https://img.shields.io/github/stars/Nialixus/api_bloc?style=social" /></a></th>
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="Bitwarden" src="https://gitlibrary.club/images/uploads/2023/05/newshot-clients-1.png" /></td>
@@ -2468,6 +2468,14 @@
         <td><a href="https://github.com/fleschutz/PowerShell" target="_blank">Mega Collection of PowerShell Scripts</a></td>
         <td>Mega collection of 500+ useful cross-platform PowerShell scripts (.ps1).</td>
         <th><a href="https://github.com/fleschutz/PowerShell" target="_blank"><img alt="Mega Collection of PowerShell Scripts" src="https://img.shields.io/github/stars/fleschutz/PowerShell?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Modular Diffusion" src="https://gitlibrary.club/images/uploads/2023/09/newshot-modular-diffusion.jpg" /></td>
+        <td>Miscellaneous</td>
+        <td>Python</td>
+        <td><a href="https://cabralpinto.github.io/modular-diffusion/" target="_blank">Modular Diffusion</a></td>
+        <td>Python library for designing and training your own Diffusion Models with PyTorch.</td>
+        <th><a href="https://github.com/cabralpinto/modular-diffusion" target="_blank"><img alt="Modular Diffusion" src="https://img.shields.io/github/stars/cabralpinto/modular-diffusion?style=social" /></a></th>
     </tr>
 
 </table>
@@ -4616,6 +4624,14 @@
         <td><a href="https://github.com/akosbalasko/yarle" target="_blank">Yarle - The ultimate converter for your Evernote notes</a></td>
         <td>Yarle - The ultimate converter of Evernote notes to Markdown</td>
         <th><a href="https://github.com/akosbalasko/yarle" target="_blank"><img alt="Yarle - The ultimate converter for your Evernote notes" src="https://img.shields.io/github/stars/akosbalasko/yarle?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Bonfire" src="https://gitlibrary.club/images/uploads/2023/09/newshot-bonfire.jpg" /></td>
+        <td>Productivity</td>
+        <td>Dart</td>
+        <td><a href="https://bonfire-engine.github.io" target="_blank">Bonfire</a></td>
+        <td>(RPG maker) Create RPG-style or similar games more simply with Flame.</td>
+        <th><a href="https://github.com/RafaelBarbosatec/bonfire" target="_blank"><img alt="Bonfire" src="https://img.shields.io/github/stars/RafaelBarbosatec/bonfire?style=social" /></a></th>
     </tr>
 
 </table>
@@ -7245,6 +7261,14 @@
         <td>A lightweight Docker container for shell scripting with git and GNU tools on Alpine Linux</td>
         <th><a href="https://github.com/cicirello/alpine-plus-plus" target="_blank"><img alt="alpine-plus-plus" src="https://img.shields.io/github/stars/cicirello/alpine-plus-plus?style=social" /></a></th>
     </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Superforms" src="https://gitlibrary.club/images/uploads/2023/09/newshot-sveltekit-superforms.jpg" /></td>
+        <td>Infrastructure</td>
+        <td>TypeScript</td>
+        <td><a href="https://superforms.rocks" target="_blank">Superforms</a></td>
+        <td>Making SvelteKit validation and displaying of forms easier than ever!</td>
+        <th><a href="https://github.com/ciscoheat/sveltekit-superforms" target="_blank"><img alt="Superforms" src="https://img.shields.io/github/stars/ciscoheat/sveltekit-superforms?style=social" /></a></th>
+    </tr>
 
 </table>
 
@@ -8484,6 +8508,14 @@
         <td>Yarle - The ultimate converter of Evernote notes to Markdown</td>
         <th><a href="https://github.com/akosbalasko/yarle" target="_blank"><img alt="Yarle - The ultimate converter for your Evernote notes" src="https://img.shields.io/github/stars/akosbalasko/yarle?style=social" /></a></th>
     </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Superforms" src="https://gitlibrary.club/images/uploads/2023/09/newshot-sveltekit-superforms.jpg" /></td>
+        <td>Infrastructure</td>
+        <td>TypeScript</td>
+        <td><a href="https://superforms.rocks" target="_blank">Superforms</a></td>
+        <td>Making SvelteKit validation and displaying of forms easier than ever!</td>
+        <th><a href="https://github.com/ciscoheat/sveltekit-superforms" target="_blank"><img alt="Superforms" src="https://img.shields.io/github/stars/ciscoheat/sveltekit-superforms?style=social" /></a></th>
+    </tr>
 
 </table>
 
@@ -9369,6 +9401,14 @@
         <th><a href="https://github.com/Frezyx/sidebarx" target="_blank"><img alt="sidebarx" src="https://img.shields.io/github/stars/Frezyx/sidebarx?style=social" /></a></th>
     </tr>
     <tr>
+        <td nowrap="nowrap"><img width="33" alt="API Bloc" src="https://gitlibrary.club/images/uploads/2023/09/newshot-api_bloc.png" /></td>
+        <td>Infrastructure</td>
+        <td>Dart</td>
+        <td><a href="https://github.com/Nialixus/api_bloc" target="_blank">API Bloc</a></td>
+        <td>A Flutter library for managing API calls using the BLoC pattern. This library provides a set of classes and utilities to simplify API calls and manage state changes.</td>
+        <th><a href="https://github.com/Nialixus/api_bloc" target="_blank"><img alt="API Bloc" src="https://img.shields.io/github/stars/Nialixus/api_bloc?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="Spider" src="https://gitlibrary.club/images/uploads/2023/07/newshot-spider.jpg" /></td>
         <td>Productivity</td>
         <td>Dart</td>
@@ -9383,14 +9423,6 @@
         <td><a href="https://birjuvachhani.github.io/pluto" target="_blank">Pluto</a></td>
         <td>A minimal new tab for Chrome/Edge.</td>
         <th><a href="https://github.com/BirjuVachhani/pluto" target="_blank"><img alt="Pluto" src="https://img.shields.io/github/stars/BirjuVachhani/pluto?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="API Bloc" src="https://gitlibrary.club/images/uploads/2023/09/newshot-api_bloc.png" /></td>
-        <td>Infrastructure</td>
-        <td>Dart</td>
-        <td><a href="https://github.com/Nialixus/api_bloc" target="_blank">API Bloc</a></td>
-        <td>A Flutter library for managing API calls using the BLoC pattern. This library provides a set of classes and utilities to simplify API calls and manage state changes.</td>
-        <th><a href="https://github.com/Nialixus/api_bloc" target="_blank"><img alt="API Bloc" src="https://img.shields.io/github/stars/Nialixus/api_bloc?style=social" /></a></th>
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="Box Transform" src="https://gitlibrary.club/images/uploads/2023/07/newshot-box_transform.png" /></td>
@@ -9423,6 +9455,14 @@
         <td><a href="https://biplobsd.github.io/EpochConverterApp" target="_blank">Epoch Readable</a></td>
         <td>It Just a simple epoch to human date format converter Flutter App</td>
         <th><a href="https://github.com/biplobsd/epochconverter" target="_blank"><img alt="Epoch Readable" src="https://img.shields.io/github/stars/biplobsd/epochconverter?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Bonfire" src="https://gitlibrary.club/images/uploads/2023/09/newshot-bonfire.jpg" /></td>
+        <td>Productivity</td>
+        <td>Dart</td>
+        <td><a href="https://bonfire-engine.github.io" target="_blank">Bonfire</a></td>
+        <td>(RPG maker) Create RPG-style or similar games more simply with Flame.</td>
+        <th><a href="https://github.com/RafaelBarbosatec/bonfire" target="_blank"><img alt="Bonfire" src="https://img.shields.io/github/stars/RafaelBarbosatec/bonfire?style=social" /></a></th>
     </tr>
 
 </table>
@@ -10285,6 +10325,14 @@
         <td><a href="https://github.com/vgrem/Office365-REST-Python-Client" target="_blank">Microsoft 365 & Microsoft Graph Library for Python</a></td>
         <td>Microsoft 365 &amp; Microsoft Graph Library for Python</td>
         <th><a href="https://github.com/vgrem/Office365-REST-Python-Client" target="_blank"><img alt="Microsoft 365 & Microsoft Graph Library for Python" src="https://img.shields.io/github/stars/vgrem/Office365-REST-Python-Client?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Modular Diffusion" src="https://gitlibrary.club/images/uploads/2023/09/newshot-modular-diffusion.jpg" /></td>
+        <td>Miscellaneous</td>
+        <td>Python</td>
+        <td><a href="https://cabralpinto.github.io/modular-diffusion/" target="_blank">Modular Diffusion</a></td>
+        <td>Python library for designing and training your own Diffusion Models with PyTorch.</td>
+        <th><a href="https://github.com/cabralpinto/modular-diffusion" target="_blank"><img alt="Modular Diffusion" src="https://img.shields.io/github/stars/cabralpinto/modular-diffusion?style=social" /></a></th>
     </tr>
 
 </table>
