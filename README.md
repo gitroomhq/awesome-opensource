@@ -216,6 +216,14 @@
         <th><a href="https://github.com/zhaojh329/rtty" target="_blank"><img alt="rtty" src="https://img.shields.io/github/stars/zhaojh329/rtty?style=social" /></a></th>
     </tr>
     <tr>
+        <td nowrap="nowrap"><img width="33" alt="Evidence" src="https://gitlibrary.club/images/uploads/2023/09/newshot-evidence.png" /></td>
+        <td>Analytics</td>
+        <td>Svelte</td>
+        <td><a href="https://evidence.dev" target="_blank">Evidence</a></td>
+        <td>Business intelligence as code: build polished data products with SQL and markdown</td>
+        <th><a href="https://github.com/evidence-dev/evidence" target="_blank"><img alt="Evidence" src="https://img.shields.io/github/stars/evidence-dev/evidence?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="Bonfire" src="https://gitlibrary.club/images/uploads/2023/09/newshot-bonfire.jpg" /></td>
         <td>Productivity</td>
         <td>Dart</td>
@@ -310,14 +318,6 @@
         <td><a href="https://github.com/Nialixus/dart_fusion" target="_blank">Dart Fusion</a></td>
         <td>A tool for managing Dart or flutter projects. This contains cli, annotations, extensions, parsers and many more.</td>
         <th><a href="https://github.com/Nialixus/dart_fusion" target="_blank"><img alt="Dart Fusion" src="https://img.shields.io/github/stars/Nialixus/dart_fusion?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="API Bloc" src="https://gitlibrary.club/images/uploads/2023/09/newshot-api_bloc.png" /></td>
-        <td>Infrastructure</td>
-        <td>Dart</td>
-        <td><a href="https://github.com/Nialixus/api_bloc" target="_blank">API Bloc</a></td>
-        <td>A Flutter library for managing API calls using the BLoC pattern. This library provides a set of classes and utilities to simplify API calls and manage state changes.</td>
-        <th><a href="https://github.com/Nialixus/api_bloc" target="_blank"><img alt="API Bloc" src="https://img.shields.io/github/stars/Nialixus/api_bloc?style=social" /></a></th>
     </tr>
 
 </table>
@@ -415,6 +415,14 @@
         <th><a href="https://github.com/Frezyx/talker" target="_blank"><img alt="Talker" src="https://img.shields.io/github/stars/Frezyx/talker?style=social" /></a></th>
     </tr>
     <tr>
+        <td nowrap="nowrap"><img width="33" alt="Github 20k" src="https://gitlibrary.club/images/uploads/2023/05/newshot-super-star-1.png" /></td>
+        <td>Productivity</td>
+        <td>TypeScript</td>
+        <td><a href="https://github20k.com" target="_blank">Github 20k</a></td>
+        <td>The open-source course landing page <g-emoji class="g-emoji" alias="rocket" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f680.png">?</g-emoji><g-emoji class="g-emoji" alias="rocket" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f680.png">?</g-emoji><g-emoji class="g-emoji" alias="rocket" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f680.png">?</g-emoji></td>
+        <th><a href="https://github.com/github-20k/super-star" target="_blank"><img alt="Github 20k" src="https://img.shields.io/github/stars/github-20k/super-star?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="dyrector.io" src="https://gitlibrary.club/images/uploads/2023/07/newshot-dyrectorio.jpg" /></td>
         <td>Productivity</td>
         <td>TypeScript</td>
@@ -437,14 +445,6 @@
         <td><a href="https://pub.dev/packages/flutter_tilt" target="_blank">flutter_tilt</a></td>
         <td><g-emoji class="g-emoji" alias="eyes" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f440.png">?</g-emoji> Easily apply tilt parallax hover effects on Flutter! | 在 Flutter 上轻松创建倾斜视差悬停效果！</td>
         <th><a href="https://github.com/AmosHuKe/flutter_tilt" target="_blank"><img alt="flutter_tilt" src="https://img.shields.io/github/stars/AmosHuKe/flutter_tilt?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Github 20k" src="https://gitlibrary.club/images/uploads/2023/05/newshot-super-star-1.png" /></td>
-        <td>Productivity</td>
-        <td>TypeScript</td>
-        <td><a href="https://github20k.com" target="_blank">Github 20k</a></td>
-        <td>The open-source course landing page <g-emoji class="g-emoji" alias="rocket" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f680.png">?</g-emoji><g-emoji class="g-emoji" alias="rocket" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f680.png">?</g-emoji><g-emoji class="g-emoji" alias="rocket" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f680.png">?</g-emoji></td>
-        <th><a href="https://github.com/github-20k/super-star" target="_blank"><img alt="Github 20k" src="https://img.shields.io/github/stars/github-20k/super-star?style=social" /></a></th>
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="Chips-n-Salsa" src="https://gitlibrary.club/images/uploads/2023/08/newshot-Chips-n-Salsa.jpg" /></td>
@@ -2826,6 +2826,14 @@
         <th><a href="https://github.com/fleetbase/fleetbase" target="_blank"><img alt="Fleetbase" src="https://img.shields.io/github/stars/fleetbase/fleetbase?style=social" /></a></th>
     </tr>
     <tr>
+        <td nowrap="nowrap"><img width="33" alt="Github 20k" src="https://gitlibrary.club/images/uploads/2023/05/newshot-super-star-1.png" /></td>
+        <td>Productivity</td>
+        <td>TypeScript</td>
+        <td><a href="https://github20k.com" target="_blank">Github 20k</a></td>
+        <td>The open-source course landing page <g-emoji class="g-emoji" alias="rocket" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f680.png">?</g-emoji><g-emoji class="g-emoji" alias="rocket" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f680.png">?</g-emoji><g-emoji class="g-emoji" alias="rocket" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f680.png">?</g-emoji></td>
+        <th><a href="https://github.com/github-20k/super-star" target="_blank"><img alt="Github 20k" src="https://img.shields.io/github/stars/github-20k/super-star?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="dyrector.io" src="https://gitlibrary.club/images/uploads/2023/07/newshot-dyrectorio.jpg" /></td>
         <td>Productivity</td>
         <td>TypeScript</td>
@@ -2840,14 +2848,6 @@
         <td><a href="https://pub.dev/packages/flutter_tilt" target="_blank">flutter_tilt</a></td>
         <td><g-emoji class="g-emoji" alias="eyes" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f440.png">?</g-emoji> Easily apply tilt parallax hover effects on Flutter! | 在 Flutter 上轻松创建倾斜视差悬停效果！</td>
         <th><a href="https://github.com/AmosHuKe/flutter_tilt" target="_blank"><img alt="flutter_tilt" src="https://img.shields.io/github/stars/AmosHuKe/flutter_tilt?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Github 20k" src="https://gitlibrary.club/images/uploads/2023/05/newshot-super-star-1.png" /></td>
-        <td>Productivity</td>
-        <td>TypeScript</td>
-        <td><a href="https://github20k.com" target="_blank">Github 20k</a></td>
-        <td>The open-source course landing page <g-emoji class="g-emoji" alias="rocket" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f680.png">?</g-emoji><g-emoji class="g-emoji" alias="rocket" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f680.png">?</g-emoji><g-emoji class="g-emoji" alias="rocket" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f680.png">?</g-emoji></td>
-        <th><a href="https://github.com/github-20k/super-star" target="_blank"><img alt="Github 20k" src="https://img.shields.io/github/stars/github-20k/super-star?style=social" /></a></th>
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="Env Reader" src="https://gitlibrary.club/images/uploads/2023/08/newshot-env_reader.png" /></td>
@@ -4974,6 +4974,14 @@
         <td><a href="https://github.com/vinijmoura/Azure-DevOps" target="_blank">Azure-DevOps</a></td>
         <td>Data extraction and Power BI report that generate management informations about your Azure DevOps organization. Using Azure DevOps CLI and Azure DevOps REST API, PowerShell scripts extract data fro…</td>
         <th><a href="https://github.com/vinijmoura/Azure-DevOps" target="_blank"><img alt="Azure-DevOps" src="https://img.shields.io/github/stars/vinijmoura/Azure-DevOps?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Evidence" src="https://gitlibrary.club/images/uploads/2023/09/newshot-evidence.png" /></td>
+        <td>Analytics</td>
+        <td>Svelte</td>
+        <td><a href="https://evidence.dev" target="_blank">Evidence</a></td>
+        <td>Business intelligence as code: build polished data products with SQL and markdown</td>
+        <th><a href="https://github.com/evidence-dev/evidence" target="_blank"><img alt="Evidence" src="https://img.shields.io/github/stars/evidence-dev/evidence?style=social" /></a></th>
     </tr>
 
 </table>
@@ -7365,6 +7373,14 @@
         <th><a href="https://github.com/novuhq/novu" target="_blank"><img alt="Novu" src="https://img.shields.io/github/stars/novuhq/novu?style=social" /></a></th>
     </tr>
     <tr>
+        <td nowrap="nowrap"><img width="33" alt="Github 20k" src="https://gitlibrary.club/images/uploads/2023/05/newshot-super-star-1.png" /></td>
+        <td>Productivity</td>
+        <td>TypeScript</td>
+        <td><a href="https://github20k.com" target="_blank">Github 20k</a></td>
+        <td>The open-source course landing page <g-emoji class="g-emoji" alias="rocket" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f680.png">?</g-emoji><g-emoji class="g-emoji" alias="rocket" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f680.png">?</g-emoji><g-emoji class="g-emoji" alias="rocket" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f680.png">?</g-emoji></td>
+        <th><a href="https://github.com/github-20k/super-star" target="_blank"><img alt="Github 20k" src="https://img.shields.io/github/stars/github-20k/super-star?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="dyrector.io" src="https://gitlibrary.club/images/uploads/2023/07/newshot-dyrectorio.jpg" /></td>
         <td>Productivity</td>
         <td>TypeScript</td>
@@ -7379,14 +7395,6 @@
         <td><a href="https://twenty.com" target="_blank">Twenty CRM</a></td>
         <td>Building a modern alternative to Salesforce. <g-emoji class="g-emoji" alias="star2" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f31f.png">?</g-emoji> You can star to support our work!</td>
         <th><a href="https://github.com/twentyhq/twenty" target="_blank"><img alt="Twenty CRM" src="https://img.shields.io/github/stars/twentyhq/twenty?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Github 20k" src="https://gitlibrary.club/images/uploads/2023/05/newshot-super-star-1.png" /></td>
-        <td>Productivity</td>
-        <td>TypeScript</td>
-        <td><a href="https://github20k.com" target="_blank">Github 20k</a></td>
-        <td>The open-source course landing page <g-emoji class="g-emoji" alias="rocket" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f680.png">?</g-emoji><g-emoji class="g-emoji" alias="rocket" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f680.png">?</g-emoji><g-emoji class="g-emoji" alias="rocket" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f680.png">?</g-emoji></td>
-        <th><a href="https://github.com/github-20k/super-star" target="_blank"><img alt="Github 20k" src="https://img.shields.io/github/stars/github-20k/super-star?style=social" /></a></th>
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="Appwrite" src="https://gitlibrary.club/images/uploads/2023/05/newshot-appwrite.png" /></td>
@@ -13943,6 +13951,14 @@
         <td><a href="https://editable.website" target="_blank">Editable Website</a></td>
         <td>A SvelteKit template for building CMS-free editable websites </td>
         <th><a href="https://github.com/michael/editable-website" target="_blank"><img alt="Editable Website" src="https://img.shields.io/github/stars/michael/editable-website?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Evidence" src="https://gitlibrary.club/images/uploads/2023/09/newshot-evidence.png" /></td>
+        <td>Analytics</td>
+        <td>Svelte</td>
+        <td><a href="https://evidence.dev" target="_blank">Evidence</a></td>
+        <td>Business intelligence as code: build polished data products with SQL and markdown</td>
+        <th><a href="https://github.com/evidence-dev/evidence" target="_blank"><img alt="Evidence" src="https://img.shields.io/github/stars/evidence-dev/evidence?style=social" /></a></th>
     </tr>
 
 </table>
