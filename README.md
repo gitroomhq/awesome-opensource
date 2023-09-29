@@ -208,6 +208,14 @@
         <th><a href="https://github.com/bsovs/Fall2024-Internships" target="_blank"><img alt="Fall2024 Internships" src="https://img.shields.io/github/stars/bsovs/Fall2024-Internships?style=social" /></a></th>
     </tr>
     <tr>
+        <td nowrap="nowrap"><img width="33" alt="happyx" src="https://gitlibrary.club/images/uploads/2023/09/newshot-happyx.png" /></td>
+        <td>Miscellaneous</td>
+        <td>Nim</td>
+        <td><a href="https://hapticx.github.io/happyx/" target="_blank">happyx</a></td>
+        <td>Macro-oriented asynchronous web-framework written in Nim with ♥</td>
+        <th><a href="https://github.com/HapticX/happyx" target="_blank"><img alt="happyx" src="https://img.shields.io/github/stars/HapticX/happyx?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="rttys" src="https://gitlibrary.club/images/uploads/2023/09/newshot-rttys.jpg" /></td>
         <td>Miscellaneous</td>
         <td>Go</td>
@@ -310,14 +318,6 @@
         <td><a href="https://github.com/akosbalasko/yarle" target="_blank">Yarle - The ultimate converter for your Evernote notes</a></td>
         <td>Yarle - The ultimate converter of Evernote notes to Markdown</td>
         <th><a href="https://github.com/akosbalasko/yarle" target="_blank"><img alt="Yarle - The ultimate converter for your Evernote notes" src="https://img.shields.io/github/stars/akosbalasko/yarle?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="gnu-on-alpine" src="https://gitlibrary.club/images/uploads/2023/09/newshot-gnu-on-alpine.jpg" /></td>
-        <td>Infrastructure</td>
-        <td>Dockerfile</td>
-        <td><a href="https://actions.cicirello.org/gnu-on-alpine/" target="_blank">gnu-on-alpine</a></td>
-        <td>A lightweight Docker container for shell scripting with GNU tools on Alpine Linux</td>
-        <th><a href="https://github.com/cicirello/gnu-on-alpine" target="_blank"><img alt="gnu-on-alpine" src="https://img.shields.io/github/stars/cicirello/gnu-on-alpine?style=social" /></a></th>
     </tr>
 
 </table>
@@ -2516,6 +2516,14 @@
         <td><a href="https://github.com/bsovs/Fall2024-Internships" target="_blank">Fall2024 Internships</a></td>
         <td>Collection of Fall 2023 tech internships!</td>
         <th><a href="https://github.com/bsovs/Fall2024-Internships" target="_blank"><img alt="Fall2024 Internships" src="https://img.shields.io/github/stars/bsovs/Fall2024-Internships?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="happyx" src="https://gitlibrary.club/images/uploads/2023/09/newshot-happyx.png" /></td>
+        <td>Miscellaneous</td>
+        <td>Nim</td>
+        <td><a href="https://hapticx.github.io/happyx/" target="_blank">happyx</a></td>
+        <td>Macro-oriented asynchronous web-framework written in Nim with ♥</td>
+        <th><a href="https://github.com/HapticX/happyx" target="_blank"><img alt="happyx" src="https://img.shields.io/github/stars/HapticX/happyx?style=social" /></a></th>
     </tr>
 
 </table>
@@ -13979,6 +13987,14 @@
         <td><a href="https://norm.nim.town" target="_blank">Norm</a></td>
         <td>A Nim ORM for SQLite and Postgres</td>
         <th><a href="https://github.com/moigagoo/norm" target="_blank"><img alt="Norm" src="https://img.shields.io/github/stars/moigagoo/norm?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="happyx" src="https://gitlibrary.club/images/uploads/2023/09/newshot-happyx.png" /></td>
+        <td>Miscellaneous</td>
+        <td>Nim</td>
+        <td><a href="https://hapticx.github.io/happyx/" target="_blank">happyx</a></td>
+        <td>Macro-oriented asynchronous web-framework written in Nim with ♥</td>
+        <th><a href="https://github.com/HapticX/happyx" target="_blank"><img alt="happyx" src="https://img.shields.io/github/stars/HapticX/happyx?style=social" /></a></th>
     </tr>
 
 </table>
