@@ -168,6 +168,46 @@
         <th><a href="https://github.com/HexmosTech/Lama2" target="_blank"><img alt="Lama2" src="https://img.shields.io/github/stars/HexmosTech/Lama2?style=social" /></a></th>
     </tr>
     <tr>
+        <td nowrap="nowrap"><img width="33" alt="Vue Macros" src="https://gitlibrary.club/images/uploads/2023/09/newshot-vue-macros.png" /></td>
+        <td>Productivity</td>
+        <td>TypeScript</td>
+        <td><a href="https://vue-macros.sxzz.moe" target="_blank">Vue Macros</a></td>
+        <td>Explore and extend more macros and syntax sugar to Vue.</td>
+        <th><a href="https://github.com/vue-macros/vue-macros" target="_blank"><img alt="Vue Macros" src="https://img.shields.io/github/stars/vue-macros/vue-macros?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Taipy" src="https://gitlibrary.club/images/uploads/2023/09/newshot-taipy.png" /></td>
+        <td>Productivity</td>
+        <td>TypeScript</td>
+        <td><a href="https://www.taipy.io" target="_blank">Taipy</a></td>
+        <td>Turns Data and AI algorithms into full web applications in no time.</td>
+        <th><a href="https://github.com/Avaiga/taipy" target="_blank"><img alt="Taipy" src="https://img.shields.io/github/stars/Avaiga/taipy?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Taipy" src="https://gitlibrary.club/images/uploads/2023/09/newshot-taipy-1.png" /></td>
+        <td>Productivity</td>
+        <td>TypeScript</td>
+        <td><a href="https://www.taipy.io" target="_blank">Taipy</a></td>
+        <td>Turns Data and AI algorithms into full web applications in no time.</td>
+        <th><a href="https://github.com/Avaiga/taipy" target="_blank"><img alt="Taipy" src="https://img.shields.io/github/stars/Avaiga/taipy?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="LocalStack" src="https://gitlibrary.club/images/uploads/2023/09/newshot-localstack-1.png" /></td>
+        <td>Infrastructure</td>
+        <td>Python</td>
+        <td><a href="https://localstack.cloud" target="_blank">LocalStack</a></td>
+        <td>? A fully functional local AWS cloud stack. Develop and test your cloud &amp; Serverless apps offline</td>
+        <th><a href="https://github.com/localstack/localstack" target="_blank"><img alt="LocalStack" src="https://img.shields.io/github/stars/localstack/localstack?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Fall2024 Internships" src="https://gitlibrary.club/images/uploads/2023/09/newshot-Fall2024-Internships.png" /></td>
+        <td>Miscellaneous</td>
+        <td>undefined</td>
+        <td><a href="https://github.com/bsovs/Fall2024-Internships" target="_blank">Fall2024 Internships</a></td>
+        <td>Collection of Fall 2023 tech internships!</td>
+        <th><a href="https://github.com/bsovs/Fall2024-Internships" target="_blank"><img alt="Fall2024 Internships" src="https://img.shields.io/github/stars/bsovs/Fall2024-Internships?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="rttys" src="https://gitlibrary.club/images/uploads/2023/09/newshot-rttys.jpg" /></td>
         <td>Miscellaneous</td>
         <td>Go</td>
@@ -278,46 +318,6 @@
         <td><a href="https://actions.cicirello.org/gnu-on-alpine/" target="_blank">gnu-on-alpine</a></td>
         <td>A lightweight Docker container for shell scripting with GNU tools on Alpine Linux</td>
         <th><a href="https://github.com/cicirello/gnu-on-alpine" target="_blank"><img alt="gnu-on-alpine" src="https://img.shields.io/github/stars/cicirello/gnu-on-alpine?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="alpine-plus-plus" src="https://gitlibrary.club/images/uploads/2023/09/newshot-alpine-plus-plus.jpg" /></td>
-        <td>Infrastructure</td>
-        <td>Dockerfile</td>
-        <td><a href="https://actions.cicirello.org/alpine-plus-plus/" target="_blank">alpine-plus-plus</a></td>
-        <td>A lightweight Docker container for shell scripting with git and GNU tools on Alpine Linux</td>
-        <th><a href="https://github.com/cicirello/alpine-plus-plus" target="_blank"><img alt="alpine-plus-plus" src="https://img.shields.io/github/stars/cicirello/alpine-plus-plus?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="XenOrchestraInstallerUpdater" src="https://gitlibrary.club/images/uploads/2023/09/newshot-XenOrchestraInstallerUpdater-1.jpg" /></td>
-        <td>Infrastructure</td>
-        <td>Shell</td>
-        <td><a href="https://github.com/ronivay/XenOrchestraInstallerUpdater" target="_blank">XenOrchestraInstallerUpdater</a></td>
-        <td>Xen Orchestra install/update script</td>
-        <th><a href="https://github.com/ronivay/XenOrchestraInstallerUpdater" target="_blank"><img alt="XenOrchestraInstallerUpdater" src="https://img.shields.io/github/stars/ronivay/XenOrchestraInstallerUpdater?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Microsoft 365 & Microsoft Graph Library for Python" src="https://gitlibrary.club/images/uploads/2023/09/newshot-Office365-REST-Python-Client.jpg" /></td>
-        <td>Productivity</td>
-        <td>Python</td>
-        <td><a href="https://github.com/vgrem/Office365-REST-Python-Client" target="_blank">Microsoft 365 & Microsoft Graph Library for Python</a></td>
-        <td>Microsoft 365 &amp; Microsoft Graph Library for Python</td>
-        <th><a href="https://github.com/vgrem/Office365-REST-Python-Client" target="_blank"><img alt="Microsoft 365 & Microsoft Graph Library for Python" src="https://img.shields.io/github/stars/vgrem/Office365-REST-Python-Client?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Message Silo" src="https://gitlibrary.club/images/uploads/2023/09/newshot-MessageSilo.png" /></td>
-        <td>Productivity</td>
-        <td>CSS</td>
-        <td><a href="https://www.message-silo.dev" target="_blank">Message Silo</a></td>
-        <td>A tool to fix or enrich messages with the power of AI, and make integration simpler for event-driven systems. Azure Service Bus, AWS SQS, RabbitMQ, and more...</td>
-        <th><a href="https://github.com/MessageSilo/MessageSilo" target="_blank"><img alt="Message Silo" src="https://img.shields.io/github/stars/MessageSilo/MessageSilo?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Rymdport" src="https://gitlibrary.club/images/uploads/2023/09/newshot-rymdport.jpg" /></td>
-        <td>Miscellaneous</td>
-        <td>Go</td>
-        <td><a href="https://rymdport.github.io/" target="_blank">Rymdport</a></td>
-        <td>Cross-platform application for easy encrypted file, folder, and text sharing between devices.</td>
-        <th><a href="https://github.com/Jacalz/rymdport" target="_blank"><img alt="Rymdport" src="https://img.shields.io/github/stars/Jacalz/rymdport?style=social" /></a></th>
     </tr>
 
 </table>
@@ -687,6 +687,22 @@
         <th><a href="https://github.com/devtron-labs/devtron" target="_blank"><img alt="Devtron" src="https://img.shields.io/github/stars/devtron-labs/devtron?style=social" /></a></th>
     </tr>
     <tr>
+        <td nowrap="nowrap"><img width="33" alt="Prim+RPC" src="https://gitlibrary.club/images/uploads/2023/06/newshot-prim-rpc.jpg" /></td>
+        <td>Productivity</td>
+        <td>TypeScript</td>
+        <td><a href="https://prim.doseofted.me" target="_blank">Prim+RPC</a></td>
+        <td>Easy-to-understand, type-safe, transport-agnostic RPC/IPC for JavaScript, supporting callbacks, batching, file uploads, custom serialization, and more.</td>
+        <th><a href="https://github.com/doseofted/prim-rpc" target="_blank"><img alt="Prim+RPC" src="https://img.shields.io/github/stars/doseofted/prim-rpc?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Hackertab.dev" src="https://gitlibrary.club/images/uploads/2023/07/newshot-hackertab.dev_.jpg" /></td>
+        <td>Productivity</td>
+        <td>TypeScript</td>
+        <td><a href="https://hackertab.dev" target="_blank">Hackertab.dev</a></td>
+        <td>A Chrome <g-emoji class="g-emoji" alias="globe_with_meridians" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f310.png">?</g-emoji> &amp; Firefox <g-emoji class="g-emoji" alias="fox_face" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f98a.png">?</g-emoji> extension to discover the best developer news and tools in one tab!</td>
+        <th><a href="https://github.com/medyo/hackertab.dev" target="_blank"><img alt="Hackertab.dev" src="https://img.shields.io/github/stars/medyo/hackertab.dev?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="brapi" src="https://gitlibrary.club/images/uploads/2023/07/newshot-brapi.jpg" /></td>
         <td>Miscellaneous</td>
         <td>TypeScript</td>
@@ -735,28 +751,12 @@
         <th><a href="https://github.com/keephq/keep" target="_blank"><img alt="Keep" src="https://img.shields.io/github/stars/keephq/keep?style=social" /></a></th>
     </tr>
     <tr>
-        <td nowrap="nowrap"><img width="33" alt="Prim+RPC" src="https://gitlibrary.club/images/uploads/2023/06/newshot-prim-rpc.jpg" /></td>
-        <td>Productivity</td>
-        <td>TypeScript</td>
-        <td><a href="https://prim.doseofted.me" target="_blank">Prim+RPC</a></td>
-        <td>Easy-to-understand, type-safe, transport-agnostic RPC/IPC for JavaScript, supporting callbacks, batching, file uploads, custom serialization, and more.</td>
-        <th><a href="https://github.com/doseofted/prim-rpc" target="_blank"><img alt="Prim+RPC" src="https://img.shields.io/github/stars/doseofted/prim-rpc?style=social" /></a></th>
-    </tr>
-    <tr>
         <td nowrap="nowrap"><img width="33" alt="Phase Console" src="https://gitlibrary.club/images/uploads/2023/06/newshot-console.png" /></td>
         <td>Security</td>
         <td>TypeScript</td>
         <td><a href="https://phase.dev" target="_blank">Phase Console</a></td>
         <td>Open-source encryption and key management platform for app developers.</td>
         <th><a href="https://github.com/phasehq/console" target="_blank"><img alt="Phase Console" src="https://img.shields.io/github/stars/phasehq/console?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Hackertab.dev" src="https://gitlibrary.club/images/uploads/2023/07/newshot-hackertab.dev_.jpg" /></td>
-        <td>Productivity</td>
-        <td>TypeScript</td>
-        <td><a href="https://hackertab.dev" target="_blank">Hackertab.dev</a></td>
-        <td>A Chrome <g-emoji class="g-emoji" alias="globe_with_meridians" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f310.png">?</g-emoji> &amp; Firefox <g-emoji class="g-emoji" alias="fox_face" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f98a.png">?</g-emoji> extension to discover the best developer news and tools in one tab!</td>
-        <th><a href="https://github.com/medyo/hackertab.dev" target="_blank"><img alt="Hackertab.dev" src="https://img.shields.io/github/stars/medyo/hackertab.dev?style=social" /></a></th>
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="OpenStatus" src="https://gitlibrary.club/images/uploads/2023/07/newshot-openstatus.png" /></td>
@@ -2508,6 +2508,14 @@
         <td><a href="https://github.com/zhaojh329/rtty" target="_blank">rtty</a></td>
         <td>? Access your terminal from anywhere via the web.</td>
         <th><a href="https://github.com/zhaojh329/rtty" target="_blank"><img alt="rtty" src="https://img.shields.io/github/stars/zhaojh329/rtty?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Fall2024 Internships" src="https://gitlibrary.club/images/uploads/2023/09/newshot-Fall2024-Internships.png" /></td>
+        <td>Miscellaneous</td>
+        <td>undefined</td>
+        <td><a href="https://github.com/bsovs/Fall2024-Internships" target="_blank">Fall2024 Internships</a></td>
+        <td>Collection of Fall 2023 tech internships!</td>
+        <th><a href="https://github.com/bsovs/Fall2024-Internships" target="_blank"><img alt="Fall2024 Internships" src="https://img.shields.io/github/stars/bsovs/Fall2024-Internships?style=social" /></a></th>
     </tr>
 
 </table>
@@ -4664,6 +4672,30 @@
         <td><a href="https://github.com/akosbalasko/yarle" target="_blank">Yarle - The ultimate converter for your Evernote notes</a></td>
         <td>Yarle - The ultimate converter of Evernote notes to Markdown</td>
         <th><a href="https://github.com/akosbalasko/yarle" target="_blank"><img alt="Yarle - The ultimate converter for your Evernote notes" src="https://img.shields.io/github/stars/akosbalasko/yarle?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Vue Macros" src="https://gitlibrary.club/images/uploads/2023/09/newshot-vue-macros.png" /></td>
+        <td>Productivity</td>
+        <td>TypeScript</td>
+        <td><a href="https://vue-macros.sxzz.moe" target="_blank">Vue Macros</a></td>
+        <td>Explore and extend more macros and syntax sugar to Vue.</td>
+        <th><a href="https://github.com/vue-macros/vue-macros" target="_blank"><img alt="Vue Macros" src="https://img.shields.io/github/stars/vue-macros/vue-macros?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Taipy" src="https://gitlibrary.club/images/uploads/2023/09/newshot-taipy.png" /></td>
+        <td>Productivity</td>
+        <td>TypeScript</td>
+        <td><a href="https://www.taipy.io" target="_blank">Taipy</a></td>
+        <td>Turns Data and AI algorithms into full web applications in no time.</td>
+        <th><a href="https://github.com/Avaiga/taipy" target="_blank"><img alt="Taipy" src="https://img.shields.io/github/stars/Avaiga/taipy?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Taipy" src="https://gitlibrary.club/images/uploads/2023/09/newshot-taipy-1.png" /></td>
+        <td>Productivity</td>
+        <td>TypeScript</td>
+        <td><a href="https://www.taipy.io" target="_blank">Taipy</a></td>
+        <td>Turns Data and AI algorithms into full web applications in no time.</td>
+        <th><a href="https://github.com/Avaiga/taipy" target="_blank"><img alt="Taipy" src="https://img.shields.io/github/stars/Avaiga/taipy?style=social" /></a></th>
     </tr>
 
 </table>
@@ -7341,6 +7373,14 @@
         <td>Making SvelteKit validation and displaying of forms easier than ever!</td>
         <th><a href="https://github.com/ciscoheat/sveltekit-superforms" target="_blank"><img alt="Superforms" src="https://img.shields.io/github/stars/ciscoheat/sveltekit-superforms?style=social" /></a></th>
     </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="LocalStack" src="https://gitlibrary.club/images/uploads/2023/09/newshot-localstack-1.png" /></td>
+        <td>Infrastructure</td>
+        <td>Python</td>
+        <td><a href="https://localstack.cloud" target="_blank">LocalStack</a></td>
+        <td>? A fully functional local AWS cloud stack. Develop and test your cloud &amp; Serverless apps offline</td>
+        <th><a href="https://github.com/localstack/localstack" target="_blank"><img alt="LocalStack" src="https://img.shields.io/github/stars/localstack/localstack?style=social" /></a></th>
+    </tr>
 
 </table>
 
@@ -7445,6 +7485,22 @@
         <th><a href="https://github.com/teamhanko/hanko" target="_blank"><img alt="Hanko" src="https://img.shields.io/github/stars/teamhanko/hanko?style=social" /></a></th>
     </tr>
     <tr>
+        <td nowrap="nowrap"><img width="33" alt="Prim+RPC" src="https://gitlibrary.club/images/uploads/2023/06/newshot-prim-rpc.jpg" /></td>
+        <td>Productivity</td>
+        <td>TypeScript</td>
+        <td><a href="https://prim.doseofted.me" target="_blank">Prim+RPC</a></td>
+        <td>Easy-to-understand, type-safe, transport-agnostic RPC/IPC for JavaScript, supporting callbacks, batching, file uploads, custom serialization, and more.</td>
+        <th><a href="https://github.com/doseofted/prim-rpc" target="_blank"><img alt="Prim+RPC" src="https://img.shields.io/github/stars/doseofted/prim-rpc?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Hackertab.dev" src="https://gitlibrary.club/images/uploads/2023/07/newshot-hackertab.dev_.jpg" /></td>
+        <td>Productivity</td>
+        <td>TypeScript</td>
+        <td><a href="https://hackertab.dev" target="_blank">Hackertab.dev</a></td>
+        <td>A Chrome <g-emoji class="g-emoji" alias="globe_with_meridians" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f310.png">?</g-emoji> &amp; Firefox <g-emoji class="g-emoji" alias="fox_face" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f98a.png">?</g-emoji> extension to discover the best developer news and tools in one tab!</td>
+        <th><a href="https://github.com/medyo/hackertab.dev" target="_blank"><img alt="Hackertab.dev" src="https://img.shields.io/github/stars/medyo/hackertab.dev?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="brapi" src="https://gitlibrary.club/images/uploads/2023/07/newshot-brapi.jpg" /></td>
         <td>Miscellaneous</td>
         <td>TypeScript</td>
@@ -7461,28 +7517,12 @@
         <th><a href="https://github.com/zenstackhq/zenstack" target="_blank"><img alt="ZenStack" src="https://img.shields.io/github/stars/zenstackhq/zenstack?style=social" /></a></th>
     </tr>
     <tr>
-        <td nowrap="nowrap"><img width="33" alt="Prim+RPC" src="https://gitlibrary.club/images/uploads/2023/06/newshot-prim-rpc.jpg" /></td>
-        <td>Productivity</td>
-        <td>TypeScript</td>
-        <td><a href="https://prim.doseofted.me" target="_blank">Prim+RPC</a></td>
-        <td>Easy-to-understand, type-safe, transport-agnostic RPC/IPC for JavaScript, supporting callbacks, batching, file uploads, custom serialization, and more.</td>
-        <th><a href="https://github.com/doseofted/prim-rpc" target="_blank"><img alt="Prim+RPC" src="https://img.shields.io/github/stars/doseofted/prim-rpc?style=social" /></a></th>
-    </tr>
-    <tr>
         <td nowrap="nowrap"><img width="33" alt="Phase Console" src="https://gitlibrary.club/images/uploads/2023/06/newshot-console.png" /></td>
         <td>Security</td>
         <td>TypeScript</td>
         <td><a href="https://phase.dev" target="_blank">Phase Console</a></td>
         <td>Open-source encryption and key management platform for app developers.</td>
         <th><a href="https://github.com/phasehq/console" target="_blank"><img alt="Phase Console" src="https://img.shields.io/github/stars/phasehq/console?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Hackertab.dev" src="https://gitlibrary.club/images/uploads/2023/07/newshot-hackertab.dev_.jpg" /></td>
-        <td>Productivity</td>
-        <td>TypeScript</td>
-        <td><a href="https://hackertab.dev" target="_blank">Hackertab.dev</a></td>
-        <td>A Chrome <g-emoji class="g-emoji" alias="globe_with_meridians" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f310.png">?</g-emoji> &amp; Firefox <g-emoji class="g-emoji" alias="fox_face" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f98a.png">?</g-emoji> extension to discover the best developer news and tools in one tab!</td>
-        <th><a href="https://github.com/medyo/hackertab.dev" target="_blank"><img alt="Hackertab.dev" src="https://img.shields.io/github/stars/medyo/hackertab.dev?style=social" /></a></th>
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="OpenStatus" src="https://gitlibrary.club/images/uploads/2023/07/newshot-openstatus.png" /></td>
@@ -8587,6 +8627,30 @@
         <td><a href="https://superforms.rocks" target="_blank">Superforms</a></td>
         <td>Making SvelteKit validation and displaying of forms easier than ever!</td>
         <th><a href="https://github.com/ciscoheat/sveltekit-superforms" target="_blank"><img alt="Superforms" src="https://img.shields.io/github/stars/ciscoheat/sveltekit-superforms?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Vue Macros" src="https://gitlibrary.club/images/uploads/2023/09/newshot-vue-macros.png" /></td>
+        <td>Productivity</td>
+        <td>TypeScript</td>
+        <td><a href="https://vue-macros.sxzz.moe" target="_blank">Vue Macros</a></td>
+        <td>Explore and extend more macros and syntax sugar to Vue.</td>
+        <th><a href="https://github.com/vue-macros/vue-macros" target="_blank"><img alt="Vue Macros" src="https://img.shields.io/github/stars/vue-macros/vue-macros?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Taipy" src="https://gitlibrary.club/images/uploads/2023/09/newshot-taipy.png" /></td>
+        <td>Productivity</td>
+        <td>TypeScript</td>
+        <td><a href="https://www.taipy.io" target="_blank">Taipy</a></td>
+        <td>Turns Data and AI algorithms into full web applications in no time.</td>
+        <th><a href="https://github.com/Avaiga/taipy" target="_blank"><img alt="Taipy" src="https://img.shields.io/github/stars/Avaiga/taipy?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Taipy" src="https://gitlibrary.club/images/uploads/2023/09/newshot-taipy-1.png" /></td>
+        <td>Productivity</td>
+        <td>TypeScript</td>
+        <td><a href="https://www.taipy.io" target="_blank">Taipy</a></td>
+        <td>Turns Data and AI algorithms into full web applications in no time.</td>
+        <th><a href="https://github.com/Avaiga/taipy" target="_blank"><img alt="Taipy" src="https://img.shields.io/github/stars/Avaiga/taipy?style=social" /></a></th>
     </tr>
 
 </table>
@@ -10421,6 +10485,14 @@
         <td><a href="https://github.com/turicas/rows" target="_blank">rows</a></td>
         <td>A common, beautiful interface to tabular data, no matter the format</td>
         <th><a href="https://github.com/turicas/rows" target="_blank"><img alt="rows" src="https://img.shields.io/github/stars/turicas/rows?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="LocalStack" src="https://gitlibrary.club/images/uploads/2023/09/newshot-localstack-1.png" /></td>
+        <td>Infrastructure</td>
+        <td>Python</td>
+        <td><a href="https://localstack.cloud" target="_blank">LocalStack</a></td>
+        <td>? A fully functional local AWS cloud stack. Develop and test your cloud &amp; Serverless apps offline</td>
+        <th><a href="https://github.com/localstack/localstack" target="_blank"><img alt="LocalStack" src="https://img.shields.io/github/stars/localstack/localstack?style=social" /></a></th>
     </tr>
 
 </table>
