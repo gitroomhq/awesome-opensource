@@ -160,6 +160,14 @@
         <th>Stargazers</th>
     </tr>
         <tr>
+        <td nowrap="nowrap"><img width="33" alt="Talk" src="https://gitlibrary.club/images/uploads/2023/09/newshot-talk.jpg" /></td>
+        <td>Productivity</td>
+        <td>Go</td>
+        <td><a href="https://talk.proxoar.com" target="_blank">Talk</a></td>
+        <td>Talking with ChatGPT is a breeze</td>
+        <th><a href="https://github.com/proxoar/talk" target="_blank"><img alt="Talk" src="https://img.shields.io/github/stars/proxoar/talk?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="Lama2" src="https://gitlibrary.club/images/uploads/2023/09/newshot-Lama2.png" /></td>
         <td>Collaboration</td>
         <td>JavaScript</td>
@@ -310,14 +318,6 @@
         <td><a href="https://github.com/fleschutz/PowerShell" target="_blank">Mega Collection of PowerShell Scripts</a></td>
         <td>Mega collection of 500+ useful cross-platform PowerShell scripts (.ps1).</td>
         <th><a href="https://github.com/fleschutz/PowerShell" target="_blank"><img alt="Mega Collection of PowerShell Scripts" src="https://img.shields.io/github/stars/fleschutz/PowerShell?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Yarle - The ultimate converter for your Evernote notes" src="https://gitlibrary.club/images/uploads/2023/09/newshot-yarle.jpg" /></td>
-        <td>Productivity</td>
-        <td>TypeScript</td>
-        <td><a href="https://github.com/akosbalasko/yarle" target="_blank">Yarle - The ultimate converter for your Evernote notes</a></td>
-        <td>Yarle - The ultimate converter of Evernote notes to Markdown</td>
-        <th><a href="https://github.com/akosbalasko/yarle" target="_blank"><img alt="Yarle - The ultimate converter for your Evernote notes" src="https://img.shields.io/github/stars/akosbalasko/yarle?style=social" /></a></th>
     </tr>
 
 </table>
@@ -3154,6 +3154,14 @@
         <th><a href="https://github.com/plskz/100-days-of-productivity" target="_blank"><img alt="100-days-of-productivity" src="https://img.shields.io/github/stars/plskz/100-days-of-productivity?style=social" /></a></th>
     </tr>
     <tr>
+        <td nowrap="nowrap"><img width="33" alt="reduced.to" src="https://gitlibrary.club/images/uploads/2023/05/newshot-reduced.to_.png" /></td>
+        <td>Productivity</td>
+        <td>TypeScript</td>
+        <td><a href="https://reduced.to" target="_blank">reduced.to</a></td>
+        <td>Free Modern URL Reducer. Make sure to share love by giving it a star.<g-emoji class="g-emoji" alias="star2" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f31f.png">?</g-emoji> Have a great day!</td>
+        <th><a href="https://github.com/origranot/reduced.to" target="_blank"><img alt="reduced.to" src="https://img.shields.io/github/stars/origranot/reduced.to?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="Aesthetic Arch Linux dotfiles" src="https://gitlibrary.club/images/uploads/2023/06/newshot-dotfiles.jpg" /></td>
         <td>Productivity</td>
         <td>CSS</td>
@@ -3986,14 +3994,6 @@
         <th><a href="https://github.com/orhun/git-cliff" target="_blank"><img alt="git-cliff" src="https://img.shields.io/github/stars/orhun/git-cliff?style=social" /></a></th>
     </tr>
     <tr>
-        <td nowrap="nowrap"><img width="33" alt="reduced.to" src="https://gitlibrary.club/images/uploads/2023/05/newshot-reduced.to_.png" /></td>
-        <td>Productivity</td>
-        <td>TypeScript</td>
-        <td><a href="https://reduced.to" target="_blank">reduced.to</a></td>
-        <td>Free Modern URL Reducer. Make sure to share love by giving it a star.<g-emoji class="g-emoji" alias="star2" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f31f.png">?</g-emoji> Have a great day!</td>
-        <th><a href="https://github.com/origranot/reduced.to" target="_blank"><img alt="reduced.to" src="https://img.shields.io/github/stars/origranot/reduced.to?style=social" /></a></th>
-    </tr>
-    <tr>
         <td nowrap="nowrap"><img width="33" alt="Node decorators" src="https://gitlibrary.club/images/uploads/2023/05/newshot-node-decorators.jpg" /></td>
         <td>Productivity</td>
         <td>TypeScript</td>
@@ -4704,6 +4704,14 @@
         <td><a href="https://www.taipy.io" target="_blank">Taipy</a></td>
         <td>Turns Data and AI algorithms into full web applications in no time.</td>
         <th><a href="https://github.com/Avaiga/taipy" target="_blank"><img alt="Taipy" src="https://img.shields.io/github/stars/Avaiga/taipy?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Talk" src="https://gitlibrary.club/images/uploads/2023/09/newshot-talk.jpg" /></td>
+        <td>Productivity</td>
+        <td>Go</td>
+        <td><a href="https://talk.proxoar.com" target="_blank">Talk</a></td>
+        <td>Talking with ChatGPT is a breeze</td>
+        <th><a href="https://github.com/proxoar/talk" target="_blank"><img alt="Talk" src="https://img.shields.io/github/stars/proxoar/talk?style=social" /></a></th>
     </tr>
 
 </table>
@@ -7677,6 +7685,14 @@
         <th><a href="https://github.com/plskz/100-days-of-productivity" target="_blank"><img alt="100-days-of-productivity" src="https://img.shields.io/github/stars/plskz/100-days-of-productivity?style=social" /></a></th>
     </tr>
     <tr>
+        <td nowrap="nowrap"><img width="33" alt="reduced.to" src="https://gitlibrary.club/images/uploads/2023/05/newshot-reduced.to_.png" /></td>
+        <td>Productivity</td>
+        <td>TypeScript</td>
+        <td><a href="https://reduced.to" target="_blank">reduced.to</a></td>
+        <td>Free Modern URL Reducer. Make sure to share love by giving it a star.<g-emoji class="g-emoji" alias="star2" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f31f.png">?</g-emoji> Have a great day!</td>
+        <th><a href="https://github.com/origranot/reduced.to" target="_blank"><img alt="reduced.to" src="https://img.shields.io/github/stars/origranot/reduced.to?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="Railtrack" src="https://gitlibrary.club/images/uploads/2023/05/newshot-railtrack.png" /></td>
         <td>Analytics</td>
         <td>TypeScript</td>
@@ -8099,14 +8115,6 @@
         <td><a href="https://boxyhq.com/docs/jackson/overview" target="_blank">SAML Jackson</a></td>
         <td>An Enterprise SAML single sign-on service designed as an OAuth 2.0 flow. Integrate SAML and OIDC SSO with just a few lines of code.</td>
         <th><a href="https://github.com/boxyhq/jackson" target="_blank"><img alt="SAML Jackson" src="https://img.shields.io/github/stars/boxyhq/jackson?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="reduced.to" src="https://gitlibrary.club/images/uploads/2023/05/newshot-reduced.to_.png" /></td>
-        <td>Productivity</td>
-        <td>TypeScript</td>
-        <td><a href="https://reduced.to" target="_blank">reduced.to</a></td>
-        <td>Free Modern URL Reducer. Make sure to share love by giving it a star.<g-emoji class="g-emoji" alias="star2" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f31f.png">?</g-emoji> Have a great day!</td>
-        <th><a href="https://github.com/origranot/reduced.to" target="_blank"><img alt="reduced.to" src="https://img.shields.io/github/stars/origranot/reduced.to?style=social" /></a></th>
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="Node decorators" src="https://gitlibrary.club/images/uploads/2023/05/newshot-node-decorators.jpg" /></td>
@@ -10971,6 +10979,14 @@
         <td><a href="https://devops.pradumnasaraf.dev/" target="_blank">DevOps</a></td>
         <td>This repo contains all my learning related to DevOps</td>
         <th><a href="https://github.com/Pradumnasaraf/DevOps" target="_blank"><img alt="DevOps" src="https://img.shields.io/github/stars/Pradumnasaraf/DevOps?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Talk" src="https://gitlibrary.club/images/uploads/2023/09/newshot-talk.jpg" /></td>
+        <td>Productivity</td>
+        <td>Go</td>
+        <td><a href="https://talk.proxoar.com" target="_blank">Talk</a></td>
+        <td>Talking with ChatGPT is a breeze</td>
+        <th><a href="https://github.com/proxoar/talk" target="_blank"><img alt="Talk" src="https://img.shields.io/github/stars/proxoar/talk?style=social" /></a></th>
     </tr>
 
 </table>
