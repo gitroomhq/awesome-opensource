@@ -160,6 +160,14 @@
         <th>Stargazers</th>
     </tr>
         <tr>
+        <td nowrap="nowrap"><img width="33" alt="StackQL" src="https://gitlibrary.club/images/uploads/2023/10/newshot-stackql.png" /></td>
+        <td>Infrastructure</td>
+        <td>Go</td>
+        <td><a href="https://stackql.io/" target="_blank">StackQL</a></td>
+        <td>Query, provision and operate Cloud and SaaS resources and APIs using an extensible SQL based framework</td>
+        <th><a href="https://github.com/stackql/stackql" target="_blank"><img alt="StackQL" src="https://img.shields.io/github/stars/stackql/stackql?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="Talk" src="https://gitlibrary.club/images/uploads/2023/09/newshot-talk.jpg" /></td>
         <td>Productivity</td>
         <td>Go</td>
@@ -310,14 +318,6 @@
         <td><a href="https://superforms.rocks" target="_blank">Superforms</a></td>
         <td>Making SvelteKit validation and displaying of forms easier than ever!</td>
         <th><a href="https://github.com/ciscoheat/sveltekit-superforms" target="_blank"><img alt="Superforms" src="https://img.shields.io/github/stars/ciscoheat/sveltekit-superforms?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Mega Collection of PowerShell Scripts" src="https://gitlibrary.club/images/uploads/2023/09/newshot-PowerShell.jpg" /></td>
-        <td>Miscellaneous</td>
-        <td>PowerShell</td>
-        <td><a href="https://github.com/fleschutz/PowerShell" target="_blank">Mega Collection of PowerShell Scripts</a></td>
-        <td>Mega collection of 500+ useful cross-platform PowerShell scripts (.ps1).</td>
-        <th><a href="https://github.com/fleschutz/PowerShell" target="_blank"><img alt="Mega Collection of PowerShell Scripts" src="https://img.shields.io/github/stars/fleschutz/PowerShell?style=social" /></a></th>
     </tr>
 
 </table>
@@ -7397,6 +7397,14 @@
         <td>? A fully functional local AWS cloud stack. Develop and test your cloud &amp; Serverless apps offline</td>
         <th><a href="https://github.com/localstack/localstack" target="_blank"><img alt="LocalStack" src="https://img.shields.io/github/stars/localstack/localstack?style=social" /></a></th>
     </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="StackQL" src="https://gitlibrary.club/images/uploads/2023/10/newshot-stackql.png" /></td>
+        <td>Infrastructure</td>
+        <td>Go</td>
+        <td><a href="https://stackql.io/" target="_blank">StackQL</a></td>
+        <td>Query, provision and operate Cloud and SaaS resources and APIs using an extensible SQL based framework</td>
+        <th><a href="https://github.com/stackql/stackql" target="_blank"><img alt="StackQL" src="https://img.shields.io/github/stars/stackql/stackql?style=social" /></a></th>
+    </tr>
 
 </table>
 
@@ -10987,6 +10995,14 @@
         <td><a href="https://talk.proxoar.com" target="_blank">Talk</a></td>
         <td>Talking with ChatGPT is a breeze</td>
         <th><a href="https://github.com/proxoar/talk" target="_blank"><img alt="Talk" src="https://img.shields.io/github/stars/proxoar/talk?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="StackQL" src="https://gitlibrary.club/images/uploads/2023/10/newshot-stackql.png" /></td>
+        <td>Infrastructure</td>
+        <td>Go</td>
+        <td><a href="https://stackql.io/" target="_blank">StackQL</a></td>
+        <td>Query, provision and operate Cloud and SaaS resources and APIs using an extensible SQL based framework</td>
+        <th><a href="https://github.com/stackql/stackql" target="_blank"><img alt="StackQL" src="https://img.shields.io/github/stars/stackql/stackql?style=social" /></a></th>
     </tr>
 
 </table>
