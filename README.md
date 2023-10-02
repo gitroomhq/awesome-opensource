@@ -160,6 +160,14 @@
         <th>Stargazers</th>
     </tr>
         <tr>
+        <td nowrap="nowrap"><img width="33" alt="Aleph" src="https://gitlibrary.club/images/uploads/2023/10/newshot-aleph.png" /></td>
+        <td>Miscellaneous</td>
+        <td>Clojure</td>
+        <td><a href="http://aleph.io" target="_blank">Aleph</a></td>
+        <td>Asynchronous communication for Clojure</td>
+        <th><a href="https://github.com/clj-commons/aleph" target="_blank"><img alt="Aleph" src="https://img.shields.io/github/stars/clj-commons/aleph?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="StackQL" src="https://gitlibrary.club/images/uploads/2023/10/newshot-stackql.png" /></td>
         <td>Infrastructure</td>
         <td>Go</td>
@@ -310,14 +318,6 @@
         <td><a href="https://cabralpinto.github.io/modular-diffusion/" target="_blank">Modular Diffusion</a></td>
         <td>Python library for designing and training your own Diffusion Models with PyTorch.</td>
         <th><a href="https://github.com/cabralpinto/modular-diffusion" target="_blank"><img alt="Modular Diffusion" src="https://img.shields.io/github/stars/cabralpinto/modular-diffusion?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Superforms" src="https://gitlibrary.club/images/uploads/2023/09/newshot-sveltekit-superforms.jpg" /></td>
-        <td>Infrastructure</td>
-        <td>TypeScript</td>
-        <td><a href="https://superforms.rocks" target="_blank">Superforms</a></td>
-        <td>Making SvelteKit validation and displaying of forms easier than ever!</td>
-        <th><a href="https://github.com/ciscoheat/sveltekit-superforms" target="_blank"><img alt="Superforms" src="https://img.shields.io/github/stars/ciscoheat/sveltekit-superforms?style=social" /></a></th>
     </tr>
 
 </table>
@@ -1111,6 +1111,14 @@
         <th><a href="https://github.com/eduardconstantin/doticons" target="_blank"><img alt="doticons" src="https://img.shields.io/github/stars/eduardconstantin/doticons?style=social" /></a></th>
     </tr>
     <tr>
+        <td nowrap="nowrap"><img width="33" alt="Movex" src="https://gitlibrary.club/images/uploads/2023/07/newshot-movex.png" /></td>
+        <td>Miscellaneous</td>
+        <td>TypeScript</td>
+        <td><a href="https://github.com/movesthatmatter/movex" target="_blank">Movex</a></td>
+        <td>State Syncing Strategy for Multiplayers</td>
+        <th><a href="https://github.com/movesthatmatter/movex" target="_blank"><img alt="Movex" src="https://img.shields.io/github/stars/movesthatmatter/movex?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="SmartImage" src="https://gitlibrary.club/images/uploads/2023/08/newshot-SmartImage.png" /></td>
         <td>Productivity</td>
         <td>C#</td>
@@ -1125,14 +1133,6 @@
         <td><a href="https://github.com/enisn/AutoFilterer" target="_blank">AutoFilterer</a></td>
         <td>AutoFilterer is a mini filtering framework library for dotnet. The main purpose of the library is to generate LINQ expressions for Entities over DTOs automatically. The first aim is to be compatibl…</td>
         <th><a href="https://github.com/enisn/AutoFilterer" target="_blank"><img alt="AutoFilterer" src="https://img.shields.io/github/stars/enisn/AutoFilterer?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Payroll Engine" src="https://gitlibrary.club/images/uploads/2023/08/newshot-PayrollEngine.png" /></td>
-        <td>Productivity</td>
-        <td>TSQL</td>
-        <td><a href="https://payrollengine.org/" target="_blank">Payroll Engine</a></td>
-        <td>The payroll automation framework.</td>
-        <th><a href="https://github.com/Payroll-Engine/PayrollEngine" target="_blank"><img alt="Payroll Engine" src="https://img.shields.io/github/stars/Payroll-Engine/PayrollEngine?style=social" /></a></th>
     </tr>
 
 </table>
@@ -1342,6 +1342,14 @@
         <th><a href="https://github.com/eduardconstantin/doticons" target="_blank"><img alt="doticons" src="https://img.shields.io/github/stars/eduardconstantin/doticons?style=social" /></a></th>
     </tr>
     <tr>
+        <td nowrap="nowrap"><img width="33" alt="Movex" src="https://gitlibrary.club/images/uploads/2023/07/newshot-movex.png" /></td>
+        <td>Miscellaneous</td>
+        <td>TypeScript</td>
+        <td><a href="https://github.com/movesthatmatter/movex" target="_blank">Movex</a></td>
+        <td>State Syncing Strategy for Multiplayers</td>
+        <th><a href="https://github.com/movesthatmatter/movex" target="_blank"><img alt="Movex" src="https://img.shields.io/github/stars/movesthatmatter/movex?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="wirepig" src="https://gitlibrary.club/images/uploads/2023/05/newshot-wirepig.jpg" /></td>
         <td>Miscellaneous</td>
         <td>JavaScript</td>
@@ -1412,14 +1420,6 @@
         <td><a href="https://www.ascii-art.site" target="_blank">Art</a></td>
         <td><g-emoji class="g-emoji" alias="art" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f3a8.png">?</g-emoji> ASCII art library for Python</td>
         <th><a href="https://github.com/sepandhaghighi/art" target="_blank"><img alt="Art" src="https://img.shields.io/github/stars/sepandhaghighi/art?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Movex" src="https://gitlibrary.club/images/uploads/2023/07/newshot-movex.png" /></td>
-        <td>Miscellaneous</td>
-        <td>TypeScript</td>
-        <td><a href="https://github.com/movesthatmatter/movex" target="_blank">Movex</a></td>
-        <td>State Syncing Strategy for Multiplayers</td>
-        <th><a href="https://github.com/movesthatmatter/movex" target="_blank"><img alt="Movex" src="https://img.shields.io/github/stars/movesthatmatter/movex?style=social" /></a></th>
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="LLM-in-Vision" src="https://gitlibrary.club/images/uploads/2023/08/newshot-LLM-in-Vision.jpg" /></td>
@@ -2524,6 +2524,14 @@
         <td><a href="https://hapticx.github.io/happyx/" target="_blank">happyx</a></td>
         <td>Macro-oriented asynchronous web-framework written in Nim with ♥</td>
         <th><a href="https://github.com/HapticX/happyx" target="_blank"><img alt="happyx" src="https://img.shields.io/github/stars/HapticX/happyx?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Aleph" src="https://gitlibrary.club/images/uploads/2023/10/newshot-aleph.png" /></td>
+        <td>Miscellaneous</td>
+        <td>Clojure</td>
+        <td><a href="http://aleph.io" target="_blank">Aleph</a></td>
+        <td>Asynchronous communication for Clojure</td>
+        <th><a href="https://github.com/clj-commons/aleph" target="_blank"><img alt="Aleph" src="https://img.shields.io/github/stars/clj-commons/aleph?style=social" /></a></th>
     </tr>
 
 </table>
@@ -7621,6 +7629,14 @@
         <th><a href="https://github.com/retracedhq/retraced" target="_blank"><img alt="Retraced" src="https://img.shields.io/github/stars/retracedhq/retraced?style=social" /></a></th>
     </tr>
     <tr>
+        <td nowrap="nowrap"><img width="33" alt="Movex" src="https://gitlibrary.club/images/uploads/2023/07/newshot-movex.png" /></td>
+        <td>Miscellaneous</td>
+        <td>TypeScript</td>
+        <td><a href="https://github.com/movesthatmatter/movex" target="_blank">Movex</a></td>
+        <td>State Syncing Strategy for Multiplayers</td>
+        <th><a href="https://github.com/movesthatmatter/movex" target="_blank"><img alt="Movex" src="https://img.shields.io/github/stars/movesthatmatter/movex?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="NativeScript-Vue" src="https://gitlibrary.club/images/uploads/2023/05/newshot-nativescript-vue-1.png" /></td>
         <td>Infrastructure</td>
         <td>TypeScript</td>
@@ -7715,14 +7731,6 @@
         <td><a href="https://snapify.it" target="_blank">Snapify</a></td>
         <td>Screen recording sharing for absolutely everyone.</td>
         <th><a href="https://github.com/MarconLP/snapify" target="_blank"><img alt="Snapify" src="https://img.shields.io/github/stars/MarconLP/snapify?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Movex" src="https://gitlibrary.club/images/uploads/2023/07/newshot-movex.png" /></td>
-        <td>Miscellaneous</td>
-        <td>TypeScript</td>
-        <td><a href="https://github.com/movesthatmatter/movex" target="_blank">Movex</a></td>
-        <td>State Syncing Strategy for Multiplayers</td>
-        <th><a href="https://github.com/movesthatmatter/movex" target="_blank"><img alt="Movex" src="https://img.shields.io/github/stars/movesthatmatter/movex?style=social" /></a></th>
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="OpenDataV" src="https://gitlibrary.club/images/uploads/2023/08/newshot-openDataV.jpg" /></td>
@@ -12895,6 +12903,14 @@
         <td><a href="http://day8.github.io/re-frame/" target="_blank">re-frame</a></td>
         <td>A ClojureScript framework for building user interfaces, leveraging React</td>
         <th><a href="https://github.com/day8/re-frame" target="_blank"><img alt="re-frame" src="https://img.shields.io/github/stars/day8/re-frame?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Aleph" src="https://gitlibrary.club/images/uploads/2023/10/newshot-aleph.png" /></td>
+        <td>Miscellaneous</td>
+        <td>Clojure</td>
+        <td><a href="http://aleph.io" target="_blank">Aleph</a></td>
+        <td>Asynchronous communication for Clojure</td>
+        <th><a href="https://github.com/clj-commons/aleph" target="_blank"><img alt="Aleph" src="https://img.shields.io/github/stars/clj-commons/aleph?style=social" /></a></th>
     </tr>
 
 </table>
