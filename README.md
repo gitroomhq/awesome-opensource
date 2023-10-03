@@ -160,6 +160,14 @@
         <th>Stargazers</th>
     </tr>
         <tr>
+        <td nowrap="nowrap"><img width="33" alt="Sidekiq Lifecycle Hooks" src="https://gitlibrary.club/images/uploads/2023/10/newshot-sidekiq_lifecycle_hooks.png" /></td>
+        <td>Infrastructure</td>
+        <td>Ruby</td>
+        <td><a href="https://github.com/WillTaylor22/sidekiq_lifecycle_hooks" target="_blank">Sidekiq Lifecycle Hooks</a></td>
+        <td>Async model lifecycle hooks for Rails, using Sidekiq</td>
+        <th><a href="https://github.com/WillTaylor22/sidekiq_lifecycle_hooks" target="_blank"><img alt="Sidekiq Lifecycle Hooks" src="https://img.shields.io/github/stars/WillTaylor22/sidekiq_lifecycle_hooks?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="Aleph" src="https://gitlibrary.club/images/uploads/2023/10/newshot-aleph.png" /></td>
         <td>Miscellaneous</td>
         <td>Clojure</td>
@@ -310,14 +318,6 @@
         <td><a href="https://bonfire-engine.github.io" target="_blank">Bonfire</a></td>
         <td>(RPG maker) Create RPG-style or similar games more simply with Flame.</td>
         <th><a href="https://github.com/RafaelBarbosatec/bonfire" target="_blank"><img alt="Bonfire" src="https://img.shields.io/github/stars/RafaelBarbosatec/bonfire?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Modular Diffusion" src="https://gitlibrary.club/images/uploads/2023/09/newshot-modular-diffusion.jpg" /></td>
-        <td>Miscellaneous</td>
-        <td>Python</td>
-        <td><a href="https://cabralpinto.github.io/modular-diffusion/" target="_blank">Modular Diffusion</a></td>
-        <td>Python library for designing and training your own Diffusion Models with PyTorch.</td>
-        <th><a href="https://github.com/cabralpinto/modular-diffusion" target="_blank"><img alt="Modular Diffusion" src="https://img.shields.io/github/stars/cabralpinto/modular-diffusion?style=social" /></a></th>
     </tr>
 
 </table>
@@ -7413,6 +7413,14 @@
         <td>Query, provision and operate Cloud and SaaS resources and APIs using an extensible SQL based framework</td>
         <th><a href="https://github.com/stackql/stackql" target="_blank"><img alt="StackQL" src="https://img.shields.io/github/stars/stackql/stackql?style=social" /></a></th>
     </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Sidekiq Lifecycle Hooks" src="https://gitlibrary.club/images/uploads/2023/10/newshot-sidekiq_lifecycle_hooks.png" /></td>
+        <td>Infrastructure</td>
+        <td>Ruby</td>
+        <td><a href="https://github.com/WillTaylor22/sidekiq_lifecycle_hooks" target="_blank">Sidekiq Lifecycle Hooks</a></td>
+        <td>Async model lifecycle hooks for Rails, using Sidekiq</td>
+        <th><a href="https://github.com/WillTaylor22/sidekiq_lifecycle_hooks" target="_blank"><img alt="Sidekiq Lifecycle Hooks" src="https://img.shields.io/github/stars/WillTaylor22/sidekiq_lifecycle_hooks?style=social" /></a></th>
+    </tr>
 
 </table>
 
@@ -12767,6 +12775,14 @@
         <td><a href="https://undercover-ci.com" target="_blank">Undercover</a></td>
         <td>Actionable code coverage - detects untested code blocks in recent changes</td>
         <th><a href="https://github.com/grodowski/undercover" target="_blank"><img alt="Undercover" src="https://img.shields.io/github/stars/grodowski/undercover?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Sidekiq Lifecycle Hooks" src="https://gitlibrary.club/images/uploads/2023/10/newshot-sidekiq_lifecycle_hooks.png" /></td>
+        <td>Infrastructure</td>
+        <td>Ruby</td>
+        <td><a href="https://github.com/WillTaylor22/sidekiq_lifecycle_hooks" target="_blank">Sidekiq Lifecycle Hooks</a></td>
+        <td>Async model lifecycle hooks for Rails, using Sidekiq</td>
+        <th><a href="https://github.com/WillTaylor22/sidekiq_lifecycle_hooks" target="_blank"><img alt="Sidekiq Lifecycle Hooks" src="https://img.shields.io/github/stars/WillTaylor22/sidekiq_lifecycle_hooks?style=social" /></a></th>
     </tr>
 
 </table>
