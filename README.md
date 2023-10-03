@@ -168,6 +168,14 @@
         <th><a href="https://github.com/WillTaylor22/sidekiq_lifecycle_hooks" target="_blank"><img alt="Sidekiq Lifecycle Hooks" src="https://img.shields.io/github/stars/WillTaylor22/sidekiq_lifecycle_hooks?style=social" /></a></th>
     </tr>
     <tr>
+        <td nowrap="nowrap"><img width="33" alt="LLMWare" src="https://gitlibrary.club/images/uploads/2023/10/newshot-llmware.png" /></td>
+        <td>Productivity</td>
+        <td>Python</td>
+        <td><a href="https://github.com/llmware-ai/llmware" target="_blank">LLMWare</a></td>
+        <td> Providing enterprise-grade LLM-based development framework, tools and fine-tuned models.</td>
+        <th><a href="https://github.com/llmware-ai/llmware" target="_blank"><img alt="LLMWare" src="https://img.shields.io/github/stars/llmware-ai/llmware?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="Aleph" src="https://gitlibrary.club/images/uploads/2023/10/newshot-aleph.png" /></td>
         <td>Miscellaneous</td>
         <td>Clojure</td>
@@ -310,14 +318,6 @@
         <td><a href="https://evidence.dev" target="_blank">Evidence</a></td>
         <td>Business intelligence as code: build polished data products with SQL and markdown</td>
         <th><a href="https://github.com/evidence-dev/evidence" target="_blank"><img alt="Evidence" src="https://img.shields.io/github/stars/evidence-dev/evidence?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Bonfire" src="https://gitlibrary.club/images/uploads/2023/09/newshot-bonfire.jpg" /></td>
-        <td>Productivity</td>
-        <td>Dart</td>
-        <td><a href="https://bonfire-engine.github.io" target="_blank">Bonfire</a></td>
-        <td>(RPG maker) Create RPG-style or similar games more simply with Flame.</td>
-        <th><a href="https://github.com/RafaelBarbosatec/bonfire" target="_blank"><img alt="Bonfire" src="https://img.shields.io/github/stars/RafaelBarbosatec/bonfire?style=social" /></a></th>
     </tr>
 
 </table>
@@ -4720,6 +4720,14 @@
         <td><a href="https://talk.proxoar.com" target="_blank">Talk</a></td>
         <td>Talking with ChatGPT is a breeze</td>
         <th><a href="https://github.com/proxoar/talk" target="_blank"><img alt="Talk" src="https://img.shields.io/github/stars/proxoar/talk?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="LLMWare" src="https://gitlibrary.club/images/uploads/2023/10/newshot-llmware.png" /></td>
+        <td>Productivity</td>
+        <td>Python</td>
+        <td><a href="https://github.com/llmware-ai/llmware" target="_blank">LLMWare</a></td>
+        <td> Providing enterprise-grade LLM-based development framework, tools and fine-tuned models.</td>
+        <th><a href="https://github.com/llmware-ai/llmware" target="_blank"><img alt="LLMWare" src="https://img.shields.io/github/stars/llmware-ai/llmware?style=social" /></a></th>
     </tr>
 
 </table>
@@ -10533,6 +10541,14 @@
         <td><a href="https://localstack.cloud" target="_blank">LocalStack</a></td>
         <td>? A fully functional local AWS cloud stack. Develop and test your cloud &amp; Serverless apps offline</td>
         <th><a href="https://github.com/localstack/localstack" target="_blank"><img alt="LocalStack" src="https://img.shields.io/github/stars/localstack/localstack?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="LLMWare" src="https://gitlibrary.club/images/uploads/2023/10/newshot-llmware.png" /></td>
+        <td>Productivity</td>
+        <td>Python</td>
+        <td><a href="https://github.com/llmware-ai/llmware" target="_blank">LLMWare</a></td>
+        <td> Providing enterprise-grade LLM-based development framework, tools and fine-tuned models.</td>
+        <th><a href="https://github.com/llmware-ai/llmware" target="_blank"><img alt="LLMWare" src="https://img.shields.io/github/stars/llmware-ai/llmware?style=social" /></a></th>
     </tr>
 
 </table>
