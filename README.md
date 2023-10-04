@@ -143,6 +143,8 @@
                 <a href="#sql">Top 20 SQL libraries</a>
              </li>          <li>
                 <a href="#elm">Top 20 Elm libraries</a>
+             </li>          <li>
+                <a href="#assembly">Top 20 Assembly libraries</a>
              </li>        
         </ul>
     </li>
@@ -160,6 +162,30 @@
         <th>Stargazers</th>
     </tr>
         <tr>
+        <td nowrap="nowrap"><img width="33" alt="PyMilo" src="https://gitlibrary.club/images/uploads/2023/10/newshot-pymilo.jpg" /></td>
+        <td>Infrastructure</td>
+        <td>Python</td>
+        <td><a href="https://github.com/openscilab/pymilo" target="_blank">PyMilo</a></td>
+        <td>PyMilo: Python for ML I/O</td>
+        <th><a href="https://github.com/openscilab/pymilo" target="_blank"><img alt="PyMilo" src="https://img.shields.io/github/stars/openscilab/pymilo?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="? Rugby" src="https://gitlibrary.club/images/uploads/2023/10/newshot-Rugby.jpg" /></td>
+        <td>Infrastructure</td>
+        <td>Swift</td>
+        <td><a href="https://swiftyfinch.github.io/tags/rugby/" target="_blank">? Rugby</a></td>
+        <td>? Cache CocoaPods for faster rebuild and indexing Xcode project</td>
+        <th><a href="https://github.com/swiftyfinch/Rugby" target="_blank"><img alt="? Rugby" src="https://img.shields.io/github/stars/swiftyfinch/Rugby?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="snake" src="https://gitlibrary.club/images/uploads/2023/10/newshot-snake.png" /></td>
+        <td>Miscellaneous</td>
+        <td>Assembly</td>
+        <td><a href="https://donno2048.github.io/snake/" target="_blank">snake</a></td>
+        <td>A minimal snake in assembly </td>
+        <th><a href="https://github.com/donno2048/snake" target="_blank"><img alt="snake" src="https://img.shields.io/github/stars/donno2048/snake?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="Sidekiq Lifecycle Hooks" src="https://gitlibrary.club/images/uploads/2023/10/newshot-sidekiq_lifecycle_hooks.png" /></td>
         <td>Infrastructure</td>
         <td>Ruby</td>
@@ -294,30 +320,6 @@
         <td><a href="https://github.com/nickjj/docker-django-example" target="_blank">Docker Django Example</a></td>
         <td>A production ready example Django app that's using Docker and Docker Compose.</td>
         <th><a href="https://github.com/nickjj/docker-django-example" target="_blank"><img alt="Docker Django Example" src="https://img.shields.io/github/stars/nickjj/docker-django-example?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="rows" src="https://gitlibrary.club/images/uploads/2023/09/newshot-rows.jpg" /></td>
-        <td>Databases</td>
-        <td>Python</td>
-        <td><a href="https://github.com/turicas/rows" target="_blank">rows</a></td>
-        <td>A common, beautiful interface to tabular data, no matter the format</td>
-        <th><a href="https://github.com/turicas/rows" target="_blank"><img alt="rows" src="https://img.shields.io/github/stars/turicas/rows?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="rtty" src="https://gitlibrary.club/images/uploads/2023/09/newshot-rtty-1.jpg" /></td>
-        <td>Miscellaneous</td>
-        <td>C</td>
-        <td><a href="https://github.com/zhaojh329/rtty" target="_blank">rtty</a></td>
-        <td>? Access your terminal from anywhere via the web.</td>
-        <th><a href="https://github.com/zhaojh329/rtty" target="_blank"><img alt="rtty" src="https://img.shields.io/github/stars/zhaojh329/rtty?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Evidence" src="https://gitlibrary.club/images/uploads/2023/09/newshot-evidence.png" /></td>
-        <td>Analytics</td>
-        <td>Svelte</td>
-        <td><a href="https://evidence.dev" target="_blank">Evidence</a></td>
-        <td>Business intelligence as code: build polished data products with SQL and markdown</td>
-        <th><a href="https://github.com/evidence-dev/evidence" target="_blank"><img alt="Evidence" src="https://img.shields.io/github/stars/evidence-dev/evidence?style=social" /></a></th>
     </tr>
 
 </table>
@@ -1438,6 +1440,14 @@
         <th><a href="https://github.com/rewindui/rewindui" target="_blank"><img alt="Rewind-UI" src="https://img.shields.io/github/stars/rewindui/rewindui?style=social" /></a></th>
     </tr>
     <tr>
+        <td nowrap="nowrap"><img width="33" alt="PyRGG" src="https://gitlibrary.club/images/uploads/2023/08/newshot-pyrgg.png" /></td>
+        <td>Miscellaneous</td>
+        <td>Python</td>
+        <td><a href="https://www.pyrgg.ir" target="_blank">PyRGG</a></td>
+        <td><g-emoji class="g-emoji" alias="wrench" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f527.png">?</g-emoji> Python Random Graph Generator</td>
+        <th><a href="https://github.com/sepandhaghighi/pyrgg" target="_blank"><img alt="PyRGG" src="https://img.shields.io/github/stars/sepandhaghighi/pyrgg?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="Time Period Library for .NET" src="https://gitlibrary.club/images/uploads/2023/08/newshot-TimePeriodLibrary.png" /></td>
         <td>Miscellaneous</td>
         <td>C#</td>
@@ -2150,14 +2160,6 @@
         <th><a href="https://github.com/sepandhaghighi/mytimer" target="_blank"><img alt="MyTimer" src="https://img.shields.io/github/stars/sepandhaghighi/mytimer?style=social" /></a></th>
     </tr>
     <tr>
-        <td nowrap="nowrap"><img width="33" alt="PyRGG" src="https://gitlibrary.club/images/uploads/2023/08/newshot-pyrgg.png" /></td>
-        <td>Miscellaneous</td>
-        <td>Python</td>
-        <td><a href="https://www.pyrgg.ir" target="_blank">PyRGG</a></td>
-        <td><g-emoji class="g-emoji" alias="wrench" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f527.png">?</g-emoji> Python Random Graph Generator</td>
-        <th><a href="https://github.com/sepandhaghighi/pyrgg" target="_blank"><img alt="PyRGG" src="https://img.shields.io/github/stars/sepandhaghighi/pyrgg?style=social" /></a></th>
-    </tr>
-    <tr>
         <td nowrap="nowrap"><img width="33" alt="OPEM" src="https://gitlibrary.club/images/uploads/2023/08/newshot-opem.png" /></td>
         <td>Miscellaneous</td>
         <td>Python</td>
@@ -2532,6 +2534,14 @@
         <td><a href="http://aleph.io" target="_blank">Aleph</a></td>
         <td>Asynchronous communication for Clojure</td>
         <th><a href="https://github.com/clj-commons/aleph" target="_blank"><img alt="Aleph" src="https://img.shields.io/github/stars/clj-commons/aleph?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="snake" src="https://gitlibrary.club/images/uploads/2023/10/newshot-snake.png" /></td>
+        <td>Miscellaneous</td>
+        <td>Assembly</td>
+        <td><a href="https://donno2048.github.io/snake/" target="_blank">snake</a></td>
+        <td>A minimal snake in assembly </td>
+        <th><a href="https://github.com/donno2048/snake" target="_blank"><img alt="snake" src="https://img.shields.io/github/stars/donno2048/snake?style=social" /></a></th>
     </tr>
 
 </table>
@@ -7429,6 +7439,22 @@
         <td>Async model lifecycle hooks for Rails, using Sidekiq</td>
         <th><a href="https://github.com/WillTaylor22/sidekiq_lifecycle_hooks" target="_blank"><img alt="Sidekiq Lifecycle Hooks" src="https://img.shields.io/github/stars/WillTaylor22/sidekiq_lifecycle_hooks?style=social" /></a></th>
     </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="PyMilo" src="https://gitlibrary.club/images/uploads/2023/10/newshot-pymilo.jpg" /></td>
+        <td>Infrastructure</td>
+        <td>Python</td>
+        <td><a href="https://github.com/openscilab/pymilo" target="_blank">PyMilo</a></td>
+        <td>PyMilo: Python for ML I/O</td>
+        <th><a href="https://github.com/openscilab/pymilo" target="_blank"><img alt="PyMilo" src="https://img.shields.io/github/stars/openscilab/pymilo?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="? Rugby" src="https://gitlibrary.club/images/uploads/2023/10/newshot-Rugby.jpg" /></td>
+        <td>Infrastructure</td>
+        <td>Swift</td>
+        <td><a href="https://swiftyfinch.github.io/tags/rugby/" target="_blank">? Rugby</a></td>
+        <td>? Cache CocoaPods for faster rebuild and indexing Xcode project</td>
+        <th><a href="https://github.com/swiftyfinch/Rugby" target="_blank"><img alt="? Rugby" src="https://img.shields.io/github/stars/swiftyfinch/Rugby?style=social" /></a></th>
+    </tr>
 
 </table>
 
@@ -9799,6 +9825,14 @@
         <th><a href="https://github.com/runprism/prism" target="_blank"><img alt="Prism" src="https://img.shields.io/github/stars/runprism/prism?style=social" /></a></th>
     </tr>
     <tr>
+        <td nowrap="nowrap"><img width="33" alt="PyRGG" src="https://gitlibrary.club/images/uploads/2023/08/newshot-pyrgg.png" /></td>
+        <td>Miscellaneous</td>
+        <td>Python</td>
+        <td><a href="https://www.pyrgg.ir" target="_blank">PyRGG</a></td>
+        <td><g-emoji class="g-emoji" alias="wrench" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f527.png">?</g-emoji> Python Random Graph Generator</td>
+        <th><a href="https://github.com/sepandhaghighi/pyrgg" target="_blank"><img alt="PyRGG" src="https://img.shields.io/github/stars/sepandhaghighi/pyrgg?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="GoogleTranslate_IPFinder" src="https://gitlibrary.club/images/uploads/2023/08/newshot-GoogleTranslate_IPFinder.png" /></td>
         <td>Productivity</td>
         <td>Python</td>
@@ -10279,14 +10313,6 @@
         <th><a href="https://github.com/sepandhaghighi/mytimer" target="_blank"><img alt="MyTimer" src="https://img.shields.io/github/stars/sepandhaghighi/mytimer?style=social" /></a></th>
     </tr>
     <tr>
-        <td nowrap="nowrap"><img width="33" alt="PyRGG" src="https://gitlibrary.club/images/uploads/2023/08/newshot-pyrgg.png" /></td>
-        <td>Miscellaneous</td>
-        <td>Python</td>
-        <td><a href="https://www.pyrgg.ir" target="_blank">PyRGG</a></td>
-        <td><g-emoji class="g-emoji" alias="wrench" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f527.png">?</g-emoji> Python Random Graph Generator</td>
-        <th><a href="https://github.com/sepandhaghighi/pyrgg" target="_blank"><img alt="PyRGG" src="https://img.shields.io/github/stars/sepandhaghighi/pyrgg?style=social" /></a></th>
-    </tr>
-    <tr>
         <td nowrap="nowrap"><img width="33" alt="OPEM" src="https://gitlibrary.club/images/uploads/2023/08/newshot-opem.png" /></td>
         <td>Miscellaneous</td>
         <td>Python</td>
@@ -10549,6 +10575,14 @@
         <td><a href="https://github.com/llmware-ai/llmware" target="_blank">LLMWare</a></td>
         <td> Providing enterprise-grade LLM-based development framework, tools and fine-tuned models.</td>
         <th><a href="https://github.com/llmware-ai/llmware" target="_blank"><img alt="LLMWare" src="https://img.shields.io/github/stars/llmware-ai/llmware?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="PyMilo" src="https://gitlibrary.club/images/uploads/2023/10/newshot-pymilo.jpg" /></td>
+        <td>Infrastructure</td>
+        <td>Python</td>
+        <td><a href="https://github.com/openscilab/pymilo" target="_blank">PyMilo</a></td>
+        <td>PyMilo: Python for ML I/O</td>
+        <th><a href="https://github.com/openscilab/pymilo" target="_blank"><img alt="PyMilo" src="https://img.shields.io/github/stars/openscilab/pymilo?style=social" /></a></th>
     </tr>
 
 </table>
@@ -13660,6 +13694,14 @@
         <td>AdsRepo is a Swift base library for managing and loading different ad units simultaneously and controlling all of them under repository options and functions. the repository will load ads and keep …</td>
         <th><a href="https://github.com/SwiftLand/AdsRepo" target="_blank"><img alt="AdsRepo" src="https://img.shields.io/github/stars/SwiftLand/AdsRepo?style=social" /></a></th>
     </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="? Rugby" src="https://gitlibrary.club/images/uploads/2023/10/newshot-Rugby.jpg" /></td>
+        <td>Infrastructure</td>
+        <td>Swift</td>
+        <td><a href="https://swiftyfinch.github.io/tags/rugby/" target="_blank">? Rugby</a></td>
+        <td>? Cache CocoaPods for faster rebuild and indexing Xcode project</td>
+        <th><a href="https://github.com/swiftyfinch/Rugby" target="_blank"><img alt="? Rugby" src="https://img.shields.io/github/stars/swiftyfinch/Rugby?style=social" /></a></th>
+    </tr>
 
 </table>
 
@@ -14195,6 +14237,28 @@
         <td><a href="https://azimutt.app?ref=github-repo" target="_blank">Azimutt</a></td>
         <td>Next-Gen ERD: Design, Explore, Document and Analyze your database</td>
         <th><a href="https://github.com/azimuttapp/azimutt" target="_blank"><img alt="Azimutt" src="https://img.shields.io/github/stars/azimuttapp/azimutt?style=social" /></a></th>
+    </tr>
+
+</table>
+
+<br /><br />
+<h2 id="assembly">Top 20 Assembly libraries</h2>
+<table>
+    <tr>
+        <th>Icon</th>
+        <th>Category</th>
+        <th>Language</th>
+        <th>Name</th>
+        <th>Description</th>
+        <th>Stargazers</th>
+    </tr>
+        <tr>
+        <td nowrap="nowrap"><img width="33" alt="snake" src="https://gitlibrary.club/images/uploads/2023/10/newshot-snake.png" /></td>
+        <td>Miscellaneous</td>
+        <td>Assembly</td>
+        <td><a href="https://donno2048.github.io/snake/" target="_blank">snake</a></td>
+        <td>A minimal snake in assembly </td>
+        <th><a href="https://github.com/donno2048/snake" target="_blank"><img alt="snake" src="https://img.shields.io/github/stars/donno2048/snake?style=social" /></a></th>
     </tr>
 
 </table>
