@@ -162,6 +162,14 @@
         <th>Stargazers</th>
     </tr>
         <tr>
+        <td nowrap="nowrap"><img width="33" alt="A set of modern Grafana dashboards for Kubernetes" src="https://gitlibrary.club/images/uploads/2023/10/newshot-grafana-dashboards-kubernetes.jpg" /></td>
+        <td>Observability</td>
+        <td>undefined</td>
+        <td><a href="https://github.com/dotdc/grafana-dashboards-kubernetes" target="_blank">A set of modern Grafana dashboards for Kubernetes</a></td>
+        <td>A set of modern Grafana dashboards for Kubernetes.</td>
+        <th><a href="https://github.com/dotdc/grafana-dashboards-kubernetes" target="_blank"><img alt="A set of modern Grafana dashboards for Kubernetes" src="https://img.shields.io/github/stars/dotdc/grafana-dashboards-kubernetes?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="PyMilo" src="https://gitlibrary.club/images/uploads/2023/10/newshot-pymilo.jpg" /></td>
         <td>Infrastructure</td>
         <td>Python</td>
@@ -312,14 +320,6 @@
         <td><a href="https://zhaojh329.github.io/oui/" target="_blank">oui</a></td>
         <td>? A framework used to develop Web interface for OpenWrt. Use Lua-eco + Vue3 + Vite + Naive-ui.</td>
         <th><a href="https://github.com/zhaojh329/oui" target="_blank"><img alt="oui" src="https://img.shields.io/github/stars/zhaojh329/oui?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Docker Django Example" src="https://gitlibrary.club/images/uploads/2023/09/newshot-docker-django-example.jpg" /></td>
-        <td>Miscellaneous</td>
-        <td>Python</td>
-        <td><a href="https://github.com/nickjj/docker-django-example" target="_blank">Docker Django Example</a></td>
-        <td>A production ready example Django app that's using Docker and Docker Compose.</td>
-        <th><a href="https://github.com/nickjj/docker-django-example" target="_blank"><img alt="Docker Django Example" src="https://img.shields.io/github/stars/nickjj/docker-django-example?style=social" /></a></th>
     </tr>
 
 </table>
@@ -913,6 +913,14 @@
         <th><a href="https://github.com/ariasdiniz/macaw_framework" target="_blank"><img alt="MacawFramework" src="https://img.shields.io/github/stars/ariasdiniz/macaw_framework?style=social" /></a></th>
     </tr>
     <tr>
+        <td nowrap="nowrap"><img width="33" alt="Quickwit" src="https://gitlibrary.club/images/uploads/2023/05/newshot-quickwit.png" /></td>
+        <td>Observability</td>
+        <td>Rust</td>
+        <td><a href="https://quickwit.io" target="_blank">Quickwit</a></td>
+        <td>Sub-second search &amp; analytics engine on cloud storage</td>
+        <th><a href="https://github.com/quickwit-oss/quickwit" target="_blank"><img alt="Quickwit" src="https://img.shields.io/github/stars/quickwit-oss/quickwit?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="Aptabase" src="https://gitlibrary.club/images/uploads/2023/06/newshot-aptabase.png" /></td>
         <td>Analytics</td>
         <td>TypeScript</td>
@@ -1079,14 +1087,6 @@
         <td><a href="https://boxyhq.com/audit-logs" target="_blank">Retraced</a></td>
         <td>A fully open source audit logs service and embeddable UI easily deployed to your own Kubernetes cluster. Brought to you by replicated.com and boxyhq.com</td>
         <th><a href="https://github.com/retracedhq/retraced" target="_blank"><img alt="Retraced" src="https://img.shields.io/github/stars/retracedhq/retraced?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Quickwit" src="https://gitlibrary.club/images/uploads/2023/05/newshot-quickwit.png" /></td>
-        <td>Observability</td>
-        <td>Rust</td>
-        <td><a href="https://quickwit.io" target="_blank">Quickwit</a></td>
-        <td>Sub-second search &amp; analytics engine on cloud storage</td>
-        <th><a href="https://github.com/quickwit-oss/quickwit" target="_blank"><img alt="Quickwit" src="https://img.shields.io/github/stars/quickwit-oss/quickwit?style=social" /></a></th>
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="trame" src="https://gitlibrary.club/images/uploads/2023/06/newshot-trame.png" /></td>
@@ -2566,6 +2566,14 @@
         <th><a href="https://github.com/Frezyx/talker" target="_blank"><img alt="Talker" src="https://img.shields.io/github/stars/Frezyx/talker?style=social" /></a></th>
     </tr>
     <tr>
+        <td nowrap="nowrap"><img width="33" alt="Quickwit" src="https://gitlibrary.club/images/uploads/2023/05/newshot-quickwit.png" /></td>
+        <td>Observability</td>
+        <td>Rust</td>
+        <td><a href="https://quickwit.io" target="_blank">Quickwit</a></td>
+        <td>Sub-second search &amp; analytics engine on cloud storage</td>
+        <th><a href="https://github.com/quickwit-oss/quickwit" target="_blank"><img alt="Quickwit" src="https://img.shields.io/github/stars/quickwit-oss/quickwit?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="Prometheus Operator" src="https://gitlibrary.club/images/uploads/2023/05/newshot-kube-prometheus.png" /></td>
         <td>Observability</td>
         <td>Jsonnet</td>
@@ -2582,12 +2590,12 @@
         <th><a href="https://github.com/maxday/lambda-perf" target="_blank"><img alt="lambda-perf" src="https://img.shields.io/github/stars/maxday/lambda-perf?style=social" /></a></th>
     </tr>
     <tr>
-        <td nowrap="nowrap"><img width="33" alt="Quickwit" src="https://gitlibrary.club/images/uploads/2023/05/newshot-quickwit.png" /></td>
+        <td nowrap="nowrap"><img width="33" alt="A set of modern Grafana dashboards for Kubernetes" src="https://gitlibrary.club/images/uploads/2023/10/newshot-grafana-dashboards-kubernetes.jpg" /></td>
         <td>Observability</td>
-        <td>Rust</td>
-        <td><a href="https://quickwit.io" target="_blank">Quickwit</a></td>
-        <td>Sub-second search &amp; analytics engine on cloud storage</td>
-        <th><a href="https://github.com/quickwit-oss/quickwit" target="_blank"><img alt="Quickwit" src="https://img.shields.io/github/stars/quickwit-oss/quickwit?style=social" /></a></th>
+        <td>undefined</td>
+        <td><a href="https://github.com/dotdc/grafana-dashboards-kubernetes" target="_blank">A set of modern Grafana dashboards for Kubernetes</a></td>
+        <td>A set of modern Grafana dashboards for Kubernetes.</td>
+        <th><a href="https://github.com/dotdc/grafana-dashboards-kubernetes" target="_blank"><img alt="A set of modern Grafana dashboards for Kubernetes" src="https://img.shields.io/github/stars/dotdc/grafana-dashboards-kubernetes?style=social" /></a></th>
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="nvidia_gpu_exporter" src="https://gitlibrary.club/images/uploads/2023/07/newshot-nvidia_gpu_exporter.jpg" /></td>
@@ -11651,20 +11659,20 @@
         <th><a href="https://github.com/juspay/hyperswitch" target="_blank"><img alt="Hyperswitch" src="https://img.shields.io/github/stars/juspay/hyperswitch?style=social" /></a></th>
     </tr>
     <tr>
-        <td nowrap="nowrap"><img width="33" alt="Sniffnet" src="https://gitlibrary.club/images/uploads/2023/09/newshot-sniffnet.jpg" /></td>
-        <td>Security</td>
-        <td>Rust</td>
-        <td><a href="https://sniffnet.net" target="_blank">Sniffnet</a></td>
-        <td>Application to comfortably monitor your Internet traffic ?️‍♂️</td>
-        <th><a href="https://github.com/GyulyVGC/sniffnet" target="_blank"><img alt="Sniffnet" src="https://img.shields.io/github/stars/GyulyVGC/sniffnet?style=social" /></a></th>
-    </tr>
-    <tr>
         <td nowrap="nowrap"><img width="33" alt="Quickwit" src="https://gitlibrary.club/images/uploads/2023/05/newshot-quickwit.png" /></td>
         <td>Observability</td>
         <td>Rust</td>
         <td><a href="https://quickwit.io" target="_blank">Quickwit</a></td>
         <td>Sub-second search &amp; analytics engine on cloud storage</td>
         <th><a href="https://github.com/quickwit-oss/quickwit" target="_blank"><img alt="Quickwit" src="https://img.shields.io/github/stars/quickwit-oss/quickwit?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Sniffnet" src="https://gitlibrary.club/images/uploads/2023/09/newshot-sniffnet.jpg" /></td>
+        <td>Security</td>
+        <td>Rust</td>
+        <td><a href="https://sniffnet.net" target="_blank">Sniffnet</a></td>
+        <td>Application to comfortably monitor your Internet traffic ?️‍♂️</td>
+        <th><a href="https://github.com/GyulyVGC/sniffnet" target="_blank"><img alt="Sniffnet" src="https://img.shields.io/github/stars/GyulyVGC/sniffnet?style=social" /></a></th>
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="mirrord" src="https://gitlibrary.club/images/uploads/2023/08/newshot-mirrord.jpg" /></td>
