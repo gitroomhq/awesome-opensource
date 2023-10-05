@@ -186,20 +186,20 @@
         <th><a href="https://github.com/donno2048/snake" target="_blank"><img alt="snake" src="https://img.shields.io/github/stars/donno2048/snake?style=social" /></a></th>
     </tr>
     <tr>
-        <td nowrap="nowrap"><img width="33" alt="Sidekiq Lifecycle Hooks" src="https://gitlibrary.club/images/uploads/2023/10/newshot-sidekiq_lifecycle_hooks.png" /></td>
-        <td>Infrastructure</td>
-        <td>Ruby</td>
-        <td><a href="https://github.com/WillTaylor22/sidekiq_lifecycle_hooks" target="_blank">Sidekiq Lifecycle Hooks</a></td>
-        <td>Async model lifecycle hooks for Rails, using Sidekiq</td>
-        <th><a href="https://github.com/WillTaylor22/sidekiq_lifecycle_hooks" target="_blank"><img alt="Sidekiq Lifecycle Hooks" src="https://img.shields.io/github/stars/WillTaylor22/sidekiq_lifecycle_hooks?style=social" /></a></th>
-    </tr>
-    <tr>
         <td nowrap="nowrap"><img width="33" alt="LLMWare" src="https://gitlibrary.club/images/uploads/2023/10/newshot-llmware.png" /></td>
         <td>Productivity</td>
         <td>Python</td>
         <td><a href="https://github.com/llmware-ai/llmware" target="_blank">LLMWare</a></td>
         <td> Providing enterprise-grade LLM-based development framework, tools and fine-tuned models.</td>
         <th><a href="https://github.com/llmware-ai/llmware" target="_blank"><img alt="LLMWare" src="https://img.shields.io/github/stars/llmware-ai/llmware?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Sidekiq Lifecycle Hooks" src="https://gitlibrary.club/images/uploads/2023/10/newshot-sidekiq_lifecycle_hooks.png" /></td>
+        <td>Infrastructure</td>
+        <td>Ruby</td>
+        <td><a href="https://github.com/WillTaylor22/sidekiq_lifecycle_hooks" target="_blank">Sidekiq Lifecycle Hooks</a></td>
+        <td>Async model lifecycle hooks for Rails, using Sidekiq</td>
+        <th><a href="https://github.com/WillTaylor22/sidekiq_lifecycle_hooks" target="_blank"><img alt="Sidekiq Lifecycle Hooks" src="https://img.shields.io/github/stars/WillTaylor22/sidekiq_lifecycle_hooks?style=social" /></a></th>
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="Aleph" src="https://gitlibrary.club/images/uploads/2023/10/newshot-aleph.png" /></td>
@@ -3300,6 +3300,14 @@
         <th><a href="https://github.com/RafaelBarbosatec/bonfire" target="_blank"><img alt="Bonfire" src="https://img.shields.io/github/stars/RafaelBarbosatec/bonfire?style=social" /></a></th>
     </tr>
     <tr>
+        <td nowrap="nowrap"><img width="33" alt="LLMWare" src="https://gitlibrary.club/images/uploads/2023/10/newshot-llmware.png" /></td>
+        <td>Productivity</td>
+        <td>Python</td>
+        <td><a href="https://github.com/llmware-ai/llmware" target="_blank">LLMWare</a></td>
+        <td> Providing enterprise-grade LLM-based development framework, tools and fine-tuned models.</td>
+        <th><a href="https://github.com/llmware-ai/llmware" target="_blank"><img alt="LLMWare" src="https://img.shields.io/github/stars/llmware-ai/llmware?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="VS Code Docs" src="https://gitlibrary.club/images/uploads/2023/05/newshot-vscode-docs.png" /></td>
         <td>Productivity</td>
         <td>CSS</td>
@@ -4730,14 +4738,6 @@
         <td><a href="https://talk.proxoar.com" target="_blank">Talk</a></td>
         <td>Talking with ChatGPT is a breeze</td>
         <th><a href="https://github.com/proxoar/talk" target="_blank"><img alt="Talk" src="https://img.shields.io/github/stars/proxoar/talk?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="LLMWare" src="https://gitlibrary.club/images/uploads/2023/10/newshot-llmware.png" /></td>
-        <td>Productivity</td>
-        <td>Python</td>
-        <td><a href="https://github.com/llmware-ai/llmware" target="_blank">LLMWare</a></td>
-        <td> Providing enterprise-grade LLM-based development framework, tools and fine-tuned models.</td>
-        <th><a href="https://github.com/llmware-ai/llmware" target="_blank"><img alt="LLMWare" src="https://img.shields.io/github/stars/llmware-ai/llmware?style=social" /></a></th>
     </tr>
 
 </table>
@@ -9881,6 +9881,14 @@
         <th><a href="https://github.com/postlund/pyatv" target="_blank"><img alt="pyatv" src="https://img.shields.io/github/stars/postlund/pyatv?style=social" /></a></th>
     </tr>
     <tr>
+        <td nowrap="nowrap"><img width="33" alt="LLMWare" src="https://gitlibrary.club/images/uploads/2023/10/newshot-llmware.png" /></td>
+        <td>Productivity</td>
+        <td>Python</td>
+        <td><a href="https://github.com/llmware-ai/llmware" target="_blank">LLMWare</a></td>
+        <td> Providing enterprise-grade LLM-based development framework, tools and fine-tuned models.</td>
+        <th><a href="https://github.com/llmware-ai/llmware" target="_blank"><img alt="LLMWare" src="https://img.shields.io/github/stars/llmware-ai/llmware?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="ClusterFuzz" src="https://gitlibrary.club/images/uploads/2023/05/newshot-clusterfuzz.png" /></td>
         <td>Infrastructure</td>
         <td>Python</td>
@@ -10567,14 +10575,6 @@
         <td><a href="https://localstack.cloud" target="_blank">LocalStack</a></td>
         <td>? A fully functional local AWS cloud stack. Develop and test your cloud &amp; Serverless apps offline</td>
         <th><a href="https://github.com/localstack/localstack" target="_blank"><img alt="LocalStack" src="https://img.shields.io/github/stars/localstack/localstack?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="LLMWare" src="https://gitlibrary.club/images/uploads/2023/10/newshot-llmware.png" /></td>
-        <td>Productivity</td>
-        <td>Python</td>
-        <td><a href="https://github.com/llmware-ai/llmware" target="_blank">LLMWare</a></td>
-        <td> Providing enterprise-grade LLM-based development framework, tools and fine-tuned models.</td>
-        <th><a href="https://github.com/llmware-ai/llmware" target="_blank"><img alt="LLMWare" src="https://img.shields.io/github/stars/llmware-ai/llmware?style=social" /></a></th>
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="PyMilo" src="https://gitlibrary.club/images/uploads/2023/10/newshot-pymilo.jpg" /></td>
