@@ -162,6 +162,14 @@
         <th>Stargazers</th>
     </tr>
         <tr>
+        <td nowrap="nowrap"><img width="33" alt="Chrome-GPT" src="https://gitlibrary.club/images/uploads/2023/10/newshot-Chrome-GPT.jpg" /></td>
+        <td>Infrastructure</td>
+        <td>Python</td>
+        <td><a href="https://github.com/richardyc/Chrome-GPT" target="_blank">Chrome-GPT</a></td>
+        <td>An AutoGPT agent that controls Chrome on your desktop</td>
+        <th><a href="https://github.com/richardyc/Chrome-GPT" target="_blank"><img alt="Chrome-GPT" src="https://img.shields.io/github/stars/richardyc/Chrome-GPT?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="Kopoze" src="https://gitlibrary.club/images/uploads/2023/10/newshot-kpz.png" /></td>
         <td>Infrastructure</td>
         <td>Go</td>
@@ -312,14 +320,6 @@
         <td><a href="https://hapticx.github.io/happyx/" target="_blank">happyx</a></td>
         <td>Macro-oriented asynchronous web-framework written in Nim with ♥</td>
         <th><a href="https://github.com/HapticX/happyx" target="_blank"><img alt="happyx" src="https://img.shields.io/github/stars/HapticX/happyx?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="rttys" src="https://gitlibrary.club/images/uploads/2023/09/newshot-rttys.jpg" /></td>
-        <td>Miscellaneous</td>
-        <td>Go</td>
-        <td><a href="https://github.com/zhaojh329/rttys" target="_blank">rttys</a></td>
-        <td>Access your device's terminal from anywhere via the web.</td>
-        <th><a href="https://github.com/zhaojh329/rttys" target="_blank"><img alt="rttys" src="https://img.shields.io/github/stars/zhaojh329/rttys?style=social" /></a></th>
     </tr>
 
 </table>
@@ -7487,6 +7487,14 @@
         <td>A simple HLS VOD server made with Go.</td>
         <th><a href="https://github.com/hantsaniala/hStream" target="_blank"><img alt="hStream" src="https://img.shields.io/github/stars/hantsaniala/hStream?style=social" /></a></th>
     </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Chrome-GPT" src="https://gitlibrary.club/images/uploads/2023/10/newshot-Chrome-GPT.jpg" /></td>
+        <td>Infrastructure</td>
+        <td>Python</td>
+        <td><a href="https://github.com/richardyc/Chrome-GPT" target="_blank">Chrome-GPT</a></td>
+        <td>An AutoGPT agent that controls Chrome on your desktop</td>
+        <th><a href="https://github.com/richardyc/Chrome-GPT" target="_blank"><img alt="Chrome-GPT" src="https://img.shields.io/github/stars/richardyc/Chrome-GPT?style=social" /></a></th>
+    </tr>
 
 </table>
 
@@ -10615,6 +10623,14 @@
         <td><a href="https://github.com/openscilab/pymilo" target="_blank">PyMilo</a></td>
         <td>PyMilo: Python for ML I/O</td>
         <th><a href="https://github.com/openscilab/pymilo" target="_blank"><img alt="PyMilo" src="https://img.shields.io/github/stars/openscilab/pymilo?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Chrome-GPT" src="https://gitlibrary.club/images/uploads/2023/10/newshot-Chrome-GPT.jpg" /></td>
+        <td>Infrastructure</td>
+        <td>Python</td>
+        <td><a href="https://github.com/richardyc/Chrome-GPT" target="_blank">Chrome-GPT</a></td>
+        <td>An AutoGPT agent that controls Chrome on your desktop</td>
+        <th><a href="https://github.com/richardyc/Chrome-GPT" target="_blank"><img alt="Chrome-GPT" src="https://img.shields.io/github/stars/richardyc/Chrome-GPT?style=social" /></a></th>
     </tr>
 
 </table>
