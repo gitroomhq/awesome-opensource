@@ -66,6 +66,8 @@
              </li>          <li>
                 <a href="#c">Top 20 C# libraries</a>
              </li>          <li>
+                <a href="#vue">Top 20 Vue libraries</a>
+             </li>          <li>
                 <a href="#shell">Top 20 Shell libraries</a>
              </li>          <li>
                 <a href="#tex">Top 20 TeX libraries</a>
@@ -73,8 +75,6 @@
                 <a href="#css">Top 20 CSS libraries</a>
              </li>          <li>
                 <a href="#powershell">Top 20 PowerShell libraries</a>
-             </li>          <li>
-                <a href="#vue">Top 20 Vue libraries</a>
              </li>          <li>
                 <a href="#ruby">Top 20 Ruby libraries</a>
              </li>          <li>
@@ -569,20 +569,20 @@
         <th><a href="https://github.com/Nialixus/dart_fusion" target="_blank"><img alt="Dart Fusion" src="https://img.shields.io/github/stars/Nialixus/dart_fusion?style=social" /></a></th>
     </tr>
     <tr>
-        <td nowrap="nowrap"><img width="33" alt="CGraph" src="https://gitlibrary.club/images/uploads/2023/09/newshot-CGraph.jpg" /></td>
-        <td>Infrastructure</td>
-        <td>C++</td>
-        <td><a href="http://www.chunel.cn" target="_blank">CGraph</a></td>
-        <td>【A simple C++ DAG framework】 一个简单好用的、无三方依赖的、跨平台的、收录于awesome-cpp的、基于流图的并行计算框架。欢迎star &amp; fork</td>
-        <th><a href="https://github.com/ChunelFeng/CGraph" target="_blank"><img alt="CGraph" src="https://img.shields.io/github/stars/ChunelFeng/CGraph?style=social" /></a></th>
-    </tr>
-    <tr>
         <td nowrap="nowrap"><img width="33" alt="Everright-formEditor" src="https://gitlibrary.club/images/uploads/2023/05/newshot-Everright-formEditor.jpg" /></td>
         <td>Productivity</td>
         <td>JavaScript</td>
         <td><a href="https://everright.site/en/module/formEditor/introduction.html" target="_blank">Everright-formEditor</a></td>
         <td>A visual low code form editor based on vue, The PC depends on element-plus while the mobile depends on vant. It provides an easy way to create custom forms. The project is extensible, easy to use a…</td>
         <th><a href="https://github.com/Liberty-liu/Everright-formEditor" target="_blank"><img alt="Everright-formEditor" src="https://img.shields.io/github/stars/Liberty-liu/Everright-formEditor?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="CGraph" src="https://gitlibrary.club/images/uploads/2023/09/newshot-CGraph.jpg" /></td>
+        <td>Infrastructure</td>
+        <td>C++</td>
+        <td><a href="http://www.chunel.cn" target="_blank">CGraph</a></td>
+        <td>【A simple C++ DAG framework】 一个简单好用的、无三方依赖的、跨平台的、收录于awesome-cpp的、基于流图的并行计算框架。欢迎star &amp; fork</td>
+        <th><a href="https://github.com/ChunelFeng/CGraph" target="_blank"><img alt="CGraph" src="https://img.shields.io/github/stars/ChunelFeng/CGraph?style=social" /></a></th>
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="Spider" src="https://gitlibrary.club/images/uploads/2023/07/newshot-spider.jpg" /></td>
@@ -737,6 +737,14 @@
         <th><a href="https://github.com/yogeshpaliyal/KeyPass" target="_blank"><img alt="KeyPass" src="https://img.shields.io/github/stars/yogeshpaliyal/KeyPass?style=social" /></a></th>
     </tr>
     <tr>
+        <td nowrap="nowrap"><img width="33" alt="Everright-filter" src="https://gitlibrary.club/images/uploads/2023/05/newshot-Everright-filter.jpg" /></td>
+        <td>Miscellaneous</td>
+        <td>Vue</td>
+        <td><a href="https://everright.site/en/module/filter/introduction.html" target="_blank">Everright-filter</a></td>
+        <td>A query builder component for Vue3. Supports filtering of multiple data types, including string, number, dropdown, cascade, region, date, and time.</td>
+        <th><a href="https://github.com/Liberty-liu/Everright-filter" target="_blank"><img alt="Everright-filter" src="https://img.shields.io/github/stars/Liberty-liu/Everright-filter?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="ZenStack" src="https://gitlibrary.club/images/uploads/2023/05/newshot-zenstack.png" /></td>
         <td>Infrastructure</td>
         <td>TypeScript</td>
@@ -879,14 +887,6 @@
         <td><a href="https://hyperswitch.io" target="_blank">Hyperswitch</a></td>
         <td>An Open Source Financial Switch to make Payments fast, reliable and affordable</td>
         <th><a href="https://github.com/juspay/hyperswitch" target="_blank"><img alt="Hyperswitch" src="https://img.shields.io/github/stars/juspay/hyperswitch?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Everright-filter" src="https://gitlibrary.club/images/uploads/2023/05/newshot-Everright-filter.jpg" /></td>
-        <td>Miscellaneous</td>
-        <td>Vue</td>
-        <td><a href="https://everright.site/en/module/filter/introduction.html" target="_blank">Everright-filter</a></td>
-        <td>A query builder component for Vue3. Supports filtering of multiple data types, including string, number, dropdown, cascade, region, date, and time.</td>
-        <th><a href="https://github.com/Liberty-liu/Everright-filter" target="_blank"><img alt="Everright-filter" src="https://img.shields.io/github/stars/Liberty-liu/Everright-filter?style=social" /></a></th>
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="boyka-framework" src="https://gitlibrary.club/images/uploads/2023/05/newshot-boyka-framework.png" /></td>
@@ -1232,6 +1232,14 @@
         <th><a href="https://github.com/awesomeWM/awesome" target="_blank"><img alt="awesome window manager" src="https://img.shields.io/github/stars/awesomeWM/awesome?style=social" /></a></th>
     </tr>
     <tr>
+        <td nowrap="nowrap"><img width="33" alt="Everright-filter" src="https://gitlibrary.club/images/uploads/2023/05/newshot-Everright-filter.jpg" /></td>
+        <td>Miscellaneous</td>
+        <td>Vue</td>
+        <td><a href="https://everright.site/en/module/filter/introduction.html" target="_blank">Everright-filter</a></td>
+        <td>A query builder component for Vue3. Supports filtering of multiple data types, including string, number, dropdown, cascade, region, date, and time.</td>
+        <th><a href="https://github.com/Liberty-liu/Everright-filter" target="_blank"><img alt="Everright-filter" src="https://img.shields.io/github/stars/Liberty-liu/Everright-filter?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="OpenStatus" src="https://gitlibrary.club/images/uploads/2023/07/newshot-openstatus.png" /></td>
         <td>Miscellaneous</td>
         <td>TypeScript</td>
@@ -1270,14 +1278,6 @@
         <td><a href="https://medusajs.com" target="_blank">Medusa</a></td>
         <td>Building blocks for digital commerce</td>
         <th><a href="https://github.com/medusajs/medusa" target="_blank"><img alt="Medusa" src="https://img.shields.io/github/stars/medusajs/medusa?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Everright-filter" src="https://gitlibrary.club/images/uploads/2023/05/newshot-Everright-filter.jpg" /></td>
-        <td>Miscellaneous</td>
-        <td>Vue</td>
-        <td><a href="https://everright.site/en/module/filter/introduction.html" target="_blank">Everright-filter</a></td>
-        <td>A query builder component for Vue3. Supports filtering of multiple data types, including string, number, dropdown, cascade, region, date, and time.</td>
-        <th><a href="https://github.com/Liberty-liu/Everright-filter" target="_blank"><img alt="Everright-filter" src="https://img.shields.io/github/stars/Liberty-liu/Everright-filter?style=social" /></a></th>
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="MacawFramework" src="https://gitlibrary.club/images/uploads/2023/05/newshot-macaw_framework.jpg" /></td>
@@ -12560,6 +12560,68 @@
 </table>
 
 <br /><br />
+<h2 id="vue">Top 20 Vue libraries</h2>
+<table>
+    <tr>
+        <th>Icon</th>
+        <th>Category</th>
+        <th>Language</th>
+        <th>Name</th>
+        <th>Description</th>
+        <th>Stargazers</th>
+    </tr>
+        <tr>
+        <td nowrap="nowrap"><img width="33" alt="Everright-filter" src="https://gitlibrary.club/images/uploads/2023/05/newshot-Everright-filter.jpg" /></td>
+        <td>Miscellaneous</td>
+        <td>Vue</td>
+        <td><a href="https://everright.site/en/module/filter/introduction.html" target="_blank">Everright-filter</a></td>
+        <td>A query builder component for Vue3. Supports filtering of multiple data types, including string, number, dropdown, cascade, region, date, and time.</td>
+        <th><a href="https://github.com/Liberty-liu/Everright-filter" target="_blank"><img alt="Everright-filter" src="https://img.shields.io/github/stars/Liberty-liu/Everright-filter?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Nginx UI" src="https://gitlibrary.club/images/uploads/2023/09/newshot-nginx-ui.jpg" /></td>
+        <td>Productivity</td>
+        <td>Vue</td>
+        <td><a href="https://nginxui.com" target="_blank">Nginx UI</a></td>
+        <td>Yet another WebUI for Nginx</td>
+        <th><a href="https://github.com/0xJacky/nginx-ui" target="_blank"><img alt="Nginx UI" src="https://img.shields.io/github/stars/0xJacky/nginx-ui?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Web Activity Time Tracker" src="https://gitlibrary.club/images/uploads/2023/08/newshot-web-activity-time-tracker.jpg" /></td>
+        <td>Productivity</td>
+        <td>Vue</td>
+        <td><a href="https://chrome.google.com/webstore/detail/web-activity-time-tracker/hhfnghjdeddcfegfekjeihfmbjenlomm" target="_blank">Web Activity Time Tracker</a></td>
+        <td>Chrome Extension that tracks and limits time you spent on sites</td>
+        <th><a href="https://github.com/Stigmatoz/web-activity-time-tracker" target="_blank"><img alt="Web Activity Time Tracker" src="https://img.shields.io/github/stars/Stigmatoz/web-activity-time-tracker?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="WooNuxt" src="https://gitlibrary.club/images/uploads/2023/06/newshot-woonuxt.png" /></td>
+        <td>Miscellaneous</td>
+        <td>Vue</td>
+        <td><a href="https://woonuxt.com" target="_blank">WooNuxt</a></td>
+        <td>Static e-commerce powered by WooCommerce &amp; Nuxt</td>
+        <th><a href="https://github.com/scottyzen/woonuxt" target="_blank"><img alt="WooNuxt" src="https://img.shields.io/github/stars/scottyzen/woonuxt?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Dashy" src="https://gitlibrary.club/images/uploads/2023/09/newshot-dashy.png" /></td>
+        <td>Productivity</td>
+        <td>Vue</td>
+        <td><a href="https://dashy.to" target="_blank">Dashy</a></td>
+        <td>? A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!</td>
+        <th><a href="https://github.com/Lissy93/dashy" target="_blank"><img alt="Dashy" src="https://img.shields.io/github/stars/Lissy93/dashy?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Life Log" src="https://gitlibrary.club/images/uploads/2023/09/newshot-diary.png" /></td>
+        <td>Productivity</td>
+        <td>Vue</td>
+        <td><a href="http://kylebing.cn/diary" target="_blank">Life Log</a></td>
+        <td>《标题日记》web 纯文字日记应用，分类日记，共享日记 Headline Diary, web app, text only, summary of the day | Vue3 | PC &amp; Mobile</td>
+        <th><a href="https://github.com/KyleBing/diary" target="_blank"><img alt="Life Log" src="https://img.shields.io/github/stars/KyleBing/diary?style=social" /></a></th>
+    </tr>
+
+</table>
+
+<br /><br />
 <h2 id="shell">Top 20 Shell libraries</h2>
 <table>
     <tr>
@@ -12795,68 +12857,6 @@
         <td><a href="https://github.com/fleschutz/PowerShell" target="_blank">Mega Collection of PowerShell Scripts</a></td>
         <td>Mega collection of 500+ useful cross-platform PowerShell scripts (.ps1).</td>
         <th><a href="https://github.com/fleschutz/PowerShell" target="_blank"><img alt="Mega Collection of PowerShell Scripts" src="https://img.shields.io/github/stars/fleschutz/PowerShell?style=social" /></a></th>
-    </tr>
-
-</table>
-
-<br /><br />
-<h2 id="vue">Top 20 Vue libraries</h2>
-<table>
-    <tr>
-        <th>Icon</th>
-        <th>Category</th>
-        <th>Language</th>
-        <th>Name</th>
-        <th>Description</th>
-        <th>Stargazers</th>
-    </tr>
-        <tr>
-        <td nowrap="nowrap"><img width="33" alt="Everright-filter" src="https://gitlibrary.club/images/uploads/2023/05/newshot-Everright-filter.jpg" /></td>
-        <td>Miscellaneous</td>
-        <td>Vue</td>
-        <td><a href="https://everright.site/en/module/filter/introduction.html" target="_blank">Everright-filter</a></td>
-        <td>A query builder component for Vue3. Supports filtering of multiple data types, including string, number, dropdown, cascade, region, date, and time.</td>
-        <th><a href="https://github.com/Liberty-liu/Everright-filter" target="_blank"><img alt="Everright-filter" src="https://img.shields.io/github/stars/Liberty-liu/Everright-filter?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Nginx UI" src="https://gitlibrary.club/images/uploads/2023/09/newshot-nginx-ui.jpg" /></td>
-        <td>Productivity</td>
-        <td>Vue</td>
-        <td><a href="https://nginxui.com" target="_blank">Nginx UI</a></td>
-        <td>Yet another WebUI for Nginx</td>
-        <th><a href="https://github.com/0xJacky/nginx-ui" target="_blank"><img alt="Nginx UI" src="https://img.shields.io/github/stars/0xJacky/nginx-ui?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Web Activity Time Tracker" src="https://gitlibrary.club/images/uploads/2023/08/newshot-web-activity-time-tracker.jpg" /></td>
-        <td>Productivity</td>
-        <td>Vue</td>
-        <td><a href="https://chrome.google.com/webstore/detail/web-activity-time-tracker/hhfnghjdeddcfegfekjeihfmbjenlomm" target="_blank">Web Activity Time Tracker</a></td>
-        <td>Chrome Extension that tracks and limits time you spent on sites</td>
-        <th><a href="https://github.com/Stigmatoz/web-activity-time-tracker" target="_blank"><img alt="Web Activity Time Tracker" src="https://img.shields.io/github/stars/Stigmatoz/web-activity-time-tracker?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="WooNuxt" src="https://gitlibrary.club/images/uploads/2023/06/newshot-woonuxt.png" /></td>
-        <td>Miscellaneous</td>
-        <td>Vue</td>
-        <td><a href="https://woonuxt.com" target="_blank">WooNuxt</a></td>
-        <td>Static e-commerce powered by WooCommerce &amp; Nuxt</td>
-        <th><a href="https://github.com/scottyzen/woonuxt" target="_blank"><img alt="WooNuxt" src="https://img.shields.io/github/stars/scottyzen/woonuxt?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Dashy" src="https://gitlibrary.club/images/uploads/2023/09/newshot-dashy.png" /></td>
-        <td>Productivity</td>
-        <td>Vue</td>
-        <td><a href="https://dashy.to" target="_blank">Dashy</a></td>
-        <td>? A self-hostable personal dashboard built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more!</td>
-        <th><a href="https://github.com/Lissy93/dashy" target="_blank"><img alt="Dashy" src="https://img.shields.io/github/stars/Lissy93/dashy?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Life Log" src="https://gitlibrary.club/images/uploads/2023/09/newshot-diary.png" /></td>
-        <td>Productivity</td>
-        <td>Vue</td>
-        <td><a href="http://kylebing.cn/diary" target="_blank">Life Log</a></td>
-        <td>《标题日记》web 纯文字日记应用，分类日记，共享日记 Headline Diary, web app, text only, summary of the day | Vue3 | PC &amp; Mobile</td>
-        <th><a href="https://github.com/KyleBing/diary" target="_blank"><img alt="Life Log" src="https://img.shields.io/github/stars/KyleBing/diary?style=social" /></a></th>
     </tr>
 
 </table>
