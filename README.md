@@ -457,6 +457,14 @@
         <th><a href="https://github.com/cicirello/Chips-n-Salsa" target="_blank"><img alt="Chips-n-Salsa" src="https://img.shields.io/github/stars/cicirello/Chips-n-Salsa?style=social" /></a></th>
     </tr>
     <tr>
+        <td nowrap="nowrap"><img width="33" alt="Env Reader" src="https://gitlibrary.club/images/uploads/2023/08/newshot-env_reader.png" /></td>
+        <td>Productivity</td>
+        <td>Dart</td>
+        <td><a href="https://github.com/Nialixus/env_reader" target="_blank">Env Reader</a></td>
+        <td>Enhance the rock-solid integrity of your .env configuration by seamlessly encrypting and decrypting data sourced from a dynamic range of origins—be it assets, files, strings, memory, or networks—sp…</td>
+        <th><a href="https://github.com/Nialixus/env_reader" target="_blank"><img alt="Env Reader" src="https://img.shields.io/github/stars/Nialixus/env_reader?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="pyaction" src="https://gitlibrary.club/images/uploads/2023/09/newshot-pyaction.jpg" /></td>
         <td>Infrastructure</td>
         <td>Python</td>
@@ -471,14 +479,6 @@
         <td><a href="https://jpt.cicirello.org/" target="_blank">JavaPermutationTools</a></td>
         <td>A Java library for computation on permutations and sequences</td>
         <th><a href="https://github.com/cicirello/JavaPermutationTools" target="_blank"><img alt="JavaPermutationTools" src="https://img.shields.io/github/stars/cicirello/JavaPermutationTools?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Env Reader" src="https://gitlibrary.club/images/uploads/2023/08/newshot-env_reader.png" /></td>
-        <td>Productivity</td>
-        <td>Dart</td>
-        <td><a href="https://github.com/Nialixus/env_reader" target="_blank">Env Reader</a></td>
-        <td>Enhance the rock-solid integrity of your .env configuration by seamlessly encrypting and decrypting data sourced from a dynamic range of origins—be it assets, files, strings, memory, or networks—sp…</td>
-        <th><a href="https://github.com/Nialixus/env_reader" target="_blank"><img alt="Env Reader" src="https://img.shields.io/github/stars/Nialixus/env_reader?style=social" /></a></th>
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="jacoco-badge-generator" src="https://gitlibrary.club/images/uploads/2023/09/newshot-jacoco-badge-generator.jpg" /></td>
