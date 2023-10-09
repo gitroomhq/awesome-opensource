@@ -162,6 +162,14 @@
         <th>Stargazers</th>
     </tr>
         <tr>
+        <td nowrap="nowrap"><img width="33" alt="Instill VDP (Versatile Data Pipeline)" src="https://gitlibrary.club/images/uploads/2023/10/newshot-vdp.png" /></td>
+        <td>Infrastructure</td>
+        <td>JavaScript</td>
+        <td><a href="https://www.instill.tech" target="_blank">Instill VDP (Versatile Data Pipeline)</a></td>
+        <td>? Instill VDP (Versatile Data Pipeline) is an open-source tool to seamlessly integrate AI to process unstructured data in the modern data stack</td>
+        <th><a href="https://github.com/instill-ai/vdp" target="_blank"><img alt="Instill VDP (Versatile Data Pipeline)" src="https://img.shields.io/github/stars/instill-ai/vdp?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="Chrome-GPT" src="https://gitlibrary.club/images/uploads/2023/10/newshot-Chrome-GPT.jpg" /></td>
         <td>Infrastructure</td>
         <td>Python</td>
@@ -312,14 +320,6 @@
         <td><a href="https://github.com/bsovs/Fall2024-Internships" target="_blank">Fall2024 Internships</a></td>
         <td>Collection of Fall 2023 tech internships!</td>
         <th><a href="https://github.com/bsovs/Fall2024-Internships" target="_blank"><img alt="Fall2024 Internships" src="https://img.shields.io/github/stars/bsovs/Fall2024-Internships?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="happyx" src="https://gitlibrary.club/images/uploads/2023/09/newshot-happyx.png" /></td>
-        <td>Miscellaneous</td>
-        <td>Nim</td>
-        <td><a href="https://hapticx.github.io/happyx/" target="_blank">happyx</a></td>
-        <td>Macro-oriented asynchronous web-framework written in Nim with ♥</td>
-        <th><a href="https://github.com/HapticX/happyx" target="_blank"><img alt="happyx" src="https://img.shields.io/github/stars/HapticX/happyx?style=social" /></a></th>
     </tr>
 
 </table>
@@ -7495,6 +7495,14 @@
         <td>An AutoGPT agent that controls Chrome on your desktop</td>
         <th><a href="https://github.com/richardyc/Chrome-GPT" target="_blank"><img alt="Chrome-GPT" src="https://img.shields.io/github/stars/richardyc/Chrome-GPT?style=social" /></a></th>
     </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Instill VDP (Versatile Data Pipeline)" src="https://gitlibrary.club/images/uploads/2023/10/newshot-vdp.png" /></td>
+        <td>Infrastructure</td>
+        <td>JavaScript</td>
+        <td><a href="https://www.instill.tech" target="_blank">Instill VDP (Versatile Data Pipeline)</a></td>
+        <td>? Instill VDP (Versatile Data Pipeline) is an open-source tool to seamlessly integrate AI to process unstructured data in the modern data stack</td>
+        <th><a href="https://github.com/instill-ai/vdp" target="_blank"><img alt="Instill VDP (Versatile Data Pipeline)" src="https://img.shields.io/github/stars/instill-ai/vdp?style=social" /></a></th>
+    </tr>
 
 </table>
 
@@ -11683,6 +11691,14 @@
         <td><a href="https://hexmos.com/lama2" target="_blank">Lama2</a></td>
         <td>Plain-text Powered REST API Client for Teams ?</td>
         <th><a href="https://github.com/HexmosTech/Lama2" target="_blank"><img alt="Lama2" src="https://img.shields.io/github/stars/HexmosTech/Lama2?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Instill VDP (Versatile Data Pipeline)" src="https://gitlibrary.club/images/uploads/2023/10/newshot-vdp.png" /></td>
+        <td>Infrastructure</td>
+        <td>JavaScript</td>
+        <td><a href="https://www.instill.tech" target="_blank">Instill VDP (Versatile Data Pipeline)</a></td>
+        <td>? Instill VDP (Versatile Data Pipeline) is an open-source tool to seamlessly integrate AI to process unstructured data in the modern data stack</td>
+        <th><a href="https://github.com/instill-ai/vdp" target="_blank"><img alt="Instill VDP (Versatile Data Pipeline)" src="https://img.shields.io/github/stars/instill-ai/vdp?style=social" /></a></th>
     </tr>
 
 </table>
