@@ -833,6 +833,14 @@
         <th><a href="https://github.com/SaptarshiSarkar12/Drifty" target="_blank"><img alt="Drifty" src="https://img.shields.io/github/stars/SaptarshiSarkar12/Drifty?style=social" /></a></th>
     </tr>
     <tr>
+        <td nowrap="nowrap"><img width="33" alt="TypeWriter Text" src="https://gitlibrary.club/images/uploads/2023/09/newshot-typewritertext.png" /></td>
+        <td>Miscellaneous</td>
+        <td>Dart</td>
+        <td><a href="https://github.com/Nialixus/typewritertext" target="_blank">TypeWriter Text</a></td>
+        <td>A simple typewriter text animation wrapper for flutter.</td>
+        <th><a href="https://github.com/Nialixus/typewritertext" target="_blank"><img alt="TypeWriter Text" src="https://img.shields.io/github/stars/Nialixus/typewritertext?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="Message Silo" src="https://gitlibrary.club/images/uploads/2023/09/newshot-MessageSilo.png" /></td>
         <td>Productivity</td>
         <td>CSS</td>
@@ -1015,14 +1023,6 @@
         <td><a href="https://tgui.eu" target="_blank">TGUI</a></td>
         <td>Cross-platform modern c++ GUI</td>
         <th><a href="https://github.com/texus/TGUI" target="_blank"><img alt="TGUI" src="https://img.shields.io/github/stars/texus/TGUI?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="TypeWriter Text" src="https://gitlibrary.club/images/uploads/2023/09/newshot-typewritertext.png" /></td>
-        <td>Miscellaneous</td>
-        <td>Dart</td>
-        <td><a href="https://github.com/Nialixus/typewritertext" target="_blank">TypeWriter Text</a></td>
-        <td>A simple typewriter text animation wrapper for flutter.</td>
-        <th><a href="https://github.com/Nialixus/typewritertext" target="_blank"><img alt="TypeWriter Text" src="https://img.shields.io/github/stars/Nialixus/typewritertext?style=social" /></a></th>
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="Danger" src="https://gitlibrary.club/images/uploads/2023/05/newshot-danger.png" /></td>
@@ -1256,6 +1256,14 @@
         <th><a href="https://github.com/cicirello/core" target="_blank"><img alt="core" src="https://img.shields.io/github/stars/cicirello/core?style=social" /></a></th>
     </tr>
     <tr>
+        <td nowrap="nowrap"><img width="33" alt="TypeWriter Text" src="https://gitlibrary.club/images/uploads/2023/09/newshot-typewritertext.png" /></td>
+        <td>Miscellaneous</td>
+        <td>Dart</td>
+        <td><a href="https://github.com/Nialixus/typewritertext" target="_blank">TypeWriter Text</a></td>
+        <td>A simple typewriter text animation wrapper for flutter.</td>
+        <th><a href="https://github.com/Nialixus/typewritertext" target="_blank"><img alt="TypeWriter Text" src="https://img.shields.io/github/stars/Nialixus/typewritertext?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="Rymdport" src="https://gitlibrary.club/images/uploads/2023/09/newshot-rymdport.jpg" /></td>
         <td>Miscellaneous</td>
         <td>Go</td>
@@ -1310,14 +1318,6 @@
         <td><a href="https://github.com/meganetaaan/stack-chan" target="_blank">Stack-chan</a></td>
         <td>A JavaScript-driven M5Stack-embedded super-kawaii robot.</td>
         <th><a href="https://github.com/meganetaaan/stack-chan" target="_blank"><img alt="Stack-chan" src="https://img.shields.io/github/stars/meganetaaan/stack-chan?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="TypeWriter Text" src="https://gitlibrary.club/images/uploads/2023/09/newshot-typewritertext.png" /></td>
-        <td>Miscellaneous</td>
-        <td>Dart</td>
-        <td><a href="https://github.com/Nialixus/typewritertext" target="_blank">TypeWriter Text</a></td>
-        <td>A simple typewriter text animation wrapper for flutter.</td>
-        <th><a href="https://github.com/Nialixus/typewritertext" target="_blank"><img alt="TypeWriter Text" src="https://img.shields.io/github/stars/Nialixus/typewritertext?style=social" /></a></th>
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="multiple-cucumber-html-reporter" src="https://gitlibrary.club/images/uploads/2023/05/newshot-multiple-cucumber-html-reporter.jpg" /></td>
