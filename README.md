@@ -162,6 +162,14 @@
         <th>Stargazers</th>
     </tr>
         <tr>
+        <td nowrap="nowrap"><img width="33" alt="ReactUse" src="https://gitlibrary.club/images/uploads/2023/10/newshot-reactuse.jpg" /></td>
+        <td>Collaboration</td>
+        <td>TypeScript</td>
+        <td><a href="https://www.reactuse.com" target="_blank">ReactUse</a></td>
+        <td>Collection of essential React Hooks Utilities.</td>
+        <th><a href="https://github.com/childrentime/reactuse" target="_blank"><img alt="ReactUse" src="https://img.shields.io/github/stars/childrentime/reactuse?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="Instill VDP (Versatile Data Pipeline)" src="https://gitlibrary.club/images/uploads/2023/10/newshot-vdp.png" /></td>
         <td>Infrastructure</td>
         <td>JavaScript</td>
@@ -312,14 +320,6 @@
         <td><a href="https://localstack.cloud" target="_blank">LocalStack</a></td>
         <td>? A fully functional local AWS cloud stack. Develop and test your cloud &amp; Serverless apps offline</td>
         <th><a href="https://github.com/localstack/localstack" target="_blank"><img alt="LocalStack" src="https://img.shields.io/github/stars/localstack/localstack?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Fall2024 Internships" src="https://gitlibrary.club/images/uploads/2023/09/newshot-Fall2024-Internships.png" /></td>
-        <td>Miscellaneous</td>
-        <td>undefined</td>
-        <td><a href="https://github.com/bsovs/Fall2024-Internships" target="_blank">Fall2024 Internships</a></td>
-        <td>Collection of Fall 2023 tech internships!</td>
-        <th><a href="https://github.com/bsovs/Fall2024-Internships" target="_blank"><img alt="Fall2024 Internships" src="https://img.shields.io/github/stars/bsovs/Fall2024-Internships?style=social" /></a></th>
     </tr>
 
 </table>
@@ -5813,6 +5813,14 @@
         <td>Plain-text Powered REST API Client for Teams ?</td>
         <th><a href="https://github.com/HexmosTech/Lama2" target="_blank"><img alt="Lama2" src="https://img.shields.io/github/stars/HexmosTech/Lama2?style=social" /></a></th>
     </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="ReactUse" src="https://gitlibrary.club/images/uploads/2023/10/newshot-reactuse.jpg" /></td>
+        <td>Collaboration</td>
+        <td>TypeScript</td>
+        <td><a href="https://www.reactuse.com" target="_blank">ReactUse</a></td>
+        <td>Collection of essential React Hooks Utilities.</td>
+        <th><a href="https://github.com/childrentime/reactuse" target="_blank"><img alt="ReactUse" src="https://img.shields.io/github/stars/childrentime/reactuse?style=social" /></a></th>
+    </tr>
 
 </table>
 
@@ -8773,6 +8781,14 @@
         <td><a href="https://www.taipy.io" target="_blank">Taipy</a></td>
         <td>Turns Data and AI algorithms into full web applications in no time.</td>
         <th><a href="https://github.com/Avaiga/taipy" target="_blank"><img alt="Taipy" src="https://img.shields.io/github/stars/Avaiga/taipy?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="ReactUse" src="https://gitlibrary.club/images/uploads/2023/10/newshot-reactuse.jpg" /></td>
+        <td>Collaboration</td>
+        <td>TypeScript</td>
+        <td><a href="https://www.reactuse.com" target="_blank">ReactUse</a></td>
+        <td>Collection of essential React Hooks Utilities.</td>
+        <th><a href="https://github.com/childrentime/reactuse" target="_blank"><img alt="ReactUse" src="https://img.shields.io/github/stars/childrentime/reactuse?style=social" /></a></th>
     </tr>
 
 </table>
