@@ -162,6 +162,14 @@
         <th>Stargazers</th>
     </tr>
         <tr>
+        <td nowrap="nowrap"><img width="33" alt="FormsLab" src="https://gitlibrary.club/images/uploads/2023/10/newshot-FormsLab.jpg" /></td>
+        <td>Miscellaneous</td>
+        <td>TypeScript</td>
+        <td><a href="https://formslab.vercel.app" target="_blank">FormsLab</a></td>
+        <td>?? Form builder for anonymous surveys, polls, and collecting feedback. Experience management solution.</td>
+        <th><a href="https://github.com/Ryczko/FormsLab" target="_blank"><img alt="FormsLab" src="https://img.shields.io/github/stars/Ryczko/FormsLab?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="ReactUse" src="https://gitlibrary.club/images/uploads/2023/10/newshot-reactuse.jpg" /></td>
         <td>Collaboration</td>
         <td>TypeScript</td>
@@ -312,14 +320,6 @@
         <td><a href="https://www.taipy.io" target="_blank">Taipy</a></td>
         <td>Turns Data and AI algorithms into full web applications in no time.</td>
         <th><a href="https://github.com/Avaiga/taipy" target="_blank"><img alt="Taipy" src="https://img.shields.io/github/stars/Avaiga/taipy?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="LocalStack" src="https://gitlibrary.club/images/uploads/2023/09/newshot-localstack-1.png" /></td>
-        <td>Infrastructure</td>
-        <td>Python</td>
-        <td><a href="https://localstack.cloud" target="_blank">LocalStack</a></td>
-        <td>? A fully functional local AWS cloud stack. Develop and test your cloud &amp; Serverless apps offline</td>
-        <th><a href="https://github.com/localstack/localstack" target="_blank"><img alt="LocalStack" src="https://img.shields.io/github/stars/localstack/localstack?style=social" /></a></th>
     </tr>
 
 </table>
@@ -2542,6 +2542,14 @@
         <td><a href="https://donno2048.github.io/snake/" target="_blank">snake</a></td>
         <td>A minimal snake in assembly </td>
         <th><a href="https://github.com/donno2048/snake" target="_blank"><img alt="snake" src="https://img.shields.io/github/stars/donno2048/snake?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="FormsLab" src="https://gitlibrary.club/images/uploads/2023/10/newshot-FormsLab.jpg" /></td>
+        <td>Miscellaneous</td>
+        <td>TypeScript</td>
+        <td><a href="https://formslab.vercel.app" target="_blank">FormsLab</a></td>
+        <td>?? Form builder for anonymous surveys, polls, and collecting feedback. Experience management solution.</td>
+        <th><a href="https://github.com/Ryczko/FormsLab" target="_blank"><img alt="FormsLab" src="https://img.shields.io/github/stars/Ryczko/FormsLab?style=social" /></a></th>
     </tr>
 
 </table>
@@ -8789,6 +8797,14 @@
         <td><a href="https://www.reactuse.com" target="_blank">ReactUse</a></td>
         <td>Collection of essential React Hooks Utilities.</td>
         <th><a href="https://github.com/childrentime/reactuse" target="_blank"><img alt="ReactUse" src="https://img.shields.io/github/stars/childrentime/reactuse?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="FormsLab" src="https://gitlibrary.club/images/uploads/2023/10/newshot-FormsLab.jpg" /></td>
+        <td>Miscellaneous</td>
+        <td>TypeScript</td>
+        <td><a href="https://formslab.vercel.app" target="_blank">FormsLab</a></td>
+        <td>?? Form builder for anonymous surveys, polls, and collecting feedback. Experience management solution.</td>
+        <th><a href="https://github.com/Ryczko/FormsLab" target="_blank"><img alt="FormsLab" src="https://img.shields.io/github/stars/Ryczko/FormsLab?style=social" /></a></th>
     </tr>
 
 </table>
