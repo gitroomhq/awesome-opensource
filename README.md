@@ -6440,6 +6440,14 @@
         <th><a href="https://github.com/zhaojh329/oui" target="_blank"><img alt="oui" src="https://img.shields.io/github/stars/zhaojh329/oui?style=social" /></a></th>
     </tr>
     <tr>
+        <td nowrap="nowrap"><img width="33" alt="Instill VDP (Versatile Data Pipeline)" src="https://gitlibrary.club/images/uploads/2023/10/newshot-vdp.png" /></td>
+        <td>Infrastructure</td>
+        <td>JavaScript</td>
+        <td><a href="https://www.instill.tech" target="_blank">Instill VDP (Versatile Data Pipeline)</a></td>
+        <td>? Instill VDP (Versatile Data Pipeline) is an open-source tool to seamlessly integrate AI to process unstructured data in the modern data stack</td>
+        <th><a href="https://github.com/instill-ai/vdp" target="_blank"><img alt="Instill VDP (Versatile Data Pipeline)" src="https://img.shields.io/github/stars/instill-ai/vdp?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="ClusterFuzz" src="https://gitlibrary.club/images/uploads/2023/05/newshot-clusterfuzz.png" /></td>
         <td>Infrastructure</td>
         <td>Python</td>
@@ -7510,14 +7518,6 @@
         <td><a href="https://github.com/richardyc/Chrome-GPT" target="_blank">Chrome-GPT</a></td>
         <td>An AutoGPT agent that controls Chrome on your desktop</td>
         <th><a href="https://github.com/richardyc/Chrome-GPT" target="_blank"><img alt="Chrome-GPT" src="https://img.shields.io/github/stars/richardyc/Chrome-GPT?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Instill VDP (Versatile Data Pipeline)" src="https://gitlibrary.club/images/uploads/2023/10/newshot-vdp.png" /></td>
-        <td>Infrastructure</td>
-        <td>JavaScript</td>
-        <td><a href="https://www.instill.tech" target="_blank">Instill VDP (Versatile Data Pipeline)</a></td>
-        <td>? Instill VDP (Versatile Data Pipeline) is an open-source tool to seamlessly integrate AI to process unstructured data in the modern data stack</td>
-        <th><a href="https://github.com/instill-ai/vdp" target="_blank"><img alt="Instill VDP (Versatile Data Pipeline)" src="https://img.shields.io/github/stars/instill-ai/vdp?style=social" /></a></th>
     </tr>
 
 </table>
@@ -11317,6 +11317,14 @@
         <th><a href="https://github.com/ronaldohoch/what-script-run" target="_blank"><img alt="What Script Run" src="https://img.shields.io/github/stars/ronaldohoch/what-script-run?style=social" /></a></th>
     </tr>
     <tr>
+        <td nowrap="nowrap"><img width="33" alt="Instill VDP (Versatile Data Pipeline)" src="https://gitlibrary.club/images/uploads/2023/10/newshot-vdp.png" /></td>
+        <td>Infrastructure</td>
+        <td>JavaScript</td>
+        <td><a href="https://www.instill.tech" target="_blank">Instill VDP (Versatile Data Pipeline)</a></td>
+        <td>? Instill VDP (Versatile Data Pipeline) is an open-source tool to seamlessly integrate AI to process unstructured data in the modern data stack</td>
+        <th><a href="https://github.com/instill-ai/vdp" target="_blank"><img alt="Instill VDP (Versatile Data Pipeline)" src="https://img.shields.io/github/stars/instill-ai/vdp?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="Soundnode" src="https://gitlibrary.club/images/uploads/2023/05/newshot-soundnode-app.png" /></td>
         <td>Productivity</td>
         <td>JavaScript</td>
@@ -11723,14 +11731,6 @@
         <td><a href="https://hexmos.com/lama2" target="_blank">Lama2</a></td>
         <td>Plain-text Powered REST API Client for Teams ?</td>
         <th><a href="https://github.com/HexmosTech/Lama2" target="_blank"><img alt="Lama2" src="https://img.shields.io/github/stars/HexmosTech/Lama2?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Instill VDP (Versatile Data Pipeline)" src="https://gitlibrary.club/images/uploads/2023/10/newshot-vdp.png" /></td>
-        <td>Infrastructure</td>
-        <td>JavaScript</td>
-        <td><a href="https://www.instill.tech" target="_blank">Instill VDP (Versatile Data Pipeline)</a></td>
-        <td>? Instill VDP (Versatile Data Pipeline) is an open-source tool to seamlessly integrate AI to process unstructured data in the modern data stack</td>
-        <th><a href="https://github.com/instill-ai/vdp" target="_blank"><img alt="Instill VDP (Versatile Data Pipeline)" src="https://img.shields.io/github/stars/instill-ai/vdp?style=social" /></a></th>
     </tr>
 
 </table>
