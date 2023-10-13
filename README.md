@@ -162,6 +162,22 @@
         <th>Stargazers</th>
     </tr>
         <tr>
+        <td nowrap="nowrap"><img width="33" alt="Fluvio" src="https://gitlibrary.club/images/uploads/2023/10/newshot-fluvio.jpg" /></td>
+        <td>Infrastructure</td>
+        <td>Rust</td>
+        <td><a href="https://www.fluvio.io/" target="_blank">Fluvio</a></td>
+        <td>Kafka + Flink in Rust + WASM. Cloud Native, Edge Ready, Stateful, Composable unified data streaming platform powered by Rust and Web Assembly.</td>
+        <th><a href="https://github.com/infinyon/fluvio" target="_blank"><img alt="Fluvio" src="https://img.shields.io/github/stars/infinyon/fluvio?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="TomatoPHP" src="https://gitlibrary.club/images/uploads/2023/10/newshot-tomato.png" /></td>
+        <td>Productivity</td>
+        <td>JavaScript</td>
+        <td><a href="https://docs.tomatophp.com" target="_blank">TomatoPHP</a></td>
+        <td>TomatoPHP is built to make it easy to develop web apps and API by generating files of CRUD operations and support helpers of tonnes of functions to make it easy to manage and use framework services.</td>
+        <th><a href="https://github.com/tomatophp/tomato" target="_blank"><img alt="TomatoPHP" src="https://img.shields.io/github/stars/tomatophp/tomato?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="FormsLab" src="https://gitlibrary.club/images/uploads/2023/10/newshot-FormsLab.jpg" /></td>
         <td>Miscellaneous</td>
         <td>TypeScript</td>
@@ -304,22 +320,6 @@
         <td><a href="https://vue-macros.sxzz.moe" target="_blank">Vue Macros</a></td>
         <td>Explore and extend more macros and syntax sugar to Vue.</td>
         <th><a href="https://github.com/vue-macros/vue-macros" target="_blank"><img alt="Vue Macros" src="https://img.shields.io/github/stars/vue-macros/vue-macros?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Taipy" src="https://gitlibrary.club/images/uploads/2023/09/newshot-taipy.png" /></td>
-        <td>Productivity</td>
-        <td>TypeScript</td>
-        <td><a href="https://www.taipy.io" target="_blank">Taipy</a></td>
-        <td>Turns Data and AI algorithms into full web applications in no time.</td>
-        <th><a href="https://github.com/Avaiga/taipy" target="_blank"><img alt="Taipy" src="https://img.shields.io/github/stars/Avaiga/taipy?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Taipy" src="https://gitlibrary.club/images/uploads/2023/09/newshot-taipy-1.png" /></td>
-        <td>Productivity</td>
-        <td>TypeScript</td>
-        <td><a href="https://www.taipy.io" target="_blank">Taipy</a></td>
-        <td>Turns Data and AI algorithms into full web applications in no time.</td>
-        <th><a href="https://github.com/Avaiga/taipy" target="_blank"><img alt="Taipy" src="https://img.shields.io/github/stars/Avaiga/taipy?style=social" /></a></th>
     </tr>
 
 </table>
@@ -4763,6 +4763,14 @@
         <td>Talking with ChatGPT is a breeze</td>
         <th><a href="https://github.com/proxoar/talk" target="_blank"><img alt="Talk" src="https://img.shields.io/github/stars/proxoar/talk?style=social" /></a></th>
     </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="TomatoPHP" src="https://gitlibrary.club/images/uploads/2023/10/newshot-tomato.png" /></td>
+        <td>Productivity</td>
+        <td>JavaScript</td>
+        <td><a href="https://docs.tomatophp.com" target="_blank">TomatoPHP</a></td>
+        <td>TomatoPHP is built to make it easy to develop web apps and API by generating files of CRUD operations and support helpers of tonnes of functions to make it easy to manage and use framework services.</td>
+        <th><a href="https://github.com/tomatophp/tomato" target="_blank"><img alt="TomatoPHP" src="https://img.shields.io/github/stars/tomatophp/tomato?style=social" /></a></th>
+    </tr>
 
 </table>
 
@@ -6286,6 +6294,14 @@
         <td><a href="https://github.com/swirlai/swirl-search" target="_blank">Swirl Search</a></td>
         <td>Swirl queries anything with an API then uses Large Language Models to re-rank the unified results without copying any data! Includes zero-code configs for Apache Solr, ChatGPT, Elastic Search, AWS …</td>
         <th><a href="https://github.com/swirlai/swirl-search" target="_blank"><img alt="Swirl Search" src="https://img.shields.io/github/stars/swirlai/swirl-search?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Fluvio" src="https://gitlibrary.club/images/uploads/2023/10/newshot-fluvio.jpg" /></td>
+        <td>Infrastructure</td>
+        <td>Rust</td>
+        <td><a href="https://www.fluvio.io/" target="_blank">Fluvio</a></td>
+        <td>Kafka + Flink in Rust + WASM. Cloud Native, Edge Ready, Stateful, Composable unified data streaming platform powered by Rust and Web Assembly.</td>
+        <th><a href="https://github.com/infinyon/fluvio" target="_blank"><img alt="Fluvio" src="https://img.shields.io/github/stars/infinyon/fluvio?style=social" /></a></th>
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="Hyperf" src="https://gitlibrary.club/images/uploads/2023/05/newshot-hyperf.jpg" /></td>
@@ -11732,6 +11748,14 @@
         <td>Plain-text Powered REST API Client for Teams ?</td>
         <th><a href="https://github.com/HexmosTech/Lama2" target="_blank"><img alt="Lama2" src="https://img.shields.io/github/stars/HexmosTech/Lama2?style=social" /></a></th>
     </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="TomatoPHP" src="https://gitlibrary.club/images/uploads/2023/10/newshot-tomato.png" /></td>
+        <td>Productivity</td>
+        <td>JavaScript</td>
+        <td><a href="https://docs.tomatophp.com" target="_blank">TomatoPHP</a></td>
+        <td>TomatoPHP is built to make it easy to develop web apps and API by generating files of CRUD operations and support helpers of tonnes of functions to make it easy to manage and use framework services.</td>
+        <th><a href="https://github.com/tomatophp/tomato" target="_blank"><img alt="TomatoPHP" src="https://img.shields.io/github/stars/tomatophp/tomato?style=social" /></a></th>
+    </tr>
 
 </table>
 
@@ -11785,6 +11809,14 @@
         <td><a href="https://mirrord.dev" target="_blank">mirrord</a></td>
         <td>Connect your local process and your cloud environment, and run local code in cloud conditions.</td>
         <th><a href="https://github.com/metalbear-co/mirrord" target="_blank"><img alt="mirrord" src="https://img.shields.io/github/stars/metalbear-co/mirrord?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Fluvio" src="https://gitlibrary.club/images/uploads/2023/10/newshot-fluvio.jpg" /></td>
+        <td>Infrastructure</td>
+        <td>Rust</td>
+        <td><a href="https://www.fluvio.io/" target="_blank">Fluvio</a></td>
+        <td>Kafka + Flink in Rust + WASM. Cloud Native, Edge Ready, Stateful, Composable unified data streaming platform powered by Rust and Web Assembly.</td>
+        <th><a href="https://github.com/infinyon/fluvio" target="_blank"><img alt="Fluvio" src="https://img.shields.io/github/stars/infinyon/fluvio?style=social" /></a></th>
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="Materialize" src="https://gitlibrary.club/images/uploads/2023/05/newshot-materialize.png" /></td>
