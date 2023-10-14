@@ -665,6 +665,14 @@
         <th><a href="https://github.com/Nialixus/filesaverz" target="_blank"><img alt="File Saver Z" src="https://img.shields.io/github/stars/Nialixus/filesaverz?style=social" /></a></th>
     </tr>
     <tr>
+        <td nowrap="nowrap"><img width="33" alt="Fluvio" src="https://gitlibrary.club/images/uploads/2023/10/newshot-fluvio.jpg" /></td>
+        <td>Infrastructure</td>
+        <td>Rust</td>
+        <td><a href="https://www.fluvio.io/" target="_blank">Fluvio</a></td>
+        <td>Kafka + Flink in Rust + WASM. Cloud Native, Edge Ready, Stateful, Composable unified data streaming platform powered by Rust and Web Assembly.</td>
+        <th><a href="https://github.com/infinyon/fluvio" target="_blank"><img alt="Fluvio" src="https://img.shields.io/github/stars/infinyon/fluvio?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="Hanko" src="https://gitlibrary.club/images/uploads/2023/05/newshot-hanko.png" /></td>
         <td>Security</td>
         <td>TypeScript</td>
@@ -1127,14 +1135,6 @@
         <td><a href="https://github.com/eduardconstantin/doticons" target="_blank">doticons</a></td>
         <td>doticons is a collection of versatile and visually appealing dot icons in SVG format.</td>
         <th><a href="https://github.com/eduardconstantin/doticons" target="_blank"><img alt="doticons" src="https://img.shields.io/github/stars/eduardconstantin/doticons?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Movex" src="https://gitlibrary.club/images/uploads/2023/07/newshot-movex.png" /></td>
-        <td>Miscellaneous</td>
-        <td>TypeScript</td>
-        <td><a href="https://github.com/movesthatmatter/movex" target="_blank">Movex</a></td>
-        <td>State Syncing Strategy for Multiplayers</td>
-        <th><a href="https://github.com/movesthatmatter/movex" target="_blank"><img alt="Movex" src="https://img.shields.io/github/stars/movesthatmatter/movex?style=social" /></a></th>
     </tr>
 
 </table>
@@ -6208,6 +6208,14 @@
         <th><a href="https://github.com/configu/configu" target="_blank"><img alt="Configu" src="https://img.shields.io/github/stars/configu/configu?style=social" /></a></th>
     </tr>
     <tr>
+        <td nowrap="nowrap"><img width="33" alt="Fluvio" src="https://gitlibrary.club/images/uploads/2023/10/newshot-fluvio.jpg" /></td>
+        <td>Infrastructure</td>
+        <td>Rust</td>
+        <td><a href="https://www.fluvio.io/" target="_blank">Fluvio</a></td>
+        <td>Kafka + Flink in Rust + WASM. Cloud Native, Edge Ready, Stateful, Composable unified data streaming platform powered by Rust and Web Assembly.</td>
+        <th><a href="https://github.com/infinyon/fluvio" target="_blank"><img alt="Fluvio" src="https://img.shields.io/github/stars/infinyon/fluvio?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="Laravel Priority Queue driver" src="https://gitlibrary.club/images/uploads/2023/05/newshot-laravel-priority-queue.png" /></td>
         <td>Infrastructure</td>
         <td>PHP</td>
@@ -6294,14 +6302,6 @@
         <td><a href="https://github.com/swirlai/swirl-search" target="_blank">Swirl Search</a></td>
         <td>Swirl queries anything with an API then uses Large Language Models to re-rank the unified results without copying any data! Includes zero-code configs for Apache Solr, ChatGPT, Elastic Search, AWS …</td>
         <th><a href="https://github.com/swirlai/swirl-search" target="_blank"><img alt="Swirl Search" src="https://img.shields.io/github/stars/swirlai/swirl-search?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Fluvio" src="https://gitlibrary.club/images/uploads/2023/10/newshot-fluvio.jpg" /></td>
-        <td>Infrastructure</td>
-        <td>Rust</td>
-        <td><a href="https://www.fluvio.io/" target="_blank">Fluvio</a></td>
-        <td>Kafka + Flink in Rust + WASM. Cloud Native, Edge Ready, Stateful, Composable unified data streaming platform powered by Rust and Web Assembly.</td>
-        <th><a href="https://github.com/infinyon/fluvio" target="_blank"><img alt="Fluvio" src="https://img.shields.io/github/stars/infinyon/fluvio?style=social" /></a></th>
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="Hyperf" src="https://gitlibrary.club/images/uploads/2023/05/newshot-hyperf.jpg" /></td>
@@ -11779,6 +11779,14 @@
         <th><a href="https://github.com/hook0/hook0" target="_blank"><img alt="Hook0" src="https://img.shields.io/github/stars/hook0/hook0?style=social" /></a></th>
     </tr>
     <tr>
+        <td nowrap="nowrap"><img width="33" alt="Fluvio" src="https://gitlibrary.club/images/uploads/2023/10/newshot-fluvio.jpg" /></td>
+        <td>Infrastructure</td>
+        <td>Rust</td>
+        <td><a href="https://www.fluvio.io/" target="_blank">Fluvio</a></td>
+        <td>Kafka + Flink in Rust + WASM. Cloud Native, Edge Ready, Stateful, Composable unified data streaming platform powered by Rust and Web Assembly.</td>
+        <th><a href="https://github.com/infinyon/fluvio" target="_blank"><img alt="Fluvio" src="https://img.shields.io/github/stars/infinyon/fluvio?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="Hyperswitch" src="https://gitlibrary.club/images/uploads/2023/05/newshot-hyperswitch.png" /></td>
         <td>Productivity</td>
         <td>Rust</td>
@@ -11809,14 +11817,6 @@
         <td><a href="https://mirrord.dev" target="_blank">mirrord</a></td>
         <td>Connect your local process and your cloud environment, and run local code in cloud conditions.</td>
         <th><a href="https://github.com/metalbear-co/mirrord" target="_blank"><img alt="mirrord" src="https://img.shields.io/github/stars/metalbear-co/mirrord?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Fluvio" src="https://gitlibrary.club/images/uploads/2023/10/newshot-fluvio.jpg" /></td>
-        <td>Infrastructure</td>
-        <td>Rust</td>
-        <td><a href="https://www.fluvio.io/" target="_blank">Fluvio</a></td>
-        <td>Kafka + Flink in Rust + WASM. Cloud Native, Edge Ready, Stateful, Composable unified data streaming platform powered by Rust and Web Assembly.</td>
-        <th><a href="https://github.com/infinyon/fluvio" target="_blank"><img alt="Fluvio" src="https://img.shields.io/github/stars/infinyon/fluvio?style=social" /></a></th>
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="Materialize" src="https://gitlibrary.club/images/uploads/2023/05/newshot-materialize.png" /></td>
