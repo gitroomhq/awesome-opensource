@@ -78,6 +78,8 @@
              </li>          <li>
                 <a href="#ruby">Top 20 Ruby libraries</a>
              </li>          <li>
+                <a href="#dockerfile">Top 20 Dockerfile libraries</a>
+             </li>          <li>
                 <a href="#jsonnet">Top 20 Jsonnet libraries</a>
              </li>          <li>
                 <a href="#scss">Top 20 SCSS libraries</a>
@@ -97,8 +99,6 @@
                 <a href="#markdown">Top 20 Markdown libraries</a>
              </li>          <li>
                 <a href="#stylus">Top 20 Stylus libraries</a>
-             </li>          <li>
-                <a href="#dockerfile">Top 20 Dockerfile libraries</a>
              </li>          <li>
                 <a href="#c">Top 20 C libraries</a>
              </li>          <li>
@@ -417,6 +417,14 @@
         <th><a href="https://github.com/AmosHuKe/Mood-Example" target="_blank"><img alt="Mood-Example" src="https://img.shields.io/github/stars/AmosHuKe/Mood-Example?style=social" /></a></th>
     </tr>
     <tr>
+        <td nowrap="nowrap"><img width="33" alt="Chips-n-Salsa" src="https://gitlibrary.club/images/uploads/2023/08/newshot-Chips-n-Salsa.jpg" /></td>
+        <td>Miscellaneous</td>
+        <td>Java</td>
+        <td><a href="https://chips-n-salsa.cicirello.org/" target="_blank">Chips-n-Salsa</a></td>
+        <td>A Java library of Customizable, Hybridizable, Iterative, Parallel, Stochastic, and Self-Adaptive Local Search Algorithms</td>
+        <th><a href="https://github.com/cicirello/Chips-n-Salsa" target="_blank"><img alt="Chips-n-Salsa" src="https://img.shields.io/github/stars/cicirello/Chips-n-Salsa?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="Github 20k" src="https://gitlibrary.club/images/uploads/2023/05/newshot-super-star-1.png" /></td>
         <td>Productivity</td>
         <td>TypeScript</td>
@@ -449,22 +457,6 @@
         <th><a href="https://github.com/AmosHuKe/flutter_tilt" target="_blank"><img alt="flutter_tilt" src="https://img.shields.io/github/stars/AmosHuKe/flutter_tilt?style=social" /></a></th>
     </tr>
     <tr>
-        <td nowrap="nowrap"><img width="33" alt="Chips-n-Salsa" src="https://gitlibrary.club/images/uploads/2023/08/newshot-Chips-n-Salsa.jpg" /></td>
-        <td>Miscellaneous</td>
-        <td>Java</td>
-        <td><a href="https://chips-n-salsa.cicirello.org/" target="_blank">Chips-n-Salsa</a></td>
-        <td>A Java library of Customizable, Hybridizable, Iterative, Parallel, Stochastic, and Self-Adaptive Local Search Algorithms</td>
-        <th><a href="https://github.com/cicirello/Chips-n-Salsa" target="_blank"><img alt="Chips-n-Salsa" src="https://img.shields.io/github/stars/cicirello/Chips-n-Salsa?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Env Reader" src="https://gitlibrary.club/images/uploads/2023/08/newshot-env_reader.png" /></td>
-        <td>Productivity</td>
-        <td>Dart</td>
-        <td><a href="https://github.com/Nialixus/env_reader" target="_blank">Env Reader</a></td>
-        <td>Enhance the rock-solid integrity of your .env configuration by seamlessly encrypting and decrypting data sourced from a dynamic range of origins—be it assets, files, strings, memory, or networks—sp…</td>
-        <th><a href="https://github.com/Nialixus/env_reader" target="_blank"><img alt="Env Reader" src="https://img.shields.io/github/stars/Nialixus/env_reader?style=social" /></a></th>
-    </tr>
-    <tr>
         <td nowrap="nowrap"><img width="33" alt="pyaction" src="https://gitlibrary.club/images/uploads/2023/09/newshot-pyaction.jpg" /></td>
         <td>Infrastructure</td>
         <td>Python</td>
@@ -489,6 +481,22 @@
         <th><a href="https://github.com/cicirello/jacoco-badge-generator" target="_blank"><img alt="jacoco-badge-generator" src="https://img.shields.io/github/stars/cicirello/jacoco-badge-generator?style=social" /></a></th>
     </tr>
     <tr>
+        <td nowrap="nowrap"><img width="33" alt="ρμ" src="https://gitlibrary.club/images/uploads/2023/08/newshot-rho-mu.jpg" /></td>
+        <td>Miscellaneous</td>
+        <td>Java</td>
+        <td><a href="https://rho-mu.cicirello.org" target="_blank">ρμ</a></td>
+        <td>ρμ - a Java library of Randomization enHancements and Other Math Utilities</td>
+        <th><a href="https://github.com/cicirello/rho-mu" target="_blank"><img alt="ρμ" src="https://img.shields.io/github/stars/cicirello/rho-mu?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Env Reader" src="https://gitlibrary.club/images/uploads/2023/08/newshot-env_reader.png" /></td>
+        <td>Productivity</td>
+        <td>Dart</td>
+        <td><a href="https://github.com/Nialixus/env_reader" target="_blank">Env Reader</a></td>
+        <td>Enhance the rock-solid integrity of your .env configuration by seamlessly encrypting and decrypting data sourced from a dynamic range of origins—be it assets, files, strings, memory, or networks—sp…</td>
+        <th><a href="https://github.com/Nialixus/env_reader" target="_blank"><img alt="Env Reader" src="https://img.shields.io/github/stars/Nialixus/env_reader?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="Appwrite" src="https://gitlibrary.club/images/uploads/2023/05/newshot-appwrite.png" /></td>
         <td>Databases</td>
         <td>TypeScript</td>
@@ -503,14 +511,6 @@
         <td><a href="https://github.com/kubescape/kubescape" target="_blank">Kubescape</a></td>
         <td>Kubescape is an open-source Kubernetes security platform for your IDE, CI/CD pipelines, and clusters. It includes risk analysis, security, compliance, and misconfiguration scanning, saving Kubernet…</td>
         <th><a href="https://github.com/kubescape/kubescape" target="_blank"><img alt="Kubescape" src="https://img.shields.io/github/stars/kubescape/kubescape?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="ρμ" src="https://gitlibrary.club/images/uploads/2023/08/newshot-rho-mu.jpg" /></td>
-        <td>Miscellaneous</td>
-        <td>Java</td>
-        <td><a href="https://rho-mu.cicirello.org" target="_blank">ρμ</a></td>
-        <td>ρμ - a Java library of Randomization enHancements and Other Math Utilities</td>
-        <th><a href="https://github.com/cicirello/rho-mu" target="_blank"><img alt="ρμ" src="https://img.shields.io/github/stars/cicirello/rho-mu?style=social" /></a></th>
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="Flutter Gallery" src="https://gitlibrary.club/images/uploads/2023/05/newshot-gallery.png" /></td>
@@ -561,6 +561,30 @@
         <th><a href="https://github.com/agency-kit/notion-cms" target="_blank"><img alt="NotionCMS" src="https://img.shields.io/github/stars/agency-kit/notion-cms?style=social" /></a></th>
     </tr>
     <tr>
+        <td nowrap="nowrap"><img width="33" alt="user-statistician" src="https://gitlibrary.club/images/uploads/2023/09/newshot-user-statistician.jpg" /></td>
+        <td>Analytics</td>
+        <td>Python</td>
+        <td><a href="https://actions.cicirello.org/user-statistician/" target="_blank">user-statistician</a></td>
+        <td>Generate a GitHub stats SVG for your GitHub Profile README in GitHub Actions</td>
+        <th><a href="https://github.com/cicirello/user-statistician" target="_blank"><img alt="user-statistician" src="https://img.shields.io/github/stars/cicirello/user-statistician?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="generate-sitemap" src="https://gitlibrary.club/images/uploads/2023/09/newshot-generate-sitemap.jpg" /></td>
+        <td>Infrastructure</td>
+        <td>Python</td>
+        <td><a href="https://actions.cicirello.org/generate-sitemap/" target="_blank">generate-sitemap</a></td>
+        <td>Generate an XML sitemap for a GitHub Pages site using GitHub Actions</td>
+        <th><a href="https://github.com/cicirello/generate-sitemap" target="_blank"><img alt="generate-sitemap" src="https://img.shields.io/github/stars/cicirello/generate-sitemap?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="javadoc-cleanup" src="https://gitlibrary.club/images/uploads/2023/09/newshot-javadoc-cleanup.jpg" /></td>
+        <td>Miscellaneous</td>
+        <td>Python</td>
+        <td><a href="https://actions.cicirello.org/javadoc-cleanup/" target="_blank">javadoc-cleanup</a></td>
+        <td>Create mobile-friendly documentation sites by post-processing javadocs in GitHub Actions</td>
+        <th><a href="https://github.com/cicirello/javadoc-cleanup" target="_blank"><img alt="javadoc-cleanup" src="https://img.shields.io/github/stars/cicirello/javadoc-cleanup?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="Dart Fusion" src="https://gitlibrary.club/images/uploads/2023/09/newshot-dart_fusion.png" /></td>
         <td>Miscellaneous</td>
         <td>Dart</td>
@@ -599,30 +623,6 @@
         <td><a href="https://birjuvachhani.github.io/pluto" target="_blank">Pluto</a></td>
         <td>A minimal new tab for Chrome/Edge.</td>
         <th><a href="https://github.com/BirjuVachhani/pluto" target="_blank"><img alt="Pluto" src="https://img.shields.io/github/stars/BirjuVachhani/pluto?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="user-statistician" src="https://gitlibrary.club/images/uploads/2023/09/newshot-user-statistician.jpg" /></td>
-        <td>Analytics</td>
-        <td>Python</td>
-        <td><a href="https://actions.cicirello.org/user-statistician/" target="_blank">user-statistician</a></td>
-        <td>Generate a GitHub stats SVG for your GitHub Profile README in GitHub Actions</td>
-        <th><a href="https://github.com/cicirello/user-statistician" target="_blank"><img alt="user-statistician" src="https://img.shields.io/github/stars/cicirello/user-statistician?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="generate-sitemap" src="https://gitlibrary.club/images/uploads/2023/09/newshot-generate-sitemap.jpg" /></td>
-        <td>Infrastructure</td>
-        <td>Python</td>
-        <td><a href="https://actions.cicirello.org/generate-sitemap/" target="_blank">generate-sitemap</a></td>
-        <td>Generate an XML sitemap for a GitHub Pages site using GitHub Actions</td>
-        <th><a href="https://github.com/cicirello/generate-sitemap" target="_blank"><img alt="generate-sitemap" src="https://img.shields.io/github/stars/cicirello/generate-sitemap?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="javadoc-cleanup" src="https://gitlibrary.club/images/uploads/2023/09/newshot-javadoc-cleanup.jpg" /></td>
-        <td>Miscellaneous</td>
-        <td>Python</td>
-        <td><a href="https://actions.cicirello.org/javadoc-cleanup/" target="_blank">javadoc-cleanup</a></td>
-        <td>Create mobile-friendly documentation sites by post-processing javadocs in GitHub Actions</td>
-        <th><a href="https://github.com/cicirello/javadoc-cleanup" target="_blank"><img alt="javadoc-cleanup" src="https://img.shields.io/github/stars/cicirello/javadoc-cleanup?style=social" /></a></th>
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="API Bloc" src="https://gitlibrary.club/images/uploads/2023/09/newshot-api_bloc.png" /></td>
@@ -719,6 +719,14 @@
         <td><a href="https://brapi.dev" target="_blank">brapi</a></td>
         <td>A poderosa API open source para dados financeiros do mercado de ações, conversão de moedas e inflação brasileira</td>
         <th><a href="https://github.com/Alissonsleal/brapi" target="_blank"><img alt="brapi" src="https://img.shields.io/github/stars/Alissonsleal/brapi?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="core" src="https://gitlibrary.club/images/uploads/2023/09/newshot-core.jpg" /></td>
+        <td>Miscellaneous</td>
+        <td>Java</td>
+        <td><a href="https://core.cicirello.org" target="_blank">core</a></td>
+        <td>Utilities and data structures used by several of my projects</td>
+        <th><a href="https://github.com/cicirello/core" target="_blank"><img alt="core" src="https://img.shields.io/github/stars/cicirello/core?style=social" /></a></th>
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="awesome window manager" src="https://gitlibrary.club/images/uploads/2023/05/newshot-awesome.png" /></td>
@@ -823,14 +831,6 @@
         <td><a href="https://inlang.com" target="_blank">inlang</a></td>
         <td>globalization infrastructure for software &amp;&amp; version control for apps</td>
         <th><a href="https://github.com/inlang/inlang" target="_blank"><img alt="inlang" src="https://img.shields.io/github/stars/inlang/inlang?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="core" src="https://gitlibrary.club/images/uploads/2023/09/newshot-core.jpg" /></td>
-        <td>Miscellaneous</td>
-        <td>Java</td>
-        <td><a href="https://core.cicirello.org" target="_blank">core</a></td>
-        <td>Utilities and data structures used by several of my projects</td>
-        <th><a href="https://github.com/cicirello/core" target="_blank"><img alt="core" src="https://img.shields.io/github/stars/cicirello/core?style=social" /></a></th>
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="Drifty" src="https://gitlibrary.club/images/uploads/2023/09/newshot-Drifty.jpg" /></td>
@@ -1033,6 +1033,22 @@
         <th><a href="https://github.com/texus/TGUI" target="_blank"><img alt="TGUI" src="https://img.shields.io/github/stars/texus/TGUI?style=social" /></a></th>
     </tr>
     <tr>
+        <td nowrap="nowrap"><img width="33" alt="gnu-on-alpine" src="https://gitlibrary.club/images/uploads/2023/09/newshot-gnu-on-alpine.jpg" /></td>
+        <td>Infrastructure</td>
+        <td>Dockerfile</td>
+        <td><a href="https://actions.cicirello.org/gnu-on-alpine/" target="_blank">gnu-on-alpine</a></td>
+        <td>A lightweight Docker container for shell scripting with GNU tools on Alpine Linux</td>
+        <th><a href="https://github.com/cicirello/gnu-on-alpine" target="_blank"><img alt="gnu-on-alpine" src="https://img.shields.io/github/stars/cicirello/gnu-on-alpine?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="alpine-plus-plus" src="https://gitlibrary.club/images/uploads/2023/09/newshot-alpine-plus-plus.jpg" /></td>
+        <td>Infrastructure</td>
+        <td>Dockerfile</td>
+        <td><a href="https://actions.cicirello.org/alpine-plus-plus/" target="_blank">alpine-plus-plus</a></td>
+        <td>A lightweight Docker container for shell scripting with git and GNU tools on Alpine Linux</td>
+        <th><a href="https://github.com/cicirello/alpine-plus-plus" target="_blank"><img alt="alpine-plus-plus" src="https://img.shields.io/github/stars/cicirello/alpine-plus-plus?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="Danger" src="https://gitlibrary.club/images/uploads/2023/05/newshot-danger.png" /></td>
         <td>Collaboration</td>
         <td>Ruby</td>
@@ -1120,22 +1136,6 @@
         <td>Trame lets you weave various components and technologies into a Web Application solely written in Python.</td>
         <th><a href="https://github.com/Kitware/trame" target="_blank"><img alt="trame" src="https://img.shields.io/github/stars/Kitware/trame?style=social" /></a></th>
     </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="aqua.css" src="https://gitlibrary.club/images/uploads/2023/07/newshot-aqua.css-1.jpg" /></td>
-        <td>Productivity</td>
-        <td>SCSS</td>
-        <td><a href="https://aquacss.netlify.com/" target="_blank">aqua.css</a></td>
-        <td>An elegant CSS Framework.</td>
-        <th><a href="https://github.com/alphardex/aqua.css" target="_blank"><img alt="aqua.css" src="https://img.shields.io/github/stars/alphardex/aqua.css?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="doticons" src="https://gitlibrary.club/images/uploads/2023/07/newshot-doticons.jpg" /></td>
-        <td>Miscellaneous</td>
-        <td>undefined</td>
-        <td><a href="https://github.com/eduardconstantin/doticons" target="_blank">doticons</a></td>
-        <td>doticons is a collection of versatile and visually appealing dot icons in SVG format.</td>
-        <th><a href="https://github.com/eduardconstantin/doticons" target="_blank"><img alt="doticons" src="https://img.shields.io/github/stars/eduardconstantin/doticons?style=social" /></a></th>
-    </tr>
 
 </table>
 
@@ -1160,20 +1160,20 @@
         <th><a href="https://github.com/AmosHuKe/Mood-Example" target="_blank"><img alt="Mood-Example" src="https://img.shields.io/github/stars/AmosHuKe/Mood-Example?style=social" /></a></th>
     </tr>
     <tr>
-        <td nowrap="nowrap"><img width="33" alt="Twenty CRM" src="https://gitlibrary.club/images/uploads/2023/07/newshot-twenty.png" /></td>
-        <td>Miscellaneous</td>
-        <td>TypeScript</td>
-        <td><a href="https://twenty.com" target="_blank">Twenty CRM</a></td>
-        <td>Building a modern alternative to Salesforce. <g-emoji class="g-emoji" alias="star2" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f31f.png">?</g-emoji> You can star to support our work!</td>
-        <th><a href="https://github.com/twentyhq/twenty" target="_blank"><img alt="Twenty CRM" src="https://img.shields.io/github/stars/twentyhq/twenty?style=social" /></a></th>
-    </tr>
-    <tr>
         <td nowrap="nowrap"><img width="33" alt="Chips-n-Salsa" src="https://gitlibrary.club/images/uploads/2023/08/newshot-Chips-n-Salsa.jpg" /></td>
         <td>Miscellaneous</td>
         <td>Java</td>
         <td><a href="https://chips-n-salsa.cicirello.org/" target="_blank">Chips-n-Salsa</a></td>
         <td>A Java library of Customizable, Hybridizable, Iterative, Parallel, Stochastic, and Self-Adaptive Local Search Algorithms</td>
         <th><a href="https://github.com/cicirello/Chips-n-Salsa" target="_blank"><img alt="Chips-n-Salsa" src="https://img.shields.io/github/stars/cicirello/Chips-n-Salsa?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Twenty CRM" src="https://gitlibrary.club/images/uploads/2023/07/newshot-twenty.png" /></td>
+        <td>Miscellaneous</td>
+        <td>TypeScript</td>
+        <td><a href="https://twenty.com" target="_blank">Twenty CRM</a></td>
+        <td>Building a modern alternative to Salesforce. <g-emoji class="g-emoji" alias="star2" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f31f.png">?</g-emoji> You can star to support our work!</td>
+        <th><a href="https://github.com/twentyhq/twenty" target="_blank"><img alt="Twenty CRM" src="https://img.shields.io/github/stars/twentyhq/twenty?style=social" /></a></th>
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="JavaPermutationTools" src="https://gitlibrary.club/images/uploads/2023/08/newshot-JavaPermutationTools.jpg" /></td>
@@ -1192,6 +1192,14 @@
         <th><a href="https://github.com/cicirello/rho-mu" target="_blank"><img alt="ρμ" src="https://img.shields.io/github/stars/cicirello/rho-mu?style=social" /></a></th>
     </tr>
     <tr>
+        <td nowrap="nowrap"><img width="33" alt="javadoc-cleanup" src="https://gitlibrary.club/images/uploads/2023/09/newshot-javadoc-cleanup.jpg" /></td>
+        <td>Miscellaneous</td>
+        <td>Python</td>
+        <td><a href="https://actions.cicirello.org/javadoc-cleanup/" target="_blank">javadoc-cleanup</a></td>
+        <td>Create mobile-friendly documentation sites by post-processing javadocs in GitHub Actions</td>
+        <th><a href="https://github.com/cicirello/javadoc-cleanup" target="_blank"><img alt="javadoc-cleanup" src="https://img.shields.io/github/stars/cicirello/javadoc-cleanup?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="Dart Fusion" src="https://gitlibrary.club/images/uploads/2023/09/newshot-dart_fusion.png" /></td>
         <td>Miscellaneous</td>
         <td>Dart</td>
@@ -1208,20 +1216,20 @@
         <th><a href="https://github.com/BirjuVachhani/pluto" target="_blank"><img alt="Pluto" src="https://img.shields.io/github/stars/BirjuVachhani/pluto?style=social" /></a></th>
     </tr>
     <tr>
-        <td nowrap="nowrap"><img width="33" alt="javadoc-cleanup" src="https://gitlibrary.club/images/uploads/2023/09/newshot-javadoc-cleanup.jpg" /></td>
-        <td>Miscellaneous</td>
-        <td>Python</td>
-        <td><a href="https://actions.cicirello.org/javadoc-cleanup/" target="_blank">javadoc-cleanup</a></td>
-        <td>Create mobile-friendly documentation sites by post-processing javadocs in GitHub Actions</td>
-        <th><a href="https://github.com/cicirello/javadoc-cleanup" target="_blank"><img alt="javadoc-cleanup" src="https://img.shields.io/github/stars/cicirello/javadoc-cleanup?style=social" /></a></th>
-    </tr>
-    <tr>
         <td nowrap="nowrap"><img width="33" alt="brapi" src="https://gitlibrary.club/images/uploads/2023/07/newshot-brapi.jpg" /></td>
         <td>Miscellaneous</td>
         <td>TypeScript</td>
         <td><a href="https://brapi.dev" target="_blank">brapi</a></td>
         <td>A poderosa API open source para dados financeiros do mercado de ações, conversão de moedas e inflação brasileira</td>
         <th><a href="https://github.com/Alissonsleal/brapi" target="_blank"><img alt="brapi" src="https://img.shields.io/github/stars/Alissonsleal/brapi?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="core" src="https://gitlibrary.club/images/uploads/2023/09/newshot-core.jpg" /></td>
+        <td>Miscellaneous</td>
+        <td>Java</td>
+        <td><a href="https://core.cicirello.org" target="_blank">core</a></td>
+        <td>Utilities and data structures used by several of my projects</td>
+        <th><a href="https://github.com/cicirello/core" target="_blank"><img alt="core" src="https://img.shields.io/github/stars/cicirello/core?style=social" /></a></th>
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="awesome window manager" src="https://gitlibrary.club/images/uploads/2023/05/newshot-awesome.png" /></td>
@@ -1246,14 +1254,6 @@
         <td><a href="https://openstatus.dev" target="_blank">OpenStatus</a></td>
         <td>The open-source status page</td>
         <th><a href="https://github.com/openstatusHQ/openstatus" target="_blank"><img alt="OpenStatus" src="https://img.shields.io/github/stars/openstatusHQ/openstatus?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="core" src="https://gitlibrary.club/images/uploads/2023/09/newshot-core.jpg" /></td>
-        <td>Miscellaneous</td>
-        <td>Java</td>
-        <td><a href="https://core.cicirello.org" target="_blank">core</a></td>
-        <td>Utilities and data structures used by several of my projects</td>
-        <th><a href="https://github.com/cicirello/core" target="_blank"><img alt="core" src="https://img.shields.io/github/stars/cicirello/core?style=social" /></a></th>
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="TypeWriter Text" src="https://gitlibrary.club/images/uploads/2023/09/newshot-typewritertext.png" /></td>
@@ -4834,6 +4834,14 @@
         <th><a href="https://github.com/Super-Badmen-Viper/MoZhiMusicPlayer" target="_blank"><img alt="MoZhiMusicPlayer" src="https://img.shields.io/github/stars/Super-Badmen-Viper/MoZhiMusicPlayer?style=social" /></a></th>
     </tr>
     <tr>
+        <td nowrap="nowrap"><img width="33" alt="count-action-users" src="https://gitlibrary.club/images/uploads/2023/08/newshot-count-action-users.jpg" /></td>
+        <td>Analytics</td>
+        <td>Python</td>
+        <td><a href="https://actions.cicirello.org/count-action-users/" target="_blank">count-action-users</a></td>
+        <td>Generates Shields endpoint with number of users of a GitHub Action</td>
+        <th><a href="https://github.com/cicirello/count-action-users" target="_blank"><img alt="count-action-users" src="https://img.shields.io/github/stars/cicirello/count-action-users?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="Railtrack" src="https://gitlibrary.club/images/uploads/2023/05/newshot-railtrack.png" /></td>
         <td>Analytics</td>
         <td>TypeScript</td>
@@ -4848,14 +4856,6 @@
         <td><a href="https://runprism.com" target="_blank">Prism</a></td>
         <td>Prism is the easiest way to develop, orchestrate, and execute data pipelines in Python.</td>
         <th><a href="https://github.com/runprism/prism" target="_blank"><img alt="Prism" src="https://img.shields.io/github/stars/runprism/prism?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="count-action-users" src="https://gitlibrary.club/images/uploads/2023/08/newshot-count-action-users.jpg" /></td>
-        <td>Analytics</td>
-        <td>Python</td>
-        <td><a href="https://actions.cicirello.org/count-action-users/" target="_blank">count-action-users</a></td>
-        <td>Generates Shields endpoint with number of users of a GitHub Action</td>
-        <th><a href="https://github.com/cicirello/count-action-users" target="_blank"><img alt="count-action-users" src="https://img.shields.io/github/stars/cicirello/count-action-users?style=social" /></a></th>
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="OneFlow" src="https://gitlibrary.club/images/uploads/2023/05/newshot-oneflow.png" /></td>
@@ -6176,20 +6176,20 @@
         <th><a href="https://github.com/Frezyx/sidebarx" target="_blank"><img alt="sidebarx" src="https://img.shields.io/github/stars/Frezyx/sidebarx?style=social" /></a></th>
     </tr>
     <tr>
-        <td nowrap="nowrap"><img width="33" alt="CGraph" src="https://gitlibrary.club/images/uploads/2023/09/newshot-CGraph.jpg" /></td>
-        <td>Infrastructure</td>
-        <td>C++</td>
-        <td><a href="http://www.chunel.cn" target="_blank">CGraph</a></td>
-        <td>【A simple C++ DAG framework】 一个简单好用的、无三方依赖的、跨平台的、收录于awesome-cpp的、基于流图的并行计算框架。欢迎star &amp; fork</td>
-        <th><a href="https://github.com/ChunelFeng/CGraph" target="_blank"><img alt="CGraph" src="https://img.shields.io/github/stars/ChunelFeng/CGraph?style=social" /></a></th>
-    </tr>
-    <tr>
         <td nowrap="nowrap"><img width="33" alt="generate-sitemap" src="https://gitlibrary.club/images/uploads/2023/09/newshot-generate-sitemap.jpg" /></td>
         <td>Infrastructure</td>
         <td>Python</td>
         <td><a href="https://actions.cicirello.org/generate-sitemap/" target="_blank">generate-sitemap</a></td>
         <td>Generate an XML sitemap for a GitHub Pages site using GitHub Actions</td>
         <th><a href="https://github.com/cicirello/generate-sitemap" target="_blank"><img alt="generate-sitemap" src="https://img.shields.io/github/stars/cicirello/generate-sitemap?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="CGraph" src="https://gitlibrary.club/images/uploads/2023/09/newshot-CGraph.jpg" /></td>
+        <td>Infrastructure</td>
+        <td>C++</td>
+        <td><a href="http://www.chunel.cn" target="_blank">CGraph</a></td>
+        <td>【A simple C++ DAG framework】 一个简单好用的、无三方依赖的、跨平台的、收录于awesome-cpp的、基于流图的并行计算框架。欢迎star &amp; fork</td>
+        <th><a href="https://github.com/ChunelFeng/CGraph" target="_blank"><img alt="CGraph" src="https://img.shields.io/github/stars/ChunelFeng/CGraph?style=social" /></a></th>
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="API Bloc" src="https://gitlibrary.club/images/uploads/2023/09/newshot-api_bloc.png" /></td>
@@ -6270,6 +6270,22 @@
         <td><a href="https://medplum.com" target="_blank">Medplum</a></td>
         <td>Medplum is a healthcare platform that helps you quickly develop high-quality compliant applications.</td>
         <th><a href="https://github.com/medplum/medplum" target="_blank"><img alt="Medplum" src="https://img.shields.io/github/stars/medplum/medplum?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="gnu-on-alpine" src="https://gitlibrary.club/images/uploads/2023/09/newshot-gnu-on-alpine.jpg" /></td>
+        <td>Infrastructure</td>
+        <td>Dockerfile</td>
+        <td><a href="https://actions.cicirello.org/gnu-on-alpine/" target="_blank">gnu-on-alpine</a></td>
+        <td>A lightweight Docker container for shell scripting with GNU tools on Alpine Linux</td>
+        <th><a href="https://github.com/cicirello/gnu-on-alpine" target="_blank"><img alt="gnu-on-alpine" src="https://img.shields.io/github/stars/cicirello/gnu-on-alpine?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="alpine-plus-plus" src="https://gitlibrary.club/images/uploads/2023/09/newshot-alpine-plus-plus.jpg" /></td>
+        <td>Infrastructure</td>
+        <td>Dockerfile</td>
+        <td><a href="https://actions.cicirello.org/alpine-plus-plus/" target="_blank">alpine-plus-plus</a></td>
+        <td>A lightweight Docker container for shell scripting with git and GNU tools on Alpine Linux</td>
+        <th><a href="https://github.com/cicirello/alpine-plus-plus" target="_blank"><img alt="alpine-plus-plus" src="https://img.shields.io/github/stars/cicirello/alpine-plus-plus?style=social" /></a></th>
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="Micronaut Framework" src="https://gitlibrary.club/images/uploads/2023/05/newshot-micronaut-core.png" /></td>
@@ -6422,22 +6438,6 @@
         <td><a href="https://projectsveltos.github.io/sveltos/" target="_blank">Projectsveltos</a></td>
         <td>Sveltos Kubernetes add-on controller programmatically deploys add-ons and applications in tens of clusters. Support for ClusterAPI powered clusters, Helm charts, kustomize ,YAMLs. Sveltos has built…</td>
         <th><a href="https://github.com/projectsveltos/addon-controller" target="_blank"><img alt="Projectsveltos" src="https://img.shields.io/github/stars/projectsveltos/addon-controller?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="gnu-on-alpine" src="https://gitlibrary.club/images/uploads/2023/09/newshot-gnu-on-alpine.jpg" /></td>
-        <td>Infrastructure</td>
-        <td>Dockerfile</td>
-        <td><a href="https://actions.cicirello.org/gnu-on-alpine/" target="_blank">gnu-on-alpine</a></td>
-        <td>A lightweight Docker container for shell scripting with GNU tools on Alpine Linux</td>
-        <th><a href="https://github.com/cicirello/gnu-on-alpine" target="_blank"><img alt="gnu-on-alpine" src="https://img.shields.io/github/stars/cicirello/gnu-on-alpine?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="alpine-plus-plus" src="https://gitlibrary.club/images/uploads/2023/09/newshot-alpine-plus-plus.jpg" /></td>
-        <td>Infrastructure</td>
-        <td>Dockerfile</td>
-        <td><a href="https://actions.cicirello.org/alpine-plus-plus/" target="_blank">alpine-plus-plus</a></td>
-        <td>A lightweight Docker container for shell scripting with git and GNU tools on Alpine Linux</td>
-        <th><a href="https://github.com/cicirello/alpine-plus-plus" target="_blank"><img alt="alpine-plus-plus" src="https://img.shields.io/github/stars/cicirello/alpine-plus-plus?style=social" /></a></th>
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="lua-eco" src="https://gitlibrary.club/images/uploads/2023/09/newshot-lua-eco.jpg" /></td>
@@ -9857,6 +9857,14 @@
         <th><a href="https://github.com/Kitware/trame" target="_blank"><img alt="trame" src="https://img.shields.io/github/stars/Kitware/trame?style=social" /></a></th>
     </tr>
     <tr>
+        <td nowrap="nowrap"><img width="33" alt="count-action-users" src="https://gitlibrary.club/images/uploads/2023/08/newshot-count-action-users.jpg" /></td>
+        <td>Analytics</td>
+        <td>Python</td>
+        <td><a href="https://actions.cicirello.org/count-action-users/" target="_blank">count-action-users</a></td>
+        <td>Generates Shields endpoint with number of users of a GitHub Action</td>
+        <th><a href="https://github.com/cicirello/count-action-users" target="_blank"><img alt="count-action-users" src="https://img.shields.io/github/stars/cicirello/count-action-users?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="Swirl Search" src="https://gitlibrary.club/images/uploads/2023/09/newshot-swirl-search.png" /></td>
         <td>Infrastructure</td>
         <td>Python</td>
@@ -9951,14 +9959,6 @@
         <td><a href="https://github.com/TsingZ0/PFL-Non-IID" target="_blank">PFL-Non-IID</a></td>
         <td>Personalized federated learning simulation platform with non-IID and unbalanced dataset</td>
         <th><a href="https://github.com/TsingZ0/PFL-Non-IID" target="_blank"><img alt="PFL-Non-IID" src="https://img.shields.io/github/stars/TsingZ0/PFL-Non-IID?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="count-action-users" src="https://gitlibrary.club/images/uploads/2023/08/newshot-count-action-users.jpg" /></td>
-        <td>Analytics</td>
-        <td>Python</td>
-        <td><a href="https://actions.cicirello.org/count-action-users/" target="_blank">count-action-users</a></td>
-        <td>Generates Shields endpoint with number of users of a GitHub Action</td>
-        <th><a href="https://github.com/cicirello/count-action-users" target="_blank"><img alt="count-action-users" src="https://img.shields.io/github/stars/cicirello/count-action-users?style=social" /></a></th>
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="Haly AI" src="https://gitlibrary.club/images/uploads/2023/09/newshot-slack-bot.png" /></td>
@@ -13036,6 +13036,44 @@
 </table>
 
 <br /><br />
+<h2 id="dockerfile">Top 20 Dockerfile libraries</h2>
+<table>
+    <tr>
+        <th>Icon</th>
+        <th>Category</th>
+        <th>Language</th>
+        <th>Name</th>
+        <th>Description</th>
+        <th>Stargazers</th>
+    </tr>
+        <tr>
+        <td nowrap="nowrap"><img width="33" alt="gnu-on-alpine" src="https://gitlibrary.club/images/uploads/2023/09/newshot-gnu-on-alpine.jpg" /></td>
+        <td>Infrastructure</td>
+        <td>Dockerfile</td>
+        <td><a href="https://actions.cicirello.org/gnu-on-alpine/" target="_blank">gnu-on-alpine</a></td>
+        <td>A lightweight Docker container for shell scripting with GNU tools on Alpine Linux</td>
+        <th><a href="https://github.com/cicirello/gnu-on-alpine" target="_blank"><img alt="gnu-on-alpine" src="https://img.shields.io/github/stars/cicirello/gnu-on-alpine?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="alpine-plus-plus" src="https://gitlibrary.club/images/uploads/2023/09/newshot-alpine-plus-plus.jpg" /></td>
+        <td>Infrastructure</td>
+        <td>Dockerfile</td>
+        <td><a href="https://actions.cicirello.org/alpine-plus-plus/" target="_blank">alpine-plus-plus</a></td>
+        <td>A lightweight Docker container for shell scripting with git and GNU tools on Alpine Linux</td>
+        <th><a href="https://github.com/cicirello/alpine-plus-plus" target="_blank"><img alt="alpine-plus-plus" src="https://img.shields.io/github/stars/cicirello/alpine-plus-plus?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="OWASP Security Guide" src="https://gitlibrary.club/images/uploads/2023/05/newshot-wstg.jpg" /></td>
+        <td>Security</td>
+        <td>Dockerfile</td>
+        <td><a href="https://owasp.org/www-project-web-security-testing-guide/" target="_blank">OWASP Security Guide</a></td>
+        <td>The Web Security Testing Guide is a comprehensive Open Source guide to testing the security of web applications and web services.</td>
+        <th><a href="https://github.com/OWASP/wstg" target="_blank"><img alt="OWASP Security Guide" src="https://img.shields.io/github/stars/OWASP/wstg?style=social" /></a></th>
+    </tr>
+
+</table>
+
+<br /><br />
 <h2 id="jsonnet">Top 20 Jsonnet libraries</h2>
 <table>
     <tr>
@@ -13403,44 +13441,6 @@
         <td><a href="https://redefine.ohevan.com" target="_blank">hexo-theme-redefine</a></td>
         <td>Redefine Hexo theme. Simple, Fast, Easy to Use. Redefine Your Writing</td>
         <th><a href="https://github.com/EvanNotFound/hexo-theme-redefine" target="_blank"><img alt="hexo-theme-redefine" src="https://img.shields.io/github/stars/EvanNotFound/hexo-theme-redefine?style=social" /></a></th>
-    </tr>
-
-</table>
-
-<br /><br />
-<h2 id="dockerfile">Top 20 Dockerfile libraries</h2>
-<table>
-    <tr>
-        <th>Icon</th>
-        <th>Category</th>
-        <th>Language</th>
-        <th>Name</th>
-        <th>Description</th>
-        <th>Stargazers</th>
-    </tr>
-        <tr>
-        <td nowrap="nowrap"><img width="33" alt="gnu-on-alpine" src="https://gitlibrary.club/images/uploads/2023/09/newshot-gnu-on-alpine.jpg" /></td>
-        <td>Infrastructure</td>
-        <td>Dockerfile</td>
-        <td><a href="https://actions.cicirello.org/gnu-on-alpine/" target="_blank">gnu-on-alpine</a></td>
-        <td>A lightweight Docker container for shell scripting with GNU tools on Alpine Linux</td>
-        <th><a href="https://github.com/cicirello/gnu-on-alpine" target="_blank"><img alt="gnu-on-alpine" src="https://img.shields.io/github/stars/cicirello/gnu-on-alpine?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="alpine-plus-plus" src="https://gitlibrary.club/images/uploads/2023/09/newshot-alpine-plus-plus.jpg" /></td>
-        <td>Infrastructure</td>
-        <td>Dockerfile</td>
-        <td><a href="https://actions.cicirello.org/alpine-plus-plus/" target="_blank">alpine-plus-plus</a></td>
-        <td>A lightweight Docker container for shell scripting with git and GNU tools on Alpine Linux</td>
-        <th><a href="https://github.com/cicirello/alpine-plus-plus" target="_blank"><img alt="alpine-plus-plus" src="https://img.shields.io/github/stars/cicirello/alpine-plus-plus?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="OWASP Security Guide" src="https://gitlibrary.club/images/uploads/2023/05/newshot-wstg.jpg" /></td>
-        <td>Security</td>
-        <td>Dockerfile</td>
-        <td><a href="https://owasp.org/www-project-web-security-testing-guide/" target="_blank">OWASP Security Guide</a></td>
-        <td>The Web Security Testing Guide is a comprehensive Open Source guide to testing the security of web applications and web services.</td>
-        <th><a href="https://github.com/OWASP/wstg" target="_blank"><img alt="OWASP Security Guide" src="https://img.shields.io/github/stars/OWASP/wstg?style=social" /></a></th>
     </tr>
 
 </table>
