@@ -162,6 +162,14 @@
         <th>Stargazers</th>
     </tr>
         <tr>
+        <td nowrap="nowrap"><img width="33" alt="FINAL CUT" src="https://gitlibrary.club/images/uploads/2023/10/newshot-finalcut.png" /></td>
+        <td>Productivity</td>
+        <td>C++</td>
+        <td><a href="https://github.com/gansm/finalcut/wiki/First-steps#first-steps-with-the-final-cut-widget-toolkit" target="_blank">FINAL CUT</a></td>
+        <td>A text-based widget toolkit</td>
+        <th><a href="https://github.com/gansm/finalcut" target="_blank"><img alt="FINAL CUT" src="https://img.shields.io/github/stars/gansm/finalcut?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="Fluvio" src="https://gitlibrary.club/images/uploads/2023/10/newshot-fluvio.jpg" /></td>
         <td>Infrastructure</td>
         <td>Rust</td>
@@ -312,14 +320,6 @@
         <td><a href="https://hexmos.com/lama2" target="_blank">Lama2</a></td>
         <td>Plain-text Powered REST API Client for Teams ?</td>
         <th><a href="https://github.com/HexmosTech/Lama2" target="_blank"><img alt="Lama2" src="https://img.shields.io/github/stars/HexmosTech/Lama2?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Vue Macros" src="https://gitlibrary.club/images/uploads/2023/09/newshot-vue-macros.png" /></td>
-        <td>Productivity</td>
-        <td>TypeScript</td>
-        <td><a href="https://vue-macros.sxzz.moe" target="_blank">Vue Macros</a></td>
-        <td>Explore and extend more macros and syntax sugar to Vue.</td>
-        <th><a href="https://github.com/vue-macros/vue-macros" target="_blank"><img alt="Vue Macros" src="https://img.shields.io/github/stars/vue-macros/vue-macros?style=social" /></a></th>
     </tr>
 
 </table>
@@ -1049,6 +1049,14 @@
         <th><a href="https://github.com/cicirello/alpine-plus-plus" target="_blank"><img alt="alpine-plus-plus" src="https://img.shields.io/github/stars/cicirello/alpine-plus-plus?style=social" /></a></th>
     </tr>
     <tr>
+        <td nowrap="nowrap"><img width="33" alt="FINAL CUT" src="https://gitlibrary.club/images/uploads/2023/10/newshot-finalcut.png" /></td>
+        <td>Productivity</td>
+        <td>C++</td>
+        <td><a href="https://github.com/gansm/finalcut/wiki/First-steps#first-steps-with-the-final-cut-widget-toolkit" target="_blank">FINAL CUT</a></td>
+        <td>A text-based widget toolkit</td>
+        <th><a href="https://github.com/gansm/finalcut" target="_blank"><img alt="FINAL CUT" src="https://img.shields.io/github/stars/gansm/finalcut?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="Danger" src="https://gitlibrary.club/images/uploads/2023/05/newshot-danger.png" /></td>
         <td>Collaboration</td>
         <td>Ruby</td>
@@ -1127,14 +1135,6 @@
         <td><a href="https://boxyhq.com/audit-logs" target="_blank">Retraced</a></td>
         <td>A fully open source audit logs service and embeddable UI easily deployed to your own Kubernetes cluster. Brought to you by replicated.com and boxyhq.com</td>
         <th><a href="https://github.com/retracedhq/retraced" target="_blank"><img alt="Retraced" src="https://img.shields.io/github/stars/retracedhq/retraced?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="trame" src="https://gitlibrary.club/images/uploads/2023/06/newshot-trame.png" /></td>
-        <td>Productivity</td>
-        <td>Python</td>
-        <td><a href="https://kitware.github.io/trame/" target="_blank">trame</a></td>
-        <td>Trame lets you weave various components and technologies into a Web Application solely written in Python.</td>
-        <th><a href="https://github.com/Kitware/trame" target="_blank"><img alt="trame" src="https://img.shields.io/github/stars/Kitware/trame?style=social" /></a></th>
     </tr>
 
 </table>
@@ -3066,6 +3066,14 @@
         <td><a href="https://tgui.eu" target="_blank">TGUI</a></td>
         <td>Cross-platform modern c++ GUI</td>
         <th><a href="https://github.com/texus/TGUI" target="_blank"><img alt="TGUI" src="https://img.shields.io/github/stars/texus/TGUI?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="FINAL CUT" src="https://gitlibrary.club/images/uploads/2023/10/newshot-finalcut.png" /></td>
+        <td>Productivity</td>
+        <td>C++</td>
+        <td><a href="https://github.com/gansm/finalcut/wiki/First-steps#first-steps-with-the-final-cut-widget-toolkit" target="_blank">FINAL CUT</a></td>
+        <td>A text-based widget toolkit</td>
+        <th><a href="https://github.com/gansm/finalcut" target="_blank"><img alt="FINAL CUT" src="https://img.shields.io/github/stars/gansm/finalcut?style=social" /></a></th>
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="DocsGPT" src="https://gitlibrary.club/images/uploads/2023/05/newshot-DocsGPT.png" /></td>
@@ -12023,6 +12031,14 @@
         <td><a href="https://tgui.eu" target="_blank">TGUI</a></td>
         <td>Cross-platform modern c++ GUI</td>
         <th><a href="https://github.com/texus/TGUI" target="_blank"><img alt="TGUI" src="https://img.shields.io/github/stars/texus/TGUI?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="FINAL CUT" src="https://gitlibrary.club/images/uploads/2023/10/newshot-finalcut.png" /></td>
+        <td>Productivity</td>
+        <td>C++</td>
+        <td><a href="https://github.com/gansm/finalcut/wiki/First-steps#first-steps-with-the-final-cut-widget-toolkit" target="_blank">FINAL CUT</a></td>
+        <td>A text-based widget toolkit</td>
+        <th><a href="https://github.com/gansm/finalcut" target="_blank"><img alt="FINAL CUT" src="https://img.shields.io/github/stars/gansm/finalcut?style=social" /></a></th>
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="wxWidgets" src="https://gitlibrary.club/images/uploads/2023/05/newshot-wxWidgets.png" /></td>
