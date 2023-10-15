@@ -170,6 +170,14 @@
         <th><a href="https://github.com/gansm/finalcut" target="_blank"><img alt="FINAL CUT" src="https://img.shields.io/github/stars/gansm/finalcut?style=social" /></a></th>
     </tr>
     <tr>
+        <td nowrap="nowrap"><img width="33" alt="cloudgrep" src="https://gitlibrary.club/images/uploads/2023/10/newshot-cloudgrep.png" /></td>
+        <td>Security</td>
+        <td>Python</td>
+        <td><a href="https://github.com/cado-security/cloudgrep" target="_blank">cloudgrep</a></td>
+        <td>cloudgrep is grep for cloud storage</td>
+        <th><a href="https://github.com/cado-security/cloudgrep" target="_blank"><img alt="cloudgrep" src="https://img.shields.io/github/stars/cado-security/cloudgrep?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="Fluvio" src="https://gitlibrary.club/images/uploads/2023/10/newshot-fluvio.jpg" /></td>
         <td>Infrastructure</td>
         <td>Rust</td>
@@ -312,14 +320,6 @@
         <td><a href="https://talk.proxoar.com" target="_blank">Talk</a></td>
         <td>Talking with ChatGPT is a breeze</td>
         <th><a href="https://github.com/proxoar/talk" target="_blank"><img alt="Talk" src="https://img.shields.io/github/stars/proxoar/talk?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Lama2" src="https://gitlibrary.club/images/uploads/2023/09/newshot-Lama2.png" /></td>
-        <td>Collaboration</td>
-        <td>JavaScript</td>
-        <td><a href="https://hexmos.com/lama2" target="_blank">Lama2</a></td>
-        <td>Plain-text Powered REST API Client for Teams ?</td>
-        <th><a href="https://github.com/HexmosTech/Lama2" target="_blank"><img alt="Lama2" src="https://img.shields.io/github/stars/HexmosTech/Lama2?style=social" /></a></th>
     </tr>
 
 </table>
@@ -5543,6 +5543,14 @@
         <td>? Serverless plugin that reads environment variables and replaces secrets using AWS Secrets Manager ?</td>
         <th><a href="https://github.com/robin-thomas/serverless-aws-secrets" target="_blank"><img alt="Serverless AWS Secrets" src="https://img.shields.io/github/stars/robin-thomas/serverless-aws-secrets?style=social" /></a></th>
     </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="cloudgrep" src="https://gitlibrary.club/images/uploads/2023/10/newshot-cloudgrep.png" /></td>
+        <td>Security</td>
+        <td>Python</td>
+        <td><a href="https://github.com/cado-security/cloudgrep" target="_blank">cloudgrep</a></td>
+        <td>cloudgrep is grep for cloud storage</td>
+        <th><a href="https://github.com/cado-security/cloudgrep" target="_blank"><img alt="cloudgrep" src="https://img.shields.io/github/stars/cado-security/cloudgrep?style=social" /></a></th>
+    </tr>
 
 </table>
 
@@ -10695,6 +10703,14 @@
         <td><a href="https://github.com/richardyc/Chrome-GPT" target="_blank">Chrome-GPT</a></td>
         <td>An AutoGPT agent that controls Chrome on your desktop</td>
         <th><a href="https://github.com/richardyc/Chrome-GPT" target="_blank"><img alt="Chrome-GPT" src="https://img.shields.io/github/stars/richardyc/Chrome-GPT?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="cloudgrep" src="https://gitlibrary.club/images/uploads/2023/10/newshot-cloudgrep.png" /></td>
+        <td>Security</td>
+        <td>Python</td>
+        <td><a href="https://github.com/cado-security/cloudgrep" target="_blank">cloudgrep</a></td>
+        <td>cloudgrep is grep for cloud storage</td>
+        <th><a href="https://github.com/cado-security/cloudgrep" target="_blank"><img alt="cloudgrep" src="https://img.shields.io/github/stars/cado-security/cloudgrep?style=social" /></a></th>
     </tr>
 
 </table>
