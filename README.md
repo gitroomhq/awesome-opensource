@@ -162,6 +162,14 @@
         <th>Stargazers</th>
     </tr>
         <tr>
+        <td nowrap="nowrap"><img width="33" alt="tods" src="https://gitlibrary.club/images/uploads/2023/10/newshot-tods.png" /></td>
+        <td>Analytics</td>
+        <td>Python</td>
+        <td><a href="http://tods-doc.github.io" target="_blank">tods</a></td>
+        <td>TODS: An Automated Time-series Outlier Detection System</td>
+        <th><a href="https://github.com/datamllab/tods" target="_blank"><img alt="tods" src="https://img.shields.io/github/stars/datamllab/tods?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="FINAL CUT" src="https://gitlibrary.club/images/uploads/2023/10/newshot-finalcut.png" /></td>
         <td>Productivity</td>
         <td>C++</td>
@@ -312,14 +320,6 @@
         <td><a href="https://stackql.io/" target="_blank">StackQL</a></td>
         <td>Query, provision and operate Cloud and SaaS resources and APIs using an extensible SQL based framework</td>
         <th><a href="https://github.com/stackql/stackql" target="_blank"><img alt="StackQL" src="https://img.shields.io/github/stars/stackql/stackql?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Talk" src="https://gitlibrary.club/images/uploads/2023/09/newshot-talk.jpg" /></td>
-        <td>Productivity</td>
-        <td>Go</td>
-        <td><a href="https://talk.proxoar.com" target="_blank">Talk</a></td>
-        <td>Talking with ChatGPT is a breeze</td>
-        <th><a href="https://github.com/proxoar/talk" target="_blank"><img alt="Talk" src="https://img.shields.io/github/stars/proxoar/talk?style=social" /></a></th>
     </tr>
 
 </table>
@@ -5096,6 +5096,14 @@
         <td><a href="https://evidence.dev" target="_blank">Evidence</a></td>
         <td>Business intelligence as code: build polished data products with SQL and markdown</td>
         <th><a href="https://github.com/evidence-dev/evidence" target="_blank"><img alt="Evidence" src="https://img.shields.io/github/stars/evidence-dev/evidence?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="tods" src="https://gitlibrary.club/images/uploads/2023/10/newshot-tods.png" /></td>
+        <td>Analytics</td>
+        <td>Python</td>
+        <td><a href="http://tods-doc.github.io" target="_blank">tods</a></td>
+        <td>TODS: An Automated Time-series Outlier Detection System</td>
+        <th><a href="https://github.com/datamllab/tods" target="_blank"><img alt="tods" src="https://img.shields.io/github/stars/datamllab/tods?style=social" /></a></th>
     </tr>
 
 </table>
@@ -10711,6 +10719,14 @@
         <td><a href="https://github.com/cado-security/cloudgrep" target="_blank">cloudgrep</a></td>
         <td>cloudgrep is grep for cloud storage</td>
         <th><a href="https://github.com/cado-security/cloudgrep" target="_blank"><img alt="cloudgrep" src="https://img.shields.io/github/stars/cado-security/cloudgrep?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="tods" src="https://gitlibrary.club/images/uploads/2023/10/newshot-tods.png" /></td>
+        <td>Analytics</td>
+        <td>Python</td>
+        <td><a href="http://tods-doc.github.io" target="_blank">tods</a></td>
+        <td>TODS: An Automated Time-series Outlier Detection System</td>
+        <th><a href="https://github.com/datamllab/tods" target="_blank"><img alt="tods" src="https://img.shields.io/github/stars/datamllab/tods?style=social" /></a></th>
     </tr>
 
 </table>
