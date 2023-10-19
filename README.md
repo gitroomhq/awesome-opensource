@@ -162,6 +162,14 @@
         <th>Stargazers</th>
     </tr>
         <tr>
+        <td nowrap="nowrap"><img width="33" alt="Glasskube Operator" src="https://gitlibrary.club/images/uploads/2023/10/newshot-operator.jpg" /></td>
+        <td>Infrastructure</td>
+        <td>Kotlin</td>
+        <td><a href="https://glasskube.eu/docs/" target="_blank">Glasskube Operator</a></td>
+        <td>Glasskube Kubernetes Operator - Fully automated deployments for open source tools</td>
+        <th><a href="https://github.com/glasskube/operator" target="_blank"><img alt="Glasskube Operator" src="https://img.shields.io/github/stars/glasskube/operator?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="GitProfile" src="https://gitlibrary.club/images/uploads/2023/10/newshot-gitprofile.jpg" /></td>
         <td>Miscellaneous</td>
         <td>JavaScript</td>
@@ -312,14 +320,6 @@
         <td><a href="https://github.com/WillTaylor22/sidekiq_lifecycle_hooks" target="_blank">Sidekiq Lifecycle Hooks</a></td>
         <td>Async model lifecycle hooks for Rails, using Sidekiq</td>
         <th><a href="https://github.com/WillTaylor22/sidekiq_lifecycle_hooks" target="_blank"><img alt="Sidekiq Lifecycle Hooks" src="https://img.shields.io/github/stars/WillTaylor22/sidekiq_lifecycle_hooks?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Aleph" src="https://gitlibrary.club/images/uploads/2023/10/newshot-aleph.png" /></td>
-        <td>Miscellaneous</td>
-        <td>Clojure</td>
-        <td><a href="http://aleph.io" target="_blank">Aleph</a></td>
-        <td>Asynchronous communication for Clojure</td>
-        <th><a href="https://github.com/clj-commons/aleph" target="_blank"><img alt="Aleph" src="https://img.shields.io/github/stars/clj-commons/aleph?style=social" /></a></th>
     </tr>
 
 </table>
@@ -7567,6 +7567,14 @@
         <td>An AutoGPT agent that controls Chrome on your desktop</td>
         <th><a href="https://github.com/richardyc/Chrome-GPT" target="_blank"><img alt="Chrome-GPT" src="https://img.shields.io/github/stars/richardyc/Chrome-GPT?style=social" /></a></th>
     </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Glasskube Operator" src="https://gitlibrary.club/images/uploads/2023/10/newshot-operator.jpg" /></td>
+        <td>Infrastructure</td>
+        <td>Kotlin</td>
+        <td><a href="https://glasskube.eu/docs/" target="_blank">Glasskube Operator</a></td>
+        <td>Glasskube Kubernetes Operator - Fully automated deployments for open source tools</td>
+        <th><a href="https://github.com/glasskube/operator" target="_blank"><img alt="Glasskube Operator" src="https://img.shields.io/github/stars/glasskube/operator?style=social" /></a></th>
+    </tr>
 
 </table>
 
@@ -9659,6 +9667,14 @@
         <td><a href="https://github.com/ferPrieto/SpaceX-prepare-for-Clean-Architecture-liftoff" target="_blank">SpaceX prepare for Clean Architecture liftoff</a></td>
         <td>Clean Architecture Modular Project: MVVM + Jetpack Compose + Coroutines + Flows + Dagger2 + LiveData + UnitTests + UITests + Screenshot Tests + MockWebServer</td>
         <th><a href="https://github.com/ferPrieto/SpaceX-prepare-for-Clean-Architecture-liftoff" target="_blank"><img alt="SpaceX prepare for Clean Architecture liftoff" src="https://img.shields.io/github/stars/ferPrieto/SpaceX-prepare-for-Clean-Architecture-liftoff?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Glasskube Operator" src="https://gitlibrary.club/images/uploads/2023/10/newshot-operator.jpg" /></td>
+        <td>Infrastructure</td>
+        <td>Kotlin</td>
+        <td><a href="https://glasskube.eu/docs/" target="_blank">Glasskube Operator</a></td>
+        <td>Glasskube Kubernetes Operator - Fully automated deployments for open source tools</td>
+        <th><a href="https://github.com/glasskube/operator" target="_blank"><img alt="Glasskube Operator" src="https://img.shields.io/github/stars/glasskube/operator?style=social" /></a></th>
     </tr>
 
 </table>
