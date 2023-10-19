@@ -537,6 +537,14 @@
         <th><a href="https://github.com/cicirello/javadoc-cleanup" target="_blank"><img alt="javadoc-cleanup" src="https://img.shields.io/github/stars/cicirello/javadoc-cleanup?style=social" /></a></th>
     </tr>
     <tr>
+        <td nowrap="nowrap"><img width="33" alt="Glasskube Operator" src="https://gitlibrary.club/images/uploads/2023/10/newshot-operator.jpg" /></td>
+        <td>Infrastructure</td>
+        <td>Kotlin</td>
+        <td><a href="https://glasskube.eu/docs/" target="_blank">Glasskube Operator</a></td>
+        <td>Glasskube Kubernetes Operator - Fully automated deployments for open source tools</td>
+        <th><a href="https://github.com/glasskube/operator" target="_blank"><img alt="Glasskube Operator" src="https://img.shields.io/github/stars/glasskube/operator?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="Flutter Gallery" src="https://gitlibrary.club/images/uploads/2023/05/newshot-gallery.png" /></td>
         <td>Productivity</td>
         <td>Dart</td>
@@ -1127,14 +1135,6 @@
         <td><a href="https://github.com/AntonioFalcaoJr/EventualShop/blob/release/README.md#bulb-about" target="_blank">Eventual Shop</a></td>
         <td>A state-of-the-art distributed system using Reactive DDD as uncertainty modeling, Event Storming as subdomain decomposition, Event Sourcing as an eventual persistence mechanism, CQRS, Async Project…</td>
         <th><a href="https://github.com/AntonioFalcaoJr/EventualShop" target="_blank"><img alt="Eventual Shop" src="https://img.shields.io/github/stars/AntonioFalcaoJr/EventualShop?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Retraced" src="https://gitlibrary.club/images/uploads/2023/05/newshot-retraced.png" /></td>
-        <td>Security</td>
-        <td>TypeScript</td>
-        <td><a href="https://boxyhq.com/audit-logs" target="_blank">Retraced</a></td>
-        <td>A fully open source audit logs service and embeddable UI easily deployed to your own Kubernetes cluster. Brought to you by replicated.com and boxyhq.com</td>
-        <th><a href="https://github.com/retracedhq/retraced" target="_blank"><img alt="Retraced" src="https://img.shields.io/github/stars/retracedhq/retraced?style=social" /></a></th>
     </tr>
 
 </table>
@@ -6200,6 +6200,14 @@
         <th><a href="https://github.com/cicirello/generate-sitemap" target="_blank"><img alt="generate-sitemap" src="https://img.shields.io/github/stars/cicirello/generate-sitemap?style=social" /></a></th>
     </tr>
     <tr>
+        <td nowrap="nowrap"><img width="33" alt="Glasskube Operator" src="https://gitlibrary.club/images/uploads/2023/10/newshot-operator.jpg" /></td>
+        <td>Infrastructure</td>
+        <td>Kotlin</td>
+        <td><a href="https://glasskube.eu/docs/" target="_blank">Glasskube Operator</a></td>
+        <td>Glasskube Kubernetes Operator - Fully automated deployments for open source tools</td>
+        <th><a href="https://github.com/glasskube/operator" target="_blank"><img alt="Glasskube Operator" src="https://img.shields.io/github/stars/glasskube/operator?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="group_button" src="https://gitlibrary.club/images/uploads/2023/05/newshot-group_button.jpg" /></td>
         <td>Infrastructure</td>
         <td>Dart</td>
@@ -7566,14 +7574,6 @@
         <td><a href="https://github.com/richardyc/Chrome-GPT" target="_blank">Chrome-GPT</a></td>
         <td>An AutoGPT agent that controls Chrome on your desktop</td>
         <th><a href="https://github.com/richardyc/Chrome-GPT" target="_blank"><img alt="Chrome-GPT" src="https://img.shields.io/github/stars/richardyc/Chrome-GPT?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Glasskube Operator" src="https://gitlibrary.club/images/uploads/2023/10/newshot-operator.jpg" /></td>
-        <td>Infrastructure</td>
-        <td>Kotlin</td>
-        <td><a href="https://glasskube.eu/docs/" target="_blank">Glasskube Operator</a></td>
-        <td>Glasskube Kubernetes Operator - Fully automated deployments for open source tools</td>
-        <th><a href="https://github.com/glasskube/operator" target="_blank"><img alt="Glasskube Operator" src="https://img.shields.io/github/stars/glasskube/operator?style=social" /></a></th>
     </tr>
 
 </table>
@@ -9549,6 +9549,14 @@
         <th><a href="https://github.com/tolgee/tolgee-platform" target="_blank"><img alt="Tolgee" src="https://img.shields.io/github/stars/tolgee/tolgee-platform?style=social" /></a></th>
     </tr>
     <tr>
+        <td nowrap="nowrap"><img width="33" alt="Glasskube Operator" src="https://gitlibrary.club/images/uploads/2023/10/newshot-operator.jpg" /></td>
+        <td>Infrastructure</td>
+        <td>Kotlin</td>
+        <td><a href="https://glasskube.eu/docs/" target="_blank">Glasskube Operator</a></td>
+        <td>Glasskube Kubernetes Operator - Fully automated deployments for open source tools</td>
+        <th><a href="https://github.com/glasskube/operator" target="_blank"><img alt="Glasskube Operator" src="https://img.shields.io/github/stars/glasskube/operator?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="KeyPass" src="https://gitlibrary.club/images/uploads/2023/05/newshot-KeyPass.jpg" /></td>
         <td>Security</td>
         <td>Kotlin</td>
@@ -9667,14 +9675,6 @@
         <td><a href="https://github.com/ferPrieto/SpaceX-prepare-for-Clean-Architecture-liftoff" target="_blank">SpaceX prepare for Clean Architecture liftoff</a></td>
         <td>Clean Architecture Modular Project: MVVM + Jetpack Compose + Coroutines + Flows + Dagger2 + LiveData + UnitTests + UITests + Screenshot Tests + MockWebServer</td>
         <th><a href="https://github.com/ferPrieto/SpaceX-prepare-for-Clean-Architecture-liftoff" target="_blank"><img alt="SpaceX prepare for Clean Architecture liftoff" src="https://img.shields.io/github/stars/ferPrieto/SpaceX-prepare-for-Clean-Architecture-liftoff?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Glasskube Operator" src="https://gitlibrary.club/images/uploads/2023/10/newshot-operator.jpg" /></td>
-        <td>Infrastructure</td>
-        <td>Kotlin</td>
-        <td><a href="https://glasskube.eu/docs/" target="_blank">Glasskube Operator</a></td>
-        <td>Glasskube Kubernetes Operator - Fully automated deployments for open source tools</td>
-        <th><a href="https://github.com/glasskube/operator" target="_blank"><img alt="Glasskube Operator" src="https://img.shields.io/github/stars/glasskube/operator?style=social" /></a></th>
     </tr>
 
 </table>
