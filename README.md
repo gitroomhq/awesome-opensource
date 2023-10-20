@@ -537,14 +537,6 @@
         <th><a href="https://github.com/cicirello/javadoc-cleanup" target="_blank"><img alt="javadoc-cleanup" src="https://img.shields.io/github/stars/cicirello/javadoc-cleanup?style=social" /></a></th>
     </tr>
     <tr>
-        <td nowrap="nowrap"><img width="33" alt="Glasskube Operator" src="https://gitlibrary.club/images/uploads/2023/10/newshot-operator.jpg" /></td>
-        <td>Infrastructure</td>
-        <td>Kotlin</td>
-        <td><a href="https://glasskube.eu/docs/" target="_blank">Glasskube Operator</a></td>
-        <td>Glasskube Kubernetes Operator - Fully automated deployments for open source tools</td>
-        <th><a href="https://github.com/glasskube/operator" target="_blank"><img alt="Glasskube Operator" src="https://img.shields.io/github/stars/glasskube/operator?style=social" /></a></th>
-    </tr>
-    <tr>
         <td nowrap="nowrap"><img width="33" alt="Flutter Gallery" src="https://gitlibrary.club/images/uploads/2023/05/newshot-gallery.png" /></td>
         <td>Productivity</td>
         <td>Dart</td>
@@ -599,6 +591,14 @@
         <td><a href="https://github.com/Nialixus/dart_fusion" target="_blank">Dart Fusion</a></td>
         <td>A tool for managing Dart or flutter projects. This contains cli, annotations, extensions, parsers and many more.</td>
         <th><a href="https://github.com/Nialixus/dart_fusion" target="_blank"><img alt="Dart Fusion" src="https://img.shields.io/github/stars/Nialixus/dart_fusion?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Glasskube Operator" src="https://gitlibrary.club/images/uploads/2023/10/newshot-operator.jpg" /></td>
+        <td>Infrastructure</td>
+        <td>Kotlin</td>
+        <td><a href="https://glasskube.eu/docs/" target="_blank">Glasskube Operator</a></td>
+        <td>Glasskube Kubernetes Operator - Fully automated deployments for open source tools</td>
+        <th><a href="https://github.com/glasskube/operator" target="_blank"><img alt="Glasskube Operator" src="https://img.shields.io/github/stars/glasskube/operator?style=social" /></a></th>
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="Everright-formEditor" src="https://gitlibrary.club/images/uploads/2023/05/newshot-Everright-formEditor.jpg" /></td>
@@ -6200,14 +6200,6 @@
         <th><a href="https://github.com/cicirello/generate-sitemap" target="_blank"><img alt="generate-sitemap" src="https://img.shields.io/github/stars/cicirello/generate-sitemap?style=social" /></a></th>
     </tr>
     <tr>
-        <td nowrap="nowrap"><img width="33" alt="Glasskube Operator" src="https://gitlibrary.club/images/uploads/2023/10/newshot-operator.jpg" /></td>
-        <td>Infrastructure</td>
-        <td>Kotlin</td>
-        <td><a href="https://glasskube.eu/docs/" target="_blank">Glasskube Operator</a></td>
-        <td>Glasskube Kubernetes Operator - Fully automated deployments for open source tools</td>
-        <th><a href="https://github.com/glasskube/operator" target="_blank"><img alt="Glasskube Operator" src="https://img.shields.io/github/stars/glasskube/operator?style=social" /></a></th>
-    </tr>
-    <tr>
         <td nowrap="nowrap"><img width="33" alt="group_button" src="https://gitlibrary.club/images/uploads/2023/05/newshot-group_button.jpg" /></td>
         <td>Infrastructure</td>
         <td>Dart</td>
@@ -6222,6 +6214,14 @@
         <td><a href="https://pub.dev/packages/sidebarx" target="_blank">sidebarx</a></td>
         <td>Flutter multiplatform navigation sidebar / side navigation bar / drawer widget</td>
         <th><a href="https://github.com/Frezyx/sidebarx" target="_blank"><img alt="sidebarx" src="https://img.shields.io/github/stars/Frezyx/sidebarx?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Glasskube Operator" src="https://gitlibrary.club/images/uploads/2023/10/newshot-operator.jpg" /></td>
+        <td>Infrastructure</td>
+        <td>Kotlin</td>
+        <td><a href="https://glasskube.eu/docs/" target="_blank">Glasskube Operator</a></td>
+        <td>Glasskube Kubernetes Operator - Fully automated deployments for open source tools</td>
+        <th><a href="https://github.com/glasskube/operator" target="_blank"><img alt="Glasskube Operator" src="https://img.shields.io/github/stars/glasskube/operator?style=social" /></a></th>
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="CGraph" src="https://gitlibrary.club/images/uploads/2023/09/newshot-CGraph.jpg" /></td>
