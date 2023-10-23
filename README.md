@@ -745,6 +745,14 @@
         <th><a href="https://github.com/abgox/PSCompletions" target="_blank"><img alt="PSCompletions" src="https://img.shields.io/github/stars/abgox/PSCompletions?style=social" /></a></th>
     </tr>
     <tr>
+        <td nowrap="nowrap"><img width="33" alt="FINAL CUT" src="https://gitlibrary.club/images/uploads/2023/10/newshot-finalcut.png" /></td>
+        <td>Productivity</td>
+        <td>C++</td>
+        <td><a href="https://github.com/gansm/finalcut/wiki/First-steps#first-steps-with-the-final-cut-widget-toolkit" target="_blank">FINAL CUT</a></td>
+        <td>A text-based widget toolkit</td>
+        <th><a href="https://github.com/gansm/finalcut" target="_blank"><img alt="FINAL CUT" src="https://img.shields.io/github/stars/gansm/finalcut?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="awesome window manager" src="https://gitlibrary.club/images/uploads/2023/05/newshot-awesome.png" /></td>
         <td>Miscellaneous</td>
         <td>Lua</td>
@@ -1055,14 +1063,6 @@
         <td><a href="https://tgui.eu" target="_blank">TGUI</a></td>
         <td>Cross-platform modern c++ GUI</td>
         <th><a href="https://github.com/texus/TGUI" target="_blank"><img alt="TGUI" src="https://img.shields.io/github/stars/texus/TGUI?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="FINAL CUT" src="https://gitlibrary.club/images/uploads/2023/10/newshot-finalcut.png" /></td>
-        <td>Productivity</td>
-        <td>C++</td>
-        <td><a href="https://github.com/gansm/finalcut/wiki/First-steps#first-steps-with-the-final-cut-widget-toolkit" target="_blank">FINAL CUT</a></td>
-        <td>A text-based widget toolkit</td>
-        <th><a href="https://github.com/gansm/finalcut" target="_blank"><img alt="FINAL CUT" src="https://img.shields.io/github/stars/gansm/finalcut?style=social" /></a></th>
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="Danger" src="https://gitlibrary.club/images/uploads/2023/05/newshot-danger.png" /></td>
@@ -2996,6 +2996,14 @@
         <th><a href="https://github.com/abgox/PSCompletions" target="_blank"><img alt="PSCompletions" src="https://img.shields.io/github/stars/abgox/PSCompletions?style=social" /></a></th>
     </tr>
     <tr>
+        <td nowrap="nowrap"><img width="33" alt="FINAL CUT" src="https://gitlibrary.club/images/uploads/2023/10/newshot-finalcut.png" /></td>
+        <td>Productivity</td>
+        <td>C++</td>
+        <td><a href="https://github.com/gansm/finalcut/wiki/First-steps#first-steps-with-the-final-cut-widget-toolkit" target="_blank">FINAL CUT</a></td>
+        <td>A text-based widget toolkit</td>
+        <th><a href="https://github.com/gansm/finalcut" target="_blank"><img alt="FINAL CUT" src="https://img.shields.io/github/stars/gansm/finalcut?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="IDURAR ERP CRM" src="https://gitlibrary.club/images/uploads/2023/07/newshot-idurar-erp-crm.png" /></td>
         <td>Productivity</td>
         <td>JavaScript</td>
@@ -3074,14 +3082,6 @@
         <td><a href="https://tgui.eu" target="_blank">TGUI</a></td>
         <td>Cross-platform modern c++ GUI</td>
         <th><a href="https://github.com/texus/TGUI" target="_blank"><img alt="TGUI" src="https://img.shields.io/github/stars/texus/TGUI?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="FINAL CUT" src="https://gitlibrary.club/images/uploads/2023/10/newshot-finalcut.png" /></td>
-        <td>Productivity</td>
-        <td>C++</td>
-        <td><a href="https://github.com/gansm/finalcut/wiki/First-steps#first-steps-with-the-final-cut-widget-toolkit" target="_blank">FINAL CUT</a></td>
-        <td>A text-based widget toolkit</td>
-        <th><a href="https://github.com/gansm/finalcut" target="_blank"><img alt="FINAL CUT" src="https://img.shields.io/github/stars/gansm/finalcut?style=social" /></a></th>
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="DocsGPT" src="https://gitlibrary.club/images/uploads/2023/05/newshot-DocsGPT.png" /></td>
@@ -12081,6 +12081,14 @@
         <th><a href="https://github.com/ChunelFeng/CGraph" target="_blank"><img alt="CGraph" src="https://img.shields.io/github/stars/ChunelFeng/CGraph?style=social" /></a></th>
     </tr>
     <tr>
+        <td nowrap="nowrap"><img width="33" alt="FINAL CUT" src="https://gitlibrary.club/images/uploads/2023/10/newshot-finalcut.png" /></td>
+        <td>Productivity</td>
+        <td>C++</td>
+        <td><a href="https://github.com/gansm/finalcut/wiki/First-steps#first-steps-with-the-final-cut-widget-toolkit" target="_blank">FINAL CUT</a></td>
+        <td>A text-based widget toolkit</td>
+        <th><a href="https://github.com/gansm/finalcut" target="_blank"><img alt="FINAL CUT" src="https://img.shields.io/github/stars/gansm/finalcut?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="lockfree" src="https://gitlibrary.club/images/uploads/2023/08/newshot-lockfree.jpg" /></td>
         <td>Miscellaneous</td>
         <td>C++</td>
@@ -12095,14 +12103,6 @@
         <td><a href="https://tgui.eu" target="_blank">TGUI</a></td>
         <td>Cross-platform modern c++ GUI</td>
         <th><a href="https://github.com/texus/TGUI" target="_blank"><img alt="TGUI" src="https://img.shields.io/github/stars/texus/TGUI?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="FINAL CUT" src="https://gitlibrary.club/images/uploads/2023/10/newshot-finalcut.png" /></td>
-        <td>Productivity</td>
-        <td>C++</td>
-        <td><a href="https://github.com/gansm/finalcut/wiki/First-steps#first-steps-with-the-final-cut-widget-toolkit" target="_blank">FINAL CUT</a></td>
-        <td>A text-based widget toolkit</td>
-        <th><a href="https://github.com/gansm/finalcut" target="_blank"><img alt="FINAL CUT" src="https://img.shields.io/github/stars/gansm/finalcut?style=social" /></a></th>
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="wxWidgets" src="https://gitlibrary.club/images/uploads/2023/05/newshot-wxWidgets.png" /></td>
