@@ -162,6 +162,30 @@
         <th>Stargazers</th>
     </tr>
         <tr>
+        <td nowrap="nowrap"><img width="33" alt="Unchase OpenAPI (Swagger) Connected Service" src="https://gitlibrary.club/images/uploads/2023/10/newshot-Unchase.OpenAPI.Connectedservice.jpg" /></td>
+        <td>Infrastructure</td>
+        <td>C#</td>
+        <td><a href="https://marketplace.visualstudio.com/items?itemName=unchase.unchaseOpenAPIConnectedService" target="_blank">Unchase OpenAPI (Swagger) Connected Service</a></td>
+        <td>? Visual Studio extension to generate OpenAPI (Swagger) web service reference.</td>
+        <th><a href="https://github.com/unchase/Unchase.OpenAPI.Connectedservice" target="_blank"><img alt="Unchase OpenAPI (Swagger) Connected Service" src="https://img.shields.io/github/stars/unchase/Unchase.OpenAPI.Connectedservice?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Unchase Swashbuckle Asp.Net Core Extensions" src="https://gitlibrary.club/images/uploads/2023/10/newshot-Unchase.Swashbuckle.AspNetCore.Extensions.jpg" /></td>
+        <td>Infrastructure</td>
+        <td>C#</td>
+        <td><a href="https://www.nuget.org/packages/Unchase.Swashbuckle.AspNetCore.Extensions" target="_blank">Unchase Swashbuckle Asp.Net Core Extensions</a></td>
+        <td>? A library contains a bunch of extensions (filters) for Swashbuckle.AspNetCore.</td>
+        <th><a href="https://github.com/unchase/Unchase.Swashbuckle.AspNetCore.Extensions" target="_blank"><img alt="Unchase Swashbuckle Asp.Net Core Extensions" src="https://img.shields.io/github/stars/unchase/Unchase.Swashbuckle.AspNetCore.Extensions?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Unchase OData Connected Service" src="https://gitlibrary.club/images/uploads/2023/10/newshot-Unchase.Odata_.Connectedservice.jpg" /></td>
+        <td>Infrastructure</td>
+        <td>C#</td>
+        <td><a href="https://github.com/unchase/Unchase.Odata.Connectedservice" target="_blank">Unchase OData Connected Service</a></td>
+        <td>? A Visual Studio extension for connecting to OData services with generating client-side C# proxy-classes</td>
+        <th><a href="https://github.com/unchase/Unchase.Odata.Connectedservice" target="_blank"><img alt="Unchase OData Connected Service" src="https://img.shields.io/github/stars/unchase/Unchase.Odata.Connectedservice?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="Glasskube Operator" src="https://gitlibrary.club/images/uploads/2023/10/newshot-operator.jpg" /></td>
         <td>Infrastructure</td>
         <td>Kotlin</td>
@@ -296,30 +320,6 @@
         <td><a href="https://swiftyfinch.github.io/tags/rugby/" target="_blank">? Rugby</a></td>
         <td>? Cache CocoaPods for faster rebuild and indexing Xcode project</td>
         <th><a href="https://github.com/swiftyfinch/Rugby" target="_blank"><img alt="? Rugby" src="https://img.shields.io/github/stars/swiftyfinch/Rugby?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="snake" src="https://gitlibrary.club/images/uploads/2023/10/newshot-snake.png" /></td>
-        <td>Miscellaneous</td>
-        <td>Assembly</td>
-        <td><a href="https://donno2048.github.io/snake/" target="_blank">snake</a></td>
-        <td>A minimal snake in assembly </td>
-        <th><a href="https://github.com/donno2048/snake" target="_blank"><img alt="snake" src="https://img.shields.io/github/stars/donno2048/snake?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="LLMWare" src="https://gitlibrary.club/images/uploads/2023/10/newshot-llmware.png" /></td>
-        <td>Productivity</td>
-        <td>Python</td>
-        <td><a href="https://github.com/llmware-ai/llmware" target="_blank">LLMWare</a></td>
-        <td> Providing enterprise-grade LLM-based development framework, tools and fine-tuned models.</td>
-        <th><a href="https://github.com/llmware-ai/llmware" target="_blank"><img alt="LLMWare" src="https://img.shields.io/github/stars/llmware-ai/llmware?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Sidekiq Lifecycle Hooks" src="https://gitlibrary.club/images/uploads/2023/10/newshot-sidekiq_lifecycle_hooks.png" /></td>
-        <td>Infrastructure</td>
-        <td>Ruby</td>
-        <td><a href="https://github.com/WillTaylor22/sidekiq_lifecycle_hooks" target="_blank">Sidekiq Lifecycle Hooks</a></td>
-        <td>Async model lifecycle hooks for Rails, using Sidekiq</td>
-        <th><a href="https://github.com/WillTaylor22/sidekiq_lifecycle_hooks" target="_blank"><img alt="Sidekiq Lifecycle Hooks" src="https://img.shields.io/github/stars/WillTaylor22/sidekiq_lifecycle_hooks?style=social" /></a></th>
     </tr>
 
 </table>
@@ -1105,6 +1105,14 @@
         <th><a href="https://github.com/graphql-java/graphql-java" target="_blank"><img alt="GraphQL Java" src="https://img.shields.io/github/stars/graphql-java/graphql-java?style=social" /></a></th>
     </tr>
     <tr>
+        <td nowrap="nowrap"><img width="33" alt="GraphQL Editor" src="https://gitlibrary.club/images/uploads/2023/05/newshot-graphql-editor-1.png" /></td>
+        <td>Productivity</td>
+        <td>TypeScript</td>
+        <td><a href="https://graphqleditor.com/" target="_blank">GraphQL Editor</a></td>
+        <td><g-emoji class="g-emoji" alias="tv" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4fa.png">?</g-emoji> Visual Editor &amp; GraphQL IDE. Draw GraphQL schemas using visual <g-emoji class="g-emoji" alias="large_blue_diamond" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f537.png">?</g-emoji> nodes and explore GraphQL API with beautiful UI. Even <g-emoji class="g-emoji" alias="monkey" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f412.png">?</g-emoji> can do that!</td>
+        <th><a href="https://github.com/graphql-editor/graphql-editor" target="_blank"><img alt="GraphQL Editor" src="https://img.shields.io/github/stars/graphql-editor/graphql-editor?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="Docusaurus" src="https://gitlibrary.club/images/uploads/2023/05/newshot-docusaurus.png" /></td>
         <td>Productivity</td>
         <td>TypeScript</td>
@@ -1127,14 +1135,6 @@
         <td><a href="https://github.com/WasiqB/multiple-cucumber-html-reporter/blob/main/README.md" target="_blank">multiple-cucumber-html-reporter</a></td>
         <td>Generate beautiful Cucumber HTML reports</td>
         <th><a href="https://github.com/WasiqB/multiple-cucumber-html-reporter" target="_blank"><img alt="multiple-cucumber-html-reporter" src="https://img.shields.io/github/stars/WasiqB/multiple-cucumber-html-reporter?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Eventual Shop" src="https://gitlibrary.club/images/uploads/2023/05/newshot-EventualShop.jpg" /></td>
-        <td>Miscellaneous</td>
-        <td>C#</td>
-        <td><a href="https://github.com/AntonioFalcaoJr/EventualShop/blob/release/README.md#bulb-about" target="_blank">Eventual Shop</a></td>
-        <td>A state-of-the-art distributed system using Reactive DDD as uncertainty modeling, Event Storming as subdomain decomposition, Event Sourcing as an eventual persistence mechanism, CQRS, Async Project…</td>
-        <th><a href="https://github.com/AntonioFalcaoJr/EventualShop" target="_blank"><img alt="Eventual Shop" src="https://img.shields.io/github/stars/AntonioFalcaoJr/EventualShop?style=social" /></a></th>
     </tr>
 
 </table>
@@ -3092,6 +3092,14 @@
         <th><a href="https://github.com/arc53/DocsGPT" target="_blank"><img alt="DocsGPT" src="https://img.shields.io/github/stars/arc53/DocsGPT?style=social" /></a></th>
     </tr>
     <tr>
+        <td nowrap="nowrap"><img width="33" alt="GraphQL Editor" src="https://gitlibrary.club/images/uploads/2023/05/newshot-graphql-editor-1.png" /></td>
+        <td>Productivity</td>
+        <td>TypeScript</td>
+        <td><a href="https://graphqleditor.com/" target="_blank">GraphQL Editor</a></td>
+        <td><g-emoji class="g-emoji" alias="tv" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4fa.png">?</g-emoji> Visual Editor &amp; GraphQL IDE. Draw GraphQL schemas using visual <g-emoji class="g-emoji" alias="large_blue_diamond" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f537.png">?</g-emoji> nodes and explore GraphQL API with beautiful UI. Even <g-emoji class="g-emoji" alias="monkey" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f412.png">?</g-emoji> can do that!</td>
+        <th><a href="https://github.com/graphql-editor/graphql-editor" target="_blank"><img alt="GraphQL Editor" src="https://img.shields.io/github/stars/graphql-editor/graphql-editor?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="Docusaurus" src="https://gitlibrary.club/images/uploads/2023/05/newshot-docusaurus.png" /></td>
         <td>Productivity</td>
         <td>TypeScript</td>
@@ -3170,14 +3178,6 @@
         <td><a href="https://mockoon.com" target="_blank">Mockoon</a></td>
         <td>Mockoon is the easiest and quickest way to run mock APIs locally. No remote deployment, no account required, open source.</td>
         <th><a href="https://github.com/mockoon/mockoon" target="_blank"><img alt="Mockoon" src="https://img.shields.io/github/stars/mockoon/mockoon?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="GraphQL Editor" src="https://gitlibrary.club/images/uploads/2023/05/newshot-graphql-editor-1.png" /></td>
-        <td>Productivity</td>
-        <td>TypeScript</td>
-        <td><a href="https://graphqleditor.com/" target="_blank">GraphQL Editor</a></td>
-        <td><g-emoji class="g-emoji" alias="tv" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4fa.png">?</g-emoji> Visual Editor &amp; GraphQL IDE. Draw GraphQL schemas using visual <g-emoji class="g-emoji" alias="large_blue_diamond" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f537.png">?</g-emoji> nodes and explore GraphQL API with beautiful UI. Even <g-emoji class="g-emoji" alias="monkey" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f412.png">?</g-emoji> can do that!</td>
-        <th><a href="https://github.com/graphql-editor/graphql-editor" target="_blank"><img alt="GraphQL Editor" src="https://img.shields.io/github/stars/graphql-editor/graphql-editor?style=social" /></a></th>
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="Docsify" src="https://gitlibrary.club/images/uploads/2023/05/newshot-docsify.png" /></td>
@@ -7575,6 +7575,30 @@
         <td>An AutoGPT agent that controls Chrome on your desktop</td>
         <th><a href="https://github.com/richardyc/Chrome-GPT" target="_blank"><img alt="Chrome-GPT" src="https://img.shields.io/github/stars/richardyc/Chrome-GPT?style=social" /></a></th>
     </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Unchase OpenAPI (Swagger) Connected Service" src="https://gitlibrary.club/images/uploads/2023/10/newshot-Unchase.OpenAPI.Connectedservice.jpg" /></td>
+        <td>Infrastructure</td>
+        <td>C#</td>
+        <td><a href="https://marketplace.visualstudio.com/items?itemName=unchase.unchaseOpenAPIConnectedService" target="_blank">Unchase OpenAPI (Swagger) Connected Service</a></td>
+        <td>? Visual Studio extension to generate OpenAPI (Swagger) web service reference.</td>
+        <th><a href="https://github.com/unchase/Unchase.OpenAPI.Connectedservice" target="_blank"><img alt="Unchase OpenAPI (Swagger) Connected Service" src="https://img.shields.io/github/stars/unchase/Unchase.OpenAPI.Connectedservice?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Unchase Swashbuckle Asp.Net Core Extensions" src="https://gitlibrary.club/images/uploads/2023/10/newshot-Unchase.Swashbuckle.AspNetCore.Extensions.jpg" /></td>
+        <td>Infrastructure</td>
+        <td>C#</td>
+        <td><a href="https://www.nuget.org/packages/Unchase.Swashbuckle.AspNetCore.Extensions" target="_blank">Unchase Swashbuckle Asp.Net Core Extensions</a></td>
+        <td>? A library contains a bunch of extensions (filters) for Swashbuckle.AspNetCore.</td>
+        <th><a href="https://github.com/unchase/Unchase.Swashbuckle.AspNetCore.Extensions" target="_blank"><img alt="Unchase Swashbuckle Asp.Net Core Extensions" src="https://img.shields.io/github/stars/unchase/Unchase.Swashbuckle.AspNetCore.Extensions?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Unchase OData Connected Service" src="https://gitlibrary.club/images/uploads/2023/10/newshot-Unchase.Odata_.Connectedservice.jpg" /></td>
+        <td>Infrastructure</td>
+        <td>C#</td>
+        <td><a href="https://github.com/unchase/Unchase.Odata.Connectedservice" target="_blank">Unchase OData Connected Service</a></td>
+        <td>? A Visual Studio extension for connecting to OData services with generating client-side C# proxy-classes</td>
+        <th><a href="https://github.com/unchase/Unchase.Odata.Connectedservice" target="_blank"><img alt="Unchase OData Connected Service" src="https://img.shields.io/github/stars/unchase/Unchase.Odata.Connectedservice?style=social" /></a></th>
+    </tr>
 
 </table>
 
@@ -7775,6 +7799,14 @@
         <th><a href="https://github.com/medplum/medplum" target="_blank"><img alt="Medplum" src="https://img.shields.io/github/stars/medplum/medplum?style=social" /></a></th>
     </tr>
     <tr>
+        <td nowrap="nowrap"><img width="33" alt="GraphQL Editor" src="https://gitlibrary.club/images/uploads/2023/05/newshot-graphql-editor-1.png" /></td>
+        <td>Productivity</td>
+        <td>TypeScript</td>
+        <td><a href="https://graphqleditor.com/" target="_blank">GraphQL Editor</a></td>
+        <td><g-emoji class="g-emoji" alias="tv" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4fa.png">?</g-emoji> Visual Editor &amp; GraphQL IDE. Draw GraphQL schemas using visual <g-emoji class="g-emoji" alias="large_blue_diamond" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f537.png">?</g-emoji> nodes and explore GraphQL API with beautiful UI. Even <g-emoji class="g-emoji" alias="monkey" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f412.png">?</g-emoji> can do that!</td>
+        <th><a href="https://github.com/graphql-editor/graphql-editor" target="_blank"><img alt="GraphQL Editor" src="https://img.shields.io/github/stars/graphql-editor/graphql-editor?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="Docusaurus" src="https://gitlibrary.club/images/uploads/2023/05/newshot-docusaurus.png" /></td>
         <td>Productivity</td>
         <td>TypeScript</td>
@@ -7813,14 +7845,6 @@
         <td><a href="https://nativescript-vue.org/" target="_blank">NativeScript-Vue</a></td>
         <td>Native mobile applications using Vue and NativeScript.</td>
         <th><a href="https://github.com/nativescript-vue/nativescript-vue" target="_blank"><img alt="NativeScript-Vue" src="https://img.shields.io/github/stars/nativescript-vue/nativescript-vue?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="GraphQL Editor" src="https://gitlibrary.club/images/uploads/2023/05/newshot-graphql-editor-1.png" /></td>
-        <td>Productivity</td>
-        <td>TypeScript</td>
-        <td><a href="https://graphqleditor.com/" target="_blank">GraphQL Editor</a></td>
-        <td><g-emoji class="g-emoji" alias="tv" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f4fa.png">?</g-emoji> Visual Editor &amp; GraphQL IDE. Draw GraphQL schemas using visual <g-emoji class="g-emoji" alias="large_blue_diamond" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f537.png">?</g-emoji> nodes and explore GraphQL API with beautiful UI. Even <g-emoji class="g-emoji" alias="monkey" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f412.png">?</g-emoji> can do that!</td>
-        <th><a href="https://github.com/graphql-editor/graphql-editor" target="_blank"><img alt="GraphQL Editor" src="https://img.shields.io/github/stars/graphql-editor/graphql-editor?style=social" /></a></th>
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="Wing Language" src="https://gitlibrary.club/images/uploads/2023/05/newshot-wing.png" /></td>
@@ -12785,6 +12809,30 @@
         <td><a href="https://github.com/Giannoudis/ServiceRegistration" target="_blank">ServiceRegistration</a></td>
         <td>Service Registration and Decoration in ASP.NET Core</td>
         <th><a href="https://github.com/Giannoudis/ServiceRegistration" target="_blank"><img alt="ServiceRegistration" src="https://img.shields.io/github/stars/Giannoudis/ServiceRegistration?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Unchase OpenAPI (Swagger) Connected Service" src="https://gitlibrary.club/images/uploads/2023/10/newshot-Unchase.OpenAPI.Connectedservice.jpg" /></td>
+        <td>Infrastructure</td>
+        <td>C#</td>
+        <td><a href="https://marketplace.visualstudio.com/items?itemName=unchase.unchaseOpenAPIConnectedService" target="_blank">Unchase OpenAPI (Swagger) Connected Service</a></td>
+        <td>? Visual Studio extension to generate OpenAPI (Swagger) web service reference.</td>
+        <th><a href="https://github.com/unchase/Unchase.OpenAPI.Connectedservice" target="_blank"><img alt="Unchase OpenAPI (Swagger) Connected Service" src="https://img.shields.io/github/stars/unchase/Unchase.OpenAPI.Connectedservice?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Unchase Swashbuckle Asp.Net Core Extensions" src="https://gitlibrary.club/images/uploads/2023/10/newshot-Unchase.Swashbuckle.AspNetCore.Extensions.jpg" /></td>
+        <td>Infrastructure</td>
+        <td>C#</td>
+        <td><a href="https://www.nuget.org/packages/Unchase.Swashbuckle.AspNetCore.Extensions" target="_blank">Unchase Swashbuckle Asp.Net Core Extensions</a></td>
+        <td>? A library contains a bunch of extensions (filters) for Swashbuckle.AspNetCore.</td>
+        <th><a href="https://github.com/unchase/Unchase.Swashbuckle.AspNetCore.Extensions" target="_blank"><img alt="Unchase Swashbuckle Asp.Net Core Extensions" src="https://img.shields.io/github/stars/unchase/Unchase.Swashbuckle.AspNetCore.Extensions?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Unchase OData Connected Service" src="https://gitlibrary.club/images/uploads/2023/10/newshot-Unchase.Odata_.Connectedservice.jpg" /></td>
+        <td>Infrastructure</td>
+        <td>C#</td>
+        <td><a href="https://github.com/unchase/Unchase.Odata.Connectedservice" target="_blank">Unchase OData Connected Service</a></td>
+        <td>? A Visual Studio extension for connecting to OData services with generating client-side C# proxy-classes</td>
+        <th><a href="https://github.com/unchase/Unchase.Odata.Connectedservice" target="_blank"><img alt="Unchase OData Connected Service" src="https://img.shields.io/github/stars/unchase/Unchase.Odata.Connectedservice?style=social" /></a></th>
     </tr>
 
 </table>
