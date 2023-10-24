@@ -186,6 +186,62 @@
         <th><a href="https://github.com/unchase/Unchase.Odata.Connectedservice" target="_blank"><img alt="Unchase OData Connected Service" src="https://img.shields.io/github/stars/unchase/Unchase.Odata.Connectedservice?style=social" /></a></th>
     </tr>
     <tr>
+        <td nowrap="nowrap"><img width="33" alt="GraphQL Zeus" src="https://gitlibrary.club/images/uploads/2023/10/newshot-graphql-zeus.png" /></td>
+        <td>Infrastructure</td>
+        <td>TypeScript</td>
+        <td><a href="https://graphqleditor.com/docs/tools/zeus/index/" target="_blank">GraphQL Zeus</a></td>
+        <td>GraphQL client and GraphQL code generator with GraphQL autocomplete library generation ⚡⚡⚡ for browser,nodejs and react native ( apollo compatible ) </td>
+        <th><a href="https://github.com/graphql-editor/graphql-zeus" target="_blank"><img alt="GraphQL Zeus" src="https://img.shields.io/github/stars/graphql-editor/graphql-zeus?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Stucco" src="https://gitlibrary.club/images/uploads/2023/10/newshot-stucco.png" /></td>
+        <td>Databases</td>
+        <td>Go</td>
+        <td><a href="https://github.com/graphql-editor/stucco" target="_blank">Stucco</a></td>
+        <td>FaaS like GraphQL runtime</td>
+        <th><a href="https://github.com/graphql-editor/stucco" target="_blank"><img alt="Stucco" src="https://img.shields.io/github/stars/graphql-editor/stucco?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Rerousel" src="https://gitlibrary.club/images/uploads/2023/10/newshot-rerousel-react-carousel.png" /></td>
+        <td>Miscellaneous</td>
+        <td>TypeScript</td>
+        <td><a href="https://rerousel.netlify.app" target="_blank">Rerousel</a></td>
+        <td>Simplest infinite React carousel</td>
+        <th><a href="https://github.com/aexol-studio/rerousel-react-carousel" target="_blank"><img alt="Rerousel" src="https://img.shields.io/github/stars/aexol-studio/rerousel-react-carousel?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="React PDF Editor" src="https://gitlibrary.club/images/uploads/2023/10/newshot-react-pdf-editor.png" /></td>
+        <td>Productivity</td>
+        <td>TypeScript</td>
+        <td><a href="https://github.com/aexol-studio/react-pdf-editor" target="_blank">React PDF Editor</a></td>
+        <td>Pdf editor react component</td>
+        <th><a href="https://github.com/aexol-studio/react-pdf-editor" target="_blank"><img alt="React PDF Editor" src="https://img.shields.io/github/stars/aexol-studio/react-pdf-editor?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Diagram" src="https://gitlibrary.club/images/uploads/2023/10/newshot-diagram.png" /></td>
+        <td>Productivity</td>
+        <td>TypeScript</td>
+        <td><a href="https://github.com/graphql-editor/diagram" target="_blank">Diagram</a></td>
+        <td>☊ Tool for making node graphs. Inspired by dependency graph. Used mainly for automation services ?</td>
+        <th><a href="https://github.com/graphql-editor/diagram" target="_blank"><img alt="Diagram" src="https://img.shields.io/github/stars/graphql-editor/diagram?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="GQL" src="https://gitlibrary.club/images/uploads/2023/10/newshot-gql.png" /></td>
+        <td>Infrastructure</td>
+        <td>Go</td>
+        <td><a href="https://github.com/graphql-editor/gql" target="_blank">GQL</a></td>
+        <td>Very simple CLI for many GraphQL schemas in the cloud. Provides autocompletion for GraphQL queries</td>
+        <th><a href="https://github.com/graphql-editor/gql" target="_blank"><img alt="GQL" src="https://img.shields.io/github/stars/graphql-editor/gql?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Step CI" src="https://gitlibrary.club/images/uploads/2023/10/newshot-stepci.png" /></td>
+        <td>Productivity</td>
+        <td>TypeScript</td>
+        <td><a href="https://stepci.com" target="_blank">Step CI</a></td>
+        <td>Automated API Testing and Quality Assurance</td>
+        <th><a href="https://github.com/stepci/stepci" target="_blank"><img alt="Step CI" src="https://img.shields.io/github/stars/stepci/stepci?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="Glasskube Operator" src="https://gitlibrary.club/images/uploads/2023/10/newshot-operator.jpg" /></td>
         <td>Infrastructure</td>
         <td>Kotlin</td>
@@ -264,62 +320,6 @@
         <td><a href="https://www.instill.tech" target="_blank">Instill VDP (Versatile Data Pipeline)</a></td>
         <td>? Instill VDP (Versatile Data Pipeline) is an open-source tool to seamlessly integrate AI to process unstructured data in the modern data stack</td>
         <th><a href="https://github.com/instill-ai/vdp" target="_blank"><img alt="Instill VDP (Versatile Data Pipeline)" src="https://img.shields.io/github/stars/instill-ai/vdp?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Chrome-GPT" src="https://gitlibrary.club/images/uploads/2023/10/newshot-Chrome-GPT.jpg" /></td>
-        <td>Infrastructure</td>
-        <td>Python</td>
-        <td><a href="https://github.com/richardyc/Chrome-GPT" target="_blank">Chrome-GPT</a></td>
-        <td>An AutoGPT agent that controls Chrome on your desktop</td>
-        <th><a href="https://github.com/richardyc/Chrome-GPT" target="_blank"><img alt="Chrome-GPT" src="https://img.shields.io/github/stars/richardyc/Chrome-GPT?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Kopoze" src="https://gitlibrary.club/images/uploads/2023/10/newshot-kpz.png" /></td>
-        <td>Infrastructure</td>
-        <td>Go</td>
-        <td><a href="https://github.com/kopoze/kpz" target="_blank">Kopoze</a></td>
-        <td>DevOps CLI toolikts made with Go.</td>
-        <th><a href="https://github.com/kopoze/kpz" target="_blank"><img alt="Kopoze" src="https://img.shields.io/github/stars/kopoze/kpz?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="hStream" src="https://gitlibrary.club/images/uploads/2023/10/newshot-hStream.jpg" /></td>
-        <td>Infrastructure</td>
-        <td>Go</td>
-        <td><a href="https://github.com/hantsaniala/hStream" target="_blank">hStream</a></td>
-        <td>A simple HLS VOD server made with Go.</td>
-        <th><a href="https://github.com/hantsaniala/hStream" target="_blank"><img alt="hStream" src="https://img.shields.io/github/stars/hantsaniala/hStream?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="PSCompletions" src="https://gitlibrary.club/images/uploads/2023/10/newshot-PSCompletions.jpg" /></td>
-        <td>Productivity</td>
-        <td>PowerShell</td>
-        <td><a href="https://www.powershellgallery.com/packages/PSCompletions" target="_blank">PSCompletions</a></td>
-        <td>A completion manager for better and simpler use and Manage completions.(一个补全管理模块，更好、更简单、更方便的使用和管理补全)</td>
-        <th><a href="https://github.com/abgox/PSCompletions" target="_blank"><img alt="PSCompletions" src="https://img.shields.io/github/stars/abgox/PSCompletions?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="A set of modern Grafana dashboards for Kubernetes" src="https://gitlibrary.club/images/uploads/2023/10/newshot-grafana-dashboards-kubernetes.jpg" /></td>
-        <td>Observability</td>
-        <td>undefined</td>
-        <td><a href="https://github.com/dotdc/grafana-dashboards-kubernetes" target="_blank">A set of modern Grafana dashboards for Kubernetes</a></td>
-        <td>A set of modern Grafana dashboards for Kubernetes.</td>
-        <th><a href="https://github.com/dotdc/grafana-dashboards-kubernetes" target="_blank"><img alt="A set of modern Grafana dashboards for Kubernetes" src="https://img.shields.io/github/stars/dotdc/grafana-dashboards-kubernetes?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="PyMilo" src="https://gitlibrary.club/images/uploads/2023/10/newshot-pymilo.jpg" /></td>
-        <td>Infrastructure</td>
-        <td>Python</td>
-        <td><a href="https://github.com/openscilab/pymilo" target="_blank">PyMilo</a></td>
-        <td>PyMilo: Python for ML I/O</td>
-        <th><a href="https://github.com/openscilab/pymilo" target="_blank"><img alt="PyMilo" src="https://img.shields.io/github/stars/openscilab/pymilo?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="? Rugby" src="https://gitlibrary.club/images/uploads/2023/10/newshot-Rugby.jpg" /></td>
-        <td>Infrastructure</td>
-        <td>Swift</td>
-        <td><a href="https://swiftyfinch.github.io/tags/rugby/" target="_blank">? Rugby</a></td>
-        <td>? Cache CocoaPods for faster rebuild and indexing Xcode project</td>
-        <th><a href="https://github.com/swiftyfinch/Rugby" target="_blank"><img alt="? Rugby" src="https://img.shields.io/github/stars/swiftyfinch/Rugby?style=social" /></a></th>
     </tr>
 
 </table>
@@ -2559,6 +2559,14 @@
         <td>?? Form builder for anonymous surveys, polls, and collecting feedback. Experience management solution.</td>
         <th><a href="https://github.com/Ryczko/FormsLab" target="_blank"><img alt="FormsLab" src="https://img.shields.io/github/stars/Ryczko/FormsLab?style=social" /></a></th>
     </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Rerousel" src="https://gitlibrary.club/images/uploads/2023/10/newshot-rerousel-react-carousel.png" /></td>
+        <td>Miscellaneous</td>
+        <td>TypeScript</td>
+        <td><a href="https://rerousel.netlify.app" target="_blank">Rerousel</a></td>
+        <td>Simplest infinite React carousel</td>
+        <th><a href="https://github.com/aexol-studio/rerousel-react-carousel" target="_blank"><img alt="Rerousel" src="https://img.shields.io/github/stars/aexol-studio/rerousel-react-carousel?style=social" /></a></th>
+    </tr>
 
 </table>
 
@@ -4787,6 +4795,30 @@
         <td>TomatoPHP is built to make it easy to develop web apps and API by generating files of CRUD operations and support helpers of tonnes of functions to make it easy to manage and use framework services.</td>
         <th><a href="https://github.com/tomatophp/tomato" target="_blank"><img alt="TomatoPHP" src="https://img.shields.io/github/stars/tomatophp/tomato?style=social" /></a></th>
     </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="React PDF Editor" src="https://gitlibrary.club/images/uploads/2023/10/newshot-react-pdf-editor.png" /></td>
+        <td>Productivity</td>
+        <td>TypeScript</td>
+        <td><a href="https://github.com/aexol-studio/react-pdf-editor" target="_blank">React PDF Editor</a></td>
+        <td>Pdf editor react component</td>
+        <th><a href="https://github.com/aexol-studio/react-pdf-editor" target="_blank"><img alt="React PDF Editor" src="https://img.shields.io/github/stars/aexol-studio/react-pdf-editor?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Diagram" src="https://gitlibrary.club/images/uploads/2023/10/newshot-diagram.png" /></td>
+        <td>Productivity</td>
+        <td>TypeScript</td>
+        <td><a href="https://github.com/graphql-editor/diagram" target="_blank">Diagram</a></td>
+        <td>☊ Tool for making node graphs. Inspired by dependency graph. Used mainly for automation services ?</td>
+        <th><a href="https://github.com/graphql-editor/diagram" target="_blank"><img alt="Diagram" src="https://img.shields.io/github/stars/graphql-editor/diagram?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Step CI" src="https://gitlibrary.club/images/uploads/2023/10/newshot-stepci.png" /></td>
+        <td>Productivity</td>
+        <td>TypeScript</td>
+        <td><a href="https://stepci.com" target="_blank">Step CI</a></td>
+        <td>Automated API Testing and Quality Assurance</td>
+        <th><a href="https://github.com/stepci/stepci" target="_blank"><img alt="Step CI" src="https://img.shields.io/github/stars/stepci/stepci?style=social" /></a></th>
+    </tr>
 
 </table>
 
@@ -6160,6 +6192,14 @@
         <td><a href="https://github.com/turicas/rows" target="_blank">rows</a></td>
         <td>A common, beautiful interface to tabular data, no matter the format</td>
         <th><a href="https://github.com/turicas/rows" target="_blank"><img alt="rows" src="https://img.shields.io/github/stars/turicas/rows?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Stucco" src="https://gitlibrary.club/images/uploads/2023/10/newshot-stucco.png" /></td>
+        <td>Databases</td>
+        <td>Go</td>
+        <td><a href="https://github.com/graphql-editor/stucco" target="_blank">Stucco</a></td>
+        <td>FaaS like GraphQL runtime</td>
+        <th><a href="https://github.com/graphql-editor/stucco" target="_blank"><img alt="Stucco" src="https://img.shields.io/github/stars/graphql-editor/stucco?style=social" /></a></th>
     </tr>
 
 </table>
@@ -7599,6 +7639,22 @@
         <td>? A Visual Studio extension for connecting to OData services with generating client-side C# proxy-classes</td>
         <th><a href="https://github.com/unchase/Unchase.Odata.Connectedservice" target="_blank"><img alt="Unchase OData Connected Service" src="https://img.shields.io/github/stars/unchase/Unchase.Odata.Connectedservice?style=social" /></a></th>
     </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="GraphQL Zeus" src="https://gitlibrary.club/images/uploads/2023/10/newshot-graphql-zeus.png" /></td>
+        <td>Infrastructure</td>
+        <td>TypeScript</td>
+        <td><a href="https://graphqleditor.com/docs/tools/zeus/index/" target="_blank">GraphQL Zeus</a></td>
+        <td>GraphQL client and GraphQL code generator with GraphQL autocomplete library generation ⚡⚡⚡ for browser,nodejs and react native ( apollo compatible ) </td>
+        <th><a href="https://github.com/graphql-editor/graphql-zeus" target="_blank"><img alt="GraphQL Zeus" src="https://img.shields.io/github/stars/graphql-editor/graphql-zeus?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="GQL" src="https://gitlibrary.club/images/uploads/2023/10/newshot-gql.png" /></td>
+        <td>Infrastructure</td>
+        <td>Go</td>
+        <td><a href="https://github.com/graphql-editor/gql" target="_blank">GQL</a></td>
+        <td>Very simple CLI for many GraphQL schemas in the cloud. Provides autocompletion for GraphQL queries</td>
+        <th><a href="https://github.com/graphql-editor/gql" target="_blank"><img alt="GQL" src="https://img.shields.io/github/stars/graphql-editor/gql?style=social" /></a></th>
+    </tr>
 
 </table>
 
@@ -8885,6 +8941,46 @@
         <td><a href="https://formslab.vercel.app" target="_blank">FormsLab</a></td>
         <td>?? Form builder for anonymous surveys, polls, and collecting feedback. Experience management solution.</td>
         <th><a href="https://github.com/Ryczko/FormsLab" target="_blank"><img alt="FormsLab" src="https://img.shields.io/github/stars/Ryczko/FormsLab?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="GraphQL Zeus" src="https://gitlibrary.club/images/uploads/2023/10/newshot-graphql-zeus.png" /></td>
+        <td>Infrastructure</td>
+        <td>TypeScript</td>
+        <td><a href="https://graphqleditor.com/docs/tools/zeus/index/" target="_blank">GraphQL Zeus</a></td>
+        <td>GraphQL client and GraphQL code generator with GraphQL autocomplete library generation ⚡⚡⚡ for browser,nodejs and react native ( apollo compatible ) </td>
+        <th><a href="https://github.com/graphql-editor/graphql-zeus" target="_blank"><img alt="GraphQL Zeus" src="https://img.shields.io/github/stars/graphql-editor/graphql-zeus?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Rerousel" src="https://gitlibrary.club/images/uploads/2023/10/newshot-rerousel-react-carousel.png" /></td>
+        <td>Miscellaneous</td>
+        <td>TypeScript</td>
+        <td><a href="https://rerousel.netlify.app" target="_blank">Rerousel</a></td>
+        <td>Simplest infinite React carousel</td>
+        <th><a href="https://github.com/aexol-studio/rerousel-react-carousel" target="_blank"><img alt="Rerousel" src="https://img.shields.io/github/stars/aexol-studio/rerousel-react-carousel?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="React PDF Editor" src="https://gitlibrary.club/images/uploads/2023/10/newshot-react-pdf-editor.png" /></td>
+        <td>Productivity</td>
+        <td>TypeScript</td>
+        <td><a href="https://github.com/aexol-studio/react-pdf-editor" target="_blank">React PDF Editor</a></td>
+        <td>Pdf editor react component</td>
+        <th><a href="https://github.com/aexol-studio/react-pdf-editor" target="_blank"><img alt="React PDF Editor" src="https://img.shields.io/github/stars/aexol-studio/react-pdf-editor?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Diagram" src="https://gitlibrary.club/images/uploads/2023/10/newshot-diagram.png" /></td>
+        <td>Productivity</td>
+        <td>TypeScript</td>
+        <td><a href="https://github.com/graphql-editor/diagram" target="_blank">Diagram</a></td>
+        <td>☊ Tool for making node graphs. Inspired by dependency graph. Used mainly for automation services ?</td>
+        <th><a href="https://github.com/graphql-editor/diagram" target="_blank"><img alt="Diagram" src="https://img.shields.io/github/stars/graphql-editor/diagram?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Step CI" src="https://gitlibrary.club/images/uploads/2023/10/newshot-stepci.png" /></td>
+        <td>Productivity</td>
+        <td>TypeScript</td>
+        <td><a href="https://stepci.com" target="_blank">Step CI</a></td>
+        <td>Automated API Testing and Quality Assurance</td>
+        <th><a href="https://github.com/stepci/stepci" target="_blank"><img alt="Step CI" src="https://img.shields.io/github/stars/stepci/stepci?style=social" /></a></th>
     </tr>
 
 </table>
@@ -11277,6 +11373,22 @@
         <td><a href="https://github.com/hantsaniala/hStream" target="_blank">hStream</a></td>
         <td>A simple HLS VOD server made with Go.</td>
         <th><a href="https://github.com/hantsaniala/hStream" target="_blank"><img alt="hStream" src="https://img.shields.io/github/stars/hantsaniala/hStream?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Stucco" src="https://gitlibrary.club/images/uploads/2023/10/newshot-stucco.png" /></td>
+        <td>Databases</td>
+        <td>Go</td>
+        <td><a href="https://github.com/graphql-editor/stucco" target="_blank">Stucco</a></td>
+        <td>FaaS like GraphQL runtime</td>
+        <th><a href="https://github.com/graphql-editor/stucco" target="_blank"><img alt="Stucco" src="https://img.shields.io/github/stars/graphql-editor/stucco?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="GQL" src="https://gitlibrary.club/images/uploads/2023/10/newshot-gql.png" /></td>
+        <td>Infrastructure</td>
+        <td>Go</td>
+        <td><a href="https://github.com/graphql-editor/gql" target="_blank">GQL</a></td>
+        <td>Very simple CLI for many GraphQL schemas in the cloud. Provides autocompletion for GraphQL queries</td>
+        <th><a href="https://github.com/graphql-editor/gql" target="_blank"><img alt="GQL" src="https://img.shields.io/github/stars/graphql-editor/gql?style=social" /></a></th>
     </tr>
 
 </table>
