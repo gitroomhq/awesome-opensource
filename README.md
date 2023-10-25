@@ -242,6 +242,14 @@
         <th><a href="https://github.com/stepci/stepci" target="_blank"><img alt="Step CI" src="https://img.shields.io/github/stars/stepci/stepci?style=social" /></a></th>
     </tr>
     <tr>
+        <td nowrap="nowrap"><img width="33" alt="Quix Streams" src="https://gitlibrary.club/images/uploads/2023/10/newshot-quix-streams.png" /></td>
+        <td>Miscellaneous</td>
+        <td>C#</td>
+        <td><a href="https://github.com/quixio/quix-streams" target="_blank">Quix Streams</a></td>
+        <td>Quix Streams - A library for data streaming and Python Stream Processing</td>
+        <th><a href="https://github.com/quixio/quix-streams" target="_blank"><img alt="Quix Streams" src="https://img.shields.io/github/stars/quixio/quix-streams?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="Glasskube Operator" src="https://gitlibrary.club/images/uploads/2023/10/newshot-operator.jpg" /></td>
         <td>Infrastructure</td>
         <td>Kotlin</td>
@@ -312,14 +320,6 @@
         <td><a href="https://www.reactuse.com" target="_blank">ReactUse</a></td>
         <td>Collection of essential React Hooks Utilities.</td>
         <th><a href="https://github.com/childrentime/reactuse" target="_blank"><img alt="ReactUse" src="https://img.shields.io/github/stars/childrentime/reactuse?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Instill VDP (Versatile Data Pipeline)" src="https://gitlibrary.club/images/uploads/2023/10/newshot-vdp.png" /></td>
-        <td>Infrastructure</td>
-        <td>JavaScript</td>
-        <td><a href="https://www.instill.tech" target="_blank">Instill VDP (Versatile Data Pipeline)</a></td>
-        <td>? Instill VDP (Versatile Data Pipeline) is an open-source tool to seamlessly integrate AI to process unstructured data in the modern data stack</td>
-        <th><a href="https://github.com/instill-ai/vdp" target="_blank"><img alt="Instill VDP (Versatile Data Pipeline)" src="https://img.shields.io/github/stars/instill-ai/vdp?style=social" /></a></th>
     </tr>
 
 </table>
@@ -2566,6 +2566,14 @@
         <td><a href="https://rerousel.netlify.app" target="_blank">Rerousel</a></td>
         <td>Simplest infinite React carousel</td>
         <th><a href="https://github.com/aexol-studio/rerousel-react-carousel" target="_blank"><img alt="Rerousel" src="https://img.shields.io/github/stars/aexol-studio/rerousel-react-carousel?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Quix Streams" src="https://gitlibrary.club/images/uploads/2023/10/newshot-quix-streams.png" /></td>
+        <td>Miscellaneous</td>
+        <td>C#</td>
+        <td><a href="https://github.com/quixio/quix-streams" target="_blank">Quix Streams</a></td>
+        <td>Quix Streams - A library for data streaming and Python Stream Processing</td>
+        <th><a href="https://github.com/quixio/quix-streams" target="_blank"><img alt="Quix Streams" src="https://img.shields.io/github/stars/quixio/quix-streams?style=social" /></a></th>
     </tr>
 
 </table>
@@ -12945,6 +12953,14 @@
         <td><a href="https://github.com/unchase/Unchase.Odata.Connectedservice" target="_blank">Unchase OData Connected Service</a></td>
         <td>? A Visual Studio extension for connecting to OData services with generating client-side C# proxy-classes</td>
         <th><a href="https://github.com/unchase/Unchase.Odata.Connectedservice" target="_blank"><img alt="Unchase OData Connected Service" src="https://img.shields.io/github/stars/unchase/Unchase.Odata.Connectedservice?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Quix Streams" src="https://gitlibrary.club/images/uploads/2023/10/newshot-quix-streams.png" /></td>
+        <td>Miscellaneous</td>
+        <td>C#</td>
+        <td><a href="https://github.com/quixio/quix-streams" target="_blank">Quix Streams</a></td>
+        <td>Quix Streams - A library for data streaming and Python Stream Processing</td>
+        <th><a href="https://github.com/quixio/quix-streams" target="_blank"><img alt="Quix Streams" src="https://img.shields.io/github/stars/quixio/quix-streams?style=social" /></a></th>
     </tr>
 
 </table>
