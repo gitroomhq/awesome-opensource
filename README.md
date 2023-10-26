@@ -162,6 +162,14 @@
         <th>Stargazers</th>
     </tr>
         <tr>
+        <td nowrap="nowrap"><img width="33" alt="marimo" src="https://gitlibrary.club/images/uploads/2023/10/newshot-marimo.png" /></td>
+        <td>Analytics</td>
+        <td>TypeScript</td>
+        <td><a href="https://marimo.io" target="_blank">marimo</a></td>
+        <td>A next-generation Python notebook: explore data, build tools, deploy apps!</td>
+        <th><a href="https://github.com/marimo-team/marimo" target="_blank"><img alt="marimo" src="https://img.shields.io/github/stars/marimo-team/marimo?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="Unchase OpenAPI (Swagger) Connected Service" src="https://gitlibrary.club/images/uploads/2023/10/newshot-Unchase.OpenAPI.Connectedservice.jpg" /></td>
         <td>Infrastructure</td>
         <td>C#</td>
@@ -312,14 +320,6 @@
         <td><a href="https://formslab.vercel.app" target="_blank">FormsLab</a></td>
         <td>?? Form builder for anonymous surveys, polls, and collecting feedback. Experience management solution.</td>
         <th><a href="https://github.com/Ryczko/FormsLab" target="_blank"><img alt="FormsLab" src="https://img.shields.io/github/stars/Ryczko/FormsLab?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="ReactUse" src="https://gitlibrary.club/images/uploads/2023/10/newshot-reactuse.jpg" /></td>
-        <td>Collaboration</td>
-        <td>TypeScript</td>
-        <td><a href="https://www.reactuse.com" target="_blank">ReactUse</a></td>
-        <td>Collection of essential React Hooks Utilities.</td>
-        <th><a href="https://github.com/childrentime/reactuse" target="_blank"><img alt="ReactUse" src="https://img.shields.io/github/stars/childrentime/reactuse?style=social" /></a></th>
     </tr>
 
 </table>
@@ -5153,6 +5153,14 @@
         <td>TODS: An Automated Time-series Outlier Detection System</td>
         <th><a href="https://github.com/datamllab/tods" target="_blank"><img alt="tods" src="https://img.shields.io/github/stars/datamllab/tods?style=social" /></a></th>
     </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="marimo" src="https://gitlibrary.club/images/uploads/2023/10/newshot-marimo.png" /></td>
+        <td>Analytics</td>
+        <td>TypeScript</td>
+        <td><a href="https://marimo.io" target="_blank">marimo</a></td>
+        <td>A next-generation Python notebook: explore data, build tools, deploy apps!</td>
+        <th><a href="https://github.com/marimo-team/marimo" target="_blank"><img alt="marimo" src="https://img.shields.io/github/stars/marimo-team/marimo?style=social" /></a></th>
+    </tr>
 
 </table>
 
@@ -8989,6 +8997,14 @@
         <td><a href="https://stepci.com" target="_blank">Step CI</a></td>
         <td>Automated API Testing and Quality Assurance</td>
         <th><a href="https://github.com/stepci/stepci" target="_blank"><img alt="Step CI" src="https://img.shields.io/github/stars/stepci/stepci?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="marimo" src="https://gitlibrary.club/images/uploads/2023/10/newshot-marimo.png" /></td>
+        <td>Analytics</td>
+        <td>TypeScript</td>
+        <td><a href="https://marimo.io" target="_blank">marimo</a></td>
+        <td>A next-generation Python notebook: explore data, build tools, deploy apps!</td>
+        <th><a href="https://github.com/marimo-team/marimo" target="_blank"><img alt="marimo" src="https://img.shields.io/github/stars/marimo-team/marimo?style=social" /></a></th>
     </tr>
 
 </table>
