@@ -170,6 +170,14 @@
         <th><a href="https://github.com/marimo-team/marimo" target="_blank"><img alt="marimo" src="https://img.shields.io/github/stars/marimo-team/marimo?style=social" /></a></th>
     </tr>
     <tr>
+        <td nowrap="nowrap"><img width="33" alt="snowboard" src="https://gitlibrary.club/images/uploads/2023/10/newshot-snowboard.png" /></td>
+        <td>Miscellaneous</td>
+        <td>Rust</td>
+        <td><a href="https://crates.io/crates/snowboard" target="_blank">snowboard</a></td>
+        <td>Extremely simple http rust servers ?</td>
+        <th><a href="https://github.com/Brian3647/snowboard" target="_blank"><img alt="snowboard" src="https://img.shields.io/github/stars/Brian3647/snowboard?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="Unchase OpenAPI (Swagger) Connected Service" src="https://gitlibrary.club/images/uploads/2023/10/newshot-Unchase.OpenAPI.Connectedservice.jpg" /></td>
         <td>Infrastructure</td>
         <td>C#</td>
@@ -312,14 +320,6 @@
         <td><a href="https://docs.tomatophp.com" target="_blank">TomatoPHP</a></td>
         <td>TomatoPHP is built to make it easy to develop web apps and API by generating files of CRUD operations and support helpers of tonnes of functions to make it easy to manage and use framework services.</td>
         <th><a href="https://github.com/tomatophp/tomato" target="_blank"><img alt="TomatoPHP" src="https://img.shields.io/github/stars/tomatophp/tomato?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="FormsLab" src="https://gitlibrary.club/images/uploads/2023/10/newshot-FormsLab.jpg" /></td>
-        <td>Miscellaneous</td>
-        <td>TypeScript</td>
-        <td><a href="https://formslab.vercel.app" target="_blank">FormsLab</a></td>
-        <td>?? Form builder for anonymous surveys, polls, and collecting feedback. Experience management solution.</td>
-        <th><a href="https://github.com/Ryczko/FormsLab" target="_blank"><img alt="FormsLab" src="https://img.shields.io/github/stars/Ryczko/FormsLab?style=social" /></a></th>
     </tr>
 
 </table>
@@ -2574,6 +2574,14 @@
         <td><a href="https://github.com/quixio/quix-streams" target="_blank">Quix Streams</a></td>
         <td>Quix Streams - A library for data streaming and Python Stream Processing</td>
         <th><a href="https://github.com/quixio/quix-streams" target="_blank"><img alt="Quix Streams" src="https://img.shields.io/github/stars/quixio/quix-streams?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="snowboard" src="https://gitlibrary.club/images/uploads/2023/10/newshot-snowboard.png" /></td>
+        <td>Miscellaneous</td>
+        <td>Rust</td>
+        <td><a href="https://crates.io/crates/snowboard" target="_blank">snowboard</a></td>
+        <td>Extremely simple http rust servers ?</td>
+        <th><a href="https://github.com/Brian3647/snowboard" target="_blank"><img alt="snowboard" src="https://img.shields.io/github/stars/Brian3647/snowboard?style=social" /></a></th>
     </tr>
 
 </table>
@@ -12217,6 +12225,14 @@
         <td><a href="https://www.svix.com" target="_blank">Svix Webhooks</a></td>
         <td>The enterprise-ready webhooks service ?</td>
         <th><a href="https://github.com/svix/svix-webhooks" target="_blank"><img alt="Svix Webhooks" src="https://img.shields.io/github/stars/svix/svix-webhooks?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="snowboard" src="https://gitlibrary.club/images/uploads/2023/10/newshot-snowboard.png" /></td>
+        <td>Miscellaneous</td>
+        <td>Rust</td>
+        <td><a href="https://crates.io/crates/snowboard" target="_blank">snowboard</a></td>
+        <td>Extremely simple http rust servers ?</td>
+        <th><a href="https://github.com/Brian3647/snowboard" target="_blank"><img alt="snowboard" src="https://img.shields.io/github/stars/Brian3647/snowboard?style=social" /></a></th>
     </tr>
 
 </table>
