@@ -162,6 +162,14 @@
         <th>Stargazers</th>
     </tr>
         <tr>
+        <td nowrap="nowrap"><img width="33" alt="Reflex" src="https://gitlibrary.club/images/uploads/2023/10/newshot-reflex.png" /></td>
+        <td>Infrastructure</td>
+        <td>Python</td>
+        <td><a href="https://reflex.dev" target="_blank">Reflex</a></td>
+        <td>? Web apps in pure Python ?</td>
+        <th><a href="https://github.com/reflex-dev/reflex" target="_blank"><img alt="Reflex" src="https://img.shields.io/github/stars/reflex-dev/reflex?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="Flow PHP" src="https://gitlibrary.club/images/uploads/2023/10/newshot-flow.png" /></td>
         <td>Productivity</td>
         <td>PHP</td>
@@ -312,14 +320,6 @@
         <td><a href="https://github.com/cado-security/cloudgrep" target="_blank">cloudgrep</a></td>
         <td>cloudgrep is grep for cloud storage</td>
         <th><a href="https://github.com/cado-security/cloudgrep" target="_blank"><img alt="cloudgrep" src="https://img.shields.io/github/stars/cado-security/cloudgrep?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Fluvio" src="https://gitlibrary.club/images/uploads/2023/10/newshot-fluvio.jpg" /></td>
-        <td>Infrastructure</td>
-        <td>Rust</td>
-        <td><a href="https://www.fluvio.io/" target="_blank">Fluvio</a></td>
-        <td>Kafka + Flink in Rust + WASM. Cloud Native, Edge Ready, Stateful, Composable unified data streaming platform powered by Rust and Web Assembly.</td>
-        <th><a href="https://github.com/infinyon/fluvio" target="_blank"><img alt="Fluvio" src="https://img.shields.io/github/stars/infinyon/fluvio?style=social" /></a></th>
     </tr>
 
 </table>
@@ -7687,6 +7687,14 @@
         <td>Very simple CLI for many GraphQL schemas in the cloud. Provides autocompletion for GraphQL queries</td>
         <th><a href="https://github.com/graphql-editor/gql" target="_blank"><img alt="GQL" src="https://img.shields.io/github/stars/graphql-editor/gql?style=social" /></a></th>
     </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Reflex" src="https://gitlibrary.club/images/uploads/2023/10/newshot-reflex.png" /></td>
+        <td>Infrastructure</td>
+        <td>Python</td>
+        <td><a href="https://reflex.dev" target="_blank">Reflex</a></td>
+        <td>? Web apps in pure Python ?</td>
+        <th><a href="https://github.com/reflex-dev/reflex" target="_blank"><img alt="Reflex" src="https://img.shields.io/github/stars/reflex-dev/reflex?style=social" /></a></th>
+    </tr>
 
 </table>
 
@@ -10919,6 +10927,14 @@
         <td><a href="http://tods-doc.github.io" target="_blank">tods</a></td>
         <td>TODS: An Automated Time-series Outlier Detection System</td>
         <th><a href="https://github.com/datamllab/tods" target="_blank"><img alt="tods" src="https://img.shields.io/github/stars/datamllab/tods?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Reflex" src="https://gitlibrary.club/images/uploads/2023/10/newshot-reflex.png" /></td>
+        <td>Infrastructure</td>
+        <td>Python</td>
+        <td><a href="https://reflex.dev" target="_blank">Reflex</a></td>
+        <td>? Web apps in pure Python ?</td>
+        <th><a href="https://github.com/reflex-dev/reflex" target="_blank"><img alt="Reflex" src="https://img.shields.io/github/stars/reflex-dev/reflex?style=social" /></a></th>
     </tr>
 
 </table>
