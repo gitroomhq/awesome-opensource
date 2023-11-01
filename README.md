@@ -162,6 +162,54 @@
         <th>Stargazers</th>
     </tr>
         <tr>
+        <td nowrap="nowrap"><img width="33" alt="leerming" src="https://gitlibrary.club/images/uploads/2023/11/newshot-leerming.png" /></td>
+        <td>Productivity</td>
+        <td>HTML</td>
+        <td><a href="https://leerming.com" target="_blank">leerming</a></td>
+        <td>An implementation of the Leitner box that can generate flashcards using llms from documents, youtube videos and web page links.</td>
+        <th><a href="https://github.com/Tobi-De/leerming" target="_blank"><img alt="leerming" src="https://img.shields.io/github/stars/Tobi-De/leerming?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="dj-shop-cart" src="https://gitlibrary.club/images/uploads/2023/11/newshot-dj-shop-cart.png" /></td>
+        <td>Miscellaneous</td>
+        <td>Python</td>
+        <td><a href="https://tobi-de.github.io/dj-shop-cart/" target="_blank">dj-shop-cart</a></td>
+        <td>A simple and flexible cart manager for your django projects.</td>
+        <th><a href="https://github.com/Tobi-De/dj-shop-cart" target="_blank"><img alt="dj-shop-cart" src="https://img.shields.io/github/stars/Tobi-De/dj-shop-cart?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="sse_relay_server" src="https://gitlibrary.club/images/uploads/2023/11/newshot-sse_relay_server.png" /></td>
+        <td>Infrastructure</td>
+        <td>Python</td>
+        <td><a href="https://github.com/Tobi-De/sse_relay_server" target="_blank">sse_relay_server</a></td>
+        <td>An SSE Relay Service: Perfect for Adding Real-Time Features to Your Django Project Without Introducing ASGI or Async Code.</td>
+        <th><a href="https://github.com/Tobi-De/sse_relay_server" target="_blank"><img alt="sse_relay_server" src="https://img.shields.io/github/stars/Tobi-De/sse_relay_server?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="fuzzy-couscous" src="https://gitlibrary.club/images/uploads/2023/11/newshot-fuzzy-couscous.png" /></td>
+        <td>Productivity</td>
+        <td>Python</td>
+        <td><a href="https://tobi-de.github.io/fuzzy-couscous" target="_blank">fuzzy-couscous</a></td>
+        <td>A cli tool to bootstrap your django projects and enhance your development experience. </td>
+        <th><a href="https://github.com/Tobi-De/fuzzy-couscous" target="_blank"><img alt="fuzzy-couscous" src="https://img.shields.io/github/stars/Tobi-De/fuzzy-couscous?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="cookiecutter-fastapi" src="https://gitlibrary.club/images/uploads/2023/11/newshot-cookiecutter-fastapi.png" /></td>
+        <td>Productivity</td>
+        <td>Python</td>
+        <td><a href="https://cookiecutter-fastapi.readthedocs.io/en/latest/" target="_blank">cookiecutter-fastapi</a></td>
+        <td>Cookiecutter fastapi is a framework for jumpstarting production-ready fastapi projects quickly.</td>
+        <th><a href="https://github.com/Tobi-De/cookiecutter-fastapi" target="_blank"><img alt="cookiecutter-fastapi" src="https://img.shields.io/github/stars/Tobi-De/cookiecutter-fastapi?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="ArtistAssistApp" src="https://gitlibrary.club/images/uploads/2023/11/newshot-artistassistapp.jpg" /></td>
+        <td>Miscellaneous</td>
+        <td>TypeScript</td>
+        <td><a href="https://artistassistapp.com" target="_blank">ArtistAssistApp</a></td>
+        <td>ArtistAssistApp - the web app to paint better with ease. Tools for realistic color mixing based on real paints, tonal value drawing, simplified sketching, and more. Perfect for artists of all level…</td>
+        <th><a href="https://github.com/eugene-khyst/artistassistapp" target="_blank"><img alt="ArtistAssistApp" src="https://img.shields.io/github/stars/eugene-khyst/artistassistapp?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="Reflex" src="https://gitlibrary.club/images/uploads/2023/10/newshot-reflex.png" /></td>
         <td>Infrastructure</td>
         <td>Python</td>
@@ -273,54 +321,6 @@
         <td>Automated API Testing and Quality Assurance</td>
         <th><a href="https://github.com/stepci/stepci" target="_blank"><img alt="Step CI" src="https://img.shields.io/github/stars/stepci/stepci?style=social" /></a></th>
     </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Quix Streams" src="https://gitlibrary.club/images/uploads/2023/10/newshot-quix-streams.png" /></td>
-        <td>Miscellaneous</td>
-        <td>C#</td>
-        <td><a href="https://github.com/quixio/quix-streams" target="_blank">Quix Streams</a></td>
-        <td>Quix Streams - A library for data streaming and Python Stream Processing</td>
-        <th><a href="https://github.com/quixio/quix-streams" target="_blank"><img alt="Quix Streams" src="https://img.shields.io/github/stars/quixio/quix-streams?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Glasskube Operator" src="https://gitlibrary.club/images/uploads/2023/10/newshot-operator.jpg" /></td>
-        <td>Infrastructure</td>
-        <td>Kotlin</td>
-        <td><a href="https://glasskube.eu/docs/" target="_blank">Glasskube Operator</a></td>
-        <td>Glasskube Kubernetes Operator - Fully automated deployments for open source tools</td>
-        <th><a href="https://github.com/glasskube/operator" target="_blank"><img alt="Glasskube Operator" src="https://img.shields.io/github/stars/glasskube/operator?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="GitProfile" src="https://gitlibrary.club/images/uploads/2023/10/newshot-gitprofile.jpg" /></td>
-        <td>Miscellaneous</td>
-        <td>JavaScript</td>
-        <td><a href="https://arifszn.github.io/gitprofile" target="_blank">GitProfile</a></td>
-        <td>? Create a dynamic portfolio by just providing your GitHub username.</td>
-        <th><a href="https://github.com/arifszn/gitprofile" target="_blank"><img alt="GitProfile" src="https://img.shields.io/github/stars/arifszn/gitprofile?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="tods" src="https://gitlibrary.club/images/uploads/2023/10/newshot-tods.png" /></td>
-        <td>Analytics</td>
-        <td>Python</td>
-        <td><a href="http://tods-doc.github.io" target="_blank">tods</a></td>
-        <td>TODS: An Automated Time-series Outlier Detection System</td>
-        <th><a href="https://github.com/datamllab/tods" target="_blank"><img alt="tods" src="https://img.shields.io/github/stars/datamllab/tods?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="FINAL CUT" src="https://gitlibrary.club/images/uploads/2023/10/newshot-finalcut.png" /></td>
-        <td>Productivity</td>
-        <td>C++</td>
-        <td><a href="https://github.com/gansm/finalcut/wiki/First-steps#first-steps-with-the-final-cut-widget-toolkit" target="_blank">FINAL CUT</a></td>
-        <td>A text-based widget toolkit</td>
-        <th><a href="https://github.com/gansm/finalcut" target="_blank"><img alt="FINAL CUT" src="https://img.shields.io/github/stars/gansm/finalcut?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="cloudgrep" src="https://gitlibrary.club/images/uploads/2023/10/newshot-cloudgrep.png" /></td>
-        <td>Security</td>
-        <td>Python</td>
-        <td><a href="https://github.com/cado-security/cloudgrep" target="_blank">cloudgrep</a></td>
-        <td>cloudgrep is grep for cloud storage</td>
-        <th><a href="https://github.com/cado-security/cloudgrep" target="_blank"><img alt="cloudgrep" src="https://img.shields.io/github/stars/cado-security/cloudgrep?style=social" /></a></th>
-    </tr>
 
 </table>
 
@@ -401,20 +401,20 @@
         <th><a href="https://github.com/tolgee/tolgee-platform" target="_blank"><img alt="Tolgee" src="https://img.shields.io/github/stars/tolgee/tolgee-platform?style=social" /></a></th>
     </tr>
     <tr>
-        <td nowrap="nowrap"><img width="33" alt="Mood-Example" src="https://gitlibrary.club/images/uploads/2023/06/newshot-Mood-Example.png" /></td>
-        <td>Miscellaneous</td>
-        <td>Dart</td>
-        <td><a href="https://github.com/AmosHuKe/Mood-Example" target="_blank">Mood-Example</a></td>
-        <td><g-emoji class="g-emoji" alias="bird" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f426.png">?</g-emoji> Flutter 3 心情记录 样例工程 - 国际化 i18n、uni 小程序、深色模式、多主题、本地数据管理、路由管理、状态管理、无障碍（Semantics）、异步 FFI、集成测试、图表统计、Excel 导入导出、游戏…</td>
-        <th><a href="https://github.com/AmosHuKe/Mood-Example" target="_blank"><img alt="Mood-Example" src="https://img.shields.io/github/stars/AmosHuKe/Mood-Example?style=social" /></a></th>
-    </tr>
-    <tr>
         <td nowrap="nowrap"><img width="33" alt="Talker" src="https://gitlibrary.club/images/uploads/2023/05/newshot-talker-1.jpg" /></td>
         <td>Observability</td>
         <td>Dart</td>
         <td><a href="https://pub.dev/packages/talker" target="_blank">Talker</a></td>
         <td><g-emoji class="g-emoji" alias="phone" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/260e.png">☎️</g-emoji> Advanced error handler and logger for dart and flutter apps</td>
         <th><a href="https://github.com/Frezyx/talker" target="_blank"><img alt="Talker" src="https://img.shields.io/github/stars/Frezyx/talker?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Mood-Example" src="https://gitlibrary.club/images/uploads/2023/06/newshot-Mood-Example.png" /></td>
+        <td>Miscellaneous</td>
+        <td>Dart</td>
+        <td><a href="https://github.com/AmosHuKe/Mood-Example" target="_blank">Mood-Example</a></td>
+        <td><g-emoji class="g-emoji" alias="bird" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f426.png">?</g-emoji> Flutter 3 心情记录 样例工程 - 国际化 i18n、uni 小程序、深色模式、多主题、本地数据管理、路由管理、状态管理、无障碍（Semantics）、异步 FFI、集成测试、图表统计、Excel 导入导出、游戏…</td>
+        <th><a href="https://github.com/AmosHuKe/Mood-Example" target="_blank"><img alt="Mood-Example" src="https://img.shields.io/github/stars/AmosHuKe/Mood-Example?style=social" /></a></th>
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="Chips-n-Salsa" src="https://gitlibrary.club/images/uploads/2023/08/newshot-Chips-n-Salsa.jpg" /></td>
@@ -2582,6 +2582,22 @@
         <td><a href="https://crates.io/crates/snowboard" target="_blank">snowboard</a></td>
         <td>Extremely simple http rust servers ?</td>
         <th><a href="https://github.com/Brian3647/snowboard" target="_blank"><img alt="snowboard" src="https://img.shields.io/github/stars/Brian3647/snowboard?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="dj-shop-cart" src="https://gitlibrary.club/images/uploads/2023/11/newshot-dj-shop-cart.png" /></td>
+        <td>Miscellaneous</td>
+        <td>Python</td>
+        <td><a href="https://tobi-de.github.io/dj-shop-cart/" target="_blank">dj-shop-cart</a></td>
+        <td>A simple and flexible cart manager for your django projects.</td>
+        <th><a href="https://github.com/Tobi-De/dj-shop-cart" target="_blank"><img alt="dj-shop-cart" src="https://img.shields.io/github/stars/Tobi-De/dj-shop-cart?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="ArtistAssistApp" src="https://gitlibrary.club/images/uploads/2023/11/newshot-artistassistapp.jpg" /></td>
+        <td>Miscellaneous</td>
+        <td>TypeScript</td>
+        <td><a href="https://artistassistapp.com" target="_blank">ArtistAssistApp</a></td>
+        <td>ArtistAssistApp - the web app to paint better with ease. Tools for realistic color mixing based on real paints, tonal value drawing, simplified sketching, and more. Perfect for artists of all level…</td>
+        <th><a href="https://github.com/eugene-khyst/artistassistapp" target="_blank"><img alt="ArtistAssistApp" src="https://img.shields.io/github/stars/eugene-khyst/artistassistapp?style=social" /></a></th>
     </tr>
 
 </table>
@@ -4842,6 +4858,30 @@
         <td><a href="https://github.com/flow-php/flow" target="_blank">Flow PHP</a></td>
         <td>Flow PHP - strongly typed data processing framework</td>
         <th><a href="https://github.com/flow-php/flow" target="_blank"><img alt="Flow PHP" src="https://img.shields.io/github/stars/flow-php/flow?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="leerming" src="https://gitlibrary.club/images/uploads/2023/11/newshot-leerming.png" /></td>
+        <td>Productivity</td>
+        <td>HTML</td>
+        <td><a href="https://leerming.com" target="_blank">leerming</a></td>
+        <td>An implementation of the Leitner box that can generate flashcards using llms from documents, youtube videos and web page links.</td>
+        <th><a href="https://github.com/Tobi-De/leerming" target="_blank"><img alt="leerming" src="https://img.shields.io/github/stars/Tobi-De/leerming?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="fuzzy-couscous" src="https://gitlibrary.club/images/uploads/2023/11/newshot-fuzzy-couscous.png" /></td>
+        <td>Productivity</td>
+        <td>Python</td>
+        <td><a href="https://tobi-de.github.io/fuzzy-couscous" target="_blank">fuzzy-couscous</a></td>
+        <td>A cli tool to bootstrap your django projects and enhance your development experience. </td>
+        <th><a href="https://github.com/Tobi-De/fuzzy-couscous" target="_blank"><img alt="fuzzy-couscous" src="https://img.shields.io/github/stars/Tobi-De/fuzzy-couscous?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="cookiecutter-fastapi" src="https://gitlibrary.club/images/uploads/2023/11/newshot-cookiecutter-fastapi.png" /></td>
+        <td>Productivity</td>
+        <td>Python</td>
+        <td><a href="https://cookiecutter-fastapi.readthedocs.io/en/latest/" target="_blank">cookiecutter-fastapi</a></td>
+        <td>Cookiecutter fastapi is a framework for jumpstarting production-ready fastapi projects quickly.</td>
+        <th><a href="https://github.com/Tobi-De/cookiecutter-fastapi" target="_blank"><img alt="cookiecutter-fastapi" src="https://img.shields.io/github/stars/Tobi-De/cookiecutter-fastapi?style=social" /></a></th>
     </tr>
 
 </table>
@@ -7695,6 +7735,14 @@
         <td>? Web apps in pure Python ?</td>
         <th><a href="https://github.com/reflex-dev/reflex" target="_blank"><img alt="Reflex" src="https://img.shields.io/github/stars/reflex-dev/reflex?style=social" /></a></th>
     </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="sse_relay_server" src="https://gitlibrary.club/images/uploads/2023/11/newshot-sse_relay_server.png" /></td>
+        <td>Infrastructure</td>
+        <td>Python</td>
+        <td><a href="https://github.com/Tobi-De/sse_relay_server" target="_blank">sse_relay_server</a></td>
+        <td>An SSE Relay Service: Perfect for Adding Real-Time Features to Your Django Project Without Introducing ASGI or Async Code.</td>
+        <th><a href="https://github.com/Tobi-De/sse_relay_server" target="_blank"><img alt="sse_relay_server" src="https://img.shields.io/github/stars/Tobi-De/sse_relay_server?style=social" /></a></th>
+    </tr>
 
 </table>
 
@@ -9030,6 +9078,14 @@
         <td>A next-generation Python notebook: explore data, build tools, deploy apps!</td>
         <th><a href="https://github.com/marimo-team/marimo" target="_blank"><img alt="marimo" src="https://img.shields.io/github/stars/marimo-team/marimo?style=social" /></a></th>
     </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="ArtistAssistApp" src="https://gitlibrary.club/images/uploads/2023/11/newshot-artistassistapp.jpg" /></td>
+        <td>Miscellaneous</td>
+        <td>TypeScript</td>
+        <td><a href="https://artistassistapp.com" target="_blank">ArtistAssistApp</a></td>
+        <td>ArtistAssistApp - the web app to paint better with ease. Tools for realistic color mixing based on real paints, tonal value drawing, simplified sketching, and more. Perfect for artists of all level…</td>
+        <th><a href="https://github.com/eugene-khyst/artistassistapp" target="_blank"><img alt="ArtistAssistApp" src="https://img.shields.io/github/stars/eugene-khyst/artistassistapp?style=social" /></a></th>
+    </tr>
 
 </table>
 
@@ -9702,6 +9758,14 @@
         <td>Open Source guide - Contains resources and materials to learn and get yourself started with Open Source, Git, and GitHub.</td>
         <th><a href="https://github.com/Pradumnasaraf/open-source-with-pradumna" target="_blank"><img alt="Open Source With Pradumna" src="https://img.shields.io/github/stars/Pradumnasaraf/open-source-with-pradumna?style=social" /></a></th>
     </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="leerming" src="https://gitlibrary.club/images/uploads/2023/11/newshot-leerming.png" /></td>
+        <td>Productivity</td>
+        <td>HTML</td>
+        <td><a href="https://leerming.com" target="_blank">leerming</a></td>
+        <td>An implementation of the Leitner box that can generate flashcards using llms from documents, youtube videos and web page links.</td>
+        <th><a href="https://github.com/Tobi-De/leerming" target="_blank"><img alt="leerming" src="https://img.shields.io/github/stars/Tobi-De/leerming?style=social" /></a></th>
+    </tr>
 
 </table>
 
@@ -9867,20 +9931,20 @@
         <th>Stargazers</th>
     </tr>
         <tr>
-        <td nowrap="nowrap"><img width="33" alt="Mood-Example" src="https://gitlibrary.club/images/uploads/2023/06/newshot-Mood-Example.png" /></td>
-        <td>Miscellaneous</td>
-        <td>Dart</td>
-        <td><a href="https://github.com/AmosHuKe/Mood-Example" target="_blank">Mood-Example</a></td>
-        <td><g-emoji class="g-emoji" alias="bird" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f426.png">?</g-emoji> Flutter 3 心情记录 样例工程 - 国际化 i18n、uni 小程序、深色模式、多主题、本地数据管理、路由管理、状态管理、无障碍（Semantics）、异步 FFI、集成测试、图表统计、Excel 导入导出、游戏…</td>
-        <th><a href="https://github.com/AmosHuKe/Mood-Example" target="_blank"><img alt="Mood-Example" src="https://img.shields.io/github/stars/AmosHuKe/Mood-Example?style=social" /></a></th>
-    </tr>
-    <tr>
         <td nowrap="nowrap"><img width="33" alt="Talker" src="https://gitlibrary.club/images/uploads/2023/05/newshot-talker-1.jpg" /></td>
         <td>Observability</td>
         <td>Dart</td>
         <td><a href="https://pub.dev/packages/talker" target="_blank">Talker</a></td>
         <td><g-emoji class="g-emoji" alias="phone" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/260e.png">☎️</g-emoji> Advanced error handler and logger for dart and flutter apps</td>
         <th><a href="https://github.com/Frezyx/talker" target="_blank"><img alt="Talker" src="https://img.shields.io/github/stars/Frezyx/talker?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Mood-Example" src="https://gitlibrary.club/images/uploads/2023/06/newshot-Mood-Example.png" /></td>
+        <td>Miscellaneous</td>
+        <td>Dart</td>
+        <td><a href="https://github.com/AmosHuKe/Mood-Example" target="_blank">Mood-Example</a></td>
+        <td><g-emoji class="g-emoji" alias="bird" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f426.png">?</g-emoji> Flutter 3 心情记录 样例工程 - 国际化 i18n、uni 小程序、深色模式、多主题、本地数据管理、路由管理、状态管理、无障碍（Semantics）、异步 FFI、集成测试、图表统计、Excel 导入导出、游戏…</td>
+        <th><a href="https://github.com/AmosHuKe/Mood-Example" target="_blank"><img alt="Mood-Example" src="https://img.shields.io/github/stars/AmosHuKe/Mood-Example?style=social" /></a></th>
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="flutter_tilt" src="https://gitlibrary.club/images/uploads/2023/07/newshot-flutter_tilt.png" /></td>
@@ -10935,6 +10999,38 @@
         <td><a href="https://reflex.dev" target="_blank">Reflex</a></td>
         <td>? Web apps in pure Python ?</td>
         <th><a href="https://github.com/reflex-dev/reflex" target="_blank"><img alt="Reflex" src="https://img.shields.io/github/stars/reflex-dev/reflex?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="dj-shop-cart" src="https://gitlibrary.club/images/uploads/2023/11/newshot-dj-shop-cart.png" /></td>
+        <td>Miscellaneous</td>
+        <td>Python</td>
+        <td><a href="https://tobi-de.github.io/dj-shop-cart/" target="_blank">dj-shop-cart</a></td>
+        <td>A simple and flexible cart manager for your django projects.</td>
+        <th><a href="https://github.com/Tobi-De/dj-shop-cart" target="_blank"><img alt="dj-shop-cart" src="https://img.shields.io/github/stars/Tobi-De/dj-shop-cart?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="sse_relay_server" src="https://gitlibrary.club/images/uploads/2023/11/newshot-sse_relay_server.png" /></td>
+        <td>Infrastructure</td>
+        <td>Python</td>
+        <td><a href="https://github.com/Tobi-De/sse_relay_server" target="_blank">sse_relay_server</a></td>
+        <td>An SSE Relay Service: Perfect for Adding Real-Time Features to Your Django Project Without Introducing ASGI or Async Code.</td>
+        <th><a href="https://github.com/Tobi-De/sse_relay_server" target="_blank"><img alt="sse_relay_server" src="https://img.shields.io/github/stars/Tobi-De/sse_relay_server?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="fuzzy-couscous" src="https://gitlibrary.club/images/uploads/2023/11/newshot-fuzzy-couscous.png" /></td>
+        <td>Productivity</td>
+        <td>Python</td>
+        <td><a href="https://tobi-de.github.io/fuzzy-couscous" target="_blank">fuzzy-couscous</a></td>
+        <td>A cli tool to bootstrap your django projects and enhance your development experience. </td>
+        <th><a href="https://github.com/Tobi-De/fuzzy-couscous" target="_blank"><img alt="fuzzy-couscous" src="https://img.shields.io/github/stars/Tobi-De/fuzzy-couscous?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="cookiecutter-fastapi" src="https://gitlibrary.club/images/uploads/2023/11/newshot-cookiecutter-fastapi.png" /></td>
+        <td>Productivity</td>
+        <td>Python</td>
+        <td><a href="https://cookiecutter-fastapi.readthedocs.io/en/latest/" target="_blank">cookiecutter-fastapi</a></td>
+        <td>Cookiecutter fastapi is a framework for jumpstarting production-ready fastapi projects quickly.</td>
+        <th><a href="https://github.com/Tobi-De/cookiecutter-fastapi" target="_blank"><img alt="cookiecutter-fastapi" src="https://img.shields.io/github/stars/Tobi-De/cookiecutter-fastapi?style=social" /></a></th>
     </tr>
 
 </table>
