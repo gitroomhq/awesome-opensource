@@ -210,6 +210,22 @@
         <th><a href="https://github.com/eugene-khyst/artistassistapp" target="_blank"><img alt="ArtistAssistApp" src="https://img.shields.io/github/stars/eugene-khyst/artistassistapp?style=social" /></a></th>
     </tr>
     <tr>
+        <td nowrap="nowrap"><img width="33" alt="JSONoid" src="https://gitlibrary.club/images/uploads/2023/11/newshot-jsonoid-discovery.png" /></td>
+        <td>Analytics</td>
+        <td>Scala</td>
+        <td><a href="https://dataunitylab.github.io/jsonoid-discovery/" target="_blank">JSONoid</a></td>
+        <td>Distributed JSON schema discovery</td>
+        <th><a href="https://github.com/dataunitylab/jsonoid-discovery" target="_blank"><img alt="JSONoid" src="https://img.shields.io/github/stars/dataunitylab/jsonoid-discovery?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Relational Playground" src="https://gitlibrary.club/images/uploads/2023/11/newshot-relational-playground.png" /></td>
+        <td>Databases</td>
+        <td>JavaScript</td>
+        <td><a href="https://relationalplayground.com/" target="_blank">Relational Playground</a></td>
+        <td>An exploration of relational algebra ?</td>
+        <th><a href="https://github.com/dataunitylab/relational-playground" target="_blank"><img alt="Relational Playground" src="https://img.shields.io/github/stars/dataunitylab/relational-playground?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="Reflex" src="https://gitlibrary.club/images/uploads/2023/10/newshot-reflex.png" /></td>
         <td>Infrastructure</td>
         <td>Python</td>
@@ -304,22 +320,6 @@
         <td><a href="https://github.com/graphql-editor/diagram" target="_blank">Diagram</a></td>
         <td>☊ Tool for making node graphs. Inspired by dependency graph. Used mainly for automation services ?</td>
         <th><a href="https://github.com/graphql-editor/diagram" target="_blank"><img alt="Diagram" src="https://img.shields.io/github/stars/graphql-editor/diagram?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="GQL" src="https://gitlibrary.club/images/uploads/2023/10/newshot-gql.png" /></td>
-        <td>Infrastructure</td>
-        <td>Go</td>
-        <td><a href="https://github.com/graphql-editor/gql" target="_blank">GQL</a></td>
-        <td>Very simple CLI for many GraphQL schemas in the cloud. Provides autocompletion for GraphQL queries</td>
-        <th><a href="https://github.com/graphql-editor/gql" target="_blank"><img alt="GQL" src="https://img.shields.io/github/stars/graphql-editor/gql?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Step CI" src="https://gitlibrary.club/images/uploads/2023/10/newshot-stepci.png" /></td>
-        <td>Productivity</td>
-        <td>TypeScript</td>
-        <td><a href="https://stepci.com" target="_blank">Step CI</a></td>
-        <td>Automated API Testing and Quality Assurance</td>
-        <th><a href="https://github.com/stepci/stepci" target="_blank"><img alt="Step CI" src="https://img.shields.io/github/stars/stepci/stepci?style=social" /></a></th>
     </tr>
 
 </table>
@@ -5217,6 +5217,14 @@
         <td>A next-generation Python notebook: explore data, build tools, deploy apps!</td>
         <th><a href="https://github.com/marimo-team/marimo" target="_blank"><img alt="marimo" src="https://img.shields.io/github/stars/marimo-team/marimo?style=social" /></a></th>
     </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="JSONoid" src="https://gitlibrary.club/images/uploads/2023/11/newshot-jsonoid-discovery.png" /></td>
+        <td>Analytics</td>
+        <td>Scala</td>
+        <td><a href="https://dataunitylab.github.io/jsonoid-discovery/" target="_blank">JSONoid</a></td>
+        <td>Distributed JSON schema discovery</td>
+        <th><a href="https://github.com/dataunitylab/jsonoid-discovery" target="_blank"><img alt="JSONoid" src="https://img.shields.io/github/stars/dataunitylab/jsonoid-discovery?style=social" /></a></th>
+    </tr>
 
 </table>
 
@@ -6272,6 +6280,14 @@
         <td><a href="https://github.com/graphql-editor/stucco" target="_blank">Stucco</a></td>
         <td>FaaS like GraphQL runtime</td>
         <th><a href="https://github.com/graphql-editor/stucco" target="_blank"><img alt="Stucco" src="https://img.shields.io/github/stars/graphql-editor/stucco?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Relational Playground" src="https://gitlibrary.club/images/uploads/2023/11/newshot-relational-playground.png" /></td>
+        <td>Databases</td>
+        <td>JavaScript</td>
+        <td><a href="https://relationalplayground.com/" target="_blank">Relational Playground</a></td>
+        <td>An exploration of relational algebra ?</td>
+        <th><a href="https://github.com/dataunitylab/relational-playground" target="_blank"><img alt="Relational Playground" src="https://img.shields.io/github/stars/dataunitylab/relational-playground?style=social" /></a></th>
     </tr>
 
 </table>
@@ -12124,6 +12140,14 @@
         <td>TomatoPHP is built to make it easy to develop web apps and API by generating files of CRUD operations and support helpers of tonnes of functions to make it easy to manage and use framework services.</td>
         <th><a href="https://github.com/tomatophp/tomato" target="_blank"><img alt="TomatoPHP" src="https://img.shields.io/github/stars/tomatophp/tomato?style=social" /></a></th>
     </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Relational Playground" src="https://gitlibrary.club/images/uploads/2023/11/newshot-relational-playground.png" /></td>
+        <td>Databases</td>
+        <td>JavaScript</td>
+        <td><a href="https://relationalplayground.com/" target="_blank">Relational Playground</a></td>
+        <td>An exploration of relational algebra ?</td>
+        <th><a href="https://github.com/dataunitylab/relational-playground" target="_blank"><img alt="Relational Playground" src="https://img.shields.io/github/stars/dataunitylab/relational-playground?style=social" /></a></th>
+    </tr>
 
 </table>
 
@@ -13691,6 +13715,14 @@
         <td><a href="https://github.com/plokhotnyuk/jsoniter-scala" target="_blank">jsoniter-scala</a></td>
         <td>Scala macros for compile-time generation of safe and ultra-fast JSON codecs</td>
         <th><a href="https://github.com/plokhotnyuk/jsoniter-scala" target="_blank"><img alt="jsoniter-scala" src="https://img.shields.io/github/stars/plokhotnyuk/jsoniter-scala?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="JSONoid" src="https://gitlibrary.club/images/uploads/2023/11/newshot-jsonoid-discovery.png" /></td>
+        <td>Analytics</td>
+        <td>Scala</td>
+        <td><a href="https://dataunitylab.github.io/jsonoid-discovery/" target="_blank">JSONoid</a></td>
+        <td>Distributed JSON schema discovery</td>
+        <th><a href="https://github.com/dataunitylab/jsonoid-discovery" target="_blank"><img alt="JSONoid" src="https://img.shields.io/github/stars/dataunitylab/jsonoid-discovery?style=social" /></a></th>
     </tr>
 
 </table>
