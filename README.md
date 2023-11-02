@@ -162,6 +162,14 @@
         <th>Stargazers</th>
     </tr>
         <tr>
+        <td nowrap="nowrap"><img width="33" alt="Django Check SEO" src="https://gitlibrary.club/images/uploads/2023/11/newshot-django-check-seo.png" /></td>
+        <td>Productivity</td>
+        <td>Python</td>
+        <td><a href="https://github.com/kapt-labs/django-check-seo" target="_blank">Django Check SEO</a></td>
+        <td>Django Check SEO will check the SEO aspects of your site for you, and will provide advice in case of problems. Compatible with Django &amp; Django-CMS!</td>
+        <th><a href="https://github.com/kapt-labs/django-check-seo" target="_blank"><img alt="Django Check SEO" src="https://img.shields.io/github/stars/kapt-labs/django-check-seo?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="leerming" src="https://gitlibrary.club/images/uploads/2023/11/newshot-leerming.png" /></td>
         <td>Productivity</td>
         <td>HTML</td>
@@ -312,14 +320,6 @@
         <td><a href="https://github.com/aexol-studio/react-pdf-editor" target="_blank">React PDF Editor</a></td>
         <td>Pdf editor react component</td>
         <th><a href="https://github.com/aexol-studio/react-pdf-editor" target="_blank"><img alt="React PDF Editor" src="https://img.shields.io/github/stars/aexol-studio/react-pdf-editor?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Diagram" src="https://gitlibrary.club/images/uploads/2023/10/newshot-diagram.png" /></td>
-        <td>Productivity</td>
-        <td>TypeScript</td>
-        <td><a href="https://github.com/graphql-editor/diagram" target="_blank">Diagram</a></td>
-        <td>☊ Tool for making node graphs. Inspired by dependency graph. Used mainly for automation services ?</td>
-        <th><a href="https://github.com/graphql-editor/diagram" target="_blank"><img alt="Diagram" src="https://img.shields.io/github/stars/graphql-editor/diagram?style=social" /></a></th>
     </tr>
 
 </table>
@@ -3402,6 +3402,14 @@
         <td><a href="https://github.com/llmware-ai/llmware" target="_blank">LLMWare</a></td>
         <td> Providing enterprise-grade LLM-based development framework, tools and fine-tuned models.</td>
         <th><a href="https://github.com/llmware-ai/llmware" target="_blank"><img alt="LLMWare" src="https://img.shields.io/github/stars/llmware-ai/llmware?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Django Check SEO" src="https://gitlibrary.club/images/uploads/2023/11/newshot-django-check-seo.png" /></td>
+        <td>Productivity</td>
+        <td>Python</td>
+        <td><a href="https://github.com/kapt-labs/django-check-seo" target="_blank">Django Check SEO</a></td>
+        <td>Django Check SEO will check the SEO aspects of your site for you, and will provide advice in case of problems. Compatible with Django &amp; Django-CMS!</td>
+        <th><a href="https://github.com/kapt-labs/django-check-seo" target="_blank"><img alt="Django Check SEO" src="https://img.shields.io/github/stars/kapt-labs/django-check-seo?style=social" /></a></th>
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="VS Code Docs" src="https://gitlibrary.club/images/uploads/2023/05/newshot-vscode-docs.png" /></td>
@@ -10287,6 +10295,14 @@
         <td><a href="https://github.com/llmware-ai/llmware" target="_blank">LLMWare</a></td>
         <td> Providing enterprise-grade LLM-based development framework, tools and fine-tuned models.</td>
         <th><a href="https://github.com/llmware-ai/llmware" target="_blank"><img alt="LLMWare" src="https://img.shields.io/github/stars/llmware-ai/llmware?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Django Check SEO" src="https://gitlibrary.club/images/uploads/2023/11/newshot-django-check-seo.png" /></td>
+        <td>Productivity</td>
+        <td>Python</td>
+        <td><a href="https://github.com/kapt-labs/django-check-seo" target="_blank">Django Check SEO</a></td>
+        <td>Django Check SEO will check the SEO aspects of your site for you, and will provide advice in case of problems. Compatible with Django &amp; Django-CMS!</td>
+        <th><a href="https://github.com/kapt-labs/django-check-seo" target="_blank"><img alt="Django Check SEO" src="https://img.shields.io/github/stars/kapt-labs/django-check-seo?style=social" /></a></th>
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="ClusterFuzz" src="https://gitlibrary.club/images/uploads/2023/05/newshot-clusterfuzz.png" /></td>
