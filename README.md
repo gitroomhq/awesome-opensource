@@ -1065,6 +1065,14 @@
         <th><a href="https://github.com/texus/TGUI" target="_blank"><img alt="TGUI" src="https://img.shields.io/github/stars/texus/TGUI?style=social" /></a></th>
     </tr>
     <tr>
+        <td nowrap="nowrap"><img width="33" alt="marimo" src="https://gitlibrary.club/images/uploads/2023/10/newshot-marimo.png" /></td>
+        <td>Analytics</td>
+        <td>TypeScript</td>
+        <td><a href="https://marimo.io" target="_blank">marimo</a></td>
+        <td>A next-generation Python notebook: explore data, build tools, deploy apps!</td>
+        <th><a href="https://github.com/marimo-team/marimo" target="_blank"><img alt="marimo" src="https://img.shields.io/github/stars/marimo-team/marimo?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="Danger" src="https://gitlibrary.club/images/uploads/2023/05/newshot-danger.png" /></td>
         <td>Collaboration</td>
         <td>Ruby</td>
@@ -1127,14 +1135,6 @@
         <td><a href="https://maxday.github.io/lambda-perf" target="_blank">lambda-perf</a></td>
         <td>Lambda Cold Starts analysis, updated daily</td>
         <th><a href="https://github.com/maxday/lambda-perf" target="_blank"><img alt="lambda-perf" src="https://img.shields.io/github/stars/maxday/lambda-perf?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="multiple-cucumber-html-reporter" src="https://gitlibrary.club/images/uploads/2023/05/newshot-multiple-cucumber-html-reporter.jpg" /></td>
-        <td>Miscellaneous</td>
-        <td>JavaScript</td>
-        <td><a href="https://github.com/WasiqB/multiple-cucumber-html-reporter/blob/main/README.md" target="_blank">multiple-cucumber-html-reporter</a></td>
-        <td>Generate beautiful Cucumber HTML reports</td>
-        <th><a href="https://github.com/WasiqB/multiple-cucumber-html-reporter" target="_blank"><img alt="multiple-cucumber-html-reporter" src="https://img.shields.io/github/stars/WasiqB/multiple-cucumber-html-reporter?style=social" /></a></th>
     </tr>
 
 </table>
@@ -4962,6 +4962,14 @@
         <th><a href="https://github.com/Super-Badmen-Viper/MoZhiMusicPlayer" target="_blank"><img alt="MoZhiMusicPlayer" src="https://img.shields.io/github/stars/Super-Badmen-Viper/MoZhiMusicPlayer?style=social" /></a></th>
     </tr>
     <tr>
+        <td nowrap="nowrap"><img width="33" alt="marimo" src="https://gitlibrary.club/images/uploads/2023/10/newshot-marimo.png" /></td>
+        <td>Analytics</td>
+        <td>TypeScript</td>
+        <td><a href="https://marimo.io" target="_blank">marimo</a></td>
+        <td>A next-generation Python notebook: explore data, build tools, deploy apps!</td>
+        <th><a href="https://github.com/marimo-team/marimo" target="_blank"><img alt="marimo" src="https://img.shields.io/github/stars/marimo-team/marimo?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="count-action-users" src="https://gitlibrary.club/images/uploads/2023/08/newshot-count-action-users.jpg" /></td>
         <td>Analytics</td>
         <td>Python</td>
@@ -5224,14 +5232,6 @@
         <td><a href="http://tods-doc.github.io" target="_blank">tods</a></td>
         <td>TODS: An Automated Time-series Outlier Detection System</td>
         <th><a href="https://github.com/datamllab/tods" target="_blank"><img alt="tods" src="https://img.shields.io/github/stars/datamllab/tods?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="marimo" src="https://gitlibrary.club/images/uploads/2023/10/newshot-marimo.png" /></td>
-        <td>Analytics</td>
-        <td>TypeScript</td>
-        <td><a href="https://marimo.io" target="_blank">marimo</a></td>
-        <td>A next-generation Python notebook: explore data, build tools, deploy apps!</td>
-        <th><a href="https://github.com/marimo-team/marimo" target="_blank"><img alt="marimo" src="https://img.shields.io/github/stars/marimo-team/marimo?style=social" /></a></th>
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="JSONoid" src="https://gitlibrary.club/images/uploads/2023/11/newshot-jsonoid-discovery.png" /></td>
@@ -7975,6 +7975,14 @@
         <th><a href="https://github.com/medplum/medplum" target="_blank"><img alt="Medplum" src="https://img.shields.io/github/stars/medplum/medplum?style=social" /></a></th>
     </tr>
     <tr>
+        <td nowrap="nowrap"><img width="33" alt="marimo" src="https://gitlibrary.club/images/uploads/2023/10/newshot-marimo.png" /></td>
+        <td>Analytics</td>
+        <td>TypeScript</td>
+        <td><a href="https://marimo.io" target="_blank">marimo</a></td>
+        <td>A next-generation Python notebook: explore data, build tools, deploy apps!</td>
+        <th><a href="https://github.com/marimo-team/marimo" target="_blank"><img alt="marimo" src="https://img.shields.io/github/stars/marimo-team/marimo?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="GraphQL Editor" src="https://gitlibrary.club/images/uploads/2023/05/newshot-graphql-editor-1.png" /></td>
         <td>Productivity</td>
         <td>TypeScript</td>
@@ -9101,14 +9109,6 @@
         <td><a href="https://stepci.com" target="_blank">Step CI</a></td>
         <td>Automated API Testing and Quality Assurance</td>
         <th><a href="https://github.com/stepci/stepci" target="_blank"><img alt="Step CI" src="https://img.shields.io/github/stars/stepci/stepci?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="marimo" src="https://gitlibrary.club/images/uploads/2023/10/newshot-marimo.png" /></td>
-        <td>Analytics</td>
-        <td>TypeScript</td>
-        <td><a href="https://marimo.io" target="_blank">marimo</a></td>
-        <td>A next-generation Python notebook: explore data, build tools, deploy apps!</td>
-        <th><a href="https://github.com/marimo-team/marimo" target="_blank"><img alt="marimo" src="https://img.shields.io/github/stars/marimo-team/marimo?style=social" /></a></th>
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="ArtistAssistApp" src="https://gitlibrary.club/images/uploads/2023/11/newshot-artistassistapp.jpg" /></td>
