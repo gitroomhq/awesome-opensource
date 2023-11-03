@@ -170,6 +170,14 @@
         <th><a href="https://github.com/kapt-labs/django-check-seo" target="_blank"><img alt="Django Check SEO" src="https://img.shields.io/github/stars/kapt-labs/django-check-seo?style=social" /></a></th>
     </tr>
     <tr>
+        <td nowrap="nowrap"><img width="33" alt="OpenSign" src="https://gitlibrary.club/images/uploads/2023/11/newshot-OpenSign.png" /></td>
+        <td>Productivity</td>
+        <td>JavaScript</td>
+        <td><a href="https://www.opensignlabs.com" target="_blank">OpenSign</a></td>
+        <td>The free &amp; Open Source Alternative to DocuSign</td>
+        <th><a href="https://github.com/OpenSignLabs/OpenSign" target="_blank"><img alt="OpenSign" src="https://img.shields.io/github/stars/OpenSignLabs/OpenSign?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="leerming" src="https://gitlibrary.club/images/uploads/2023/11/newshot-leerming.png" /></td>
         <td>Productivity</td>
         <td>HTML</td>
@@ -312,14 +320,6 @@
         <td><a href="https://rerousel.netlify.app" target="_blank">Rerousel</a></td>
         <td>Simplest infinite React carousel</td>
         <th><a href="https://github.com/aexol-studio/rerousel-react-carousel" target="_blank"><img alt="Rerousel" src="https://img.shields.io/github/stars/aexol-studio/rerousel-react-carousel?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="React PDF Editor" src="https://gitlibrary.club/images/uploads/2023/10/newshot-react-pdf-editor.png" /></td>
-        <td>Productivity</td>
-        <td>TypeScript</td>
-        <td><a href="https://github.com/aexol-studio/react-pdf-editor" target="_blank">React PDF Editor</a></td>
-        <td>Pdf editor react component</td>
-        <th><a href="https://github.com/aexol-studio/react-pdf-editor" target="_blank"><img alt="React PDF Editor" src="https://img.shields.io/github/stars/aexol-studio/react-pdf-editor?style=social" /></a></th>
     </tr>
 
 </table>
@@ -3410,6 +3410,14 @@
         <td><a href="https://github.com/kapt-labs/django-check-seo" target="_blank">Django Check SEO</a></td>
         <td>Django Check SEO will check the SEO aspects of your site for you, and will provide advice in case of problems. Compatible with Django &amp; Django-CMS!</td>
         <th><a href="https://github.com/kapt-labs/django-check-seo" target="_blank"><img alt="Django Check SEO" src="https://img.shields.io/github/stars/kapt-labs/django-check-seo?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="OpenSign" src="https://gitlibrary.club/images/uploads/2023/11/newshot-OpenSign.png" /></td>
+        <td>Productivity</td>
+        <td>JavaScript</td>
+        <td><a href="https://www.opensignlabs.com" target="_blank">OpenSign</a></td>
+        <td>The free &amp; Open Source Alternative to DocuSign</td>
+        <th><a href="https://github.com/OpenSignLabs/OpenSign" target="_blank"><img alt="OpenSign" src="https://img.shields.io/github/stars/OpenSignLabs/OpenSign?style=social" /></a></th>
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="VS Code Docs" src="https://gitlibrary.club/images/uploads/2023/05/newshot-vscode-docs.png" /></td>
@@ -11739,6 +11747,14 @@
         <td><a href="https://arifszn.github.io/gitprofile" target="_blank">GitProfile</a></td>
         <td>? Create a dynamic portfolio by just providing your GitHub username.</td>
         <th><a href="https://github.com/arifszn/gitprofile" target="_blank"><img alt="GitProfile" src="https://img.shields.io/github/stars/arifszn/gitprofile?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="OpenSign" src="https://gitlibrary.club/images/uploads/2023/11/newshot-OpenSign.png" /></td>
+        <td>Productivity</td>
+        <td>JavaScript</td>
+        <td><a href="https://www.opensignlabs.com" target="_blank">OpenSign</a></td>
+        <td>The free &amp; Open Source Alternative to DocuSign</td>
+        <th><a href="https://github.com/OpenSignLabs/OpenSign" target="_blank"><img alt="OpenSign" src="https://img.shields.io/github/stars/OpenSignLabs/OpenSign?style=social" /></a></th>
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="Soundnode" src="https://gitlibrary.club/images/uploads/2023/05/newshot-soundnode-app.png" /></td>
