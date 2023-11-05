@@ -170,6 +170,14 @@
         <th><a href="https://github.com/JohnSnowLabs/langtest" target="_blank"><img alt="LangTest" src="https://img.shields.io/github/stars/JohnSnowLabs/langtest?style=social" /></a></th>
     </tr>
     <tr>
+        <td nowrap="nowrap"><img width="33" alt="Backend_Brasil" src="https://gitlibrary.club/images/uploads/2023/11/newshot-Backend_Brasil.png" /></td>
+        <td>Miscellaneous</td>
+        <td>undefined</td>
+        <td><a href="https://github.com/DaveSimoes/Backend_Brasil" target="_blank">Backend_Brasil</a></td>
+        <td>This repository aims to be just one more tool to help everyone who wish to become a professional Backend/Este repositório tem como objetivo ser apenas mais uma ferramenta para ajudar a todos os que…</td>
+        <th><a href="https://github.com/DaveSimoes/Backend_Brasil" target="_blank"><img alt="Backend_Brasil" src="https://img.shields.io/github/stars/DaveSimoes/Backend_Brasil?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="Django Check SEO" src="https://gitlibrary.club/images/uploads/2023/11/newshot-django-check-seo.png" /></td>
         <td>Productivity</td>
         <td>Python</td>
@@ -312,14 +320,6 @@
         <td><a href="https://graphqleditor.com/docs/tools/zeus/index/" target="_blank">GraphQL Zeus</a></td>
         <td>GraphQL client and GraphQL code generator with GraphQL autocomplete library generation ⚡⚡⚡ for browser,nodejs and react native ( apollo compatible ) </td>
         <th><a href="https://github.com/graphql-editor/graphql-zeus" target="_blank"><img alt="GraphQL Zeus" src="https://img.shields.io/github/stars/graphql-editor/graphql-zeus?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Stucco" src="https://gitlibrary.club/images/uploads/2023/10/newshot-stucco.png" /></td>
-        <td>Databases</td>
-        <td>Go</td>
-        <td><a href="https://github.com/graphql-editor/stucco" target="_blank">Stucco</a></td>
-        <td>FaaS like GraphQL runtime</td>
-        <th><a href="https://github.com/graphql-editor/stucco" target="_blank"><img alt="Stucco" src="https://img.shields.io/github/stars/graphql-editor/stucco?style=social" /></a></th>
     </tr>
 
 </table>
@@ -2598,6 +2598,14 @@
         <td><a href="https://artistassistapp.com" target="_blank">ArtistAssistApp</a></td>
         <td>ArtistAssistApp - the web app to paint better with ease. Tools for realistic color mixing based on real paints, tonal value drawing, simplified sketching, and more. Perfect for artists of all level…</td>
         <th><a href="https://github.com/eugene-khyst/artistassistapp" target="_blank"><img alt="ArtistAssistApp" src="https://img.shields.io/github/stars/eugene-khyst/artistassistapp?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Backend_Brasil" src="https://gitlibrary.club/images/uploads/2023/11/newshot-Backend_Brasil.png" /></td>
+        <td>Miscellaneous</td>
+        <td>undefined</td>
+        <td><a href="https://github.com/DaveSimoes/Backend_Brasil" target="_blank">Backend_Brasil</a></td>
+        <td>This repository aims to be just one more tool to help everyone who wish to become a professional Backend/Este repositório tem como objetivo ser apenas mais uma ferramenta para ajudar a todos os que…</td>
+        <th><a href="https://github.com/DaveSimoes/Backend_Brasil" target="_blank"><img alt="Backend_Brasil" src="https://img.shields.io/github/stars/DaveSimoes/Backend_Brasil?style=social" /></a></th>
     </tr>
 
 </table>
