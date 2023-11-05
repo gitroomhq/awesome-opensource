@@ -162,6 +162,14 @@
         <th>Stargazers</th>
     </tr>
         <tr>
+        <td nowrap="nowrap"><img width="33" alt="LangTest" src="https://gitlibrary.club/images/uploads/2023/11/newshot-langtest.jpg" /></td>
+        <td>Productivity</td>
+        <td>Python</td>
+        <td><a href="http://langtest.org/" target="_blank">LangTest</a></td>
+        <td>Deliver safe &amp; effective language models</td>
+        <th><a href="https://github.com/JohnSnowLabs/langtest" target="_blank"><img alt="LangTest" src="https://img.shields.io/github/stars/JohnSnowLabs/langtest?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="Django Check SEO" src="https://gitlibrary.club/images/uploads/2023/11/newshot-django-check-seo.png" /></td>
         <td>Productivity</td>
         <td>Python</td>
@@ -312,14 +320,6 @@
         <td><a href="https://github.com/graphql-editor/stucco" target="_blank">Stucco</a></td>
         <td>FaaS like GraphQL runtime</td>
         <th><a href="https://github.com/graphql-editor/stucco" target="_blank"><img alt="Stucco" src="https://img.shields.io/github/stars/graphql-editor/stucco?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Rerousel" src="https://gitlibrary.club/images/uploads/2023/10/newshot-rerousel-react-carousel.png" /></td>
-        <td>Miscellaneous</td>
-        <td>TypeScript</td>
-        <td><a href="https://rerousel.netlify.app" target="_blank">Rerousel</a></td>
-        <td>Simplest infinite React carousel</td>
-        <th><a href="https://github.com/aexol-studio/rerousel-react-carousel" target="_blank"><img alt="Rerousel" src="https://img.shields.io/github/stars/aexol-studio/rerousel-react-carousel?style=social" /></a></th>
     </tr>
 
 </table>
@@ -4898,6 +4898,14 @@
         <td><a href="https://cookiecutter-fastapi.readthedocs.io/en/latest/" target="_blank">cookiecutter-fastapi</a></td>
         <td>Cookiecutter fastapi is a framework for jumpstarting production-ready fastapi projects quickly.</td>
         <th><a href="https://github.com/Tobi-De/cookiecutter-fastapi" target="_blank"><img alt="cookiecutter-fastapi" src="https://img.shields.io/github/stars/Tobi-De/cookiecutter-fastapi?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="LangTest" src="https://gitlibrary.club/images/uploads/2023/11/newshot-langtest.jpg" /></td>
+        <td>Productivity</td>
+        <td>Python</td>
+        <td><a href="http://langtest.org/" target="_blank">LangTest</a></td>
+        <td>Deliver safe &amp; effective language models</td>
+        <th><a href="https://github.com/JohnSnowLabs/langtest" target="_blank"><img alt="LangTest" src="https://img.shields.io/github/stars/JohnSnowLabs/langtest?style=social" /></a></th>
     </tr>
 
 </table>
@@ -11071,6 +11079,14 @@
         <td><a href="https://cookiecutter-fastapi.readthedocs.io/en/latest/" target="_blank">cookiecutter-fastapi</a></td>
         <td>Cookiecutter fastapi is a framework for jumpstarting production-ready fastapi projects quickly.</td>
         <th><a href="https://github.com/Tobi-De/cookiecutter-fastapi" target="_blank"><img alt="cookiecutter-fastapi" src="https://img.shields.io/github/stars/Tobi-De/cookiecutter-fastapi?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="LangTest" src="https://gitlibrary.club/images/uploads/2023/11/newshot-langtest.jpg" /></td>
+        <td>Productivity</td>
+        <td>Python</td>
+        <td><a href="http://langtest.org/" target="_blank">LangTest</a></td>
+        <td>Deliver safe &amp; effective language models</td>
+        <th><a href="https://github.com/JohnSnowLabs/langtest" target="_blank"><img alt="LangTest" src="https://img.shields.io/github/stars/JohnSnowLabs/langtest?style=social" /></a></th>
     </tr>
 
 </table>
