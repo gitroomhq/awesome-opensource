@@ -497,6 +497,14 @@
         <th><a href="https://github.com/Nialixus/env_reader" target="_blank"><img alt="Env Reader" src="https://img.shields.io/github/stars/Nialixus/env_reader?style=social" /></a></th>
     </tr>
     <tr>
+        <td nowrap="nowrap"><img width="33" alt="sidebarx" src="https://gitlibrary.club/images/uploads/2023/05/newshot-sidebarx.jpg" /></td>
+        <td>Infrastructure</td>
+        <td>Dart</td>
+        <td><a href="https://pub.dev/packages/sidebarx" target="_blank">sidebarx</a></td>
+        <td>Flutter multiplatform navigation sidebar / side navigation bar / drawer widget</td>
+        <th><a href="https://github.com/Frezyx/sidebarx" target="_blank"><img alt="sidebarx" src="https://img.shields.io/github/stars/Frezyx/sidebarx?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="user-statistician" src="https://gitlibrary.club/images/uploads/2023/09/newshot-user-statistician.jpg" /></td>
         <td>Analytics</td>
         <td>Python</td>
@@ -527,14 +535,6 @@
         <td><a href="https://appwrite.io" target="_blank">Appwrite</a></td>
         <td>Build Fast. Scale Big. All in One Place.</td>
         <th><a href="https://github.com/appwrite/appwrite" target="_blank"><img alt="Appwrite" src="https://img.shields.io/github/stars/appwrite/appwrite?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="sidebarx" src="https://gitlibrary.club/images/uploads/2023/05/newshot-sidebarx.jpg" /></td>
-        <td>Infrastructure</td>
-        <td>Dart</td>
-        <td><a href="https://pub.dev/packages/sidebarx" target="_blank">sidebarx</a></td>
-        <td>Flutter multiplatform navigation sidebar / side navigation bar / drawer widget</td>
-        <th><a href="https://github.com/Frezyx/sidebarx" target="_blank"><img alt="sidebarx" src="https://img.shields.io/github/stars/Frezyx/sidebarx?style=social" /></a></th>
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="Kubescape" src="https://gitlibrary.club/images/uploads/2023/08/newshot-kubescape.png" /></td>
@@ -6352,20 +6352,20 @@
         <th><a href="https://github.com/cicirello/pyaction" target="_blank"><img alt="pyaction" src="https://img.shields.io/github/stars/cicirello/pyaction?style=social" /></a></th>
     </tr>
     <tr>
-        <td nowrap="nowrap"><img width="33" alt="generate-sitemap" src="https://gitlibrary.club/images/uploads/2023/09/newshot-generate-sitemap.jpg" /></td>
-        <td>Infrastructure</td>
-        <td>Python</td>
-        <td><a href="https://actions.cicirello.org/generate-sitemap/" target="_blank">generate-sitemap</a></td>
-        <td>Generate an XML sitemap for a GitHub Pages site using GitHub Actions</td>
-        <th><a href="https://github.com/cicirello/generate-sitemap" target="_blank"><img alt="generate-sitemap" src="https://img.shields.io/github/stars/cicirello/generate-sitemap?style=social" /></a></th>
-    </tr>
-    <tr>
         <td nowrap="nowrap"><img width="33" alt="sidebarx" src="https://gitlibrary.club/images/uploads/2023/05/newshot-sidebarx.jpg" /></td>
         <td>Infrastructure</td>
         <td>Dart</td>
         <td><a href="https://pub.dev/packages/sidebarx" target="_blank">sidebarx</a></td>
         <td>Flutter multiplatform navigation sidebar / side navigation bar / drawer widget</td>
         <th><a href="https://github.com/Frezyx/sidebarx" target="_blank"><img alt="sidebarx" src="https://img.shields.io/github/stars/Frezyx/sidebarx?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="generate-sitemap" src="https://gitlibrary.club/images/uploads/2023/09/newshot-generate-sitemap.jpg" /></td>
+        <td>Infrastructure</td>
+        <td>Python</td>
+        <td><a href="https://actions.cicirello.org/generate-sitemap/" target="_blank">generate-sitemap</a></td>
+        <td>Generate an XML sitemap for a GitHub Pages site using GitHub Actions</td>
+        <th><a href="https://github.com/cicirello/generate-sitemap" target="_blank"><img alt="generate-sitemap" src="https://img.shields.io/github/stars/cicirello/generate-sitemap?style=social" /></a></th>
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="group_button" src="https://gitlibrary.club/images/uploads/2023/05/newshot-group_button.jpg" /></td>
@@ -10011,20 +10011,20 @@
         <th><a href="https://github.com/Nialixus/env_reader" target="_blank"><img alt="Env Reader" src="https://img.shields.io/github/stars/Nialixus/env_reader?style=social" /></a></th>
     </tr>
     <tr>
-        <td nowrap="nowrap"><img width="33" alt="Flutter Gallery" src="https://gitlibrary.club/images/uploads/2023/05/newshot-gallery.png" /></td>
-        <td>Productivity</td>
-        <td>Dart</td>
-        <td><a href="https://gallery.flutter.dev" target="_blank">Flutter Gallery</a></td>
-        <td>Flutter Gallery is a resource to help developers evaluate and use Flutter</td>
-        <th><a href="https://github.com/flutter/gallery" target="_blank"><img alt="Flutter Gallery" src="https://img.shields.io/github/stars/flutter/gallery?style=social" /></a></th>
-    </tr>
-    <tr>
         <td nowrap="nowrap"><img width="33" alt="sidebarx" src="https://gitlibrary.club/images/uploads/2023/05/newshot-sidebarx.jpg" /></td>
         <td>Infrastructure</td>
         <td>Dart</td>
         <td><a href="https://pub.dev/packages/sidebarx" target="_blank">sidebarx</a></td>
         <td>Flutter multiplatform navigation sidebar / side navigation bar / drawer widget</td>
         <th><a href="https://github.com/Frezyx/sidebarx" target="_blank"><img alt="sidebarx" src="https://img.shields.io/github/stars/Frezyx/sidebarx?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Flutter Gallery" src="https://gitlibrary.club/images/uploads/2023/05/newshot-gallery.png" /></td>
+        <td>Productivity</td>
+        <td>Dart</td>
+        <td><a href="https://gallery.flutter.dev" target="_blank">Flutter Gallery</a></td>
+        <td>Flutter Gallery is a resource to help developers evaluate and use Flutter</td>
+        <th><a href="https://github.com/flutter/gallery" target="_blank"><img alt="Flutter Gallery" src="https://img.shields.io/github/stars/flutter/gallery?style=social" /></a></th>
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="group_button" src="https://gitlibrary.club/images/uploads/2023/05/newshot-group_button.jpg" /></td>
