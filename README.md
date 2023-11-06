@@ -162,6 +162,30 @@
         <th>Stargazers</th>
     </tr>
         <tr>
+        <td nowrap="nowrap"><img width="33" alt="VChart" src="https://gitlibrary.club/images/uploads/2023/11/newshot-VChart.png" /></td>
+        <td>Analytics</td>
+        <td>TypeScript</td>
+        <td><a href="https://www.visactor.io/vchart" target="_blank">VChart</a></td>
+        <td>VChart, more than just a cross-platform charting library, but also an expressive data storyteller.</td>
+        <th><a href="https://github.com/VisActor/VChart" target="_blank"><img alt="VChart" src="https://img.shields.io/github/stars/VisActor/VChart?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="VTable" src="https://gitlibrary.club/images/uploads/2023/11/newshot-VTable.png" /></td>
+        <td>Analytics</td>
+        <td>TypeScript</td>
+        <td><a href="https://github.com/VisActor/VTable" target="_blank">VTable</a></td>
+        <td>VTable is not just a high-performance multidimensional data analysis table, but also a grid artist that creates art between rows and columns.</td>
+        <th><a href="https://github.com/VisActor/VTable" target="_blank"><img alt="VTable" src="https://img.shields.io/github/stars/VisActor/VTable?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="VGrammar" src="https://gitlibrary.club/images/uploads/2023/11/newshot-VGrammar-1.png" /></td>
+        <td>Analytics</td>
+        <td>TypeScript</td>
+        <td><a href="https://github.com/VisActor/VGrammar" target="_blank">VGrammar</a></td>
+        <td>VGrammar is a kind of grammar of data visualization</td>
+        <th><a href="https://github.com/VisActor/VGrammar" target="_blank"><img alt="VGrammar" src="https://img.shields.io/github/stars/VisActor/VGrammar?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="LangTest" src="https://gitlibrary.club/images/uploads/2023/11/newshot-langtest.jpg" /></td>
         <td>Productivity</td>
         <td>Python</td>
@@ -296,30 +320,6 @@
         <td><a href="https://marketplace.visualstudio.com/items?itemName=unchase.unchaseOpenAPIConnectedService" target="_blank">Unchase OpenAPI (Swagger) Connected Service</a></td>
         <td>? Visual Studio extension to generate OpenAPI (Swagger) web service reference.</td>
         <th><a href="https://github.com/unchase/Unchase.OpenAPI.Connectedservice" target="_blank"><img alt="Unchase OpenAPI (Swagger) Connected Service" src="https://img.shields.io/github/stars/unchase/Unchase.OpenAPI.Connectedservice?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Unchase Swashbuckle Asp.Net Core Extensions" src="https://gitlibrary.club/images/uploads/2023/10/newshot-Unchase.Swashbuckle.AspNetCore.Extensions.jpg" /></td>
-        <td>Infrastructure</td>
-        <td>C#</td>
-        <td><a href="https://www.nuget.org/packages/Unchase.Swashbuckle.AspNetCore.Extensions" target="_blank">Unchase Swashbuckle Asp.Net Core Extensions</a></td>
-        <td>? A library contains a bunch of extensions (filters) for Swashbuckle.AspNetCore.</td>
-        <th><a href="https://github.com/unchase/Unchase.Swashbuckle.AspNetCore.Extensions" target="_blank"><img alt="Unchase Swashbuckle Asp.Net Core Extensions" src="https://img.shields.io/github/stars/unchase/Unchase.Swashbuckle.AspNetCore.Extensions?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Unchase OData Connected Service" src="https://gitlibrary.club/images/uploads/2023/10/newshot-Unchase.Odata_.Connectedservice.jpg" /></td>
-        <td>Infrastructure</td>
-        <td>C#</td>
-        <td><a href="https://github.com/unchase/Unchase.Odata.Connectedservice" target="_blank">Unchase OData Connected Service</a></td>
-        <td>? A Visual Studio extension for connecting to OData services with generating client-side C# proxy-classes</td>
-        <th><a href="https://github.com/unchase/Unchase.Odata.Connectedservice" target="_blank"><img alt="Unchase OData Connected Service" src="https://img.shields.io/github/stars/unchase/Unchase.Odata.Connectedservice?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="GraphQL Zeus" src="https://gitlibrary.club/images/uploads/2023/10/newshot-graphql-zeus.png" /></td>
-        <td>Infrastructure</td>
-        <td>TypeScript</td>
-        <td><a href="https://graphqleditor.com/docs/tools/zeus/index/" target="_blank">GraphQL Zeus</a></td>
-        <td>GraphQL client and GraphQL code generator with GraphQL autocomplete library generation ⚡⚡⚡ for browser,nodejs and react native ( apollo compatible ) </td>
-        <th><a href="https://github.com/graphql-editor/graphql-zeus" target="_blank"><img alt="GraphQL Zeus" src="https://img.shields.io/github/stars/graphql-editor/graphql-zeus?style=social" /></a></th>
     </tr>
 
 </table>
@@ -5010,6 +5010,14 @@
         <th><a href="https://github.com/runprism/prism" target="_blank"><img alt="Prism" src="https://img.shields.io/github/stars/runprism/prism?style=social" /></a></th>
     </tr>
     <tr>
+        <td nowrap="nowrap"><img width="33" alt="VChart" src="https://gitlibrary.club/images/uploads/2023/11/newshot-VChart.png" /></td>
+        <td>Analytics</td>
+        <td>TypeScript</td>
+        <td><a href="https://www.visactor.io/vchart" target="_blank">VChart</a></td>
+        <td>VChart, more than just a cross-platform charting library, but also an expressive data storyteller.</td>
+        <th><a href="https://github.com/VisActor/VChart" target="_blank"><img alt="VChart" src="https://img.shields.io/github/stars/VisActor/VChart?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="OneFlow" src="https://gitlibrary.club/images/uploads/2023/05/newshot-oneflow.png" /></td>
         <td>Analytics</td>
         <td>C++</td>
@@ -5256,6 +5264,22 @@
         <td><a href="https://dataunitylab.github.io/jsonoid-discovery/" target="_blank">JSONoid</a></td>
         <td>Distributed JSON schema discovery</td>
         <th><a href="https://github.com/dataunitylab/jsonoid-discovery" target="_blank"><img alt="JSONoid" src="https://img.shields.io/github/stars/dataunitylab/jsonoid-discovery?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="VTable" src="https://gitlibrary.club/images/uploads/2023/11/newshot-VTable.png" /></td>
+        <td>Analytics</td>
+        <td>TypeScript</td>
+        <td><a href="https://github.com/VisActor/VTable" target="_blank">VTable</a></td>
+        <td>VTable is not just a high-performance multidimensional data analysis table, but also a grid artist that creates art between rows and columns.</td>
+        <th><a href="https://github.com/VisActor/VTable" target="_blank"><img alt="VTable" src="https://img.shields.io/github/stars/VisActor/VTable?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="VGrammar" src="https://gitlibrary.club/images/uploads/2023/11/newshot-VGrammar-1.png" /></td>
+        <td>Analytics</td>
+        <td>TypeScript</td>
+        <td><a href="https://github.com/VisActor/VGrammar" target="_blank">VGrammar</a></td>
+        <td>VGrammar is a kind of grammar of data visualization</td>
+        <th><a href="https://github.com/VisActor/VGrammar" target="_blank"><img alt="VGrammar" src="https://img.shields.io/github/stars/VisActor/VGrammar?style=social" /></a></th>
     </tr>
 
 </table>
@@ -8183,6 +8207,14 @@
         <th><a href="https://github.com/revertinc/revert" target="_blank"><img alt="Revert" src="https://img.shields.io/github/stars/revertinc/revert?style=social" /></a></th>
     </tr>
     <tr>
+        <td nowrap="nowrap"><img width="33" alt="VChart" src="https://gitlibrary.club/images/uploads/2023/11/newshot-VChart.png" /></td>
+        <td>Analytics</td>
+        <td>TypeScript</td>
+        <td><a href="https://www.visactor.io/vchart" target="_blank">VChart</a></td>
+        <td>VChart, more than just a cross-platform charting library, but also an expressive data storyteller.</td>
+        <th><a href="https://github.com/VisActor/VChart" target="_blank"><img alt="VChart" src="https://img.shields.io/github/stars/VisActor/VChart?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="The Lounge" src="https://gitlibrary.club/images/uploads/2023/05/newshot-thelounge.png" /></td>
         <td>Collaboration</td>
         <td>TypeScript</td>
@@ -9133,6 +9165,22 @@
         <td><a href="https://artistassistapp.com" target="_blank">ArtistAssistApp</a></td>
         <td>ArtistAssistApp - the web app to paint better with ease. Tools for realistic color mixing based on real paints, tonal value drawing, simplified sketching, and more. Perfect for artists of all level…</td>
         <th><a href="https://github.com/eugene-khyst/artistassistapp" target="_blank"><img alt="ArtistAssistApp" src="https://img.shields.io/github/stars/eugene-khyst/artistassistapp?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="VTable" src="https://gitlibrary.club/images/uploads/2023/11/newshot-VTable.png" /></td>
+        <td>Analytics</td>
+        <td>TypeScript</td>
+        <td><a href="https://github.com/VisActor/VTable" target="_blank">VTable</a></td>
+        <td>VTable is not just a high-performance multidimensional data analysis table, but also a grid artist that creates art between rows and columns.</td>
+        <th><a href="https://github.com/VisActor/VTable" target="_blank"><img alt="VTable" src="https://img.shields.io/github/stars/VisActor/VTable?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="VGrammar" src="https://gitlibrary.club/images/uploads/2023/11/newshot-VGrammar-1.png" /></td>
+        <td>Analytics</td>
+        <td>TypeScript</td>
+        <td><a href="https://github.com/VisActor/VGrammar" target="_blank">VGrammar</a></td>
+        <td>VGrammar is a kind of grammar of data visualization</td>
+        <th><a href="https://github.com/VisActor/VGrammar" target="_blank"><img alt="VGrammar" src="https://img.shields.io/github/stars/VisActor/VGrammar?style=social" /></a></th>
     </tr>
 
 </table>
