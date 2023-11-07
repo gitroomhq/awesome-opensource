@@ -218,6 +218,14 @@
         <th><a href="https://github.com/OpenSignLabs/OpenSign" target="_blank"><img alt="OpenSign" src="https://img.shields.io/github/stars/OpenSignLabs/OpenSign?style=social" /></a></th>
     </tr>
     <tr>
+        <td nowrap="nowrap"><img width="33" alt="ArtistAssistApp" src="https://gitlibrary.club/images/uploads/2023/11/newshot-artistassistapp.jpg" /></td>
+        <td>Miscellaneous</td>
+        <td>TypeScript</td>
+        <td><a href="https://artistassistapp.com" target="_blank">ArtistAssistApp</a></td>
+        <td>ArtistAssistApp - the web app to paint better with ease. Tools for realistic color mixing based on real paints, tonal value drawing, simplified sketching, and more. Perfect for artists of all level…</td>
+        <th><a href="https://github.com/eugene-khyst/artistassistapp" target="_blank"><img alt="ArtistAssistApp" src="https://img.shields.io/github/stars/eugene-khyst/artistassistapp?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="leerming" src="https://gitlibrary.club/images/uploads/2023/11/newshot-leerming.png" /></td>
         <td>Productivity</td>
         <td>HTML</td>
@@ -256,14 +264,6 @@
         <td><a href="https://cookiecutter-fastapi.readthedocs.io/en/latest/" target="_blank">cookiecutter-fastapi</a></td>
         <td>Cookiecutter fastapi is a framework for jumpstarting production-ready fastapi projects quickly.</td>
         <th><a href="https://github.com/Tobi-De/cookiecutter-fastapi" target="_blank"><img alt="cookiecutter-fastapi" src="https://img.shields.io/github/stars/Tobi-De/cookiecutter-fastapi?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="ArtistAssistApp" src="https://gitlibrary.club/images/uploads/2023/11/newshot-artistassistapp.jpg" /></td>
-        <td>Miscellaneous</td>
-        <td>TypeScript</td>
-        <td><a href="https://artistassistapp.com" target="_blank">ArtistAssistApp</a></td>
-        <td>ArtistAssistApp - the web app to paint better with ease. Tools for realistic color mixing based on real paints, tonal value drawing, simplified sketching, and more. Perfect for artists of all level…</td>
-        <th><a href="https://github.com/eugene-khyst/artistassistapp" target="_blank"><img alt="ArtistAssistApp" src="https://img.shields.io/github/stars/eugene-khyst/artistassistapp?style=social" /></a></th>
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="JSONoid" src="https://gitlibrary.club/images/uploads/2023/11/newshot-jsonoid-discovery.png" /></td>
@@ -1512,6 +1512,14 @@
         <th><a href="https://github.com/arifszn/gitprofile" target="_blank"><img alt="GitProfile" src="https://img.shields.io/github/stars/arifszn/gitprofile?style=social" /></a></th>
     </tr>
     <tr>
+        <td nowrap="nowrap"><img width="33" alt="ArtistAssistApp" src="https://gitlibrary.club/images/uploads/2023/11/newshot-artistassistapp.jpg" /></td>
+        <td>Miscellaneous</td>
+        <td>TypeScript</td>
+        <td><a href="https://artistassistapp.com" target="_blank">ArtistAssistApp</a></td>
+        <td>ArtistAssistApp - the web app to paint better with ease. Tools for realistic color mixing based on real paints, tonal value drawing, simplified sketching, and more. Perfect for artists of all level…</td>
+        <th><a href="https://github.com/eugene-khyst/artistassistapp" target="_blank"><img alt="ArtistAssistApp" src="https://img.shields.io/github/stars/eugene-khyst/artistassistapp?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="Cemu Emulator" src="https://gitlibrary.club/images/uploads/2023/05/newshot-Cemu.png" /></td>
         <td>Miscellaneous</td>
         <td>C++</td>
@@ -2590,14 +2598,6 @@
         <td><a href="https://tobi-de.github.io/dj-shop-cart/" target="_blank">dj-shop-cart</a></td>
         <td>A simple and flexible cart manager for your django projects.</td>
         <th><a href="https://github.com/Tobi-De/dj-shop-cart" target="_blank"><img alt="dj-shop-cart" src="https://img.shields.io/github/stars/Tobi-De/dj-shop-cart?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="ArtistAssistApp" src="https://gitlibrary.club/images/uploads/2023/11/newshot-artistassistapp.jpg" /></td>
-        <td>Miscellaneous</td>
-        <td>TypeScript</td>
-        <td><a href="https://artistassistapp.com" target="_blank">ArtistAssistApp</a></td>
-        <td>ArtistAssistApp - the web app to paint better with ease. Tools for realistic color mixing based on real paints, tonal value drawing, simplified sketching, and more. Perfect for artists of all level…</td>
-        <th><a href="https://github.com/eugene-khyst/artistassistapp" target="_blank"><img alt="ArtistAssistApp" src="https://img.shields.io/github/stars/eugene-khyst/artistassistapp?style=social" /></a></th>
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="Backend_Brasil" src="https://gitlibrary.club/images/uploads/2023/11/newshot-Backend_Brasil.png" /></td>
@@ -8207,6 +8207,14 @@
         <th><a href="https://github.com/revertinc/revert" target="_blank"><img alt="Revert" src="https://img.shields.io/github/stars/revertinc/revert?style=social" /></a></th>
     </tr>
     <tr>
+        <td nowrap="nowrap"><img width="33" alt="ArtistAssistApp" src="https://gitlibrary.club/images/uploads/2023/11/newshot-artistassistapp.jpg" /></td>
+        <td>Miscellaneous</td>
+        <td>TypeScript</td>
+        <td><a href="https://artistassistapp.com" target="_blank">ArtistAssistApp</a></td>
+        <td>ArtistAssistApp - the web app to paint better with ease. Tools for realistic color mixing based on real paints, tonal value drawing, simplified sketching, and more. Perfect for artists of all level…</td>
+        <th><a href="https://github.com/eugene-khyst/artistassistapp" target="_blank"><img alt="ArtistAssistApp" src="https://img.shields.io/github/stars/eugene-khyst/artistassistapp?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="VChart" src="https://gitlibrary.club/images/uploads/2023/11/newshot-VChart.png" /></td>
         <td>Analytics</td>
         <td>TypeScript</td>
@@ -9157,14 +9165,6 @@
         <td><a href="https://stepci.com" target="_blank">Step CI</a></td>
         <td>Automated API Testing and Quality Assurance</td>
         <th><a href="https://github.com/stepci/stepci" target="_blank"><img alt="Step CI" src="https://img.shields.io/github/stars/stepci/stepci?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="ArtistAssistApp" src="https://gitlibrary.club/images/uploads/2023/11/newshot-artistassistapp.jpg" /></td>
-        <td>Miscellaneous</td>
-        <td>TypeScript</td>
-        <td><a href="https://artistassistapp.com" target="_blank">ArtistAssistApp</a></td>
-        <td>ArtistAssistApp - the web app to paint better with ease. Tools for realistic color mixing based on real paints, tonal value drawing, simplified sketching, and more. Perfect for artists of all level…</td>
-        <th><a href="https://github.com/eugene-khyst/artistassistapp" target="_blank"><img alt="ArtistAssistApp" src="https://img.shields.io/github/stars/eugene-khyst/artistassistapp?style=social" /></a></th>
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="VTable" src="https://gitlibrary.club/images/uploads/2023/11/newshot-VTable.png" /></td>
