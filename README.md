@@ -86,13 +86,13 @@
              </li>          <li>
                 <a href="#tsql">Top 20 TSQL libraries</a>
              </li>          <li>
+                <a href="#jupyter-notebook">Top 20 Jupyter Notebook libraries</a>
+             </li>          <li>
                 <a href="#clojure">Top 20 Clojure libraries</a>
              </li>          <li>
                 <a href="#scala">Top 20 Scala libraries</a>
              </li>          <li>
                 <a href="#batchfile">Top 20 Batchfile libraries</a>
-             </li>          <li>
-                <a href="#jupyter-notebook">Top 20 Jupyter Notebook libraries</a>
              </li>          <li>
                 <a href="#pascal">Top 20 Pascal libraries</a>
              </li>          <li>
@@ -3188,6 +3188,14 @@
         <th><a href="https://github.com/Payroll-Engine/PayrollEngine" target="_blank"><img alt="Payroll Engine" src="https://img.shields.io/github/stars/Payroll-Engine/PayrollEngine?style=social" /></a></th>
     </tr>
     <tr>
+        <td nowrap="nowrap"><img width="33" alt="OneClickRun" src="https://gitlibrary.club/images/uploads/2023/08/newshot-OneClickRun.png" /></td>
+        <td>Productivity</td>
+        <td>Jupyter Notebook</td>
+        <td><a href="https://colab.research.google.com/github/biplobsd/OneClickRun/blob/master/OneClickRun.ipynb" target="_blank">OneClickRun</a></td>
+        <td>Another colab notebook!</td>
+        <th><a href="https://github.com/biplobsd/OneClickRun" target="_blank"><img alt="OneClickRun" src="https://img.shields.io/github/stars/biplobsd/OneClickRun?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="Epoch Readable" src="https://gitlibrary.club/images/uploads/2023/08/newshot-epochconverter.png" /></td>
         <td>Productivity</td>
         <td>Dart</td>
@@ -3354,14 +3362,6 @@
         <td><a href="https://github.com/ronaldohoch/what-script-run" target="_blank">What Script Run</a></td>
         <td>Small helper to choose which npm script run.</td>
         <th><a href="https://github.com/ronaldohoch/what-script-run" target="_blank"><img alt="What Script Run" src="https://img.shields.io/github/stars/ronaldohoch/what-script-run?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="OneClickRun" src="https://gitlibrary.club/images/uploads/2023/08/newshot-OneClickRun.png" /></td>
-        <td>Productivity</td>
-        <td>Jupyter Notebook</td>
-        <td><a href="https://colab.research.google.com/github/biplobsd/OneClickRun/blob/master/OneClickRun.ipynb" target="_blank">OneClickRun</a></td>
-        <td>Another colab notebook!</td>
-        <th><a href="https://github.com/biplobsd/OneClickRun" target="_blank"><img alt="OneClickRun" src="https://img.shields.io/github/stars/biplobsd/OneClickRun?style=social" /></a></th>
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="Neon - JSON Serialization Library for Delphi" src="https://gitlibrary.club/images/uploads/2023/08/newshot-delphi-neon.jpg" /></td>
@@ -13732,6 +13732,52 @@
 </table>
 
 <br /><br />
+<h2 id="jupyter-notebook">Top 20 Jupyter Notebook libraries</h2>
+<table>
+    <tr>
+        <th>Icon</th>
+        <th>Category</th>
+        <th>Language</th>
+        <th>Name</th>
+        <th>Description</th>
+        <th>Stargazers</th>
+    </tr>
+        <tr>
+        <td nowrap="nowrap"><img width="33" alt="OneClickRun" src="https://gitlibrary.club/images/uploads/2023/08/newshot-OneClickRun.png" /></td>
+        <td>Productivity</td>
+        <td>Jupyter Notebook</td>
+        <td><a href="https://colab.research.google.com/github/biplobsd/OneClickRun/blob/master/OneClickRun.ipynb" target="_blank">OneClickRun</a></td>
+        <td>Another colab notebook!</td>
+        <th><a href="https://github.com/biplobsd/OneClickRun" target="_blank"><img alt="OneClickRun" src="https://img.shields.io/github/stars/biplobsd/OneClickRun?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Adversarial ASR" src="https://gitlibrary.club/images/uploads/2023/05/newshot-ASRAdversarialAttacks.jpg" /></td>
+        <td>Security</td>
+        <td>Jupyter Notebook</td>
+        <td><a href="https://github.com/hammaad2002/ASRAdversarialAttacks" target="_blank">Adversarial ASR</a></td>
+        <td>An ASR (Automatic Speech Recognition) adversarial attack repository.</td>
+        <th><a href="https://github.com/hammaad2002/ASRAdversarialAttacks" target="_blank"><img alt="Adversarial ASR" src="https://img.shields.io/github/stars/hammaad2002/ASRAdversarialAttacks?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Multi Cloud Transfer Tool" src="https://gitlibrary.club/images/uploads/2023/06/newshot-Multi-Cloud-Transfer-Tool.jpg" /></td>
+        <td>Productivity</td>
+        <td>Jupyter Notebook</td>
+        <td><a href="https://thecaduceus.eu.org/Multi-Cloud-Transfer-Tool" target="_blank">Multi Cloud Transfer Tool</a></td>
+        <td>The most advanced yet simple Jupyter Notebook to transfer/manage your data from/to any cloud remotely based on Rclone and other engines.<g-emoji class="g-emoji" alias="zap" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/26a1.png">⚡</g-emoji></td>
+        <th><a href="https://github.com/TheCaduceus/Multi-Cloud-Transfer-Tool" target="_blank"><img alt="Multi Cloud Transfer Tool" src="https://img.shields.io/github/stars/TheCaduceus/Multi-Cloud-Transfer-Tool?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="OpenStreetData" src="https://gitlibrary.club/images/uploads/2023/09/newshot-open-street-data.jpg" /></td>
+        <td>Miscellaneous</td>
+        <td>Jupyter Notebook</td>
+        <td><a href="https://openstreetdata.org" target="_blank">OpenStreetData</a></td>
+        <td>Country data extracts from OpenStreetMaps in GeoJson or PBF. Datasets of streets, houses, addresses and more.</td>
+        <th><a href="https://github.com/dagnelies/open-street-data" target="_blank"><img alt="OpenStreetData" src="https://img.shields.io/github/stars/dagnelies/open-street-data?style=social" /></a></th>
+    </tr>
+
+</table>
+
+<br /><br />
 <h2 id="clojure">Top 20 Clojure libraries</h2>
 <table>
     <tr>
@@ -13849,52 +13895,6 @@
         <td><a href="https://massgrave.dev" target="_blank">Microsoft-Activation-Scripts</a></td>
         <td>A Windows and Office activator using HWID / KMS38 / Online KMS activation methods, with a focus on open-source code and fewer antivirus detections.</td>
         <th><a href="https://github.com/massgravel/Microsoft-Activation-Scripts" target="_blank"><img alt="Microsoft-Activation-Scripts" src="https://img.shields.io/github/stars/massgravel/Microsoft-Activation-Scripts?style=social" /></a></th>
-    </tr>
-
-</table>
-
-<br /><br />
-<h2 id="jupyter-notebook">Top 20 Jupyter Notebook libraries</h2>
-<table>
-    <tr>
-        <th>Icon</th>
-        <th>Category</th>
-        <th>Language</th>
-        <th>Name</th>
-        <th>Description</th>
-        <th>Stargazers</th>
-    </tr>
-        <tr>
-        <td nowrap="nowrap"><img width="33" alt="OneClickRun" src="https://gitlibrary.club/images/uploads/2023/08/newshot-OneClickRun.png" /></td>
-        <td>Productivity</td>
-        <td>Jupyter Notebook</td>
-        <td><a href="https://colab.research.google.com/github/biplobsd/OneClickRun/blob/master/OneClickRun.ipynb" target="_blank">OneClickRun</a></td>
-        <td>Another colab notebook!</td>
-        <th><a href="https://github.com/biplobsd/OneClickRun" target="_blank"><img alt="OneClickRun" src="https://img.shields.io/github/stars/biplobsd/OneClickRun?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Adversarial ASR" src="https://gitlibrary.club/images/uploads/2023/05/newshot-ASRAdversarialAttacks.jpg" /></td>
-        <td>Security</td>
-        <td>Jupyter Notebook</td>
-        <td><a href="https://github.com/hammaad2002/ASRAdversarialAttacks" target="_blank">Adversarial ASR</a></td>
-        <td>An ASR (Automatic Speech Recognition) adversarial attack repository.</td>
-        <th><a href="https://github.com/hammaad2002/ASRAdversarialAttacks" target="_blank"><img alt="Adversarial ASR" src="https://img.shields.io/github/stars/hammaad2002/ASRAdversarialAttacks?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Multi Cloud Transfer Tool" src="https://gitlibrary.club/images/uploads/2023/06/newshot-Multi-Cloud-Transfer-Tool.jpg" /></td>
-        <td>Productivity</td>
-        <td>Jupyter Notebook</td>
-        <td><a href="https://thecaduceus.eu.org/Multi-Cloud-Transfer-Tool" target="_blank">Multi Cloud Transfer Tool</a></td>
-        <td>The most advanced yet simple Jupyter Notebook to transfer/manage your data from/to any cloud remotely based on Rclone and other engines.<g-emoji class="g-emoji" alias="zap" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/26a1.png">⚡</g-emoji></td>
-        <th><a href="https://github.com/TheCaduceus/Multi-Cloud-Transfer-Tool" target="_blank"><img alt="Multi Cloud Transfer Tool" src="https://img.shields.io/github/stars/TheCaduceus/Multi-Cloud-Transfer-Tool?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="OpenStreetData" src="https://gitlibrary.club/images/uploads/2023/09/newshot-open-street-data.jpg" /></td>
-        <td>Miscellaneous</td>
-        <td>Jupyter Notebook</td>
-        <td><a href="https://openstreetdata.org" target="_blank">OpenStreetData</a></td>
-        <td>Country data extracts from OpenStreetMaps in GeoJson or PBF. Datasets of streets, houses, addresses and more.</td>
-        <th><a href="https://github.com/dagnelies/open-street-data" target="_blank"><img alt="OpenStreetData" src="https://img.shields.io/github/stars/dagnelies/open-street-data?style=social" /></a></th>
     </tr>
 
 </table>
