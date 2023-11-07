@@ -633,6 +633,14 @@
         <th><a href="https://github.com/BirjuVachhani/pluto" target="_blank"><img alt="Pluto" src="https://img.shields.io/github/stars/BirjuVachhani/pluto?style=social" /></a></th>
     </tr>
     <tr>
+        <td nowrap="nowrap"><img width="33" alt="Snapify" src="https://gitlibrary.club/images/uploads/2023/07/newshot-snapify.png" /></td>
+        <td>Collaboration</td>
+        <td>TypeScript</td>
+        <td><a href="https://snapify.it" target="_blank">Snapify</a></td>
+        <td>Screen recording sharing for absolutely everyone.</td>
+        <th><a href="https://github.com/MarconLP/snapify" target="_blank"><img alt="Snapify" src="https://img.shields.io/github/stars/MarconLP/snapify?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="API Bloc" src="https://gitlibrary.club/images/uploads/2023/09/newshot-api_bloc.png" /></td>
         <td>Infrastructure</td>
         <td>Dart</td>
@@ -1127,14 +1135,6 @@
         <td><a href="https://docusaurus.io" target="_blank">Docusaurus</a></td>
         <td>Easy to maintain open source documentation websites.</td>
         <th><a href="https://github.com/facebook/docusaurus" target="_blank"><img alt="Docusaurus" src="https://img.shields.io/github/stars/facebook/docusaurus?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="lambda-perf" src="https://gitlibrary.club/images/uploads/2023/05/newshot-lambda-perf-17.jpg" /></td>
-        <td>Observability</td>
-        <td>JavaScript</td>
-        <td><a href="https://maxday.github.io/lambda-perf" target="_blank">lambda-perf</a></td>
-        <td>Lambda Cold Starts analysis, updated daily</td>
-        <th><a href="https://github.com/maxday/lambda-perf" target="_blank"><img alt="lambda-perf" src="https://img.shields.io/github/stars/maxday/lambda-perf?style=social" /></a></th>
     </tr>
 
 </table>
@@ -5758,6 +5758,14 @@
         <th><a href="https://github.com/tolgee/tolgee-platform" target="_blank"><img alt="Tolgee" src="https://img.shields.io/github/stars/tolgee/tolgee-platform?style=social" /></a></th>
     </tr>
     <tr>
+        <td nowrap="nowrap"><img width="33" alt="Snapify" src="https://gitlibrary.club/images/uploads/2023/07/newshot-snapify.png" /></td>
+        <td>Collaboration</td>
+        <td>TypeScript</td>
+        <td><a href="https://snapify.it" target="_blank">Snapify</a></td>
+        <td>Screen recording sharing for absolutely everyone.</td>
+        <th><a href="https://github.com/MarconLP/snapify" target="_blank"><img alt="Snapify" src="https://img.shields.io/github/stars/MarconLP/snapify?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="Unity" src="https://gitlibrary.club/images/uploads/2023/05/newshot-open-project-1-2.png" /></td>
         <td>Collaboration</td>
         <td>C#</td>
@@ -5788,14 +5796,6 @@
         <td><a href="https://firecamp.dev" target="_blank">Firecamp</a></td>
         <td>The multi-protocol API Platform</td>
         <th><a href="https://github.com/FirecampDev/Firecamp" target="_blank"><img alt="Firecamp" src="https://img.shields.io/github/stars/FirecampDev/Firecamp?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Snapify" src="https://gitlibrary.club/images/uploads/2023/07/newshot-snapify.png" /></td>
-        <td>Collaboration</td>
-        <td>TypeScript</td>
-        <td><a href="https://snapify.it" target="_blank">Snapify</a></td>
-        <td>Screen recording sharing for absolutely everyone.</td>
-        <th><a href="https://github.com/MarconLP/snapify" target="_blank"><img alt="Snapify" src="https://img.shields.io/github/stars/MarconLP/snapify?style=social" /></a></th>
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="Haly AI" src="https://gitlibrary.club/images/uploads/2023/09/newshot-slack-bot.png" /></td>
@@ -7895,6 +7895,14 @@
         <th><a href="https://github.com/agency-kit/notion-cms" target="_blank"><img alt="NotionCMS" src="https://img.shields.io/github/stars/agency-kit/notion-cms?style=social" /></a></th>
     </tr>
     <tr>
+        <td nowrap="nowrap"><img width="33" alt="Snapify" src="https://gitlibrary.club/images/uploads/2023/07/newshot-snapify.png" /></td>
+        <td>Collaboration</td>
+        <td>TypeScript</td>
+        <td><a href="https://snapify.it" target="_blank">Snapify</a></td>
+        <td>Screen recording sharing for absolutely everyone.</td>
+        <th><a href="https://github.com/MarconLP/snapify" target="_blank"><img alt="Snapify" src="https://img.shields.io/github/stars/MarconLP/snapify?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="Bitwarden" src="https://gitlibrary.club/images/uploads/2023/05/newshot-clients-1.png" /></td>
         <td>Security</td>
         <td>TypeScript</td>
@@ -8157,14 +8165,6 @@
         <td><a href="https://firecamp.dev" target="_blank">Firecamp</a></td>
         <td>The multi-protocol API Platform</td>
         <th><a href="https://github.com/FirecampDev/Firecamp" target="_blank"><img alt="Firecamp" src="https://img.shields.io/github/stars/FirecampDev/Firecamp?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Snapify" src="https://gitlibrary.club/images/uploads/2023/07/newshot-snapify.png" /></td>
-        <td>Collaboration</td>
-        <td>TypeScript</td>
-        <td><a href="https://snapify.it" target="_blank">Snapify</a></td>
-        <td>Screen recording sharing for absolutely everyone.</td>
-        <th><a href="https://github.com/MarconLP/snapify" target="_blank"><img alt="Snapify" src="https://img.shields.io/github/stars/MarconLP/snapify?style=social" /></a></th>
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="OpenDataV" src="https://gitlibrary.club/images/uploads/2023/08/newshot-openDataV.jpg" /></td>
