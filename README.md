@@ -497,6 +497,14 @@
         <th><a href="https://github.com/Nialixus/env_reader" target="_blank"><img alt="Env Reader" src="https://img.shields.io/github/stars/Nialixus/env_reader?style=social" /></a></th>
     </tr>
     <tr>
+        <td nowrap="nowrap"><img width="33" alt="Appwrite" src="https://gitlibrary.club/images/uploads/2023/05/newshot-appwrite.png" /></td>
+        <td>Databases</td>
+        <td>TypeScript</td>
+        <td><a href="https://appwrite.io" target="_blank">Appwrite</a></td>
+        <td>Build Fast. Scale Big. All in One Place.</td>
+        <th><a href="https://github.com/appwrite/appwrite" target="_blank"><img alt="Appwrite" src="https://img.shields.io/github/stars/appwrite/appwrite?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="sidebarx" src="https://gitlibrary.club/images/uploads/2023/05/newshot-sidebarx.jpg" /></td>
         <td>Infrastructure</td>
         <td>Dart</td>
@@ -527,14 +535,6 @@
         <td><a href="https://gallery.flutter.dev" target="_blank">Flutter Gallery</a></td>
         <td>Flutter Gallery is a resource to help developers evaluate and use Flutter</td>
         <th><a href="https://github.com/flutter/gallery" target="_blank"><img alt="Flutter Gallery" src="https://img.shields.io/github/stars/flutter/gallery?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Appwrite" src="https://gitlibrary.club/images/uploads/2023/05/newshot-appwrite.png" /></td>
-        <td>Databases</td>
-        <td>TypeScript</td>
-        <td><a href="https://appwrite.io" target="_blank">Appwrite</a></td>
-        <td>Build Fast. Scale Big. All in One Place.</td>
-        <th><a href="https://github.com/appwrite/appwrite" target="_blank"><img alt="Appwrite" src="https://img.shields.io/github/stars/appwrite/appwrite?style=social" /></a></th>
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="Kubescape" src="https://gitlibrary.club/images/uploads/2023/08/newshot-kubescape.png" /></td>
