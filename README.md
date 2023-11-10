@@ -162,6 +162,14 @@
         <th>Stargazers</th>
     </tr>
         <tr>
+        <td nowrap="nowrap"><img width="33" alt="SuperDuperDB" src="https://gitlibrary.club/images/uploads/2023/11/newshot-superduperdb.png" /></td>
+        <td>Databases</td>
+        <td>Python</td>
+        <td><a href="https://superduperdb.com" target="_blank">SuperDuperDB</a></td>
+        <td>? SuperDuperDB: Bring AI to your favourite database! Integrate, train and manage any AI models and APIs directly with your database and your data. </td>
+        <th><a href="https://github.com/SuperDuperDB/superduperdb" target="_blank"><img alt="SuperDuperDB" src="https://img.shields.io/github/stars/SuperDuperDB/superduperdb?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="VChart" src="https://gitlibrary.club/images/uploads/2023/11/newshot-VChart.png" /></td>
         <td>Analytics</td>
         <td>TypeScript</td>
@@ -312,14 +320,6 @@
         <td><a href="https://crates.io/crates/snowboard" target="_blank">snowboard</a></td>
         <td>Extremely simple http rust servers ?</td>
         <th><a href="https://github.com/Brian3647/snowboard" target="_blank"><img alt="snowboard" src="https://img.shields.io/github/stars/Brian3647/snowboard?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Unchase OpenAPI (Swagger) Connected Service" src="https://gitlibrary.club/images/uploads/2023/10/newshot-Unchase.OpenAPI.Connectedservice.jpg" /></td>
-        <td>Infrastructure</td>
-        <td>C#</td>
-        <td><a href="https://marketplace.visualstudio.com/items?itemName=unchase.unchaseOpenAPIConnectedService" target="_blank">Unchase OpenAPI (Swagger) Connected Service</a></td>
-        <td>? Visual Studio extension to generate OpenAPI (Swagger) web service reference.</td>
-        <th><a href="https://github.com/unchase/Unchase.OpenAPI.Connectedservice" target="_blank"><img alt="Unchase OpenAPI (Swagger) Connected Service" src="https://img.shields.io/github/stars/unchase/Unchase.OpenAPI.Connectedservice?style=social" /></a></th>
     </tr>
 
 </table>
@@ -6345,6 +6345,14 @@
         <td>An exploration of relational algebra ?</td>
         <th><a href="https://github.com/dataunitylab/relational-playground" target="_blank"><img alt="Relational Playground" src="https://img.shields.io/github/stars/dataunitylab/relational-playground?style=social" /></a></th>
     </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="SuperDuperDB" src="https://gitlibrary.club/images/uploads/2023/11/newshot-superduperdb.png" /></td>
+        <td>Databases</td>
+        <td>Python</td>
+        <td><a href="https://superduperdb.com" target="_blank">SuperDuperDB</a></td>
+        <td>? SuperDuperDB: Bring AI to your favourite database! Integrate, train and manage any AI models and APIs directly with your database and your data. </td>
+        <th><a href="https://github.com/SuperDuperDB/superduperdb" target="_blank"><img alt="SuperDuperDB" src="https://img.shields.io/github/stars/SuperDuperDB/superduperdb?style=social" /></a></th>
+    </tr>
 
 </table>
 
@@ -11143,6 +11151,14 @@
         <td><a href="http://langtest.org/" target="_blank">LangTest</a></td>
         <td>Deliver safe &amp; effective language models</td>
         <th><a href="https://github.com/JohnSnowLabs/langtest" target="_blank"><img alt="LangTest" src="https://img.shields.io/github/stars/JohnSnowLabs/langtest?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="SuperDuperDB" src="https://gitlibrary.club/images/uploads/2023/11/newshot-superduperdb.png" /></td>
+        <td>Databases</td>
+        <td>Python</td>
+        <td><a href="https://superduperdb.com" target="_blank">SuperDuperDB</a></td>
+        <td>? SuperDuperDB: Bring AI to your favourite database! Integrate, train and manage any AI models and APIs directly with your database and your data. </td>
+        <th><a href="https://github.com/SuperDuperDB/superduperdb" target="_blank"><img alt="SuperDuperDB" src="https://img.shields.io/github/stars/SuperDuperDB/superduperdb?style=social" /></a></th>
     </tr>
 
 </table>
