@@ -162,6 +162,14 @@
         <th>Stargazers</th>
     </tr>
         <tr>
+        <td nowrap="nowrap"><img width="33" alt="Flipt" src="https://gitlibrary.club/images/uploads/2023/11/newshot-flipt.png" /></td>
+        <td>Miscellaneous</td>
+        <td>Go</td>
+        <td><a href="https://flipt.io" target="_blank">Flipt</a></td>
+        <td>An open source, self-hosted feature flag solution</td>
+        <th><a href="https://github.com/flipt-io/flipt" target="_blank"><img alt="Flipt" src="https://img.shields.io/github/stars/flipt-io/flipt?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="SuperDuperDB" src="https://gitlibrary.club/images/uploads/2023/11/newshot-superduperdb.png" /></td>
         <td>Databases</td>
         <td>Python</td>
@@ -313,14 +321,6 @@
         <td>A next-generation Python notebook: explore data, build tools, deploy apps!</td>
         <th><a href="https://github.com/marimo-team/marimo" target="_blank"><img alt="marimo" src="https://img.shields.io/github/stars/marimo-team/marimo?style=social" /></a></th>
     </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="snowboard" src="https://gitlibrary.club/images/uploads/2023/10/newshot-snowboard.png" /></td>
-        <td>Miscellaneous</td>
-        <td>Rust</td>
-        <td><a href="https://crates.io/crates/snowboard" target="_blank">snowboard</a></td>
-        <td>Extremely simple http rust servers ?</td>
-        <th><a href="https://github.com/Brian3647/snowboard" target="_blank"><img alt="snowboard" src="https://img.shields.io/github/stars/Brian3647/snowboard?style=social" /></a></th>
-    </tr>
 
 </table>
 
@@ -433,14 +433,6 @@
         <th><a href="https://github.com/cicirello/pyaction" target="_blank"><img alt="pyaction" src="https://img.shields.io/github/stars/cicirello/pyaction?style=social" /></a></th>
     </tr>
     <tr>
-        <td nowrap="nowrap"><img width="33" alt="dyrector.io" src="https://gitlibrary.club/images/uploads/2023/07/newshot-dyrectorio.jpg" /></td>
-        <td>Productivity</td>
-        <td>TypeScript</td>
-        <td><a href="https://dyrectorio.com" target="_blank">dyrector.io</a></td>
-        <td>dyrector.io is a self-hosted container management and delivery platform.</td>
-        <th><a href="https://github.com/dyrector-io/dyrectorio" target="_blank"><img alt="dyrector.io" src="https://img.shields.io/github/stars/dyrector-io/dyrectorio?style=social" /></a></th>
-    </tr>
-    <tr>
         <td nowrap="nowrap"><img width="33" alt="JavaPermutationTools" src="https://gitlibrary.club/images/uploads/2023/08/newshot-JavaPermutationTools.jpg" /></td>
         <td>Miscellaneous</td>
         <td>Java</td>
@@ -455,6 +447,22 @@
         <td><a href="https://actions.cicirello.org/jacoco-badge-generator/" target="_blank">jacoco-badge-generator</a></td>
         <td>Coverage badges, and pull request coverage checks, from JaCoCo reports in GitHub Actions</td>
         <th><a href="https://github.com/cicirello/jacoco-badge-generator" target="_blank"><img alt="jacoco-badge-generator" src="https://img.shields.io/github/stars/cicirello/jacoco-badge-generator?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="dyrector.io" src="https://gitlibrary.club/images/uploads/2023/07/newshot-dyrectorio.jpg" /></td>
+        <td>Productivity</td>
+        <td>TypeScript</td>
+        <td><a href="https://dyrectorio.com" target="_blank">dyrector.io</a></td>
+        <td>dyrector.io is a self-hosted container management and delivery platform.</td>
+        <th><a href="https://github.com/dyrector-io/dyrectorio" target="_blank"><img alt="dyrector.io" src="https://img.shields.io/github/stars/dyrector-io/dyrectorio?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="ρμ" src="https://gitlibrary.club/images/uploads/2023/08/newshot-rho-mu.jpg" /></td>
+        <td>Miscellaneous</td>
+        <td>Java</td>
+        <td><a href="https://rho-mu.cicirello.org" target="_blank">ρμ</a></td>
+        <td>ρμ - a Java library of Randomization enHancements and Other Math Utilities</td>
+        <th><a href="https://github.com/cicirello/rho-mu" target="_blank"><img alt="ρμ" src="https://img.shields.io/github/stars/cicirello/rho-mu?style=social" /></a></th>
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="Github 20k" src="https://gitlibrary.club/images/uploads/2023/05/newshot-super-star-1.png" /></td>
@@ -481,20 +489,28 @@
         <th><a href="https://github.com/AmosHuKe/flutter_tilt" target="_blank"><img alt="flutter_tilt" src="https://img.shields.io/github/stars/AmosHuKe/flutter_tilt?style=social" /></a></th>
     </tr>
     <tr>
-        <td nowrap="nowrap"><img width="33" alt="ρμ" src="https://gitlibrary.club/images/uploads/2023/08/newshot-rho-mu.jpg" /></td>
-        <td>Miscellaneous</td>
-        <td>Java</td>
-        <td><a href="https://rho-mu.cicirello.org" target="_blank">ρμ</a></td>
-        <td>ρμ - a Java library of Randomization enHancements and Other Math Utilities</td>
-        <th><a href="https://github.com/cicirello/rho-mu" target="_blank"><img alt="ρμ" src="https://img.shields.io/github/stars/cicirello/rho-mu?style=social" /></a></th>
-    </tr>
-    <tr>
         <td nowrap="nowrap"><img width="33" alt="Env Reader" src="https://gitlibrary.club/images/uploads/2023/08/newshot-env_reader.png" /></td>
         <td>Productivity</td>
         <td>Dart</td>
         <td><a href="https://github.com/Nialixus/env_reader" target="_blank">Env Reader</a></td>
         <td>Enhance the rock-solid integrity of your .env configuration by seamlessly encrypting and decrypting data sourced from a dynamic range of origins—be it assets, files, strings, memory, or networks—sp…</td>
         <th><a href="https://github.com/Nialixus/env_reader" target="_blank"><img alt="Env Reader" src="https://img.shields.io/github/stars/Nialixus/env_reader?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="user-statistician" src="https://gitlibrary.club/images/uploads/2023/09/newshot-user-statistician.jpg" /></td>
+        <td>Analytics</td>
+        <td>Python</td>
+        <td><a href="https://actions.cicirello.org/user-statistician/" target="_blank">user-statistician</a></td>
+        <td>Generate a GitHub stats SVG for your GitHub Profile README in GitHub Actions</td>
+        <th><a href="https://github.com/cicirello/user-statistician" target="_blank"><img alt="user-statistician" src="https://img.shields.io/github/stars/cicirello/user-statistician?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="generate-sitemap" src="https://gitlibrary.club/images/uploads/2023/09/newshot-generate-sitemap.jpg" /></td>
+        <td>Infrastructure</td>
+        <td>Python</td>
+        <td><a href="https://actions.cicirello.org/generate-sitemap/" target="_blank">generate-sitemap</a></td>
+        <td>Generate an XML sitemap for a GitHub Pages site using GitHub Actions</td>
+        <th><a href="https://github.com/cicirello/generate-sitemap" target="_blank"><img alt="generate-sitemap" src="https://img.shields.io/github/stars/cicirello/generate-sitemap?style=social" /></a></th>
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="Appwrite" src="https://gitlibrary.club/images/uploads/2023/05/newshot-appwrite.png" /></td>
@@ -513,20 +529,12 @@
         <th><a href="https://github.com/Frezyx/sidebarx" target="_blank"><img alt="sidebarx" src="https://img.shields.io/github/stars/Frezyx/sidebarx?style=social" /></a></th>
     </tr>
     <tr>
-        <td nowrap="nowrap"><img width="33" alt="user-statistician" src="https://gitlibrary.club/images/uploads/2023/09/newshot-user-statistician.jpg" /></td>
-        <td>Analytics</td>
+        <td nowrap="nowrap"><img width="33" alt="javadoc-cleanup" src="https://gitlibrary.club/images/uploads/2023/09/newshot-javadoc-cleanup.jpg" /></td>
+        <td>Miscellaneous</td>
         <td>Python</td>
-        <td><a href="https://actions.cicirello.org/user-statistician/" target="_blank">user-statistician</a></td>
-        <td>Generate a GitHub stats SVG for your GitHub Profile README in GitHub Actions</td>
-        <th><a href="https://github.com/cicirello/user-statistician" target="_blank"><img alt="user-statistician" src="https://img.shields.io/github/stars/cicirello/user-statistician?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="generate-sitemap" src="https://gitlibrary.club/images/uploads/2023/09/newshot-generate-sitemap.jpg" /></td>
-        <td>Infrastructure</td>
-        <td>Python</td>
-        <td><a href="https://actions.cicirello.org/generate-sitemap/" target="_blank">generate-sitemap</a></td>
-        <td>Generate an XML sitemap for a GitHub Pages site using GitHub Actions</td>
-        <th><a href="https://github.com/cicirello/generate-sitemap" target="_blank"><img alt="generate-sitemap" src="https://img.shields.io/github/stars/cicirello/generate-sitemap?style=social" /></a></th>
+        <td><a href="https://actions.cicirello.org/javadoc-cleanup/" target="_blank">javadoc-cleanup</a></td>
+        <td>Create mobile-friendly documentation sites by post-processing javadocs in GitHub Actions</td>
+        <th><a href="https://github.com/cicirello/javadoc-cleanup" target="_blank"><img alt="javadoc-cleanup" src="https://img.shields.io/github/stars/cicirello/javadoc-cleanup?style=social" /></a></th>
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="Flutter Gallery" src="https://gitlibrary.club/images/uploads/2023/05/newshot-gallery.png" /></td>
@@ -551,14 +559,6 @@
         <td><a href="https://www.agencykit.so/notion-cms/guide/" target="_blank">NotionCMS</a></td>
         <td>Add super powers to Notion by making it your full-fledged headless CMS.</td>
         <th><a href="https://github.com/agency-kit/notion-cms" target="_blank"><img alt="NotionCMS" src="https://img.shields.io/github/stars/agency-kit/notion-cms?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="javadoc-cleanup" src="https://gitlibrary.club/images/uploads/2023/09/newshot-javadoc-cleanup.jpg" /></td>
-        <td>Miscellaneous</td>
-        <td>Python</td>
-        <td><a href="https://actions.cicirello.org/javadoc-cleanup/" target="_blank">javadoc-cleanup</a></td>
-        <td>Create mobile-friendly documentation sites by post-processing javadocs in GitHub Actions</td>
-        <th><a href="https://github.com/cicirello/javadoc-cleanup" target="_blank"><img alt="javadoc-cleanup" src="https://img.shields.io/github/stars/cicirello/javadoc-cleanup?style=social" /></a></th>
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="group_button" src="https://gitlibrary.club/images/uploads/2023/05/newshot-group_button.jpg" /></td>
@@ -673,6 +673,14 @@
         <th><a href="https://github.com/configu/configu" target="_blank"><img alt="Configu" src="https://img.shields.io/github/stars/configu/configu?style=social" /></a></th>
     </tr>
     <tr>
+        <td nowrap="nowrap"><img width="33" alt="core" src="https://gitlibrary.club/images/uploads/2023/09/newshot-core.jpg" /></td>
+        <td>Miscellaneous</td>
+        <td>Java</td>
+        <td><a href="https://core.cicirello.org" target="_blank">core</a></td>
+        <td>Utilities and data structures used by several of my projects</td>
+        <th><a href="https://github.com/cicirello/core" target="_blank"><img alt="core" src="https://img.shields.io/github/stars/cicirello/core?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="File Saver Z" src="https://gitlibrary.club/images/uploads/2023/09/newshot-filesaverz.png" /></td>
         <td>Productivity</td>
         <td>Dart</td>
@@ -743,14 +751,6 @@
         <td><a href="https://brapi.dev" target="_blank">brapi</a></td>
         <td>A poderosa API open source para dados financeiros do mercado de ações, conversão de moedas e inflação brasileira</td>
         <th><a href="https://github.com/Alissonsleal/brapi" target="_blank"><img alt="brapi" src="https://img.shields.io/github/stars/Alissonsleal/brapi?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="core" src="https://gitlibrary.club/images/uploads/2023/09/newshot-core.jpg" /></td>
-        <td>Miscellaneous</td>
-        <td>Java</td>
-        <td><a href="https://core.cicirello.org" target="_blank">core</a></td>
-        <td>Utilities and data structures used by several of my projects</td>
-        <th><a href="https://github.com/cicirello/core" target="_blank"><img alt="core" src="https://img.shields.io/github/stars/cicirello/core?style=social" /></a></th>
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="gnu-on-alpine" src="https://gitlibrary.club/images/uploads/2023/09/newshot-gnu-on-alpine.jpg" /></td>
@@ -1176,20 +1176,20 @@
         <th><a href="https://github.com/cicirello/JavaPermutationTools" target="_blank"><img alt="JavaPermutationTools" src="https://img.shields.io/github/stars/cicirello/JavaPermutationTools?style=social" /></a></th>
     </tr>
     <tr>
-        <td nowrap="nowrap"><img width="33" alt="Twenty CRM" src="https://gitlibrary.club/images/uploads/2023/07/newshot-twenty.png" /></td>
-        <td>Miscellaneous</td>
-        <td>TypeScript</td>
-        <td><a href="https://twenty.com" target="_blank">Twenty CRM</a></td>
-        <td>Building a modern alternative to Salesforce. <g-emoji class="g-emoji" alias="star2" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f31f.png">?</g-emoji> You can star to support our work!</td>
-        <th><a href="https://github.com/twentyhq/twenty" target="_blank"><img alt="Twenty CRM" src="https://img.shields.io/github/stars/twentyhq/twenty?style=social" /></a></th>
-    </tr>
-    <tr>
         <td nowrap="nowrap"><img width="33" alt="ρμ" src="https://gitlibrary.club/images/uploads/2023/08/newshot-rho-mu.jpg" /></td>
         <td>Miscellaneous</td>
         <td>Java</td>
         <td><a href="https://rho-mu.cicirello.org" target="_blank">ρμ</a></td>
         <td>ρμ - a Java library of Randomization enHancements and Other Math Utilities</td>
         <th><a href="https://github.com/cicirello/rho-mu" target="_blank"><img alt="ρμ" src="https://img.shields.io/github/stars/cicirello/rho-mu?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Twenty CRM" src="https://gitlibrary.club/images/uploads/2023/07/newshot-twenty.png" /></td>
+        <td>Miscellaneous</td>
+        <td>TypeScript</td>
+        <td><a href="https://twenty.com" target="_blank">Twenty CRM</a></td>
+        <td>Building a modern alternative to Salesforce. <g-emoji class="g-emoji" alias="star2" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f31f.png">?</g-emoji> You can star to support our work!</td>
+        <th><a href="https://github.com/twentyhq/twenty" target="_blank"><img alt="Twenty CRM" src="https://img.shields.io/github/stars/twentyhq/twenty?style=social" /></a></th>
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="javadoc-cleanup" src="https://gitlibrary.club/images/uploads/2023/09/newshot-javadoc-cleanup.jpg" /></td>
@@ -1216,20 +1216,20 @@
         <th><a href="https://github.com/BirjuVachhani/pluto" target="_blank"><img alt="Pluto" src="https://img.shields.io/github/stars/BirjuVachhani/pluto?style=social" /></a></th>
     </tr>
     <tr>
-        <td nowrap="nowrap"><img width="33" alt="brapi" src="https://gitlibrary.club/images/uploads/2023/07/newshot-brapi.jpg" /></td>
-        <td>Miscellaneous</td>
-        <td>TypeScript</td>
-        <td><a href="https://brapi.dev" target="_blank">brapi</a></td>
-        <td>A poderosa API open source para dados financeiros do mercado de ações, conversão de moedas e inflação brasileira</td>
-        <th><a href="https://github.com/Alissonsleal/brapi" target="_blank"><img alt="brapi" src="https://img.shields.io/github/stars/Alissonsleal/brapi?style=social" /></a></th>
-    </tr>
-    <tr>
         <td nowrap="nowrap"><img width="33" alt="core" src="https://gitlibrary.club/images/uploads/2023/09/newshot-core.jpg" /></td>
         <td>Miscellaneous</td>
         <td>Java</td>
         <td><a href="https://core.cicirello.org" target="_blank">core</a></td>
         <td>Utilities and data structures used by several of my projects</td>
         <th><a href="https://github.com/cicirello/core" target="_blank"><img alt="core" src="https://img.shields.io/github/stars/cicirello/core?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="brapi" src="https://gitlibrary.club/images/uploads/2023/07/newshot-brapi.jpg" /></td>
+        <td>Miscellaneous</td>
+        <td>TypeScript</td>
+        <td><a href="https://brapi.dev" target="_blank">brapi</a></td>
+        <td>A poderosa API open source para dados financeiros do mercado de ações, conversão de moedas e inflação brasileira</td>
+        <th><a href="https://github.com/Alissonsleal/brapi" target="_blank"><img alt="brapi" src="https://img.shields.io/github/stars/Alissonsleal/brapi?style=social" /></a></th>
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="awesome window manager" src="https://gitlibrary.club/images/uploads/2023/05/newshot-awesome.png" /></td>
@@ -2606,6 +2606,14 @@
         <td><a href="https://github.com/DaveSimoes/Backend_Brasil" target="_blank">Backend_Brasil</a></td>
         <td>This repository aims to be just one more tool to help everyone who wish to become a professional Backend/Este repositório tem como objetivo ser apenas mais uma ferramenta para ajudar a todos os que…</td>
         <th><a href="https://github.com/DaveSimoes/Backend_Brasil" target="_blank"><img alt="Backend_Brasil" src="https://img.shields.io/github/stars/DaveSimoes/Backend_Brasil?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Flipt" src="https://gitlibrary.club/images/uploads/2023/11/newshot-flipt.png" /></td>
+        <td>Miscellaneous</td>
+        <td>Go</td>
+        <td><a href="https://flipt.io" target="_blank">Flipt</a></td>
+        <td>An open source, self-hosted feature flag solution</td>
+        <th><a href="https://github.com/flipt-io/flipt" target="_blank"><img alt="Flipt" src="https://img.shields.io/github/stars/flipt-io/flipt?style=social" /></a></th>
     </tr>
 
 </table>
@@ -6384,20 +6392,20 @@
         <th><a href="https://github.com/cicirello/pyaction" target="_blank"><img alt="pyaction" src="https://img.shields.io/github/stars/cicirello/pyaction?style=social" /></a></th>
     </tr>
     <tr>
-        <td nowrap="nowrap"><img width="33" alt="sidebarx" src="https://gitlibrary.club/images/uploads/2023/05/newshot-sidebarx.jpg" /></td>
-        <td>Infrastructure</td>
-        <td>Dart</td>
-        <td><a href="https://pub.dev/packages/sidebarx" target="_blank">sidebarx</a></td>
-        <td>Flutter multiplatform navigation sidebar / side navigation bar / drawer widget</td>
-        <th><a href="https://github.com/Frezyx/sidebarx" target="_blank"><img alt="sidebarx" src="https://img.shields.io/github/stars/Frezyx/sidebarx?style=social" /></a></th>
-    </tr>
-    <tr>
         <td nowrap="nowrap"><img width="33" alt="generate-sitemap" src="https://gitlibrary.club/images/uploads/2023/09/newshot-generate-sitemap.jpg" /></td>
         <td>Infrastructure</td>
         <td>Python</td>
         <td><a href="https://actions.cicirello.org/generate-sitemap/" target="_blank">generate-sitemap</a></td>
         <td>Generate an XML sitemap for a GitHub Pages site using GitHub Actions</td>
         <th><a href="https://github.com/cicirello/generate-sitemap" target="_blank"><img alt="generate-sitemap" src="https://img.shields.io/github/stars/cicirello/generate-sitemap?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="sidebarx" src="https://gitlibrary.club/images/uploads/2023/05/newshot-sidebarx.jpg" /></td>
+        <td>Infrastructure</td>
+        <td>Dart</td>
+        <td><a href="https://pub.dev/packages/sidebarx" target="_blank">sidebarx</a></td>
+        <td>Flutter multiplatform navigation sidebar / side navigation bar / drawer widget</td>
+        <th><a href="https://github.com/Frezyx/sidebarx" target="_blank"><img alt="sidebarx" src="https://img.shields.io/github/stars/Frezyx/sidebarx?style=social" /></a></th>
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="group_button" src="https://gitlibrary.club/images/uploads/2023/05/newshot-group_button.jpg" /></td>
@@ -11677,6 +11685,14 @@
         <td><a href="https://github.com/graphql-editor/gql" target="_blank">GQL</a></td>
         <td>Very simple CLI for many GraphQL schemas in the cloud. Provides autocompletion for GraphQL queries</td>
         <th><a href="https://github.com/graphql-editor/gql" target="_blank"><img alt="GQL" src="https://img.shields.io/github/stars/graphql-editor/gql?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Flipt" src="https://gitlibrary.club/images/uploads/2023/11/newshot-flipt.png" /></td>
+        <td>Miscellaneous</td>
+        <td>Go</td>
+        <td><a href="https://flipt.io" target="_blank">Flipt</a></td>
+        <td>An open source, self-hosted feature flag solution</td>
+        <th><a href="https://github.com/flipt-io/flipt" target="_blank"><img alt="Flipt" src="https://img.shields.io/github/stars/flipt-io/flipt?style=social" /></a></th>
     </tr>
 
 </table>
