@@ -162,6 +162,14 @@
         <th>Stargazers</th>
     </tr>
         <tr>
+        <td nowrap="nowrap"><img width="33" alt="Digger" src="https://gitlibrary.club/images/uploads/2023/11/newshot-digger.png" /></td>
+        <td>Infrastructure</td>
+        <td>Go</td>
+        <td><a href="https://digger.dev" target="_blank">Digger</a></td>
+        <td>Digger is an open source IaC orchestration tool. Digger allows you to run IaC in your existing CI pipeline ⚡️ </td>
+        <th><a href="https://github.com/diggerhq/digger" target="_blank"><img alt="Digger" src="https://img.shields.io/github/stars/diggerhq/digger?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="Flipt" src="https://gitlibrary.club/images/uploads/2023/11/newshot-flipt.png" /></td>
         <td>Miscellaneous</td>
         <td>Go</td>
@@ -312,14 +320,6 @@
         <td><a href="https://github.com/flow-php/flow" target="_blank">Flow PHP</a></td>
         <td>Flow PHP - strongly typed data processing framework</td>
         <th><a href="https://github.com/flow-php/flow" target="_blank"><img alt="Flow PHP" src="https://img.shields.io/github/stars/flow-php/flow?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="marimo" src="https://gitlibrary.club/images/uploads/2023/10/newshot-marimo.png" /></td>
-        <td>Analytics</td>
-        <td>TypeScript</td>
-        <td><a href="https://marimo.io" target="_blank">marimo</a></td>
-        <td>A next-generation Python notebook: explore data, build tools, deploy apps!</td>
-        <th><a href="https://github.com/marimo-team/marimo" target="_blank"><img alt="marimo" src="https://img.shields.io/github/stars/marimo-team/marimo?style=social" /></a></th>
     </tr>
 
 </table>
@@ -7831,6 +7831,14 @@
         <td>An SSE Relay Service: Perfect for Adding Real-Time Features to Your Django Project Without Introducing ASGI or Async Code.</td>
         <th><a href="https://github.com/Tobi-De/sse_relay_server" target="_blank"><img alt="sse_relay_server" src="https://img.shields.io/github/stars/Tobi-De/sse_relay_server?style=social" /></a></th>
     </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Digger" src="https://gitlibrary.club/images/uploads/2023/11/newshot-digger.png" /></td>
+        <td>Infrastructure</td>
+        <td>Go</td>
+        <td><a href="https://digger.dev" target="_blank">Digger</a></td>
+        <td>Digger is an open source IaC orchestration tool. Digger allows you to run IaC in your existing CI pipeline ⚡️ </td>
+        <th><a href="https://github.com/diggerhq/digger" target="_blank"><img alt="Digger" src="https://img.shields.io/github/stars/diggerhq/digger?style=social" /></a></th>
+    </tr>
 
 </table>
 
@@ -11693,6 +11701,14 @@
         <td><a href="https://flipt.io" target="_blank">Flipt</a></td>
         <td>An open source, self-hosted feature flag solution</td>
         <th><a href="https://github.com/flipt-io/flipt" target="_blank"><img alt="Flipt" src="https://img.shields.io/github/stars/flipt-io/flipt?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Digger" src="https://gitlibrary.club/images/uploads/2023/11/newshot-digger.png" /></td>
+        <td>Infrastructure</td>
+        <td>Go</td>
+        <td><a href="https://digger.dev" target="_blank">Digger</a></td>
+        <td>Digger is an open source IaC orchestration tool. Digger allows you to run IaC in your existing CI pipeline ⚡️ </td>
+        <th><a href="https://github.com/diggerhq/digger" target="_blank"><img alt="Digger" src="https://img.shields.io/github/stars/diggerhq/digger?style=social" /></a></th>
     </tr>
 
 </table>
