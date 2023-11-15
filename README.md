@@ -162,6 +162,22 @@
         <th>Stargazers</th>
     </tr>
         <tr>
+        <td nowrap="nowrap"><img width="33" alt="Diceware" src="https://gitlibrary.club/images/uploads/2023/11/newshot-diceware.png" /></td>
+        <td>Security</td>
+        <td>JavaScript</td>
+        <td><a href="https://diceware.dmuth.org/" target="_blank">Diceware</a></td>
+        <td>Generate secure passwords you can actually remember!</td>
+        <th><a href="https://github.com/dmuth/diceware" target="_blank"><img alt="Diceware" src="https://img.shields.io/github/stars/dmuth/diceware?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="FastAPI Httpbin" src="https://gitlibrary.club/images/uploads/2023/11/newshot-fastapi-httpbin.png" /></td>
+        <td>Miscellaneous</td>
+        <td>Python</td>
+        <td><a href="https://httpbin.dmuth.org/" target="_blank">FastAPI Httpbin</a></td>
+        <td>HTTP Endpoints for easy testing of your app.</td>
+        <th><a href="https://github.com/dmuth/fastapi-httpbin" target="_blank"><img alt="FastAPI Httpbin" src="https://img.shields.io/github/stars/dmuth/fastapi-httpbin?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="Digger" src="https://gitlibrary.club/images/uploads/2023/11/newshot-digger.png" /></td>
         <td>Infrastructure</td>
         <td>Go</td>
@@ -304,22 +320,6 @@
         <td><a href="https://relationalplayground.com/" target="_blank">Relational Playground</a></td>
         <td>An exploration of relational algebra ?</td>
         <th><a href="https://github.com/dataunitylab/relational-playground" target="_blank"><img alt="Relational Playground" src="https://img.shields.io/github/stars/dataunitylab/relational-playground?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Reflex" src="https://gitlibrary.club/images/uploads/2023/10/newshot-reflex.png" /></td>
-        <td>Infrastructure</td>
-        <td>Python</td>
-        <td><a href="https://reflex.dev" target="_blank">Reflex</a></td>
-        <td>? Web apps in pure Python ?</td>
-        <th><a href="https://github.com/reflex-dev/reflex" target="_blank"><img alt="Reflex" src="https://img.shields.io/github/stars/reflex-dev/reflex?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Flow PHP" src="https://gitlibrary.club/images/uploads/2023/10/newshot-flow.png" /></td>
-        <td>Productivity</td>
-        <td>PHP</td>
-        <td><a href="https://github.com/flow-php/flow" target="_blank">Flow PHP</a></td>
-        <td>Flow PHP - strongly typed data processing framework</td>
-        <th><a href="https://github.com/flow-php/flow" target="_blank"><img alt="Flow PHP" src="https://img.shields.io/github/stars/flow-php/flow?style=social" /></a></th>
     </tr>
 
 </table>
@@ -2614,6 +2614,14 @@
         <td><a href="https://flipt.io" target="_blank">Flipt</a></td>
         <td>An open source, self-hosted feature flag solution</td>
         <th><a href="https://github.com/flipt-io/flipt" target="_blank"><img alt="Flipt" src="https://img.shields.io/github/stars/flipt-io/flipt?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="FastAPI Httpbin" src="https://gitlibrary.club/images/uploads/2023/11/newshot-fastapi-httpbin.png" /></td>
+        <td>Miscellaneous</td>
+        <td>Python</td>
+        <td><a href="https://httpbin.dmuth.org/" target="_blank">FastAPI Httpbin</a></td>
+        <td>HTTP Endpoints for easy testing of your app.</td>
+        <th><a href="https://github.com/dmuth/fastapi-httpbin" target="_blank"><img alt="FastAPI Httpbin" src="https://img.shields.io/github/stars/dmuth/fastapi-httpbin?style=social" /></a></th>
     </tr>
 
 </table>
@@ -5422,6 +5430,14 @@
         <td><a href="https://github.com/TonyPhipps/Meerkat" target="_blank">Meerkat</a></td>
         <td>A collection of PowerShell modules designed for artifact gathering and reconnaisance of Windows-based endpoints.</td>
         <th><a href="https://github.com/TonyPhipps/Meerkat" target="_blank"><img alt="Meerkat" src="https://img.shields.io/github/stars/TonyPhipps/Meerkat?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Diceware" src="https://gitlibrary.club/images/uploads/2023/11/newshot-diceware.png" /></td>
+        <td>Security</td>
+        <td>JavaScript</td>
+        <td><a href="https://diceware.dmuth.org/" target="_blank">Diceware</a></td>
+        <td>Generate secure passwords you can actually remember!</td>
+        <th><a href="https://github.com/dmuth/diceware" target="_blank"><img alt="Diceware" src="https://img.shields.io/github/stars/dmuth/diceware?style=social" /></a></th>
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="PrivateBin" src="https://gitlibrary.club/images/uploads/2023/05/newshot-PrivateBin.png" /></td>
@@ -11176,6 +11192,14 @@
         <td>? SuperDuperDB: Bring AI to your favourite database! Integrate, train and manage any AI models and APIs directly with your database and your data. </td>
         <th><a href="https://github.com/SuperDuperDB/superduperdb" target="_blank"><img alt="SuperDuperDB" src="https://img.shields.io/github/stars/SuperDuperDB/superduperdb?style=social" /></a></th>
     </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="FastAPI Httpbin" src="https://gitlibrary.club/images/uploads/2023/11/newshot-fastapi-httpbin.png" /></td>
+        <td>Miscellaneous</td>
+        <td>Python</td>
+        <td><a href="https://httpbin.dmuth.org/" target="_blank">FastAPI Httpbin</a></td>
+        <td>HTTP Endpoints for easy testing of your app.</td>
+        <th><a href="https://github.com/dmuth/fastapi-httpbin" target="_blank"><img alt="FastAPI Httpbin" src="https://img.shields.io/github/stars/dmuth/fastapi-httpbin?style=social" /></a></th>
+    </tr>
 
 </table>
 
@@ -11875,6 +11899,14 @@
         <td><a href="https://www.opensignlabs.com" target="_blank">OpenSign</a></td>
         <td>The free &amp; Open Source Alternative to DocuSign</td>
         <th><a href="https://github.com/OpenSignLabs/OpenSign" target="_blank"><img alt="OpenSign" src="https://img.shields.io/github/stars/OpenSignLabs/OpenSign?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Diceware" src="https://gitlibrary.club/images/uploads/2023/11/newshot-diceware.png" /></td>
+        <td>Security</td>
+        <td>JavaScript</td>
+        <td><a href="https://diceware.dmuth.org/" target="_blank">Diceware</a></td>
+        <td>Generate secure passwords you can actually remember!</td>
+        <th><a href="https://github.com/dmuth/diceware" target="_blank"><img alt="Diceware" src="https://img.shields.io/github/stars/dmuth/diceware?style=social" /></a></th>
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="Soundnode" src="https://gitlibrary.club/images/uploads/2023/05/newshot-soundnode-app.png" /></td>
