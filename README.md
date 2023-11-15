@@ -178,6 +178,14 @@
         <th><a href="https://github.com/dmuth/fastapi-httpbin" target="_blank"><img alt="FastAPI Httpbin" src="https://img.shields.io/github/stars/dmuth/fastapi-httpbin?style=social" /></a></th>
     </tr>
     <tr>
+        <td nowrap="nowrap"><img width="33" alt="esProc_SPL" src="https://gitlibrary.club/images/uploads/2023/11/newshot-esProc.png" /></td>
+        <td>Databases</td>
+        <td>Java</td>
+        <td><a href="http://doc.scudata.com/esproc/" target="_blank">esProc_SPL</a></td>
+        <td>esProc SPL is a scripting language for data processing, with well-designed rich library functions and powerful syntax, which can be executed in a Java program through JDBC interface and computing i…</td>
+        <th><a href="https://github.com/SPLWare/esProc" target="_blank"><img alt="esProc_SPL" src="https://img.shields.io/github/stars/SPLWare/esProc?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="Digger" src="https://gitlibrary.club/images/uploads/2023/11/newshot-digger.png" /></td>
         <td>Infrastructure</td>
         <td>Go</td>
@@ -312,14 +320,6 @@
         <td><a href="https://dataunitylab.github.io/jsonoid-discovery/" target="_blank">JSONoid</a></td>
         <td>Distributed JSON schema discovery</td>
         <th><a href="https://github.com/dataunitylab/jsonoid-discovery" target="_blank"><img alt="JSONoid" src="https://img.shields.io/github/stars/dataunitylab/jsonoid-discovery?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Relational Playground" src="https://gitlibrary.club/images/uploads/2023/11/newshot-relational-playground.png" /></td>
-        <td>Databases</td>
-        <td>JavaScript</td>
-        <td><a href="https://relationalplayground.com/" target="_blank">Relational Playground</a></td>
-        <td>An exploration of relational algebra ?</td>
-        <th><a href="https://github.com/dataunitylab/relational-playground" target="_blank"><img alt="Relational Playground" src="https://img.shields.io/github/stars/dataunitylab/relational-playground?style=social" /></a></th>
     </tr>
 
 </table>
@@ -6377,6 +6377,14 @@
         <td>? SuperDuperDB: Bring AI to your favourite database! Integrate, train and manage any AI models and APIs directly with your database and your data. </td>
         <th><a href="https://github.com/SuperDuperDB/superduperdb" target="_blank"><img alt="SuperDuperDB" src="https://img.shields.io/github/stars/SuperDuperDB/superduperdb?style=social" /></a></th>
     </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="esProc_SPL" src="https://gitlibrary.club/images/uploads/2023/11/newshot-esProc.png" /></td>
+        <td>Databases</td>
+        <td>Java</td>
+        <td><a href="http://doc.scudata.com/esproc/" target="_blank">esProc_SPL</a></td>
+        <td>esProc SPL is a scripting language for data processing, with well-designed rich library functions and powerful syntax, which can be executed in a Java program through JDBC interface and computing i…</td>
+        <th><a href="https://github.com/SPLWare/esProc" target="_blank"><img alt="esProc_SPL" src="https://img.shields.io/github/stars/SPLWare/esProc?style=social" /></a></th>
+    </tr>
 
 </table>
 
@@ -9595,6 +9603,14 @@
         <td><a href="https://github.com/mirkosertic/flight-recorder-starter" target="_blank">flight-recorder-starter</a></td>
         <td>This is a Spring Boot 2 Starter exposing the JDK Flight Recorder as a Spring Boot Actuator Endpoint.</td>
         <th><a href="https://github.com/mirkosertic/flight-recorder-starter" target="_blank"><img alt="flight-recorder-starter" src="https://img.shields.io/github/stars/mirkosertic/flight-recorder-starter?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="esProc_SPL" src="https://gitlibrary.club/images/uploads/2023/11/newshot-esProc.png" /></td>
+        <td>Databases</td>
+        <td>Java</td>
+        <td><a href="http://doc.scudata.com/esproc/" target="_blank">esProc_SPL</a></td>
+        <td>esProc SPL is a scripting language for data processing, with well-designed rich library functions and powerful syntax, which can be executed in a Java program through JDBC interface and computing i…</td>
+        <th><a href="https://github.com/SPLWare/esProc" target="_blank"><img alt="esProc_SPL" src="https://img.shields.io/github/stars/SPLWare/esProc?style=social" /></a></th>
     </tr>
 
 </table>
