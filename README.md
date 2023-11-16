@@ -162,6 +162,14 @@
         <th>Stargazers</th>
     </tr>
         <tr>
+        <td nowrap="nowrap"><img width="33" alt="OneTable" src="https://gitlibrary.club/images/uploads/2023/11/newshot-onetable.png" /></td>
+        <td>Analytics</td>
+        <td>Java</td>
+        <td><a href="https://onetable.dev/" target="_blank">OneTable</a></td>
+        <td>OneTable is an omni-directional converter for table formats that facilitates interoperability across data processing systems and query engines.</td>
+        <th><a href="https://github.com/onetable-io/onetable" target="_blank"><img alt="OneTable" src="https://img.shields.io/github/stars/onetable-io/onetable?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="Diceware" src="https://gitlibrary.club/images/uploads/2023/11/newshot-diceware.png" /></td>
         <td>Security</td>
         <td>JavaScript</td>
@@ -312,14 +320,6 @@
         <td><a href="https://cookiecutter-fastapi.readthedocs.io/en/latest/" target="_blank">cookiecutter-fastapi</a></td>
         <td>Cookiecutter fastapi is a framework for jumpstarting production-ready fastapi projects quickly.</td>
         <th><a href="https://github.com/Tobi-De/cookiecutter-fastapi" target="_blank"><img alt="cookiecutter-fastapi" src="https://img.shields.io/github/stars/Tobi-De/cookiecutter-fastapi?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="JSONoid" src="https://gitlibrary.club/images/uploads/2023/11/newshot-jsonoid-discovery.png" /></td>
-        <td>Analytics</td>
-        <td>Scala</td>
-        <td><a href="https://dataunitylab.github.io/jsonoid-discovery/" target="_blank">JSONoid</a></td>
-        <td>Distributed JSON schema discovery</td>
-        <th><a href="https://github.com/dataunitylab/jsonoid-discovery" target="_blank"><img alt="JSONoid" src="https://img.shields.io/github/stars/dataunitylab/jsonoid-discovery?style=social" /></a></th>
     </tr>
 
 </table>
@@ -5010,6 +5010,14 @@
         <th><a href="https://github.com/cicirello/count-action-users" target="_blank"><img alt="count-action-users" src="https://img.shields.io/github/stars/cicirello/count-action-users?style=social" /></a></th>
     </tr>
     <tr>
+        <td nowrap="nowrap"><img width="33" alt="OneTable" src="https://gitlibrary.club/images/uploads/2023/11/newshot-onetable.png" /></td>
+        <td>Analytics</td>
+        <td>Java</td>
+        <td><a href="https://onetable.dev/" target="_blank">OneTable</a></td>
+        <td>OneTable is an omni-directional converter for table formats that facilitates interoperability across data processing systems and query engines.</td>
+        <th><a href="https://github.com/onetable-io/onetable" target="_blank"><img alt="OneTable" src="https://img.shields.io/github/stars/onetable-io/onetable?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="Railtrack" src="https://gitlibrary.club/images/uploads/2023/05/newshot-railtrack.png" /></td>
         <td>Analytics</td>
         <td>TypeScript</td>
@@ -9323,6 +9331,14 @@
         <td><a href="https://graphql-java.com" target="_blank">GraphQL Java</a></td>
         <td>GraphQL Java implementation</td>
         <th><a href="https://github.com/graphql-java/graphql-java" target="_blank"><img alt="GraphQL Java" src="https://img.shields.io/github/stars/graphql-java/graphql-java?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="OneTable" src="https://gitlibrary.club/images/uploads/2023/11/newshot-onetable.png" /></td>
+        <td>Analytics</td>
+        <td>Java</td>
+        <td><a href="https://onetable.dev/" target="_blank">OneTable</a></td>
+        <td>OneTable is an omni-directional converter for table formats that facilitates interoperability across data processing systems and query engines.</td>
+        <th><a href="https://github.com/onetable-io/onetable" target="_blank"><img alt="OneTable" src="https://img.shields.io/github/stars/onetable-io/onetable?style=social" /></a></th>
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="jOOQ" src="https://gitlibrary.club/images/uploads/2023/05/newshot-jOOQ.jpg" /></td>
