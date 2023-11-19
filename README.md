@@ -1480,6 +1480,14 @@
         <th><a href="https://github.com/EvanNotFound/hexo-theme-redefine" target="_blank"><img alt="hexo-theme-redefine" src="https://img.shields.io/github/stars/EvanNotFound/hexo-theme-redefine?style=social" /></a></th>
     </tr>
     <tr>
+        <td nowrap="nowrap"><img width="33" alt="agenta" src="https://gitlibrary.club/images/uploads/2023/08/newshot-agenta.png" /></td>
+        <td>Miscellaneous</td>
+        <td>TypeScript</td>
+        <td><a href="http://www.agenta.ai" target="_blank">agenta</a></td>
+        <td> The LLMOps platform to build robust LLM apps. Easily experiment and evaluate different prompts, models, and workflows.</td>
+        <th><a href="https://github.com/Agenta-AI/agenta" target="_blank"><img alt="agenta" src="https://img.shields.io/github/stars/Agenta-AI/agenta?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="pyatv" src="https://gitlibrary.club/images/uploads/2023/09/newshot-pyatv.jpg" /></td>
         <td>Miscellaneous</td>
         <td>Python</td>
@@ -2318,14 +2326,6 @@
         <td><a href="https://abbekeultjes.nl/honeycomb" target="_blank">Honeycomb</a></td>
         <td>Create hex grids easily, in node or the browser.</td>
         <th><a href="https://github.com/flauwekeul/honeycomb" target="_blank"><img alt="Honeycomb" src="https://img.shields.io/github/stars/flauwekeul/honeycomb?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="agenta" src="https://gitlibrary.club/images/uploads/2023/08/newshot-agenta.png" /></td>
-        <td>Miscellaneous</td>
-        <td>TypeScript</td>
-        <td><a href="http://www.agenta.ai" target="_blank">agenta</a></td>
-        <td> The LLMOps platform to build robust LLM apps. Easily experiment and evaluate different prompts, models, and workflows.</td>
-        <th><a href="https://github.com/Agenta-AI/agenta" target="_blank"><img alt="agenta" src="https://img.shields.io/github/stars/Agenta-AI/agenta?style=social" /></a></th>
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="Modern Developer Blog Template (Digital Garden Starter)" src="https://gitlibrary.club/images/uploads/2023/08/newshot-digital-garden.png" /></td>
@@ -8247,6 +8247,14 @@
         <th><a href="https://github.com/coder-hxl/x-crawl" target="_blank"><img alt="x-crawl" src="https://img.shields.io/github/stars/coder-hxl/x-crawl?style=social" /></a></th>
     </tr>
     <tr>
+        <td nowrap="nowrap"><img width="33" alt="agenta" src="https://gitlibrary.club/images/uploads/2023/08/newshot-agenta.png" /></td>
+        <td>Miscellaneous</td>
+        <td>TypeScript</td>
+        <td><a href="http://www.agenta.ai" target="_blank">agenta</a></td>
+        <td> The LLMOps platform to build robust LLM apps. Easily experiment and evaluate different prompts, models, and workflows.</td>
+        <th><a href="https://github.com/Agenta-AI/agenta" target="_blank"><img alt="agenta" src="https://img.shields.io/github/stars/Agenta-AI/agenta?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="React Complex Tree" src="https://gitlibrary.club/images/uploads/2023/08/newshot-react-complex-tree.jpg" /></td>
         <td>Productivity</td>
         <td>TypeScript</td>
@@ -9005,14 +9013,6 @@
         <td><a href="https://abbekeultjes.nl/honeycomb" target="_blank">Honeycomb</a></td>
         <td>Create hex grids easily, in node or the browser.</td>
         <th><a href="https://github.com/flauwekeul/honeycomb" target="_blank"><img alt="Honeycomb" src="https://img.shields.io/github/stars/flauwekeul/honeycomb?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="agenta" src="https://gitlibrary.club/images/uploads/2023/08/newshot-agenta.png" /></td>
-        <td>Miscellaneous</td>
-        <td>TypeScript</td>
-        <td><a href="http://www.agenta.ai" target="_blank">agenta</a></td>
-        <td> The LLMOps platform to build robust LLM apps. Easily experiment and evaluate different prompts, models, and workflows.</td>
-        <th><a href="https://github.com/Agenta-AI/agenta" target="_blank"><img alt="agenta" src="https://img.shields.io/github/stars/Agenta-AI/agenta?style=social" /></a></th>
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="Modern Developer Blog Template (Digital Garden Starter)" src="https://gitlibrary.club/images/uploads/2023/08/newshot-digital-garden.png" /></td>
