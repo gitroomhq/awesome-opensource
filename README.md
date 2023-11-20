@@ -162,6 +162,14 @@
         <th>Stargazers</th>
     </tr>
         <tr>
+        <td nowrap="nowrap"><img width="33" alt="PromptDesk" src="https://gitlibrary.club/images/uploads/2023/11/newshot-promptdesk.png" /></td>
+        <td>Productivity</td>
+        <td>CSS</td>
+        <td><a href="https://github.com/promptdesk/promptdesk" target="_blank">PromptDesk</a></td>
+        <td>Promptdesk is a tool designed for effectively creating, organizing, and evaluating prompts and large language models (LLMs).</td>
+        <th><a href="https://github.com/promptdesk/promptdesk" target="_blank"><img alt="PromptDesk" src="https://img.shields.io/github/stars/promptdesk/promptdesk?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="OneTable" src="https://gitlibrary.club/images/uploads/2023/11/newshot-onetable.png" /></td>
         <td>Analytics</td>
         <td>Java</td>
@@ -312,14 +320,6 @@
         <td><a href="https://tobi-de.github.io/fuzzy-couscous" target="_blank">fuzzy-couscous</a></td>
         <td>A cli tool to bootstrap your django projects and enhance your development experience. </td>
         <th><a href="https://github.com/Tobi-De/fuzzy-couscous" target="_blank"><img alt="fuzzy-couscous" src="https://img.shields.io/github/stars/Tobi-De/fuzzy-couscous?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="cookiecutter-fastapi" src="https://gitlibrary.club/images/uploads/2023/11/newshot-cookiecutter-fastapi.png" /></td>
-        <td>Productivity</td>
-        <td>Python</td>
-        <td><a href="https://cookiecutter-fastapi.readthedocs.io/en/latest/" target="_blank">cookiecutter-fastapi</a></td>
-        <td>Cookiecutter fastapi is a framework for jumpstarting production-ready fastapi projects quickly.</td>
-        <th><a href="https://github.com/Tobi-De/cookiecutter-fastapi" target="_blank"><img alt="cookiecutter-fastapi" src="https://img.shields.io/github/stars/Tobi-De/cookiecutter-fastapi?style=social" /></a></th>
     </tr>
 
 </table>
@@ -4930,6 +4930,14 @@
         <td><a href="http://langtest.org/" target="_blank">LangTest</a></td>
         <td>Deliver safe &amp; effective language models</td>
         <th><a href="https://github.com/JohnSnowLabs/langtest" target="_blank"><img alt="LangTest" src="https://img.shields.io/github/stars/JohnSnowLabs/langtest?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="PromptDesk" src="https://gitlibrary.club/images/uploads/2023/11/newshot-promptdesk.png" /></td>
+        <td>Productivity</td>
+        <td>CSS</td>
+        <td><a href="https://github.com/promptdesk/promptdesk" target="_blank">PromptDesk</a></td>
+        <td>Promptdesk is a tool designed for effectively creating, organizing, and evaluating prompts and large language models (LLMs).</td>
+        <th><a href="https://github.com/promptdesk/promptdesk" target="_blank"><img alt="PromptDesk" src="https://img.shields.io/github/stars/promptdesk/promptdesk?style=social" /></a></th>
     </tr>
 
 </table>
@@ -13647,6 +13655,14 @@
         <td><a href="https://github.com/fabiocaccamo/django-admin-interface" target="_blank">django-admin-interface</a></td>
         <td><g-emoji class="g-emoji" alias="superhero" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f9b8.png">?</g-emoji> <g-emoji class="g-emoji" alias="zap" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/26a1.png">⚡</g-emoji> django's default admin interface with superpowers - customizable themes, popup windows replaced by modals and many other features.</td>
         <th><a href="https://github.com/fabiocaccamo/django-admin-interface" target="_blank"><img alt="django-admin-interface" src="https://img.shields.io/github/stars/fabiocaccamo/django-admin-interface?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="PromptDesk" src="https://gitlibrary.club/images/uploads/2023/11/newshot-promptdesk.png" /></td>
+        <td>Productivity</td>
+        <td>CSS</td>
+        <td><a href="https://github.com/promptdesk/promptdesk" target="_blank">PromptDesk</a></td>
+        <td>Promptdesk is a tool designed for effectively creating, organizing, and evaluating prompts and large language models (LLMs).</td>
+        <th><a href="https://github.com/promptdesk/promptdesk" target="_blank"><img alt="PromptDesk" src="https://img.shields.io/github/stars/promptdesk/promptdesk?style=social" /></a></th>
     </tr>
 
 </table>
