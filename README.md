@@ -162,6 +162,14 @@
         <th>Stargazers</th>
     </tr>
         <tr>
+        <td nowrap="nowrap"><img width="33" alt="Apitally client library for Python" src="https://gitlibrary.club/images/uploads/2023/11/newshot-python-client.png" /></td>
+        <td>Observability</td>
+        <td>Python</td>
+        <td><a href="https://docs.apitally.io" target="_blank">Apitally client library for Python</a></td>
+        <td>Apitally client library for Python</td>
+        <th><a href="https://github.com/apitally/python-client" target="_blank"><img alt="Apitally client library for Python" src="https://img.shields.io/github/stars/apitally/python-client?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="PromptDesk" src="https://gitlibrary.club/images/uploads/2023/11/newshot-promptdesk.png" /></td>
         <td>Productivity</td>
         <td>CSS</td>
@@ -312,14 +320,6 @@
         <td><a href="https://github.com/Tobi-De/sse_relay_server" target="_blank">sse_relay_server</a></td>
         <td>An SSE Relay Service: Perfect for Adding Real-Time Features to Your Django Project Without Introducing ASGI or Async Code.</td>
         <th><a href="https://github.com/Tobi-De/sse_relay_server" target="_blank"><img alt="sse_relay_server" src="https://img.shields.io/github/stars/Tobi-De/sse_relay_server?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="fuzzy-couscous" src="https://gitlibrary.club/images/uploads/2023/11/newshot-fuzzy-couscous.png" /></td>
-        <td>Productivity</td>
-        <td>Python</td>
-        <td><a href="https://tobi-de.github.io/fuzzy-couscous" target="_blank">fuzzy-couscous</a></td>
-        <td>A cli tool to bootstrap your django projects and enhance your development experience. </td>
-        <th><a href="https://github.com/Tobi-De/fuzzy-couscous" target="_blank"><img alt="fuzzy-couscous" src="https://img.shields.io/github/stars/Tobi-De/fuzzy-couscous?style=social" /></a></th>
     </tr>
 
 </table>
@@ -2916,6 +2916,14 @@
         <td><a href="https://github.com/mirkosertic/flight-recorder-starter" target="_blank">flight-recorder-starter</a></td>
         <td>This is a Spring Boot 2 Starter exposing the JDK Flight Recorder as a Spring Boot Actuator Endpoint.</td>
         <th><a href="https://github.com/mirkosertic/flight-recorder-starter" target="_blank"><img alt="flight-recorder-starter" src="https://img.shields.io/github/stars/mirkosertic/flight-recorder-starter?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Apitally client library for Python" src="https://gitlibrary.club/images/uploads/2023/11/newshot-python-client.png" /></td>
+        <td>Observability</td>
+        <td>Python</td>
+        <td><a href="https://docs.apitally.io" target="_blank">Apitally client library for Python</a></td>
+        <td>Apitally client library for Python</td>
+        <th><a href="https://github.com/apitally/python-client" target="_blank"><img alt="Apitally client library for Python" src="https://img.shields.io/github/stars/apitally/python-client?style=social" /></a></th>
     </tr>
 
 </table>
@@ -11239,6 +11247,14 @@
         <td><a href="https://httpbin.dmuth.org/" target="_blank">FastAPI Httpbin</a></td>
         <td>HTTP Endpoints for easy testing of your app.</td>
         <th><a href="https://github.com/dmuth/fastapi-httpbin" target="_blank"><img alt="FastAPI Httpbin" src="https://img.shields.io/github/stars/dmuth/fastapi-httpbin?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Apitally client library for Python" src="https://gitlibrary.club/images/uploads/2023/11/newshot-python-client.png" /></td>
+        <td>Observability</td>
+        <td>Python</td>
+        <td><a href="https://docs.apitally.io" target="_blank">Apitally client library for Python</a></td>
+        <td>Apitally client library for Python</td>
+        <th><a href="https://github.com/apitally/python-client" target="_blank"><img alt="Apitally client library for Python" src="https://img.shields.io/github/stars/apitally/python-client?style=social" /></a></th>
     </tr>
 
 </table>
