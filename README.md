@@ -162,6 +162,14 @@
         <th>Stargazers</th>
     </tr>
         <tr>
+        <td nowrap="nowrap"><img width="33" alt="Repohistory" src="https://gitlibrary.club/images/uploads/2023/11/newshot-repohistory.png" /></td>
+        <td>Analytics</td>
+        <td>TypeScript</td>
+        <td><a href="https://repohistory.com" target="_blank">Repohistory</a></td>
+        <td>An open-source platform for tracking GitHub repo traffic history longer than 14 days.</td>
+        <th><a href="https://github.com/repohistory/repohistory" target="_blank"><img alt="Repohistory" src="https://img.shields.io/github/stars/repohistory/repohistory?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="Apitally client library for Python" src="https://gitlibrary.club/images/uploads/2023/11/newshot-python-client.png" /></td>
         <td>Observability</td>
         <td>Python</td>
@@ -312,14 +320,6 @@
         <td><a href="https://tobi-de.github.io/dj-shop-cart/" target="_blank">dj-shop-cart</a></td>
         <td>A simple and flexible cart manager for your django projects.</td>
         <th><a href="https://github.com/Tobi-De/dj-shop-cart" target="_blank"><img alt="dj-shop-cart" src="https://img.shields.io/github/stars/Tobi-De/dj-shop-cart?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="sse_relay_server" src="https://gitlibrary.club/images/uploads/2023/11/newshot-sse_relay_server.png" /></td>
-        <td>Infrastructure</td>
-        <td>Python</td>
-        <td><a href="https://github.com/Tobi-De/sse_relay_server" target="_blank">sse_relay_server</a></td>
-        <td>An SSE Relay Service: Perfect for Adding Real-Time Features to Your Django Project Without Introducing ASGI or Async Code.</td>
-        <th><a href="https://github.com/Tobi-De/sse_relay_server" target="_blank"><img alt="sse_relay_server" src="https://img.shields.io/github/stars/Tobi-De/sse_relay_server?style=social" /></a></th>
     </tr>
 
 </table>
@@ -3332,6 +3332,14 @@
         <th><a href="https://github.com/r3-team/r3" target="_blank"><img alt="REI3" src="https://img.shields.io/github/stars/r3-team/r3?style=social" /></a></th>
     </tr>
     <tr>
+        <td nowrap="nowrap"><img width="33" alt="Hoppscotch" src="https://gitlibrary.club/images/uploads/2023/07/newshot-hoppscotch.png" /></td>
+        <td>Productivity</td>
+        <td>TypeScript</td>
+        <td><a href="https://hoppscotch.io" target="_blank">Hoppscotch</a></td>
+        <td><g-emoji class="g-emoji" alias="alien" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f47d.png">?</g-emoji> Open source API development ecosystem - https://hoppscotch.io</td>
+        <th><a href="https://github.com/hoppscotch/hoppscotch" target="_blank"><img alt="Hoppscotch" src="https://img.shields.io/github/stars/hoppscotch/hoppscotch?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="areg engine" src="https://gitlibrary.club/images/uploads/2023/07/newshot-areg-sdk.jpg" /></td>
         <td>Productivity</td>
         <td>C++</td>
@@ -4340,14 +4348,6 @@
         <th><a href="https://github.com/MarsX-dev/floatui" target="_blank"><img alt="Float UI" src="https://img.shields.io/github/stars/MarsX-dev/floatui?style=social" /></a></th>
     </tr>
     <tr>
-        <td nowrap="nowrap"><img width="33" alt="Hoppscotch" src="https://gitlibrary.club/images/uploads/2023/07/newshot-hoppscotch.png" /></td>
-        <td>Productivity</td>
-        <td>TypeScript</td>
-        <td><a href="https://hoppscotch.io" target="_blank">Hoppscotch</a></td>
-        <td><g-emoji class="g-emoji" alias="alien" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f47d.png">?</g-emoji> Open source API development ecosystem - https://hoppscotch.io</td>
-        <th><a href="https://github.com/hoppscotch/hoppscotch" target="_blank"><img alt="Hoppscotch" src="https://img.shields.io/github/stars/hoppscotch/hoppscotch?style=social" /></a></th>
-    </tr>
-    <tr>
         <td nowrap="nowrap"><img width="33" alt="php-diff" src="https://gitlibrary.club/images/uploads/2023/07/newshot-php-diff.jpg" /></td>
         <td>Productivity</td>
         <td>PHP</td>
@@ -5320,6 +5320,14 @@
         <td><a href="https://github.com/VisActor/VGrammar" target="_blank">VGrammar</a></td>
         <td>VGrammar is a kind of grammar of data visualization</td>
         <th><a href="https://github.com/VisActor/VGrammar" target="_blank"><img alt="VGrammar" src="https://img.shields.io/github/stars/VisActor/VGrammar?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Repohistory" src="https://gitlibrary.club/images/uploads/2023/11/newshot-repohistory.png" /></td>
+        <td>Analytics</td>
+        <td>TypeScript</td>
+        <td><a href="https://repohistory.com" target="_blank">Repohistory</a></td>
+        <td>An open-source platform for tracking GitHub repo traffic history longer than 14 days.</td>
+        <th><a href="https://github.com/repohistory/repohistory" target="_blank"><img alt="Repohistory" src="https://img.shields.io/github/stars/repohistory/repohistory?style=social" /></a></th>
     </tr>
 
 </table>
@@ -8239,6 +8247,14 @@
         <th><a href="https://github.com/FirecampDev/Firecamp" target="_blank"><img alt="Firecamp" src="https://img.shields.io/github/stars/FirecampDev/Firecamp?style=social" /></a></th>
     </tr>
     <tr>
+        <td nowrap="nowrap"><img width="33" alt="Hoppscotch" src="https://gitlibrary.club/images/uploads/2023/07/newshot-hoppscotch.png" /></td>
+        <td>Productivity</td>
+        <td>TypeScript</td>
+        <td><a href="https://hoppscotch.io" target="_blank">Hoppscotch</a></td>
+        <td><g-emoji class="g-emoji" alias="alien" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f47d.png">?</g-emoji> Open source API development ecosystem - https://hoppscotch.io</td>
+        <th><a href="https://github.com/hoppscotch/hoppscotch" target="_blank"><img alt="Hoppscotch" src="https://img.shields.io/github/stars/hoppscotch/hoppscotch?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="OpenDataV" src="https://gitlibrary.club/images/uploads/2023/08/newshot-openDataV.jpg" /></td>
         <td>Productivity</td>
         <td>TypeScript</td>
@@ -8855,14 +8871,6 @@
         <th><a href="https://github.com/fahad19/featurevisor" target="_blank"><img alt="Featurevisor" src="https://img.shields.io/github/stars/fahad19/featurevisor?style=social" /></a></th>
     </tr>
     <tr>
-        <td nowrap="nowrap"><img width="33" alt="Hoppscotch" src="https://gitlibrary.club/images/uploads/2023/07/newshot-hoppscotch.png" /></td>
-        <td>Productivity</td>
-        <td>TypeScript</td>
-        <td><a href="https://hoppscotch.io" target="_blank">Hoppscotch</a></td>
-        <td><g-emoji class="g-emoji" alias="alien" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f47d.png">?</g-emoji> Open source API development ecosystem - https://hoppscotch.io</td>
-        <th><a href="https://github.com/hoppscotch/hoppscotch" target="_blank"><img alt="Hoppscotch" src="https://img.shields.io/github/stars/hoppscotch/hoppscotch?style=social" /></a></th>
-    </tr>
-    <tr>
         <td nowrap="nowrap"><img width="33" alt="texpress" src="https://gitlibrary.club/images/uploads/2023/07/newshot-t-express.jpg" /></td>
         <td>Infrastructure</td>
         <td>TypeScript</td>
@@ -9253,6 +9261,14 @@
         <td><a href="https://github.com/VisActor/VGrammar" target="_blank">VGrammar</a></td>
         <td>VGrammar is a kind of grammar of data visualization</td>
         <th><a href="https://github.com/VisActor/VGrammar" target="_blank"><img alt="VGrammar" src="https://img.shields.io/github/stars/VisActor/VGrammar?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Repohistory" src="https://gitlibrary.club/images/uploads/2023/11/newshot-repohistory.png" /></td>
+        <td>Analytics</td>
+        <td>TypeScript</td>
+        <td><a href="https://repohistory.com" target="_blank">Repohistory</a></td>
+        <td>An open-source platform for tracking GitHub repo traffic history longer than 14 days.</td>
+        <th><a href="https://github.com/repohistory/repohistory" target="_blank"><img alt="Repohistory" src="https://img.shields.io/github/stars/repohistory/repohistory?style=social" /></a></th>
     </tr>
 
 </table>
