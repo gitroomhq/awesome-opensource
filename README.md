@@ -162,6 +162,14 @@
         <th>Stargazers</th>
     </tr>
         <tr>
+        <td nowrap="nowrap"><img width="33" alt="win32" src="https://gitlibrary.club/images/uploads/2023/11/newshot-win32.png" /></td>
+        <td>Productivity</td>
+        <td>Dart</td>
+        <td><a href="https://win32.pub" target="_blank">win32</a></td>
+        <td>Build Win32 apps with Dart!</td>
+        <th><a href="https://github.com/dart-windows/win32" target="_blank"><img alt="win32" src="https://img.shields.io/github/stars/dart-windows/win32?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="Repohistory" src="https://gitlibrary.club/images/uploads/2023/11/newshot-repohistory.png" /></td>
         <td>Analytics</td>
         <td>TypeScript</td>
@@ -312,14 +320,6 @@
         <td><a href="https://leerming.com" target="_blank">leerming</a></td>
         <td>An implementation of the Leitner box that can generate flashcards using llms from documents, youtube videos and web page links.</td>
         <th><a href="https://github.com/Tobi-De/leerming" target="_blank"><img alt="leerming" src="https://img.shields.io/github/stars/Tobi-De/leerming?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="dj-shop-cart" src="https://gitlibrary.club/images/uploads/2023/11/newshot-dj-shop-cart.png" /></td>
-        <td>Miscellaneous</td>
-        <td>Python</td>
-        <td><a href="https://tobi-de.github.io/dj-shop-cart/" target="_blank">dj-shop-cart</a></td>
-        <td>A simple and flexible cart manager for your django projects.</td>
-        <th><a href="https://github.com/Tobi-De/dj-shop-cart" target="_blank"><img alt="dj-shop-cart" src="https://img.shields.io/github/stars/Tobi-De/dj-shop-cart?style=social" /></a></th>
     </tr>
 
 </table>
@@ -3458,6 +3458,14 @@
         <td><a href="https://www.opensignlabs.com" target="_blank">OpenSign</a></td>
         <td>The free &amp; Open Source Alternative to DocuSign</td>
         <th><a href="https://github.com/OpenSignLabs/OpenSign" target="_blank"><img alt="OpenSign" src="https://img.shields.io/github/stars/OpenSignLabs/OpenSign?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="win32" src="https://gitlibrary.club/images/uploads/2023/11/newshot-win32.png" /></td>
+        <td>Productivity</td>
+        <td>Dart</td>
+        <td><a href="https://win32.pub" target="_blank">win32</a></td>
+        <td>Build Win32 apps with Dart!</td>
+        <th><a href="https://github.com/dart-windows/win32" target="_blank"><img alt="win32" src="https://img.shields.io/github/stars/dart-windows/win32?style=social" /></a></th>
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="VS Code Docs" src="https://gitlibrary.club/images/uploads/2023/05/newshot-vscode-docs.png" /></td>
@@ -10257,6 +10265,14 @@
         <td><a href="https://bonfire-engine.github.io" target="_blank">Bonfire</a></td>
         <td>(RPG maker) Create RPG-style or similar games more simply with Flame.</td>
         <th><a href="https://github.com/RafaelBarbosatec/bonfire" target="_blank"><img alt="Bonfire" src="https://img.shields.io/github/stars/RafaelBarbosatec/bonfire?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="win32" src="https://gitlibrary.club/images/uploads/2023/11/newshot-win32.png" /></td>
+        <td>Productivity</td>
+        <td>Dart</td>
+        <td><a href="https://win32.pub" target="_blank">win32</a></td>
+        <td>Build Win32 apps with Dart!</td>
+        <th><a href="https://github.com/dart-windows/win32" target="_blank"><img alt="win32" src="https://img.shields.io/github/stars/dart-windows/win32?style=social" /></a></th>
     </tr>
 
 </table>
