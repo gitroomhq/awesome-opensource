@@ -64,8 +64,6 @@
              </li>          <li>
                 <a href="#dockerfile">Top 20 Dockerfile libraries</a>
              </li>          <li>
-                <a href="#powershell">Top 20 PowerShell libraries</a>
-             </li>          <li>
                 <a href="#lua">Top 20 Lua libraries</a>
              </li>          <li>
                 <a href="#c">Top 20 C# libraries</a>
@@ -77,6 +75,8 @@
                 <a href="#tex">Top 20 TeX libraries</a>
              </li>          <li>
                 <a href="#css">Top 20 CSS libraries</a>
+             </li>          <li>
+                <a href="#powershell">Top 20 PowerShell libraries</a>
              </li>          <li>
                 <a href="#ruby">Top 20 Ruby libraries</a>
              </li>          <li>
@@ -777,14 +777,6 @@
         <th><a href="https://github.com/GyulyVGC/sniffnet" target="_blank"><img alt="Sniffnet" src="https://img.shields.io/github/stars/GyulyVGC/sniffnet?style=social" /></a></th>
     </tr>
     <tr>
-        <td nowrap="nowrap"><img width="33" alt="PSCompletions" src="https://gitlibrary.club/images/uploads/2023/10/newshot-PSCompletions.jpg" /></td>
-        <td>Productivity</td>
-        <td>PowerShell</td>
-        <td><a href="https://www.powershellgallery.com/packages/PSCompletions" target="_blank">PSCompletions</a></td>
-        <td>A completion manager for better and simpler use and Manage completions.(一个补全管理模块，更好、更简单、更方便的使用和管理补全)</td>
-        <th><a href="https://github.com/abgox/PSCompletions" target="_blank"><img alt="PSCompletions" src="https://img.shields.io/github/stars/abgox/PSCompletions?style=social" /></a></th>
-    </tr>
-    <tr>
         <td nowrap="nowrap"><img width="33" alt="awesome window manager" src="https://gitlibrary.club/images/uploads/2023/05/newshot-awesome.png" /></td>
         <td>Miscellaneous</td>
         <td>Lua</td>
@@ -927,6 +919,14 @@
         <td><a href="https://rymdport.github.io/" target="_blank">Rymdport</a></td>
         <td>Cross-platform application for easy encrypted file, folder, and text sharing between devices.</td>
         <th><a href="https://github.com/Jacalz/rymdport" target="_blank"><img alt="Rymdport" src="https://img.shields.io/github/stars/Jacalz/rymdport?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="PSCompletions" src="https://gitlibrary.club/images/uploads/2023/10/newshot-PSCompletions.jpg" /></td>
+        <td>Productivity</td>
+        <td>PowerShell</td>
+        <td><a href="https://www.powershellgallery.com/packages/PSCompletions" target="_blank">PSCompletions</a></td>
+        <td>A completion manager for better and simpler use and Manage completions.(一个补全管理模块，更好、更简单、更方便的使用和管理补全)</td>
+        <th><a href="https://github.com/abgox/PSCompletions" target="_blank"><img alt="PSCompletions" src="https://img.shields.io/github/stars/abgox/PSCompletions?style=social" /></a></th>
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="GitHub Support" src="https://gitlibrary.club/images/uploads/2023/05/newshot-dmca.png" /></td>
@@ -3068,14 +3068,6 @@
         <th><a href="https://github.com/medyo/hackertab.dev" target="_blank"><img alt="Hackertab.dev" src="https://img.shields.io/github/stars/medyo/hackertab.dev?style=social" /></a></th>
     </tr>
     <tr>
-        <td nowrap="nowrap"><img width="33" alt="PSCompletions" src="https://gitlibrary.club/images/uploads/2023/10/newshot-PSCompletions.jpg" /></td>
-        <td>Productivity</td>
-        <td>PowerShell</td>
-        <td><a href="https://www.powershellgallery.com/packages/PSCompletions" target="_blank">PSCompletions</a></td>
-        <td>A completion manager for better and simpler use and Manage completions.(一个补全管理模块，更好、更简单、更方便的使用和管理补全)</td>
-        <th><a href="https://github.com/abgox/PSCompletions" target="_blank"><img alt="PSCompletions" src="https://img.shields.io/github/stars/abgox/PSCompletions?style=social" /></a></th>
-    </tr>
-    <tr>
         <td nowrap="nowrap"><img width="33" alt="Reejs" src="https://gitlibrary.club/images/uploads/2023/06/newshot-reejs.png" /></td>
         <td>Productivity</td>
         <td>JavaScript</td>
@@ -3114,6 +3106,14 @@
         <td><a href="https://www.message-silo.dev" target="_blank">Message Silo</a></td>
         <td>A tool to fix or enrich messages with the power of AI, and make integration simpler for event-driven systems. Azure Service Bus, AWS SQS, RabbitMQ, and more...</td>
         <th><a href="https://github.com/MessageSilo/MessageSilo" target="_blank"><img alt="Message Silo" src="https://img.shields.io/github/stars/MessageSilo/MessageSilo?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="PSCompletions" src="https://gitlibrary.club/images/uploads/2023/10/newshot-PSCompletions.jpg" /></td>
+        <td>Productivity</td>
+        <td>PowerShell</td>
+        <td><a href="https://www.powershellgallery.com/packages/PSCompletions" target="_blank">PSCompletions</a></td>
+        <td>A completion manager for better and simpler use and Manage completions.(一个补全管理模块，更好、更简单、更方便的使用和管理补全)</td>
+        <th><a href="https://github.com/abgox/PSCompletions" target="_blank"><img alt="PSCompletions" src="https://img.shields.io/github/stars/abgox/PSCompletions?style=social" /></a></th>
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="Hyperswitch" src="https://gitlibrary.club/images/uploads/2023/05/newshot-hyperswitch.png" /></td>
@@ -13042,60 +13042,6 @@
 </table>
 
 <br /><br />
-<h2 id="powershell">Top 20 PowerShell libraries</h2>
-<table>
-    <tr>
-        <th>Icon</th>
-        <th>Category</th>
-        <th>Language</th>
-        <th>Name</th>
-        <th>Description</th>
-        <th>Stargazers</th>
-    </tr>
-        <tr>
-        <td nowrap="nowrap"><img width="33" alt="PSCompletions" src="https://gitlibrary.club/images/uploads/2023/10/newshot-PSCompletions.jpg" /></td>
-        <td>Productivity</td>
-        <td>PowerShell</td>
-        <td><a href="https://www.powershellgallery.com/packages/PSCompletions" target="_blank">PSCompletions</a></td>
-        <td>A completion manager for better and simpler use and Manage completions.(一个补全管理模块，更好、更简单、更方便的使用和管理补全)</td>
-        <th><a href="https://github.com/abgox/PSCompletions" target="_blank"><img alt="PSCompletions" src="https://img.shields.io/github/stars/abgox/PSCompletions?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Meerkat" src="https://gitlibrary.club/images/uploads/2023/08/newshot-Meerkat.png" /></td>
-        <td>Security</td>
-        <td>PowerShell</td>
-        <td><a href="https://github.com/TonyPhipps/Meerkat" target="_blank">Meerkat</a></td>
-        <td>A collection of PowerShell modules designed for artifact gathering and reconnaisance of Windows-based endpoints.</td>
-        <th><a href="https://github.com/TonyPhipps/Meerkat" target="_blank"><img alt="Meerkat" src="https://img.shields.io/github/stars/TonyPhipps/Meerkat?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Mandiant" src="https://gitlibrary.club/images/uploads/2023/05/newshot-commando-vm-1.png" /></td>
-        <td>Security</td>
-        <td>PowerShell</td>
-        <td><a href="https://www.mandiant.com/resources/blog/commando-vm-windows-offensive-distribution" target="_blank">Mandiant</a></td>
-        <td>Complete Mandiant Offensive VM (Commando VM), a fully customizable Windows-based pentesting virtual machine distribution. commandovm@mandiant.com</td>
-        <th><a href="https://github.com/mandiant/commando-vm" target="_blank"><img alt="Mandiant" src="https://img.shields.io/github/stars/mandiant/commando-vm?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Azure-DevOps" src="https://gitlibrary.club/images/uploads/2023/09/newshot-Azure-DevOps.jpg" /></td>
-        <td>Analytics</td>
-        <td>PowerShell</td>
-        <td><a href="https://github.com/vinijmoura/Azure-DevOps" target="_blank">Azure-DevOps</a></td>
-        <td>Data extraction and Power BI report that generate management informations about your Azure DevOps organization. Using Azure DevOps CLI and Azure DevOps REST API, PowerShell scripts extract data fro…</td>
-        <th><a href="https://github.com/vinijmoura/Azure-DevOps" target="_blank"><img alt="Azure-DevOps" src="https://img.shields.io/github/stars/vinijmoura/Azure-DevOps?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Mega Collection of PowerShell Scripts" src="https://gitlibrary.club/images/uploads/2023/09/newshot-PowerShell.jpg" /></td>
-        <td>Miscellaneous</td>
-        <td>PowerShell</td>
-        <td><a href="https://github.com/fleschutz/PowerShell" target="_blank">Mega Collection of PowerShell Scripts</a></td>
-        <td>Mega collection of 500+ useful cross-platform PowerShell scripts (.ps1).</td>
-        <th><a href="https://github.com/fleschutz/PowerShell" target="_blank"><img alt="Mega Collection of PowerShell Scripts" src="https://img.shields.io/github/stars/fleschutz/PowerShell?style=social" /></a></th>
-    </tr>
-
-</table>
-
-<br /><br />
 <h2 id="lua">Top 20 Lua libraries</h2>
 <table>
     <tr>
@@ -13711,6 +13657,60 @@
         <td><a href="https://github.com/promptdesk/promptdesk" target="_blank">PromptDesk</a></td>
         <td>Promptdesk is a tool designed for effectively creating, organizing, and evaluating prompts and large language models (LLMs).</td>
         <th><a href="https://github.com/promptdesk/promptdesk" target="_blank"><img alt="PromptDesk" src="https://img.shields.io/github/stars/promptdesk/promptdesk?style=social" /></a></th>
+    </tr>
+
+</table>
+
+<br /><br />
+<h2 id="powershell">Top 20 PowerShell libraries</h2>
+<table>
+    <tr>
+        <th>Icon</th>
+        <th>Category</th>
+        <th>Language</th>
+        <th>Name</th>
+        <th>Description</th>
+        <th>Stargazers</th>
+    </tr>
+        <tr>
+        <td nowrap="nowrap"><img width="33" alt="PSCompletions" src="https://gitlibrary.club/images/uploads/2023/10/newshot-PSCompletions.jpg" /></td>
+        <td>Productivity</td>
+        <td>PowerShell</td>
+        <td><a href="https://www.powershellgallery.com/packages/PSCompletions" target="_blank">PSCompletions</a></td>
+        <td>A completion manager for better and simpler use and Manage completions.(一个补全管理模块，更好、更简单、更方便的使用和管理补全)</td>
+        <th><a href="https://github.com/abgox/PSCompletions" target="_blank"><img alt="PSCompletions" src="https://img.shields.io/github/stars/abgox/PSCompletions?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Meerkat" src="https://gitlibrary.club/images/uploads/2023/08/newshot-Meerkat.png" /></td>
+        <td>Security</td>
+        <td>PowerShell</td>
+        <td><a href="https://github.com/TonyPhipps/Meerkat" target="_blank">Meerkat</a></td>
+        <td>A collection of PowerShell modules designed for artifact gathering and reconnaisance of Windows-based endpoints.</td>
+        <th><a href="https://github.com/TonyPhipps/Meerkat" target="_blank"><img alt="Meerkat" src="https://img.shields.io/github/stars/TonyPhipps/Meerkat?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Mandiant" src="https://gitlibrary.club/images/uploads/2023/05/newshot-commando-vm-1.png" /></td>
+        <td>Security</td>
+        <td>PowerShell</td>
+        <td><a href="https://www.mandiant.com/resources/blog/commando-vm-windows-offensive-distribution" target="_blank">Mandiant</a></td>
+        <td>Complete Mandiant Offensive VM (Commando VM), a fully customizable Windows-based pentesting virtual machine distribution. commandovm@mandiant.com</td>
+        <th><a href="https://github.com/mandiant/commando-vm" target="_blank"><img alt="Mandiant" src="https://img.shields.io/github/stars/mandiant/commando-vm?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Azure-DevOps" src="https://gitlibrary.club/images/uploads/2023/09/newshot-Azure-DevOps.jpg" /></td>
+        <td>Analytics</td>
+        <td>PowerShell</td>
+        <td><a href="https://github.com/vinijmoura/Azure-DevOps" target="_blank">Azure-DevOps</a></td>
+        <td>Data extraction and Power BI report that generate management informations about your Azure DevOps organization. Using Azure DevOps CLI and Azure DevOps REST API, PowerShell scripts extract data fro…</td>
+        <th><a href="https://github.com/vinijmoura/Azure-DevOps" target="_blank"><img alt="Azure-DevOps" src="https://img.shields.io/github/stars/vinijmoura/Azure-DevOps?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Mega Collection of PowerShell Scripts" src="https://gitlibrary.club/images/uploads/2023/09/newshot-PowerShell.jpg" /></td>
+        <td>Miscellaneous</td>
+        <td>PowerShell</td>
+        <td><a href="https://github.com/fleschutz/PowerShell" target="_blank">Mega Collection of PowerShell Scripts</a></td>
+        <td>Mega collection of 500+ useful cross-platform PowerShell scripts (.ps1).</td>
+        <th><a href="https://github.com/fleschutz/PowerShell" target="_blank"><img alt="Mega Collection of PowerShell Scripts" src="https://img.shields.io/github/stars/fleschutz/PowerShell?style=social" /></a></th>
     </tr>
 
 </table>
