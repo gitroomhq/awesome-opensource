@@ -889,6 +889,14 @@
         <th><a href="https://github.com/inlang/inlang" target="_blank"><img alt="inlang" src="https://img.shields.io/github/stars/inlang/inlang?style=social" /></a></th>
     </tr>
     <tr>
+        <td nowrap="nowrap"><img width="33" alt="TGUI" src="https://gitlibrary.club/images/uploads/2023/09/newshot-TGUI.png" /></td>
+        <td>Productivity</td>
+        <td>C++</td>
+        <td><a href="https://tgui.eu" target="_blank">TGUI</a></td>
+        <td>Cross-platform modern c++ GUI</td>
+        <th><a href="https://github.com/texus/TGUI" target="_blank"><img alt="TGUI" src="https://img.shields.io/github/stars/texus/TGUI?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="Drifty" src="https://gitlibrary.club/images/uploads/2023/09/newshot-Drifty.jpg" /></td>
         <td>Productivity</td>
         <td>Java</td>
@@ -1063,14 +1071,6 @@
         <td><a href="https://medplum.com" target="_blank">Medplum</a></td>
         <td>Medplum is a healthcare platform that helps you quickly develop high-quality compliant applications.</td>
         <th><a href="https://github.com/medplum/medplum" target="_blank"><img alt="Medplum" src="https://img.shields.io/github/stars/medplum/medplum?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="TGUI" src="https://gitlibrary.club/images/uploads/2023/09/newshot-TGUI.png" /></td>
-        <td>Productivity</td>
-        <td>C++</td>
-        <td><a href="https://tgui.eu" target="_blank">TGUI</a></td>
-        <td>Cross-platform modern c++ GUI</td>
-        <th><a href="https://github.com/texus/TGUI" target="_blank"><img alt="TGUI" src="https://img.shields.io/github/stars/texus/TGUI?style=social" /></a></th>
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="marimo" src="https://gitlibrary.club/images/uploads/2023/10/newshot-marimo.png" /></td>
@@ -3092,6 +3092,14 @@
         <th><a href="https://github.com/jankapunkt/latexcv" target="_blank"><img alt="LatexCV" src="https://img.shields.io/github/stars/jankapunkt/latexcv?style=social" /></a></th>
     </tr>
     <tr>
+        <td nowrap="nowrap"><img width="33" alt="TGUI" src="https://gitlibrary.club/images/uploads/2023/09/newshot-TGUI.png" /></td>
+        <td>Productivity</td>
+        <td>C++</td>
+        <td><a href="https://tgui.eu" target="_blank">TGUI</a></td>
+        <td>Cross-platform modern c++ GUI</td>
+        <th><a href="https://github.com/texus/TGUI" target="_blank"><img alt="TGUI" src="https://img.shields.io/github/stars/texus/TGUI?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="Drifty" src="https://gitlibrary.club/images/uploads/2023/09/newshot-Drifty.jpg" /></td>
         <td>Productivity</td>
         <td>Java</td>
@@ -3146,14 +3154,6 @@
         <td><a href="http://hofknecht.eu/systemtraymenu/" target="_blank">SystemTrayMenu</a></td>
         <td>SystemTrayMenu - Browse and open your files easily</td>
         <th><a href="https://github.com/Hofknecht/SystemTrayMenu" target="_blank"><img alt="SystemTrayMenu" src="https://img.shields.io/github/stars/Hofknecht/SystemTrayMenu?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="TGUI" src="https://gitlibrary.club/images/uploads/2023/09/newshot-TGUI.png" /></td>
-        <td>Productivity</td>
-        <td>C++</td>
-        <td><a href="https://tgui.eu" target="_blank">TGUI</a></td>
-        <td>Cross-platform modern c++ GUI</td>
-        <th><a href="https://github.com/texus/TGUI" target="_blank"><img alt="TGUI" src="https://img.shields.io/github/stars/texus/TGUI?style=social" /></a></th>
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="DocsGPT" src="https://gitlibrary.club/images/uploads/2023/05/newshot-DocsGPT.png" /></td>
@@ -12689,20 +12689,20 @@
         <th><a href="https://github.com/gansm/finalcut" target="_blank"><img alt="FINAL CUT" src="https://img.shields.io/github/stars/gansm/finalcut?style=social" /></a></th>
     </tr>
     <tr>
-        <td nowrap="nowrap"><img width="33" alt="lockfree" src="https://gitlibrary.club/images/uploads/2023/08/newshot-lockfree.jpg" /></td>
-        <td>Miscellaneous</td>
-        <td>C++</td>
-        <td><a href="https://github.com/DNedic/lockfree" target="_blank">lockfree</a></td>
-        <td>A collection of lock-free data structures written in standard C++11</td>
-        <th><a href="https://github.com/DNedic/lockfree" target="_blank"><img alt="lockfree" src="https://img.shields.io/github/stars/DNedic/lockfree?style=social" /></a></th>
-    </tr>
-    <tr>
         <td nowrap="nowrap"><img width="33" alt="TGUI" src="https://gitlibrary.club/images/uploads/2023/09/newshot-TGUI.png" /></td>
         <td>Productivity</td>
         <td>C++</td>
         <td><a href="https://tgui.eu" target="_blank">TGUI</a></td>
         <td>Cross-platform modern c++ GUI</td>
         <th><a href="https://github.com/texus/TGUI" target="_blank"><img alt="TGUI" src="https://img.shields.io/github/stars/texus/TGUI?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="lockfree" src="https://gitlibrary.club/images/uploads/2023/08/newshot-lockfree.jpg" /></td>
+        <td>Miscellaneous</td>
+        <td>C++</td>
+        <td><a href="https://github.com/DNedic/lockfree" target="_blank">lockfree</a></td>
+        <td>A collection of lock-free data structures written in standard C++11</td>
+        <th><a href="https://github.com/DNedic/lockfree" target="_blank"><img alt="lockfree" src="https://img.shields.io/github/stars/DNedic/lockfree?style=social" /></a></th>
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="wxWidgets" src="https://gitlibrary.club/images/uploads/2023/05/newshot-wxWidgets.png" /></td>
