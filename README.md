@@ -617,6 +617,14 @@
         <th><a href="https://github.com/ChunelFeng/CGraph" target="_blank"><img alt="CGraph" src="https://img.shields.io/github/stars/ChunelFeng/CGraph?style=social" /></a></th>
     </tr>
     <tr>
+        <td nowrap="nowrap"><img width="33" alt="Bitwarden" src="https://gitlibrary.club/images/uploads/2023/05/newshot-clients-1.png" /></td>
+        <td>Security</td>
+        <td>TypeScript</td>
+        <td><a href="https://bitwarden.com" target="_blank">Bitwarden</a></td>
+        <td>Bitwarden client applications (web, browser extension, desktop, and cli)</td>
+        <th><a href="https://github.com/bitwarden/clients" target="_blank"><img alt="Bitwarden" src="https://img.shields.io/github/stars/bitwarden/clients?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="Spider" src="https://gitlibrary.club/images/uploads/2023/07/newshot-spider.jpg" /></td>
         <td>Productivity</td>
         <td>Dart</td>
@@ -647,14 +655,6 @@
         <td><a href="https://github.com/Nialixus/api_bloc" target="_blank">API Bloc</a></td>
         <td>A Flutter library for managing API calls using the BLoC pattern. This library provides a set of classes and utilities to simplify API calls and manage state changes.</td>
         <th><a href="https://github.com/Nialixus/api_bloc" target="_blank"><img alt="API Bloc" src="https://img.shields.io/github/stars/Nialixus/api_bloc?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Bitwarden" src="https://gitlibrary.club/images/uploads/2023/05/newshot-clients-1.png" /></td>
-        <td>Security</td>
-        <td>TypeScript</td>
-        <td><a href="https://bitwarden.com" target="_blank">Bitwarden</a></td>
-        <td>Bitwarden client applications (web, browser extension, desktop, and cli)</td>
-        <th><a href="https://github.com/bitwarden/clients" target="_blank"><img alt="Bitwarden" src="https://img.shields.io/github/stars/bitwarden/clients?style=social" /></a></th>
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="Box Transform" src="https://gitlibrary.club/images/uploads/2023/07/newshot-box_transform.png" /></td>
@@ -7983,20 +7983,20 @@
         <th><a href="https://github.com/agency-kit/notion-cms" target="_blank"><img alt="NotionCMS" src="https://img.shields.io/github/stars/agency-kit/notion-cms?style=social" /></a></th>
     </tr>
     <tr>
-        <td nowrap="nowrap"><img width="33" alt="Snapify" src="https://gitlibrary.club/images/uploads/2023/07/newshot-snapify.png" /></td>
-        <td>Collaboration</td>
-        <td>TypeScript</td>
-        <td><a href="https://snapify.it" target="_blank">Snapify</a></td>
-        <td>Screen recording sharing for absolutely everyone.</td>
-        <th><a href="https://github.com/MarconLP/snapify" target="_blank"><img alt="Snapify" src="https://img.shields.io/github/stars/MarconLP/snapify?style=social" /></a></th>
-    </tr>
-    <tr>
         <td nowrap="nowrap"><img width="33" alt="Bitwarden" src="https://gitlibrary.club/images/uploads/2023/05/newshot-clients-1.png" /></td>
         <td>Security</td>
         <td>TypeScript</td>
         <td><a href="https://bitwarden.com" target="_blank">Bitwarden</a></td>
         <td>Bitwarden client applications (web, browser extension, desktop, and cli)</td>
         <th><a href="https://github.com/bitwarden/clients" target="_blank"><img alt="Bitwarden" src="https://img.shields.io/github/stars/bitwarden/clients?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Snapify" src="https://gitlibrary.club/images/uploads/2023/07/newshot-snapify.png" /></td>
+        <td>Collaboration</td>
+        <td>TypeScript</td>
+        <td><a href="https://snapify.it" target="_blank">Snapify</a></td>
+        <td>Screen recording sharing for absolutely everyone.</td>
+        <th><a href="https://github.com/MarconLP/snapify" target="_blank"><img alt="Snapify" src="https://img.shields.io/github/stars/MarconLP/snapify?style=social" /></a></th>
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="Configu" src="https://gitlibrary.club/images/uploads/2023/08/newshot-configu.png" /></td>
