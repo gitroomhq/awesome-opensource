@@ -162,6 +162,14 @@
         <th>Stargazers</th>
     </tr>
         <tr>
+        <td nowrap="nowrap"><img width="33" alt="Apitally client library for Node.js" src="https://gitlibrary.club/images/uploads/2023/12/newshot-nodejs-client.png" /></td>
+        <td>Observability</td>
+        <td>TypeScript</td>
+        <td><a href="https://apitally.io" target="_blank">Apitally client library for Node.js</a></td>
+        <td>Apitally client library for Node.js</td>
+        <th><a href="https://github.com/apitally/nodejs-client" target="_blank"><img alt="Apitally client library for Node.js" src="https://img.shields.io/github/stars/apitally/nodejs-client?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="win32" src="https://gitlibrary.club/images/uploads/2023/11/newshot-win32.png" /></td>
         <td>Productivity</td>
         <td>Dart</td>
@@ -312,14 +320,6 @@
         <td><a href="https://artistassistapp.com" target="_blank">ArtistAssistApp</a></td>
         <td>ArtistAssistApp - the web app to paint better with ease. Tools for realistic color mixing based on real paints, tonal value drawing, simplified sketching, and more. Perfect for artists of all level…</td>
         <th><a href="https://github.com/eugene-khyst/artistassistapp" target="_blank"><img alt="ArtistAssistApp" src="https://img.shields.io/github/stars/eugene-khyst/artistassistapp?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="leerming" src="https://gitlibrary.club/images/uploads/2023/11/newshot-leerming.png" /></td>
-        <td>Productivity</td>
-        <td>HTML</td>
-        <td><a href="https://leerming.com" target="_blank">leerming</a></td>
-        <td>An implementation of the Leitner box that can generate flashcards using llms from documents, youtube videos and web page links.</td>
-        <th><a href="https://github.com/Tobi-De/leerming" target="_blank"><img alt="leerming" src="https://img.shields.io/github/stars/Tobi-De/leerming?style=social" /></a></th>
     </tr>
 
 </table>
@@ -2924,6 +2924,14 @@
         <td><a href="https://docs.apitally.io" target="_blank">Apitally client library for Python</a></td>
         <td>Apitally client library for Python</td>
         <th><a href="https://github.com/apitally/python-client" target="_blank"><img alt="Apitally client library for Python" src="https://img.shields.io/github/stars/apitally/python-client?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Apitally client library for Node.js" src="https://gitlibrary.club/images/uploads/2023/12/newshot-nodejs-client.png" /></td>
+        <td>Observability</td>
+        <td>TypeScript</td>
+        <td><a href="https://apitally.io" target="_blank">Apitally client library for Node.js</a></td>
+        <td>Apitally client library for Node.js</td>
+        <th><a href="https://github.com/apitally/nodejs-client" target="_blank"><img alt="Apitally client library for Node.js" src="https://img.shields.io/github/stars/apitally/nodejs-client?style=social" /></a></th>
     </tr>
 
 </table>
@@ -9277,6 +9285,14 @@
         <td><a href="https://repohistory.com" target="_blank">Repohistory</a></td>
         <td>An open-source platform for tracking GitHub repo traffic history longer than 14 days.</td>
         <th><a href="https://github.com/repohistory/repohistory" target="_blank"><img alt="Repohistory" src="https://img.shields.io/github/stars/repohistory/repohistory?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Apitally client library for Node.js" src="https://gitlibrary.club/images/uploads/2023/12/newshot-nodejs-client.png" /></td>
+        <td>Observability</td>
+        <td>TypeScript</td>
+        <td><a href="https://apitally.io" target="_blank">Apitally client library for Node.js</a></td>
+        <td>Apitally client library for Node.js</td>
+        <th><a href="https://github.com/apitally/nodejs-client" target="_blank"><img alt="Apitally client library for Node.js" src="https://img.shields.io/github/stars/apitally/nodejs-client?style=social" /></a></th>
     </tr>
 
 </table>
