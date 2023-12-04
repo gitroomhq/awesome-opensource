@@ -178,6 +178,14 @@
         <th><a href="https://github.com/SylarLong/iztro" target="_blank"><img alt="iztro" src="https://img.shields.io/github/stars/SylarLong/iztro?style=social" /></a></th>
     </tr>
     <tr>
+        <td nowrap="nowrap"><img width="33" alt="google-maps-scraper" src="https://gitlibrary.club/images/uploads/2023/12/newshot-google-maps-scraper.jpg" /></td>
+        <td>Miscellaneous</td>
+        <td>Go</td>
+        <td><a href="https://github.com/gosom/google-maps-scraper" target="_blank">google-maps-scraper</a></td>
+        <td>scrape data data from Google Maps. Extracts data such as the name, address, phone number, website URL, rating, reviews number, latitude and longitude, reviews,email and more for each place</td>
+        <th><a href="https://github.com/gosom/google-maps-scraper" target="_blank"><img alt="google-maps-scraper" src="https://img.shields.io/github/stars/gosom/google-maps-scraper?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="win32" src="https://gitlibrary.club/images/uploads/2023/11/newshot-win32.png" /></td>
         <td>Productivity</td>
         <td>Dart</td>
@@ -312,14 +320,6 @@
         <td><a href="https://github.com/kapt-labs/django-check-seo" target="_blank">Django Check SEO</a></td>
         <td>Django Check SEO will check the SEO aspects of your site for you, and will provide advice in case of problems. Compatible with Django &amp; Django-CMS!</td>
         <th><a href="https://github.com/kapt-labs/django-check-seo" target="_blank"><img alt="Django Check SEO" src="https://img.shields.io/github/stars/kapt-labs/django-check-seo?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="OpenSign" src="https://gitlibrary.club/images/uploads/2023/11/newshot-OpenSign.png" /></td>
-        <td>Productivity</td>
-        <td>JavaScript</td>
-        <td><a href="https://www.opensignlabs.com" target="_blank">OpenSign</a></td>
-        <td>The free &amp; Open Source Alternative to DocuSign</td>
-        <th><a href="https://github.com/OpenSignLabs/OpenSign" target="_blank"><img alt="OpenSign" src="https://img.shields.io/github/stars/OpenSignLabs/OpenSign?style=social" /></a></th>
     </tr>
 
 </table>
@@ -2622,6 +2622,14 @@
         <td><a href="https://httpbin.dmuth.org/" target="_blank">FastAPI Httpbin</a></td>
         <td>HTTP Endpoints for easy testing of your app.</td>
         <th><a href="https://github.com/dmuth/fastapi-httpbin" target="_blank"><img alt="FastAPI Httpbin" src="https://img.shields.io/github/stars/dmuth/fastapi-httpbin?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="google-maps-scraper" src="https://gitlibrary.club/images/uploads/2023/12/newshot-google-maps-scraper.jpg" /></td>
+        <td>Miscellaneous</td>
+        <td>Go</td>
+        <td><a href="https://github.com/gosom/google-maps-scraper" target="_blank">google-maps-scraper</a></td>
+        <td>scrape data data from Google Maps. Extracts data such as the name, address, phone number, website URL, rating, reviews number, latitude and longitude, reviews,email and more for each place</td>
+        <th><a href="https://github.com/gosom/google-maps-scraper" target="_blank"><img alt="google-maps-scraper" src="https://img.shields.io/github/stars/gosom/google-maps-scraper?style=social" /></a></th>
     </tr>
 
 </table>
@@ -11853,6 +11861,14 @@
         <td><a href="https://digger.dev" target="_blank">Digger</a></td>
         <td>Digger is an open source IaC orchestration tool. Digger allows you to run IaC in your existing CI pipeline ⚡️ </td>
         <th><a href="https://github.com/diggerhq/digger" target="_blank"><img alt="Digger" src="https://img.shields.io/github/stars/diggerhq/digger?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="google-maps-scraper" src="https://gitlibrary.club/images/uploads/2023/12/newshot-google-maps-scraper.jpg" /></td>
+        <td>Miscellaneous</td>
+        <td>Go</td>
+        <td><a href="https://github.com/gosom/google-maps-scraper" target="_blank">google-maps-scraper</a></td>
+        <td>scrape data data from Google Maps. Extracts data such as the name, address, phone number, website URL, rating, reviews number, latitude and longitude, reviews,email and more for each place</td>
+        <th><a href="https://github.com/gosom/google-maps-scraper" target="_blank"><img alt="google-maps-scraper" src="https://img.shields.io/github/stars/gosom/google-maps-scraper?style=social" /></a></th>
     </tr>
 
 </table>
