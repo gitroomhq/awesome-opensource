@@ -170,6 +170,14 @@
         <th><a href="https://github.com/apitally/nodejs-client" target="_blank"><img alt="Apitally client library for Node.js" src="https://img.shields.io/github/stars/apitally/nodejs-client?style=social" /></a></th>
     </tr>
     <tr>
+        <td nowrap="nowrap"><img width="33" alt="iztro" src="https://gitlibrary.club/images/uploads/2023/12/newshot-iztro.jpg" /></td>
+        <td>Analytics</td>
+        <td>TypeScript</td>
+        <td><a href="https://iztro.com" target="_blank">iztro</a></td>
+        <td>⭐A lightweight Open-Source javascript library of getting The Purple Star Astrology(Zi Wei Dou Shu) astrolabe information. 支持多语言轻量级获取紫微斗数排盘信息的javascript开源库。</td>
+        <th><a href="https://github.com/SylarLong/iztro" target="_blank"><img alt="iztro" src="https://img.shields.io/github/stars/SylarLong/iztro?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="win32" src="https://gitlibrary.club/images/uploads/2023/11/newshot-win32.png" /></td>
         <td>Productivity</td>
         <td>Dart</td>
@@ -312,14 +320,6 @@
         <td><a href="https://www.opensignlabs.com" target="_blank">OpenSign</a></td>
         <td>The free &amp; Open Source Alternative to DocuSign</td>
         <th><a href="https://github.com/OpenSignLabs/OpenSign" target="_blank"><img alt="OpenSign" src="https://img.shields.io/github/stars/OpenSignLabs/OpenSign?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="ArtistAssistApp" src="https://gitlibrary.club/images/uploads/2023/11/newshot-artistassistapp.jpg" /></td>
-        <td>Miscellaneous</td>
-        <td>TypeScript</td>
-        <td><a href="https://artistassistapp.com" target="_blank">ArtistAssistApp</a></td>
-        <td>ArtistAssistApp - the web app to paint better with ease. Tools for realistic color mixing based on real paints, tonal value drawing, simplified sketching, and more. Perfect for artists of all level…</td>
-        <th><a href="https://github.com/eugene-khyst/artistassistapp" target="_blank"><img alt="ArtistAssistApp" src="https://img.shields.io/github/stars/eugene-khyst/artistassistapp?style=social" /></a></th>
     </tr>
 
 </table>
@@ -5345,6 +5345,14 @@
         <td>An open-source platform for tracking GitHub repo traffic history longer than 14 days.</td>
         <th><a href="https://github.com/repohistory/repohistory" target="_blank"><img alt="Repohistory" src="https://img.shields.io/github/stars/repohistory/repohistory?style=social" /></a></th>
     </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="iztro" src="https://gitlibrary.club/images/uploads/2023/12/newshot-iztro.jpg" /></td>
+        <td>Analytics</td>
+        <td>TypeScript</td>
+        <td><a href="https://iztro.com" target="_blank">iztro</a></td>
+        <td>⭐A lightweight Open-Source javascript library of getting The Purple Star Astrology(Zi Wei Dou Shu) astrolabe information. 支持多语言轻量级获取紫微斗数排盘信息的javascript开源库。</td>
+        <th><a href="https://github.com/SylarLong/iztro" target="_blank"><img alt="iztro" src="https://img.shields.io/github/stars/SylarLong/iztro?style=social" /></a></th>
+    </tr>
 
 </table>
 
@@ -9293,6 +9301,14 @@
         <td><a href="https://apitally.io" target="_blank">Apitally client library for Node.js</a></td>
         <td>Apitally client library for Node.js</td>
         <th><a href="https://github.com/apitally/nodejs-client" target="_blank"><img alt="Apitally client library for Node.js" src="https://img.shields.io/github/stars/apitally/nodejs-client?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="iztro" src="https://gitlibrary.club/images/uploads/2023/12/newshot-iztro.jpg" /></td>
+        <td>Analytics</td>
+        <td>TypeScript</td>
+        <td><a href="https://iztro.com" target="_blank">iztro</a></td>
+        <td>⭐A lightweight Open-Source javascript library of getting The Purple Star Astrology(Zi Wei Dou Shu) astrolabe information. 支持多语言轻量级获取紫微斗数排盘信息的javascript开源库。</td>
+        <th><a href="https://github.com/SylarLong/iztro" target="_blank"><img alt="iztro" src="https://img.shields.io/github/stars/SylarLong/iztro?style=social" /></a></th>
     </tr>
 
 </table>
