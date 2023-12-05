@@ -162,20 +162,20 @@
         <th>Stargazers</th>
     </tr>
         <tr>
-        <td nowrap="nowrap"><img width="33" alt="Apitally client library for Node.js" src="https://gitlibrary.club/images/uploads/2023/12/newshot-nodejs-client.png" /></td>
-        <td>Observability</td>
-        <td>TypeScript</td>
-        <td><a href="https://apitally.io" target="_blank">Apitally client library for Node.js</a></td>
-        <td>Apitally client library for Node.js</td>
-        <th><a href="https://github.com/apitally/nodejs-client" target="_blank"><img alt="Apitally client library for Node.js" src="https://img.shields.io/github/stars/apitally/nodejs-client?style=social" /></a></th>
-    </tr>
-    <tr>
         <td nowrap="nowrap"><img width="33" alt="iztro" src="https://gitlibrary.club/images/uploads/2023/12/newshot-iztro.jpg" /></td>
         <td>Analytics</td>
         <td>TypeScript</td>
         <td><a href="https://iztro.com" target="_blank">iztro</a></td>
         <td>⭐A lightweight Open-Source javascript library of getting The Purple Star Astrology(Zi Wei Dou Shu) astrolabe information. 支持多语言轻量级获取紫微斗数排盘信息的javascript开源库。</td>
         <th><a href="https://github.com/SylarLong/iztro" target="_blank"><img alt="iztro" src="https://img.shields.io/github/stars/SylarLong/iztro?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Apitally client library for Node.js" src="https://gitlibrary.club/images/uploads/2023/12/newshot-nodejs-client.png" /></td>
+        <td>Observability</td>
+        <td>TypeScript</td>
+        <td><a href="https://apitally.io" target="_blank">Apitally client library for Node.js</a></td>
+        <td>Apitally client library for Node.js</td>
+        <th><a href="https://github.com/apitally/nodejs-client" target="_blank"><img alt="Apitally client library for Node.js" src="https://img.shields.io/github/stars/apitally/nodejs-client?style=social" /></a></th>
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="google-maps-scraper" src="https://gitlibrary.club/images/uploads/2023/12/newshot-google-maps-scraper.jpg" /></td>
@@ -5082,6 +5082,14 @@
         <th><a href="https://github.com/VisActor/VChart" target="_blank"><img alt="VChart" src="https://img.shields.io/github/stars/VisActor/VChart?style=social" /></a></th>
     </tr>
     <tr>
+        <td nowrap="nowrap"><img width="33" alt="iztro" src="https://gitlibrary.club/images/uploads/2023/12/newshot-iztro.jpg" /></td>
+        <td>Analytics</td>
+        <td>TypeScript</td>
+        <td><a href="https://iztro.com" target="_blank">iztro</a></td>
+        <td>⭐A lightweight Open-Source javascript library of getting The Purple Star Astrology(Zi Wei Dou Shu) astrolabe information. 支持多语言轻量级获取紫微斗数排盘信息的javascript开源库。</td>
+        <th><a href="https://github.com/SylarLong/iztro" target="_blank"><img alt="iztro" src="https://img.shields.io/github/stars/SylarLong/iztro?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="OneFlow" src="https://gitlibrary.club/images/uploads/2023/05/newshot-oneflow.png" /></td>
         <td>Analytics</td>
         <td>C++</td>
@@ -5352,14 +5360,6 @@
         <td><a href="https://repohistory.com" target="_blank">Repohistory</a></td>
         <td>An open-source platform for tracking GitHub repo traffic history longer than 14 days.</td>
         <th><a href="https://github.com/repohistory/repohistory" target="_blank"><img alt="Repohistory" src="https://img.shields.io/github/stars/repohistory/repohistory?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="iztro" src="https://gitlibrary.club/images/uploads/2023/12/newshot-iztro.jpg" /></td>
-        <td>Analytics</td>
-        <td>TypeScript</td>
-        <td><a href="https://iztro.com" target="_blank">iztro</a></td>
-        <td>⭐A lightweight Open-Source javascript library of getting The Purple Star Astrology(Zi Wei Dou Shu) astrolabe information. 支持多语言轻量级获取紫微斗数排盘信息的javascript开源库。</td>
-        <th><a href="https://github.com/SylarLong/iztro" target="_blank"><img alt="iztro" src="https://img.shields.io/github/stars/SylarLong/iztro?style=social" /></a></th>
     </tr>
 
 </table>
@@ -8359,6 +8359,14 @@
         <th><a href="https://github.com/VisActor/VChart" target="_blank"><img alt="VChart" src="https://img.shields.io/github/stars/VisActor/VChart?style=social" /></a></th>
     </tr>
     <tr>
+        <td nowrap="nowrap"><img width="33" alt="iztro" src="https://gitlibrary.club/images/uploads/2023/12/newshot-iztro.jpg" /></td>
+        <td>Analytics</td>
+        <td>TypeScript</td>
+        <td><a href="https://iztro.com" target="_blank">iztro</a></td>
+        <td>⭐A lightweight Open-Source javascript library of getting The Purple Star Astrology(Zi Wei Dou Shu) astrolabe information. 支持多语言轻量级获取紫微斗数排盘信息的javascript开源库。</td>
+        <th><a href="https://github.com/SylarLong/iztro" target="_blank"><img alt="iztro" src="https://img.shields.io/github/stars/SylarLong/iztro?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="The Lounge" src="https://gitlibrary.club/images/uploads/2023/05/newshot-thelounge.png" /></td>
         <td>Collaboration</td>
         <td>TypeScript</td>
@@ -9317,14 +9325,6 @@
         <td><a href="https://apitally.io" target="_blank">Apitally client library for Node.js</a></td>
         <td>Apitally client library for Node.js</td>
         <th><a href="https://github.com/apitally/nodejs-client" target="_blank"><img alt="Apitally client library for Node.js" src="https://img.shields.io/github/stars/apitally/nodejs-client?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="iztro" src="https://gitlibrary.club/images/uploads/2023/12/newshot-iztro.jpg" /></td>
-        <td>Analytics</td>
-        <td>TypeScript</td>
-        <td><a href="https://iztro.com" target="_blank">iztro</a></td>
-        <td>⭐A lightweight Open-Source javascript library of getting The Purple Star Astrology(Zi Wei Dou Shu) astrolabe information. 支持多语言轻量级获取紫微斗数排盘信息的javascript开源库。</td>
-        <th><a href="https://github.com/SylarLong/iztro" target="_blank"><img alt="iztro" src="https://img.shields.io/github/stars/SylarLong/iztro?style=social" /></a></th>
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="Pieces OS Client" src="https://gitlibrary.club/images/uploads/2023/12/newshot-pieces-os-client-sdk-for-typescript-2.png" /></td>
