@@ -1129,12 +1129,12 @@
         <th><a href="https://github.com/graphql-editor/graphql-editor" target="_blank"><img alt="GraphQL Editor" src="https://img.shields.io/github/stars/graphql-editor/graphql-editor?style=social" /></a></th>
     </tr>
     <tr>
-        <td nowrap="nowrap"><img width="33" alt="Docusaurus" src="https://gitlibrary.club/images/uploads/2023/05/newshot-docusaurus.png" /></td>
-        <td>Productivity</td>
-        <td>TypeScript</td>
-        <td><a href="https://docusaurus.io" target="_blank">Docusaurus</a></td>
-        <td>Easy to maintain open source documentation websites.</td>
-        <th><a href="https://github.com/facebook/docusaurus" target="_blank"><img alt="Docusaurus" src="https://img.shields.io/github/stars/facebook/docusaurus?style=social" /></a></th>
+        <td nowrap="nowrap"><img width="33" alt="Cerbos" src="https://gitlibrary.club/images/uploads/2023/05/newshot-cerbos.png" /></td>
+        <td>Infrastructure</td>
+        <td>Go</td>
+        <td><a href="https://cerbos.dev" target="_blank">Cerbos</a></td>
+        <td>Cerbos is the open core, language-agnostic, scalable authorization solution that makes user permissions and authorization simple to implement and manage by writing context-aware access control poli…</td>
+        <th><a href="https://github.com/cerbos/cerbos" target="_blank"><img alt="Cerbos" src="https://img.shields.io/github/stars/cerbos/cerbos?style=social" /></a></th>
     </tr>
 
 </table>
@@ -6640,6 +6640,14 @@
         <th><a href="https://github.com/graphql-java/graphql-java" target="_blank"><img alt="GraphQL Java" src="https://img.shields.io/github/stars/graphql-java/graphql-java?style=social" /></a></th>
     </tr>
     <tr>
+        <td nowrap="nowrap"><img width="33" alt="Cerbos" src="https://gitlibrary.club/images/uploads/2023/05/newshot-cerbos.png" /></td>
+        <td>Infrastructure</td>
+        <td>Go</td>
+        <td><a href="https://cerbos.dev" target="_blank">Cerbos</a></td>
+        <td>Cerbos is the open core, language-agnostic, scalable authorization solution that makes user permissions and authorization simple to implement and manage by writing context-aware access control poli…</td>
+        <th><a href="https://github.com/cerbos/cerbos" target="_blank"><img alt="Cerbos" src="https://img.shields.io/github/stars/cerbos/cerbos?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="AutoFilterer" src="https://gitlibrary.club/images/uploads/2023/08/newshot-AutoFilterer.png" /></td>
         <td>Infrastructure</td>
         <td>C#</td>
@@ -7390,14 +7398,6 @@
         <td><a href="https://amplication.com" target="_blank">Amplication</a></td>
         <td>Auto-generating TypeScript, GraphQL, REST API, and Node.js, accelerating your full-stack development <g-emoji class="g-emoji" alias="rocket" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/1f680.png">?</g-emoji></td>
         <th><a href="https://github.com/amplication/amplication" target="_blank"><img alt="Amplication" src="https://img.shields.io/github/stars/amplication/amplication?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Cerbos" src="https://gitlibrary.club/images/uploads/2023/05/newshot-cerbos.png" /></td>
-        <td>Infrastructure</td>
-        <td>Go</td>
-        <td><a href="https://cerbos.dev" target="_blank">Cerbos</a></td>
-        <td>Cerbos is the open core, language-agnostic, scalable authorization solution that makes user permissions and authorization simple to implement and manage by writing context-aware access control poli…</td>
-        <th><a href="https://github.com/cerbos/cerbos" target="_blank"><img alt="Cerbos" src="https://img.shields.io/github/stars/cerbos/cerbos?style=social" /></a></th>
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="ZITADEL" src="https://gitlibrary.club/images/uploads/2023/05/newshot-zitadel-1.png" /></td>
@@ -11399,6 +11399,14 @@
         <th><a href="https://github.com/Jacalz/rymdport" target="_blank"><img alt="Rymdport" src="https://img.shields.io/github/stars/Jacalz/rymdport?style=social" /></a></th>
     </tr>
     <tr>
+        <td nowrap="nowrap"><img width="33" alt="Cerbos" src="https://gitlibrary.club/images/uploads/2023/05/newshot-cerbos.png" /></td>
+        <td>Infrastructure</td>
+        <td>Go</td>
+        <td><a href="https://cerbos.dev" target="_blank">Cerbos</a></td>
+        <td>Cerbos is the open core, language-agnostic, scalable authorization solution that makes user permissions and authorization simple to implement and manage by writing context-aware access control poli…</td>
+        <th><a href="https://github.com/cerbos/cerbos" target="_blank"><img alt="Cerbos" src="https://img.shields.io/github/stars/cerbos/cerbos?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="Telego" src="https://gitlibrary.club/images/uploads/2023/05/newshot-telego.jpg" /></td>
         <td>Notifications</td>
         <td>Go</td>
@@ -11709,14 +11717,6 @@
         <td><a href="https://watermill.io" target="_blank">ThreeDotsLabs/watermill</a></td>
         <td>Building event-driven applications the easy way in Go.</td>
         <th><a href="https://github.com/ThreeDotsLabs/watermill" target="_blank"><img alt="ThreeDotsLabs/watermill" src="https://img.shields.io/github/stars/ThreeDotsLabs/watermill?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Cerbos" src="https://gitlibrary.club/images/uploads/2023/05/newshot-cerbos.png" /></td>
-        <td>Infrastructure</td>
-        <td>Go</td>
-        <td><a href="https://cerbos.dev" target="_blank">Cerbos</a></td>
-        <td>Cerbos is the open core, language-agnostic, scalable authorization solution that makes user permissions and authorization simple to implement and manage by writing context-aware access control poli…</td>
-        <th><a href="https://github.com/cerbos/cerbos" target="_blank"><img alt="Cerbos" src="https://img.shields.io/github/stars/cerbos/cerbos?style=social" /></a></th>
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="ZITADEL" src="https://gitlibrary.club/images/uploads/2023/05/newshot-zitadel-1.png" /></td>
