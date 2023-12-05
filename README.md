@@ -186,6 +186,14 @@
         <th><a href="https://github.com/gosom/google-maps-scraper" target="_blank"><img alt="google-maps-scraper" src="https://img.shields.io/github/stars/gosom/google-maps-scraper?style=social" /></a></th>
     </tr>
     <tr>
+        <td nowrap="nowrap"><img width="33" alt="Pieces OS Client" src="https://gitlibrary.club/images/uploads/2023/12/newshot-pieces-os-client-sdk-for-typescript-2.png" /></td>
+        <td>Infrastructure</td>
+        <td>TypeScript</td>
+        <td><a href="https://github.com/pieces-app/pieces-os-client-sdk-for-typescript" target="_blank">Pieces OS Client</a></td>
+        <td>Pieces APIs for functional usage with Pieces OS on your local machine. Open Source by Pieces</td>
+        <th><a href="https://github.com/pieces-app/pieces-os-client-sdk-for-typescript" target="_blank"><img alt="Pieces OS Client" src="https://img.shields.io/github/stars/pieces-app/pieces-os-client-sdk-for-typescript?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="win32" src="https://gitlibrary.club/images/uploads/2023/11/newshot-win32.png" /></td>
         <td>Productivity</td>
         <td>Dart</td>
@@ -312,14 +320,6 @@
         <td><a href="https://github.com/DaveSimoes/Backend_Brasil" target="_blank">Backend_Brasil</a></td>
         <td>This repository aims to be just one more tool to help everyone who wish to become a professional Backend/Este repositório tem como objetivo ser apenas mais uma ferramenta para ajudar a todos os que…</td>
         <th><a href="https://github.com/DaveSimoes/Backend_Brasil" target="_blank"><img alt="Backend_Brasil" src="https://img.shields.io/github/stars/DaveSimoes/Backend_Brasil?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Django Check SEO" src="https://gitlibrary.club/images/uploads/2023/11/newshot-django-check-seo.png" /></td>
-        <td>Productivity</td>
-        <td>Python</td>
-        <td><a href="https://github.com/kapt-labs/django-check-seo" target="_blank">Django Check SEO</a></td>
-        <td>Django Check SEO will check the SEO aspects of your site for you, and will provide advice in case of problems. Compatible with Django &amp; Django-CMS!</td>
-        <th><a href="https://github.com/kapt-labs/django-check-seo" target="_blank"><img alt="Django Check SEO" src="https://img.shields.io/github/stars/kapt-labs/django-check-seo?style=social" /></a></th>
     </tr>
 
 </table>
@@ -7927,6 +7927,14 @@
         <td>Digger is an open source IaC orchestration tool. Digger allows you to run IaC in your existing CI pipeline ⚡️ </td>
         <th><a href="https://github.com/diggerhq/digger" target="_blank"><img alt="Digger" src="https://img.shields.io/github/stars/diggerhq/digger?style=social" /></a></th>
     </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Pieces OS Client" src="https://gitlibrary.club/images/uploads/2023/12/newshot-pieces-os-client-sdk-for-typescript-2.png" /></td>
+        <td>Infrastructure</td>
+        <td>TypeScript</td>
+        <td><a href="https://github.com/pieces-app/pieces-os-client-sdk-for-typescript" target="_blank">Pieces OS Client</a></td>
+        <td>Pieces APIs for functional usage with Pieces OS on your local machine. Open Source by Pieces</td>
+        <th><a href="https://github.com/pieces-app/pieces-os-client-sdk-for-typescript" target="_blank"><img alt="Pieces OS Client" src="https://img.shields.io/github/stars/pieces-app/pieces-os-client-sdk-for-typescript?style=social" /></a></th>
+    </tr>
 
 </table>
 
@@ -9317,6 +9325,14 @@
         <td><a href="https://iztro.com" target="_blank">iztro</a></td>
         <td>⭐A lightweight Open-Source javascript library of getting The Purple Star Astrology(Zi Wei Dou Shu) astrolabe information. 支持多语言轻量级获取紫微斗数排盘信息的javascript开源库。</td>
         <th><a href="https://github.com/SylarLong/iztro" target="_blank"><img alt="iztro" src="https://img.shields.io/github/stars/SylarLong/iztro?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Pieces OS Client" src="https://gitlibrary.club/images/uploads/2023/12/newshot-pieces-os-client-sdk-for-typescript-2.png" /></td>
+        <td>Infrastructure</td>
+        <td>TypeScript</td>
+        <td><a href="https://github.com/pieces-app/pieces-os-client-sdk-for-typescript" target="_blank">Pieces OS Client</a></td>
+        <td>Pieces APIs for functional usage with Pieces OS on your local machine. Open Source by Pieces</td>
+        <th><a href="https://github.com/pieces-app/pieces-os-client-sdk-for-typescript" target="_blank"><img alt="Pieces OS Client" src="https://img.shields.io/github/stars/pieces-app/pieces-os-client-sdk-for-typescript?style=social" /></a></th>
     </tr>
 
 </table>
