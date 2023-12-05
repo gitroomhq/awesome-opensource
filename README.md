@@ -162,6 +162,14 @@
         <th>Stargazers</th>
     </tr>
         <tr>
+        <td nowrap="nowrap"><img width="33" alt="Impler.io" src="https://gitlibrary.club/images/uploads/2023/12/newshot-impler.io_.png" /></td>
+        <td>Miscellaneous</td>
+        <td>TypeScript</td>
+        <td><a href="https://impler.io" target="_blank">Impler.io</a></td>
+        <td>Open source CSV &amp; Excel file import experience. Integrate and release data import experience in few minutes.</td>
+        <th><a href="https://github.com/implerhq/impler.io" target="_blank"><img alt="Impler.io" src="https://img.shields.io/github/stars/implerhq/impler.io?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="iztro" src="https://gitlibrary.club/images/uploads/2023/12/newshot-iztro.jpg" /></td>
         <td>Analytics</td>
         <td>TypeScript</td>
@@ -312,14 +320,6 @@
         <td><a href="http://langtest.org/" target="_blank">LangTest</a></td>
         <td>Deliver safe &amp; effective language models</td>
         <th><a href="https://github.com/JohnSnowLabs/langtest" target="_blank"><img alt="LangTest" src="https://img.shields.io/github/stars/JohnSnowLabs/langtest?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Backend_Brasil" src="https://gitlibrary.club/images/uploads/2023/11/newshot-Backend_Brasil.png" /></td>
-        <td>Miscellaneous</td>
-        <td>undefined</td>
-        <td><a href="https://github.com/DaveSimoes/Backend_Brasil" target="_blank">Backend_Brasil</a></td>
-        <td>This repository aims to be just one more tool to help everyone who wish to become a professional Backend/Este repositório tem como objetivo ser apenas mais uma ferramenta para ajudar a todos os que…</td>
-        <th><a href="https://github.com/DaveSimoes/Backend_Brasil" target="_blank"><img alt="Backend_Brasil" src="https://img.shields.io/github/stars/DaveSimoes/Backend_Brasil?style=social" /></a></th>
     </tr>
 
 </table>
@@ -2630,6 +2630,14 @@
         <td><a href="https://github.com/gosom/google-maps-scraper" target="_blank">google-maps-scraper</a></td>
         <td>scrape data data from Google Maps. Extracts data such as the name, address, phone number, website URL, rating, reviews number, latitude and longitude, reviews,email and more for each place</td>
         <th><a href="https://github.com/gosom/google-maps-scraper" target="_blank"><img alt="google-maps-scraper" src="https://img.shields.io/github/stars/gosom/google-maps-scraper?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Impler.io" src="https://gitlibrary.club/images/uploads/2023/12/newshot-impler.io_.png" /></td>
+        <td>Miscellaneous</td>
+        <td>TypeScript</td>
+        <td><a href="https://impler.io" target="_blank">Impler.io</a></td>
+        <td>Open source CSV &amp; Excel file import experience. Integrate and release data import experience in few minutes.</td>
+        <th><a href="https://github.com/implerhq/impler.io" target="_blank"><img alt="Impler.io" src="https://img.shields.io/github/stars/implerhq/impler.io?style=social" /></a></th>
     </tr>
 
 </table>
@@ -9333,6 +9341,14 @@
         <td><a href="https://github.com/pieces-app/pieces-os-client-sdk-for-typescript" target="_blank">Pieces OS Client</a></td>
         <td>Pieces APIs for functional usage with Pieces OS on your local machine. Open Source by Pieces</td>
         <th><a href="https://github.com/pieces-app/pieces-os-client-sdk-for-typescript" target="_blank"><img alt="Pieces OS Client" src="https://img.shields.io/github/stars/pieces-app/pieces-os-client-sdk-for-typescript?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Impler.io" src="https://gitlibrary.club/images/uploads/2023/12/newshot-impler.io_.png" /></td>
+        <td>Miscellaneous</td>
+        <td>TypeScript</td>
+        <td><a href="https://impler.io" target="_blank">Impler.io</a></td>
+        <td>Open source CSV &amp; Excel file import experience. Integrate and release data import experience in few minutes.</td>
+        <th><a href="https://github.com/implerhq/impler.io" target="_blank"><img alt="Impler.io" src="https://img.shields.io/github/stars/implerhq/impler.io?style=social" /></a></th>
     </tr>
 
 </table>
