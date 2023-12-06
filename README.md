@@ -162,6 +162,14 @@
         <th>Stargazers</th>
     </tr>
         <tr>
+        <td nowrap="nowrap"><img width="33" alt="Dittofeed" src="https://gitlibrary.club/images/uploads/2023/12/newshot-dittofeed.png" /></td>
+        <td>Miscellaneous</td>
+        <td>TypeScript</td>
+        <td><a href="https://dittofeed.com/" target="_blank">Dittofeed</a></td>
+        <td>Send marketing messages at scale ?</td>
+        <th><a href="https://github.com/dittofeed/dittofeed" target="_blank"><img alt="Dittofeed" src="https://img.shields.io/github/stars/dittofeed/dittofeed?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="Impler.io" src="https://gitlibrary.club/images/uploads/2023/12/newshot-impler.io_.png" /></td>
         <td>Miscellaneous</td>
         <td>TypeScript</td>
@@ -312,14 +320,6 @@
         <td><a href="https://github.com/VisActor/VTable" target="_blank">VTable</a></td>
         <td>VTable is not just a high-performance multidimensional data analysis table, but also a grid artist that creates art between rows and columns.</td>
         <th><a href="https://github.com/VisActor/VTable" target="_blank"><img alt="VTable" src="https://img.shields.io/github/stars/VisActor/VTable?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="VGrammar" src="https://gitlibrary.club/images/uploads/2023/11/newshot-VGrammar-1.png" /></td>
-        <td>Analytics</td>
-        <td>TypeScript</td>
-        <td><a href="https://github.com/VisActor/VGrammar" target="_blank">VGrammar</a></td>
-        <td>VGrammar is a kind of grammar of data visualization</td>
-        <th><a href="https://github.com/VisActor/VGrammar" target="_blank"><img alt="VGrammar" src="https://img.shields.io/github/stars/VisActor/VGrammar?style=social" /></a></th>
     </tr>
 
 </table>
@@ -2638,6 +2638,14 @@
         <td><a href="https://github.com/gosom/google-maps-scraper" target="_blank">google-maps-scraper</a></td>
         <td>scrape data data from Google Maps. Extracts data such as the name, address, phone number, website URL, rating, reviews number, latitude and longitude, reviews,email and more for each place</td>
         <th><a href="https://github.com/gosom/google-maps-scraper" target="_blank"><img alt="google-maps-scraper" src="https://img.shields.io/github/stars/gosom/google-maps-scraper?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Dittofeed" src="https://gitlibrary.club/images/uploads/2023/12/newshot-dittofeed.png" /></td>
+        <td>Miscellaneous</td>
+        <td>TypeScript</td>
+        <td><a href="https://dittofeed.com/" target="_blank">Dittofeed</a></td>
+        <td>Send marketing messages at scale ?</td>
+        <th><a href="https://github.com/dittofeed/dittofeed" target="_blank"><img alt="Dittofeed" src="https://img.shields.io/github/stars/dittofeed/dittofeed?style=social" /></a></th>
     </tr>
 
 </table>
@@ -9357,6 +9365,14 @@
         <td><a href="https://github.com/pieces-app/pieces-os-client-sdk-for-typescript" target="_blank">Pieces OS Client</a></td>
         <td>Pieces APIs for functional usage with Pieces OS on your local machine. Open Source by Pieces</td>
         <th><a href="https://github.com/pieces-app/pieces-os-client-sdk-for-typescript" target="_blank"><img alt="Pieces OS Client" src="https://img.shields.io/github/stars/pieces-app/pieces-os-client-sdk-for-typescript?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Dittofeed" src="https://gitlibrary.club/images/uploads/2023/12/newshot-dittofeed.png" /></td>
+        <td>Miscellaneous</td>
+        <td>TypeScript</td>
+        <td><a href="https://dittofeed.com/" target="_blank">Dittofeed</a></td>
+        <td>Send marketing messages at scale ?</td>
+        <th><a href="https://github.com/dittofeed/dittofeed" target="_blank"><img alt="Dittofeed" src="https://img.shields.io/github/stars/dittofeed/dittofeed?style=social" /></a></th>
     </tr>
 
 </table>
