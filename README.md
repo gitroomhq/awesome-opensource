@@ -170,6 +170,14 @@
         <th><a href="https://github.com/implerhq/impler.io" target="_blank"><img alt="Impler.io" src="https://img.shields.io/github/stars/implerhq/impler.io?style=social" /></a></th>
     </tr>
     <tr>
+        <td nowrap="nowrap"><img width="33" alt="Lyzr AI" src="https://gitlibrary.club/images/uploads/2023/12/newshot-lyzr.png" /></td>
+        <td>Infrastructure</td>
+        <td>Python</td>
+        <td><a href="https://github.com/LyzrCore/lyzr" target="_blank">Lyzr AI</a></td>
+        <td>Lyzr SDKs help you to build all your favorite GenAI SaaS products as enterprise applications in minutes.</td>
+        <th><a href="https://github.com/LyzrCore/lyzr" target="_blank"><img alt="Lyzr AI" src="https://img.shields.io/github/stars/LyzrCore/lyzr?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="iztro" src="https://gitlibrary.club/images/uploads/2023/12/newshot-iztro.jpg" /></td>
         <td>Analytics</td>
         <td>TypeScript</td>
@@ -312,14 +320,6 @@
         <td><a href="https://github.com/VisActor/VGrammar" target="_blank">VGrammar</a></td>
         <td>VGrammar is a kind of grammar of data visualization</td>
         <th><a href="https://github.com/VisActor/VGrammar" target="_blank"><img alt="VGrammar" src="https://img.shields.io/github/stars/VisActor/VGrammar?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="LangTest" src="https://gitlibrary.club/images/uploads/2023/11/newshot-langtest.jpg" /></td>
-        <td>Productivity</td>
-        <td>Python</td>
-        <td><a href="http://langtest.org/" target="_blank">LangTest</a></td>
-        <td>Deliver safe &amp; effective language models</td>
-        <th><a href="https://github.com/JohnSnowLabs/langtest" target="_blank"><img alt="LangTest" src="https://img.shields.io/github/stars/JohnSnowLabs/langtest?style=social" /></a></th>
     </tr>
 
 </table>
@@ -7943,6 +7943,14 @@
         <td>Pieces APIs for functional usage with Pieces OS on your local machine. Open Source by Pieces</td>
         <th><a href="https://github.com/pieces-app/pieces-os-client-sdk-for-typescript" target="_blank"><img alt="Pieces OS Client" src="https://img.shields.io/github/stars/pieces-app/pieces-os-client-sdk-for-typescript?style=social" /></a></th>
     </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Lyzr AI" src="https://gitlibrary.club/images/uploads/2023/12/newshot-lyzr.png" /></td>
+        <td>Infrastructure</td>
+        <td>Python</td>
+        <td><a href="https://github.com/LyzrCore/lyzr" target="_blank">Lyzr AI</a></td>
+        <td>Lyzr SDKs help you to build all your favorite GenAI SaaS products as enterprise applications in minutes.</td>
+        <th><a href="https://github.com/LyzrCore/lyzr" target="_blank"><img alt="Lyzr AI" src="https://img.shields.io/github/stars/LyzrCore/lyzr?style=social" /></a></th>
+    </tr>
 
 </table>
 
@@ -11359,6 +11367,14 @@
         <td><a href="https://docs.apitally.io" target="_blank">Apitally client library for Python</a></td>
         <td>Apitally client library for Python</td>
         <th><a href="https://github.com/apitally/python-client" target="_blank"><img alt="Apitally client library for Python" src="https://img.shields.io/github/stars/apitally/python-client?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Lyzr AI" src="https://gitlibrary.club/images/uploads/2023/12/newshot-lyzr.png" /></td>
+        <td>Infrastructure</td>
+        <td>Python</td>
+        <td><a href="https://github.com/LyzrCore/lyzr" target="_blank">Lyzr AI</a></td>
+        <td>Lyzr SDKs help you to build all your favorite GenAI SaaS products as enterprise applications in minutes.</td>
+        <th><a href="https://github.com/LyzrCore/lyzr" target="_blank"><img alt="Lyzr AI" src="https://img.shields.io/github/stars/LyzrCore/lyzr?style=social" /></a></th>
     </tr>
 
 </table>
