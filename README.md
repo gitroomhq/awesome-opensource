@@ -162,6 +162,14 @@
         <th>Stargazers</th>
     </tr>
         <tr>
+        <td nowrap="nowrap"><img width="33" alt="ClassroomIO" src="https://gitlibrary.club/images/uploads/2023/12/newshot-classroomio.jpg" /></td>
+        <td>Collaboration</td>
+        <td>TypeScript</td>
+        <td><a href="https://classroomio.com" target="_blank">ClassroomIO</a></td>
+        <td>The Open Source Platform for Tech Bootcamp</td>
+        <th><a href="https://github.com/rotimi-best/classroomio" target="_blank"><img alt="ClassroomIO" src="https://img.shields.io/github/stars/rotimi-best/classroomio?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="Dittofeed" src="https://gitlibrary.club/images/uploads/2023/12/newshot-dittofeed.png" /></td>
         <td>Miscellaneous</td>
         <td>TypeScript</td>
@@ -312,14 +320,6 @@
         <td><a href="https://www.visactor.io/vchart" target="_blank">VChart</a></td>
         <td>VChart, more than just a cross-platform charting library, but also an expressive data storyteller.</td>
         <th><a href="https://github.com/VisActor/VChart" target="_blank"><img alt="VChart" src="https://img.shields.io/github/stars/VisActor/VChart?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="VTable" src="https://gitlibrary.club/images/uploads/2023/11/newshot-VTable.png" /></td>
-        <td>Analytics</td>
-        <td>TypeScript</td>
-        <td><a href="https://github.com/VisActor/VTable" target="_blank">VTable</a></td>
-        <td>VTable is not just a high-performance multidimensional data analysis table, but also a grid artist that creates art between rows and columns.</td>
-        <th><a href="https://github.com/VisActor/VTable" target="_blank"><img alt="VTable" src="https://img.shields.io/github/stars/VisActor/VTable?style=social" /></a></th>
     </tr>
 
 </table>
@@ -6141,6 +6141,14 @@
         <td>Collection of essential React Hooks Utilities.</td>
         <th><a href="https://github.com/childrentime/reactuse" target="_blank"><img alt="ReactUse" src="https://img.shields.io/github/stars/childrentime/reactuse?style=social" /></a></th>
     </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="ClassroomIO" src="https://gitlibrary.club/images/uploads/2023/12/newshot-classroomio.jpg" /></td>
+        <td>Collaboration</td>
+        <td>TypeScript</td>
+        <td><a href="https://classroomio.com" target="_blank">ClassroomIO</a></td>
+        <td>The Open Source Platform for Tech Bootcamp</td>
+        <th><a href="https://github.com/rotimi-best/classroomio" target="_blank"><img alt="ClassroomIO" src="https://img.shields.io/github/stars/rotimi-best/classroomio?style=social" /></a></th>
+    </tr>
 
 </table>
 
@@ -9373,6 +9381,14 @@
         <td><a href="https://dittofeed.com/" target="_blank">Dittofeed</a></td>
         <td>Send marketing messages at scale ?</td>
         <th><a href="https://github.com/dittofeed/dittofeed" target="_blank"><img alt="Dittofeed" src="https://img.shields.io/github/stars/dittofeed/dittofeed?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="ClassroomIO" src="https://gitlibrary.club/images/uploads/2023/12/newshot-classroomio.jpg" /></td>
+        <td>Collaboration</td>
+        <td>TypeScript</td>
+        <td><a href="https://classroomio.com" target="_blank">ClassroomIO</a></td>
+        <td>The Open Source Platform for Tech Bootcamp</td>
+        <th><a href="https://github.com/rotimi-best/classroomio" target="_blank"><img alt="ClassroomIO" src="https://img.shields.io/github/stars/rotimi-best/classroomio?style=social" /></a></th>
     </tr>
 
 </table>
