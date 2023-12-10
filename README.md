@@ -162,6 +162,22 @@
         <th>Stargazers</th>
     </tr>
         <tr>
+        <td nowrap="nowrap"><img width="33" alt="Huma" src="https://gitlibrary.club/images/uploads/2023/12/newshot-huma.jpg" /></td>
+        <td>Productivity</td>
+        <td>Go</td>
+        <td><a href="https://huma.rocks/" target="_blank">Huma</a></td>
+        <td>Huma REST/HTTP API Framework for Golang with OpenAPI 3</td>
+        <th><a href="https://github.com/danielgtaylor/huma" target="_blank"><img alt="Huma" src="https://img.shields.io/github/stars/danielgtaylor/huma?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Canary Checker" src="https://gitlibrary.club/images/uploads/2023/12/newshot-canary-checker.png" /></td>
+        <td>Observability</td>
+        <td>Go</td>
+        <td><a href="https://canarychecker.io" target="_blank">Canary Checker</a></td>
+        <td>Kubernetes operator for executing synthetic tests</td>
+        <th><a href="https://github.com/flanksource/canary-checker" target="_blank"><img alt="Canary Checker" src="https://img.shields.io/github/stars/flanksource/canary-checker?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="ClassroomIO" src="https://gitlibrary.club/images/uploads/2023/12/newshot-classroomio.jpg" /></td>
         <td>Collaboration</td>
         <td>TypeScript</td>
@@ -304,22 +320,6 @@
         <td><a href="https://flipt.io" target="_blank">Flipt</a></td>
         <td>An open source, self-hosted feature flag solution</td>
         <th><a href="https://github.com/flipt-io/flipt" target="_blank"><img alt="Flipt" src="https://img.shields.io/github/stars/flipt-io/flipt?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="SuperDuperDB" src="https://gitlibrary.club/images/uploads/2023/11/newshot-superduperdb.png" /></td>
-        <td>Databases</td>
-        <td>Python</td>
-        <td><a href="https://superduperdb.com" target="_blank">SuperDuperDB</a></td>
-        <td>? SuperDuperDB: Bring AI to your favourite database! Integrate, train and manage any AI models and APIs directly with your database and your data. </td>
-        <th><a href="https://github.com/SuperDuperDB/superduperdb" target="_blank"><img alt="SuperDuperDB" src="https://img.shields.io/github/stars/SuperDuperDB/superduperdb?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="VChart" src="https://gitlibrary.club/images/uploads/2023/11/newshot-VChart.png" /></td>
-        <td>Analytics</td>
-        <td>TypeScript</td>
-        <td><a href="https://www.visactor.io/vchart" target="_blank">VChart</a></td>
-        <td>VChart, more than just a cross-platform charting library, but also an expressive data storyteller.</td>
-        <th><a href="https://github.com/VisActor/VChart" target="_blank"><img alt="VChart" src="https://img.shields.io/github/stars/VisActor/VChart?style=social" /></a></th>
     </tr>
 
 </table>
@@ -2957,6 +2957,14 @@
         <td>Apitally client library for Node.js</td>
         <th><a href="https://github.com/apitally/nodejs-client" target="_blank"><img alt="Apitally client library for Node.js" src="https://img.shields.io/github/stars/apitally/nodejs-client?style=social" /></a></th>
     </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Canary Checker" src="https://gitlibrary.club/images/uploads/2023/12/newshot-canary-checker.png" /></td>
+        <td>Observability</td>
+        <td>Go</td>
+        <td><a href="https://canarychecker.io" target="_blank">Canary Checker</a></td>
+        <td>Kubernetes operator for executing synthetic tests</td>
+        <th><a href="https://github.com/flanksource/canary-checker" target="_blank"><img alt="Canary Checker" src="https://img.shields.io/github/stars/flanksource/canary-checker?style=social" /></a></th>
+    </tr>
 
 </table>
 
@@ -4986,6 +4994,14 @@
         <td><a href="https://github.com/promptdesk/promptdesk" target="_blank">PromptDesk</a></td>
         <td>Promptdesk is a tool designed for effectively creating, organizing, and evaluating prompts and large language models (LLMs).</td>
         <th><a href="https://github.com/promptdesk/promptdesk" target="_blank"><img alt="PromptDesk" src="https://img.shields.io/github/stars/promptdesk/promptdesk?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Huma" src="https://gitlibrary.club/images/uploads/2023/12/newshot-huma.jpg" /></td>
+        <td>Productivity</td>
+        <td>Go</td>
+        <td><a href="https://huma.rocks/" target="_blank">Huma</a></td>
+        <td>Huma REST/HTTP API Framework for Golang with OpenAPI 3</td>
+        <th><a href="https://github.com/danielgtaylor/huma" target="_blank"><img alt="Huma" src="https://img.shields.io/github/stars/danielgtaylor/huma?style=social" /></a></th>
     </tr>
 
 </table>
@@ -11949,6 +11965,22 @@
         <td><a href="https://github.com/gosom/google-maps-scraper" target="_blank">google-maps-scraper</a></td>
         <td>scrape data data from Google Maps. Extracts data such as the name, address, phone number, website URL, rating, reviews number, latitude and longitude, reviews,email and more for each place</td>
         <th><a href="https://github.com/gosom/google-maps-scraper" target="_blank"><img alt="google-maps-scraper" src="https://img.shields.io/github/stars/gosom/google-maps-scraper?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Huma" src="https://gitlibrary.club/images/uploads/2023/12/newshot-huma.jpg" /></td>
+        <td>Productivity</td>
+        <td>Go</td>
+        <td><a href="https://huma.rocks/" target="_blank">Huma</a></td>
+        <td>Huma REST/HTTP API Framework for Golang with OpenAPI 3</td>
+        <th><a href="https://github.com/danielgtaylor/huma" target="_blank"><img alt="Huma" src="https://img.shields.io/github/stars/danielgtaylor/huma?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Canary Checker" src="https://gitlibrary.club/images/uploads/2023/12/newshot-canary-checker.png" /></td>
+        <td>Observability</td>
+        <td>Go</td>
+        <td><a href="https://canarychecker.io" target="_blank">Canary Checker</a></td>
+        <td>Kubernetes operator for executing synthetic tests</td>
+        <th><a href="https://github.com/flanksource/canary-checker" target="_blank"><img alt="Canary Checker" src="https://img.shields.io/github/stars/flanksource/canary-checker?style=social" /></a></th>
     </tr>
 
 </table>
