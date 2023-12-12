@@ -162,6 +162,14 @@
         <th>Stargazers</th>
     </tr>
         <tr>
+        <td nowrap="nowrap"><img width="33" alt="Watermelon" src="https://gitlibrary.club/images/uploads/2023/12/newshot-watermelon.png" /></td>
+        <td>Collaboration</td>
+        <td>TypeScript</td>
+        <td><a href="https://app.watermelontools.com" target="_blank">Watermelon</a></td>
+        <td>? Open-Source Copilot For Code Review</td>
+        <th><a href="https://github.com/watermelontools/watermelon" target="_blank"><img alt="Watermelon" src="https://img.shields.io/github/stars/watermelontools/watermelon?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="Huma" src="https://gitlibrary.club/images/uploads/2023/12/newshot-huma.jpg" /></td>
         <td>Productivity</td>
         <td>Go</td>
@@ -312,14 +320,6 @@
         <td><a href="https://digger.dev" target="_blank">Digger</a></td>
         <td>Digger is an open source IaC orchestration tool. Digger allows you to run IaC in your existing CI pipeline ⚡️ </td>
         <th><a href="https://github.com/diggerhq/digger" target="_blank"><img alt="Digger" src="https://img.shields.io/github/stars/diggerhq/digger?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Flipt" src="https://gitlibrary.club/images/uploads/2023/11/newshot-flipt.png" /></td>
-        <td>Miscellaneous</td>
-        <td>Go</td>
-        <td><a href="https://flipt.io" target="_blank">Flipt</a></td>
-        <td>An open source, self-hosted feature flag solution</td>
-        <th><a href="https://github.com/flipt-io/flipt" target="_blank"><img alt="Flipt" src="https://img.shields.io/github/stars/flipt-io/flipt?style=social" /></a></th>
     </tr>
 
 </table>
@@ -6165,6 +6165,14 @@
         <td>The Open Source Platform for Tech Bootcamp</td>
         <th><a href="https://github.com/rotimi-best/classroomio" target="_blank"><img alt="ClassroomIO" src="https://img.shields.io/github/stars/rotimi-best/classroomio?style=social" /></a></th>
     </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Watermelon" src="https://gitlibrary.club/images/uploads/2023/12/newshot-watermelon.png" /></td>
+        <td>Collaboration</td>
+        <td>TypeScript</td>
+        <td><a href="https://app.watermelontools.com" target="_blank">Watermelon</a></td>
+        <td>? Open-Source Copilot For Code Review</td>
+        <th><a href="https://github.com/watermelontools/watermelon" target="_blank"><img alt="Watermelon" src="https://img.shields.io/github/stars/watermelontools/watermelon?style=social" /></a></th>
+    </tr>
 
 </table>
 
@@ -9405,6 +9413,14 @@
         <td><a href="https://classroomio.com" target="_blank">ClassroomIO</a></td>
         <td>The Open Source Platform for Tech Bootcamp</td>
         <th><a href="https://github.com/rotimi-best/classroomio" target="_blank"><img alt="ClassroomIO" src="https://img.shields.io/github/stars/rotimi-best/classroomio?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Watermelon" src="https://gitlibrary.club/images/uploads/2023/12/newshot-watermelon.png" /></td>
+        <td>Collaboration</td>
+        <td>TypeScript</td>
+        <td><a href="https://app.watermelontools.com" target="_blank">Watermelon</a></td>
+        <td>? Open-Source Copilot For Code Review</td>
+        <th><a href="https://github.com/watermelontools/watermelon" target="_blank"><img alt="Watermelon" src="https://img.shields.io/github/stars/watermelontools/watermelon?style=social" /></a></th>
     </tr>
 
 </table>
