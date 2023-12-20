@@ -170,6 +170,14 @@
         <th><a href="https://github.com/sotetsuk/pgx" target="_blank"><img alt="Pgx" src="https://img.shields.io/github/stars/sotetsuk/pgx?style=social" /></a></th>
     </tr>
     <tr>
+        <td nowrap="nowrap"><img width="33" alt="rerun" src="https://gitlibrary.club/images/uploads/2023/12/newshot-rerun.png" /></td>
+        <td>Observability</td>
+        <td>Rust</td>
+        <td><a href="https://rerun.io/" target="_blank">rerun</a></td>
+        <td>Visualize streams of multimodal data. Fast, easy to use, and simple to integrate. Built in Rust using egui.</td>
+        <th><a href="https://github.com/rerun-io/rerun" target="_blank"><img alt="rerun" src="https://img.shields.io/github/stars/rerun-io/rerun?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="Clickvote" src="https://gitlibrary.club/images/uploads/2023/12/newshot-clickvote.png" /></td>
         <td>Productivity</td>
         <td>TypeScript</td>
@@ -312,14 +320,6 @@
         <td><a href="https://github.com/promptdesk/promptdesk" target="_blank">PromptDesk</a></td>
         <td>Promptdesk is a tool designed for effectively creating, organizing, and evaluating prompts and large language models (LLMs).</td>
         <th><a href="https://github.com/promptdesk/promptdesk" target="_blank"><img alt="PromptDesk" src="https://img.shields.io/github/stars/promptdesk/promptdesk?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="OneTable" src="https://gitlibrary.club/images/uploads/2023/11/newshot-onetable.png" /></td>
-        <td>Analytics</td>
-        <td>Java</td>
-        <td><a href="https://onetable.dev/" target="_blank">OneTable</a></td>
-        <td>OneTable is an omni-directional converter for table formats that facilitates interoperability across data processing systems and query engines.</td>
-        <th><a href="https://github.com/onetable-io/onetable" target="_blank"><img alt="OneTable" src="https://img.shields.io/github/stars/onetable-io/onetable?style=social" /></a></th>
     </tr>
 
 </table>
@@ -2732,6 +2732,14 @@
         <td><a href="https://github.com/IzyPro/WatchDog" target="_blank">WatchDog</a></td>
         <td>WatchDog is a Realtime Message, Event, HTTP (Request &amp; Response) and Exception logger and viewer for ASP.Net Core Web Apps and APIs. It allows developers log and view messages, events, http request…</td>
         <th><a href="https://github.com/IzyPro/WatchDog" target="_blank"><img alt="WatchDog" src="https://img.shields.io/github/stars/IzyPro/WatchDog?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="rerun" src="https://gitlibrary.club/images/uploads/2023/12/newshot-rerun.png" /></td>
+        <td>Observability</td>
+        <td>Rust</td>
+        <td><a href="https://rerun.io/" target="_blank">rerun</a></td>
+        <td>Visualize streams of multimodal data. Fast, easy to use, and simple to integrate. Built in Rust using egui.</td>
+        <th><a href="https://github.com/rerun-io/rerun" target="_blank"><img alt="rerun" src="https://img.shields.io/github/stars/rerun-io/rerun?style=social" /></a></th>
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="Konva.js - JavaScript 2d canvas library" src="https://gitlibrary.club/images/uploads/2023/05/newshot-react-konva.png" /></td>
@@ -12737,6 +12745,14 @@
         <td><a href="https://www.blstsecurity.com/cherrybomb" target="_blank">Cherrybomb</a></td>
         <td>Stop half-done APIs! Cherrybomb is a CLI tool that helps you avoid undefined user behaviour by auditing your API specifications, validating them and running API security tests.</td>
         <th><a href="https://github.com/blst-security/cherrybomb" target="_blank"><img alt="Cherrybomb" src="https://img.shields.io/github/stars/blst-security/cherrybomb?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="rerun" src="https://gitlibrary.club/images/uploads/2023/12/newshot-rerun.png" /></td>
+        <td>Observability</td>
+        <td>Rust</td>
+        <td><a href="https://rerun.io/" target="_blank">rerun</a></td>
+        <td>Visualize streams of multimodal data. Fast, easy to use, and simple to integrate. Built in Rust using egui.</td>
+        <th><a href="https://github.com/rerun-io/rerun" target="_blank"><img alt="rerun" src="https://img.shields.io/github/stars/rerun-io/rerun?style=social" /></a></th>
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="wasm-pack" src="https://gitlibrary.club/images/uploads/2023/05/newshot-wasm-pack.png" /></td>
