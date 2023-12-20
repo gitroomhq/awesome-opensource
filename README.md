@@ -162,6 +162,30 @@
         <th>Stargazers</th>
     </tr>
         <tr>
+        <td nowrap="nowrap"><img width="33" alt="Clickvote" src="https://gitlibrary.club/images/uploads/2023/12/newshot-clickvote.png" /></td>
+        <td>Productivity</td>
+        <td>TypeScript</td>
+        <td><a href="https://clickvote.dev" target="_blank">Clickvote</a></td>
+        <td>Add upvotes, likes, and reviews to any context ⭐️</td>
+        <th><a href="https://github.com/clickvote/clickvote" target="_blank"><img alt="Clickvote" src="https://img.shields.io/github/stars/clickvote/clickvote?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Pezzo" src="https://gitlibrary.club/images/uploads/2023/12/newshot-pezzo-1.png" /></td>
+        <td>Miscellaneous</td>
+        <td>TypeScript</td>
+        <td><a href="https://pezzo.ai" target="_blank">Pezzo</a></td>
+        <td>?️ Open-source, developer-first LLMOps platform designed to streamline prompt design, version management, instant delivery, collaboration, troubleshooting, observability and more.</td>
+        <th><a href="https://github.com/pezzolabs/pezzo" target="_blank"><img alt="Pezzo" src="https://img.shields.io/github/stars/pezzolabs/pezzo?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Flagsmith" src="https://gitlibrary.club/images/uploads/2023/12/newshot-flagsmith.png" /></td>
+        <td>Productivity</td>
+        <td>Python</td>
+        <td><a href="https://flagsmith.com/" target="_blank">Flagsmith</a></td>
+        <td>Open Source Feature Flagging and Remote Config Service. Host on-prem or use our hosted version at https://flagsmith.com/</td>
+        <th><a href="https://github.com/Flagsmith/flagsmith" target="_blank"><img alt="Flagsmith" src="https://img.shields.io/github/stars/Flagsmith/flagsmith?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="Watermelon" src="https://gitlibrary.club/images/uploads/2023/12/newshot-watermelon.png" /></td>
         <td>Collaboration</td>
         <td>TypeScript</td>
@@ -296,30 +320,6 @@
         <td><a href="https://diceware.dmuth.org/" target="_blank">Diceware</a></td>
         <td>Generate secure passwords you can actually remember!</td>
         <th><a href="https://github.com/dmuth/diceware" target="_blank"><img alt="Diceware" src="https://img.shields.io/github/stars/dmuth/diceware?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="FastAPI Httpbin" src="https://gitlibrary.club/images/uploads/2023/11/newshot-fastapi-httpbin.png" /></td>
-        <td>Miscellaneous</td>
-        <td>Python</td>
-        <td><a href="https://httpbin.dmuth.org/" target="_blank">FastAPI Httpbin</a></td>
-        <td>HTTP Endpoints for easy testing of your app.</td>
-        <th><a href="https://github.com/dmuth/fastapi-httpbin" target="_blank"><img alt="FastAPI Httpbin" src="https://img.shields.io/github/stars/dmuth/fastapi-httpbin?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="esProc_SPL" src="https://gitlibrary.club/images/uploads/2023/11/newshot-esProc.png" /></td>
-        <td>Databases</td>
-        <td>Java</td>
-        <td><a href="http://doc.scudata.com/esproc/" target="_blank">esProc_SPL</a></td>
-        <td>esProc SPL is a scripting language for data processing, with well-designed rich library functions and powerful syntax, which can be executed in a Java program through JDBC interface and computing i…</td>
-        <th><a href="https://github.com/SPLWare/esProc" target="_blank"><img alt="esProc_SPL" src="https://img.shields.io/github/stars/SPLWare/esProc?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Digger" src="https://gitlibrary.club/images/uploads/2023/11/newshot-digger.png" /></td>
-        <td>Infrastructure</td>
-        <td>Go</td>
-        <td><a href="https://digger.dev" target="_blank">Digger</a></td>
-        <td>Digger is an open source IaC orchestration tool. Digger allows you to run IaC in your existing CI pipeline ⚡️ </td>
-        <th><a href="https://github.com/diggerhq/digger" target="_blank"><img alt="Digger" src="https://img.shields.io/github/stars/diggerhq/digger?style=social" /></a></th>
     </tr>
 
 </table>
@@ -2646,6 +2646,14 @@
         <td><a href="https://dittofeed.com/" target="_blank">Dittofeed</a></td>
         <td>Send marketing messages at scale ?</td>
         <th><a href="https://github.com/dittofeed/dittofeed" target="_blank"><img alt="Dittofeed" src="https://img.shields.io/github/stars/dittofeed/dittofeed?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Pezzo" src="https://gitlibrary.club/images/uploads/2023/12/newshot-pezzo-1.png" /></td>
+        <td>Miscellaneous</td>
+        <td>TypeScript</td>
+        <td><a href="https://pezzo.ai" target="_blank">Pezzo</a></td>
+        <td>?️ Open-source, developer-first LLMOps platform designed to streamline prompt design, version management, instant delivery, collaboration, troubleshooting, observability and more.</td>
+        <th><a href="https://github.com/pezzolabs/pezzo" target="_blank"><img alt="Pezzo" src="https://img.shields.io/github/stars/pezzolabs/pezzo?style=social" /></a></th>
     </tr>
 
 </table>
@@ -5002,6 +5010,22 @@
         <td><a href="https://github.com/promptdesk/promptdesk" target="_blank">PromptDesk</a></td>
         <td>Promptdesk is a tool designed for effectively creating, organizing, and evaluating prompts and large language models (LLMs).</td>
         <th><a href="https://github.com/promptdesk/promptdesk" target="_blank"><img alt="PromptDesk" src="https://img.shields.io/github/stars/promptdesk/promptdesk?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Clickvote" src="https://gitlibrary.club/images/uploads/2023/12/newshot-clickvote.png" /></td>
+        <td>Productivity</td>
+        <td>TypeScript</td>
+        <td><a href="https://clickvote.dev" target="_blank">Clickvote</a></td>
+        <td>Add upvotes, likes, and reviews to any context ⭐️</td>
+        <th><a href="https://github.com/clickvote/clickvote" target="_blank"><img alt="Clickvote" src="https://img.shields.io/github/stars/clickvote/clickvote?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Flagsmith" src="https://gitlibrary.club/images/uploads/2023/12/newshot-flagsmith.png" /></td>
+        <td>Productivity</td>
+        <td>Python</td>
+        <td><a href="https://flagsmith.com/" target="_blank">Flagsmith</a></td>
+        <td>Open Source Feature Flagging and Remote Config Service. Host on-prem or use our hosted version at https://flagsmith.com/</td>
+        <th><a href="https://github.com/Flagsmith/flagsmith" target="_blank"><img alt="Flagsmith" src="https://img.shields.io/github/stars/Flagsmith/flagsmith?style=social" /></a></th>
     </tr>
 
 </table>
@@ -9422,6 +9446,22 @@
         <td>? Open-Source Copilot For Code Review</td>
         <th><a href="https://github.com/watermelontools/watermelon" target="_blank"><img alt="Watermelon" src="https://img.shields.io/github/stars/watermelontools/watermelon?style=social" /></a></th>
     </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Clickvote" src="https://gitlibrary.club/images/uploads/2023/12/newshot-clickvote.png" /></td>
+        <td>Productivity</td>
+        <td>TypeScript</td>
+        <td><a href="https://clickvote.dev" target="_blank">Clickvote</a></td>
+        <td>Add upvotes, likes, and reviews to any context ⭐️</td>
+        <th><a href="https://github.com/clickvote/clickvote" target="_blank"><img alt="Clickvote" src="https://img.shields.io/github/stars/clickvote/clickvote?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Pezzo" src="https://gitlibrary.club/images/uploads/2023/12/newshot-pezzo-1.png" /></td>
+        <td>Miscellaneous</td>
+        <td>TypeScript</td>
+        <td><a href="https://pezzo.ai" target="_blank">Pezzo</a></td>
+        <td>?️ Open-source, developer-first LLMOps platform designed to streamline prompt design, version management, instant delivery, collaboration, troubleshooting, observability and more.</td>
+        <th><a href="https://github.com/pezzolabs/pezzo" target="_blank"><img alt="Pezzo" src="https://img.shields.io/github/stars/pezzolabs/pezzo?style=social" /></a></th>
+    </tr>
 
 </table>
 
@@ -11439,6 +11479,14 @@
         <td><a href="https://github.com/LyzrCore/lyzr" target="_blank">Lyzr AI</a></td>
         <td>Lyzr SDKs help you to build all your favorite GenAI SaaS products as enterprise applications in minutes.</td>
         <th><a href="https://github.com/LyzrCore/lyzr" target="_blank"><img alt="Lyzr AI" src="https://img.shields.io/github/stars/LyzrCore/lyzr?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Flagsmith" src="https://gitlibrary.club/images/uploads/2023/12/newshot-flagsmith.png" /></td>
+        <td>Productivity</td>
+        <td>Python</td>
+        <td><a href="https://flagsmith.com/" target="_blank">Flagsmith</a></td>
+        <td>Open Source Feature Flagging and Remote Config Service. Host on-prem or use our hosted version at https://flagsmith.com/</td>
+        <th><a href="https://github.com/Flagsmith/flagsmith" target="_blank"><img alt="Flagsmith" src="https://img.shields.io/github/stars/Flagsmith/flagsmith?style=social" /></a></th>
     </tr>
 
 </table>
