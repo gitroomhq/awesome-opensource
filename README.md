@@ -162,6 +162,14 @@
         <th>Stargazers</th>
     </tr>
         <tr>
+        <td nowrap="nowrap"><img width="33" alt="Pgx" src="https://gitlibrary.club/images/uploads/2023/12/newshot-pgx.jpg" /></td>
+        <td>Miscellaneous</td>
+        <td>Python</td>
+        <td><a href="http://sotets.uk/pgx/" target="_blank">Pgx</a></td>
+        <td>? Vectorized RL game environments written in JAX with end-to-end AlphaZero examples (NeurIPS 2023)</td>
+        <th><a href="https://github.com/sotetsuk/pgx" target="_blank"><img alt="Pgx" src="https://img.shields.io/github/stars/sotetsuk/pgx?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="Clickvote" src="https://gitlibrary.club/images/uploads/2023/12/newshot-clickvote.png" /></td>
         <td>Productivity</td>
         <td>TypeScript</td>
@@ -312,14 +320,6 @@
         <td><a href="https://onetable.dev/" target="_blank">OneTable</a></td>
         <td>OneTable is an omni-directional converter for table formats that facilitates interoperability across data processing systems and query engines.</td>
         <th><a href="https://github.com/onetable-io/onetable" target="_blank"><img alt="OneTable" src="https://img.shields.io/github/stars/onetable-io/onetable?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Diceware" src="https://gitlibrary.club/images/uploads/2023/11/newshot-diceware.png" /></td>
-        <td>Security</td>
-        <td>JavaScript</td>
-        <td><a href="https://diceware.dmuth.org/" target="_blank">Diceware</a></td>
-        <td>Generate secure passwords you can actually remember!</td>
-        <th><a href="https://github.com/dmuth/diceware" target="_blank"><img alt="Diceware" src="https://img.shields.io/github/stars/dmuth/diceware?style=social" /></a></th>
     </tr>
 
 </table>
@@ -1534,6 +1534,14 @@
         <td><a href="https://impler.io" target="_blank">Impler.io</a></td>
         <td>Open source CSV &amp; Excel file import experience. Integrate and release data import experience in few minutes.</td>
         <th><a href="https://github.com/implerhq/impler.io" target="_blank"><img alt="Impler.io" src="https://img.shields.io/github/stars/implerhq/impler.io?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Pgx" src="https://gitlibrary.club/images/uploads/2023/12/newshot-pgx.jpg" /></td>
+        <td>Miscellaneous</td>
+        <td>Python</td>
+        <td><a href="http://sotets.uk/pgx/" target="_blank">Pgx</a></td>
+        <td>? Vectorized RL game environments written in JAX with end-to-end AlphaZero examples (NeurIPS 2023)</td>
+        <th><a href="https://github.com/sotetsuk/pgx" target="_blank"><img alt="Pgx" src="https://img.shields.io/github/stars/sotetsuk/pgx?style=social" /></a></th>
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="Cemu Emulator" src="https://gitlibrary.club/images/uploads/2023/05/newshot-Cemu.png" /></td>
@@ -10679,6 +10687,14 @@
         <td><a href="https://github.com/kapt-labs/django-check-seo" target="_blank">Django Check SEO</a></td>
         <td>Django Check SEO will check the SEO aspects of your site for you, and will provide advice in case of problems. Compatible with Django &amp; Django-CMS!</td>
         <th><a href="https://github.com/kapt-labs/django-check-seo" target="_blank"><img alt="Django Check SEO" src="https://img.shields.io/github/stars/kapt-labs/django-check-seo?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Pgx" src="https://gitlibrary.club/images/uploads/2023/12/newshot-pgx.jpg" /></td>
+        <td>Miscellaneous</td>
+        <td>Python</td>
+        <td><a href="http://sotets.uk/pgx/" target="_blank">Pgx</a></td>
+        <td>? Vectorized RL game environments written in JAX with end-to-end AlphaZero examples (NeurIPS 2023)</td>
+        <th><a href="https://github.com/sotetsuk/pgx" target="_blank"><img alt="Pgx" src="https://img.shields.io/github/stars/sotetsuk/pgx?style=social" /></a></th>
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="ClusterFuzz" src="https://gitlibrary.club/images/uploads/2023/05/newshot-clusterfuzz.png" /></td>
