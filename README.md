@@ -162,6 +162,14 @@
         <th>Stargazers</th>
     </tr>
         <tr>
+        <td nowrap="nowrap"><img width="33" alt="Vary" src="https://gitlibrary.club/images/uploads/2023/12/newshot-Vary.jpg" /></td>
+        <td>Productivity</td>
+        <td>Python</td>
+        <td><a href="https://github.com/Ucas-HaoranWei/Vary" target="_blank">Vary</a></td>
+        <td>Official code implementation of Vary: Scaling Up the Vision Vocabulary of Large Vision Language Models.</td>
+        <th><a href="https://github.com/Ucas-HaoranWei/Vary" target="_blank"><img alt="Vary" src="https://img.shields.io/github/stars/Ucas-HaoranWei/Vary?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="Pgx" src="https://gitlibrary.club/images/uploads/2023/12/newshot-pgx.jpg" /></td>
         <td>Miscellaneous</td>
         <td>Python</td>
@@ -312,14 +320,6 @@
         <td><a href="https://docs.apitally.io" target="_blank">Apitally client library for Python</a></td>
         <td>Apitally client library for Python</td>
         <th><a href="https://github.com/apitally/python-client" target="_blank"><img alt="Apitally client library for Python" src="https://img.shields.io/github/stars/apitally/python-client?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="PromptDesk" src="https://gitlibrary.club/images/uploads/2023/11/newshot-promptdesk.png" /></td>
-        <td>Productivity</td>
-        <td>CSS</td>
-        <td><a href="https://github.com/promptdesk/promptdesk" target="_blank">PromptDesk</a></td>
-        <td>Promptdesk is a tool designed for effectively creating, organizing, and evaluating prompts and large language models (LLMs).</td>
-        <th><a href="https://github.com/promptdesk/promptdesk" target="_blank"><img alt="PromptDesk" src="https://img.shields.io/github/stars/promptdesk/promptdesk?style=social" /></a></th>
     </tr>
 
 </table>
@@ -5042,6 +5042,14 @@
         <td><a href="https://flagsmith.com/" target="_blank">Flagsmith</a></td>
         <td>Open Source Feature Flagging and Remote Config Service. Host on-prem or use our hosted version at https://flagsmith.com/</td>
         <th><a href="https://github.com/Flagsmith/flagsmith" target="_blank"><img alt="Flagsmith" src="https://img.shields.io/github/stars/Flagsmith/flagsmith?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Vary" src="https://gitlibrary.club/images/uploads/2023/12/newshot-Vary.jpg" /></td>
+        <td>Productivity</td>
+        <td>Python</td>
+        <td><a href="https://github.com/Ucas-HaoranWei/Vary" target="_blank">Vary</a></td>
+        <td>Official code implementation of Vary: Scaling Up the Vision Vocabulary of Large Vision Language Models.</td>
+        <th><a href="https://github.com/Ucas-HaoranWei/Vary" target="_blank"><img alt="Vary" src="https://img.shields.io/github/stars/Ucas-HaoranWei/Vary?style=social" /></a></th>
     </tr>
 
 </table>
@@ -11511,6 +11519,14 @@
         <td><a href="https://flagsmith.com/" target="_blank">Flagsmith</a></td>
         <td>Open Source Feature Flagging and Remote Config Service. Host on-prem or use our hosted version at https://flagsmith.com/</td>
         <th><a href="https://github.com/Flagsmith/flagsmith" target="_blank"><img alt="Flagsmith" src="https://img.shields.io/github/stars/Flagsmith/flagsmith?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Vary" src="https://gitlibrary.club/images/uploads/2023/12/newshot-Vary.jpg" /></td>
+        <td>Productivity</td>
+        <td>Python</td>
+        <td><a href="https://github.com/Ucas-HaoranWei/Vary" target="_blank">Vary</a></td>
+        <td>Official code implementation of Vary: Scaling Up the Vision Vocabulary of Large Vision Language Models.</td>
+        <th><a href="https://github.com/Ucas-HaoranWei/Vary" target="_blank"><img alt="Vary" src="https://img.shields.io/github/stars/Ucas-HaoranWei/Vary?style=social" /></a></th>
     </tr>
 
 </table>
