@@ -162,6 +162,14 @@
         <th>Stargazers</th>
     </tr>
         <tr>
+        <td nowrap="nowrap"><img width="33" alt="Entity" src="https://gitlibrary.club/images/uploads/2023/12/newshot-efcore.png" /></td>
+        <td>Productivity</td>
+        <td>C#</td>
+        <td><a href="https://docs.microsoft.com/ef/" target="_blank">Entity</a></td>
+        <td>EF Core is a modern object-database mapper for .NET. It supports LINQ queries, change tracking, updates, and schema migrations.</td>
+        <th><a href="https://github.com/dotnet/efcore" target="_blank"><img alt="Entity" src="https://img.shields.io/github/stars/dotnet/efcore?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="Vary" src="https://gitlibrary.club/images/uploads/2023/12/newshot-Vary.jpg" /></td>
         <td>Productivity</td>
         <td>Python</td>
@@ -312,14 +320,6 @@
         <td><a href="https://repohistory.com" target="_blank">Repohistory</a></td>
         <td>An open-source platform for tracking GitHub repo traffic history longer than 14 days.</td>
         <th><a href="https://github.com/repohistory/repohistory" target="_blank"><img alt="Repohistory" src="https://img.shields.io/github/stars/repohistory/repohistory?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Apitally client library for Python" src="https://gitlibrary.club/images/uploads/2023/11/newshot-python-client.png" /></td>
-        <td>Observability</td>
-        <td>Python</td>
-        <td><a href="https://docs.apitally.io" target="_blank">Apitally client library for Python</a></td>
-        <td>Apitally client library for Python</td>
-        <th><a href="https://github.com/apitally/python-client" target="_blank"><img alt="Apitally client library for Python" src="https://img.shields.io/github/stars/apitally/python-client?style=social" /></a></th>
     </tr>
 
 </table>
@@ -5050,6 +5050,14 @@
         <td><a href="https://github.com/Ucas-HaoranWei/Vary" target="_blank">Vary</a></td>
         <td>Official code implementation of Vary: Scaling Up the Vision Vocabulary of Large Vision Language Models.</td>
         <th><a href="https://github.com/Ucas-HaoranWei/Vary" target="_blank"><img alt="Vary" src="https://img.shields.io/github/stars/Ucas-HaoranWei/Vary?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Entity" src="https://gitlibrary.club/images/uploads/2023/12/newshot-efcore.png" /></td>
+        <td>Productivity</td>
+        <td>C#</td>
+        <td><a href="https://docs.microsoft.com/ef/" target="_blank">Entity</a></td>
+        <td>EF Core is a modern object-database mapper for .NET. It supports LINQ queries, change tracking, updates, and schema migrations.</td>
+        <th><a href="https://github.com/dotnet/efcore" target="_blank"><img alt="Entity" src="https://img.shields.io/github/stars/dotnet/efcore?style=social" /></a></th>
     </tr>
 
 </table>
@@ -13673,6 +13681,14 @@
         <td><a href="https://github.com/quixio/quix-streams" target="_blank">Quix Streams</a></td>
         <td>Quix Streams - A library for data streaming and Python Stream Processing</td>
         <th><a href="https://github.com/quixio/quix-streams" target="_blank"><img alt="Quix Streams" src="https://img.shields.io/github/stars/quixio/quix-streams?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Entity" src="https://gitlibrary.club/images/uploads/2023/12/newshot-efcore.png" /></td>
+        <td>Productivity</td>
+        <td>C#</td>
+        <td><a href="https://docs.microsoft.com/ef/" target="_blank">Entity</a></td>
+        <td>EF Core is a modern object-database mapper for .NET. It supports LINQ queries, change tracking, updates, and schema migrations.</td>
+        <th><a href="https://github.com/dotnet/efcore" target="_blank"><img alt="Entity" src="https://img.shields.io/github/stars/dotnet/efcore?style=social" /></a></th>
     </tr>
 
 </table>
