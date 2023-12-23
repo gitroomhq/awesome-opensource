@@ -162,6 +162,14 @@
         <th>Stargazers</th>
     </tr>
         <tr>
+        <td nowrap="nowrap"><img width="33" alt="Elide" src="https://gitlibrary.club/images/uploads/2023/12/newshot-elide.jpg" /></td>
+        <td>Infrastructure</td>
+        <td>Kotlin</td>
+        <td><a href="https://elide.dev" target="_blank">Elide</a></td>
+        <td>elide: verb. to omit (a sound or syllable) when speaking. to join together; to merge.</td>
+        <th><a href="https://github.com/elide-dev/elide" target="_blank"><img alt="Elide" src="https://img.shields.io/github/stars/elide-dev/elide?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="Entity" src="https://gitlibrary.club/images/uploads/2023/12/newshot-efcore.png" /></td>
         <td>Productivity</td>
         <td>C#</td>
@@ -312,14 +320,6 @@
         <td><a href="https://win32.pub" target="_blank">win32</a></td>
         <td>Build Win32 apps with Dart!</td>
         <th><a href="https://github.com/dart-windows/win32" target="_blank"><img alt="win32" src="https://img.shields.io/github/stars/dart-windows/win32?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Repohistory" src="https://gitlibrary.club/images/uploads/2023/11/newshot-repohistory.png" /></td>
-        <td>Analytics</td>
-        <td>TypeScript</td>
-        <td><a href="https://repohistory.com" target="_blank">Repohistory</a></td>
-        <td>An open-source platform for tracking GitHub repo traffic history longer than 14 days.</td>
-        <th><a href="https://github.com/repohistory/repohistory" target="_blank"><img alt="Repohistory" src="https://img.shields.io/github/stars/repohistory/repohistory?style=social" /></a></th>
     </tr>
 
 </table>
@@ -6904,6 +6904,14 @@
         <th><a href="https://github.com/instill-ai/vdp" target="_blank"><img alt="Instill VDP (Versatile Data Pipeline)" src="https://img.shields.io/github/stars/instill-ai/vdp?style=social" /></a></th>
     </tr>
     <tr>
+        <td nowrap="nowrap"><img width="33" alt="Elide" src="https://gitlibrary.club/images/uploads/2023/12/newshot-elide.jpg" /></td>
+        <td>Infrastructure</td>
+        <td>Kotlin</td>
+        <td><a href="https://elide.dev" target="_blank">Elide</a></td>
+        <td>elide: verb. to omit (a sound or syllable) when speaking. to join together; to merge.</td>
+        <th><a href="https://github.com/elide-dev/elide" target="_blank"><img alt="Elide" src="https://img.shields.io/github/stars/elide-dev/elide?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="ClusterFuzz" src="https://gitlibrary.club/images/uploads/2023/05/newshot-clusterfuzz.png" /></td>
         <td>Infrastructure</td>
         <td>Python</td>
@@ -10235,6 +10243,14 @@
         <td><a href="https://github.com/IacobIonut01/Gallery" target="_blank">Gallery for Android</a></td>
         <td>Light-weight Media Gallery app for Android made with Jetpack Compose</td>
         <th><a href="https://github.com/IacobIonut01/Gallery" target="_blank"><img alt="Gallery for Android" src="https://img.shields.io/github/stars/IacobIonut01/Gallery?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Elide" src="https://gitlibrary.club/images/uploads/2023/12/newshot-elide.jpg" /></td>
+        <td>Infrastructure</td>
+        <td>Kotlin</td>
+        <td><a href="https://elide.dev" target="_blank">Elide</a></td>
+        <td>elide: verb. to omit (a sound or syllable) when speaking. to join together; to merge.</td>
+        <th><a href="https://github.com/elide-dev/elide" target="_blank"><img alt="Elide" src="https://img.shields.io/github/stars/elide-dev/elide?style=social" /></a></th>
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="SagerNet/SagerNet" src="https://gitlibrary.club/images/uploads/2023/05/newshot-SagerNet.png" /></td>
