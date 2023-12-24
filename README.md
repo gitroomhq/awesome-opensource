@@ -162,6 +162,14 @@
         <th>Stargazers</th>
     </tr>
         <tr>
+        <td nowrap="nowrap"><img width="33" alt="OPAL" src="https://gitlibrary.club/images/uploads/2023/12/newshot-opal.png" /></td>
+        <td>Security</td>
+        <td>Python</td>
+        <td><a href="https://opal.ac" target="_blank">OPAL</a></td>
+        <td>Policy and data administration, distribution, and real-time updates on top of Policy Agents (OPA, Cedar, ...)</td>
+        <th><a href="https://github.com/permitio/opal" target="_blank"><img alt="OPAL" src="https://img.shields.io/github/stars/permitio/opal?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="Elide" src="https://gitlibrary.club/images/uploads/2023/12/newshot-elide.jpg" /></td>
         <td>Infrastructure</td>
         <td>Kotlin</td>
@@ -312,14 +320,6 @@
         <td><a href="https://github.com/pieces-app/pieces-os-client-sdk-for-typescript" target="_blank">Pieces OS Client</a></td>
         <td>Pieces APIs for functional usage with Pieces OS on your local machine. Open Source by Pieces</td>
         <th><a href="https://github.com/pieces-app/pieces-os-client-sdk-for-typescript" target="_blank"><img alt="Pieces OS Client" src="https://img.shields.io/github/stars/pieces-app/pieces-os-client-sdk-for-typescript?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="win32" src="https://gitlibrary.club/images/uploads/2023/11/newshot-win32.png" /></td>
-        <td>Productivity</td>
-        <td>Dart</td>
-        <td><a href="https://win32.pub" target="_blank">win32</a></td>
-        <td>Build Win32 apps with Dart!</td>
-        <th><a href="https://github.com/dart-windows/win32" target="_blank"><img alt="win32" src="https://img.shields.io/github/stars/dart-windows/win32?style=social" /></a></th>
     </tr>
 
 </table>
@@ -5910,6 +5910,14 @@
         <td><a href="https://github.com/cado-security/cloudgrep" target="_blank">cloudgrep</a></td>
         <td>cloudgrep is grep for cloud storage</td>
         <th><a href="https://github.com/cado-security/cloudgrep" target="_blank"><img alt="cloudgrep" src="https://img.shields.io/github/stars/cado-security/cloudgrep?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="OPAL" src="https://gitlibrary.club/images/uploads/2023/12/newshot-opal.png" /></td>
+        <td>Security</td>
+        <td>Python</td>
+        <td><a href="https://opal.ac" target="_blank">OPAL</a></td>
+        <td>Policy and data administration, distribution, and real-time updates on top of Policy Agents (OPA, Cedar, ...)</td>
+        <th><a href="https://github.com/permitio/opal" target="_blank"><img alt="OPAL" src="https://img.shields.io/github/stars/permitio/opal?style=social" /></a></th>
     </tr>
 
 </table>
@@ -11551,6 +11559,14 @@
         <td><a href="https://github.com/Ucas-HaoranWei/Vary" target="_blank">Vary</a></td>
         <td>Official code implementation of Vary: Scaling Up the Vision Vocabulary of Large Vision Language Models.</td>
         <th><a href="https://github.com/Ucas-HaoranWei/Vary" target="_blank"><img alt="Vary" src="https://img.shields.io/github/stars/Ucas-HaoranWei/Vary?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="OPAL" src="https://gitlibrary.club/images/uploads/2023/12/newshot-opal.png" /></td>
+        <td>Security</td>
+        <td>Python</td>
+        <td><a href="https://opal.ac" target="_blank">OPAL</a></td>
+        <td>Policy and data administration, distribution, and real-time updates on top of Policy Agents (OPA, Cedar, ...)</td>
+        <th><a href="https://github.com/permitio/opal" target="_blank"><img alt="OPAL" src="https://img.shields.io/github/stars/permitio/opal?style=social" /></a></th>
     </tr>
 
 </table>
