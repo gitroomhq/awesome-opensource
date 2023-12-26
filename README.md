@@ -170,6 +170,30 @@
         <th><a href="https://github.com/panoratech/Panora" target="_blank"><img alt="Panora" src="https://img.shields.io/github/stars/panoratech/Panora?style=social" /></a></th>
     </tr>
     <tr>
+        <td nowrap="nowrap"><img width="33" alt="go-event" src="https://gitlibrary.club/images/uploads/2023/12/newshot-go-event.jpg" /></td>
+        <td>Miscellaneous</td>
+        <td>Go</td>
+        <td><a href="https://github.com/jferrl/go-event" target="_blank">go-event</a></td>
+        <td>Simple event handling library written in Go</td>
+        <th><a href="https://github.com/jferrl/go-event" target="_blank"><img alt="go-event" src="https://img.shields.io/github/stars/jferrl/go-event?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="go-kraken" src="https://gitlibrary.club/images/uploads/2023/12/newshot-go-kraken.jpg" /></td>
+        <td>Miscellaneous</td>
+        <td>Go</td>
+        <td><a href="https://github.com/jferrl/go-kraken" target="_blank">go-kraken</a></td>
+        <td>Go library for accessing the Kraken API ?</td>
+        <th><a href="https://github.com/jferrl/go-kraken" target="_blank"><img alt="go-kraken" src="https://img.shields.io/github/stars/jferrl/go-kraken?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="go-merche" src="https://gitlibrary.club/images/uploads/2023/12/newshot-go-merche.jpg" /></td>
+        <td>Miscellaneous</td>
+        <td>Go</td>
+        <td><a href="https://github.com/jferrl/go-merche" target="_blank">go-merche</a></td>
+        <td>Go library for accessing the Mercedes-Benz vehicles API</td>
+        <th><a href="https://github.com/jferrl/go-merche" target="_blank"><img alt="go-merche" src="https://img.shields.io/github/stars/jferrl/go-merche?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="PyXA" src="https://gitlibrary.club/images/uploads/2023/12/newshot-PyXA-1.jpg" /></td>
         <td>Miscellaneous</td>
         <td>Python</td>
@@ -296,30 +320,6 @@
         <td><a href="https://impler.io" target="_blank">Impler.io</a></td>
         <td>Open source CSV &amp; Excel file import experience. Integrate and release data import experience in few minutes.</td>
         <th><a href="https://github.com/implerhq/impler.io" target="_blank"><img alt="Impler.io" src="https://img.shields.io/github/stars/implerhq/impler.io?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Lyzr AI" src="https://gitlibrary.club/images/uploads/2023/12/newshot-lyzr.png" /></td>
-        <td>Infrastructure</td>
-        <td>Python</td>
-        <td><a href="https://github.com/LyzrCore/lyzr" target="_blank">Lyzr AI</a></td>
-        <td>Lyzr SDKs help you to build all your favorite GenAI SaaS products as enterprise applications in minutes.</td>
-        <th><a href="https://github.com/LyzrCore/lyzr" target="_blank"><img alt="Lyzr AI" src="https://img.shields.io/github/stars/LyzrCore/lyzr?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="iztro" src="https://gitlibrary.club/images/uploads/2023/12/newshot-iztro.jpg" /></td>
-        <td>Analytics</td>
-        <td>TypeScript</td>
-        <td><a href="https://iztro.com" target="_blank">iztro</a></td>
-        <td>⭐A lightweight Open-Source javascript library of getting The Purple Star Astrology(Zi Wei Dou Shu) astrolabe information. 支持多语言轻量级获取紫微斗数排盘信息的javascript开源库。</td>
-        <th><a href="https://github.com/SylarLong/iztro" target="_blank"><img alt="iztro" src="https://img.shields.io/github/stars/SylarLong/iztro?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Apitally client library for Node.js" src="https://gitlibrary.club/images/uploads/2023/12/newshot-nodejs-client.png" /></td>
-        <td>Observability</td>
-        <td>TypeScript</td>
-        <td><a href="https://apitally.io" target="_blank">Apitally client library for Node.js</a></td>
-        <td>Apitally client library for Node.js</td>
-        <th><a href="https://github.com/apitally/nodejs-client" target="_blank"><img alt="Apitally client library for Node.js" src="https://img.shields.io/github/stars/apitally/nodejs-client?style=social" /></a></th>
     </tr>
 
 </table>
@@ -2670,6 +2670,30 @@
         <td><a href="https://skaplanofficial.github.io/PyXA/" target="_blank">PyXA</a></td>
         <td>Python for Automation</td>
         <th><a href="https://github.com/SKaplanOfficial/PyXA" target="_blank"><img alt="PyXA" src="https://img.shields.io/github/stars/SKaplanOfficial/PyXA?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="go-event" src="https://gitlibrary.club/images/uploads/2023/12/newshot-go-event.jpg" /></td>
+        <td>Miscellaneous</td>
+        <td>Go</td>
+        <td><a href="https://github.com/jferrl/go-event" target="_blank">go-event</a></td>
+        <td>Simple event handling library written in Go</td>
+        <th><a href="https://github.com/jferrl/go-event" target="_blank"><img alt="go-event" src="https://img.shields.io/github/stars/jferrl/go-event?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="go-kraken" src="https://gitlibrary.club/images/uploads/2023/12/newshot-go-kraken.jpg" /></td>
+        <td>Miscellaneous</td>
+        <td>Go</td>
+        <td><a href="https://github.com/jferrl/go-kraken" target="_blank">go-kraken</a></td>
+        <td>Go library for accessing the Kraken API ?</td>
+        <th><a href="https://github.com/jferrl/go-kraken" target="_blank"><img alt="go-kraken" src="https://img.shields.io/github/stars/jferrl/go-kraken?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="go-merche" src="https://gitlibrary.club/images/uploads/2023/12/newshot-go-merche.jpg" /></td>
+        <td>Miscellaneous</td>
+        <td>Go</td>
+        <td><a href="https://github.com/jferrl/go-merche" target="_blank">go-merche</a></td>
+        <td>Go library for accessing the Mercedes-Benz vehicles API</td>
+        <th><a href="https://github.com/jferrl/go-merche" target="_blank"><img alt="go-merche" src="https://img.shields.io/github/stars/jferrl/go-merche?style=social" /></a></th>
     </tr>
 
 </table>
@@ -12157,6 +12181,30 @@
         <td><a href="https://canarychecker.io" target="_blank">Canary Checker</a></td>
         <td>Kubernetes operator for executing synthetic tests</td>
         <th><a href="https://github.com/flanksource/canary-checker" target="_blank"><img alt="Canary Checker" src="https://img.shields.io/github/stars/flanksource/canary-checker?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="go-event" src="https://gitlibrary.club/images/uploads/2023/12/newshot-go-event.jpg" /></td>
+        <td>Miscellaneous</td>
+        <td>Go</td>
+        <td><a href="https://github.com/jferrl/go-event" target="_blank">go-event</a></td>
+        <td>Simple event handling library written in Go</td>
+        <th><a href="https://github.com/jferrl/go-event" target="_blank"><img alt="go-event" src="https://img.shields.io/github/stars/jferrl/go-event?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="go-kraken" src="https://gitlibrary.club/images/uploads/2023/12/newshot-go-kraken.jpg" /></td>
+        <td>Miscellaneous</td>
+        <td>Go</td>
+        <td><a href="https://github.com/jferrl/go-kraken" target="_blank">go-kraken</a></td>
+        <td>Go library for accessing the Kraken API ?</td>
+        <th><a href="https://github.com/jferrl/go-kraken" target="_blank"><img alt="go-kraken" src="https://img.shields.io/github/stars/jferrl/go-kraken?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="go-merche" src="https://gitlibrary.club/images/uploads/2023/12/newshot-go-merche.jpg" /></td>
+        <td>Miscellaneous</td>
+        <td>Go</td>
+        <td><a href="https://github.com/jferrl/go-merche" target="_blank">go-merche</a></td>
+        <td>Go library for accessing the Mercedes-Benz vehicles API</td>
+        <th><a href="https://github.com/jferrl/go-merche" target="_blank"><img alt="go-merche" src="https://img.shields.io/github/stars/jferrl/go-merche?style=social" /></a></th>
     </tr>
 
 </table>
