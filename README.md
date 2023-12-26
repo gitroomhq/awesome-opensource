@@ -162,6 +162,14 @@
         <th>Stargazers</th>
     </tr>
         <tr>
+        <td nowrap="nowrap"><img width="33" alt="PyXA" src="https://gitlibrary.club/images/uploads/2023/12/newshot-PyXA-1.jpg" /></td>
+        <td>Miscellaneous</td>
+        <td>Python</td>
+        <td><a href="https://skaplanofficial.github.io/PyXA/" target="_blank">PyXA</a></td>
+        <td>Python for Automation</td>
+        <th><a href="https://github.com/SKaplanOfficial/PyXA" target="_blank"><img alt="PyXA" src="https://img.shields.io/github/stars/SKaplanOfficial/PyXA?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="OPAL" src="https://gitlibrary.club/images/uploads/2023/12/newshot-opal.png" /></td>
         <td>Security</td>
         <td>Python</td>
@@ -312,14 +320,6 @@
         <td><a href="https://github.com/gosom/google-maps-scraper" target="_blank">google-maps-scraper</a></td>
         <td>scrape data data from Google Maps. Extracts data such as the name, address, phone number, website URL, rating, reviews number, latitude and longitude, reviews,email and more for each place</td>
         <th><a href="https://github.com/gosom/google-maps-scraper" target="_blank"><img alt="google-maps-scraper" src="https://img.shields.io/github/stars/gosom/google-maps-scraper?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Pieces OS Client" src="https://gitlibrary.club/images/uploads/2023/12/newshot-pieces-os-client-sdk-for-typescript-2.png" /></td>
-        <td>Infrastructure</td>
-        <td>TypeScript</td>
-        <td><a href="https://github.com/pieces-app/pieces-os-client-sdk-for-typescript" target="_blank">Pieces OS Client</a></td>
-        <td>Pieces APIs for functional usage with Pieces OS on your local machine. Open Source by Pieces</td>
-        <th><a href="https://github.com/pieces-app/pieces-os-client-sdk-for-typescript" target="_blank"><img alt="Pieces OS Client" src="https://img.shields.io/github/stars/pieces-app/pieces-os-client-sdk-for-typescript?style=social" /></a></th>
     </tr>
 
 </table>
@@ -2662,6 +2662,14 @@
         <td><a href="https://pezzo.ai" target="_blank">Pezzo</a></td>
         <td>?️ Open-source, developer-first LLMOps platform designed to streamline prompt design, version management, instant delivery, collaboration, troubleshooting, observability and more.</td>
         <th><a href="https://github.com/pezzolabs/pezzo" target="_blank"><img alt="Pezzo" src="https://img.shields.io/github/stars/pezzolabs/pezzo?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="PyXA" src="https://gitlibrary.club/images/uploads/2023/12/newshot-PyXA-1.jpg" /></td>
+        <td>Miscellaneous</td>
+        <td>Python</td>
+        <td><a href="https://skaplanofficial.github.io/PyXA/" target="_blank">PyXA</a></td>
+        <td>Python for Automation</td>
+        <th><a href="https://github.com/SKaplanOfficial/PyXA" target="_blank"><img alt="PyXA" src="https://img.shields.io/github/stars/SKaplanOfficial/PyXA?style=social" /></a></th>
     </tr>
 
 </table>
@@ -11567,6 +11575,14 @@
         <td><a href="https://opal.ac" target="_blank">OPAL</a></td>
         <td>Policy and data administration, distribution, and real-time updates on top of Policy Agents (OPA, Cedar, ...)</td>
         <th><a href="https://github.com/permitio/opal" target="_blank"><img alt="OPAL" src="https://img.shields.io/github/stars/permitio/opal?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="PyXA" src="https://gitlibrary.club/images/uploads/2023/12/newshot-PyXA-1.jpg" /></td>
+        <td>Miscellaneous</td>
+        <td>Python</td>
+        <td><a href="https://skaplanofficial.github.io/PyXA/" target="_blank">PyXA</a></td>
+        <td>Python for Automation</td>
+        <th><a href="https://github.com/SKaplanOfficial/PyXA" target="_blank"><img alt="PyXA" src="https://img.shields.io/github/stars/SKaplanOfficial/PyXA?style=social" /></a></th>
     </tr>
 
 </table>
