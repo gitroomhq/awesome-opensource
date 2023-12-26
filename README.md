@@ -162,6 +162,14 @@
         <th>Stargazers</th>
     </tr>
         <tr>
+        <td nowrap="nowrap"><img width="33" alt="Panora" src="https://gitlibrary.club/images/uploads/2023/12/newshot-Panora.png" /></td>
+        <td>Infrastructure</td>
+        <td>TypeScript</td>
+        <td><a href="https://docs.panora.dev" target="_blank">Panora</a></td>
+        <td>? One API for all your customer-facing OAuth Integrations | 100% TypeScript, extensible and developer-first ?</td>
+        <th><a href="https://github.com/panoratech/Panora" target="_blank"><img alt="Panora" src="https://img.shields.io/github/stars/panoratech/Panora?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="PyXA" src="https://gitlibrary.club/images/uploads/2023/12/newshot-PyXA-1.jpg" /></td>
         <td>Miscellaneous</td>
         <td>Python</td>
@@ -312,14 +320,6 @@
         <td><a href="https://apitally.io" target="_blank">Apitally client library for Node.js</a></td>
         <td>Apitally client library for Node.js</td>
         <th><a href="https://github.com/apitally/nodejs-client" target="_blank"><img alt="Apitally client library for Node.js" src="https://img.shields.io/github/stars/apitally/nodejs-client?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="google-maps-scraper" src="https://gitlibrary.club/images/uploads/2023/12/newshot-google-maps-scraper.jpg" /></td>
-        <td>Miscellaneous</td>
-        <td>Go</td>
-        <td><a href="https://github.com/gosom/google-maps-scraper" target="_blank">google-maps-scraper</a></td>
-        <td>scrape data data from Google Maps. Extracts data such as the name, address, phone number, website URL, rating, reviews number, latitude and longitude, reviews,email and more for each place</td>
-        <th><a href="https://github.com/gosom/google-maps-scraper" target="_blank"><img alt="google-maps-scraper" src="https://img.shields.io/github/stars/gosom/google-maps-scraper?style=social" /></a></th>
     </tr>
 
 </table>
@@ -8071,6 +8071,14 @@
         <td>Lyzr SDKs help you to build all your favorite GenAI SaaS products as enterprise applications in minutes.</td>
         <th><a href="https://github.com/LyzrCore/lyzr" target="_blank"><img alt="Lyzr AI" src="https://img.shields.io/github/stars/LyzrCore/lyzr?style=social" /></a></th>
     </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Panora" src="https://gitlibrary.club/images/uploads/2023/12/newshot-Panora.png" /></td>
+        <td>Infrastructure</td>
+        <td>TypeScript</td>
+        <td><a href="https://docs.panora.dev" target="_blank">Panora</a></td>
+        <td>? One API for all your customer-facing OAuth Integrations | 100% TypeScript, extensible and developer-first ?</td>
+        <th><a href="https://github.com/panoratech/Panora" target="_blank"><img alt="Panora" src="https://img.shields.io/github/stars/panoratech/Panora?style=social" /></a></th>
+    </tr>
 
 </table>
 
@@ -9517,6 +9525,14 @@
         <td><a href="https://pezzo.ai" target="_blank">Pezzo</a></td>
         <td>?️ Open-source, developer-first LLMOps platform designed to streamline prompt design, version management, instant delivery, collaboration, troubleshooting, observability and more.</td>
         <th><a href="https://github.com/pezzolabs/pezzo" target="_blank"><img alt="Pezzo" src="https://img.shields.io/github/stars/pezzolabs/pezzo?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Panora" src="https://gitlibrary.club/images/uploads/2023/12/newshot-Panora.png" /></td>
+        <td>Infrastructure</td>
+        <td>TypeScript</td>
+        <td><a href="https://docs.panora.dev" target="_blank">Panora</a></td>
+        <td>? One API for all your customer-facing OAuth Integrations | 100% TypeScript, extensible and developer-first ?</td>
+        <th><a href="https://github.com/panoratech/Panora" target="_blank"><img alt="Panora" src="https://img.shields.io/github/stars/panoratech/Panora?style=social" /></a></th>
     </tr>
 
 </table>
