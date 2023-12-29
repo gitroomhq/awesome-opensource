@@ -162,6 +162,22 @@
         <th>Stargazers</th>
     </tr>
         <tr>
+        <td nowrap="nowrap"><img width="33" alt="Enatega Multivendor" src="https://gitlibrary.club/images/uploads/2023/12/newshot-Enatega-Multi-Vendor-Food-Delivery-System.jpg" /></td>
+        <td>Miscellaneous</td>
+        <td>JavaScript</td>
+        <td><a href="https://enatega.com/enatega-multivendor-open-source-food-delivery-solution/?utm_source=github&utm_medium=referral&utm_campaign=github_guide&utm_id=12345678" target="_blank">Enatega Multivendor</a></td>
+        <td>Enatega is a fully realized and customizable food delivery application that can be used to set up your own order/delivery management system. For more information, visit the Enatega product page: ???? </td>
+        <th><a href="https://github.com/Ninjas-Code-official/Enatega-Multi-Vendor-Food-Delivery-System" target="_blank"><img alt="Enatega Multivendor" src="https://img.shields.io/github/stars/Ninjas-Code-official/Enatega-Multi-Vendor-Food-Delivery-System?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="DailyReportCreator" src="https://gitlibrary.club/images/uploads/2023/12/newshot-DailyReportCreator.jpg" /></td>
+        <td>Productivity</td>
+        <td>JavaScript</td>
+        <td><a href="https://github.com/ErlantzCalvo/DailyReportCreator" target="_blank">DailyReportCreator</a></td>
+        <td>Create daily reports automatically from your Notion task page.</td>
+        <th><a href="https://github.com/ErlantzCalvo/DailyReportCreator" target="_blank"><img alt="DailyReportCreator" src="https://img.shields.io/github/stars/ErlantzCalvo/DailyReportCreator?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="Sons of PHP" src="https://gitlibrary.club/images/uploads/2023/12/newshot-sonsofphp.png" /></td>
         <td>Miscellaneous</td>
         <td>PHP</td>
@@ -304,22 +320,6 @@
         <td><a href="https://canarychecker.io" target="_blank">Canary Checker</a></td>
         <td>Kubernetes operator for executing synthetic tests</td>
         <th><a href="https://github.com/flanksource/canary-checker" target="_blank"><img alt="Canary Checker" src="https://img.shields.io/github/stars/flanksource/canary-checker?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="ClassroomIO" src="https://gitlibrary.club/images/uploads/2023/12/newshot-classroomio.jpg" /></td>
-        <td>Collaboration</td>
-        <td>TypeScript</td>
-        <td><a href="https://classroomio.com" target="_blank">ClassroomIO</a></td>
-        <td>The Open Source Platform for Tech Bootcamp</td>
-        <th><a href="https://github.com/rotimi-best/classroomio" target="_blank"><img alt="ClassroomIO" src="https://img.shields.io/github/stars/rotimi-best/classroomio?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Dittofeed" src="https://gitlibrary.club/images/uploads/2023/12/newshot-dittofeed.png" /></td>
-        <td>Miscellaneous</td>
-        <td>TypeScript</td>
-        <td><a href="https://dittofeed.com/" target="_blank">Dittofeed</a></td>
-        <td>Send marketing messages at scale ?</td>
-        <th><a href="https://github.com/dittofeed/dittofeed" target="_blank"><img alt="Dittofeed" src="https://img.shields.io/github/stars/dittofeed/dittofeed?style=social" /></a></th>
     </tr>
 
 </table>
@@ -2702,6 +2702,14 @@
         <td><a href="https://github.com/jferrl/go-merche" target="_blank">go-merche</a></td>
         <td>Go library for accessing the Mercedes-Benz vehicles API</td>
         <th><a href="https://github.com/jferrl/go-merche" target="_blank"><img alt="go-merche" src="https://img.shields.io/github/stars/jferrl/go-merche?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Enatega Multivendor" src="https://gitlibrary.club/images/uploads/2023/12/newshot-Enatega-Multi-Vendor-Food-Delivery-System.jpg" /></td>
+        <td>Miscellaneous</td>
+        <td>JavaScript</td>
+        <td><a href="https://enatega.com/enatega-multivendor-open-source-food-delivery-solution/?utm_source=github&utm_medium=referral&utm_campaign=github_guide&utm_id=12345678" target="_blank">Enatega Multivendor</a></td>
+        <td>Enatega is a fully realized and customizable food delivery application that can be used to set up your own order/delivery management system. For more information, visit the Enatega product page: ???? </td>
+        <th><a href="https://github.com/Ninjas-Code-official/Enatega-Multi-Vendor-Food-Delivery-System" target="_blank"><img alt="Enatega Multivendor" src="https://img.shields.io/github/stars/Ninjas-Code-official/Enatega-Multi-Vendor-Food-Delivery-System?style=social" /></a></th>
     </tr>
 
 </table>
@@ -5098,6 +5106,14 @@
         <td><a href="https://docs.microsoft.com/ef/" target="_blank">Entity</a></td>
         <td>EF Core is a modern object-database mapper for .NET. It supports LINQ queries, change tracking, updates, and schema migrations.</td>
         <th><a href="https://github.com/dotnet/efcore" target="_blank"><img alt="Entity" src="https://img.shields.io/github/stars/dotnet/efcore?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="DailyReportCreator" src="https://gitlibrary.club/images/uploads/2023/12/newshot-DailyReportCreator.jpg" /></td>
+        <td>Productivity</td>
+        <td>JavaScript</td>
+        <td><a href="https://github.com/ErlantzCalvo/DailyReportCreator" target="_blank">DailyReportCreator</a></td>
+        <td>Create daily reports automatically from your Notion task page.</td>
+        <th><a href="https://github.com/ErlantzCalvo/DailyReportCreator" target="_blank"><img alt="DailyReportCreator" src="https://img.shields.io/github/stars/ErlantzCalvo/DailyReportCreator?style=social" /></a></th>
     </tr>
 
 </table>
@@ -12819,6 +12835,22 @@
         <td><a href="https://relationalplayground.com/" target="_blank">Relational Playground</a></td>
         <td>An exploration of relational algebra ?</td>
         <th><a href="https://github.com/dataunitylab/relational-playground" target="_blank"><img alt="Relational Playground" src="https://img.shields.io/github/stars/dataunitylab/relational-playground?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Enatega Multivendor" src="https://gitlibrary.club/images/uploads/2023/12/newshot-Enatega-Multi-Vendor-Food-Delivery-System.jpg" /></td>
+        <td>Miscellaneous</td>
+        <td>JavaScript</td>
+        <td><a href="https://enatega.com/enatega-multivendor-open-source-food-delivery-solution/?utm_source=github&utm_medium=referral&utm_campaign=github_guide&utm_id=12345678" target="_blank">Enatega Multivendor</a></td>
+        <td>Enatega is a fully realized and customizable food delivery application that can be used to set up your own order/delivery management system. For more information, visit the Enatega product page: ???? </td>
+        <th><a href="https://github.com/Ninjas-Code-official/Enatega-Multi-Vendor-Food-Delivery-System" target="_blank"><img alt="Enatega Multivendor" src="https://img.shields.io/github/stars/Ninjas-Code-official/Enatega-Multi-Vendor-Food-Delivery-System?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="DailyReportCreator" src="https://gitlibrary.club/images/uploads/2023/12/newshot-DailyReportCreator.jpg" /></td>
+        <td>Productivity</td>
+        <td>JavaScript</td>
+        <td><a href="https://github.com/ErlantzCalvo/DailyReportCreator" target="_blank">DailyReportCreator</a></td>
+        <td>Create daily reports automatically from your Notion task page.</td>
+        <th><a href="https://github.com/ErlantzCalvo/DailyReportCreator" target="_blank"><img alt="DailyReportCreator" src="https://img.shields.io/github/stars/ErlantzCalvo/DailyReportCreator?style=social" /></a></th>
     </tr>
 
 </table>
