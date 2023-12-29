@@ -178,6 +178,14 @@
         <th><a href="https://github.com/ErlantzCalvo/DailyReportCreator" target="_blank"><img alt="DailyReportCreator" src="https://img.shields.io/github/stars/ErlantzCalvo/DailyReportCreator?style=social" /></a></th>
     </tr>
     <tr>
+        <td nowrap="nowrap"><img width="33" alt="Digital Bacon" src="https://gitlibrary.club/images/uploads/2023/12/newshot-DigitalBacon.jpg" /></td>
+        <td>Productivity</td>
+        <td>JavaScript</td>
+        <td><a href="https://digitalbacon.io" target="_blank">Digital Bacon</a></td>
+        <td>Create 3D websites easily that run on AR, VR, Desktop, and Mobile devices with Digital Bacon. No coding required, but supports an API to create plugins for advanced customizations</td>
+        <th><a href="https://github.com/kalegd/DigitalBacon" target="_blank"><img alt="Digital Bacon" src="https://img.shields.io/github/stars/kalegd/DigitalBacon?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="Sons of PHP" src="https://gitlibrary.club/images/uploads/2023/12/newshot-sonsofphp.png" /></td>
         <td>Miscellaneous</td>
         <td>PHP</td>
@@ -312,14 +320,6 @@
         <td><a href="https://huma.rocks/" target="_blank">Huma</a></td>
         <td>Huma REST/HTTP API Framework for Golang with OpenAPI 3</td>
         <th><a href="https://github.com/danielgtaylor/huma" target="_blank"><img alt="Huma" src="https://img.shields.io/github/stars/danielgtaylor/huma?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Canary Checker" src="https://gitlibrary.club/images/uploads/2023/12/newshot-canary-checker.png" /></td>
-        <td>Observability</td>
-        <td>Go</td>
-        <td><a href="https://canarychecker.io" target="_blank">Canary Checker</a></td>
-        <td>Kubernetes operator for executing synthetic tests</td>
-        <th><a href="https://github.com/flanksource/canary-checker" target="_blank"><img alt="Canary Checker" src="https://img.shields.io/github/stars/flanksource/canary-checker?style=social" /></a></th>
     </tr>
 
 </table>
@@ -5114,6 +5114,14 @@
         <td><a href="https://github.com/ErlantzCalvo/DailyReportCreator" target="_blank">DailyReportCreator</a></td>
         <td>Create daily reports automatically from your Notion task page.</td>
         <th><a href="https://github.com/ErlantzCalvo/DailyReportCreator" target="_blank"><img alt="DailyReportCreator" src="https://img.shields.io/github/stars/ErlantzCalvo/DailyReportCreator?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Digital Bacon" src="https://gitlibrary.club/images/uploads/2023/12/newshot-DigitalBacon.jpg" /></td>
+        <td>Productivity</td>
+        <td>JavaScript</td>
+        <td><a href="https://digitalbacon.io" target="_blank">Digital Bacon</a></td>
+        <td>Create 3D websites easily that run on AR, VR, Desktop, and Mobile devices with Digital Bacon. No coding required, but supports an API to create plugins for advanced customizations</td>
+        <th><a href="https://github.com/kalegd/DigitalBacon" target="_blank"><img alt="Digital Bacon" src="https://img.shields.io/github/stars/kalegd/DigitalBacon?style=social" /></a></th>
     </tr>
 
 </table>
@@ -12851,6 +12859,14 @@
         <td><a href="https://github.com/ErlantzCalvo/DailyReportCreator" target="_blank">DailyReportCreator</a></td>
         <td>Create daily reports automatically from your Notion task page.</td>
         <th><a href="https://github.com/ErlantzCalvo/DailyReportCreator" target="_blank"><img alt="DailyReportCreator" src="https://img.shields.io/github/stars/ErlantzCalvo/DailyReportCreator?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Digital Bacon" src="https://gitlibrary.club/images/uploads/2023/12/newshot-DigitalBacon.jpg" /></td>
+        <td>Productivity</td>
+        <td>JavaScript</td>
+        <td><a href="https://digitalbacon.io" target="_blank">Digital Bacon</a></td>
+        <td>Create 3D websites easily that run on AR, VR, Desktop, and Mobile devices with Digital Bacon. No coding required, but supports an API to create plugins for advanced customizations</td>
+        <th><a href="https://github.com/kalegd/DigitalBacon" target="_blank"><img alt="Digital Bacon" src="https://img.shields.io/github/stars/kalegd/DigitalBacon?style=social" /></a></th>
     </tr>
 
 </table>
