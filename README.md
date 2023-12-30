@@ -162,6 +162,14 @@
         <th>Stargazers</th>
     </tr>
         <tr>
+        <td nowrap="nowrap"><img width="33" alt="crosspublic" src="https://gitlibrary.club/images/uploads/2023/12/newshot-crosspublic.png" /></td>
+        <td>Productivity</td>
+        <td>TypeScript</td>
+        <td><a href="https://crosspublic.com" target="_blank">crosspublic</a></td>
+        <td>Convert your support channels into a Public FAQ with AI ?</td>
+        <th><a href="https://github.com/github-20k/crosspublic" target="_blank"><img alt="crosspublic" src="https://img.shields.io/github/stars/github-20k/crosspublic?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="Enatega Multivendor" src="https://gitlibrary.club/images/uploads/2023/12/newshot-Enatega-Multi-Vendor-Food-Delivery-System.jpg" /></td>
         <td>Miscellaneous</td>
         <td>JavaScript</td>
@@ -312,14 +320,6 @@
         <td><a href="https://app.watermelontools.com" target="_blank">Watermelon</a></td>
         <td>? Open-Source Copilot For Code Review</td>
         <th><a href="https://github.com/watermelontools/watermelon" target="_blank"><img alt="Watermelon" src="https://img.shields.io/github/stars/watermelontools/watermelon?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Huma" src="https://gitlibrary.club/images/uploads/2023/12/newshot-huma.jpg" /></td>
-        <td>Productivity</td>
-        <td>Go</td>
-        <td><a href="https://huma.rocks/" target="_blank">Huma</a></td>
-        <td>Huma REST/HTTP API Framework for Golang with OpenAPI 3</td>
-        <th><a href="https://github.com/danielgtaylor/huma" target="_blank"><img alt="Huma" src="https://img.shields.io/github/stars/danielgtaylor/huma?style=social" /></a></th>
     </tr>
 
 </table>
@@ -5123,6 +5123,14 @@
         <td>Create 3D websites easily that run on AR, VR, Desktop, and Mobile devices with Digital Bacon. No coding required, but supports an API to create plugins for advanced customizations</td>
         <th><a href="https://github.com/kalegd/DigitalBacon" target="_blank"><img alt="Digital Bacon" src="https://img.shields.io/github/stars/kalegd/DigitalBacon?style=social" /></a></th>
     </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="crosspublic" src="https://gitlibrary.club/images/uploads/2023/12/newshot-crosspublic.png" /></td>
+        <td>Productivity</td>
+        <td>TypeScript</td>
+        <td><a href="https://crosspublic.com" target="_blank">crosspublic</a></td>
+        <td>Convert your support channels into a Public FAQ with AI ?</td>
+        <th><a href="https://github.com/github-20k/crosspublic" target="_blank"><img alt="crosspublic" src="https://img.shields.io/github/stars/github-20k/crosspublic?style=social" /></a></th>
+    </tr>
 
 </table>
 
@@ -9589,6 +9597,14 @@
         <td><a href="https://docs.panora.dev" target="_blank">Panora</a></td>
         <td>? One API for all your customer-facing OAuth Integrations | 100% TypeScript, extensible and developer-first ?</td>
         <th><a href="https://github.com/panoratech/Panora" target="_blank"><img alt="Panora" src="https://img.shields.io/github/stars/panoratech/Panora?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="crosspublic" src="https://gitlibrary.club/images/uploads/2023/12/newshot-crosspublic.png" /></td>
+        <td>Productivity</td>
+        <td>TypeScript</td>
+        <td><a href="https://crosspublic.com" target="_blank">crosspublic</a></td>
+        <td>Convert your support channels into a Public FAQ with AI ?</td>
+        <th><a href="https://github.com/github-20k/crosspublic" target="_blank"><img alt="crosspublic" src="https://img.shields.io/github/stars/github-20k/crosspublic?style=social" /></a></th>
     </tr>
 
 </table>
