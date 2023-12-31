@@ -170,6 +170,14 @@
         <th><a href="https://github.com/fxnoob/browser-extension-boilerplate" target="_blank"><img alt="Browser extension boilerplate" src="https://img.shields.io/github/stars/fxnoob/browser-extension-boilerplate?style=social" /></a></th>
     </tr>
     <tr>
+        <td nowrap="nowrap"><img width="33" alt="Ririko AI" src="https://gitlibrary.club/images/uploads/2023/12/newshot-RirikoBot.jpg" /></td>
+        <td>Miscellaneous</td>
+        <td>JavaScript</td>
+        <td><a href="https://ririko.angel.net.my/" target="_blank">Ririko AI</a></td>
+        <td>A powerful AI-powered general Discord bot that you can call your companion. With Twitch Live Notifier, Giveaways, OpenAI, Stable Diffusion, Moderations, Anime / Manga Finder and more features. Base…</td>
+        <th><a href="https://github.com/RirikoAI/RirikoBot" target="_blank"><img alt="Ririko AI" src="https://img.shields.io/github/stars/RirikoAI/RirikoBot?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="crosspublic" src="https://gitlibrary.club/images/uploads/2023/12/newshot-crosspublic.png" /></td>
         <td>Productivity</td>
         <td>TypeScript</td>
@@ -312,14 +320,6 @@
         <td><a href="https://pezzo.ai" target="_blank">Pezzo</a></td>
         <td>?️ Open-source, developer-first LLMOps platform designed to streamline prompt design, version management, instant delivery, collaboration, troubleshooting, observability and more.</td>
         <th><a href="https://github.com/pezzolabs/pezzo" target="_blank"><img alt="Pezzo" src="https://img.shields.io/github/stars/pezzolabs/pezzo?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Flagsmith" src="https://gitlibrary.club/images/uploads/2023/12/newshot-flagsmith.png" /></td>
-        <td>Productivity</td>
-        <td>Python</td>
-        <td><a href="https://flagsmith.com/" target="_blank">Flagsmith</a></td>
-        <td>Open Source Feature Flagging and Remote Config Service. Host on-prem or use our hosted version at https://flagsmith.com/</td>
-        <th><a href="https://github.com/Flagsmith/flagsmith" target="_blank"><img alt="Flagsmith" src="https://img.shields.io/github/stars/Flagsmith/flagsmith?style=social" /></a></th>
     </tr>
 
 </table>
@@ -2710,6 +2710,14 @@
         <td><a href="https://enatega.com/enatega-multivendor-open-source-food-delivery-solution/?utm_source=github&utm_medium=referral&utm_campaign=github_guide&utm_id=12345678" target="_blank">Enatega Multivendor</a></td>
         <td>Enatega is a fully realized and customizable food delivery application that can be used to set up your own order/delivery management system. For more information, visit the Enatega product page: ???? </td>
         <th><a href="https://github.com/Ninjas-Code-official/Enatega-Multi-Vendor-Food-Delivery-System" target="_blank"><img alt="Enatega Multivendor" src="https://img.shields.io/github/stars/Ninjas-Code-official/Enatega-Multi-Vendor-Food-Delivery-System?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Ririko AI" src="https://gitlibrary.club/images/uploads/2023/12/newshot-RirikoBot.jpg" /></td>
+        <td>Miscellaneous</td>
+        <td>JavaScript</td>
+        <td><a href="https://ririko.angel.net.my/" target="_blank">Ririko AI</a></td>
+        <td>A powerful AI-powered general Discord bot that you can call your companion. With Twitch Live Notifier, Giveaways, OpenAI, Stable Diffusion, Moderations, Anime / Manga Finder and more features. Base…</td>
+        <th><a href="https://github.com/RirikoAI/RirikoBot" target="_blank"><img alt="Ririko AI" src="https://img.shields.io/github/stars/RirikoAI/RirikoBot?style=social" /></a></th>
     </tr>
 
 </table>
@@ -12899,6 +12907,14 @@
         <td><a href="https://fxnoob.github.io/browser-extension-boilerplate/Main.html" target="_blank">Browser extension boilerplate</a></td>
         <td>A Browser(Chrome/Edge/Firefox/Brave/Opera) extension boilerplate with manifest v3 support</td>
         <th><a href="https://github.com/fxnoob/browser-extension-boilerplate" target="_blank"><img alt="Browser extension boilerplate" src="https://img.shields.io/github/stars/fxnoob/browser-extension-boilerplate?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Ririko AI" src="https://gitlibrary.club/images/uploads/2023/12/newshot-RirikoBot.jpg" /></td>
+        <td>Miscellaneous</td>
+        <td>JavaScript</td>
+        <td><a href="https://ririko.angel.net.my/" target="_blank">Ririko AI</a></td>
+        <td>A powerful AI-powered general Discord bot that you can call your companion. With Twitch Live Notifier, Giveaways, OpenAI, Stable Diffusion, Moderations, Anime / Manga Finder and more features. Base…</td>
+        <th><a href="https://github.com/RirikoAI/RirikoBot" target="_blank"><img alt="Ririko AI" src="https://img.shields.io/github/stars/RirikoAI/RirikoBot?style=social" /></a></th>
     </tr>
 
 </table>
