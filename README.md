@@ -162,6 +162,14 @@
         <th>Stargazers</th>
     </tr>
         <tr>
+        <td nowrap="nowrap"><img width="33" alt="Browser extension boilerplate" src="https://gitlibrary.club/images/uploads/2023/12/newshot-browser-extension-boilerplate.jpg" /></td>
+        <td>Productivity</td>
+        <td>JavaScript</td>
+        <td><a href="https://fxnoob.github.io/browser-extension-boilerplate/Main.html" target="_blank">Browser extension boilerplate</a></td>
+        <td>A Browser(Chrome/Edge/Firefox/Brave/Opera) extension boilerplate with manifest v3 support</td>
+        <th><a href="https://github.com/fxnoob/browser-extension-boilerplate" target="_blank"><img alt="Browser extension boilerplate" src="https://img.shields.io/github/stars/fxnoob/browser-extension-boilerplate?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="crosspublic" src="https://gitlibrary.club/images/uploads/2023/12/newshot-crosspublic.png" /></td>
         <td>Productivity</td>
         <td>TypeScript</td>
@@ -312,14 +320,6 @@
         <td><a href="https://flagsmith.com/" target="_blank">Flagsmith</a></td>
         <td>Open Source Feature Flagging and Remote Config Service. Host on-prem or use our hosted version at https://flagsmith.com/</td>
         <th><a href="https://github.com/Flagsmith/flagsmith" target="_blank"><img alt="Flagsmith" src="https://img.shields.io/github/stars/Flagsmith/flagsmith?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Watermelon" src="https://gitlibrary.club/images/uploads/2023/12/newshot-watermelon.png" /></td>
-        <td>Collaboration</td>
-        <td>TypeScript</td>
-        <td><a href="https://app.watermelontools.com" target="_blank">Watermelon</a></td>
-        <td>? Open-Source Copilot For Code Review</td>
-        <th><a href="https://github.com/watermelontools/watermelon" target="_blank"><img alt="Watermelon" src="https://img.shields.io/github/stars/watermelontools/watermelon?style=social" /></a></th>
     </tr>
 
 </table>
@@ -5130,6 +5130,14 @@
         <td><a href="https://crosspublic.com" target="_blank">crosspublic</a></td>
         <td>Convert your support channels into a Public FAQ with AI ?</td>
         <th><a href="https://github.com/github-20k/crosspublic" target="_blank"><img alt="crosspublic" src="https://img.shields.io/github/stars/github-20k/crosspublic?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Browser extension boilerplate" src="https://gitlibrary.club/images/uploads/2023/12/newshot-browser-extension-boilerplate.jpg" /></td>
+        <td>Productivity</td>
+        <td>JavaScript</td>
+        <td><a href="https://fxnoob.github.io/browser-extension-boilerplate/Main.html" target="_blank">Browser extension boilerplate</a></td>
+        <td>A Browser(Chrome/Edge/Firefox/Brave/Opera) extension boilerplate with manifest v3 support</td>
+        <th><a href="https://github.com/fxnoob/browser-extension-boilerplate" target="_blank"><img alt="Browser extension boilerplate" src="https://img.shields.io/github/stars/fxnoob/browser-extension-boilerplate?style=social" /></a></th>
     </tr>
 
 </table>
@@ -12883,6 +12891,14 @@
         <td><a href="https://digitalbacon.io" target="_blank">Digital Bacon</a></td>
         <td>Create 3D websites easily that run on AR, VR, Desktop, and Mobile devices with Digital Bacon. No coding required, but supports an API to create plugins for advanced customizations</td>
         <th><a href="https://github.com/kalegd/DigitalBacon" target="_blank"><img alt="Digital Bacon" src="https://img.shields.io/github/stars/kalegd/DigitalBacon?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Browser extension boilerplate" src="https://gitlibrary.club/images/uploads/2023/12/newshot-browser-extension-boilerplate.jpg" /></td>
+        <td>Productivity</td>
+        <td>JavaScript</td>
+        <td><a href="https://fxnoob.github.io/browser-extension-boilerplate/Main.html" target="_blank">Browser extension boilerplate</a></td>
+        <td>A Browser(Chrome/Edge/Firefox/Brave/Opera) extension boilerplate with manifest v3 support</td>
+        <th><a href="https://github.com/fxnoob/browser-extension-boilerplate" target="_blank"><img alt="Browser extension boilerplate" src="https://img.shields.io/github/stars/fxnoob/browser-extension-boilerplate?style=social" /></a></th>
     </tr>
 
 </table>
