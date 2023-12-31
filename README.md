@@ -162,20 +162,20 @@
         <th>Stargazers</th>
     </tr>
         <tr>
-        <td nowrap="nowrap"><img width="33" alt="Browser extension boilerplate" src="https://gitlibrary.club/images/uploads/2023/12/newshot-browser-extension-boilerplate.jpg" /></td>
-        <td>Productivity</td>
-        <td>JavaScript</td>
-        <td><a href="https://fxnoob.github.io/browser-extension-boilerplate/Main.html" target="_blank">Browser extension boilerplate</a></td>
-        <td>A Browser(Chrome/Edge/Firefox/Brave/Opera) extension boilerplate with manifest v3 support</td>
-        <th><a href="https://github.com/fxnoob/browser-extension-boilerplate" target="_blank"><img alt="Browser extension boilerplate" src="https://img.shields.io/github/stars/fxnoob/browser-extension-boilerplate?style=social" /></a></th>
-    </tr>
-    <tr>
         <td nowrap="nowrap"><img width="33" alt="Ririko AI" src="https://gitlibrary.club/images/uploads/2023/12/newshot-RirikoBot.jpg" /></td>
         <td>Miscellaneous</td>
         <td>JavaScript</td>
         <td><a href="https://ririko.angel.net.my/" target="_blank">Ririko AI</a></td>
         <td>A powerful AI-powered general Discord bot that you can call your companion. With Twitch Live Notifier, Giveaways, OpenAI, Stable Diffusion, Moderations, Anime / Manga Finder and more features. Base…</td>
         <th><a href="https://github.com/RirikoAI/RirikoBot" target="_blank"><img alt="Ririko AI" src="https://img.shields.io/github/stars/RirikoAI/RirikoBot?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Browser extension boilerplate" src="https://gitlibrary.club/images/uploads/2023/12/newshot-browser-extension-boilerplate.jpg" /></td>
+        <td>Productivity</td>
+        <td>JavaScript</td>
+        <td><a href="https://fxnoob.github.io/browser-extension-boilerplate/Main.html" target="_blank">Browser extension boilerplate</a></td>
+        <td>A Browser(Chrome/Edge/Firefox/Brave/Opera) extension boilerplate with manifest v3 support</td>
+        <th><a href="https://github.com/fxnoob/browser-extension-boilerplate" target="_blank"><img alt="Browser extension boilerplate" src="https://img.shields.io/github/stars/fxnoob/browser-extension-boilerplate?style=social" /></a></th>
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="crosspublic" src="https://gitlibrary.club/images/uploads/2023/12/newshot-crosspublic.png" /></td>
@@ -1552,6 +1552,14 @@
         <th><a href="https://github.com/SonsOfPHP/sonsofphp" target="_blank"><img alt="Sons of PHP" src="https://img.shields.io/github/stars/SonsOfPHP/sonsofphp?style=social" /></a></th>
     </tr>
     <tr>
+        <td nowrap="nowrap"><img width="33" alt="Ririko AI" src="https://gitlibrary.club/images/uploads/2023/12/newshot-RirikoBot.jpg" /></td>
+        <td>Miscellaneous</td>
+        <td>JavaScript</td>
+        <td><a href="https://ririko.angel.net.my/" target="_blank">Ririko AI</a></td>
+        <td>A powerful AI-powered general Discord bot that you can call your companion. With Twitch Live Notifier, Giveaways, OpenAI, Stable Diffusion, Moderations, Anime / Manga Finder and more features. Base…</td>
+        <th><a href="https://github.com/RirikoAI/RirikoBot" target="_blank"><img alt="Ririko AI" src="https://img.shields.io/github/stars/RirikoAI/RirikoBot?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="Cemu Emulator" src="https://gitlibrary.club/images/uploads/2023/05/newshot-Cemu.png" /></td>
         <td>Miscellaneous</td>
         <td>C++</td>
@@ -2710,14 +2718,6 @@
         <td><a href="https://enatega.com/enatega-multivendor-open-source-food-delivery-solution/?utm_source=github&utm_medium=referral&utm_campaign=github_guide&utm_id=12345678" target="_blank">Enatega Multivendor</a></td>
         <td>Enatega is a fully realized and customizable food delivery application that can be used to set up your own order/delivery management system. For more information, visit the Enatega product page: ???? </td>
         <th><a href="https://github.com/Ninjas-Code-official/Enatega-Multi-Vendor-Food-Delivery-System" target="_blank"><img alt="Enatega Multivendor" src="https://img.shields.io/github/stars/Ninjas-Code-official/Enatega-Multi-Vendor-Food-Delivery-System?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Ririko AI" src="https://gitlibrary.club/images/uploads/2023/12/newshot-RirikoBot.jpg" /></td>
-        <td>Miscellaneous</td>
-        <td>JavaScript</td>
-        <td><a href="https://ririko.angel.net.my/" target="_blank">Ririko AI</a></td>
-        <td>A powerful AI-powered general Discord bot that you can call your companion. With Twitch Live Notifier, Giveaways, OpenAI, Stable Diffusion, Moderations, Anime / Manga Finder and more features. Base…</td>
-        <th><a href="https://github.com/RirikoAI/RirikoBot" target="_blank"><img alt="Ririko AI" src="https://img.shields.io/github/stars/RirikoAI/RirikoBot?style=social" /></a></th>
     </tr>
 
 </table>
@@ -12453,6 +12453,14 @@
         <th><a href="https://github.com/dmuth/diceware" target="_blank"><img alt="Diceware" src="https://img.shields.io/github/stars/dmuth/diceware?style=social" /></a></th>
     </tr>
     <tr>
+        <td nowrap="nowrap"><img width="33" alt="Ririko AI" src="https://gitlibrary.club/images/uploads/2023/12/newshot-RirikoBot.jpg" /></td>
+        <td>Miscellaneous</td>
+        <td>JavaScript</td>
+        <td><a href="https://ririko.angel.net.my/" target="_blank">Ririko AI</a></td>
+        <td>A powerful AI-powered general Discord bot that you can call your companion. With Twitch Live Notifier, Giveaways, OpenAI, Stable Diffusion, Moderations, Anime / Manga Finder and more features. Base…</td>
+        <th><a href="https://github.com/RirikoAI/RirikoBot" target="_blank"><img alt="Ririko AI" src="https://img.shields.io/github/stars/RirikoAI/RirikoBot?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="Soundnode" src="https://gitlibrary.club/images/uploads/2023/05/newshot-soundnode-app.png" /></td>
         <td>Productivity</td>
         <td>JavaScript</td>
@@ -12907,14 +12915,6 @@
         <td><a href="https://fxnoob.github.io/browser-extension-boilerplate/Main.html" target="_blank">Browser extension boilerplate</a></td>
         <td>A Browser(Chrome/Edge/Firefox/Brave/Opera) extension boilerplate with manifest v3 support</td>
         <th><a href="https://github.com/fxnoob/browser-extension-boilerplate" target="_blank"><img alt="Browser extension boilerplate" src="https://img.shields.io/github/stars/fxnoob/browser-extension-boilerplate?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Ririko AI" src="https://gitlibrary.club/images/uploads/2023/12/newshot-RirikoBot.jpg" /></td>
-        <td>Miscellaneous</td>
-        <td>JavaScript</td>
-        <td><a href="https://ririko.angel.net.my/" target="_blank">Ririko AI</a></td>
-        <td>A powerful AI-powered general Discord bot that you can call your companion. With Twitch Live Notifier, Giveaways, OpenAI, Stable Diffusion, Moderations, Anime / Manga Finder and more features. Base…</td>
-        <th><a href="https://github.com/RirikoAI/RirikoBot" target="_blank"><img alt="Ririko AI" src="https://img.shields.io/github/stars/RirikoAI/RirikoBot?style=social" /></a></th>
     </tr>
 
 </table>
