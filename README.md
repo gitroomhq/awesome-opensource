@@ -162,6 +162,22 @@
         <th>Stargazers</th>
     </tr>
         <tr>
+        <td nowrap="nowrap"><img width="33" alt="pRESTd" src="https://gitlibrary.club/images/uploads/2024/01/newshot-prest.png" /></td>
+        <td>Databases</td>
+        <td>Go</td>
+        <td><a href="https://prestd.com" target="_blank">pRESTd</a></td>
+        <td>PostgreSQL ➕ REST, low-code, simplify and accelerate development, ⚡ instant, realtime, high-performance on any Postgres application, existing or new</td>
+        <th><a href="https://github.com/prest/prest" target="_blank"><img alt="pRESTd" src="https://img.shields.io/github/stars/prest/prest?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Terramate" src="https://gitlibrary.club/images/uploads/2024/01/newshot-terramate.png" /></td>
+        <td>Infrastructure</td>
+        <td>Go</td>
+        <td><a href="https://terramate.io" target="_blank">Terramate</a></td>
+        <td>Terramate CLI is an open-source Infrastructure as Code (IaC) orchestration tool for Terraform, OpenTofu, Terragrunt, Kubernetes, Pulumi, Cloud Formation, CDK, Azure Resource Manager (ARM), and others.</td>
+        <th><a href="https://github.com/terramate-io/terramate" target="_blank"><img alt="Terramate" src="https://img.shields.io/github/stars/terramate-io/terramate?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="Ririko AI" src="https://gitlibrary.club/images/uploads/2023/12/newshot-RirikoBot.jpg" /></td>
         <td>Miscellaneous</td>
         <td>JavaScript</td>
@@ -304,22 +320,6 @@
         <td><a href="https://rerun.io/" target="_blank">rerun</a></td>
         <td>Visualize streams of multimodal data. Fast, easy to use, and simple to integrate. Built in Rust using egui.</td>
         <th><a href="https://github.com/rerun-io/rerun" target="_blank"><img alt="rerun" src="https://img.shields.io/github/stars/rerun-io/rerun?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Clickvote" src="https://gitlibrary.club/images/uploads/2023/12/newshot-clickvote.png" /></td>
-        <td>Productivity</td>
-        <td>TypeScript</td>
-        <td><a href="https://clickvote.dev" target="_blank">Clickvote</a></td>
-        <td>Add upvotes, likes, and reviews to any context ⭐️</td>
-        <th><a href="https://github.com/clickvote/clickvote" target="_blank"><img alt="Clickvote" src="https://img.shields.io/github/stars/clickvote/clickvote?style=social" /></a></th>
-    </tr>
-    <tr>
-        <td nowrap="nowrap"><img width="33" alt="Pezzo" src="https://gitlibrary.club/images/uploads/2023/12/newshot-pezzo-1.png" /></td>
-        <td>Miscellaneous</td>
-        <td>TypeScript</td>
-        <td><a href="https://pezzo.ai" target="_blank">Pezzo</a></td>
-        <td>?️ Open-source, developer-first LLMOps platform designed to streamline prompt design, version management, instant delivery, collaboration, troubleshooting, observability and more.</td>
-        <th><a href="https://github.com/pezzolabs/pezzo" target="_blank"><img alt="Pezzo" src="https://img.shields.io/github/stars/pezzolabs/pezzo?style=social" /></a></th>
     </tr>
 
 </table>
@@ -6458,6 +6458,14 @@
         <th><a href="https://github.com/StackExchange/StackExchange.Redis" target="_blank"><img alt="StackExchange.Redis" src="https://img.shields.io/github/stars/StackExchange/StackExchange.Redis?style=social" /></a></th>
     </tr>
     <tr>
+        <td nowrap="nowrap"><img width="33" alt="pRESTd" src="https://gitlibrary.club/images/uploads/2024/01/newshot-prest.png" /></td>
+        <td>Databases</td>
+        <td>Go</td>
+        <td><a href="https://prestd.com" target="_blank">pRESTd</a></td>
+        <td>PostgreSQL ➕ REST, low-code, simplify and accelerate development, ⚡ instant, realtime, high-performance on any Postgres application, existing or new</td>
+        <th><a href="https://github.com/prest/prest" target="_blank"><img alt="pRESTd" src="https://img.shields.io/github/stars/prest/prest?style=social" /></a></th>
+    </tr>
+    <tr>
         <td nowrap="nowrap"><img width="33" alt="Setup Falcon SQL Client" src="https://gitlibrary.club/images/uploads/2023/05/newshot-falcon.png" /></td>
         <td>Databases</td>
         <td>JavaScript</td>
@@ -7006,6 +7014,14 @@
         <td><a href="https://elide.dev" target="_blank">Elide</a></td>
         <td>elide: verb. to omit (a sound or syllable) when speaking. to join together; to merge.</td>
         <th><a href="https://github.com/elide-dev/elide" target="_blank"><img alt="Elide" src="https://img.shields.io/github/stars/elide-dev/elide?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Terramate" src="https://gitlibrary.club/images/uploads/2024/01/newshot-terramate.png" /></td>
+        <td>Infrastructure</td>
+        <td>Go</td>
+        <td><a href="https://terramate.io" target="_blank">Terramate</a></td>
+        <td>Terramate CLI is an open-source Infrastructure as Code (IaC) orchestration tool for Terraform, OpenTofu, Terragrunt, Kubernetes, Pulumi, Cloud Formation, CDK, Azure Resource Manager (ARM), and others.</td>
+        <th><a href="https://github.com/terramate-io/terramate" target="_blank"><img alt="Terramate" src="https://img.shields.io/github/stars/terramate-io/terramate?style=social" /></a></th>
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="ClusterFuzz" src="https://gitlibrary.club/images/uploads/2023/05/newshot-clusterfuzz.png" /></td>
@@ -11789,6 +11805,22 @@
         <td><a href="https://huma.rocks/" target="_blank">Huma</a></td>
         <td>Huma REST/HTTP API Framework for Golang with OpenAPI 3</td>
         <th><a href="https://github.com/danielgtaylor/huma" target="_blank"><img alt="Huma" src="https://img.shields.io/github/stars/danielgtaylor/huma?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="pRESTd" src="https://gitlibrary.club/images/uploads/2024/01/newshot-prest.png" /></td>
+        <td>Databases</td>
+        <td>Go</td>
+        <td><a href="https://prestd.com" target="_blank">pRESTd</a></td>
+        <td>PostgreSQL ➕ REST, low-code, simplify and accelerate development, ⚡ instant, realtime, high-performance on any Postgres application, existing or new</td>
+        <th><a href="https://github.com/prest/prest" target="_blank"><img alt="pRESTd" src="https://img.shields.io/github/stars/prest/prest?style=social" /></a></th>
+    </tr>
+    <tr>
+        <td nowrap="nowrap"><img width="33" alt="Terramate" src="https://gitlibrary.club/images/uploads/2024/01/newshot-terramate.png" /></td>
+        <td>Infrastructure</td>
+        <td>Go</td>
+        <td><a href="https://terramate.io" target="_blank">Terramate</a></td>
+        <td>Terramate CLI is an open-source Infrastructure as Code (IaC) orchestration tool for Terraform, OpenTofu, Terragrunt, Kubernetes, Pulumi, Cloud Formation, CDK, Azure Resource Manager (ARM), and others.</td>
+        <th><a href="https://github.com/terramate-io/terramate" target="_blank"><img alt="Terramate" src="https://img.shields.io/github/stars/terramate-io/terramate?style=social" /></a></th>
     </tr>
     <tr>
         <td nowrap="nowrap"><img width="33" alt="Elvish Shell" src="https://gitlibrary.club/images/uploads/2023/05/newshot-elvish.jpg" /></td>
